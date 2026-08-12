@@ -21,7 +21,8 @@
             "de": "Stadtmuseum Novalja & Aquädukt",
             "hu": "Novalja Városi Múzeum és Akvadukt",
             "ro": "Muzeul Orașului Novalja și Aveductul",
-            "en": "Novalja City Museum & Aqueduct"
+            "en": "Novalja City Museum & Aqueduct",
+            "hr": "Gradski muzej Novalja & Akvedukt"
           },
           "coords": [
             14.881,
@@ -37,7 +38,7 @@
             "hu": "Az ókori római alagút bejárata közvetlenül a múzeum pincéjében található.",
             "ro": "Intrarea în tunelul roman antic se află direct în subsolul muzeului.",
             "en": "The entrance to the ancient Roman tunnel is located right in the museum's basement.",
-            "hr": "Ulaz u antički rimski tunel nalazi se u podrumu samog muzeja."
+            "hr": "Ulaz u drevni rimski tunel nalazi se upravo u podrumu muzeja."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Kirche der Muttergottes vom Rosenkranz",
             "hu": "Rózsafüzér Királynője templom",
             "ro": "Biserica Maicii Domnului a Rozariului",
-            "en": "Church of the Mother of God of the Rosary"
+            "en": "Church of the Mother of God of the Rosary",
+            "hr": "Crkva Gospe od Krunice"
           },
           "coords": [
             14.883,
@@ -61,7 +63,7 @@
             "hu": "Csodálja meg a 4. századi mozaikokat az üvegpadló alatt.",
             "ro": "Admirați mozaicurile din secolul al IV-lea sub podeaua de sticlă.",
             "en": "Admire the 4th-century mosaics visible under the glass floor.",
-            "hr": "Divite se mozaicima iz 4. stoljeća vidljivim ispod staklenog poda."
+            "hr": "Divite se mozaicima iz 4. stoljeća vidljivim pod staklenim podom."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Stomorica-Sammlung",
             "hu": "Stomorica-gyűjtemény",
             "ro": "Colecția Stomorica",
-            "en": "Stomorica Collection"
+            "en": "Stomorica Collection",
+            "hr": "Stomoričina zbirka"
           },
           "coords": [
             14.884,
@@ -85,7 +88,7 @@
             "hu": "Értékes régészeti gyűjtemény közvetlenül a régi bazilika mellett.",
             "ro": "O colecție arheologică valoroasă chiar lângă vechea basilică.",
             "en": "A valuable archaeological collection located right next to the old basilica.",
-            "hr": "Vrijedna arheološka zbirka smještena tik uz staru baziliku."
+            "hr": "Vrijedna arheološka zbirka smještena odmah do stare bazilike."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Kirche der Heiligen Katharina",
             "hu": "Szent Katalin-templom",
             "ro": "Biserica Sfânta Ecaterina",
-            "en": "Church of Saint Catherine"
+            "en": "Church of Saint Catherine",
+            "hr": "Crkva sv. Katarine"
           },
           "coords": [
             14.882,
@@ -117,7 +121,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the Center"
+            "en": "Lunch in the Center",
+            "hr": "Ručak u centru"
           },
           "coords": [
             14.884,
@@ -141,7 +146,8 @@
             "de": "Strand Straško",
             "hu": "Straško strand",
             "ro": "Plaja Straško",
-            "en": "Straško Beach"
+            "en": "Straško Beach",
+            "hr": "Plaža Straško"
           },
           "coords": [
             14.87,
@@ -157,7 +163,7 @@
             "hu": "Ez a kiterjedt kavicsos strand bőséges természetes árnyékot kínál a fenyők alatt.",
             "ro": "Această plajă întinsă cu pietriș oferă multă umbră naturală sub pini.",
             "en": "This expansive pebble beach offers plenty of natural shade under pine trees.",
-            "hr": "Ova prostrana šljunčana plaža nudi obilje prirodnog hlada pod borovima."
+            "hr": "Ova prostrana šljunčana plaža nudi mnogo prirodne hladovine pod borovima."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "A reggel időutazással indul a Városi Múzeumban, ahol megcsodálhatja az ókori római akvaduktot. Ezután a sikátorokon át az óváros történelmi templomaihoz sétálhat. Az ebédet a kikötőben, helyi különlegességek társaságában töltheti. A délutánt pihenéssel töltse a Straško strandon, majd zárja a napot egy koktéllal a tengerparti sétányon.",
         "ro": "Dimineața începe cu o călătorie în timp la Muzeul Orașului, unde puteți admira apeductul roman antic. Apoi, plimbați-vă pe străduțe către bisericile istorice din orașul vechi. Timpul prânzului îl puteți petrece savurând specialități regionale în port. După-amiaza relaxați-vă pe plaja Straško, înainte de a încheia ziua cu un cocktail pe faleza de la malul mării.",
         "en": "The morning begins with a journey through time at the City Museum, where you can marvel at the ancient Roman aqueduct. Then, stroll through the alleys to the historical churches of the old town. Spend lunchtime enjoying regional specialties at the harbor. Enjoy a relaxed afternoon at Straško beach before ending the day with a cocktail on the seaside promenade.",
-        "hr": "Jutro započinje putovanjem kroz vrijeme u Gradskom muzeju, gdje se možete diviti antičkom rimskom akvaduktu. Zatim prošećite uličicama do povijesnih crkava u staroj jezgri. Vrijeme ručka provedite uživajući u regionalnim specijalitetima u luci. Uživajte u opuštenom poslijepodnevu na plaži Straško prije završetka dana uz koktel na morskoj šetnici."
+        "hr": "Jutro počinje putovanjem kroz vrijeme u Gradskom muzeju, gdje možete diviti se starom rimskom akveduktu. Zatim prošećite uskim ulicama do povijesnih crkava stare jezgre. Za ručak uživajte u lokalnim specijalitetima u luci. Opustite se poslijepodne na plaži Straško prije nego dan završite koktelom na morskoj promenadi."
       },
       "gastro_picks": {
         "de": [
@@ -315,10 +321,10 @@
           "Most attractions in the center are within short walking distance of each other."
         ],
         "hr": [
-          "Nosite udobnu obuću za popločane ulice.",
-          "Posjetite akvadukt rano ujutro kako biste izbjegli čekanje.",
-          "Plaža Straško nudi hlad, ali zaštita od sunca je i dalje neophodna.",
-          "Većina atrakcija u centru udaljena je tek nekoliko minuta hoda jedna od druge."
+          "Nosite udobnu obuću za kaldrmisane ulice.",
+          "Posjetite akvedukt rano ujutro kako biste izbjegli čekanje.",
+          "Plaža Straško daje hlada, ali zaštita od sunca i dalje je važna.",
+          "Većina atrakcija u centru nalazi se na kratkoj pješačkoj udaljenosti jedna od druge."
         ]
       },
       "variants": {
@@ -327,7 +333,8 @@
             "de": "Der Morgen beginnt mit einer Zeitreise im Stadtmuseum, wo Sie das antike römische Aquädukt bestaunen können. Danach schlendern Sie durch die Gassen zu den historischen Kirchen der Altstadt. Die Mittagszeit verbringen Sie bei regionalen Spezialitäten am Hafen. Den Nachmittag genießen Sie entspannt am Strand Straško, bevor Sie den Tag bei einem Cocktail an der Uferpromenade ausklingen lassen.",
             "hu": "A reggel időutazással indul a Városi Múzeumban, ahol megcsodálhatja az ókori római akvaduktot. Ezután a sikátorokon át az óváros történelmi templomaihoz sétálhat. Az ebédet a kikötőben, helyi különlegességek társaságában töltheti. A délutánt pihenéssel töltse a Straško strandon, majd zárja a napot egy koktéllal a tengerparti sétányon.",
             "ro": "Dimineața începe cu o călătorie în timp la Muzeul Orașului, unde puteți admira apeductul roman antic. Apoi, plimbați-vă pe străduțe către bisericile istorice din orașul vechi. Timpul prânzului îl puteți petrece savurând specialități regionale în port. După-amiaza relaxați-vă pe plaja Straško, înainte de a încheia ziua cu un cocktail pe faleza de la malul mării.",
-            "en": "The morning begins with a journey through time at the City Museum, where you can marvel at the ancient Roman aqueduct. Then, stroll through the alleys to the historical churches of the old town. Spend lunchtime enjoying regional specialties at the harbor. Enjoy a relaxed afternoon at Straško beach before ending the day with a cocktail on the seaside promenade."
+            "en": "The morning begins with a journey through time at the City Museum, where you can marvel at the ancient Roman aqueduct. Then, stroll through the alleys to the historical churches of the old town. Spend lunchtime enjoying regional specialties at the harbor. Enjoy a relaxed afternoon at Straško beach before ending the day with a cocktail on the seaside promenade.",
+            "hr": "Jutro počinje putovanjem kroz vrijeme u Gradskom muzeju, gdje možete diviti se starom rimskom akveduktu. Zatim prošećite uskim ulicama do povijesnih crkava stare jezgre. Za ručak uživajte u lokalnim specijalitetima u luci. Opustite se poslijepodne na plaži Straško prije nego dan završite koktelom na morskoj promenadi."
           },
           "stops": [
             {
@@ -335,13 +342,15 @@
                 "de": "Stadtmuseum Novalja & Aquädukt",
                 "hu": "Novalja Városi Múzeum és Akvadukt",
                 "ro": "Muzeul Orașului Novalja și Aveductul",
-                "en": "Novalja City Museum & Aqueduct"
+                "en": "Novalja City Museum & Aqueduct",
+                "hr": "Gradski muzej Novalja i akvadukt"
               },
               "tip_5lang": {
                 "de": "Der Eingang zum antiken römischen Tunnel befindet sich direkt im Museumskeller.",
                 "hu": "Az ókori római alagút bejárata közvetlenül a múzeum pincéjében található.",
                 "ro": "Intrarea în tunelul roman antic se află direct în subsolul muzeului.",
-                "en": "The entrance to the ancient Roman tunnel is located right in the museum's basement."
+                "en": "The entrance to the ancient Roman tunnel is located right in the museum's basement.",
+                "hr": "Ulaz u antički rimski tunel nalazi se odmah u podrumu muzeja."
               }
             },
             {
@@ -349,13 +358,15 @@
                 "de": "Kirche der Muttergottes vom Rosenkranz",
                 "hu": "Rózsafüzér Királynője templom",
                 "ro": "Biserica Maicii Domnului a Rozariului",
-                "en": "Church of the Mother of God of the Rosary"
+                "en": "Church of the Mother of God of the Rosary",
+                "hr": "Crkva Majke Božje od Ružarija"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Mosaike aus dem 4. Jahrhundert unter dem Glasboden.",
                 "hu": "Csodálja meg a 4. századi mozaikokat az üvegpadló alatt.",
                 "ro": "Admirați mozaicurile din secolul al IV-lea sub podeaua de sticlă.",
-                "en": "Admire the 4th-century mosaics visible under the glass floor."
+                "en": "Admire the 4th-century mosaics visible under the glass floor.",
+                "hr": "Divite se mozaicima iz 4. stoljeća vidljivima kroz stakleni pod."
               }
             },
             {
@@ -363,13 +374,15 @@
                 "de": "Stomorica-Sammlung",
                 "hu": "Stomorica-gyűjtemény",
                 "ro": "Colecția Stomorica",
-                "en": "Stomorica Collection"
+                "en": "Stomorica Collection",
+                "hr": "Stomoričina zbirka"
               },
               "tip_5lang": {
                 "de": "Eine wertvolle archäologische Sammlung direkt neben der alten Basilika.",
                 "hu": "Értékes régészeti gyűjtemény közvetlenül a régi bazilika mellett.",
                 "ro": "O colecție arheologică valoroasă chiar lângă vechea basilică.",
-                "en": "A valuable archaeological collection located right next to the old basilica."
+                "en": "A valuable archaeological collection located right next to the old basilica.",
+                "hr": "Vrijedna arheološka zbirka smještena odmah uz staru baziliku."
               }
             },
             {
@@ -377,13 +390,15 @@
                 "de": "Kirche der Heiligen Katharina",
                 "hu": "Szent Katalin-templom",
                 "ro": "Biserica Sfânta Ecaterina",
-                "en": "Church of Saint Catherine"
+                "en": "Church of Saint Catherine",
+                "hr": "Crkva Svete Katarine"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Ort für Besinnung im Herzen der Altstadt.",
                 "hu": "Csendes hely az elmélyüléshez az óváros szívében.",
                 "ro": "Un loc liniștit pentru reflecție în inima orașului vechi.",
-                "en": "A peaceful spot for reflection in the heart of the old town."
+                "en": "A peaceful spot for reflection in the heart of the old town.",
+                "hr": "Mirno mjesto za razmišljanje u srcu starog grada."
               }
             },
             {
@@ -391,13 +406,15 @@
                 "de": "Mittagessen im Zentrum",
                 "hu": "Ebéd a központban",
                 "ro": "Prânz în centru",
-                "en": "Lunch in the Center"
+                "en": "Lunch in the Center",
+                "hr": "Ručak u centru"
               },
               "tip_5lang": {
                 "de": "Probieren Sie unbedingt den berühmten Pager Käse mit Olivenöl.",
                 "hu": "Mindenképpen kóstolja meg a híres pagi sajtot olívaolajjal.",
                 "ro": "Trebuie să încercați celebra brânză de Pag cu ulei de măsline.",
-                "en": "Be sure to try the famous Pag cheese drizzled with olive oil."
+                "en": "Be sure to try the famous Pag cheese drizzled with olive oil.",
+                "hr": "Obavezno probajte poznati paški sir preliven maslinovim uljem."
               }
             },
             {
@@ -405,13 +422,15 @@
                 "de": "Strand Straško",
                 "hu": "Straško strand",
                 "ro": "Plaja Straško",
-                "en": "Straško Beach"
+                "en": "Straško Beach",
+                "hr": "Plaža Straško"
               },
               "tip_5lang": {
                 "de": "Dieser weitläufige Kieselstrand bietet viel natürlichen Schatten unter Pinien.",
                 "hu": "Ez a kiterjedt kavicsos strand bőséges természetes árnyékot kínál a fenyők alatt.",
                 "ro": "Această plajă întinsă cu pietriș oferă multă umbră naturală sub pini.",
-                "en": "This expansive pebble beach offers plenty of natural shade under pine trees."
+                "en": "This expansive pebble beach offers plenty of natural shade under pine trees.",
+                "hr": "Ova prostrana šljunčana plaža nudi obilje prirodnog hlada pod borovima."
               }
             }
           ],
@@ -537,6 +556,12 @@
               "Visit the aqueduct early in the morning to avoid wait times.",
               "Straško beach provides shade, but sun protection is still vital.",
               "Most attractions in the center are within short walking distance of each other."
+            ],
+            "hr": [
+              "Nosite udobnu obuću zbog kamenih ulica.",
+              "Posjetite akvadukt rano ujutro kako biste izbjegli čekanja.",
+              "Plaža Straško nudi hlad, ali zaštita od sunca i dalje je važna.",
+              "Većina atrakcija u centru nalazi se na kratkoj pješačkoj udaljenosti."
             ]
           }
         },
@@ -546,7 +571,7 @@
             "hu": "Kezdje a reggelt a városi múzeumban, ahol az ókori vízvezeték esőben is védett és lenyűgöző látvány. Délben a központi templomok nyújtanak száraz menedéket a belső elmélyüléshez. A délutánt töltsön el egy hosszú, melengető ebéddel a belvárosban, figyelve az ablakon kopogó esőt. Később a Straško strand drámai arcát mutatja a viharos tengerrel és a szürke horizonttal.",
             "ro": "Începeți dimineața la adăpost în Muzeul Orașului, unde apeductul antic rămâne fascinant chiar și pe ploaie. La prânz, bisericile din centru oferă refugii uscate pentru momente de liniște. Petreceți după-amiaza savurând un prânz prelungit la căldură, ascultând stropii de ploaie. Spre seară, plaja Straško oferă un peisaj dramatic, cu Marea Adriatică agitată sub cerul plumburiu.",
             "en": "Start the morning sheltered in the City Museum, where the ancient aqueduct remains a fascinating sight even in the rain. At noon, the central churches provide dry havens for quiet reflection. Spend the afternoon enjoying a long, warming lunch in the center while listening to the rain. Later, Straško beach reveals a dramatic side with the choppy Adriatic Sea under a grey sky.",
-            "hr": "Započnite jutro u zaklonu Gradskog muzeja, gdje ostaci antičkog akvadukta ostaju fascinantan prizor čak i na kiši. U podne, središnje crkve pružaju suha utočišta za tiho razmišljanje. Provedite poslijepodne uživajući u dugom, toplom ručku u centru dok slušate kišu. Kasnije, plaža Straško otkriva svoju dramatičnu stranu uz uzburkano Jadransko more pod sivim nebom."
+            "hr": "Započnite jutro u Gradskom muzeju, gdje antički ostaci akvadukta ostavljaju fascinantan dojam čak i po kiši. U podne, središnje crkve pružaju suhe utočišta za mirno razmišljanje. Poslijepodne provedite uz dugi, utješno topao ručak u centru slušajući kišu. Kasnije, plaža Straško otkriva dramatičnu stranu s nemirnim Jadranom pod sivim nebom."
           },
           "stops": [
             {
@@ -566,7 +591,7 @@
                 "hu": "Használja ki a belső csendet egy száraz pihenőre.",
                 "ro": "Folosiți liniștea din interior pentru o pauză uscată.",
                 "en": "Use the silence inside for a dry break.",
-                "hr": "Iskoristite tišinu u unutrašnjosti za predah na suhom."
+                "hr": "Iskoristite tišinu unutra za suhi predah."
               }
             },
             {
@@ -576,7 +601,7 @@
                 "hu": "Kicsi, de színvonalas belső kiállítás, ideális esős órákra.",
                 "ro": "Expoziție interioară mică, dar rafinată, ideală pentru orele ploioase.",
                 "en": "Small but high-quality indoor exhibition, ideal for rainy hours.",
-                "hr": "Mala, ali kvalitetna zatvorena izložba, idealna za kišne sate."
+                "hr": "Mala, ali kvalitetna unutarnja izložba, idealna za kišna sata."
               }
             },
             {
@@ -586,7 +611,7 @@
                 "hu": "Egy újabb rövid megálló, ahol lerázhatja a vizet a kabátjáról.",
                 "ro": "Încă o oprire scurtă pentru a vă scutura hainele de ploaie.",
                 "en": "Another short stop to shake the rain off your coat.",
-                "hr": "Još jedno kratko stajalište kako biste otresli kišu s kaputa."
+                "hr": "Još jedna kratka stanica da otresete kaput od kiše."
               }
             },
             {
@@ -641,11 +666,11 @@
               "In case of strong winds, a rain poncho is more practical than an umbrella."
             ],
             "hr": [
-              "Nosite vodootpornu obuću jer kamene ulice na kiši mogu postati skliske.",
+              "Nosite vodootpornu obuću jer kamene ulice mogu postati skliske po kiši.",
               "Antički akvadukt (Talijanova buža) potpuno je natkrivena atrakcija.",
-              "Crkve služe kao besplatna i suha kulturna stajališta.",
-              "Kafići u blizini luke izvrsni su za višesatni boravak na suhom.",
-              "U slučaju jakog vjetra, kišna kabanica je praktičnija od kišobrana."
+              "Crkve služe kao besplatne i suhe kulturne stanice.",
+              "Kafići blizu luke odlični su za višesatno ostajanje na suhom.",
+              "U slučaju jakog vjetra, kabanica je praktičnija od kišobrana."
             ]
           }
         },
@@ -655,7 +680,7 @@
             "hu": "Fedezze fel Novalja történelmét a hűvös téli reggelen, amikor a múzeum szinte csak az Öné. A templomok télen különleges nyugalmat árasztanak. Délben egy helyi egytálétel vagy a híres pági sajt melegíti fel a hangulatos étteremben. A délutáni séta a Straško strandon magányos és meditatív, mielőtt a nap már fél öt körül festőien a tengerbe vész.",
             "ro": "Explorați istoria orașului Novalja în aerul rece al dimineții de iarnă, când muzeul este aproape pustiu. Bisericile emană o liniște aparte în acest sezon. La prânz, o tocană locală sau brânza de Pag vă vor încălzi într-un restaurant primitor. Plimbarea de după-amiază pe plaja Straško este solitară și meditativă, înainte ca soarele să apună pitoresc în jurul orei 16:30.",
             "en": "Explore Novalja's history in the crisp winter morning air when the museum is almost entirely yours. The churches radiate a special tranquility in winter. At noon, a local stew or Pag cheese will warm you up in a cozy restaurant. An afternoon walk on Straško beach is solitary and meditative before the sun sets picturesquely around 4:30 PM.",
-            "hr": "Istražite povijest Novalje na svježem zimskom jutarnjem zraku kada je muzej gotovo u potpunosti vaš. Crkve zimi zrače posebnom vedrinom. U podne će vas u ugodnom restoranu zagrijati lokalni gulaš ili paški sir. Poslijepodnevna šetnja plažom Straško samotna je i meditativna prije nego što sunce slikovito zađe oko 16:30."
+            "hr": "Istražite povijest Novalje u svježem zimskom jutarnjem zraku kad je muzej gotovo sasvim vaš. Crkve zrače posebnom mirom zimi. U podne, lokalni paprikaš ili paški sir ugrijat će vas u ugodnom restoranu. Popodnevna šetnja plažom Straško je samotna i meditativna prije slikovitog zalaska sunca oko 16:30."
           },
           "stops": [
             {
@@ -665,7 +690,7 @@
                 "hu": "A föld alatti hőmérséklet télen gyakran enyhébb, mint a külső levegő.",
                 "ro": "Temperatura în subteran este adesea mai blândă iarna decât afară.",
                 "en": "The temperature underground is often milder in winter than outside.",
-                "hr": "Temperatura pod zemljom zimi je često blaža nego vani."
+                "hr": "Temperatura pod zemljom često je blaža zimi nego vani."
               }
             },
             {
@@ -675,7 +700,7 @@
                 "hu": "Figyelje meg az ünnepi díszítést az adventi időszakban.",
                 "ro": "Admirați decorațiunile festive în perioada Crăciunului.",
                 "en": "Notice the festive decorations during the holiday season.",
-                "hr": "Primijetite blagdanske dekoracije tijekom sezone praznika."
+                "hr": "Primijetite blagdansko ukrašavanje tijekom praznika."
               }
             },
             {
@@ -685,7 +710,7 @@
                 "hu": "Meleg öltözet ajánlott, az ősi falak ontják a hideget.",
                 "ro": "Se recomandă haine groase, pereții vechi păstrează frigul.",
                 "en": "Warm clothing recommended; the ancient walls hold the cold.",
-                "hr": "Preporučuje se topla odjeća; drevne zidine zadržavaju hladnoću."
+                "hr": "Preporučuje se topla odjeća; antički zidovi zadržavaju hladnoću."
               }
             },
             {
@@ -705,7 +730,7 @@
                 "hu": "Kóstolja meg a szezonális bárányhúst vagy a pági sajtot.",
                 "ro": "Cereți preparate sezoniere precum mielul sau brânza de Pag.",
                 "en": "Ask for seasonal dishes like lamb or Pag cheese.",
-                "hr": "Tražite sezonska jela poput janjetine ili paškog sira."
+                "hr": "Zatražite sezonska jela poput janjetine ili paškog sira."
               }
             },
             {
@@ -749,11 +774,11 @@
               "The air is extremely clear in winter, ideal for long-distance views."
             ],
             "hr": [
-              "Vjetar bura može značajno sniziti osjet temperature.",
-              "Zalazak sunca zimi je već oko 16:30.",
+              "Bura može značajno sniziti osjet temperaturu.",
+              "Zimski zalazak sunca već je oko 16:30.",
               "Mnoge turističke trgovine su zatvorene, ali lokalni kafići ostaju otvoreni.",
-              "Odjenite se slojevito kako biste se prilagodili hladnijim unutarnjim prostorima.",
-              "Zrak je zimi izuzetno čist, idealan za poglede u daljinu."
+              "Nosite slojevitu odjeću kako biste se prilagodili hladnim unutarnjim prostorima.",
+              "Zrak je zimi iznimno čist, idealan za dalekosežne poglede."
             ]
           }
         }
@@ -772,7 +797,8 @@
             "de": "Novalja Zentrum",
             "hu": "Novalja központ",
             "ro": "Centrul Novalja",
-            "en": "Novalja Center"
+            "en": "Novalja Center",
+            "hr": "Centar Novalje"
           },
           "coords": [
             14.883,
@@ -788,7 +814,7 @@
             "hu": "Béreljen kerékpárt a kikötő számos kölcsönzőjének egyikében.",
             "ro": "Închiriați o bicicletă de la una dintre numeroasele stații din port.",
             "en": "Rent your bike at one of the many rental shops near the harbor.",
-            "hr": "Unajmite bicikl u jednoj od brojnih trgovina za iznajmljivanje u blizini luke."
+            "hr": "Iznajmite bicikl u jednoj od brojnih iznajmljivaonica blizu luke."
           }
         },
         {
@@ -796,7 +822,8 @@
             "de": "Caska-Bucht",
             "hu": "Caska-öböl",
             "ro": "Golful Caska",
-            "en": "Caska Bay"
+            "en": "Caska Bay",
+            "hr": "Uvala Caska"
           },
           "coords": [
             14.908,
@@ -812,7 +839,7 @@
             "hu": "Itt fekszik az elsüllyedt római város, Cissa a tengerszint alatt.",
             "ro": "Aici se află orașul roman scufundat Cissa sub nivelul mării.",
             "en": "The sunken Roman city of Cissa lies beneath the sea level here.",
-            "hr": "Ovdje se ispod razine mora nalazi potopljeni rimski grad Cissa."
+            "hr": "Upodmorski rimski grad Cissa leži ispod razine mora upravo ovdje."
           }
         },
         {
@@ -820,7 +847,8 @@
             "de": "Strand Zrće",
             "hu": "Zrće strand",
             "ro": "Plaja Zrće",
-            "en": "Zrće Beach"
+            "en": "Zrće Beach",
+            "hr": "Plaža Zrće"
           },
           "coords": [
             14.914,
@@ -836,7 +864,7 @@
             "hu": "Napközben nyugodt strandhangulat, mielőtt elkezdődnének a partik.",
             "ro": "O atmosferă de plajă relaxată în timpul zilei, înainte de începerea petrecerilor.",
             "en": "A relaxed beach vibe during the day before the parties kick off.",
-            "hr": "Opuštena atmosfera na plaži tijekom dana prije početka zabava."
+            "hr": "Opustio ugođaj plaže tijekom dana prije početka zabava."
           }
         },
         {
@@ -844,7 +872,8 @@
             "de": "Mittagessen in Caska",
             "hu": "Ebéd Caskában",
             "ro": "Prânz în Caska",
-            "en": "Lunch in Caska"
+            "en": "Lunch in Caska",
+            "hr": "Ručak u Caski"
           },
           "coords": [
             14.906,
@@ -868,7 +897,8 @@
             "de": "Rückfahrt über Küstenwege",
             "hu": "Visszaút a part menti utakon",
             "ro": "Întoarcere pe drumurile de coastă",
-            "en": "Return via Coastal Paths"
+            "en": "Return via Coastal Paths",
+            "hr": "Povratak uz obalne staze"
           },
           "coords": [
             14.885,
@@ -884,7 +914,7 @@
             "hu": "Gyönyörű kilátópontok a Velebit-hegységre út közben.",
             "ro": "Puncte panoramice frumoase spre Munții Velebit în timpul călătoriei.",
             "en": "Beautiful viewpoints overlooking the Velebit mountains along the way.",
-            "hr": "Prekrasni vidikovci s pogledom na Velebit duž puta."
+            "hr": "Prekrasni vidikovci s pogledom na Velebit tijekom puta."
           }
         }
       ],
@@ -893,7 +923,7 @@
         "hu": "Indítsa kerékpártúráját Novalja központjából, és tekerjen a festői Caska-öbölbe. Ott felsejlenek az elsüllyedt város maradványai. Folytassa útját a híres Zrće strandra, amely délelőtt még csendes. Egy caskai ebédszünet után látványos utakon tekerhet vissza, miközben élvezi a tengerre és a szárazföldi hegyekre nyíló kilátást.",
         "ro": "Începeți turul cu bicicleta din centrul orașului Novalja și pedalați către pitorescul golf Caska. Acolo puteți bănui rămășițele orașului scufundat. Continuați spre celebra plajă Zrće, care este încă liniștită dimineața. După o pauză de prânz în Caska, pedalați înapoi pe drumuri pitorești, bucurându-vă de priveliștea mării și a munților de pe continent.",
         "en": "Start your bike tour in the center of Novalja and cycle to the picturesque Caska Bay. There, you can catch a glimpse of the remains of the sunken city. Continue to the famous Zrće beach, which is still quiet in the morning. After a lunch break in Caska, cycle back along scenic paths, enjoying the views of the sea and the mainland mountains.",
-        "hr": "Započnite svoju biciklističku turu u centru Novalje i vozite do slikovite uvale Caska. Tamo možete baciti pogled na ostatke potopljenog grada. Nastavite do poznate plaže Zrće, koja je ujutro još uvijek mirna. Nakon stanke za ručak u Caski, odvezite se natrag slikovitim stazama, uživajući u pogledu na more i planine na kopnu."
+        "hr": "Započnite biciklističku turu u centru Novalje i vozite do slikovite uvale Caska. Tamo možete nazrijeti ostatke potopljenog grada. Nastavite do poznate plaže Zrće, koja je ujutro još mirna. Nakon pauze za ručak u Caski, vratite se uz slikovite staze uživajući u pogledu na more i kopnene planine."
       },
       "gastro_picks": {
         "de": [
@@ -1022,10 +1052,10 @@
           "Cycle paths are often gravel, so a mountain bike is recommended."
         ],
         "hr": [
-          "Ruta do Caske je uglavnom ravna i lagana za vožnju.",
-          "Ponesite dovoljno vode, posebno ljeti.",
-          "Lokot za bicikl je neophodan prilikom zaustavljanja na plažama.",
-          "Biciklističke staze su često makadamske, pa se preporučuje brdski bicikl."
+          "Ruta do Caske većinom je ravna i laka za vožnju.",
+          "Ponesite dovoljno vode, osobito ljeti.",
+          "Seku za bicikle obavezna je pri zaustavljanju na plažama.",
+          "Biciklističke staze su često šljunčane, pa se preporučuje mountain bike."
         ]
       },
       "variants": {
@@ -1034,7 +1064,8 @@
             "de": "Starten Sie Ihre Radtour im Zentrum von Novalja und fahren Sie zur malerischen Caska-Bucht. Dort können Sie die Überreste der versunkenen Stadt erahnen. Weiter geht es zum berühmten Strand Zrće, der am Vormittag noch ruhig ist. Nach einer Mittagspause in Caska radeln Sie über landschaftlich reizvolle Wege zurück und genießen die Aussicht auf das Meer und das Festlandgebirge.",
             "hu": "Indítsa kerékpártúráját Novalja központjából, és tekerjen a festői Caska-öbölbe. Ott felsejlenek az elsüllyedt város maradványai. Folytassa útját a híres Zrće strandra, amely délelőtt még csendes. Egy caskai ebédszünet után látványos utakon tekerhet vissza, miközben élvezi a tengerre és a szárazföldi hegyekre nyíló kilátást.",
             "ro": "Începeți turul cu bicicleta din centrul orașului Novalja și pedalați către pitorescul golf Caska. Acolo puteți bănui rămășițele orașului scufundat. Continuați spre celebra plajă Zrće, care este încă liniștită dimineața. După o pauză de prânz în Caska, pedalați înapoi pe drumuri pitorești, bucurându-vă de priveliștea mării și a munților de pe continent.",
-            "en": "Start your bike tour in the center of Novalja and cycle to the picturesque Caska Bay. There, you can catch a glimpse of the remains of the sunken city. Continue to the famous Zrće beach, which is still quiet in the morning. After a lunch break in Caska, cycle back along scenic paths, enjoying the views of the sea and the mainland mountains."
+            "en": "Start your bike tour in the center of Novalja and cycle to the picturesque Caska Bay. There, you can catch a glimpse of the remains of the sunken city. Continue to the famous Zrće beach, which is still quiet in the morning. After a lunch break in Caska, cycle back along scenic paths, enjoying the views of the sea and the mainland mountains.",
+            "hr": "Započnite biciklističku turu u centru Novalje i vozite do slikovite uvale Caska. Tamo možete nazrijeti ostatke potopljenog grada. Nastavite do poznate plaže Zrće, koja je ujutro još mirna. Nakon pauze za ručak u Caski, vratite se uz slikovite staze uživajući u pogledu na more i kopnene planine."
           },
           "stops": [
             {
@@ -1042,13 +1073,15 @@
                 "de": "Novalja Zentrum",
                 "hu": "Novalja központ",
                 "ro": "Centrul Novalja",
-                "en": "Novalja Center"
+                "en": "Novalja Center",
+                "hr": "Centar Novalje"
               },
               "tip_5lang": {
                 "de": "Mieten Sie Ihr Fahrrad in einer der vielen Stationen am Hafen.",
                 "hu": "Béreljen kerékpárt a kikötő számos kölcsönzőjének egyikében.",
                 "ro": "Închiriați o bicicletă de la una dintre numeroasele stații din port.",
-                "en": "Rent your bike at one of the many rental shops near the harbor."
+                "en": "Rent your bike at one of the many rental shops near the harbor.",
+                "hr": "Iznajmite bicikl u jednoj od brojnih iznajmljivaonica blizu luke."
               }
             },
             {
@@ -1056,13 +1089,15 @@
                 "de": "Caska-Bucht",
                 "hu": "Caska-öböl",
                 "ro": "Golful Caska",
-                "en": "Caska Bay"
+                "en": "Caska Bay",
+                "hr": "Uvala Caska"
               },
               "tip_5lang": {
                 "de": "Hier liegt die versunkene römische Stadt Cissa unter dem Meeresspiegel.",
                 "hu": "Itt fekszik az elsüllyedt római város, Cissa a tengerszint alatt.",
                 "ro": "Aici se află orașul roman scufundat Cissa sub nivelul mării.",
-                "en": "The sunken Roman city of Cissa lies beneath the sea level here."
+                "en": "The sunken Roman city of Cissa lies beneath the sea level here.",
+                "hr": "Upodmorski rimski grad Cissa leži ispod razine mora upravo ovdje."
               }
             },
             {
@@ -1070,13 +1105,15 @@
                 "de": "Strand Zrće",
                 "hu": "Zrće strand",
                 "ro": "Plaja Zrće",
-                "en": "Zrće Beach"
+                "en": "Zrće Beach",
+                "hr": "Plaža Zrće"
               },
               "tip_5lang": {
                 "de": "Tagsüber eine entspannte Strandatmosphäre, bevor die Partys beginnen.",
                 "hu": "Napközben nyugodt strandhangulat, mielőtt elkezdődnének a partik.",
                 "ro": "O atmosferă de plajă relaxată în timpul zilei, înainte de începerea petrecerilor.",
-                "en": "A relaxed beach vibe during the day before the parties kick off."
+                "en": "A relaxed beach vibe during the day before the parties kick off.",
+                "hr": "Opustio ugođaj plaže tijekom dana prije početka zabava."
               }
             },
             {
@@ -1084,13 +1121,15 @@
                 "de": "Mittagessen in Caska",
                 "hu": "Ebéd Caskában",
                 "ro": "Prânz în Caska",
-                "en": "Lunch in Caska"
+                "en": "Lunch in Caska",
+                "hr": "Ručak u Caski"
               },
               "tip_5lang": {
                 "de": "Genießen Sie lokale Spezialitäten in einer ruhigen Konoba am Meer.",
                 "hu": "Élvezze a helyi különlegességeket egy csendes tengerparti konobában.",
                 "ro": "Savurați specialități locale într-o konoba liniștită de la malul mării.",
-                "en": "Enjoy local specialties in a quiet seaside tavern (konoba)."
+                "en": "Enjoy local specialties in a quiet seaside tavern (konoba).",
+                "hr": "Uživajte u lokalnim specijalitetima u mirnoj konobi uz more."
               }
             },
             {
@@ -1098,13 +1137,15 @@
                 "de": "Rückfahrt über Küstenwege",
                 "hu": "Visszaút a part menti utakon",
                 "ro": "Întoarcere pe drumurile de coastă",
-                "en": "Return via Coastal Paths"
+                "en": "Return via Coastal Paths",
+                "hr": "Povratak uz obalne staze"
               },
               "tip_5lang": {
                 "de": "Schöne Aussichtspunkte auf das Velebit-Gebirge während der Fahrt.",
                 "hu": "Gyönyörű kilátópontok a Velebit-hegységre út közben.",
                 "ro": "Puncte panoramice frumoase spre Munții Velebit în timpul călătoriei.",
-                "en": "Beautiful viewpoints overlooking the Velebit mountains along the way."
+                "en": "Beautiful viewpoints overlooking the Velebit mountains along the way.",
+                "hr": "Prekrasni vidikovci s pogledom na Velebit tijekom puta."
               }
             }
           ],
@@ -1214,6 +1255,12 @@
               "Bring plenty of water, especially in summer.",
               "A bike lock is essential when stopping at the beaches.",
               "Cycle paths are often gravel, so a mountain bike is recommended."
+            ],
+            "hr": [
+              "Ruta do Caske većinom je ravna i laka za vožnju.",
+              "Ponesite dovoljno vode, osobito ljeti.",
+              "Seku za bicikle obavezna je pri zaustavljanju na plažama.",
+              "Biciklističke staze su često šljunčane, pa se preporučuje mountain bike."
             ]
           }
         },
@@ -1223,7 +1270,7 @@
             "hu": "Az eső ellenére a Caska-öbölbe tartó kerekezés frissítő betekintést nyújt a zord partvidékbe. Zrće partján ilyenkor kísérteties csend honol, ami tökéletes a fotózáshoz. Egy meleg ebéd Caskában segít a felmelegedésben, mielőtt a vizes, de jól járható utakon visszatérne Novaljába. A sós levegő keveredik a nedves kövek és gyógynövények illatával.",
             "ro": "În ciuda ploii, drumul spre golful Caska oferă o perspectivă revigorantă asupra coastei aspre. La Zrće domnește acum o liniște aproape fantomatică, ideală pentru fotografii. Un prânz cald în Caska vă va ajuta să vă încălziți înainte de a reveni în Novalja pe drumuri umede, dar sigure. Aerul sărat se amestecă cu mirosul de piatră udă și ierburi.",
             "en": "Despite the rain, cycling to Caska Bay offers a refreshing perspective of the rugged coastline. At Zrće, an almost ghostly silence prevails, perfect for photography. A warm lunch in Caska helps you warm up before heading back to Novalja via wet but well-paved paths. The salty air mixes with the scent of wet stone and herbs.",
-            "hr": "Unatoč kiši, vožnja biciklom do uvale Caska nudi osvježavajuću perspektivu krševite obale. Na Zrću vlada gotovo sablasna tišina, savršena za fotografiranje. Topli ručak u Caski pomoći će vam da se ugrijete prije povratka u Novalju mokrim, ali dobro popločanim stazama. Slani zrak miješa se s mirisom mokrog kamena i bilja."
+            "hr": "Unatoč kiši, vožnja do uvale Caska pruža osvježavajuću perspektivu na grubu obalu. Na Zrću prevladava gotovo sablasna tišina, idealna za fotografiju. Topli ručak u Caski ugrijat će vas prije povratka u Novalju uz mokre, ali dobro uređene staze. Slani zrak miješa se s mirisom mokrog kamena i biljaka."
           },
           "stops": [
             {
@@ -1233,7 +1280,7 @@
                 "hu": "Itt szerelkezzen fel esőruházattal és világítással.",
                 "ro": "Echipati-vă aici cu haine de ploaie și lumini.",
                 "en": "Gear up here with rain clothes and lights.",
-                "hr": "Ovdje se opremite odjećom za kišu i svjetlima."
+                "hr": "Opremljeni ovdje s kišnom odjećom i svjetlima."
               }
             },
             {
@@ -1243,7 +1290,7 @@
                 "hu": "Vigyázat a nem aszfaltozott szakaszokon, sárra lehet számítani.",
                 "ro": "Atenție la porțiunile neasfaltate, pot fi noroioase.",
                 "en": "Caution on unpaved sections; they might be muddy.",
-                "hr": "Oprez na neasfaltiranim dijelovima; mogu biti blatnjavi."
+                "hr": "Oprez na neasfaltiranim dionicama; mogu biti blatne."
               }
             },
             {
@@ -1253,7 +1300,7 @@
                 "hu": "Az üres klubok fotogén, melankolikus motívumokat kínálnak.",
                 "ro": "Cluburile goale oferă motive fotogenice și melancolice.",
                 "en": "The empty clubs offer photogenic, melancholic motifs.",
-                "hr": "Prazni klubovi nude fotogenične, melankolične motive."
+                "hr": "Prazni klubovi nude fotografične, melankolične motive."
               }
             },
             {
@@ -1263,7 +1310,7 @@
                 "hu": "Szárítsa meg felszerelését egy meleg étel mellett.",
                 "ro": "Uscați-vă echipamentul în timpul unei mese calde.",
                 "en": "Dry your gear while enjoying a warm meal.",
-                "hr": "Osušite svoju opremu dok uživate u toplom obroku."
+                "hr": "Osušite opremu dok uživate u toplom obroku."
               }
             },
             {
@@ -1273,7 +1320,7 @@
                 "hu": "Hajtson óvatosan, a nedves kövek és az aszfalt csúszik.",
                 "ro": "Conduceți cu atenție, pietrele umede și asfaltul sunt alunecoase.",
                 "en": "Ride carefully as wet rocks and asphalt are slippery.",
-                "hr": "Vozite oprezno jer su mokro kamenje i asfalt skliski."
+                "hr": "Vozite oprezno jer su mokri kameni i asfalt sklizavi."
               }
             }
           ],
@@ -1309,9 +1356,9 @@
             "hr": [
               "Nosite svijetlu ili reflektirajuću kišnu opremu radi bolje vidljivosti.",
               "Provjerite kočnice jer vlaga usporava njihovu učinkovitost.",
-              "Izbjegavajte duboke lokve jer mogu skrivati rupe.",
-              "U Caski postoje natkrivena skloništa za bicikliste.",
-              "Zaštitite svoju elektroniku u vodootpornim torbama."
+              "Izbjegavajte duboke lokve jer mogu skrivati rupe na cesti.",
+              "U Caski postoje natkriveni zakloni za bicikliste.",
+              "Zaštitite elektroniku u vodootpornim vrećama."
             ]
           }
         },
@@ -1321,7 +1368,7 @@
             "hu": "Élvezze a tiszta, hideg téli levegőt a Caska-öböl felé vezető úton, ahol az elsüllyedt város legendája életre kel a szürke fényben. Zrće most a tiszta természeti nyugalom helyszíne, zene és nyüzsgés nélkül. Egy tápláló ebéd erőt ad a tengerparti visszúthoz, miközben a téli nap ezüstös fénybe vonja Pag kopár holdbéli táját.",
             "ro": "Bucurați-vă de aerul rece și clar de iarnă în drum spre golful Caska, unde istoria orașului scufundat prinde viață în lumina gri. Zrće este acum un loc al liniștii naturale, fără muzică și agitație. Un prânz consistent vă va da putere pentru drumul de întoarcere pe coastă, în timp ce soarele de iarnă scaldă peisajul selenar din Pag în lumină argintie.",
             "en": "Enjoy the clear, cold winter air on the way to Caska Bay, where the history of the sunken city comes alive in the grey light. Zrće is now a place of pure natural tranquility, without music and bustle. A hearty lunch gives you strength for the return ride along the coast, while the winter sun bathes Pag's barren moonscape in silvery light.",
-            "hr": "Uživajte u čistom, hladnom zimskom zraku na putu do uvale Caska, gdje povijest potopljenog grada oživljava u sivom svjetlu. Zrće je sada mjesto čistog prirodnog mira, bez glazbe i vreve. Obilan ručak daje vam snagu za povratnu vožnju obalom, dok zimsko sunce kupa ogoljeni mjesečev krajolik Paga u srebrnastom svjetlu."
+            "hr": "Uživajte u hladnom, čistom zimskom zraku na putu do uvale Caska, gdje povijest potopljenog grada oživljava u sivom svjetlu. Zrće je sada mjesto čiste prirodne tišine, bez glazbe i buke. Srdačan ručak daje snagu za povratnu vožnju uz obalu, dok zimsko sunce kupa paški mjesecolik krajolik u srebrnkasto svjetlo."
           },
           "stops": [
             {
@@ -1331,7 +1378,7 @@
                 "hu": "Kesztyű és szélálló ruházat elengedhetetlen itt.",
                 "ro": "Mănușile și hainele rezistente la vânt sunt esențiale aici.",
                 "en": "Gloves and windproof clothing are essential here.",
-                "hr": "Rukavice i odjeća otporna na vjetar ovdje su neophodni."
+                "hr": "Rukavice i vjetrootporna odjeća ovdje su neophodne."
               }
             },
             {
@@ -1341,7 +1388,7 @@
                 "hu": "A nyugalom itt télen különösen lenyűgöző.",
                 "ro": "Liniștea de aici este deosebit de impresionantă iarna.",
                 "en": "The tranquility here is especially impressive in winter.",
-                "hr": "Mir je ovdje posebno upečatljiv zimi."
+                "hr": "Tišina ovdje je posebno dojmljiva zimi."
               }
             },
             {
@@ -1361,7 +1408,7 @@
                 "hu": "Válasszon olívaolajjal készült meleg ételeket az erőnlétért.",
                 "ro": "Alegeți mâncăruri calde cu ulei de măsline pentru energie.",
                 "en": "Choose warm dishes with olive oil for energy.",
-                "hr": "Odaberite topla jela s maslinovim uljem za energiju."
+                "hr": "Birajte topla jela s maslinovim uljem za energiju."
               }
             },
             {
@@ -1371,7 +1418,7 @@
                 "hu": "Vigyázzon az oldalszéllel, különösen a nyílt szakaszokon.",
                 "ro": "Atenție la vântul lateral, în special în zonele deschise.",
                 "en": "Watch out for side winds, especially on open sections.",
-                "hr": "Pazite na bočni vjetar, osobito na otvorenim dijelovima."
+                "hr": "Pazite na bočni vjetar, posebno na otvorenim dionicama."
               }
             }
           ],
@@ -1405,11 +1452,11 @@
               "The Bura wind can make cycling impossible in exposed areas."
             ],
             "hr": [
-              "Tijekom vožnje zaštitite uši i ruke od hladnog vjetra.",
-              "Staze su zimi praznije, ali pripazite na zaleđene dijelove.",
-              "Maksimalno iskoristite dnevno svjetlo i vratite se prije 16:00 sati.",
-              "Termosica s čajem idealan je suputnik.",
-              "Bura može onemogućiti vožnju bicikla na izloženim područjima."
+              "Zaštitite uši i ruke od hladnog vjetra tijekom vožnje.",
+              "Staze su rjeđe zimi, ali pripazite na zaleđene dijelove.",
+              "Iskoristite dnevno svjetlo i vratite se prije 16:00.",
+              "Termosica čaja idealan je suputnik.",
+              "Bura može u izloženim dijelovima onemogućiti vožnju biciklom."
             ]
           }
         }
@@ -1428,7 +1475,8 @@
             "de": "Olivenhaine von Lun",
             "hu": "Luni olajfaligetek",
             "ro": "Grădinile de măslini din Lun",
-            "en": "Olive Groves of Lun"
+            "en": "Olive Groves of Lun",
+            "hr": "Maslinici Lunj"
           },
           "coords": [
             14.75,
@@ -1444,7 +1492,7 @@
             "hu": "Csodálja meg az több mint 1000 éves, vadon nőtt olajfákat.",
             "ro": "Admirați măslinii sălbatici de peste 1000 de ani.",
             "en": "Admire the wild olive trees, some of which are over 1000 years old.",
-            "hr": "Divite se divljim maslinama od kojih su neke starije od 1000 godina."
+            "hr": "Divite se divljim maslinama, od kojih su neke stare više od 1000 godina."
           }
         },
         {
@@ -1452,7 +1500,8 @@
             "de": "Pag-Dreieck",
             "hu": "Pagi háromszög",
             "ro": "Triunghiul din Pag",
-            "en": "Pag Triangle"
+            "en": "Pag Triangle",
+            "hr": "Paški trokut"
           },
           "coords": [
             14.935,
@@ -1468,7 +1517,7 @@
             "hu": "Rejtélyes lenyomat a kőzetben, amely sok találgatásra ad okot.",
             "ro": "O amprentă misterioasă în stâncă, care ridică multe întrebări.",
             "en": "A mysterious imprint in the rocks that remains a scientific puzzle.",
-            "hr": "Tajanstveni otisak u stijenama koji ostaje znanstvena zagonetka."
+            "hr": "Misteriozan otisak u stijenama koji i dalje predstavlja znanstvenu zagonetku."
           }
         },
         {
@@ -1476,7 +1525,8 @@
             "de": "Mittagessen in Novalja",
             "hu": "Ebéd Novalján",
             "ro": "Prânz în Novalja",
-            "en": "Lunch in Novalja"
+            "en": "Lunch in Novalja",
+            "hr": "Ručak u Novalji"
           },
           "coords": [
             14.884,
@@ -1492,7 +1542,7 @@
             "hu": "Kóstolja meg a pagi bárányt, amely helyi különlegesség.",
             "ro": "Încercați mielul de Pag, o specialitate locală.",
             "en": "Try the Pag lamb, a renowned local specialty.",
-            "hr": "Probajte pašku janjetinu, poznati lokalni specijalitet."
+            "hr": "Probajte pašku janjetinu, poznatu lokalnu specijalitetu."
           }
         },
         {
@@ -1500,7 +1550,8 @@
             "de": "Stadtmuseum & Aquädukt",
             "hu": "Városi Múzeum és Akvadukt",
             "ro": "Muzeul Orașului și Aveductul",
-            "en": "City Museum & Aqueduct"
+            "en": "City Museum & Aqueduct",
+            "hr": "Gradski muzej i akvadukt"
           },
           "coords": [
             14.881,
@@ -1516,7 +1567,7 @@
             "hu": "Rövid megálló a föld alatti római csoda megtekintéséhez.",
             "ro": "O scurtă oprire pentru a vedea minunea romană subterană.",
             "en": "A quick stop to see the underground Roman engineering marvel.",
-            "hr": "Kratko stajalište za uvid u podzemno rimsko inženjersko čudo."
+            "hr": "Brza stanica za razgled podzemnog rimskog inženjerskog čuda."
           }
         },
         {
@@ -1524,7 +1575,8 @@
             "de": "Caska-Bucht",
             "hu": "Caska-öböl",
             "ro": "Golful Caska",
-            "en": "Caska Bay"
+            "en": "Caska Bay",
+            "hr": "Uvala Caska"
           },
           "coords": [
             14.908,
@@ -1540,7 +1592,7 @@
             "hu": "Tökéletes zárás, kilátással a csendes öbölre.",
             "ro": "Încheiere perfectă cu o vedere asupra golfului liniștit.",
             "en": "A perfect finish with a view of the peaceful bay.",
-            "hr": "Savršen završetak uz pogled na mirnu uvalu."
+            "hr": "Savršen završetak s pogledom na mirnu uvalu."
           }
         }
       ],
@@ -1549,7 +1601,7 @@
         "hu": "Autóval fedezheti fel a sziget lenyűgöző kontrasztjait. Reggel utazzon egészen északra, a luni ezeréves olajfaligetekhez. Ezután az út a kopár kővidéken található rejtélyes Pagi háromszöghöz vezet. Egy kiadós novaljai ebéd és az ókori akvadukt rövid meglátogatása után a napot pihenéssel zárhatja a Caska-öbölben.",
         "ro": "Cu mașina veți explora contrastele fascinante ale insulei. Dimineața mergeți până în nord la grădinile de măslini milenare din Lun. Apoi, drumul duce către misteriosul Triunghi din Pag, în peisajul stâncos arid. După un prânz consistent în Novalja și o scurtă vizită la apeductul antic, încheiați ziua relaxându-vă în golful Caska.",
         "en": "By car, you can explore the fascinating contrasts of the island. In the morning, drive to the very north to visit the thousand-year-old olive groves of Lun. Then, the road leads to the mysterious Pag Triangle set in the barren rocky landscape. After a hearty lunch in Novalja and a brief visit to the ancient aqueduct, end your day relaxing in Caska Bay.",
-        "hr": "Automobilom možete istražiti fascinantne kontraste otoka. Ujutro se odvezite na sam sjever kako biste posjetili tisućljetne maslinike Luna. Zatim put vodi do tajanstvenog Paškog trokuta smještenog u pustom stjenovitom krajoliku. Nakon obilnog ručka u Novalji i kratkog posjeta antičkom akvaduktu, završite dan opuštajući se u uvali Caska."
+        "hr": "Autom možete istražiti fascinantne kontraste otoka. Ujutro se vozite na sam sjever kako biste posjetili tisućljetne maslinike Lunj. Zatim cesta vodi do misterioznog Paškog trokuta smještenog u kamenom, ogoljelom krajoliku. Nakon obilnog ručka u Novalji i kratke posjete starom akveduktu, završite dan opuštanjem u uvali Caska."
       },
       "gastro_picks": {
         "de": [
@@ -1678,10 +1730,10 @@
           "Pag island is known for strong 'Bura' winds."
         ],
         "hr": [
-          "Cesta za Lun je uska, stoga vozite oprezno.",
+          "Cesta prema Lunju je uska, vozite oprezno.",
           "Parkiranje u centru Novalje naplaćuje se tijekom ljetnih mjeseci.",
-          "Čvrsta obuća i voda neophodni su za posjet Paškom trokutu.",
-          "Otok Pag je poznat po snažnoj buri."
+          "Čvrsta obuća i voda obavezni su za posjet Paškom trokutu.",
+          "Otok Pag poznat je po snažnim 'Bura' vjetrovima."
         ]
       },
       "variants": {
@@ -1690,7 +1742,8 @@
             "de": "Mit dem Auto erkunden Sie die faszinierenden Kontraste der Insel. Am Morgen fahren Sie ganz in den Norden zu den tausendjährigen Olivenhainen von Lun. Danach führt der Weg zum mysteriösen Pag-Dreieck in der kargen Steinlandschaft. Nach einem stärkenden Mittagessen in Novalja und einem kurzen Besuch des antiken Aquädukts lassen Sie den Tag entspannt in der Caska-Bucht ausklingen.",
             "hu": "Autóval fedezheti fel a sziget lenyűgöző kontrasztjait. Reggel utazzon egészen északra, a luni ezeréves olajfaligetekhez. Ezután az út a kopár kővidéken található rejtélyes Pagi háromszöghöz vezet. Egy kiadós novaljai ebéd és az ókori akvadukt rövid meglátogatása után a napot pihenéssel zárhatja a Caska-öbölben.",
             "ro": "Cu mașina veți explora contrastele fascinante ale insulei. Dimineața mergeți până în nord la grădinile de măslini milenare din Lun. Apoi, drumul duce către misteriosul Triunghi din Pag, în peisajul stâncos arid. După un prânz consistent în Novalja și o scurtă vizită la apeductul antic, încheiați ziua relaxându-vă în golful Caska.",
-            "en": "By car, you can explore the fascinating contrasts of the island. In the morning, drive to the very north to visit the thousand-year-old olive groves of Lun. Then, the road leads to the mysterious Pag Triangle set in the barren rocky landscape. After a hearty lunch in Novalja and a brief visit to the ancient aqueduct, end your day relaxing in Caska Bay."
+            "en": "By car, you can explore the fascinating contrasts of the island. In the morning, drive to the very north to visit the thousand-year-old olive groves of Lun. Then, the road leads to the mysterious Pag Triangle set in the barren rocky landscape. After a hearty lunch in Novalja and a brief visit to the ancient aqueduct, end your day relaxing in Caska Bay.",
+            "hr": "Autom možete istražiti fascinantne kontraste otoka. Ujutro se vozite na sam sjever kako biste posjetili tisućljetne maslinike Lunj. Zatim cesta vodi do misterioznog Paškog trokuta smještenog u kamenom, ogoljelom krajoliku. Nakon obilnog ručka u Novalji i kratke posjete starom akveduktu, završite dan opuštanjem u uvali Caska."
           },
           "stops": [
             {
@@ -1698,13 +1751,15 @@
                 "de": "Olivenhaine von Lun",
                 "hu": "Luni olajfaligetek",
                 "ro": "Grădinile de măslini din Lun",
-                "en": "Olive Groves of Lun"
+                "en": "Olive Groves of Lun",
+                "hr": "Maslinici Lunj"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie über 1000 Jahre alte, wild gewachsene Olivenbäume.",
                 "hu": "Csodálja meg az több mint 1000 éves, vadon nőtt olajfákat.",
                 "ro": "Admirați măslinii sălbatici de peste 1000 de ani.",
-                "en": "Admire the wild olive trees, some of which are over 1000 years old."
+                "en": "Admire the wild olive trees, some of which are over 1000 years old.",
+                "hr": "Divite se divljim maslinama, od kojih su neke stare više od 1000 godina."
               }
             },
             {
@@ -1712,13 +1767,15 @@
                 "de": "Pag-Dreieck",
                 "hu": "Pagi háromszög",
                 "ro": "Triunghiul din Pag",
-                "en": "Pag Triangle"
+                "en": "Pag Triangle",
+                "hr": "Paški trokut"
               },
               "tip_5lang": {
                 "de": "Ein mysteriöser Abdruck im Gestein, der viele Rätsel aufgibt.",
                 "hu": "Rejtélyes lenyomat a kőzetben, amely sok találgatásra ad okot.",
                 "ro": "O amprentă misterioasă în stâncă, care ridică multe întrebări.",
-                "en": "A mysterious imprint in the rocks that remains a scientific puzzle."
+                "en": "A mysterious imprint in the rocks that remains a scientific puzzle.",
+                "hr": "Misteriozan otisak u stijenama koji i dalje predstavlja znanstvenu zagonetku."
               }
             },
             {
@@ -1726,13 +1783,15 @@
                 "de": "Mittagessen in Novalja",
                 "hu": "Ebéd Novalján",
                 "ro": "Prânz în Novalja",
-                "en": "Lunch in Novalja"
+                "en": "Lunch in Novalja",
+                "hr": "Ručak u Novalji"
               },
               "tip_5lang": {
                 "de": "Probieren Sie Pager Lammfleisch, eine lokale Spezialität.",
                 "hu": "Kóstolja meg a pagi bárányt, amely helyi különlegesség.",
                 "ro": "Încercați mielul de Pag, o specialitate locală.",
-                "en": "Try the Pag lamb, a renowned local specialty."
+                "en": "Try the Pag lamb, a renowned local specialty.",
+                "hr": "Probajte pašku janjetinu, poznatu lokalnu specijalitetu."
               }
             },
             {
@@ -1740,13 +1799,15 @@
                 "de": "Stadtmuseum & Aquädukt",
                 "hu": "Városi Múzeum és Akvadukt",
                 "ro": "Muzeul Orașului și Aveductul",
-                "en": "City Museum & Aqueduct"
+                "en": "City Museum & Aqueduct",
+                "hr": "Gradski muzej i akvedukt"
               },
               "tip_5lang": {
                 "de": "Kurzer Stopp, um das unterirdische römische Wunder zu sehen.",
                 "hu": "Rövid megálló a föld alatti római csoda megtekintéséhez.",
                 "ro": "O scurtă oprire pentru a vedea minunea romană subterană.",
-                "en": "A quick stop to see the underground Roman engineering marvel."
+                "en": "A quick stop to see the underground Roman engineering marvel.",
+                "hr": "Brza stanica za razgled podzemnog rimskog inženjerskog čuda."
               }
             },
             {
@@ -1754,13 +1815,15 @@
                 "de": "Caska-Bucht",
                 "hu": "Caska-öböl",
                 "ro": "Golful Caska",
-                "en": "Caska Bay"
+                "en": "Caska Bay",
+                "hr": "Uvala Caska"
               },
               "tip_5lang": {
                 "de": "Perfekter Abschluss mit einem Blick auf die ruhige Bucht.",
                 "hu": "Tökéletes zárás, kilátással a csendes öbölre.",
                 "ro": "Încheiere perfectă cu o vedere asupra golfului liniștit.",
-                "en": "A perfect finish with a view of the peaceful bay."
+                "en": "A perfect finish with a view of the peaceful bay.",
+                "hr": "Savršen završetak s pogledom na mirnu uvalu."
               }
             }
           ],
@@ -1870,6 +1933,12 @@
               "Parking in Novalja center is paid during the summer months.",
               "Sturdy shoes and water are a must for visiting the Pag Triangle.",
               "Pag island is known for strong 'Bura' winds."
+            ],
+            "hr": [
+              "Cesta prema Lunju je uska, vozite oprezno.",
+              "Parkiranje u centru Novalje naplaćuje se tijekom ljetnih mjeseci.",
+              "Čvrsta obuća i voda obavezni su za posjet Paškom trokutu.",
+              "Otok Pag poznat je po snažnim 'Bura' vjetrovima."
             ]
           }
         },
@@ -1879,7 +1948,7 @@
             "hu": "A luni olajfaligetek szinte misztikusak az esőben, a levelek ezüstje megcsillan a felhők alatt. A Pági-háromszög esőben nehezebben megközelíthető, de vad és zord esztétikát kínál. Novaljába visszatérve egy kellemes ebéd hívogat, majd a városi múzeum száraz tárlata következik. A nap a Caska-öbölnél zárul, miközben az eső halkan kopog az autó tetőjén.",
             "ro": "Grădinile de măslini din Lun par aproape mistice în ploaie, argintiul frunzelor strălucind sub nori. Triunghiul de la Pag este mai greu accesibil pe ploaie, dar oferă o estetică sălbatică și aspră. Revenind în Novalja, un prânz plăcut vă invită la relaxare, urmat de vizita la muzeul orașului, ferit de umezeală. Ziua se încheie la golful Caska, cu ploaia bătând încet în plafonul mașinii.",
             "en": "The olive groves of Lun look almost mystical in the rain, with the silvery leaves shining under the clouds. The Pag Triangle is harder to access in the rain but offers a wild, rugged aesthetic. Returning to Novalja, a pleasant lunch invites you to linger, followed by a visit to the dry City Museum. The day ends at Caska Bay, with the rain softly tapping on the car roof.",
-            "hr": "Maslinici Luna izgledaju gotovo mistično na kiši, sa srebrnastim lišćem koje sjaji pod oblacima. Paški trokut teže je dostupan na kiši, ali nudi divlju, robusnu estetiku. Povratkom u Novalju, ugodan ručak poziva vas na zadržavanje, nakon čega slijedi posjet suhom Gradskom muzeju. Dan završava u uvali Caska, uz tiho kuckanje kiše po krovu automobila."
+            "hr": "Maslinici Lunj izgledaju gotovo mistično na kiši, sa srebrnkastim lišćem koje sjaji pod oblacima. Paški trokut je teže pristupačan po kiši, ali nudi divlju, oštru estetsku sliku. Povratak u Novalju poziva na ugodan ručak i zatim posjet suhom Gradskom muzeju. Dan završava u uvali Caska, dok kiša tiho udara po krovu automobila."
           },
           "stops": [
             {
@@ -1889,7 +1958,7 @@
                 "hu": "A kiépített utak esőben is jól járhatóak.",
                 "ro": "Drumurile amenajate sunt ușor de parcurs și pe ploaie.",
                 "en": "The paved paths are easily accessible even in the rain.",
-                "hr": "Popločane staze lako su dostupne čak i na kiši."
+                "hr": "Asfaltirane staze lako su pristupačne čak i po kiši."
               }
             },
             {
@@ -1899,7 +1968,7 @@
                 "hu": "A talaj csúszós lehet, a túrabakancs kötelező.",
                 "ro": "Terenul poate fi alunecos, încălțămintea adecvată este obligatorie.",
                 "en": "The ground can be slippery; sturdy footwear is mandatory.",
-                "hr": "Tlo može biti sklisko; čvrsta obuća je obavezna."
+                "hr": "Tlo može biti sklisko; obavezna je čvrsta obuća."
               }
             },
             {
@@ -1919,7 +1988,7 @@
                 "hu": "Ideális megálló a legnagyobb záporok átvészelésére.",
                 "ro": "Oprire ideală pentru a aștepta trecerea ploilor torențiale.",
                 "en": "Ideal stop to wait out the heaviest rain showers.",
-                "hr": "Idealno stajalište za pričekati da prođu najjači pljuskovi."
+                "hr": "Idealna stanica za čekanje najjačih pljuskova."
               }
             },
             {
@@ -1929,7 +1998,7 @@
                 "hu": "Élvezze a tenger látványát közvetlenül az autóból.",
                 "ro": "Bucurați-vă de vederea la mare direct din mașină.",
                 "en": "Enjoy the sea view directly from your car.",
-                "hr": "Uživajte u pogledu na more izravno iz svog automobila."
+                "hr": "Uživajte u pogledu na more izravno iz auta."
               }
             }
           ],
@@ -1963,11 +2032,11 @@
               "Keep windows defogged for safe driving."
             ],
             "hr": [
-              "Pazite na akvaplaning na glavnoj cesti prema Lunu.",
-              "Vidljivost može biti ograničena na zavojitim cestama tijekom jake kiše.",
-              "Parkiranje u Novalji često je lakše pronaći na kiši.",
-              "Neke neasfaltirane ceste do Paškog trokuta mogu biti previše blatnjave za automobile.",
-              "Održavajte stakla odmagljenima za sigurnu vožnju."
+              "Pazite na akvaplaning na glavnoj cesti prema Lunju.",
+              "Vidljivost može biti ograničena na vijugavim cestama tijekom jake kiše.",
+              "Parkiranje u Novalji često je lakše pronaći po kiši.",
+              "Neke zemljane ceste prema Paškome trokutu mogu biti preblatne za automobile.",
+              "Držite prozore odmagljene radi sigurne vožnje."
             ]
           }
         },
@@ -1977,7 +2046,7 @@
             "hu": "A többezer éves luni olajfák büszkén állnak a tiszta téli levegőben, az állandóság szimbólumaként. A Pági-háromszög télen még magányosabbnak és titokzatosabbnak tűnik. Novaljában egy hangulatos ebéd melengeti az érzékeket, mielőtt a múzeum betekintést enged az antik korba. Zárásként a Caska-öböl békés hátteret nyújt a korai, ragyogó téli naplementéhez.",
             "ro": "Măslinii milenari din Lun stau mândri în aerul clar de iarnă, simboluri ale statorniciei. Triunghiul de la Pag pare și mai solitar și misterios în acest sezon. În Novalja, un prânz primitor vă încălzește simțurile înainte ca muzeul să vă ofere o incursiune în antichitate. La final, golful Caska oferă un decor liniștit pentru apusul strălucitor de iarnă.",
             "en": "The thousand-year-old olive trees of Lun stand proud in the clear winter air, symbols of endurance. The Pag Triangle feels even more solitary and mysterious in winter. In Novalja, a cozy lunch warms the senses before the City Museum offers deep insights into antiquity. To finish, Caska Bay provides a peaceful backdrop for the early, glowing winter sunset.",
-            "hr": "Tisućljetne masline Luna ponosno stoje na čistom zimskom zraku, simboli izdržljivosti. Paški trokut zimi djeluje još samotnije i tajanstvenije. U Novalji, ugodan ručak grije osjetila prije nego što Gradski muzej ponudi dubok uvid u antiku. Za kraj, uvala Caska pruža mirnu kulisu za rani, blistavi zimski zalazak sunca."
+            "hr": "Tisućljetne masline Lunj stoje ponosno u jasnom zimskom zraku, simboli izdržljivosti. Paški trokut djeluje još samotnije i tajanstvenije zimi. U Novalji ugodan ručak grije osjetila prije nego što Gradski muzej ponudi duboke uvide u antiku. Za kraj, uvala Caska pruža mirnu pozadinu za rani, svjetlucavi zimski zalazak sunca."
           },
           "stops": [
             {
@@ -1987,7 +2056,7 @@
                 "hu": "Az olajfák kora télen gyakran még az utolsó terméseket hordozzák.",
                 "ro": "Măslinii poartă adesea ultimele fructe la începutul iernii.",
                 "en": "The olive trees often still carry the last fruits in early winter.",
-                "hr": "Masline često još uvijek nose posljednje plodove u ranoj zimi."
+                "hr": "Masline često i početkom zime još nose posljednje plodove."
               }
             },
             {
@@ -1997,7 +2066,7 @@
                 "hu": "Öltözzön melegen, itt fent a szél nagyon metsző lehet.",
                 "ro": "Îmbrăcați-vă gros, vântul poate fi foarte tăios aici sus.",
                 "en": "Dress warmly; the wind up here can be very biting.",
-                "hr": "Odjenite se toplo; vjetar ovdje može biti vrlo oštar."
+                "hr": "Obucite se toplo; vjetar ovdje može jako bosti."
               }
             },
             {
@@ -2007,7 +2076,7 @@
                 "hu": "A helyi borok kiválóan illenek a tartalmas téli ételekhez.",
                 "ro": "Vinurile locale se potrivesc excelent cu preparatele de iarnă.",
                 "en": "Local wines pair excellently with hearty winter dishes.",
-                "hr": "Lokalna vina izvrsno se slažu s krepkim zimskim jelima."
+                "hr": "Lokalna vina izvrsno prate obilna zimska jela."
               }
             },
             {
@@ -2017,7 +2086,7 @@
                 "hu": "Ellenőrizze a téli nyitvatartást, rövidebb lehet a megszokottnál.",
                 "ro": "Verificați programul de iarnă, acesta poate fi redus.",
                 "en": "Check winter opening hours; they might be shorter than usual.",
-                "hr": "Provjerite zimsko radno vrijeme; može biti kraće nego inače."
+                "hr": "Provjerite zimsko radno vrijeme; možda je kraće nego inače."
               }
             },
             {
@@ -2061,11 +2130,11 @@
               "Gas stations often have slightly modified opening hours in winter."
             ],
             "hr": [
-              "Zimske gume su preporučljive u slučaju rijetkih naleta hladnoće na otoku.",
-              "Bura ponekad može dovesti do zatvaranja Paškog mosta.",
-              "Uživajte u praznim cestama za opuštenu panoramsku vožnju.",
-              "Uvijek imajte deku i tople napitke u automobilu.",
-              "Benzinske postaje zimi često imaju nešto izmijenjeno radno vrijeme."
+              "Zimske gume su preporučljive u slučaju rijetkih hladnih udara na otoku.",
+              "Ponekad bura dovede do zatvaranja Paškog mosta.",
+              "Uživajte u praznim cestama za opuštene panoramske vožnje.",
+              "Uvijek imajte deku i tople napitke u autu.",
+              "Benzinske postaje često imaju nešto izmijenjeno radno vrijeme zimi."
             ]
           }
         }
@@ -2084,7 +2153,8 @@
             "de": "Stadtmuseum & Römischer Aquädukt",
             "hu": "Városi Múzeum és Római Akvadukt",
             "ro": "Muzeul Orașului și Apeductul Roman",
-            "en": "City Museum & Roman Aqueduct"
+            "en": "City Museum & Roman Aqueduct",
+            "hr": "Gradski muzej i rimski akvedukt"
           },
           "coords": [
             14.881,
@@ -2100,7 +2170,7 @@
             "hu": "Központi fekvésű, a legtöbb szállásról könnyen elérhető gyalog.",
             "ro": "Situat central, ușor de ajuns pe jos de la majoritatea cazărilor.",
             "en": "Centrally located, easily reachable on foot from most accommodations.",
-            "hr": "Centralno smješten, lako dostupan pješice iz većine smještaja."
+            "hr": "Središnje smješten, lako dostupan pješice iz većine smještaja."
           }
         },
         {
@@ -2108,7 +2178,8 @@
             "de": "Bus nach Zrće",
             "hu": "Busz Zrće-re",
             "ro": "Autobuz către Zrće",
-            "en": "Bus to Zrće"
+            "en": "Bus to Zrće",
+            "hr": "Autobus do Zrća"
           },
           "coords": [
             14.885,
@@ -2124,7 +2195,7 @@
             "hu": "Használja a shuttle buszt, amely rendszeresen indul a központból.",
             "ro": "Utilizați autobuzul shuttle care pleacă regulat din centru.",
             "en": "Use the shuttle bus that departs regularly from the city center.",
-            "hr": "Koristite shuttle bus koji redovito polazi iz centra grada."
+            "hr": "Iskoristite shuttle autobus koji polazi redovito iz centra grada."
           }
         },
         {
@@ -2132,7 +2203,8 @@
             "de": "Strand Zrće",
             "hu": "Zrće strand",
             "ro": "Plaja Zrće",
-            "en": "Zrće Beach"
+            "en": "Zrće Beach",
+            "hr": "Plaža Zrće"
           },
           "coords": [
             14.914,
@@ -2148,7 +2220,7 @@
             "hu": "A buszok közvetlenül a strand területének bejáratánál állnak meg.",
             "ro": "Autobuzele opresc chiar la intrarea în zona plajei.",
             "en": "The buses stop right at the entrance to the beach area.",
-            "hr": "Autobusi staju točno na ulazu u područje plaže."
+            "hr": "Autobusi staju odmah na ulazu u područje plaže."
           }
         },
         {
@@ -2156,7 +2228,8 @@
             "de": "Mittagessen am Strand",
             "hu": "Ebéd a strandon",
             "ro": "Prânz pe plajă",
-            "en": "Lunch at the Beach"
+            "en": "Lunch at the Beach",
+            "hr": "Ručak na plaži"
           },
           "coords": [
             14.912,
@@ -2172,7 +2245,7 @@
             "hu": "Sok beach-bár kínál jó ebédmenüket is.",
             "ro": "Multe baruri de pe plajă oferă și meniuri de prânz bune.",
             "en": "Many beach bars also offer good lunch menus.",
-            "hr": "Mnogi barovi na plaži nude i dobre menije za ručak."
+            "hr": "Mnogi beach barovi nude i dobre ručak-menije."
           }
         },
         {
@@ -2180,7 +2253,8 @@
             "de": "Strand Straško",
             "hu": "Straško strand",
             "ro": "Plaja Straško",
-            "en": "Straško Beach"
+            "en": "Straško Beach",
+            "hr": "Plaža Straško"
           },
           "coords": [
             14.87,
@@ -2205,7 +2279,7 @@
         "hu": "A jól kiépített helyi buszhálózatnak köszönhetően kényelmesen elérheti Novalja nevezetességeit. Reggel látogassa meg a központban lévő múzeumot. Egy shuttle busz ezután elviszi a híres Zrće strandra, ahol a délelőttöt töltheti és megebédelhet. Délután a busz a családbarát Straško strandra viszi, mielőtt este visszatérne a központba.",
         "ro": "Datorită sistemului de autobuze locale bine pus la punct, puteți ajunge confortabil la atracțiile din Novalja. Dimineața vizitați muzeul din centru. Un autobuz shuttle vă va duce apoi la celebra plajă Zrće, unde vă puteți petrece dimineața și lua prânzul. După-amiaza, autobuzul vă duce la plaja Straško, ideală pentru familii, înainte de a reveni seara în centru.",
         "en": "Thanks to the well-developed local bus system, you can easily reach the highlights of Novalja. In the morning, visit the museum in the city center. A shuttle bus then takes you to the famous Zrće beach, where you can spend the morning and have lunch. In the afternoon, the bus takes you to the family-friendly Straško beach before returning to the center in the evening.",
-        "hr": "Zahvaljujući dobro razvijenom lokalnom autobusnom sustavu, lako možete doći do glavnih točaka Novalje. Ujutro posjetite muzej u centru grada. Shuttle bus vas zatim vodi do poznate plaže Zrće, gdje možete provesti jutro i ručati. Poslijepodne vas autobus vozi do obiteljske plaže Straško prije povratka u centar navečer."
+        "hr": "Zahvaljujući dobro razvijenom lokalnom autobusnom sustavu, lako možete doći do glavnih atrakcija Novalje. Ujutro posjetite muzej u centru grada. Shuttle autobus potom vas vodi do poznate plaže Zrće, gdje možete provesti jutro i imati ručak. Poslijepodne autobus vozi do obiteljski prilagođene plaže Straško prije povratka u centar navečer."
       },
       "gastro_picks": {
         "de": [
@@ -2334,9 +2408,9 @@
           "The main hub for all buses is the roundabout in the city center."
         ],
         "hr": [
-          "Karte za shuttle bus kupite izravno kod vozača.",
-          "Autobusi ljeti voze vrlo često, često i kasno u noć.",
-          "Provjerite važeće vozne redove istaknute na autobusnim stajalištima.",
+          "Karte za shuttle autobus kupite izravno kod vozača.",
+          "Autobusi voze vrlo često ljeti, često i kasno u noć.",
+          "Provjerite aktualne vozne redove istaknute na stajalištima.",
           "Glavno čvorište za sve autobuse je kružni tok u centru grada."
         ]
       },
@@ -2346,7 +2420,8 @@
             "de": "Dank des gut ausgebauten lokalen Bussystems können Sie die Highlights von Novalja bequem erreichen. Am Morgen besuchen Sie das Museum im Zentrum. Ein Shuttle-Bus bringt Sie dann zum berühmten Strand Zrće, wo Sie den Vormittag verbringen und zu Mittag essen. Am Nachmittag bringt Sie der Bus zum familienfreundlichen Strand Straško, bevor Sie am Abend wieder ins Zentrum zurückkehren.",
             "hu": "A jól kiépített helyi buszhálózatnak köszönhetően kényelmesen elérheti Novalja nevezetességeit. Reggel látogassa meg a központban lévő múzeumot. Egy shuttle busz ezután elviszi a híres Zrće strandra, ahol a délelőttöt töltheti és megebédelhet. Délután a busz a családbarát Straško strandra viszi, mielőtt este visszatérne a központba.",
             "ro": "Datorită sistemului de autobuze locale bine pus la punct, puteți ajunge confortabil la atracțiile din Novalja. Dimineața vizitați muzeul din centru. Un autobuz shuttle vă va duce apoi la celebra plajă Zrće, unde vă puteți petrece dimineața și lua prânzul. După-amiaza, autobuzul vă duce la plaja Straško, ideală pentru familii, înainte de a reveni seara în centru.",
-            "en": "Thanks to the well-developed local bus system, you can easily reach the highlights of Novalja. In the morning, visit the museum in the city center. A shuttle bus then takes you to the famous Zrće beach, where you can spend the morning and have lunch. In the afternoon, the bus takes you to the family-friendly Straško beach before returning to the center in the evening."
+            "en": "Thanks to the well-developed local bus system, you can easily reach the highlights of Novalja. In the morning, visit the museum in the city center. A shuttle bus then takes you to the famous Zrće beach, where you can spend the morning and have lunch. In the afternoon, the bus takes you to the family-friendly Straško beach before returning to the center in the evening.",
+            "hr": "Zahvaljujući dobro razvijenom lokalnom autobusnom sustavu, lako možete doći do glavnih atrakcija Novalje. Ujutro posjetite muzej u centru grada. Shuttle autobus potom vas vodi do poznate plaže Zrće, gdje možete provesti jutro i imati ručak. Poslijepodne autobus vozi do obiteljski prilagođene plaže Straško prije povratka u centar navečer."
           },
           "stops": [
             {
@@ -2354,13 +2429,15 @@
                 "de": "Stadtmuseum & Römischer Aquädukt",
                 "hu": "Városi Múzeum és Római Akvadukt",
                 "ro": "Muzeul Orașului și Apeductul Roman",
-                "en": "City Museum & Roman Aqueduct"
+                "en": "City Museum & Roman Aqueduct",
+                "hr": "Gradski muzej i rimski akvedukt"
               },
               "tip_5lang": {
                 "de": "Zentral gelegen, leicht von den meisten Unterkünften zu Fuß erreichbar.",
                 "hu": "Központi fekvésű, a legtöbb szállásról könnyen elérhető gyalog.",
                 "ro": "Situat central, ușor de ajuns pe jos de la majoritatea cazărilor.",
-                "en": "Centrally located, easily reachable on foot from most accommodations."
+                "en": "Centrally located, easily reachable on foot from most accommodations.",
+                "hr": "Središnje smješten, lako dostupan pješice iz većine smještaja."
               }
             },
             {
@@ -2368,13 +2445,15 @@
                 "de": "Bus nach Zrće",
                 "hu": "Busz Zrće-re",
                 "ro": "Autobuz către Zrće",
-                "en": "Bus to Zrće"
+                "en": "Bus to Zrće",
+                "hr": "Autobus do Zrća"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Shuttle-Bus, der regelmäßig vom Zentrum abfährt.",
                 "hu": "Használja a shuttle buszt, amely rendszeresen indul a központból.",
                 "ro": "Utilizați autobuzul shuttle care pleacă regulat din centru.",
-                "en": "Use the shuttle bus that departs regularly from the city center."
+                "en": "Use the shuttle bus that departs regularly from the city center.",
+                "hr": "Iskoristite shuttle autobus koji polazi redovito iz centra grada."
               }
             },
             {
@@ -2382,13 +2461,15 @@
                 "de": "Strand Zrće",
                 "hu": "Zrće strand",
                 "ro": "Plaja Zrće",
-                "en": "Zrće Beach"
+                "en": "Zrće Beach",
+                "hr": "Plaža Zrće"
               },
               "tip_5lang": {
                 "de": "Die Busse halten direkt am Eingang des Strandgeländes.",
                 "hu": "A buszok közvetlenül a strand területének bejáratánál állnak meg.",
                 "ro": "Autobuzele opresc chiar la intrarea în zona plajei.",
-                "en": "The buses stop right at the entrance to the beach area."
+                "en": "The buses stop right at the entrance to the beach area.",
+                "hr": "Autobusi staju odmah na ulazu u područje plaže."
               }
             },
             {
@@ -2396,13 +2477,15 @@
                 "de": "Mittagessen am Strand",
                 "hu": "Ebéd a strandon",
                 "ro": "Prânz pe plajă",
-                "en": "Lunch at the Beach"
+                "en": "Lunch at the Beach",
+                "hr": "Ručak na plaži"
               },
               "tip_5lang": {
                 "de": "Viele Beach-Bars bieten auch gute Mittagsmenüs an.",
                 "hu": "Sok beach-bár kínál jó ebédmenüket is.",
                 "ro": "Multe baruri de pe plajă oferă și meniuri de prânz bune.",
-                "en": "Many beach bars also offer good lunch menus."
+                "en": "Many beach bars also offer good lunch menus.",
+                "hr": "Mnogi beach barovi nude i dobre ručak-menije."
               }
             },
             {
@@ -2410,13 +2493,15 @@
                 "de": "Strand Straško",
                 "hu": "Straško strand",
                 "ro": "Plaja Straško",
-                "en": "Straško Beach"
+                "en": "Straško Beach",
+                "hr": "Plaža Straško"
               },
               "tip_5lang": {
                 "de": "Ein lokaler Minibus verbindet die großen Campingplätze und Strände.",
                 "hu": "Egy helyi mikrobusz köti össze a nagyobb kempingeket és strandokat.",
                 "ro": "Un microbuz local conectează marile campinguri și plajele.",
-                "en": "A local minibus connects the major campsites and beaches."
+                "en": "A local minibus connects the major campsites and beaches.",
+                "hr": "Lokalni minibus povezuje glavne kampove i plaže."
               }
             }
           ],
@@ -2526,6 +2611,12 @@
               "Buses run very frequently in summer, often late into the night.",
               "Check the current timetables posted at the bus stops.",
               "The main hub for all buses is the roundabout in the city center."
+            ],
+            "hr": [
+              "Kupite karte za shuttle autobus izravno od vozača.",
+              "Autobusi voze vrlo često ljeti, često i kasno u noć.",
+              "Provjerite aktualne vozne redove istaknute na autobusnim stajalištima.",
+              "Glavno čvorište za sve autobuse je kružni tok u centru grada."
             ]
           }
         },
@@ -2535,7 +2626,7 @@
             "hu": "Használja a buszt, hogy szárazon jusson el a múzeumba, ahol a római mérnöki tudás lenyűgözi. A Zrće felé tartó út esőben rövid, az üres strand pedig drámai látványt nyújt. Egy közvetlen tengerparti ebéd során a hullámzást hallgathatja a melegben ülve. Délután a busz a Straško strandra viszi, ahol a kávézók barátságos menedéket nyújtanak.",
             "ro": "Folosiți autobuzul pentru a ajunge uscat la muzeu, unde tehnica romană este impresionantă. Drumul spre Zrće este scurt pe ploaie, iar plaja goală oferă o priveliște dramatică. Un prânz chiar pe malul mării vă permite să ascultați valurile stând la căldură. După-amiaza, autobuzul vă duce la plaja Straško, unde cafenelele oferă refugii primitoare.",
             "en": "Use the bus to reach the City Museum dryly, where Roman engineering is impressive. The ride to Zrće is short in the rain, and the empty beach offers a dramatic sight. A lunch right by the sea lets you listen to the waves while sitting in the warm. In the afternoon, the bus takes you to Straško beach, where cafes provide cozy shelters.",
-            "hr": "Koristite autobus kako biste suhi stigli do Gradskog muzeja, gdje je rimsko inženjerstvo impresivno. Vožnja do Zrća je kratka na kiši, a prazna plaža nudi dramatičan prizor. Ručak tik uz more omogućuje vam slušanje valova dok sjedite na toplom. Poslijepodne vas autobus vozi do plaže Straško, gdje kafići pružaju ugodna skloništa."
+            "hr": "Koristite autobus za dolazak do Gradskog muzeja suho, gdje je rimsko inženjerstvo impresivno. Vožnja do Zrća je kratka po kiši, a prazna plaža pruža dramatičan prizor. Ručak uz more omogućuje da slušate valove dok sjedite u toplini. Poslijepodne autobus vozi do plaže Straško, gdje kafići nude ugodne zaklone."
           },
           "stops": [
             {
@@ -2545,7 +2636,7 @@
                 "hu": "A buszmegálló mindössze pár perc sétára található.",
                 "ro": "Stația de autobuz se află la doar câteva minute de mers pe jos.",
                 "en": "The bus stop is just a few minutes' walk away.",
-                "hr": "Autobusna stanica udaljena je svega nekoliko minuta hoda."
+                "hr": "Autobusno stajalište je samo nekoliko minuta hoda."
               }
             },
             {
@@ -2555,7 +2646,7 @@
                 "hu": "Várjon a kikötő fedett buszváróiban.",
                 "ro": "Așteptați în stațiile acoperite de lângă port.",
                 "en": "Wait in the covered bus shelters near the harbor.",
-                "hr": "Pričekajte u natkrivenim autobusnim skloništima u blizini luke."
+                "hr": "Pričekajte u natkrivenim autobusnim zaklonima blizu luke."
               }
             },
             {
@@ -2565,7 +2656,7 @@
                 "hu": "A legtöbb strandrész elhagyatott esőben.",
                 "ro": "Majoritatea zonelor de plajă sunt pustii pe ploaie.",
                 "en": "Most beach areas are deserted in the rain.",
-                "hr": "Većina plaža je pusta na kiši."
+                "hr": "Većina plaža ostane pusta po kiši."
               }
             },
             {
@@ -2585,7 +2676,7 @@
                 "hu": "Rossz időben a buszmenetrend kismértékben eltérhet.",
                 "ro": "Programul autobuzelor poate varia ușor pe vreme rea.",
                 "en": "The bus schedule may vary slightly during bad weather.",
-                "hr": "Vozni red autobusa može se malo razlikovati tijekom lošeg vremena."
+                "hr": "Vozni red može se neznatno razlikovati tijekom lošeg vremena."
               }
             }
           ],
@@ -2619,11 +2710,11 @@
               "Have change or a card ready for the ticket purchase."
             ],
             "hr": [
-              "Provjerite vozni red online kako biste izbjegli čekanje na kiši.",
-              "Gradski autobusi u Novalji rjeđe voze zimi i tijekom kiše.",
-              "Nosite vodootpornu odjeću za hodanje između stanice i odredišta.",
+              "Provjerite vozni red online da izbjegnete čekanje na kiši.",
+              "Novaljski gradski autobusi voze rjeđe zimi i za vrijeme kiše.",
+              "Nosite vodonepropusnu odjeću za hod između stajališta i odredišta.",
               "Autobusi su obično ugodno temperirani.",
-              "Imajte spreman sitniš ili karticu za kupnju karte."
+              "Pripremite sitniš ili karticu za kupnju karte."
             ]
           }
         },
@@ -2633,7 +2724,7 @@
             "hu": "Élvezze a nyugodt buszozást a múzeumba, ahol a történelem nyüzsgés nélkül élhető át. A busz a magányos Zrće strandra viszi, amely a téli fényben lenyűgöző tágasságot áraszt. Egy meleg tengerparti ebéd energiát ad, mielőtt továbbmenne a Straško strandra. A téli csendet csak az Adria zúgása töri meg, miközben kényelmesen utazik a busszal.",
             "ro": "Bucurați-vă de o călătorie liniștită spre muzeu, unde istoria poate fi trăită fără agitație. Autobuzul vă duce la plaja solitară Zrće, care emană o vastitate fascinantă în lumina iernii. Un prânz cald pe malul mării vă dă energie înainte de a continua spre plaja Straško. Liniștea iernii este întreruptă doar de vuietul Adriaticii în timp ce călătoriți confortabil.",
             "en": "Enjoy a quiet bus ride to the City Museum, where history can be experienced without the summer bustle. The bus takes you to the solitary Zrće beach, which radiates a fascinating vastness in the winter light. A warm lunch by the sea gives you energy before continuing to Straško beach. The winter silence is only interrupted by the roar of the Adriatic while you travel comfortably by bus.",
-            "hr": "Uživajte u mirnoj vožnji autobusom do Gradskog muzeja, gdje se povijest može doživjeti bez ljetne vreve. Autobus vas vodi do samotne plaže Zrće, koja na zimskom svjetlu zrači fascinantnim prostranstvom. Topli ručak uz more daje vam energiju prije nastavka prema plaži Straško. Zimsku tišinu prekida samo hučanje Jadrana dok se udobno vozite autobusom."
+            "hr": "Uživajte u mirnoj vožnji autobusom do Gradskog muzeja, gdje se povijest može doživjeti bez ljetne vreve. Autobus vas vodi do samotne plaže Zrće, koja zimi zrači fascinantnom prostranošću. Topli ručak uz more daje vam energiju prije nastavka do plaže Straško. Zimski mir prekida samo rika Jadrana dok putujete udobno autobusom."
           },
           "stops": [
             {
@@ -2643,7 +2734,7 @@
                 "hu": "Meleg belső tér, tökéletes kezdés a téli napon.",
                 "ro": "Un spațiu interior cald, perfect pentru începutul unei zile de iarnă.",
                 "en": "A warm interior, perfect for starting a winter day.",
-                "hr": "Topla unutrašnjost, savršena za početak zimskog dana."
+                "hr": "Topao interijer, savršen za početak zimskog dana."
               }
             },
             {
@@ -2653,7 +2744,7 @@
                 "hu": "A téli menetrend jelentősen ritkább, tervezzen pontosan.",
                 "ro": "Programul de iarnă este mult redus, planificați cu atenție.",
                 "en": "The winter schedule is significantly reduced; plan carefully.",
-                "hr": "Zimski vozni red je značajno smanjen; planirajte pažljivo."
+                "hr": "Zimski vozni red je znatno reduciran; planirajte pažljivo."
               }
             },
             {
@@ -2663,7 +2754,7 @@
                 "hu": "Sétáljon az üres parton, mielőtt indul a visszajárat.",
                 "ro": "Plimbați-vă pe malul pustiu înainte ca autobuzul să se întoarcă.",
                 "en": "Hike along the empty shore before the bus departs back.",
-                "hr": "Prošećite praznom obalom prije polaska autobusa natrag."
+                "hr": "Prošećite uz praznu obalu prije polaska autobusa natrag."
               }
             },
             {
@@ -2673,7 +2764,7 @@
                 "hu": "Ellenőrizze előre, mely strandbüfék vannak nyitva télen.",
                 "ro": "Verificați din timp ce localuri de pe plajă sunt deschise iarna.",
                 "en": "Check in advance which beach bars/restaurants are open in winter.",
-                "hr": "Unaprijed provjerite koji su barovi/restorani na plaži otvoreni zimi."
+                "hr": "Provjerite unaprijed koji su beach barovi/restorani otvoreni zimi."
               }
             },
             {
@@ -2683,7 +2774,7 @@
                 "hu": "Az utolsó busz gyakran már röviddel naplemente után indul.",
                 "ro": "Ultima cursă de întoarcere este adesea imediat după apus.",
                 "en": "The last return trip is often shortly after sunset.",
-                "hr": "Posljednji povratni put je često ubrzo nakon zalaska sunca."
+                "hr": "Posljednje povratno putovanje često je nedugo nakon zalaska sunca."
               }
             }
           ],
@@ -2717,11 +2808,11 @@
               "The bus ride offers great views of the winter island landscape."
             ],
             "hr": [
-              "Zimi vozi manje autobusa, često samo linije za lokalno stanovništvo.",
+              "U zimi vozi manje autobusa, često samo linije za mještane.",
               "Autobusna stajališta pružaju zaklon od hladnog vjetra.",
-              "Fotografirajte vozni red telefonom.",
-              "Točnost je važna jer se na sljedeći autobus može dugo čekati.",
-              "Vožnja autobusom nudi prekrasan pogled na zimski krajolik otoka."
+              "Fotografirajte vozni red mobitelom.",
+              "Točnost je važna jer sljedeći autobus može biti dugo čekanje.",
+              "Vožnja autobusom nudi izvrsne poglede na zimski otočni krajolik."
             ]
           }
         }
@@ -2753,19 +2844,22 @@
       "de": "Kroatisch ist Amtssprache; am Zrće-Strand dominieren Englisch und Deutsch wegen des internationalen Partypublikums.",
       "hu": "A hivatalos nyelv a horvát; a Zrće strandon a nemzetközi bulizó közönség miatt az angol és német dominál.",
       "ro": "Limba oficială este croata; pe plaja Zrće predomină engleza și germana datorită publicului internațional de petrecere.",
-      "en": "Croatian is official; English and German dominate at Zrće beach due to the international party crowd."
+      "en": "Croatian is official; English and German dominate at Zrće beach due to the international party crowd.",
+      "hr": "Hrvatski je službeni; engleski i njemački dominiraju na plaži Zrće zbog međunarodne party publike."
     },
     "best_time_to_visit": {
       "de": "Juli und August für Festivals am Zrće; Juni und September für ruhigere Strandtage und Familien.",
       "hu": "Július–augusztus a Zrće fesztiváljaihoz; június és szeptember csendesebb strandnapokhoz, családoknak.",
       "ro": "Iulie–august pentru festivalurile de la Zrće; iunie și septembrie pentru plajă liniștită, ideal pentru familii.",
-      "en": "July and August for festivals at Zrće; June and September for quieter beach days and families."
+      "en": "July and August for festivals at Zrće; June and September for quieter beach days and families.",
+      "hr": "Srpanj i kolovoz za festivale na Zrću; lipanj i rujan za mirnije dane na plaži i obitelji."
     },
     "neighborhood_warnings": {
       "de": "Zrće-Strand laut bis frühmorgens; vorsicht vor unlizensierten Taxis und Drogenangeboten, Wertsachen sichern.",
       "hu": "A Zrće strand reggelig hangos; vigyázz az engedély nélküli taxikkal és kábítószer-ajánlatokkal, értékeidet rejtsd el.",
       "ro": "Plaja Zrće este zgomotoasă până dimineața; atenție la taxiurile neautorizate și ofertele de droguri, păstrează obiectele de valoare.",
-      "en": "Zrće beach is loud until morning; beware of unlicensed taxis and drug offers, secure your valuables."
+      "en": "Zrće beach is loud until morning; beware of unlicensed taxis and drug offers, secure your valuables.",
+      "hr": "Plaža Zrće je glasna do jutra; pazite na neregistrirane taksije i ponude droge, osigurajte svoje vrijednosti."
     }
   }
 }

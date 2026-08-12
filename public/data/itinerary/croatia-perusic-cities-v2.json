@@ -21,7 +21,8 @@
             "de": "Morgenkaffee am Hauptplatz",
             "hu": "Reggeli kávé a főtéren",
             "ro": "Cafeaua de dimineață în piața centrală",
-            "en": "Morning Coffee at the Main Square"
+            "en": "Morning Coffee at the Main Square",
+            "hr": "Jutarnja kava na glavnom trgu"
           },
           "coords": [
             15.2348,
@@ -37,7 +38,7 @@
             "hu": "Kóstoljon meg egy helyi péksüteményt a közeli pékségből.",
             "ro": "Încercați un produs de patiserie local de la brutărie.",
             "en": "Try a local pastry from the nearby bakery.",
-            "hr": "Probajte domaće pecivo iz obližnje pekare."
+            "hr": "Probajte lokalni kolač iz obližnje pekare."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Heilig-Kreuz-Kirche",
             "hu": "Szent Kereszt felmagasztalása templom",
             "ro": "Biserica Înălțarea Sfintei Cruci",
-            "en": "Church of the Holy Cross"
+            "en": "Church of the Holy Cross",
+            "hr": "Crkva Sv. Križa"
           },
           "coords": [
             15.2355,
@@ -61,7 +63,7 @@
             "hu": "Csodálja meg a belső tér barokk részleteit.",
             "ro": "Admirați detaliile baroce din interior.",
             "en": "Admire the baroque details inside.",
-            "hr": "Divite se baroknim detaljima u unutrašnjosti."
+            "hr": "Divite se baroknim detaljima iznutra."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Türkischer Turm (Turska kula)",
             "hu": "Török torony (Turska kula)",
             "ro": "Turnul Turcesc (Turska kula)",
-            "en": "Turkish Tower (Turska kula)"
+            "en": "Turkish Tower (Turska kula)",
+            "hr": "Turska kula (Turska kula)"
           },
           "coords": [
             15.2365,
@@ -85,7 +88,7 @@
             "hu": "Az egyetlen épen maradt oszmán építmény Likában.",
             "ro": "Singura structură otomană conservată din Lika.",
             "en": "The only preserved Ottoman structure in Lika.",
-            "hr": "Jedina očuvana otomanska građevina u Lici."
+            "hr": "Jedina sačuvana osmanska građevina u Lici."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Mittagessen in einer lokalen Konoba",
             "hu": "Ebéd egy helyi konobában",
             "ro": "Prânz la o konoba locală",
-            "en": "Lunch in a local Konoba"
+            "en": "Lunch in a local Konoba",
+            "hr": "Ručak u lokalnoj konobi"
           },
           "coords": [
             15.234,
@@ -109,7 +113,7 @@
             "hu": "Kérdezze a híres likai báránysültet.",
             "ro": "Întrebați de faimosul miel de Lika.",
             "en": "Ask for the famous Lika lamb.",
-            "hr": "Tražite poznatu ličku janjetinu."
+            "hr": "Zatražite čuvenu ličku janjetinu."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Spaziergang am Fluss Lika",
             "hu": "Séta a Lika-folyó partján",
             "ro": "Plimbare pe malul râului Lika",
-            "en": "Walk by the Lika River"
+            "en": "Walk by the Lika River",
+            "hr": "Šetnja uz rijeku Liku"
           },
           "coords": [
             15.245,
@@ -141,7 +146,8 @@
             "de": "Aussichtspunkt bei Sonnenuntergang",
             "hu": "Naplemente a dombtetőn",
             "ro": "Apus de soare pe deal",
-            "en": "Sunset Viewpoint"
+            "en": "Sunset Viewpoint",
+            "hr": "Vidikovac za zalazak sunca"
           },
           "coords": [
             15.238,
@@ -157,7 +163,7 @@
             "hu": "Tökéletes kilátás Perušić háztetőire.",
             "ro": "Vedere perfectă peste acoperișurile din Perušić.",
             "en": "Perfect view over the roofs of Perušić.",
-            "hr": "Savršen pogled na krovove Perušića."
+            "hr": "Savršen pogled preko krovova Perušića."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Kezdje a napot Perušić központjában egy kávéval, majd fedezze fel a lenyűgöző Szent Kereszt templomot és a történelmi Török tornyot. Egy kiadós likai ebéd után tegyen egy pihentető sétát a Lika-folyó partján, élvezve az érintetlen természetet. A napot a város feletti dombról nyíló csodás naplemente zárja, ahonnan belátni az egész környéket.",
         "ro": "Începeți ziua în centrul orașului Perušić cu o cafea, apoi explorați biserica barocă și Turnul Turcesc istoric. După un prânz copios cu specialități locale, o plimbare relaxantă pe malul râului Lika vă va permite să vă bucurați de natura curată. Ziua se încheie cu o vedere panoramică asupra dealurilor din Lika la apusul soarelui.",
         "en": "Start your day in the center of Perušić with a coffee before exploring the grand Church of the Holy Cross and the historic Turkish Tower. After a hearty Lika lunch, a relaxed walk leads you to the banks of the Lika River, where you can enjoy untouched nature. The day ends with a vast view over the rolling hills of Lika at sunset.",
-        "hr": "Započnite dan u centru Perušića uz kavu prije istraživanja veličanstvene crkve Svetog Križa i povijesne Turske kule. Nakon krepkog ličkog ručka, opuštajuća šetnja vodi vas do obala rijeke Like, gdje možete uživati u netaknutoj prirodi. Dan završava prostranim pogledom na brežuljke Like uz zalazak sunca."
+        "hr": "Započnite dan u središtu Perušića uz kavu prije istraživanja veličanstvene Crkve Sv. Križa i povijesne Turske kule. Nakon obilnog ličkog ručka, opuštena šetnja vodi vas do obala rijeke Like, gdje možete uživati u netaknutoj prirodi. Dan završava širokim pogledom na valovite brežuljke Like pri zalasku sunca."
       },
       "gastro_picks": {
         "de": [
@@ -291,9 +297,9 @@
           "Lika can get cool in the evening even in summer, bring a light jacket."
         ],
         "hr": [
-          "Preporučuje se udobna obuća za hodanje po neasfaltiranim stazama uz rijeku.",
-          "Lokalci su ponosni na svoj krumpir (Lički krumpir) – obavezno ga probajte!",
-          "Lika može biti hladna navečer čak i ljeti, ponesite laganu jaknu."
+          "Preporučuje se udobna obuća za hodanje zbog neasfaltiranih staza uz rijeku.",
+          "Mještani su ponosni na svoje krumpire (Lički krumpir) – obavezno za probati!",
+          "Uvečer u Lici može zahladiti čak i ljeti, ponesite laganu jaknu."
         ]
       },
       "variants": {
@@ -303,7 +309,7 @@
             "hu": "Kezdje a napot a főtér egyik fedett teraszán egy meleg kávéval. A Szent Kereszt-templom tökéletes belső program, amíg eláll az eső. Ebédeljen hosszan egy barátságos konobában, élvezve a helyi ízeket. Délután a Turska kula és a Lika-folyó látványa a szemerkélő esőben is különleges, párás atmoszférát áraszt. Az estét töltse egy hangulatos beltéri helyszínen.",
             "ro": "Începeți ziua cu o cafea pe o terasă acoperită din piața centrală. Biserica Sfintei Cruci oferă un refugiu uscat și liniștit pentru explorare. Prânzul prelungit într-o konoba locală vă va face să uitați de vremea de afară. După-amiaza, Turnul Turcesc și râul Lika capătă o aură mistică prin ploaie, iar seara se încheie perfect cu o băutură caldă la interior.",
             "en": "Start your day with a coffee under a covered terrace at the main square. The Church of the Holy Cross provides a dry sanctuary for exploration. Enjoy a long lunch in a cozy local Konoba to escape the damp weather. In the afternoon, the Turkish Tower and the Lika River take on a mystical atmosphere in the rain. End your walk with a warm drink as the day fades.",
-            "hr": "Započnite dan kavom na natkrivenoj terasi na glavnom trgu. Crkva Svetog Križa pruža suho utočište za istraživanje. Uživajte u dugom ručku u ugodnoj lokalnoj konobi kako biste pobjegli od vlažnog vremena. Poslijepodne, Turska kula i rijeka Lika poprimaju mističnu atmosferu na kiši. Završite šetnju toplim napitkom dok dan blijedi."
+            "hr": "Započnite dan kavom pod natkrivenom terasom na glavnom trgu. Crkva Sv. Križa pruža suhi zaklon za razgledavanje. Uživajte u dugom ručku u ugodnoj lokalnoj konobi da izbjegnete vlagu. Poslijepodne Turska kula i rijeka Lika dobivaju mističnu atmosferu na kiši. Završite šetnju toplim napitkom dok dan polako venuca."
           },
           "stops": [
             {
@@ -313,7 +319,7 @@
                 "hu": "Válasszon egy ernyővel védett asztalt a friss, esős levegőhöz.",
                 "ro": "Alegeți o masă sub copertină pentru a privi ploaia confortabil.",
                 "en": "Choose a table under the awning to watch the rain comfortably.",
-                "hr": "Odaberite stol ispod tende kako biste udobno promatrali kišu."
+                "hr": "Odaberite stol pod nadstrešnicom kako biste ugodno promatrali kišu."
               }
             },
             {
@@ -323,7 +329,7 @@
                 "hu": "Használja ki az időt a templombelső alapos felfedezésére.",
                 "ro": "Profită de timp pentru o vizită detaliată a interiorului.",
                 "en": "Take your time for a detailed indoor tour of the architecture.",
-                "hr": "Odvojite vrijeme za detaljan obilazak unutrašnjosti arhitekture."
+                "hr": "Odvojite vrijeme za detaljan unutarnji obilazak arhitekture."
               }
             },
             {
@@ -353,7 +359,7 @@
                 "hu": "A folyóparti ösvényhez vízálló cipő viselése ajánlott.",
                 "ro": "Încălțămintea impermeabilă este recomandată pentru poteca de pe mal.",
                 "en": "Waterproof shoes are recommended for the riverside path.",
-                "hr": "Vodootporna obuća preporučuje se za stazu uz rijeku."
+                "hr": "Preporučuje se vodootporna obuća za stazu uz rijeku."
               }
             },
             {
@@ -363,7 +369,7 @@
                 "hu": "Élvezze a drámai felhőjátékot a Lika-vidék felett.",
                 "ro": "Bucurați-vă de atmosfera dramatică a norilor peste regiune.",
                 "en": "Enjoy the dramatic cloud formations over the Lika region.",
-                "hr": "Uživajte u dramatičnim formacijama oblaka nad ličkom regijom."
+                "hr": "Uživajte u dramatičnim oblacima iznad ličke regije."
               }
             }
           ],
@@ -393,10 +399,10 @@
               "Watch out for puddles on the unpaved sections near the river."
             ],
             "hr": [
-              "Nosite kvalitetnu kišnu jaknu jer lički vjetar može biti prilično jak.",
-              "Crkva i lokalni restorani vaša su najbolja skloništa tijekom jakih pljuskova.",
-              "Kišobran je u redu u gradu, ali je kapuljača praktičnija u blizini kule.",
-              "Pazite na lokve na neasfaltiranim dijelovima uz rijeku."
+              "Nosite kvalitetnu vodonepropusnu jaknu jer lički vjetar može biti prilično jak.",
+              "Crkva i lokalni restorani su najbolji skloništa tijekom jakih pljuskova.",
+              "Kišobran je dobar u gradu, ali kapuljača je praktičnija uz kulu.",
+              "Pazite na lokve na neasfaltiranim dijelovima blizu rijeke."
             ]
           }
         },
@@ -406,7 +412,7 @@
             "hu": "Egy forró kávé segít az ébredésben a fagyos perusići reggelen. A barokk Szent Kereszt-templom csendes nyugalmat áraszt a téli hidegben. Ebédre keressen egy fűtött konobát, és kóstolja meg a kiadós likai káposztás ételeket. A Turska kula felé sétálva a zúzmarás táj varázslatos, de készüljön fel, hogy a nap korán eltűnik a hegyek mögött.",
             "ro": "O cafea fierbinte vă va încălzi în dimineața geroasă din Perušić. Biserica barocă a Sfintei Cruci emană o liniște aparte în aerul rece de iarnă. La prânz, o konoba încălzită vă așteaptă cu preparate consistente specifice zonei Lika. Urcarea spre Turnul Turcesc oferă o priveliște clară peste câmpia înzăpezită înainte ca soarele să apună devreme.",
             "en": "A hot coffee warms you up on a frosty morning in Perušić. The baroque Church of the Holy Cross exudes a special tranquility in the winter air. At noon, a heated Konoba invites you to taste hearty Lika specialties. The walk to the Turkish Tower offers clear views over the snowy plains before the sun sets early behind the mountains.",
-            "hr": "Vruća kava zagrijat će vas u mrazno jutro u Perušiću. Barokna crkva Svetog Križa odiše posebnim mirom u zimskom zraku. U podne vas grijana konoba poziva na kušanje krepkih ličkih specijaliteta. Šetnja do Turske kule nudi čiste poglede na snježne ravnice prije nego što sunce rano zađe iza planina."
+            "hr": "Vruća kava ugrijat će vas u hladno jutro u Perušiću. Barokna Crkva Sv. Križa odiše posebnom mirom u zimski zrak. U podne vas zagrijava konoba s grijanjem i bogatim ličkim specijalitetima. Šetnja do Turske kule nudi jasne poglede preko snježnih ravnica prije nego što se sunce rano spusti iza planina."
           },
           "stops": [
             {
@@ -416,7 +422,7 @@
                 "hu": "Keressen egy fűtőtest melletti asztalt a benti részben.",
                 "ro": "Căutați un loc lângă calorifer în interiorul cafenelei.",
                 "en": "Find a seat near the heater inside the café to warm up.",
-                "hr": "Pronađite mjesto blizu grijalice unutar kafića kako biste se zagrijali."
+                "hr": "Pronađite mjesto blizu grijača u kafiću da se ugrijete."
               }
             },
             {
@@ -426,7 +432,7 @@
                 "hu": "Csodálja meg az ünnepi díszítést az adventi időszakban.",
                 "ro": "Admirați decorațiunile festive în timpul perioadei de Crăciun.",
                 "en": "Admire the festive decorations during the Christmas season.",
-                "hr": "Divite se blagdanskim ukrasima tijekom božićnog razdoblja."
+                "hr": "Divite se prazničnim ukrasima za vrijeme božićne sezone."
               }
             },
             {
@@ -446,7 +452,7 @@
                 "hu": "Kóstolja meg a Lički kupus-t (likai káposzta) a benti melegben.",
                 "ro": "Încercați „Lički kupus” (varză de Lika) pentru a vă încălzi.",
                 "en": "Try 'Lički kupus' (Lika cabbage) to warm up from the inside.",
-                "hr": "Probajte lički kupus kako biste se zagrijali iznutra."
+                "hr": "Probajte 'Lički kupus' da se ugrijete iznutra."
               }
             },
             {
@@ -456,7 +462,7 @@
                 "hu": "Csodálja meg a jégcsapokat és jégalakzatokat a folyóparton.",
                 "ro": "Admirați formațiunile de gheață de pe marginea râului.",
                 "en": "Admire the ice formations and frost along the riverbanks.",
-                "hr": "Divite se ledenim formacijama i mrazu duž obala rijeke."
+                "hr": "Divite se ledenim formacijama i mrazu duž riječnih obala."
               }
             },
             {
@@ -466,7 +472,7 @@
                 "hu": "Érkezzen 16:15 körül, mert télen hamar sötétedik.",
                 "ro": "Fiți aici în jurul orei 16:15, înainte să se întunece.",
                 "en": "Be here around 16:15 before it gets dark in the winter.",
-                "hr": "Budite ovdje oko 16:15 prije nego što padne mrak zimi."
+                "hr": "Budite ovdje oko 16:15 prije nego što se u zimskom razdoblju smrači."
               }
             }
           ],
@@ -496,10 +502,10 @@
               "Alternate outdoor stops with breaks in heated indoor venues."
             ],
             "hr": [
-              "Topli slojevi i zimske čizme obavezni su u ovoj planinskoj regiji.",
-              "Sunce zimi zalazi oko 16:30, pa planirajte vrijeme na otvorenom u skladu s tim.",
+              "Topli slojevi i zimske čizme su obvezni u ovom planinskom kraju.",
+              "Sunce zalazi oko 16:30 zimi, pa planirajte vrijeme na otvorenom u skladu s tim.",
               "Staze mogu biti zaleđene, posebno stepenice koje vode do kule.",
-              "Izmjenjujte zaustavljanja na otvorenom s pauzama u grijanim zatvorenim prostorima."
+              "Naizmjenično planirajte vanjske stanice s pauzama u grijanim unutarnjim prostorima."
             ]
           }
         }
@@ -518,7 +524,8 @@
             "de": "Türkischer Turm",
             "hu": "Török torony",
             "ro": "Turnul Turcesc",
-            "en": "Turkish Tower"
+            "en": "Turkish Tower",
+            "hr": "Turska kula"
           },
           "coords": [
             15.2365,
@@ -542,7 +549,8 @@
             "de": "Heilig-Kreuz-Kirche",
             "hu": "Szent Kereszt templom",
             "ro": "Biserica Înălțarea Sfintei Cruci",
-            "en": "Church of the Holy Cross"
+            "en": "Church of the Holy Cross",
+            "hr": "Crkva Sv. Križa"
           },
           "coords": [
             15.2355,
@@ -558,7 +566,7 @@
             "hu": "Biztonságos biciklitároló a bejáratnál.",
             "ro": "Loc sigur de parcare pentru biciclete la intrare.",
             "en": "Safe bike parking at the entrance.",
-            "hr": "Siguran parking za bicikle na ulazu."
+            "hr": "Sigurno parkiranje bicikala na ulazu."
           }
         },
         {
@@ -566,7 +574,8 @@
             "de": "Höhlenpark Grabovača",
             "hu": "Pećinski park Grabovača",
             "ro": "Parcul Peșterilor Grabovača",
-            "en": "Cave Park Grabovača"
+            "en": "Cave Park Grabovača",
+            "hr": "Park špilja Grabovača"
           },
           "coords": [
             15.215,
@@ -590,7 +599,8 @@
             "de": "Natur-Picknick",
             "hu": "Természeti piknik",
             "ro": "Picnic în natură",
-            "en": "Nature Picnic"
+            "en": "Nature Picnic",
+            "hr": "Prirodni piknik"
           },
           "coords": [
             15.22,
@@ -606,7 +616,7 @@
             "hu": "Falatozás a zöldben.",
             "ro": "Gustare în aer liber.",
             "en": "Snack in the green.",
-            "hr": "Međuobrok u zelenilu."
+            "hr": "Užina u zelenilu."
           }
         },
         {
@@ -614,7 +624,8 @@
             "de": "Rijeka Lika (Flussfahrt-Punkt)",
             "hu": "Rijeka Lika (folyóparti pont)",
             "ro": "Râul Lika (punct de observație)",
-            "en": "Lika River (Riverside point)"
+            "en": "Lika River (Riverside point)",
+            "hr": "Rijeka Lika (točka uz obalu)"
           },
           "coords": [
             15.245,
@@ -630,7 +641,7 @@
             "hu": "Szép ösvények a folyó mentén.",
             "ro": "Trasee frumoase de-a lungul râului.",
             "en": "Beautiful paths along the river.",
-            "hr": "Prekrasne staze uz rijeku."
+            "hr": "Lijepe staze uz rijeku."
           }
         },
         {
@@ -638,7 +649,8 @@
             "de": "Dorfplatz Perušić",
             "hu": "Perušić falu főtere",
             "ro": "Piața satului Perušić",
-            "en": "Perušić Village Square"
+            "en": "Perušić Village Square",
+            "hr": "Perušić trg sela"
           },
           "coords": [
             15.2346,
@@ -654,7 +666,7 @@
             "hu": "Egy utolsó ital a túra után.",
             "ro": "O ultimă băutură după tur.",
             "en": "A final drink after the tour.",
-            "hr": "Završno piće nakon ture."
+            "hr": "Zadnji piće nakon ture."
           }
         }
       ],
@@ -663,7 +675,7 @@
         "hu": "Ez a kerékpáros túra összeköti Perušić történelmi kincseit a régió természeti csodáival. A Török torony és a templom után tekerjen el a lenyűgöző Grabovača barlangparkhoz. Egy zöldben elköltött piknik ad energiát a Lika-folyóhoz vezető úthoz, melynek partja ideális a bringásoknak. Sportos és frissítő módja a likai táj felfedezésének.",
         "ro": "Acest tur cu bicicleta combină comorile istorice din Perušić cu minunile naturale ale regiunii. După vizitarea Turnului Turcesc și a bisericii, pedalați spre impresionantul Parc al Peșterilor Grabovača. Un picnic în natură vă va oferi energie pentru drumul spre râul Lika, ale cărui cărări de mal sunt ideale pentru bicicliști. Un mod sportiv de a experimenta peisajul din Lika.",
         "en": "This bike tour connects the historical treasures of Perušić with the natural wonders of the region. After visiting the Turkish Tower and the church, cycle to the impressive Grabovača Cave Park. A picnic in the green gives you energy for the ride to the Lika River, whose riverbank paths are ideal for cyclists. A sporty and refreshing way to experience the Lika landscape.",
-        "hr": "Ova biciklistička tura povezuje povijesno blago Perušića s prirodnim čudima regije. Nakon posjeta Turskoj kuli i crkvi, odvozite do impresivnog Pećinskog parka Grabovača. Piknik u zelenilu daje vam energiju za vožnju do rijeke Like, čije su obalne staze idealne za bicikliste. Sportski i osvježavajući način za doživljaj ličkog krajolika."
+        "hr": "Ova biciklistička tura povezuje povijesna blaga Perušića s prirodnim čudima regije. Nakon posjeta Turskoj kuli i crkvi, vozite se do impresivnog Parka špilja Grabovača. Piknik u zelenilu daje vam snage za vožnju do rijeke Like, čije su obalne staze idealne za bicikliste. Sportski i osvježavajući način da iskusite lički krajolik."
       },
       "gastro_picks": {
         "de": [
@@ -789,7 +801,7 @@
         ],
         "hr": [
           "Ruta do Grabovače ima nekoliko uspona.",
-          "Ponesite dovoljno vode; unutar špilja je hladno (oko 10°C).",
+          "Ponesite dovoljno vode; u špiljama je friško (približno 10°C).",
           "Pazite na šumske staze; brdski bicikl je prednost."
         ]
       },
@@ -800,7 +812,7 @@
             "hu": "Az eső ellenére a perusići bringázás frissítő élmény lehet. Kezdjen a Turska kulánál, ahol a vizes kövek sötét tónusai különlegesek. A Grabovača-barlang a legjobb úti cél esőben, hiszen a föld alatt garantáltan száraz marad. Egy fedett helyen elköltött piknik után a Lika mentén tekerhet vissza, élvezve a harsányzöld tájat.",
             "ro": "În ciuda ploii, ciclismul în Perušić oferă perspective verzi. Începeți la Turnul Turcesc, unde pietrele ude creează o atmosferă aparte. Peștera Grabovača este destinația perfectă, fiind complet uscată în subteran. După un picnic sub un foișor, pedalați înapoi pe lângă Lika, unde ploaia intensifică culorile naturii.",
             "en": "Despite the rain, cycling in Perušić offers refreshing views. Start at the Turkish Tower, where wet stones create a unique mood. The Grabovača Cave is the perfect rainy day goal as it stays completely dry underground. After a picnic under a shelter, cycle back along the Lika River, enjoying the lush green scenery.",
-            "hr": "Unatoč kiši, bicikliranje u Perušiću nudi osvježavajuće prizore. Započnite kod Turske kule, gdje mokro kamenje stvara jedinstven ugođaj. Špilja Grabovača savršen je cilj za kišni dan jer pod zemljom ostaje potpuno suha. Nakon piknika pod nadstrešnicom, vratite se biciklom uz rijeku Liku uživajući u bujnom zelenom krajoliku."
+            "hr": "Unatoč kiši, vožnja biciklom po Perušiću nudi osvježavajuće prizore. Započnite kod Turske kule, gdje mokro kamenje stvara posebnu atmosferu. Špilja Grabovača je savršen cilj za kišni dan jer je potpuno suha pod zemljom. Nakon piknika pod skloništem, vozite se natrag duž rijeke Like i uživajte u bujnom zelenilu."
           },
           "stops": [
             {
@@ -810,7 +822,7 @@
                 "hu": "Kerülje az erős fékezést a nedves, csúszós macskaköveken.",
                 "ro": "Evitați frânările bruște pe pietrele ude de lângă turn.",
                 "en": "Avoid sharp braking on the wet cobblestones near the tower.",
-                "hr": "Izbjegavajte naglo kočenje na mokroj kaldrmi u blizini kule."
+                "hr": "Izbjegavajte naglo kočenje na mokrim kalama blizu kule."
               }
             },
             {
@@ -820,7 +832,7 @@
                 "hu": "Támassza a bringát az eresz alá, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați bicicleta sub streașină pentru a păstra șaua uscată.",
                 "en": "Park your bike under the eaves to keep the saddle dry.",
-                "hr": "Parkirajte bicikl ispod strehe kako bi sjedalo ostalo suho."
+                "hr": "Parkirajte bicikl pod strehom da vam sjedalo ostane suho."
               }
             },
             {
@@ -840,7 +852,7 @@
                 "hu": "Használja a park egyik fa esőbeállóját a pihenéshez.",
                 "ro": "Folosiți unul dintre adăposturile de lemn din parc.",
                 "en": "Use one of the wooden shelters in the park for your break.",
-                "hr": "Iskoristite jedan od drvenih zaklona u parku za pauzu."
+                "hr": "Iskoristite jedno od drvenih skloništa u parku za pauzu."
               }
             },
             {
@@ -850,7 +862,7 @@
                 "hu": "Vigyázzon a mély tócsákra az erdei utakon a folyó mellett.",
                 "ro": "Atenție la bălțile adânci de pe potecile de pădure.",
                 "en": "Watch out for deep puddles on the forest paths near the river.",
-                "hr": "Pazite na duboke lokve na šumskim stazama u blizini rijeke."
+                "hr": "Pazite na duboke lokve na šumskim stazama blizu rijeke."
               }
             },
             {
@@ -890,10 +902,10 @@
               "Avoid unpaved, muddy inclines during heavy rain."
             ],
             "hr": [
-              "Blatobrani su neophodni na ličkim cestama tijekom kišnog vremena.",
-              "Nosite vodootpornu odjeću i rukavice za bolji hvat na upravljaču.",
-              "Špilja Grabovača pruža zaklon od vremena tijekom cijele godine.",
-              "Izbjegavajte neasfaltirane, blatne uspone tijekom jake kiše."
+              "Blatobrani su neophodni na ličkim cestama za vrijeme kišnog vremena.",
+              "Nosite vodootpornu odjeću i rukavice za bolje držanje upravljača.",
+              "Špilja Grabovača pruža zaštitu od vremena tijekom cijele godine.",
+              "Izbjegavajte neasfaltirane, blatne usponе tijekom jakih pljuskova."
             ]
           }
         },
@@ -903,7 +915,7 @@
             "hu": "A téli kerékpározás Perušić környékén jó állóképességet igényel. Kezdjen a Turska kulánál a friss, csípős levegőn. A Grabovača-barlang állandó 8 foka ilyenkor szinte melegnek hat a kinti fagyhoz képest. Egy laktató ebéd után tekerjen vissza a zúzmarás tájon, de figyeljen, mert a hideg sötétedés után hirtelen fokozódik.",
             "ro": "Ciclismul de iarnă în Perušić necesită echipament adecvat. Începeți la Turnul Turcesc în aerul rece de munte. Peștera Grabovača, cu cele 8 grade constante, oferă chiar o încălzire față de gerul de afară. După o masă consistentă, pedalați prin peisajul înghețat al regiunii Lika înainte ca frigul să se intensifice seara.",
             "en": "Winter cycling in Perušić requires good preparation. Start at the chilly Turkish Tower in the crisp mountain air. Grabovača Cave, with its constant 8°C, actually feels warm compared to the freezing outside air. After a hearty meal, cycle back through the frosty Lika landscape before the cold intensifies in the early evening.",
-            "hr": "Zimsko bicikliranje u Perušiću zahtijeva dobru pripremu. Počnite kod hladne Turske kule na oštrom planinskom zraku. Špilja Grabovača, s konstantnih 8°C, zapravo djeluje toplo u usporedbi s ledenim vanjskim zrakom. Nakon krepkog obroka, odvozite natrag kroz mrazni lički krajolik prije nego što hladnoća ojača rano navečer."
+            "hr": "Zimska vožnja biciklom u Perušiću zahtijeva dobru pripremu. Započnite kod hladne Turske kule u svježem planinskom zraku. Špilja Grabovača, s konstantnih 8°C, zapravo se čini toplom u usporedbi s ledenim vanjskim zrakom. Nakon obilnog obroka, vozite se natrag kroz ozebli lički kraj prije nego što hladnoća pojača u ranom večernjem satu."
           },
           "stops": [
             {
@@ -913,7 +925,7 @@
                 "hu": "Vigyázzon a lefagyásokra az árnyékos erdei útszakaszokon.",
                 "ro": "Atenție la porțiunile de gheață în zonele împădurite umbrite.",
                 "en": "Watch out for black ice in shaded forest sections.",
-                "hr": "Pazite na poledicu u sjenovitim šumskim dijelovima."
+                "hr": "Pazite na crni led u zasjenjenim šumskim dijelovima."
               }
             },
             {
@@ -923,7 +935,7 @@
                 "hu": "Tartson rövid szünetet bent, hogy felmelegítse az ujjait.",
                 "ro": "Faceți o scurtă pauză în interior pentru a vă încălzi mâinile.",
                 "en": "Take a short break inside to warm up your fingers.",
-                "hr": "Napravite kratku pauzu unutra kako biste zagrijali prste."
+                "hr": "Uzmite kratku pauzu unutra da ugrijete prste."
               }
             },
             {
@@ -943,7 +955,7 @@
                 "hu": "Hozzon magával forró teát termoszban a pihenőhöz.",
                 "ro": "Aduceți un termos cu ceai fierbinte pentru pauză.",
                 "en": "Bring a thermos with hot tea for your outdoor break.",
-                "hr": "Ponesite termosicu s toplim čajem za pauzu na otvorenom."
+                "hr": "Ponesite termosicu s vrućim čajem za vašu vanjsku pauzu."
               }
             },
             {
@@ -953,7 +965,7 @@
                 "hu": "Használjon kamáslit a lábak melegen tartásához a menetszélben.",
                 "ro": "Purtați huse pentru pantofi împotriva vântului rece.",
                 "en": "Wear shoe covers to protect against the cold biting wind.",
-                "hr": "Nosite navlake za cipele kako biste se zaštitili od hladnog, grizećeg vjetra."
+                "hr": "Nosite navlake za cipele kako biste se zaštitili od hladnog, oštrog vjetra."
               }
             },
             {
@@ -963,7 +975,7 @@
                 "hu": "Fejezze be a túrát, mielőtt este beáll a kemény fagy.",
                 "ro": "Încheiați turul înainte ca gerul să se intensifice seara.",
                 "en": "Finish your tour before the hard frost sets in for the night.",
-                "hr": "Završite turu prije nego što nastupi jaki mraz tijekom noći."
+                "hr": "Završite turu prije no što se pojavi jaka noćna mraz."
               }
             }
           ],
@@ -993,10 +1005,10 @@
               "Keep your breaks short to prevent your body from cooling down."
             ],
             "hr": [
-              "Zimske čizme i termo čarape obavezne su za bicikliranje u Lici.",
-              "Pazite na cestovnu sol koja može oštetiti lanac bicikla.",
-              "Vidljivost je zimi često smanjena, pa koristite svjetla i reflektore.",
-              "Neka vaše pauze budu kratke kako biste spriječili hlađenje tijela."
+              "Zimske čizme i termo čarape su obvezne za vožnju biciklom u Lici.",
+              "Pazite na cestovni sol koji može oštetiti lanac bicikla.",
+              "Vidljivost je često smanjena zimi, stoga koristite svjetla i reflektore.",
+              "Držite pauze kratkima kako tijelo ne bi previše ohladilo."
             ]
           }
         }
@@ -1015,7 +1027,8 @@
             "de": "Perušić Zentrum (Cluster A)",
             "hu": "Perušić központ (A klaszter)",
             "ro": "Centrul Perušić (Cluster A)",
-            "en": "Perušić Center (Cluster A)"
+            "en": "Perušić Center (Cluster A)",
+            "hr": "Centar Perušić (Klaster A)"
           },
           "coords": [
             15.2346,
@@ -1031,7 +1044,7 @@
             "hu": "Parkoljon a községháza mellett.",
             "ro": "Parcați lângă primărie.",
             "en": "Park near the municipal building.",
-            "hr": "Parkirajte blizu zgrade općine."
+            "hr": "Parkirajte blizu općinske zgrade."
           }
         },
         {
@@ -1039,7 +1052,8 @@
             "de": "Heilig-Kreuz-Kirche",
             "hu": "Szent Kereszt templom",
             "ro": "Biserica Înălțarea Sfintei Cruci",
-            "en": "Church of the Holy Cross"
+            "en": "Church of the Holy Cross",
+            "hr": "Crkva Sv. Križa"
           },
           "coords": [
             15.2355,
@@ -1055,7 +1069,7 @@
             "hu": "Gyalogosan elérhető a központtól.",
             "ro": "Accesibil pe jos din centru.",
             "en": "Accessible on foot from the center.",
-            "hr": "Dostupno pješice iz centra."
+            "hr": "Dostupna pješke iz centra."
           }
         },
         {
@@ -1063,7 +1077,8 @@
             "de": "Türkischer Turm",
             "hu": "Török torony",
             "ro": "Turnul Turcesc",
-            "en": "Turkish Tower"
+            "en": "Turkish Tower",
+            "hr": "Turska kula"
           },
           "coords": [
             15.2365,
@@ -1079,7 +1094,7 @@
             "hu": "Élvezze a történelmi körsétát.",
             "ro": "Bucurați-vă de turul istoric.",
             "en": "Enjoy the historical walking tour.",
-            "hr": "Uživajte u povijesnom pješačkom obilasku."
+            "hr": "Uživajte u povijesnoj pješačkoj turi."
           }
         },
         {
@@ -1087,7 +1102,8 @@
             "de": "Höhlenpark Grabovača (Cluster B)",
             "hu": "Pećinski park Grabovača (B klaszter)",
             "ro": "Parcul Peșterilor Grabovača (Cluster B)",
-            "en": "Cave Park Grabovača (Cluster B)"
+            "en": "Cave Park Grabovača (Cluster B)",
+            "hr": "Park špilja Grabovača (Klaster B)"
           },
           "coords": [
             15.215,
@@ -1103,7 +1119,7 @@
             "hu": "Parkoló közvetlenül a látogatóközpontnál.",
             "ro": "Parcare chiar lângă centrul de vizitare.",
             "en": "Parking right by the visitor center.",
-            "hr": "Parking odmah uz centar za posjetitelje."
+            "hr": "Parkiranje odmah uz posjetiteljski centar."
           }
         },
         {
@@ -1111,7 +1127,8 @@
             "de": "Gastronomisches Erlebnis Lika",
             "hu": "Likai gasztro-élmény",
             "ro": "Experiență gastronomică Lika",
-            "en": "Lika Gastronomic Experience"
+            "en": "Lika Gastronomic Experience",
+            "hr": "Gastronomsko iskustvo Like"
           },
           "coords": [
             15.234,
@@ -1135,7 +1152,8 @@
             "de": "Rijeka Lika (Cluster C)",
             "hu": "Rijeka Lika (C klaszter)",
             "ro": "Râul Lika (Cluster C)",
-            "en": "Lika River (Cluster C)"
+            "en": "Lika River (Cluster C)",
+            "hr": "Rijeka Lika (Klaster C)"
           },
           "coords": [
             15.245,
@@ -1160,7 +1178,7 @@
         "hu": "Autóval kényelmesen elérheti Perušić összes látnivalóját. A barokk templomot és oszmán tornyot érintő belvárosi séta után hajtson a Grabovača barlangparkhoz, hogy felfedezze a lenyűgöző földalatti világot. A regionális specialitásokat felvonultató ebéd után a festői Lika-folyó várja. Ez az útvonal maximális kényelmet nyújt minimális utazási idővel a pontok között.",
         "ro": "Cu mașina puteți ajunge confortabil la toate atracțiile din Perušić. După explorarea centrului istoric cu biserica barocă și turnul otoman, conduceți spre Parcul Peșterilor Grabovača pentru a descoperi lumea subterană fascinantă. Un prânz cu specialități regionale vă va pregăti pentru vizita pe malul pitoresc al râului Lika. Această rută oferă confort maxim.",
         "en": "By car, you can comfortably reach all the highlights of Perušić. After exploring the historical center with its baroque church and Ottoman tower, drive to the Grabovača Cave Park to discover the fascinating underworld. A lunch featuring regional specialties strengthens you for a visit to the picturesque Lika River. This route offers maximum comfort with minimal transfer time.",
-        "hr": "Automobilom možete udobno doći do svih znamenitosti Perušića. Nakon istraživanja povijesnog centra s baroknom crkvom i otomanskom kulom, odvezite se do Pećinskog parka Grabovača kako biste otkrili fascinantni podzemni svijet. Ručak s regionalnim specijalitetima osnažit će vas za posjet pitoresknoj rijeci Lici. Ova ruta nudi maksimalnu udobnost uz minimalno vrijeme transfera."
+        "hr": "Autom možete udobno stići do svih znamenitosti Perušića. Nakon razgledavanja povijesnog centra s baroknom crkvom i turskom kulom, odvezite se do Parka špilja Grabovača i otkrijte fascinantni podzemni svijet. Ručak s regionalnim specijalitetima dat će vam snage za posjet slikovitoj rijeci Lici. Ova ruta nudi maksimalnu udobnost uz minimalno vrijeme transfera."
       },
       "gastro_picks": {
         "de": [
@@ -1285,9 +1303,9 @@
           "There is plenty of wildlife in Lika; drive carefully at night."
         ],
         "hr": [
-          "Ceste su dobro održavane, ali uske u selima.",
-          "Parking u Perušiću je uglavnom besplatan.",
-          "U Lici ima mnogo divljih životinja; vozite oprezno noću."
+          "Ceste su dobro održavane, ali u selima uske.",
+          "Parkiranje u Perušiću većinom je besplatno.",
+          "U Lici ima mnogo divljih životinja; vozite pažljivo noću."
         ]
       },
       "variants": {
@@ -1297,7 +1315,7 @@
             "hu": "Autóval az esős időben is kényelmesen felfedezheti Perušić környékét. Látogassa meg a központ nevezetességeit, majd guruljon el a Grabovača barlangparkhoz, ahol az időjárás nem akadály. Egy laktató ebéd után élvezze az autózást a Lika mentén, megfigyelve a táj különleges, párás színeit a szélvédő mögül.",
             "ro": "Cu mașina, puteți explora Perušić în confort chiar și pe ploaie. Vizitați obiectivele din centru, apoi conduceți spre parcul Grabovača, unde vremea nu contează în subteran. Un prânz consistent cu specialități locale oferă pauza perfectă. După-amiaza, bucurați-vă de drumul pe lângă râul Lika, admirând peisajul prin ploaie.",
             "en": "By car, you can explore Perušić comfortably even in the rain. Visit the historical sites in the center before driving to Grabovača Cave Park, where the weather doesn't matter. A cozy lunch with local specialties provides the perfect break. In the afternoon, enjoy the drive along the Lika River as raindrops blur the lush landscape.",
-            "hr": "Automobilom možete istraživati Perušić udobno čak i na kiši. Posjetite povijesna mjesta u centru prije vožnje do Pećinskog parka Grabovača, gdje vrijeme nije važno. Ugodan ručak s lokalnim specijalitetima pruža savršenu pauzu. Poslijepodne uživajte u vožnji uz rijeku Liku dok kapi kiše zamagljuju bujni krajolik."
+            "hr": "Autom možete istraživati Perušić udobno i po kiši. Posjetite povijesne lokacije u centru prije vožnje do Parka špilja Grabovača, gdje vrijeme nije bitno. Udoban ručak s lokalnim specijalitetima pruža savršenu stanku. Poslijepodne uživajte u vožnji uz rijeku Liku dok kišne kapi zamućuju bujni krajolik."
           },
           "stops": [
             {
@@ -1307,7 +1325,7 @@
                 "hu": "Parkoljon minél közelebb a bejárathoz, hogy elkerülje az esőt.",
                 "ro": "Parcați aproape de intrare pentru a rămâne uscat.",
                 "en": "Park as close to the entrance as possible to stay dry.",
-                "hr": "Parkirajte što bliže ulazu kako biste ostali suhi."
+                "hr": "Parkirajte što bliže ulazu kako ostanete suhi."
               }
             },
             {
@@ -1317,7 +1335,7 @@
                 "hu": "Használja a templom előtti szilárd burkolatú parkolót.",
                 "ro": "Folosiți parcarea pavată direct din fața bisericii.",
                 "en": "Use the paved parking area directly in front of the church.",
-                "hr": "Koristite asfaltirano parkiralište izravno ispred crkve."
+                "hr": "Iskoristite asfaltirano parkiralište odmah ispred crkve."
               }
             },
             {
@@ -1327,7 +1345,7 @@
                 "hu": "Tartsa az esernyőt az utastérben, könnyen elérhető helyen.",
                 "ro": "Țineți umbrela la îndemână în interiorul mașinii.",
                 "en": "Keep your umbrella handy in the cabin for the short walk.",
-                "hr": "Neka vam kišobran bude pri ruci u kabini za kratku šetnju."
+                "hr": "Držite kišobran pri ruci u kolibi za kratku šetnju."
               }
             },
             {
@@ -1337,7 +1355,7 @@
                 "hu": "Kiváló úti cél esőben, a barlang teljesen száraz.",
                 "ro": "Destinație ideală pe ploaie, peștera este complet uscată.",
                 "en": "Ideal rainy day destination as the cave is perfectly dry.",
-                "hr": "Idealno odredište za kišni dan jer je špilja savršeno suha."
+                "hr": "Idealna destinacija za kišni dan jer je špilja potpuno suha."
               }
             },
             {
@@ -1347,7 +1365,7 @@
                 "hu": "Élvezze az esős táj látványát a meleg étterem ablakából.",
                 "ro": "Bucurați-vă de vederea ploii de la fereastra caldă.",
                 "en": "Enjoy the view of the rain from a warm window seat.",
-                "hr": "Uživajte u pogledu na kišu s toplog mjesta uz prozor."
+                "hr": "Uživajte u pogledu na kišu iz toplog prozora."
               }
             },
             {
@@ -1357,7 +1375,7 @@
                 "hu": "Vigyázzon a víztócsákra és a felúszás veszélyére a parti utakon.",
                 "ro": "Atenție la acvaplanare pe drumurile de pe malul râului.",
                 "en": "Be careful of hydroplaning on the riverside roads.",
-                "hr": "Budite oprezni zbog akvaplaninga na cestama uz rijeku."
+                "hr": "Pazite na akvaplaning na cestama uz rijeku."
               }
             }
           ],
@@ -1387,10 +1405,10 @@
               "Drive with extra caution on mountain roads during foggy conditions."
             ],
             "hr": [
-              "Provjerite brisače prije vožnje kroz Liku.",
-              "Neke pristupne ceste rijeci mogu biti blatne nakon jake kiše.",
-              "Koristite parkiralište kod špilje Grabovača za lakši pristup.",
-              "Vozite s dodatnim oprezom na planinskim cestama tijekom magle."
+              "Provjerite brisače vjetrobranskog stakla prije vožnje kroz Liku.",
+              "Neki pristupni putevi do rijeke mogu biti blato nakon obilnih kiša.",
+              "Iskoristite parkiralište kod Grabovače za lak pristup.",
+              "Vozite s dodatnim oprezom po planinskim cestama tijekom magle."
             ]
           }
         },
@@ -1400,7 +1418,7 @@
             "hu": "Télen a Lika-vidék gyakran vastag hóba burkolózik. Az autó védelmet nyújt a metsző hideg ellen a látnivalók közötti út során. A Grabovača-barlang ilyenkor igazi menedék, mivel melegebb a kinti levegőnél. Egy kiadós ebéd után autózzon a csillogó, havas tájon a Lika mentén, élvezve a téli fényeket a korai sötétedés előtt.",
             "ro": "Iarna, regiunea Lika este adesea acoperită de zăpadă. Mașina oferă protecție împotriva gerului în timp ce vă deplasați între obiective. Peștera Grabovača este un punct culminant, fiind mai caldă decât exteriorul. După un prânz sățios, conduceți prin peisajul sclipitor de iarnă de-a lungul râului Lika înainte de înserarea timpurie.",
             "en": "In winter, the Lika region is often covered in deep snow. The car provides shelter from the biting cold as you move between sights. Grabovača Cave is a winter highlight, as it stays warmer than the outside air. After a hearty Lika lunch, drive through the sparkling winter landscape along the Lika River before the early sunset.",
-            "hr": "Zimi je lička regija često prekrivena dubokim snijegom. Automobil pruža zaklon od jake hladnoće dok se krećete između znamenitosti. Špilja Grabovača zimski je vrhunac jer ostaje toplija od vanjskog zraka. Nakon krepkog ličkog ručka, provezite se kroz svjetlucavi zimski krajolik uz rijeku Liku prije ranog zalaska sunca."
+            "hr": "Zimi je područje Like često prekriveno dubokim snijegom. Auto pruža zaklon od oštrog hladnog vremena dok se premještate između znamenitosti. Grabovača je zimski highlight jer je toplija od vanjskog zraka. Nakon obilnog ličkog ručka, vozite kroz blistavu zimsku sceneriju uz rijeku Liku prije ranog zalaska sunca."
           },
           "stops": [
             {
@@ -1410,7 +1428,7 @@
                 "hu": "Fűtse fel az utasteret alaposan, mielőtt kiszállna nézelődni.",
                 "ro": "Încălziți bine habitaclul înainte de a coborî din mașină.",
                 "en": "Warm up the car interior well before stepping out to explore.",
-                "hr": "Dobro zagrijte unutrašnjost automobila prije izlaska u istraživanje."
+                "hr": "Dobrо ugrijte unutrašnjost automobila prije izlaska na razgledavanje."
               }
             },
             {
@@ -1420,7 +1438,7 @@
                 "hu": "Vigyázzon a jeges foltokra a templom melletti parkolóban.",
                 "ro": "Atenție la petele de gheață din parcarea bisericii.",
                 "en": "Watch out for icy patches in the church parking lot.",
-                "hr": "Pazite na zaleđene dijelove na parkiralištu kod crkve."
+                "hr": "Pazite na zaleđene mrlje na parkiralištu crkve."
               }
             },
             {
@@ -1430,7 +1448,7 @@
                 "hu": "Parkoljon lent, ha az emelkedő túl jegesnek tűnik.",
                 "ro": "Parcați jos dacă drumul în pantă pare prea înghețat.",
                 "en": "Park at the bottom if the incline looks too icy for safety.",
-                "hr": "Parkirajte u podnožju ako uspon izgleda previše zaleđen za sigurnost."
+                "hr": "Parkirajte dole ako nagib izgleda presklizak za sigurnost."
               }
             },
             {
@@ -1440,7 +1458,7 @@
                 "hu": "Az utat takarítják, de a téli gumi kötelező a feljutáshoz.",
                 "ro": "Drumul e deszăpezit, dar anvelopele de iarnă sunt obligatorii.",
                 "en": "The road is usually plowed, but winter tires are mandatory.",
-                "hr": "Cesta je obično očišćena, ali zimske gume su obavezne."
+                "hr": "Cesta se obično čisti, ali zimske gume su obavezne."
               }
             },
             {
@@ -1490,10 +1508,10 @@
               "Keep your fuel tank full in case of unexpected delays."
             ],
             "hr": [
-              "Zimske gume i lanci za snijeg obavezni su u Lici zimi.",
-              "Provjerite razinu antifriza u tekućini za pranje stakla.",
-              "Planinske ceste mogu biti opasne tijekom iznenadnih snježnih padalina.",
-              "Držite spremnik goriva punim u slučaju neočekivanih kašnjenja."
+              "Zimske gume i lančići za snijeg su obavezni u Lici zimi.",
+              "Provjerite razinu sredstva protiv smrzavanja u tekućini za pranje vjetrobrana.",
+              "Planinske ceste mogu biti opasne tijekom naglih snježnih padalina.",
+              "Držite rezervoar goriva pun u slučaju neplaniranih kašnjenja."
             ]
           }
         }
@@ -1512,7 +1530,8 @@
             "de": "Bahnhof Perušić",
             "hu": "Perušić vasútállomás",
             "ro": "Gara Perušić",
-            "en": "Perušić Train Station"
+            "en": "Perušić Train Station",
+            "hr": "Željeznička stanica Perušić"
           },
           "coords": [
             15.23,
@@ -1528,7 +1547,7 @@
             "hu": "Likába vezető vasúti kapu.",
             "ro": "Poarta feroviară către Lika.",
             "en": "The railway gateway to Lika.",
-            "hr": "Željeznička vrata Like."
+            "hr": "Željeznička kapija prema Lici."
           }
         },
         {
@@ -1536,7 +1555,8 @@
             "de": "Heilig-Kreuz-Kirche",
             "hu": "Szent Kereszt templom",
             "ro": "Biserica Înălțarea Sfintei Cruci",
-            "en": "Church of the Holy Cross"
+            "en": "Church of the Holy Cross",
+            "hr": "Crkva Svetog Križa"
           },
           "coords": [
             15.2355,
@@ -1552,7 +1572,7 @@
             "hu": "Kellemes séta az állomástól.",
             "ro": "O plimbare frumoasă de la gară.",
             "en": "A pleasant walk from the station.",
-            "hr": "Ugodna šetnja od kolodvora."
+            "hr": "Prijatna šetnja od stanice."
           }
         },
         {
@@ -1560,7 +1580,8 @@
             "de": "Türkischer Turm",
             "hu": "Török torony",
             "ro": "Turnul Turcesc",
-            "en": "Turkish Tower"
+            "en": "Turkish Tower",
+            "hr": "Turska kula"
           },
           "coords": [
             15.2365,
@@ -1584,7 +1605,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the Center"
+            "en": "Lunch in the Center",
+            "hr": "Ručak u centru"
           },
           "coords": [
             15.234,
@@ -1608,7 +1630,8 @@
             "de": "Fluss Lika / Parkzeit",
             "hu": "Lika-folyó / Pihenő",
             "ro": "Râul Lika / Timp de relaxare",
-            "en": "Lika River / Park Time"
+            "en": "Lika River / Park Time",
+            "hr": "Rijeka Lika / Vrijeme u parku"
           },
           "coords": [
             15.245,
@@ -1624,7 +1647,7 @@
             "hu": "Kikapcsolódás indulás előtt.",
             "ro": "Relaxare înainte de plecare.",
             "en": "Relaxation before departure.",
-            "hr": "Opuštanje prije polaska."
+            "hr": "Odmor prije polaska."
           }
         }
       ],
@@ -1633,7 +1656,7 @@
         "hu": "Perušić azon kevés likai helyek egyike, amely vonattal is jól elérhető. Az állomástól rövid sétával elérhetők a főbb látnivalók: a Szent Kereszt templom és a Török torony. Egy központi ebéd és a Lika-folyó partján tett látogatás teszi teljessé a napot a vonatos hazaindulás előtt. Stresszmentes módja a horvát hátország felfedezésének.",
         "ro": "Perušić este unul dintre puținele locuri din Lika care este bine accesibil cu trenul. De la gară, o scurtă plimbare duce la principalele atracții: Biserica Înălțarea Sfintei Cruci și Turnul Turcesc. Un prânz în centru și o vizită pe malul râului Lika completează ziua înainte de plecarea cu trenul. Un mod fără stres de a vizita hinterlandul croat.",
         "en": "Perušić is one of the few places in Lika well-accessible by train. From the station, a short walk leads to the main sights: the Church of the Holy Cross and the Turkish Tower. A lunch in the center and a trip to the Lika River complete the day before heading back by rail. A stress-free way to visit the Croatian hinterland.",
-        "hr": "Perušić je jedno od rijetkih mjesta u Lici dobro dostupno vlakom. Od kolodvora, kratka šetnja vodi do glavnih znamenitosti: crkve Svetog Križa i Turske kule. Ručak u centru i izlet do rijeke Like upotpunjuju dan prije povratka željeznicom. Način za posjet hrvatskom zaleđu bez stresa."
+        "hr": "Perušić je jedno od rijetkih mjesta u Lici lako dostupno željeznicom. Sa stanice vas kratka šetnja vodi do glavnih znamenitosti: Crkve Svetog Križa i Turske kule. Ručak u centru i izlet do rijeke Like upotpunjuju dan prije povratka vlakom. Bezstresan način posjeta hrvatskom zaleđu."
       },
       "gastro_picks": {
         "de": [
@@ -1759,8 +1782,8 @@
         ],
         "hr": [
           "Pažljivo provjerite vozni red Hrvatskih željeznica (HŽ).",
-          "U Perušiću je gotovo sve dostupno pješice s kolodvora.",
-          "Taksiji su rijetki; rezervirajte unaprijed ako planirate posjetiti Grabovaču."
+          "U Perušiću je gotovo sve dostupno pješice sa stanice.",
+          "Taksi usluge su rijetke; rezervirajte unaprijed ako planirate posjetiti Grabovaču."
         ]
       },
       "variants": {
@@ -1770,7 +1793,7 @@
             "hu": "A perusići vonatút esőben különösen hangulatos és megnyugtató. A vasútállomástól pár perc sétával elérheti a templomot és a központot. Egy kiadós ebéd a helyi konobában segít kivárni a nagyobb záporokat. Délután a Lika-menti séta esőben is frissítő, az estét pedig töltse a vasútállomás fedett várótermében.",
             "ro": "Călătoria cu trenul spre Perušić este foarte relaxantă pe ploaie. De la gară, puteți ajunge la biserică și în centru în câteva minute de mers. Un prânz prelungit într-o konoba vă va feri de aversă. După-amiaza, plimbarea pe lângă Lika oferă aer proaspăt, iar seara o puteți petrece în interiorul gării.",
             "en": "The train journey to Perušić is especially cozy on a rainy day. From the station, you can reach the church and the town center in a few minutes. A long lunch in a local Konoba helps you wait out the heavy showers. In the afternoon, a walk by the Lika River is refreshing despite the rain, and you can wait for your evening train in the dry station.",
-            "hr": "Putovanje vlakom do Perušića posebno je ugodno u kišni dan. S kolodvora možete doći do crkve i centra grada za nekoliko minuta. Dugi ručak u lokalnoj konobi pomaže vam da pričekate prolazak jakih pljuskova. Poslijepodne, šetnja uz rijeku Liku osvježava unatoč kiši, a večernji vlak možete čekati u suhom kolodvoru."
+            "hr": "Voznja vlakom do Perušića posebno je ugodna po kiši. Sa stanice možete pješice do crkve i centra grada za nekoliko minuta. Dug ručak u lokalnoj konobi pomoći će vam da pričekate intenzivne pljuskove. Poslijepodne, šetnja uz rijeku Liku osvježava unatoč kiši, a večernji vlak možete dočekati na suhoj stanici."
           },
           "stops": [
             {
@@ -1780,7 +1803,7 @@
                 "hu": "Várjon a csatlakozásra a fedett peronon vagy a váróban.",
                 "ro": "Așteptați trenul în zona acoperită sau în sala de așteptare.",
                 "en": "Wait for your connection in the covered area or waiting room.",
-                "hr": "Pričekajte svoj spoj u natkrivenom dijelu ili čekaonici."
+                "hr": "Pričekajte vezu u natkrivenom prostoru ili čekaonici."
               }
             },
             {
@@ -1790,7 +1813,7 @@
                 "hu": "Egy rövid séta az állomástól, készüljön az esernyővel.",
                 "ro": "O scurtă plimbare de la gară, aveți umbrela pregătită.",
                 "en": "A short walk from the station, have your umbrella ready.",
-                "hr": "Kratka šetnja od kolodvora, pripremite kišobran."
+                "hr": "Kratka šetnja od stanice; imajte spreman kišobran."
               }
             },
             {
@@ -1800,7 +1823,7 @@
                 "hu": "Vigyázzon, az ösvény esőben sáros lehet a torony felé.",
                 "ro": "Atenție, poteca poate fi noroioasă spre turn pe ploaie.",
                 "en": "Be careful, the path to the tower can be muddy when it rains.",
-                "hr": "Budite oprezni, put do kule može biti blatan kad pada kiša."
+                "hr": "Budite oprezni, put do kule može biti blatnjav kad pada kiša."
               }
             },
             {
@@ -1810,7 +1833,7 @@
                 "hu": "Válasszon éttermet az állomás felé vezető út közelében.",
                 "ro": "Alegeți un restaurant aproape de drumul spre gară.",
                 "en": "Choose a restaurant close to the path back to the station.",
-                "hr": "Odaberite restoran blizu puta natrag prema kolodvoru."
+                "hr": "Odaberite restoran blizu puta natrag do stanice."
               }
             },
             {
@@ -1820,7 +1843,7 @@
                 "hu": "Az eső ellenére figyeljen a vonat pontos indulási idejére.",
                 "ro": "Fiți atenți la orele de plecare, în ciuda ploii.",
                 "en": "Keep an eye on the departure schedule despite the weather.",
-                "hr": "Pripazite na vozni red polazaka unatoč vremenu."
+                "hr": "I dalje pratite polazak vlaka unatoč vremenu."
               }
             }
           ],
@@ -1850,10 +1873,10 @@
               "An umbrella is essential for walking between the stops."
             ],
             "hr": [
-              "Kolodvor pruža zaklon ako se vratite ranije na svoj vlak.",
+              "Stanica pruža zaklon ako ranije dođete po vlak.",
               "Nosite vodootpornu obuću za kratku šetnju s perona.",
-              "Provjerite potencijalna kašnjenja vlakova tijekom jakih kišnih oluja.",
-              "Kišobran je neophodan za hodanje između postaja."
+              "Provjerite moguće kašnjenje vlakova tijekom jakih kiša.",
+              "Kišobran je neophodan za hodanje između stajališta."
             ]
           }
         },
@@ -1863,7 +1886,7 @@
             "hu": "A havas Likán átvezető vonatút igazi téli élmény. Perušićba érve a barokk templom felé vezető séta segít a bemelegedésben. Ebédre keressen egy központi éttermet egy forró levesért és helyi finomságokért. A Lika-folyó menti rövid séta a táj fagyos nyugalmát mutatja meg, mielőtt felszállna a fűtött vonatra.",
             "ro": "Călătoria cu trenul prin regiunea Lika înzăpezită este o experiență de iarnă autentică. Ajunși în Perušić, plimbarea spre biserică vă va încălzi. La prânz, alegeți un restaurant central pentru supe calde. O scurtă plimbare pe lângă râul Lika vă arată liniștea geroasă a locului înainte de a urca în trenul încălzit.",
             "en": "The train ride through the snowy Lika region is a true winter experience. Arriving in Perušić, the walk to the baroque church will warm you up. At noon, find a central restaurant for hot soup and local dishes. A short winter walk by the Lika River shows the quiet, frosty side of town before you head back on the heated train.",
-            "hr": "Vožnja vlakom kroz snježnu ličku regiju pravi je zimski doživljaj. Dolaskom u Perušić, šetnja do barokne crkve će vas zagrijati. U podne pronađite središnji restoran za toplu juhu i lokalna jela. Kratka zimska šetnja uz rijeku Liku pokazuje mirnu, mraznu stranu grada prije povratka grijanim vlakom."
+            "hr": "Voznja vlakom kroz snježnu Liku prava je zimska doživljaj. Dolaskom u Perušić, šetnja do barokne crkve ugrijat će vas. U podne pronađite centralni restoran za toplu juhu i domaća jela. Kratka zimska šetnja uz rijeku Liku otkriva tihu, smrzlu stranu mjesta prije povratka u zagrijani vlak."
           },
           "stops": [
             {
@@ -1873,7 +1896,7 @@
                 "hu": "Várjon a vonat indulására a fűtött váróteremben.",
                 "ro": "Așteptați trenul în sala de așteptare încălzită a gării.",
                 "en": "Wait for your train inside the heated station waiting room.",
-                "hr": "Pričekajte svoj vlak unutar grijane kolodvorske čekaonice."
+                "hr": "Pričekajte vlak u grijanoj čekaonici stanice."
               }
             },
             {
@@ -1883,7 +1906,7 @@
                 "hu": "Figyeljen a letakarított utakra az állomástól a központig.",
                 "ro": "Fiți atenți la drumurile deszăpezite dintre gară și centru.",
                 "en": "Look for cleared paths when walking from the station to the center.",
-                "hr": "Tražite očišćene staze kada hodate od kolodvora do centra."
+                "hr": "Tražite očišćene staze pri hodu od stanice do centra."
               }
             },
             {
@@ -1893,7 +1916,7 @@
                 "hu": "A kapaszkodó hóban fárasztó lehet, de a látvány megéri.",
                 "ro": "Urcarea prin zăpadă poate fi obositoare, dar merită efortul.",
                 "en": "The climb through snow can be tiring, but the view is worth it.",
-                "hr": "Uspon kroz snijeg može biti naporan, ali pogled je vrijedan toga."
+                "hr": "Uspon kroz snijeg može biti naporan, ali pogled se isplati."
               }
             },
             {
@@ -1903,7 +1926,7 @@
                 "hu": "Keressen egy kandallós vagy jól fűtött éttermet az ebédhez.",
                 "ro": "Căutați un local cu șemineu sau încălzire bună pentru prânz.",
                 "en": "Look for a place with a cozy fireplace or good heating for lunch.",
-                "hr": "Potražite mjesto s ugodnim kaminom ili dobrim grijanjem za ručak."
+                "hr": "Potražite mjesto s ugodnim kaminom ili dobrom grijanjem za ručak."
               }
             },
             {
@@ -1913,7 +1936,7 @@
                 "hu": "Térjen vissza időben az állomásra, mielőtt fokozódna a fagy.",
                 "ro": "Întoarceți-vă la gară la timp, înainte ca gerul să se intensifice.",
                 "en": "Head back to the station in time, before the frost gets sharper.",
-                "hr": "Vratite se na kolodvor na vrijeme, prije nego što mraz postane jači."
+                "hr": "Vratite se na stanicu na vrijeme, prije nego što oštriji mraz počne."
               }
             }
           ],
@@ -1944,9 +1967,9 @@
             ],
             "hr": [
               "Nosite tople zimske čizme za čekanje na peronu.",
-              "Provjerite ima li promjena u voznom redu vlakova zbog vremenskih uvjeta.",
-              "Vlak je često najpouzdaniji način za dolazak u snježnu Liku.",
-              "Držite kapu i rukavice spremnima za šetnje između postaja."
+              "Provjerite ima li promjena u voznom redu zbog vremena.",
+              "Vlak je često najpouzdaniji način dolaska u snježnu Liku.",
+              "Držite kapu i rukavice pri ruci za šetnje između stajališta."
             ]
           }
         }

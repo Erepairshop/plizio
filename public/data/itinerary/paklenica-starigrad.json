@@ -32,7 +32,7 @@
             "hu": "Figyelje a sziklamászókat.",
             "ro": "Observați alpiniștii pe stânci.",
             "en": "Watch the climbers on the rocks.",
-            "hr": "Promatrajte penjače na stijenama."
+            "hr": "Gledajte penjače na stijenama."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Egyedülálló halotti emlékhelyek.",
             "ro": "Monumente funerare unice.",
             "en": "Unique funeral monuments.",
-            "hr": "Jedinstveni pogrebni spomenici."
+            "hr": "Jedinstveni grobni spomenici."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Naplemente a tengerparton.",
             "ro": "Apus de soare pe malul mării.",
             "en": "Sunset by the sea.",
-            "hr": "Zalazak sunca uz more."
+            "hr": "Zalazak sunca kraj mora."
           }
         }
       ],
@@ -117,7 +117,7 @@
         "hu": "Túrázzon reggel a lenyűgöző Velika Paklenica-szurdok mélyére. Az Anića kuk hatalmas sziklafalai alatt érezheti a természet erejét. Másszon fel a Manita peć barlanghoz a különleges cseppkövekért. Visszafelé nézze meg a misztikus Mirila emlékhelyet, majd zárja az estét a starigradi tengerparti sétányon.",
         "ro": "Drumeți dimineața în adâncul impresionantei chei Velika Paklenica. Sub pereții uriași ai Anića kuk veți simți forța naturii. Urcați la peștera Manita peć pentru stalactite fantastice. La întoarcere, vizitați monumentele mistice Mirila, apoi încheiați seara relaxat pe faleza din Starigrad.",
         "en": "Hike deep into the impressive Velika Paklenica gorge in the morning. Feel the power of nature beneath the massive walls of Anića kuk. Climb up to Manita peć cave to see fantastic stalactites. On the way back, visit the mystical Mirila monuments before ending the evening relaxed on the Starigrad promenade.",
-        "hr": "Ujutro krenite duboko u impresivni klanac Velika Paklenica. Osjetite snagu prirode pod masivnim stijenama Anića kuka. Popnite se do špilje Manita peć kako biste vidjeli fantastične stalaktite. Na povratku posjetite mistične spomenike Mirila prije nego što večer završite opušteno na starigradskoj rivi."
+        "hr": "Ujutro duboko prošetajte impresivnom kanjonom Velike Paklenice. Osjetite moć prirode pod masivnim zidovima Anića kuka. Popnite se do špilje Manita peć i pogledajte fantastične stalaktite. Na povratku posjetite mistične spomenike Mirila prije nego što večer opušteno završite na starigradskoj rivi."
       },
       "gastro_picks": {
         "de": [
@@ -238,7 +238,7 @@
           "Take plenty of water."
         ],
         "hr": [
-          "Planinarske cipele su obavezne.",
+          "Planinarske čizme obavezne.",
           "Ponesite dovoljno vode."
         ]
       },
@@ -248,7 +248,8 @@
             "de": "Wandern Sie am Morgen tief in die beeindruckende Velika Paklenica Schlucht hinein. Unter den gewaltigen Wänden des Anića kuk spüren Sie die Kraft der Natur. Steigen Sie zur Manita peć Höhle auf, um fantastische Stalaktiten zu sehen. Auf dem Rückweg besuchen Sie die mystischen Mirila-Steine, bevor Sie den Abend entspannt an der Promenade von Starigrad ausklingen lassen.",
             "hu": "Túrázzon reggel a lenyűgöző Velika Paklenica-szurdok mélyére. Az Anića kuk hatalmas sziklafalai alatt érezheti a természet erejét. Másszon fel a Manita peć barlanghoz a különleges cseppkövekért. Visszafelé nézze meg a misztikus Mirila emlékhelyet, majd zárja az estét a starigradi tengerparti sétányon.",
             "ro": "Drumeți dimineața în adâncul impresionantei chei Velika Paklenica. Sub pereții uriași ai Anića kuk veți simți forța naturii. Urcați la peștera Manita peć pentru stalactite fantastice. La întoarcere, vizitați monumentele mistice Mirila, apoi încheiați seara relaxat pe faleza din Starigrad.",
-            "en": "Hike deep into the impressive Velika Paklenica gorge in the morning. Feel the power of nature beneath the massive walls of Anića kuk. Climb up to Manita peć cave to see fantastic stalactites. On the way back, visit the mystical Mirila monuments before ending the evening relaxed on the Starigrad promenade."
+            "en": "Hike deep into the impressive Velika Paklenica gorge in the morning. Feel the power of nature beneath the massive walls of Anića kuk. Climb up to Manita peć cave to see fantastic stalactites. On the way back, visit the mystical Mirila monuments before ending the evening relaxed on the Starigrad promenade.",
+            "hr": "Ujutro duboko prošetajte impresivnom kanjonom Velike Paklenice. Osjetite moć prirode pod masivnim zidovima Anića kuka. Popnite se do špilje Manita peć i pogledajte fantastične stalaktite. Na povratku posjetite mistične spomenike Mirila prije nego što večer opušteno završite na starigradskoj rivi."
           },
           "stops": [
             {
@@ -257,7 +258,8 @@
                 "de": "Kletterer an den Felsen beobachten.",
                 "hu": "Figyelje a sziklamászókat.",
                 "ro": "Observați alpiniștii pe stânci.",
-                "en": "Watch the climbers on the rocks."
+                "en": "Watch the climbers on the rocks.",
+                "hr": "Gledajte penjače na stijenama."
               }
             },
             {
@@ -266,7 +268,8 @@
                 "de": "Größte Felswand im Velebit.",
                 "hu": "A Velebit legnagyobb fala.",
                 "ro": "Cel mai mare perete din Velebit.",
-                "en": "Largest rock face in Velebit."
+                "en": "Largest rock face in Velebit.",
+                "hr": "Najveća stijena na Velebitu."
               }
             },
             {
@@ -275,7 +278,8 @@
                 "de": "Jacke für die Höhle mitnehmen.",
                 "hu": "Vigyen pulóvert a barlangba.",
                 "ro": "Luați o jachetă pentru peșteră.",
-                "en": "Take a jacket for the cave."
+                "en": "Take a jacket for the cave.",
+                "hr": "Ponesite jaknu za špilju."
               }
             },
             {
@@ -284,7 +288,8 @@
                 "de": "Einzigartige Totengedenkstätten.",
                 "hu": "Egyedülálló halotti emlékhelyek.",
                 "ro": "Monumente funerare unice.",
-                "en": "Unique funeral monuments."
+                "en": "Unique funeral monuments.",
+                "hr": "Jedinstveni grobni spomenici."
               }
             },
             {
@@ -293,7 +298,8 @@
                 "de": "Sonnenuntergang am Meer.",
                 "hu": "Naplemente a tengerparton.",
                 "ro": "Apus de soare pe malul mării.",
-                "en": "Sunset by the sea."
+                "en": "Sunset by the sea.",
+                "hr": "Zalazak sunca kraj mora."
               }
             }
           ],
@@ -395,6 +401,10 @@
             "en": [
               "Hiking boots are mandatory.",
               "Take plenty of water."
+            ],
+            "hr": [
+              "Planinarske čizme obavezne.",
+              "Ponesite dovoljno vode."
             ]
           }
         },
@@ -404,7 +414,7 @@
             "hu": "Az eső misztikus hangulatot kölcsönöz a Paklenica-szurdoknak, a hatalmas sziklafalakon lecsorgó víz látványa lenyűgöző. Délelőtt óvatosan haladjon a kiépített ösvényeken.\r\n\r\nDélben a Manita peć barlang tökéletes és száraz menedéket nyújt a föld alatt, ahol a hőmérséklet állandó és kellemes.\r\n\r\nDélután a Mirila emlékhelyek látogatása következik, amelyek az esőben különösen melankolikus arcukat mutatják. Figyeljen a csúszós kövekre.\r\n\r\nEste a parti sétányon zárul a nap, ahol az esernyő alatt figyelve az Adriát, a tenger ereje és szürke színei dominálnak.",
             "ro": "Ploaia conferă defileului Paklenica o atmosferă mistică, în timp ce apa se scurge pe pereții masivi de stâncă. Dimineața, mergeți cu atenție pe potecile amenajate.\r\n\r\nLa prânz, peștera Manita peć oferă un adăpost perfect și uscat sub pământ, unde temperatura este constantă și plăcută.\r\n\r\nDupă-amiaza, explorați monumentele Mirila, care par deosebit de melancolice în ploaie. Atenție la pietrele alunecoase.\r\n\r\nSeara se încheie cu o plimbare scurtă pe faleză, unde sub cerul cenușiu, marea Adriatică pare aspră și plină de forță.",
             "en": "Rain adds a mystical atmosphere to the Paklenica canyon, with water cascading down the massive rock faces. In the morning, hike carefully along the paved paths.\r\n\r\nAt noon, the Manita peć cave provides a perfect, dry underground sanctuary where the temperature remains constant and pleasant.\r\n\r\nIn the afternoon, explore the Mirila monuments, which look particularly melancholic in the rain. Watch out for slippery stones.\r\n\r\nIn the evening, end the day with a stroll along the promenade, where the Adriatic appears raw and powerful under the gray sky.",
-            "hr": "Kiša daje mističnu atmosferu kanjonu Paklenice, s vodom koja se slijeva niz masivne stijene. Ujutro oprezno pješačite popločanim stazama.\r\n\r\nU podne, špilja Manita peć pruža savršeno, suho podzemno utočište u kojem je temperatura stalna i ugodna.\r\n\r\nPoslijepodne istražite spomenike Mirila, koji na kiši izgledaju posebno melankolično. Pripazite na sklisko kamenje.\r\n\r\nNavečer završite dan šetnjom rivom, gdje Jadran pod sivim nebom djeluje sirovo i moćno."
+            "hr": "Kiša daje mističnu atmosferu kanjonu Paklenice, s vodom koja se obrušava niz masivne stijenske zidove. Ujutro pažljivo hodajte uređenim stazama.\r\n\r\nU podne špilja Manita peć pruža savršeni, suhi podzemni zaklon gdje je temperatura stalna i ugodna.\r\n\r\nPopodne istražite spomenike Mirila, koji u kiši djeluju osobito melanholično. Pazite na skliske kamene.\r\n\r\nUvečer završite dan šetnjom rivom, gdje se Jadran pod sivim nebom čini sirov i snažan."
           },
           "stops": [
             {
@@ -414,7 +424,7 @@
                 "hu": "A vizes köveken elengedhetetlen a jó tapadású, stabil túrabakancs.",
                 "ro": "Bocancii de drumeție cu aderență bună sunt esențiali pe pietrele ude.",
                 "en": "Sturdy hiking boots with good grip are essential on the wet stones.",
-                "hr": "Čvrste planinarske cipele s dobrim prianjanjem neophodne su na mokrom kamenju."
+                "hr": "Čvrste planinarske čizme s dobrim gripom bitne su na mokrim stijena."
               }
             },
             {
@@ -424,7 +434,7 @@
                 "hu": "A felhők gyakran alacsonyan szállnak a csúcsnál; az esőkabát véd a széltől is.",
                 "ro": "Norii coboară adesea pe vârf; pelerina de ploaie protejează și împotriva vântului.",
                 "en": "Clouds often hang low at the peak; rain gear will also protect you from the wind.",
-                "hr": "Oblaci često vise nisko na vrhovima; kišna oprema zaštitit će vas i od vjetra."
+                "hr": "Oblaci često visoko vise na vrhu; kišno odijelo će vas također zaštititi od vjetra."
               }
             },
             {
@@ -444,7 +454,7 @@
                 "hu": "A lapos kövek nedvesen nagyon csúszósak lehetnek, óvatosan lépkedjen.",
                 "ro": "Pietrele plate pot fi foarte alunecoase când sunt ude, pășiți cu atenție.",
                 "en": "The flat stones can be very slippery when wet, watch your step carefully.",
-                "hr": "Ravne stijene mogu biti vrlo skliske kad su mokre, pažljivo gazite."
+                "hr": "Ravne stijene mogu biti vrlo sklizke kad su mokre, pazite gdje stajete."
               }
             },
             {
@@ -488,11 +498,11 @@
               "Watch out for flash torrents that can form briefly after heavy rain."
             ],
             "hr": [
-              "Nosite nepromočivu odjeću jer se planinsko vrijeme može vrlo brzo promijeniti.",
+              "Nosite vodootporne slojeve jer se planinsko vrijeme može brzo mijenjati.",
               "Špilja nudi prirodni zaklon tijekom jakih pljuskova.",
-              "Izbjegavajte strme uspone kada su stijene mokre i skliske.",
-              "Vrući čaj u jednom od planinarskih domova zagrijat će vas nakon pješačenja.",
-              "Pripazite na bujice koje se mogu nakratko stvoriti nakon jake kiše."
+              "Izbjegavajte strme penjačke dionice kad su stijene mokre i skliske.",
+              "Topli čaj u nekoj planinarskoj kući ugrijat će vas nakon uspona.",
+              "Pazite na bujične tokove koji se mogu kratko formirati nakon jake kiše."
             ]
           }
         },
@@ -502,7 +512,7 @@
             "hu": "A tiszta téli levegő a Paklenica Nemzeti Parkban fantasztikus látótávolságot biztosít. Délelőtt a szurdok csendes és szinte néptelen.\r\n\r\nDélben a barlanghoz vezető emelkedő következik. A hűvös fuvallatot ellensúlyozza a mozgás, a kilátás pedig borotvaéles ilyenkor.\r\n\r\nDélután a Mirila kövekhez érkezik, még mielőtt a nap korán eltűnne a hegyek mögött. Az árnyékok gyorsan megnyúlnak.\r\n\r\nEste korán térjen vissza a sétányra, hogy kiélvezze az utolsó fényeket a tenger felett, mielőtt beállna a téli fagyos levegő.",
             "ro": "Aerul curat de iarnă din Parcul Național Paklenica asigură o vizibilitate fantastică. Dimineața, defileul este liniștit și aproape pustiu.\r\n\r\nLa prânz urmează urcarea spre peșteră. Briza rece este compensată de efortul fizic, iar priveliștea este extrem de clară.\r\n\r\nDupă-amiaza ajungeți la pietrele Mirila, înainte ca soarele să dispară devreme după munți. Umbrele se lungesc rapid.\r\n\r\nSeara reveniți devreme pe faleză pentru a vă bucura de ultimele lumini deasupra mării, înainte de lăsarea frigului de iarnă.",
             "en": "The crisp winter air in Paklenica National Park provides fantastic visibility. In the morning, the canyon is quiet and almost deserted.\r\n\r\nAt noon, tackle the climb to the cave. The cool breeze is balanced by physical activity, and the view is razor-sharp.\r\n\r\nIn the afternoon, reach the Mirila stones before the sun disappears early behind the mountains. Shadows lengthen quickly.\r\n\r\nIn the evening, return early to the promenade to catch the last light over the sea before the winter chill sets in.",
-            "hr": "Oštri zimski zrak u Nacionalnom parku Paklenica pruža fantastičnu vidljivost. Ujutro je kanjon tih i gotovo pust.\r\n\r\nU podne se uputite na uspon do špilje. Hladan povjetarac uravnotežen je tjelesnom aktivnošću, a pogled je kristalno čist.\r\n\r\nPoslijepodne dođite do spomenika Mirila prije nego što sunce rano nestane iza planina. Sjene se brzo produljuju.\r\n\r\nNavečer se rano vratite na rivu kako biste uhvatili posljednje svjetlo nad morem prije nego što nastupi zimska hladnoća."
+            "hr": "Kriški zrak u zimskom Nacionalnom parku Paklenica pruža fantastičnu vidljivost. Ujutro je kanjon miran i gotovo pust.\r\n\r\nU podne krenite na uspon prema špilji. Hladan povjetarac nadoknađuje se tjelesnom aktivnošću, a pogled je izuzetno jasan.\r\n\r\nPopodne stižite do Mirila prije nego sunce rano nestane iza planina. Sjene se brzo produljuju.\r\n\r\nUvečer se vratite ranije na rivu da uhvatite posljednje svjetlo nad morem prije nego zimska hladnoća stigne."
           },
           "stops": [
             {
@@ -512,7 +522,7 @@
                 "hu": "Öltözzön rétegesen; a sziklák árnyékában sokkal hűvösebb van.",
                 "ro": "Îmbrăcați-vă în straturi; la umbra stâncilor este mult mai răcoare.",
                 "en": "Dress in layers; it is significantly cooler in the shadow of the rocks.",
-                "hr": "Odjenite se slojevito; u sjeni stijena je znatno hladnije."
+                "hr": "Obucite se u slojevima; u sjeni stijena je znatno hladnije."
               }
             },
             {
@@ -522,7 +532,7 @@
                 "hu": "A téli napfény ideális a fotózáshoz, de a szél metsző lehet a sziklánál.",
                 "ro": "Soarele de iarnă luminează stânca ideal pentru poze, dar vântul poate fi tăios.",
                 "en": "The winter sun illuminates the rock ideally for photos, but the wind can bite.",
-                "hr": "Zimsko sunce idealno osvjetljava stijene za fotografije, ali vjetar može biti oštar."
+                "hr": "Zimsko sunce idealno osvjetljava stijene za fotografije, ali vjetar može oštro rezati."
               }
             },
             {
@@ -532,7 +542,7 @@
                 "hu": "Bent gyakran melegebb van, mint kint; ellenőrizze előre a téli nyitvatartást.",
                 "ro": "În interior este adesea mai cald decât afară; verificați programul de iarnă.",
                 "en": "Inside it is often warmer than outside; check the winter opening hours in advance.",
-                "hr": "Unutra je često toplije nego vani; unaprijed provjerite zimsko radno vrijeme."
+                "hr": "Unutra je često toplije nego vani; provjerite zimsko radno vrijeme unaprijed."
               }
             },
             {
@@ -542,7 +552,7 @@
                 "hu": "Látogasson el ide 15:30 előtt, hogy még legyen természetes fénye.",
                 "ro": "Vizitați acest loc înainte de ora 15:30 pentru a mai avea lumină naturală.",
                 "en": "Visit this spot before 15:30 to still have daylight.",
-                "hr": "Posjetite ovo mjesto prije 15:30 kako biste još imali dnevnog svjetla."
+                "hr": "Posjetite ovo mjesto prije 15:30 da biste još imali dnevnog svjetla."
               }
             },
             {
@@ -552,7 +562,7 @@
                 "hu": "A bóra szél itt nagyon erős lehet; szélálló kabát kötelező.",
                 "ro": "Vântul Bura poate sufla foarte tare aici; o jachetă rezistentă la vânt e obligatorie.",
                 "en": "The Bura wind can be very strong here; a windproof jacket is a must.",
-                "hr": "Bura ovdje može biti vrlo jaka; vjetrovka je obavezna."
+                "hr": "Bura ovdje može biti vrlo jaka; nepropusna jakna je obavezna."
               }
             }
           ],
@@ -586,11 +596,11 @@
               "Most tourist facilities have reduced opening hours during this season."
             ],
             "hr": [
-              "Sunce zimi nestaje iza vrhova već oko 16:30.",
-              "Ponesite termosicu s toplim napitkom za pješačenje.",
-              "Pripazite na zaleđene dijelove u sjenovitim dijelovima kanjona.",
+              "Sunce nestaje iza vrhova već u 16:30 zimi.",
+              "Ponesite termosicu s toplim napitkom za uspon.",
+              "Pazite na zaleđene dijelove u zasjenjenim dijelovima kanjona.",
               "Bura može učiniti staze neprohodnima; provjerite vremensku prognozu.",
-              "Većina turističkih objekata ima skraćeno radno vrijeme tijekom ove sezone."
+              "Većina turističkih objekata ima smanjeno radno vrijeme tijekom ovog razdoblja."
             ]
           }
         }
@@ -658,7 +668,7 @@
             "hu": "Eredeti forgatási helyszínek.",
             "ro": "Locații originale de filmare.",
             "en": "Original filming locations.",
-            "hr": "Originalne lokacije snimanja."
+            "hr": "Izvorne lokacije snimanja."
           }
         },
         {
@@ -705,7 +715,7 @@
         "hu": "Bringázzon a tengerpart mentén Starigradból Selinébe. Látogassa meg a középkori Večka kula őrtornyot közvetlenül a parton. A Szent Péter-templom a régió történelméről mesél. A filmrajongóknak a Winnetou Múzeum kötelező program. Délután pihenjen Seline kavicsos strandjain, majd tekerjen vissza a kikötőbe.",
         "ro": "Pedalați de-a lungul coastei de la Starigrad la Seline. Vizitați mai întâi turnul medieval Večka kula chiar de pe mal. Biserica Sf. Petru povestește istoria regiunii. Pentru fanii filmelor, Muzeul Winnetou este obligatoriu. Petreceți după-amiaza pe plajele cu pietriș din Seline înainte de a reveni în port.",
         "en": "Cycle along the coast from Starigrad to Seline. First, visit the medieval Večka kula watchtower right by the sea. St. Peter's Church tells the history of the region. For film fans, the Winnetou Museum is a must. Spend the afternoon relaxing on the pebble beaches of Seline before heading back to the harbor.",
-        "hr": "Vozite bicikl obalom od Starigrada do Selina. Prvo posjetite srednjovjekovnu kulu Večka tik uz more. Crkva sv. Petra priča povijest regije. Za ljubitelje filma, Muzej Winnetou je nezaobilazan. Provedite poslijepodne opuštajući se na šljunčanim plažama Selina prije povratka u luku."
+        "hr": "Biciklirajte duž obale od Starigrada do Selina. Najprije posjetite srednjovjekovnu stražarnicu Večku kulu tik uz more. Crkva sv. Petra priča povijest regije. Za ljubitelje filma Muzej Winnetoua je obavezan. Provedite popodne opuštajući se na šljunčanim plažama Selina prije povratka u luku."
       },
       "gastro_picks": {
         "de": [
@@ -836,7 +846,8 @@
             "de": "Radeln Sie entlang der Küste von Starigrad nach Seline. Besuchen Sie zuerst den mittelalterlichen Wachturm Večka kula direkt am Meer. Die präromanische St. Petrus-Kirche erzählt von der Geschichte der Region. Für Filmfans ist das Winnetou-Museum ein Muss. Den Nachmittag verbringen Sie entspannt an den Kiesstränden von Seline, bevor es zurück zum Hafen geht.",
             "hu": "Bringázzon a tengerpart mentén Starigradból Selinébe. Látogassa meg a középkori Večka kula őrtornyot közvetlenül a parton. A Szent Péter-templom a régió történelméről mesél. A filmrajongóknak a Winnetou Múzeum kötelező program. Délután pihenjen Seline kavicsos strandjain, majd tekerjen vissza a kikötőbe.",
             "ro": "Pedalați de-a lungul coastei de la Starigrad la Seline. Vizitați mai întâi turnul medieval Večka kula chiar de pe mal. Biserica Sf. Petru povestește istoria regiunii. Pentru fanii filmelor, Muzeul Winnetou este obligatoriu. Petreceți după-amiaza pe plajele cu pietriș din Seline înainte de a reveni în port.",
-            "en": "Cycle along the coast from Starigrad to Seline. First, visit the medieval Večka kula watchtower right by the sea. St. Peter's Church tells the history of the region. For film fans, the Winnetou Museum is a must. Spend the afternoon relaxing on the pebble beaches of Seline before heading back to the harbor."
+            "en": "Cycle along the coast from Starigrad to Seline. First, visit the medieval Večka kula watchtower right by the sea. St. Peter's Church tells the history of the region. For film fans, the Winnetou Museum is a must. Spend the afternoon relaxing on the pebble beaches of Seline before heading back to the harbor.",
+            "hr": "Vožnja biciklom uz obalu od Starigrada do Seline. Prvo posjetite srednjovjekovnu stražarnicu Večka kula odmah uz more. Crkva sv. Petra priča povijest tog kraja. Za filmoljupce muzej Winnetou je neizostavan. Popodne se opustite na šljunčanim plažama Seline prije povratka u luku."
           },
           "stops": [
             {
@@ -845,7 +856,8 @@
                 "de": "Legende von König Pasoglav.",
                 "hu": "Pasoglav király legendája.",
                 "ro": "Legenda regelui Pasoglav.",
-                "en": "Legend of King Pasoglav."
+                "en": "Legend of King Pasoglav.",
+                "hr": "Legenda o kralju Pasoglavu."
               }
             },
             {
@@ -854,7 +866,8 @@
                 "de": "Alte Steinkirche am Weg.",
                 "hu": "Régi kőtemplom az út mentén.",
                 "ro": "Biserică veche de piatră.",
-                "en": "Old stone church by the road."
+                "en": "Old stone church by the road.",
+                "hr": "Stara kamena crkva kraj ceste."
               }
             },
             {
@@ -863,7 +876,8 @@
                 "de": "Original-Drehorte entdecken.",
                 "hu": "Eredeti forgatási helyszínek.",
                 "ro": "Locații originale de filmare.",
-                "en": "Original filming locations."
+                "en": "Original filming locations.",
+                "hr": "Izvorne lokacije snimanja."
               }
             },
             {
@@ -872,7 +886,8 @@
                 "de": "Schöne Badebucht suchen.",
                 "hu": "Keressen egy szép öblöt.",
                 "ro": "Căutați un golf frumos.",
-                "en": "Find a nice swimming bay."
+                "en": "Find a nice swimming bay.",
+                "hr": "Pronađite lijepu uvalu za kupanje."
               }
             },
             {
@@ -881,7 +896,8 @@
                 "de": "Eis essen am Hafen.",
                 "hu": "Fagyizzon a kikötőben.",
                 "ro": "Înghețată în port.",
-                "en": "Ice cream at the harbor."
+                "en": "Ice cream at the harbor.",
+                "hr": "Sladoled u luci."
               }
             }
           ],
@@ -983,6 +999,10 @@
             "en": [
               "Apply sunscreen.",
               "Coastal road is flat."
+            ],
+            "hr": [
+              "Nanesite kremu za sunčanje.",
+              "Obalna cesta je ravna."
             ]
           }
         },
@@ -992,7 +1012,7 @@
             "hu": "Az esőben való kerékpározás óvatosságot igényel, de frissítő perspektívát ad a partvidéknek. Délelőtt a Večka-toronyhoz tekerjen szilárd burkolatú utakon.\r\n\r\nDélben a Winnetou Múzeum ideális, száraz megállóhelyként szolgál, ahol elmerülhet a filmtörténelemben.\r\n\r\nDélután a part menti út Seline felé vezet, ahol az eső felkorbácsolja a tenger vizét. Az utak itt kicsit sárosak lehetnek.\r\n\r\nEste a túra a starigradi kikötőben ér véget, ahol egy helyi kávézóban gyorsan felmelegedhet.",
             "ro": "Ciclismul în ploaie necesită prudență, dar oferă o perspectivă revigorantă asupra coastei. Dimineața, pedalați spre turnul Večka pe drumuri pavate.\r\n\r\nLa prânz, Muzeul Winnetou servește ca o oprire ideală și uscată pentru a explora istoria cinematografiei.\r\n\r\nDupă-amiaza, drumul duce de-a lungul coastei spre Seline, unde ploaia agită apa mării. Potecile pot fi puțin noroioase aici.\r\n\r\nSeara, turul se încheie în portul Starigrad, unde vă puteți încălzi rapid într-o cafenea locală.",
             "en": "Cycling in the rain requires caution but offers a refreshing perspective on the coast. In the morning, cycle to the Večka tower via paved roads.\r\n\r\nAt noon, the Winnetou Museum serves as an ideal, dry stopover to dive into film history.\r\n\r\nIn the afternoon, the path leads along the coast to Seline, where the rain stirs up the sea water. The paths can be a bit muddy here.\r\n\r\nIn the evening, the tour ends at Starigrad harbor, where you can quickly warm up in a local cafe.",
-            "hr": "Bicikliranje po kiši zahtijeva oprez, ali nudi osvježavajuću perspektivu obale. Ujutro se odvezite do kule Večka asfaltiranim cestama.\r\n\r\nU podne, Muzej Winnetou služi kao idealno, suho stajalište za uron u povijest filma.\r\n\r\nPoslijepodne put vodi uz obalu do Selina, gdje kiša uzburkava morsku vodu. Staze ovdje mogu biti pomalo blatnjave.\r\n\r\nNavečer tura završava u luci u Starigradu, gdje se možete brzo zagrijati u lokalnom kafiću."
+            "hr": "Vožnja biciklom po kiši zahtijeva oprez, ali pruža osvježavajuću perspektivu obale. Ujutro vozite do Večke kule po asfaltiranoj cesti.\r\n\r\nU podne je muzej Winnetou idealno suho utočište za uranjanje u filmsku povijest.\r\n\r\nPopodne staza vodi uz obalu do Seline, gdje kiša uzburkava morsku vodu. Staze mogu biti malo blatne ovdje.\r\n\r\nUvečer tura završava u luci Starigrad, gdje se brzo možete ugrijati u lokalnom kafiću."
           },
           "stops": [
             {
@@ -1002,7 +1022,7 @@
                 "hu": "Vigyázat a torony körüli egyenetlen talajon; a tócsák mélyek lehetnek.",
                 "ro": "Atenție la terenul accidentat din jurul turnului; bălțile pot fi adânci.",
                 "en": "Careful on the uneven ground around the tower; puddles can be deep.",
-                "hr": "Oprezno na neravnom terenu oko kule; lokve mogu biti duboke."
+                "hr": "Pazite na neravan teren oko kule; lokve mogu biti duboke."
               }
             },
             {
@@ -1012,7 +1032,7 @@
                 "hu": "Egy rövid megálló a szárazon itt lehetséges, mielőtt továbbmenne.",
                 "ro": "O scurtă oprire la adăpost este posibilă aici înainte de a continua.",
                 "en": "A short dry stop is possible here before moving on.",
-                "hr": "Ovdje je moguće kratko suho stajalište prije nastavka puta."
+                "hr": "Ovdje je moguć kratki suh predah prije nastavka puta."
               }
             },
             {
@@ -1022,7 +1042,7 @@
                 "hu": "Tökéletes egy hosszabb szünetre, hogy megvárja a legnagyobb esőt.",
                 "ro": "Perfect pentru o pauză mai lungă, pentru a aștepta trecerea ploii torențiale.",
                 "en": "Perfect for a longer break to wait out the heaviest rain.",
-                "hr": "Savršeno za dužu pauzu dok ne prođe najjača kiša."
+                "hr": "Savršeno za dulju pauzu dok ne prođe najjača kiša."
               }
             },
             {
@@ -1032,7 +1052,7 @@
                 "hu": "Ügyeljen a csúszós sárra a nem aszfaltozott szakaszokon.",
                 "ro": "Atenție la noroiul alunecos de pe porțiunile neasfaltate.",
                 "en": "Watch out for slippery mud on the unpaved sections.",
-                "hr": "Pripazite na sklisko blato na neasfaltiranim dijelovima."
+                "hr": "Pazite na sklisko blato na neasfaltiranim dionicama."
               }
             },
             {
@@ -1042,7 +1062,7 @@
                 "hu": "A kikötő fala szélben és esőben nagyon vizes és csúszós lehet.",
                 "ro": "Zidul portului poate fi foarte ud și alunecos în caz de vânt și ploaie.",
                 "en": "The harbor wall can be very wet and slippery in wind and rain.",
-                "hr": "Lučki gat može biti vrlo mokar i sklizak na vjetru i kiši."
+                "hr": "Pristupna ograda luke može biti vrlo mokra i skliska na vjetru i kiši."
               }
             }
           ],
@@ -1076,11 +1096,11 @@
               "Keep a towel in your backpack to dry off during breaks."
             ],
             "hr": [
-              "Provjerite kočnice jer im treba više vremena da zagrizu na mokrim obručima.",
-              "Izbjegavajte oštra skretanja na mokrom asfaltu ili makadamu.",
-              "Nosite svijetlu kišnu opremu kako biste bili vidljiviji vozačima.",
+              "Provjerite kočnice jer na mokrim obručima treba dulje vrijeme da zagrizu.",
+              "Izbjegavajte oštre zavoje na mokrom asfaltu ili šljunku.",
+              "Nosite svijetlu kišnu opremu kako bi vas vozači bolje vidjeli.",
               "Blatobrani na biciklu spriječit će prskanje prljave vode.",
-              "Držite ručnik u ruksaku kako biste se obrisali tijekom pauza."
+              "Držite ručnik u ruksaku za brisanje tijekom pauza."
             ]
           }
         },
@@ -1090,7 +1110,7 @@
             "hu": "A téli kerékpározás Starigradban tiszta kilátást kínál, de a szél kihívást jelenthet. Délelőtt az út történelmi tornyok mellett vezet el.\r\n\r\nDélben a múzeumban kereshet melegséget, miközben kint a téli nap megvilágítja a partot.\r\n\r\nDélután tempósan tekerjen Seline felé, hogy mozgásban és melegen tartsa a testét a naplemente előtt.\r\n\r\nEste a kikötőben fejezze be a túrát, ahol a téli nyugalom különleges hangulatot áraszt.",
             "ro": "Ciclismul iarna în Starigrad oferă o vizibilitate clară, dar vântul poate fi o provocare. Dimineața, drumul trece pe lângă turnuri istorice.\r\n\r\nLa prânz căutați căldură în muzeu, în timp ce afară soarele de iarnă luminează coasta.\r\n\r\nDupă-amiaza pedalați energic spre Seline pentru a menține corpul în mișcare și cald înainte de apus.\r\n\r\nSeara încheiați turul în port, unde liniștea iernii creează o atmosferă cu totul specială.",
             "en": "Winter cycling in Starigrad offers clear views, but the wind can be a challenge. In the morning, the path leads past historical towers.\r\n\r\nAt noon, seek warmth in the museum while the winter sun illuminates the coast outside.\r\n\r\nIn the afternoon, cycle briskly to Seline to keep your body moving and warm before the sun sets.\r\n\r\nIn the evening, end the tour at the harbor, where the winter silence creates a unique atmosphere.",
-            "hr": "Zimsko bicikliranje u Starigradu nudi čiste vidike, ali vjetar može biti izazov. Ujutro put vodi pored povijesnih kula.\r\n\r\nU podne potražite toplinu u muzeju dok zimsko sunce vani osvjetljava obalu.\r\n\r\nPoslijepodne brzo pedalirajte do Selina kako biste održali tijelo aktivnim i zagrijanim prije zalaska sunca.\r\n\r\nNavečer završite turu u luci, gdje zimska tišina stvara jedinstvenu atmosferu."
+            "hr": "Zimska vožnja biciklom u Starigradu nudi jasne poglede, ali vjetar može predstavljati izazov. Ujutro staza prolazi pored povijesnih kula.\r\n\r\nU podne potražite toplinu u muzeju dok zimsko sunce osvjetljava obalu izvana.\r\n\r\nPopodne vozite žustro do Seline kako biste održali tijelo toplim prije zalaska sunca.\r\n\r\nUvečer završite turu u luci, gdje zimska tišina stvara jedinstvenu atmosferu."
           },
           "stops": [
             {
@@ -1100,7 +1120,7 @@
                 "hu": "Védje kezeit szélálló kesztyűvel a hideg ellen.",
                 "ro": "Protejați-vă mâinile de frig cu mănuși rezistente la vânt.",
                 "en": "Protect your hands from the cold with windproof gloves.",
-                "hr": "Zaštitite ruke od hladnoće rukavicama otpornim na vjetar."
+                "hr": "Štitite ruke od hladnoće vjetrootpornim rukavicama."
               }
             },
             {
@@ -1110,7 +1130,7 @@
                 "hu": "Csendes hely egy rövid pihenőre, gyakran védve a bórától.",
                 "ro": "Un loc liniștit pentru un scurt popas, adesea protejat de vântul Bura.",
                 "en": "A quiet place for a short rest, often sheltered from the Bura wind.",
-                "hr": "Mirno mjesto za kratki odmor, često zaklonjeno od bure."
+                "hr": "Tih i miran prostor za kratak odmor, često zaklonjen od bure."
               }
             },
             {
@@ -1120,7 +1140,7 @@
                 "hu": "Használja ki a benti fűtést, hogy felmelegítse a lábait.",
                 "ro": "Folosiți încălzirea din interior pentru a vă reîncălzi picioarele.",
                 "en": "Use the indoor heating to warm up your feet again.",
-                "hr": "Iskoristite unutarnje grijanje kako biste ponovno ugrijali stopala."
+                "hr": "Koristite unutarnje grijanje da ponovno ugrijete stopala."
               }
             },
             {
@@ -1130,7 +1150,7 @@
                 "hu": "A szél itt gyakran közvetlenül a tenger felől fúj; viseljen arcvédőt.",
                 "ro": "Vântul suflă aici adesea direct dinspre mare; purtați protecție facială.",
                 "en": "The wind often blows directly from the sea here; wear face protection.",
-                "hr": "Vjetar ovdje često puše izravno s mora; nosite zaštitu za lice."
+                "hr": "Vjetar često puše izravno s mora ovdje; nosite zaštitu za lice."
               }
             },
             {
@@ -1140,7 +1160,7 @@
                 "hu": "Tervezze a túra végét legkésőbb 16:30-ra.",
                 "ro": "Planificați finalul turului cel târziu pentru ora 16:30.",
                 "en": "Plan to end the tour by 16:30 at the latest.",
-                "hr": "Planirajte završiti turu najkasnije do 16:30."
+                "hr": "Planirajte završetak ture najkasnije do 16:30."
               }
             }
           ],
@@ -1174,11 +1194,11 @@
               "Roads are often emptier in winter, but watch out for hoarfrost."
             ],
             "hr": [
-              "Bura može biti opasna za bicikliste; ne vozite tijekom upozorenja na olujni vjetar.",
+              "Bura može biti opasna za bicikliste; nemojte voziti tijekom upozorenja na oluju.",
               "Koristite zimske gume ili smanjite tlak u gumama za bolje prianjanje.",
-              "Neka vrijeme vožnje bude kratko kako biste izbjegli pothlađivanje.",
-              "Termosica u držaču za boce dulje će održati vaš čaj toplim.",
-              "Ceste su zimi često praznije, ali pripazite na mraz."
+              "Ograničite vrijeme vožnje kako biste izbjegli hipotermiju.",
+              "Termos u držaču boce održat će čaj dulje toplim.",
+              "Ceste su zimi često pustije, ali pazite na poledicu."
             ]
           }
         }
@@ -1208,7 +1228,7 @@
             "hu": "Parkoló a bejáratnál.",
             "ro": "Parcare chiar la intrare.",
             "en": "Parking right at entrance.",
-            "hr": "Parking odmah na ulazu."
+            "hr": "Parkiranje odmah na ulazu."
           }
         },
         {
@@ -1246,7 +1266,7 @@
             "hu": "Kóstolja meg a sült bárányt.",
             "ro": "Gustați mielul la grătar.",
             "en": "Try grilled lamb.",
-            "hr": "Probajte janjetinu s ražnja."
+            "hr": "Probajte pečenu janjetinu."
           }
         },
         {
@@ -1265,7 +1285,7 @@
             "hu": "Romantikus fotóhelyszín.",
             "ro": "Loc de poze romantic.",
             "en": "Romantic photo spot.",
-            "hr": "Romantično mjesto za fotografiranje."
+            "hr": "Romantično mjesto za fotografiju."
           }
         },
         {
@@ -1284,7 +1304,7 @@
             "hu": "A régi kápolna látogatása.",
             "ro": "Vizita vechii capele.",
             "en": "Visit the old chapel.",
-            "hr": "Posjetite staru kapelicu."
+            "hr": "Posjetite staru kapelu."
           }
         }
       ],
@@ -1293,7 +1313,7 @@
         "hu": "Fedezze fel kényelmesen autóval a Paklenica mindkét szurdokát. Kezdje a híres Velika Paklenicával, majd látogasson el a vadabb Mala Paklenica bejáratához. Élvezzen egy bőséges ebédet Selinében. Délután nézze meg a történelmi emlékeket, mint a Večka-torony és a Szent Péter-templom a parti út mentén.",
         "ro": "Explorați ambele chei Paklenica confortabil cu mașina. Începeți cu celebra Velika Paklenica, apoi mergeți la Mala Paklenica, mai sălbatică. Bucurați-vă de un prânz copios în Seline. După-amiaza, vizitați monumentele istorice precum turnul Večka și biserica Sf. Petru, situate chiar pe drumul de coastă.",
         "en": "Explore both Paklenica gorges comfortably by car. Start in the famous Velika Paklenica and then drive to the wilder Mala Paklenica. Enjoy a hearty lunch in Seline. In the afternoon, visit historical monuments like the Večka tower and St. Peter's Church, located right along the coastal road.",
-        "hr": "Istražite oba klanca Paklenice udobno automobilom. Započnite u poznatoj Velikoj Paklenici, a zatim se odvezite do divljije Male Paklenice. Uživajte u obilnom ručku u Selinama. Poslijepodne posjetite povijesne spomenike poput kule Večka i crkve sv. Petra, koji se nalaze tik uz obalnu cestu."
+        "hr": "Istražite oba kanjona Paklenice udobno automobilom. Počnite u poznatoj Velikoj Paklenici, a zatim se vozite do divljije Male Paklenice. Uživajte u obilnom ručku u Seline. Popodne posjetite povijesne spomenike poput Večke kule i crkve sv. Petra, smještene uz samu obalnu cestu."
       },
       "gastro_picks": {
         "de": [
@@ -1414,8 +1434,8 @@
           "Keep your camera ready."
         ],
         "hr": [
-          "Obratite pozornost na cijene parkinga.",
-          "Držite fotoaparat spreman."
+          "Obratite pažnju na naknade za parkiranje.",
+          "Držite fotoaparat spremnim."
         ]
       },
       "variants": {
@@ -1424,7 +1444,8 @@
             "de": "Erkunden Sie beide Paklenica-Schluchten bequem mit dem Auto. Starten Sie in der berühmten Velika Paklenica und fahren Sie dann zur wilderen Mala Paklenica. Genießen Sie ein herzhaftes Mittagessen in Seline. Am Nachmittag besuchen Sie die historischen Monumente wie den Večka-Turm und die St. Petrus-Kirche, die direkt an der Küstenstraße liegen.",
             "hu": "Fedezze fel kényelmesen autóval a Paklenica mindkét szurdokát. Kezdje a híres Velika Paklenicával, majd látogasson el a vadabb Mala Paklenica bejáratához. Élvezzen egy bőséges ebédet Selinében. Délután nézze meg a történelmi emlékeket, mint a Večka-torony és a Szent Péter-templom a parti út mentén.",
             "ro": "Explorați ambele chei Paklenica confortabil cu mașina. Începeți cu celebra Velika Paklenica, apoi mergeți la Mala Paklenica, mai sălbatică. Bucurați-vă de un prânz copios în Seline. După-amiaza, vizitați monumentele istorice precum turnul Večka și biserica Sf. Petru, situate chiar pe drumul de coastă.",
-            "en": "Explore both Paklenica gorges comfortably by car. Start in the famous Velika Paklenica and then drive to the wilder Mala Paklenica. Enjoy a hearty lunch in Seline. In the afternoon, visit historical monuments like the Večka tower and St. Peter's Church, located right along the coastal road."
+            "en": "Explore both Paklenica gorges comfortably by car. Start in the famous Velika Paklenica and then drive to the wilder Mala Paklenica. Enjoy a hearty lunch in Seline. In the afternoon, visit historical monuments like the Večka tower and St. Peter's Church, located right along the coastal road.",
+            "hr": "Istražite oba kanjona Paklenice udobno automobilom. Počnite u poznatoj Velikoj Paklenici, a zatim se vozite do divljije Male Paklenice. Uživajte u obilnom ručku u Seline. Popodne posjetite povijesne spomenike poput Večke kule i crkve sv. Petra, smještene uz samu obalnu cestu."
           },
           "stops": [
             {
@@ -1433,7 +1454,8 @@
                 "de": "Parkplatz direkt am Eingang.",
                 "hu": "Parkoló a bejáratnál.",
                 "ro": "Parcare chiar la intrare.",
-                "en": "Parking right at entrance."
+                "en": "Parking right at entrance.",
+                "hr": "Parkiranje odmah na ulazu."
               }
             },
             {
@@ -1442,7 +1464,8 @@
                 "de": "Wilder und einsamer.",
                 "hu": "Vadabb és magányosabb.",
                 "ro": "Mai sălbatic și izolat.",
-                "en": "Wilder and lonelier."
+                "en": "Wilder and lonelier.",
+                "hr": "Divljije i osamljenije."
               }
             },
             {
@@ -1451,7 +1474,8 @@
                 "de": "Probieren Sie Lamm vom Grill.",
                 "hu": "Kóstolja meg a sült bárányt.",
                 "ro": "Gustați mielul la grătar.",
-                "en": "Try grilled lamb."
+                "en": "Try grilled lamb.",
+                "hr": "Probajte pečenu janjetinu."
               }
             },
             {
@@ -1460,7 +1484,8 @@
                 "de": "Romantischer Fotostopp.",
                 "hu": "Romantikus fotóhelyszín.",
                 "ro": "Loc de poze romantic.",
-                "en": "Romantic photo spot."
+                "en": "Romantic photo spot.",
+                "hr": "Romantično mjesto za fotografiju."
               }
             },
             {
@@ -1469,7 +1494,8 @@
                 "de": "Besuch der alten Kapelle.",
                 "hu": "A régi kápolna látogatása.",
                 "ro": "Vizita vechii capele.",
-                "en": "Visit the old chapel."
+                "en": "Visit the old chapel.",
+                "hr": "Posjetite staru kapelu."
               }
             }
           ],
@@ -1571,6 +1597,10 @@
             "en": [
               "Note the parking fees.",
               "Keep your camera ready."
+            ],
+            "hr": [
+              "Obratite pažnju na naknade za parkiranje.",
+              "Držite fotoaparat spremnim."
             ]
           }
         },
@@ -1580,7 +1610,7 @@
             "hu": "Autóval esőben is kényelmesen és szárazon fedezheti fel a régiót. Délelőtt az út mélyen a Velika Paklenica szurdokba vezet.\r\n\r\nDélben a Mala Paklenica szurdokot nézheti meg, ahol az eső drámai csillogást ad a meredek sziklafalaknak.\r\n\r\nDélután egy kiadós gasztronómiai megálló következik Selineben, miközben kint az eső kopog az ablakon.\r\n\r\nEste látogassa meg a part menti történelmi helyszíneket, az autó pedig kényelmes bázisként szolgál a rövid nézelődésekhez.",
             "ro": "Cu mașina puteți explora regiunea confortabil și la adăpost chiar și pe ploaie. Dimineața, drumul duce adânc în defileul Velika Paklenica.\r\n\r\nLa prânz explorați defileul Mala Paklenica, unde ploaia face pereții abrupți de stâncă să strălucească dramatic.\r\n\r\nDupă-amiaza este timpul pentru o oprire culinară prelungită în Seline, în timp ce afară ploaia bate în geamuri.\r\n\r\nSeara vizitați locurile istorice de-a lungul drumului de coastă, mașina servind drept bază confortabilă pentru scurte vizite.",
             "en": "By car, you can explore the region comfortably and stay dry even in the rain. In the morning, the drive leads deep into the Velika Paklenica canyon.\r\n\r\nAt noon, explore the Mala Paklenica canyon, where the rain makes the steep rock walls shine dramatically.\r\n\r\nIn the afternoon, it is time for an extensive culinary stop in Seline while the rain patters against the windows outside.\r\n\r\nIn the evening, visit the historical sites along the coastal road, with the car serving as a comfortable base for short sightseeing stops.",
-            "hr": "Automobilom možete udobno istraživati regiju i ostati suhi čak i na kiši. Ujutro vožnja vodi duboko u kanjon Velike Paklenice.\r\n\r\nU podne istražite kanjon Male Paklenice, gdje kiša čini strme stijene dramatično sjajnima.\r\n\r\nPoslijepodne je vrijeme za opsežan kulinarski predah u Selinama dok kiša bubnja po prozorima.\r\n\r\nNavečer posjetite povijesna mjesta duž obalne ceste, pri čemu automobil služi kao udobna baza za kratka razgledavanja."
+            "hr": "Autom možete udobno istražiti regiju i ostati suh čak i po kiši. Ujutro vožnja vodi duboko u kanjon Velike Paklenice.\r\n\r\nU podne istražite Malu Paklenicu, gdje kiša čini strme stijenske zidove dramatično sjajnima.\r\n\r\nPopodne je vrijeme za opsežan kulinarski predah u Seline dok kiša lupa o prozore izvana.\r\n\r\nUvečer posjetite povijesne lokacije uz obalnu cestu, pri čemu automobil služi kao udobna baza za kratke razglede."
           },
           "stops": [
             {
@@ -1590,7 +1620,7 @@
                 "hu": "Parkoljon közel a bejárathoz, hogy lerövidítse az esőben való gyaloglást.",
                 "ro": "Parcați aproape de intrare pentru a scurta drumul pe jos prin ploaie.",
                 "en": "Park close to the entrance to keep the walk in the rain short.",
-                "hr": "Parkirajte blizu ulaza kako bi šetnja po kiši bila kratka."
+                "hr": "Parkirajte blizu ulaza da vam šetnja po kiši bude što kraća."
               }
             },
             {
@@ -1600,7 +1630,7 @@
                 "hu": "Vigyázat a kőomlásokkal a bekötőutakon heves esőzés idején.",
                 "ro": "Atenție la căderile de pietre pe drumurile de acces în timpul ploilor torențiale.",
                 "en": "Watch out for rockfalls on the access roads during heavy rain.",
-                "hr": "Pripazite na odrone kamenja na pristupnim cestama tijekom jake kiše."
+                "hr": "Pazite na odrone stijena na pristupnim cestama tijekom jake kiše."
               }
             },
             {
@@ -1610,7 +1640,7 @@
                 "hu": "Válasszon éttermet fedett parkolóval vagy közeli bejárattal.",
                 "ro": "Alegeți un restaurant cu parcare acoperită sau intrare apropiată.",
                 "en": "Choose a restaurant with covered parking or a nearby entrance.",
-                "hr": "Odaberite restoran s natkrivenim parkingom ili ulazom u blizini."
+                "hr": "Odaberite restoran s natkrivenim parkingom ili blizu ulaza."
               }
             },
             {
@@ -1620,7 +1650,7 @@
                 "hu": "A talaj felázhat; csak szilárd burkolatú helyen parkoljon.",
                 "ro": "Terenul poate fi moale; parcați doar pe suprafețe pavate.",
                 "en": "The ground can be soft; park only on paved surfaces.",
-                "hr": "Tlo može biti mekano; parkirajte samo na popločanim površinama."
+                "hr": "Tlo može biti mekano; parkirajte samo na asfaltiranim površinama."
               }
             },
             {
@@ -1630,7 +1660,7 @@
                 "hu": "Használja ki a rövid esőszüneteket egy gyors nézelődésre.",
                 "ro": "Profitați de scurtele pauze de ploaie pentru o privire rapidă afară.",
                 "en": "Use the short breaks in the rain for a quick look outside.",
-                "hr": "Iskoristite kratke stanke u kiši za brzi pogled van."
+                "hr": "Iskoristite kratke prestanke u kiši za brz pogled van."
               }
             }
           ],
@@ -1664,11 +1694,11 @@
               "Use the heater to prevent the windows from fogging up."
             ],
             "hr": [
-              "Vozite oprezno jer obalna cesta može biti izuzetno skliska kad je mokra.",
-              "Provjerite brisače i dopunite tekućinu za pranje stakla.",
-              "Održavajte veći razmak od vozila ispred sebe.",
-              "Izbjegavajte vožnju kroz duboke lokve kako biste spriječili aquaplaning.",
-              "Koristite grijanje kako biste spriječili zamagljivanje stakala."
+              "Vozite pažljivo jer obalna cesta može biti iznimno skliska kad je mokra.",
+              "Provjerite brisače i dolijte tekućinu za pranje vjetrobrana.",
+              "Održavajte veći razmak iza vozila ispred sebe.",
+              "Izbjegavajte prolazak kroz duboke lokve kako biste spriječili aquaplaning.",
+              "Koristite grijanje kako biste spriječili zamagljivanje prozora."
             ]
           }
         },
@@ -1678,7 +1708,7 @@
             "hu": "A téli autózás Paklenica környékén lélegzetelállító kilátást nyújt a távoli havas csúcsokra. Délelőtt a nagy szurdok felé vegye az irányt.\r\n\r\nDélben a vadabb Mala Paklenicát fedezheti fel, ahol a hűvös levegő miatt a látótávolság különösen nagy.\r\n\r\nDélután élvezze a helyi specialitásokat Selineben, ahol télen nagy a nyugalom és a meghittség.\r\n\r\nEste autózzon vissza a part mentén, miközben a nap korán lebukik és mély színekbe öltözteti az eget.",
             "ro": "Călătoriile cu mașina iarna în jurul Paklenica oferă priveliști uluitoare spre vârfurile înzăpezite din depărtare. Dimineața mergeți spre defileul mare.\r\n\r\nLa prânz explorați zona mai sălbatică Mala Paklenica, unde aerul rece face vizibilitatea deosebit de bună.\r\n\r\nDupă-amiaza savurați specialități locale în Seline, unde iarna este liniște și plăcut.\r\n\r\nSeara conduceți înapoi de-a lungul coastei, în timp ce soarele apune devreme și colorează cerul în nuanțe intense.",
             "en": "Winter drives around Paklenica offer breathtaking views of snow-capped peaks in the distance. In the morning, head towards the big canyon.\r\n\r\nAt noon, explore the wilder Mala Paklenica, where the cool air makes the visibility particularly far-reaching.\r\n\r\nIn the afternoon, enjoy local specialties in Seline, where it is quiet and cozy in winter.\r\n\r\nIn the evening, drive back along the coast as the sun sets early, dipping the sky into deep colors.",
-            "hr": "Zimska vožnja oko Paklenice nudi zadivljujući pogled na snježne vrhove u daljini. Ujutro krenite prema velikom kanjonu.\r\n\r\nU podne istražite divljiju Malu Paklenicu, gdje hladan zrak čini vidljivost posebno dalekosežnom.\r\n\r\nPoslijepodne uživajte u lokalnim specijalitetima u Selinama, gdje je zimi tiho i ugodno.\r\n\r\nNavečer se odvezite natrag obalom dok sunce rano zalazi, bojeći nebo u duboke boje."
+            "hr": "Zimske vožnje oko Paklenice nude zadivljujuće poglede na snijegom pokrivene vrhove u daljini. Ujutro krenite prema velikom kanjonu.\r\n\r\nU podne istražite divlju Malu Paklenicu, gdje hladan zrak omogućuje posebno dalek pogled.\r\n\r\nPopodne uživajte u lokalnim specijalitetima u Seline, gdje je zimi tiho i ugodno.\r\n\r\nUvečer se vratite duž obale dok sunce ranije zalazi i boji nebo dubokim nijansama."
           },
           "stops": [
             {
@@ -1688,7 +1718,7 @@
                 "hu": "Parkolóhely bőségesen akad; az utak néhol csúszósak lehetnek.",
                 "ro": "Locurile de parcare sunt abundente; potecile pot fi alunecoase pe alocuri.",
                 "en": "Parking spaces are plentiful; paths can be slippery in places.",
-                "hr": "Parkirnih mjesta ima napretek; staze mjestimice mogu biti skliske."
+                "hr": "Parkirnih mjesta ima dovoljno; staze mogu biti skliske na mjestima."
               }
             },
             {
@@ -1698,7 +1728,7 @@
                 "hu": "A keskeny bekötőutak fagy idején veszélyesen csúszósak lehetnek.",
                 "ro": "Drumurile înguste de acces pot fi periculos de alunecoase în caz de îngheț.",
                 "en": "The narrow access roads can be dangerously slippery during frost.",
-                "hr": "Uski pristupni putevi mogu biti opasno skliski tijekom mraza."
+                "hr": "Uži pristupni putovi mogu biti opasno skliska tijekom mraza."
               }
             },
             {
@@ -1708,7 +1738,7 @@
                 "hu": "Kérjen helyet a kandalló vagy a fűtőtest közelében.",
                 "ro": "Cereți un loc lângă șemineu sau lângă calorifer.",
                 "en": "Ask for a seat near the fireplace or the heater.",
-                "hr": "Tražite mjesto u blizini kamina ili grijača."
+                "hr": "Zatražite mjesto pokraj kamina ili grijalice."
               }
             },
             {
@@ -1718,7 +1748,7 @@
                 "hu": "Élvezze a kilátást az autóból, ha a bóra túl erősen fúj.",
                 "ro": "Bucurați-vă de priveliște din mașină dacă vântul Bura suflă prea tare.",
                 "en": "Enjoy the view from the car if the Bura wind is too strong.",
-                "hr": "Uživajte u pogledu iz automobila ako je bura preka."
+                "hr": "Uživajte u pogledu iz automobila ako je bura prejaka."
               }
             },
             {
@@ -1728,7 +1758,7 @@
                 "hu": "A késő délutáni fények tökéletesek az építészeti fotókhoz.",
                 "ro": "Lumina de după-amiază târzie este perfectă pentru fotografii de arhitectură.",
                 "en": "The late afternoon light is perfect for architectural photos.",
-                "hr": "Kasno poslijepodnevno svjetlo savršeno je za arhitektonske fotografije."
+                "hr": "Kasno poslijepodnevno svjetlo idealno je za arhitektonske fotografije."
               }
             }
           ],
@@ -1762,11 +1792,11 @@
               "Days are short; plan your return trip before darkness falls."
             ],
             "hr": [
-              "Bura može zatvoriti ceste za određena vozila ili u potpunosti.",
-              "U automobilu uvijek nosite zimsku opremu i strugač za led.",
-              "Pripazite na sjenovita mjesta gdje se poledica dulje zadržava.",
-              "Potrošnja goriva je zimi nešto veća zbog grijanja.",
-              "Dani su kratki; planirajte povratak prije mraka."
+              "Bura može zatvoriti ceste za pojedina vozila ili u potpunosti.",
+              "Uvijek imajte zimsku opremu i strugač leda u automobilu.",
+              "Pazite na zasjenjena mjesta gdje se crni led dulje zadržava.",
+              "Potrošnja goriva je malo veća zimi zbog grijanja.",
+              "Dani su kratki; planirajte povratak prije nego što padne tama."
             ]
           }
         }
@@ -1796,7 +1826,7 @@
             "hu": "Zadar felé tartó buszok itt állnak meg.",
             "ro": "Autobuzele spre Zadar opresc aici.",
             "en": "Buses to Zadar stop here.",
-            "hr": "Ovdje staju autobusi za Zadar."
+            "hr": "Autobusi za Zadar ovdje staju."
           }
         },
         {
@@ -1815,7 +1845,7 @@
             "hu": "Gyalogút a buszmegállótól.",
             "ro": "Mers pe jos de la stație.",
             "en": "Walk from the bus stop.",
-            "hr": "Šetnja od autobusne stanice."
+            "hr": "Prošetajte od autobusnog stajališta."
           }
         },
         {
@@ -1834,7 +1864,7 @@
             "hu": "A Hotel Alan közelében található.",
             "ro": "Lângă Hotel Alan.",
             "en": "Located near Hotel Alan.",
-            "hr": "Nalazi se u blizini hotela Alan."
+            "hr": "Nalazi se blizu hotela Alan."
           }
         },
         {
@@ -1853,7 +1883,7 @@
             "hu": "Felfrissülés a túra után.",
             "ro": "Răcorire după tur.",
             "en": "Refreshment after the tour.",
-            "hr": "Osvježenje nakon obilaska."
+            "hr": "Osvježenje nakon ture."
           }
         }
       ],
@@ -1862,7 +1892,7 @@
         "hu": "Használja a regionális buszjáratokat az Adria-főút mentén. Starigrad központjából sétáljon el a Velika Paklenica bejáratához. A természetben töltött órák után busszal vagy rövid sétával juthat el a Winnetou Múzeumba. Zárja a napot egy frissítő csobbanással Starigrad központi strandján.",
         "ro": "Folosiți autobuzele regionale de-a lungul magistralei Adriatice. Din stația Starigrad, mergeți la intrarea în Velika Paklenica. După câteva ore în natură, autobuzul sau o scurtă plimbare vă duce la Muzeul Winnetou. Încheiați ziua cu o baie în mare pe plaja centrală din Starigrad.",
         "en": "Use the regional bus connections along the Adriatic highway. From the station in Starigrad, hike to the entrance of Velika Paklenica. After a few hours in nature, the bus or a short walk will take you to the Winnetou Museum. End your day with a dip in the cool water at the central beach of Starigrad.",
-        "hr": "Koristite regionalne autobusne linije duž Jadranske magistrale. S kolodvora u Starigradu pješačite do ulaza u Veliku Paklenicu. Nakon nekoliko sati u prirodi, autobus ili kratka šetnja odvest će vas do Muzeja Winnetou. Završite dan skokom u hladnu vodu na centralnoj plaži u Starigradu."
+        "hr": "Koristite regionalne autobusne veze duž Jadranske magistrale. Sa stanice u Starigradu pješačite do ulaza u Veliku Paklenicu. Nakon nekoliko sati u prirodi, autobus ili kratka šetnja odvest će vas do muzeja Winnetou. Dan završite kupanjem u hladnoj vodi na središnjoj plaži Starigrada."
       },
       "gastro_picks": {
         "de": [
@@ -1993,7 +2023,8 @@
             "de": "Nutzen Sie die regionalen Busverbindungen entlang der Adria-Magistrale. Von der Station in Starigrad wandern Sie zum Eingang der Velika Paklenica. Nach ein paar Stunden in der Natur bringt Sie der Bus oder ein kurzer Spaziergang zum Winnetou-Museum. Beenden Sie Ihren Tag mit einem Sprung ins kühle Nass am zentralen Strand von Starigrad.",
             "hu": "Használja a regionális buszjáratokat az Adria-főút mentén. Starigrad központjából sétáljon el a Velika Paklenica bejáratához. A természetben töltött órák után busszal vagy rövid sétával juthat el a Winnetou Múzeumba. Zárja a napot egy frissítő csobbanással Starigrad központi strandján.",
             "ro": "Folosiți autobuzele regionale de-a lungul magistralei Adriatice. Din stația Starigrad, mergeți la intrarea în Velika Paklenica. După câteva ore în natură, autobuzul sau o scurtă plimbare vă duce la Muzeul Winnetou. Încheiați ziua cu o baie în mare pe plaja centrală din Starigrad.",
-            "en": "Use the regional bus connections along the Adriatic highway. From the station in Starigrad, hike to the entrance of Velika Paklenica. After a few hours in nature, the bus or a short walk will take you to the Winnetou Museum. End your day with a dip in the cool water at the central beach of Starigrad."
+            "en": "Use the regional bus connections along the Adriatic highway. From the station in Starigrad, hike to the entrance of Velika Paklenica. After a few hours in nature, the bus or a short walk will take you to the Winnetou Museum. End your day with a dip in the cool water at the central beach of Starigrad.",
+            "hr": "Koristite regionalne autobusne veze duž Jadranske magistrale. Sa stanice u Starigradu pješačite do ulaza u Veliku Paklenicu. Nakon nekoliko sati u prirodi, autobus ili kratka šetnja odvest će vas do muzeja Winnetou. Dan završite kupanjem u hladnoj vodi na središnjoj plaži Starigrada."
           },
           "stops": [
             {
@@ -2002,7 +2033,8 @@
                 "de": "Busse nach Zadar halten hier.",
                 "hu": "Zadar felé tartó buszok itt állnak meg.",
                 "ro": "Autobuzele spre Zadar opresc aici.",
-                "en": "Buses to Zadar stop here."
+                "en": "Buses to Zadar stop here.",
+                "hr": "Autobusi za Zadar ovdje staju."
               }
             },
             {
@@ -2011,7 +2043,8 @@
                 "de": "Fußmarsch ab Bushaltestelle.",
                 "hu": "Gyalogút a buszmegállótól.",
                 "ro": "Mers pe jos de la stație.",
-                "en": "Walk from the bus stop."
+                "en": "Walk from the bus stop.",
+                "hr": "Prošetajte od autobusnog stajališta."
               }
             },
             {
@@ -2020,7 +2053,8 @@
                 "de": "Liegt nahe am Hotel Alan.",
                 "hu": "A Hotel Alan közelében található.",
                 "ro": "Lângă Hotel Alan.",
-                "en": "Located near Hotel Alan."
+                "en": "Located near Hotel Alan.",
+                "hr": "Nalazi se blizu hotela Alan."
               }
             },
             {
@@ -2029,7 +2063,8 @@
                 "de": "Abkühlung nach der Tour.",
                 "hu": "Felfrissülés a túra után.",
                 "ro": "Răcorire după tur.",
-                "en": "Refreshment after the tour."
+                "en": "Refreshment after the tour.",
+                "hr": "Osvježenje nakon ture."
               }
             }
           ],
@@ -2131,6 +2166,10 @@
             "en": [
               "Photograph the bus schedule.",
               "Plan for walking distances."
+            ],
+            "hr": [
+              "Fotografirajte vozni red autobusa.",
+              "Planirajte pješačke udaljenosti."
             ]
           }
         },
@@ -2140,7 +2179,7 @@
             "hu": "A tömegközlekedés esőben praktikus választás, hogy száraz maradjon. Délelőtt szálljon buszra a starigradi megállóig.\r\n\r\nDélben elérheti Velika Paklenicát; a buszmegállótól a szurdokig tartó rövid séta esőruhában könnyen teljesíthető.\r\n\r\nDélután a Winnetou Múzeum kulturális menedéket nyújt a szárazon, ideális tartós esőzés esetén.\r\n\r\nEste fejezze be a napot pihentetően, miközben a busz biztonságban visszaviszi a szállására.",
             "ro": "Transportul public este o alegere practică pe ploaie pentru a rămâne uscat. Dimineața folosiți autobuzul până la stația Starigrad.\r\n\r\nLa prânz ajungeți la Velika Paklenica, scurtul drum pe jos de la stație la defileu fiind ușor de parcurs cu haine de ploaie.\r\n\r\nDupă-amiaza, Muzeul Winnetou oferă un refugiu cultural la adăpost, ideal în caz de averse persistente.\r\n\r\nSeara încheiați ziua relaxat, în timp ce autobuzul vă duce în siguranță înapoi la cazare.",
             "en": "Public transport is a practical choice in the rain to stay dry. In the morning, take the bus to Starigrad station.\r\n\r\nAt noon, you reach Velika Paklenica; the short walk from the bus stop to the canyon is manageable with rain gear.\r\n\r\nIn the afternoon, the Winnetou Museum offers a cultural sanctuary indoors, ideal for persistent showers.\r\n\r\nIn the evening, end the day relaxed while the bus safely takes you back to your accommodation.",
-            "hr": "Javni prijevoz je praktičan izbor po kiši kako biste ostali suhi. Ujutro idite autobusom do stanice u Starigradu.\r\n\r\nU podne stižete u Veliku Paklenicu; kratka šetnja od autobusne stanice do kanjona je podnošljiva uz kišnu opremu.\r\n\r\nPoslijepodne Muzej Winnetou nudi kulturno utočište u zatvorenom, idealno za dugotrajne pljuskove.\r\n\r\nNavečer završite dan opušteno dok vas autobus sigurno vozi natrag do vašeg smještaja."
+            "hr": "Javni prijevoz je praktičan izbor po kiši da ostanete suhi. Ujutro uzmite autobus do stanice Starigrad.\r\n\r\nU podne stižete do Velike Paklenice; kratka šetnja od stanice do kanjona je izvediva s kišnom opremom.\r\n\r\nPopodne muzej Winnetou nudi kulturno utočište unutra, idealno za uporne pljuskove.\r\n\r\nUvečer završite dan opušteno dok vas autobus sigurno vraća do smještaja."
           },
           "stops": [
             {
@@ -2150,7 +2189,7 @@
                 "hu": "Várjon a megálló fedett részén a busz érkezéséig, hogy ne ázzon meg.",
                 "ro": "Așteptați în adăpost până sosește autobuzul pentru a nu vă uda.",
                 "en": "Wait in the shelter until the bus arrives to avoid getting wet.",
-                "hr": "Čekajte u zaklonu dok autobus ne stigne kako biste izbjegli namakanje."
+                "hr": "Pričekajte u zaklonu dok ne dođe autobus kako ne biste pokisnuli."
               }
             },
             {
@@ -2160,7 +2199,7 @@
                 "hu": "A buszmegállótól csak pár perc gyalog; használjon stabil cipőt.",
                 "ro": "De la stația de autobuz sunt doar câteva minute de mers; folosiți încălțăminte stabilă.",
                 "en": "It is only a few minutes' walk from the bus stop; wear sturdy shoes.",
-                "hr": "Samo je nekoliko minuta hoda od autobusne stanice; nosite čvrstu obuću."
+                "hr": "Do autobusnog stajališta je samo nekoliko minuta hoda; nosite čvrstu obuću."
               }
             },
             {
@@ -2170,7 +2209,7 @@
                 "hu": "A buszmegálló szinte közvetlenül az ajtó előtt van – ideális esőben.",
                 "ro": "Stația de autobuz este aproape direct în fața ușii – ideal pe ploaie.",
                 "en": "The bus stop is almost right in front of the door – ideal in the rain.",
-                "hr": "Autobusna stanica je gotovo ispred samih vrata – idealno po kiši."
+                "hr": "Autobusno stajalište je gotovo pred vratima – idealno po kiši."
               }
             },
             {
@@ -2180,7 +2219,7 @@
                 "hu": "Egy rövid pillantás a felkorbácsolt tengerre a következő busz érkezése előtt.",
                 "ro": "O privire scurtă spre marea agitată înainte de sosirea următorului autobuz.",
                 "en": "A quick glance at the choppy sea before the next bus arrives.",
-                "hr": "Brzi pogled na uzburkano more prije dolaska sljedećeg autobusa."
+                "hr": "Brz pogled na razdrmano more prije dolaska sljedećeg autobusa."
               }
             }
           ],
@@ -2214,11 +2253,11 @@
               "Wear waterproof shoes for the walk between stops."
             ],
             "hr": [
-              "Provjerite trenutni vozni red jer kiša može uzrokovati kašnjenja.",
-              "Pripremite sitniš ili kartu za brzi ulazak u autobus.",
-              "Unutrašnjost autobusa može biti vlažna tijekom jake kiše, a podovi skliski.",
-              "Vrijeme polaska može varirati zimi i tijekom lošeg vremena.",
-              "Nosite nepropusnu obuću za šetnju između stanica."
+              "Provjerite aktualni vozni red jer kiša može uzrokovati kašnjenja.",
+              "Imajte sitniš ili kartu pri ruci za brzo ukrcavanje.",
+              "Unutrašnjost autobusa može biti vlažna u jakoj kiši, a podovi skliski.",
+              "Polasci se zimi i tijekom lošeg vremena mogu razlikovati.",
+              "Nosite vodootpornu obuću za šetnju između stajališta."
             ]
           }
         },
@@ -2228,7 +2267,7 @@
             "hu": "A buszozás a téli Starigradban pihentető és védelmet nyújt a hideg ellen. Délelőtt a központi állomásról induljon.\r\n\r\nDélben elérheti Paklenicát, ahol a tiszta levegő frissítővé teszi a rövid sétát a szurdokig.\r\n\r\nDélután melegedjen fel a múzeumban, miközben többet tudhat meg a híres Winnetou-filmekről.\r\n\r\nEste szálljon fel az utolsó buszra, mielőtt besötétedne és a hőmérséklet érezhetően visszaesne.",
             "ro": "Călătoria cu autobuzul prin Starigrad iarna este relaxantă și oferă protecție împotriva frigului. Dimineața porniți de la stația centrală.\r\n\r\nLa prânz ajungeți la Paklenica, unde aerul curat face drumul scurt spre defileu foarte revigorant.\r\n\r\nDupă-amiaza vă încălziți în muzeu în timp ce aflați mai multe despre faimoasele filme Winnetou.\r\n\r\nSeara luați ultimul autobuz înapoi înainte de lăsarea întunericului și scăderea temperaturilor.",
             "en": "Taking the bus through wintery Starigrad is relaxed and offers protection from the cold. In the morning, start at the central station.\r\n\r\nAt noon, reach Paklenica, where the crisp air makes the short walk to the canyon particularly refreshing.\r\n\r\nIn the afternoon, warm up in the museum while learning more about the famous Winnetou films.\r\n\r\nIn the evening, take the last bus back before it gets dark and the temperatures drop noticeably.",
-            "hr": "Vožnja autobusom kroz zimski Starigrad je opuštena i nudi zaštitu od hladnoće. Ujutro krenite s centralne stanice.\r\n\r\nU podne stižete u Paklenicu, gdje oštar zrak kratku šetnju do kanjona čini posebno osvježavajućom.\r\n\r\nPoslijepodne se ugrijte u muzeju dok učite više o poznatim filmovima o Winnetouu.\r\n\r\nNavečer uhvatite zadnji autobus natrag prije nego što padne mrak i temperature osjetno padnu."
+            "hr": "Putovanje autobusom kroz zimski Starigrad opušteno je i pruža zaštitu od hladnoće. Ujutro započnite na glavnom kolodvoru.\r\n\r\nU podne stižete do Paklenice, gdje osvježavajući zrak čini kratku šetnju do kanjona posebno ugodnom.\r\n\r\nPoslijepodne se ugrijte u muzeju i saznajte više o poznatim Winnetou filmovima.\r\n\r\nUvečer uhvatite zadnji autobus natrag prije no što padne mrak i temperature značajno padnu."
           },
           "stops": [
             {
@@ -2238,7 +2277,7 @@
                 "hu": "Ügyeljen a ritkább téli menetrendre; a buszok kevesebbszer járnak.",
                 "ro": "Atenție la orarul redus de iarnă; autobuzele circulă mai rar.",
                 "en": "Watch out for reduced winter schedules; buses run less frequently.",
-                "hr": "Pripazite na reducirani zimski vozni red; autobusi voze rjeđe."
+                "hr": "Pazite na smanjeni zimski vozni red; autobusi voze rjeđe."
               }
             },
             {
@@ -2248,7 +2287,7 @@
                 "hu": "Viseljen sapkát és sálat a megállóban való várakozáshoz.",
                 "ro": "Purtați căciulă și fular pentru timpul de așteptare în stație.",
                 "en": "Wear a hat and scarf for the waiting time at the stop.",
-                "hr": "Nosite kapu i šal za vrijeme čekanja na stanici."
+                "hr": "Nosite kapu i šal dok čekate na stajalištu."
               }
             },
             {
@@ -2268,7 +2307,7 @@
                 "hu": "Csak rövid időre látogasson a partra, mert a szél télen metsző lehet.",
                 "ro": "Vizitați plaja doar scurt, deoarece vântul de iarnă poate fi tăios aici.",
                 "en": "Visit the beach only briefly, as the winter wind can be biting here.",
-                "hr": "Plažu posjetite samo nakratko, jer zimski vjetar ovdje može biti oštar."
+                "hr": "Posjetite plažu samo nakratko, jer zimski vjetar ovdje može biti žestok."
               }
             }
           ],
@@ -2302,11 +2341,11 @@
               "Spend your waiting time near cafes or shops to stay warm."
             ],
             "hr": [
-              "Autobusi su zimi obično dobro zagrijani i udobni.",
-              "Uračunajte dodatno vrijeme jer bura može usporiti promet.",
-              "Unaprijed provjerite točna zimska vremena polaska na internetu.",
-              "Zadnja poslijepodnevna linija često je već u 17:00.",
-              "Vrijeme čekanja provedite u blizini kafića ili trgovina kako biste ostali na toplom."
+              "Autobusi su zimi obično dobro grijani i udobni.",
+              "Predvidite dodatno vrijeme jer Bura može usporiti promet.",
+              "Provjerite online unaprijed točna zimska vremena polazaka.",
+              "Zadnje poslijepodnevno povezivanje često je već u 17:00.",
+              "Vrijeme čekanja provedite u blizini kafića ili trgovina da ostanete topli."
             ]
           }
         }
@@ -2321,7 +2360,7 @@
       44.2989
     ],
     "events": {
-      "hr": "https://www.rivijera-paklenica.hr/dogadanja",
+      "hr": "https://www.rivijera-paklenica.hr/en",
       "en": "https://www.rivijera-paklenica.hr/en",
       "de": "https://www.rivijera-paklenica.hr/en",
       "hu": "https://www.rivijera-paklenica.hr/en"
@@ -2333,7 +2372,7 @@
       "hu": "https://www.skylinewebcams.com/en/webcam/hrvatska.html"
     },
     "restaurants": {
-      "hr": "https://www.rivijera-paklenica.hr/smjestaj",
+      "hr": "https://www.rivijera-paklenica.hr/en",
       "en": "https://www.rivijera-paklenica.hr/en",
       "de": "https://www.rivijera-paklenica.hr/en",
       "hu": "https://www.rivijera-paklenica.hr/en"
@@ -2345,7 +2384,7 @@
       "hu": "https://www.parkovihrvatske.hr/ulaznice"
     },
     "parking": {
-      "hr": "https://www.np-paklenica.hr/hr/",
+      "hr": "https://np-paklenica.hr/en/",
       "en": "https://np-paklenica.hr/en/",
       "de": "https://np-paklenica.hr/en/",
       "hu": "https://np-paklenica.hr/en/"
@@ -2369,13 +2408,13 @@
       "hu": "https://np-paklenica.hr/en/price-list-en"
     },
     "tourism_office": {
-      "hr": "https://www.np-paklenica.hr/hr/",
+      "hr": "https://np-paklenica.hr/en/",
       "en": "https://np-paklenica.hr/en/",
       "de": "https://np-paklenica.hr/en/",
       "hu": "https://np-paklenica.hr/en/"
     },
     "transit_official": {
-      "hr": "https://www.arriva.com.hr/",
+      "hr": "https://getbybus.com/hr/",
       "en": "https://getbybus.com/hr/",
       "de": "https://www.flixbus.hr/",
       "hu": "https://getbybus.com/hr/"

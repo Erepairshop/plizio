@@ -32,7 +32,7 @@
             "hu": "Igya meg itt a reggeli kávéját, és figyelje a város ébredését.",
             "ro": "Beți prima cafea aici pentru a observa viața locală vibrantă.",
             "en": "Drink your first coffee here to observe the local life waking up.",
-            "hr": "Popijte prvu kavu ovdje kako biste promatrali buđenje lokalnog života."
+            "hr": "Popijte prvu kavu ovdje i promatrajte kako lokalni život budi se."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Figyelje meg a helyi mesterek értékes festményeit a belső térben.",
             "ro": "Admirați picturile valoroase ale maeștrilor locali din interior.",
             "en": "Pay attention to the valuable paintings by local masters inside.",
-            "hr": "Obratite pozornost na vrijedne slike lokalnih majstora u unutrašnjosti."
+            "hr": "Obratite pažnju na vrijedne slike lokalnih majstora unutra."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Csodálja meg az apácák UNESCO-védett agávécsipkéit a múzeumban.",
             "ro": "Admirați dantela din agave, protejată UNESCO, realizată de călugărițe.",
             "en": "Admire the UNESCO-protected agave lace made by the nuns.",
-            "hr": "Divite se čipki od agave pod zaštitom UNESCO-a koju izrađuju časne sestre."
+            "hr": "Divite se agavinom čipkanju zaštićenom od UNESCO‑a koje rade časne sestre."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Látogasson el Európa egyik legrégebbi közszínházába az emeleten.",
             "ro": "Vizitați unul dintre cele mai vechi teatre comunale din Europa la etaj.",
             "en": "Visit one of the oldest communal theaters in Europe on the upper floor.",
-            "hr": "Posjetite jedno od najstarijih komunalnih kazališta u Europi na gornjem katu."
+            "hr": "Posjetite jedno od najstarijih komunitarnih kazališta u Europi na gornjem katu."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Az ebédlőben található Utolsó vacsora festmény kötelező látnivaló.",
             "ro": "Pictura Cina cea de Taină din refectoriu este absolut obligatorie.",
             "en": "The Last Supper painting in the refectory is an absolute must-see.",
-            "hr": "Slika Posljednje večere u blagovaonici je obavezna za vidjeti."
+            "hr": "Slikarija Posljednje večere u refektoriju je apsolutno nezaobilazna."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Innen a legszebb a panoráma a Pakleni-szigetekre és az óvárosra.",
             "ro": "Vederea panoramică asupra insulelor Pakleni este cea mai bună de aici.",
             "en": "The panoramic view of the Pakleni Islands is best from up here.",
-            "hr": "Panoramski pogled na Paklene otoke najbolji je s ovog mjesta."
+            "hr": "Panoramski pogled na Paklene otoke najbolji je upravo odavde."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "A reggel a Pjacán indul, Dalmácia legnagyobb terén, ahol pezseg a kávéházi élet. Délben a történelmi Arzenált és a bencés nővérek különleges agávécsipkéit fedezzük fel. Délután a fenyőillatú ösvényen felsétálunk a Spanyol erődbe a lenyűgöző panorámáért. Az estét a ferences kolostor melletti békés sétával zárjuk, miközben a nap lebukik a Pakleni-szigetek mögött a tengerbe.",
         "ro": "Dimineața începe în Pjaca, cea mai mare piață din Dalmația, unde cultura cafelei este vibrantă. La prânz explorăm Arsenalul istoric și dantela delicată din agave a benedictinelor. După-amiaza, urcăm pe poteca parfumată cu pini spre Cetatea Spaniolă pentru vederi uluitoare. Seara se încheie cu o plimbare liniștită pe lângă mănăstirea franciscană, în timp ce soarele apune.",
         "en": "Morning begins at the vibrant Pjaca, the largest square in Dalmatia. Midday is spent exploring the historic Arsenal and the delicate agave lace of the Benedictines. In the afternoon, we walk up the pine-scented path to the Spanish Fortress for breathtaking views. Evening concludes with a peaceful stroll by the Franciscan monastery as the sun sets over the Pakleni islands.",
-        "hr": "Jutro započinje na živahnoj Pjaci, najvećem trgu u Dalmaciji. Sredina dana rezervirana je za istraživanje povijesnog Arsenala i nježne čipke od agave koju izrađuju benediktinke. Poslijepodne se penjemo borovom šumom do Španjolske tvrđave radi prekrasnog pogleda. Večer završava mirnom šetnjom uz franjevački samostan dok sunce zalazi nad Paklenim otocima."
+        "hr": "Jutro počinje na živahnoj Pjaci, najvećem trgu Dalmacije. U podne istražujemo povijesni Arsenal i nježno agavino čipkanje benediktinki. Poslijepodne šetamo borovim putem do Španjolskog utvrđenja radi zadivljujućih pogleda. Večer završava smirenom šetnjom uz franjevački samostan dok sunce zalazi nad Paklenim otocima."
       },
       "gastro_picks": {
         "de": [
@@ -330,10 +330,10 @@
           "Buy lavender products directly from local street vendors."
         ],
         "hr": [
-          "Nosite udobnu obuću za strmi uspon do tvrđave.",
-          "Katedrala je često zatvorena u ranim poslijepodnevnim satima.",
-          "Rezervirajte stol u restoranu unaprijed tijekom vrhunca sezone.",
-          "Kupite proizvode od lavande izravno od lokalnih uličnih prodavača."
+          "Nosite udobnu obuću za strmi uspon do utvrde.",
+          "Katedrala je često zatvorena tijekom ranih popodnevnih sati.",
+          "Rezervirajte stolove u restoranima unaprijed tijekom visoke sezone.",
+          "Kupujte lavandine proizvode izravno od lokalnih uličnih prodavača."
         ]
       },
       "variants": {
@@ -342,7 +342,8 @@
             "de": "Der Morgen beginnt auf der Pjaca, dem größten Platz Dalmatiens, inmitten lebendiger Kaffeekultur. Mittags erkunden wir das historische Arsenal und die filigrane Agavenspitze der Benediktinerinnen. Am Nachmittag führt ein Pinienweg zur Spanischen Festung mit atemberaubendem Ausblick. Der Abend klingt mit einem friedlichen Spaziergang am Franziskanerkloster aus, während die Sonne versinkt.",
             "hu": "A reggel a Pjacán indul, Dalmácia legnagyobb terén, ahol pezseg a kávéházi élet. Délben a történelmi Arzenált és a bencés nővérek különleges agávécsipkéit fedezzük fel. Délután a fenyőillatú ösvényen felsétálunk a Spanyol erődbe a lenyűgöző panorámáért. Az estét a ferences kolostor melletti békés sétával zárjuk, miközben a nap lebukik a Pakleni-szigetek mögött a tengerbe.",
             "ro": "Dimineața începe în Pjaca, cea mai mare piață din Dalmația, unde cultura cafelei este vibrantă. La prânz explorăm Arsenalul istoric și dantela delicată din agave a benedictinelor. După-amiaza, urcăm pe poteca parfumată cu pini spre Cetatea Spaniolă pentru vederi uluitoare. Seara se încheie cu o plimbare liniștită pe lângă mănăstirea franciscană, în timp ce soarele apune.",
-            "en": "Morning begins at the vibrant Pjaca, the largest square in Dalmatia. Midday is spent exploring the historic Arsenal and the delicate agave lace of the Benedictines. In the afternoon, we walk up the pine-scented path to the Spanish Fortress for breathtaking views. Evening concludes with a peaceful stroll by the Franciscan monastery as the sun sets over the Pakleni islands."
+            "en": "Morning begins at the vibrant Pjaca, the largest square in Dalmatia. Midday is spent exploring the historic Arsenal and the delicate agave lace of the Benedictines. In the afternoon, we walk up the pine-scented path to the Spanish Fortress for breathtaking views. Evening concludes with a peaceful stroll by the Franciscan monastery as the sun sets over the Pakleni islands.",
+            "hr": "Jutro počinje na živahnoj Pjaci, najvećem trgu Dalmacije. U podne istražujemo povijesni Arsenal i nježno agavino čipkanje benediktinki. Poslijepodne šetamo borovim putem do Španjolskog utvrđenja radi zadivljujućih pogleda. Večer završava smirenom šetnjom uz franjevački samostan dok sunce zalazi nad Paklenim otocima."
           },
           "stops": [
             {
@@ -351,7 +352,8 @@
                 "de": "Trinken Sie Ihren ersten Kaffee hier, um das lokale Leben zu beobachten.",
                 "hu": "Igya meg itt a reggeli kávéját, és figyelje a város ébredését.",
                 "ro": "Beți prima cafea aici pentru a observa viața locală vibrantă.",
-                "en": "Drink your first coffee here to observe the local life waking up."
+                "en": "Drink your first coffee here to observe the local life waking up.",
+                "hr": "Popijte prvu kavu ovdje i promatrajte kako lokalni život budi se."
               }
             },
             {
@@ -360,7 +362,8 @@
                 "de": "Achten Sie auf die wertvollen Gemälde lokaler Meister im Inneren.",
                 "hu": "Figyelje meg a helyi mesterek értékes festményeit a belső térben.",
                 "ro": "Admirați picturile valoroase ale maeștrilor locali din interior.",
-                "en": "Pay attention to the valuable paintings by local masters inside."
+                "en": "Pay attention to the valuable paintings by local masters inside.",
+                "hr": "Obratite pažnju na vrijedne slike lokalnih majstora unutra."
               }
             },
             {
@@ -369,7 +372,8 @@
                 "de": "Bewundern Sie die UNESCO-geschützte Agavenspitze der Nonnen.",
                 "hu": "Csodálja meg az apácák UNESCO-védett agávécsipkéit a múzeumban.",
                 "ro": "Admirați dantela din agave, protejată UNESCO, realizată de călugărițe.",
-                "en": "Admire the UNESCO-protected agave lace made by the nuns."
+                "en": "Admire the UNESCO-protected agave lace made by the nuns.",
+                "hr": "Divite se agavinom čipkanju zaštićenom od UNESCO‑a koje rade časne sestre."
               }
             },
             {
@@ -378,7 +382,8 @@
                 "de": "Besuchen Sie eines der ältesten kommunalen Theater Europas im Obergeschoss.",
                 "hu": "Látogasson el Európa egyik legrégebbi közszínházába az emeleten.",
                 "ro": "Vizitați unul dintre cele mai vechi teatre comunale din Europa la etaj.",
-                "en": "Visit one of the oldest communal theaters in Europe on the upper floor."
+                "en": "Visit one of the oldest communal theaters in Europe on the upper floor.",
+                "hr": "Posjetite jedno od najstarijih komunitarnih kazališta u Europi na gornjem katu."
               }
             },
             {
@@ -387,7 +392,8 @@
                 "de": "Das Abendmahl-Gemälde im Refektorium ist ein absolutes Muss.",
                 "hu": "Az ebédlőben található Utolsó vacsora festmény kötelező látnivaló.",
                 "ro": "Pictura Cina cea de Taină din refectoriu este absolut obligatorie.",
-                "en": "The Last Supper painting in the refectory is an absolute must-see."
+                "en": "The Last Supper painting in the refectory is an absolute must-see.",
+                "hr": "Slikarija Posljednje večere u refektoriju je apsolutno nezaobilazna."
               }
             },
             {
@@ -396,7 +402,8 @@
                 "de": "Der Panoramablick auf die Pakleni-Inseln ist von hier oben am besten.",
                 "hu": "Innen a legszebb a panoráma a Pakleni-szigetekre és az óvárosra.",
                 "ro": "Vederea panoramică asupra insulelor Pakleni este cea mai bună de aici.",
-                "en": "The panoramic view of the Pakleni Islands is best from up here."
+                "en": "The panoramic view of the Pakleni Islands is best from up here.",
+                "hr": "Panoramski pogled na Paklene otoke najbolji je upravo odavde."
               }
             }
           ],
@@ -558,6 +565,12 @@
               "The cathedral is often closed during the early afternoon hours.",
               "Book restaurant tables in advance during the high season.",
               "Buy lavender products directly from local street vendors."
+            ],
+            "hr": [
+              "Nosite udobnu obuću za strmi uspon do utvrde.",
+              "Katedrala je često zatvorena tijekom ranih popodnevnih sati.",
+              "Rezervirajte stolove u restoranima unaprijed tijekom visoke sezone.",
+              "Kupujte lavandine proizvode izravno od lokalnih uličnih prodavača."
             ]
           }
         },
@@ -567,7 +580,7 @@
             "hu": "A reggel a Szent István téren indul, ahol a vizes kövek csillognak az esőben. Délben az Arzenál nyújt menedéket a záporok elől, miközben elmerülünk a kultúrában. Délután a bencés kolostor csendjét élvezzük az eső kopogása mellett. Az estét a Fortica várban zárjuk, ahonnan a felhős égbolt alatt is drámai kilátás nyílik a tengerre és a város vörös tetőire.",
             "ro": "Dimineața începe în Piața Sfântul Ștefan, unde pietrele cubice strălucesc sub ploaie. La prânz, Arsenalul oferă adăpostul perfect, permițându-vă să explorați cultura locală fără a vă uda. După-amiaza este dedicată mănăstirii benedictine, un loc liniștit pentru reflecție. Seara se încheie la cetatea Fortica, oferind o panoramă dramatică asupra insulelor Pakleni printre nori.",
             "en": "The morning starts at St. Stephen's Square, where the wet stones glisten beautifully. At noon, the Arsenal provides the perfect dry refuge for exploring local history. In the afternoon, we visit the Benedictine monastery, enjoying the peaceful atmosphere as the rain falls. The evening concludes at the Fortica fortress, offering a dramatic view of the Adriatic under the moody rainy sky.",
-            "hr": "Jutro počinje na Trgu svetog Stjepana, gdje mokro kamenje prekrasno sjaji. U podne, Arsenal pruža savršeno suho utočište za istraživanje lokalne povijesti. Poslijepodne posjećujemo benediktinski samostan, uživajući u mirnoj atmosferi dok pada kiša. Večer završava na tvrđavi Fortica, koja nudi dramatičan pogled na Jadran pod tmurnim kišnim nebom."
+            "hr": "Jutro započinje na Trgu sv. Stjepana, gdje mokri kamen lijepo sjaji. U podne Arsenal pruža savršen suhi zaklon za istraživanje lokalne povijesti. Poslijepodne posjećujemo benediktinski samostan, uživajući u mirnoj atmosferi dok pada kiša. Večer završava na utvrdi Fortica, koja nudi dramatičan pogled na Jadran pod tmurnim kišnim nebom."
           },
           "stops": [
             {
@@ -577,7 +590,7 @@
                 "hu": "Vigyázat, a csiszolt kövek esőben rendkívül csúszósak.",
                 "ro": "Atenție, pietrele lustruite devin foarte alunecoase când sunt ude.",
                 "en": "Caution, the polished stones are extremely slippery when wet.",
-                "hr": "Oprez, uglačano kamenje je izuzetno sklisko kad je mokro."
+                "hr": "Upozorenje, polirani kamen vrlo je klizav kad je mokar."
               }
             },
             {
@@ -587,7 +600,7 @@
                 "hu": "Ideális száraz menedék a barokk belső tér megcsodálására.",
                 "ro": "Un refugiu uscat perfect pentru a admira interiorul baroc.",
                 "en": "A perfect dry retreat to admire the baroque interior splendor.",
-                "hr": "Savršeno suho utočište za divljenje raskoši barokne unutrašnjosti."
+                "hr": "Savršeno suho utočište za divljenje baroknom unutrašnjem sjaju."
               }
             },
             {
@@ -597,7 +610,7 @@
                 "hu": "Nézze meg a benti múzeumot és a híres agávé-csipkéket.",
                 "ro": "Vizitați muzeul din interior pentru a vedea celebra dantelă din agave.",
                 "en": "Visit the indoor museum to see the famous agave lace collection.",
-                "hr": "Posjetite unutarnji muzej kako biste vidjeli poznatu zbirku čipke od agave."
+                "hr": "Posjetite unutarnji muzej da vidite poznatu zbirku agavinog čipkanja."
               }
             },
             {
@@ -607,7 +620,7 @@
                 "hu": "Európa legrégebbi népszínháza a legjobb hely heves esőzéskor.",
                 "ro": "Cel mai vechi teatru comunal din Europa este locul ideal pe ploaie.",
                 "en": "Europe's oldest communal theatre is the best spot during heavy rain.",
-                "hr": "Najstarije komunalno kazalište u Europi najbolje je mjesto tijekom jake kiše."
+                "hr": "Europsko najstarije komunitarno kazalište najbolje je mjesto za jake pljuskove."
               }
             },
             {
@@ -617,7 +630,7 @@
                 "hu": "A kerengő védelmet és békés akusztikát nyújt az esőben.",
                 "ro": "Clasura oferă adăpost și o acustică liniștitoare în timpul ploii.",
                 "en": "The cloister provides shelter and peaceful acoustics during the rain.",
-                "hr": "Klošter pruža zaklon i mirnu akustiku tijekom kiše."
+                "hr": "Kloaster pruža zaklon i mirnu akustiku tijekom kiše."
               }
             },
             {
@@ -627,7 +640,7 @@
                 "hu": "A fenyőerdőn átvezető út a fák alatt némi védelmet nyújt.",
                 "ro": "Urcarea prin pădurea de pini oferă o oarecare protecție sub copaci.",
                 "en": "The climb through the pine forest offers some shelter under the trees.",
-                "hr": "Uspon kroz borovu šumu nudi određeni zaklon pod drvećem."
+                "hr": "Uspon kroz borovu šumu nudi određeni zaklon pod stablima."
               }
             }
           ],
@@ -661,11 +674,11 @@
               "Enjoy a local coffee under the harbor arcades while watching the rain over the bay."
             ],
             "hr": [
-              "Hvarske mramorne ulice postaju skliske poput leda kad su mokre; nosite obuću s izvrsnim prianjanjem.",
-              "Iskoristite pauze između pljuskova za uspon do tvrđave Fortica.",
+              "Hvarske ulice popločane mramorom postaju poput leda kad su mokre; nosite obuću s izvrsnim gripom.",
+              "Iskoristite pauze između pljuskova za uspon na utvrdu Fortica.",
               "Muzeji u Arsenalu i benediktinskom samostanu savršene su unutarnje alternative.",
-              "Zbog naleta vjetra, čvrsta kabanica puno je učinkovitija od kišobrana.",
-              "Uživajte u domaćoj kavi pod lučnim arkadama dok gledate kišu nad zaljevom."
+              "Zbog udara vjetra, čvrsti kišni ogrtač je mnogo učinkovitiji od kišobrana.",
+              "Uživajte u lokalnoj kavi pod lukovima luke dok promatrate kišu nad zaljevom."
             ]
           }
         },
@@ -675,7 +688,7 @@
             "hu": "Csendes téli reggel a Szent István téren, távol a nyári nyüzsgéstől. Délben a lágy adriai napsütés melegíti az Arzenál ősi falait. Délután a ferences kolostor nyugalmát és a fenyők illatát élvezzük a friss levegőn. A nap korán ér véget egy aranyló naplementével a Fortica várból, mielőtt leszállna a hűvös tengeri éjszaka.",
             "ro": "O dimineață liniștită de iarnă în Piața Sfântul Ștefan, fără aglomerația verii. La prânz, soarele blând al Adriaticii încălzește zidurile vechi ale Arsenalului. După-amiaza savurăm liniștea mănăstirii franciscane și aerul curat. Ziua se încheie devreme cu un apus auriu de la cetatea Fortica, înainte ca briza rece de seară să apară.",
             "en": "A peaceful winter morning at St. Stephen's Square, free from the summer crowds. At noon, the mild Adriatic sun warms the ancient walls of the Arsenal. In the afternoon, enjoy the quiet dignity of the Franciscan monastery and the fresh sea air. The day ends early with a spectacular golden sunset from Fortica fortress before the cool evening breeze sets in.",
-            "hr": "Mirno zimsko jutro na Trgu svetog Stjepana, bez ljetnih gužvi. U podne, blago jadransko sunce grije drevne zidine Arsenala. Poslijepodne uživajte u tišini franjevačkog samostana i svježem morskom zraku. Dan završava rano uz spektakularan zlatni zalazak sunca s tvrđave Fortica prije nego što zapuše hladan večernji povjetarac."
+            "hr": "Mirno zimsko jutro na Trgu sv. Stjepana, bez ljetnih gužvi. U podne blago jadransko sunce grije drevne zidove Arsenala. Poslijepodne uživajte u tihoj dostojanstvenosti franjevačkog samostana i svježem morskom zraku. Dan se rano završava spektakularnim zlatnim zalaskom s utvrde Fortica prije nego što stigne hladan večernji povjetarac."
           },
           "stops": [
             {
@@ -685,7 +698,7 @@
                 "hu": "Élvezze az üres teret; télen a helyieké a főszerep.",
                 "ro": "Bucurați-vă de piața goală; iarna aparține localnicilor.",
                 "en": "Enjoy the empty square; in winter, it truly belongs to the locals.",
-                "hr": "Uživajte u praznom trgu; zimi on doista pripada mještanima."
+                "hr": "Uživajte u praznom trgu; zimi on zbilja pripada mještanima."
               }
             },
             {
@@ -695,7 +708,7 @@
                 "hu": "Bent gyakran melegebb van, mint a szeles sikátorokban.",
                 "ro": "În interior este adesea mai cald decât pe străzile bătute de vânt.",
                 "en": "It is often warmer inside than out in the drafty narrow streets.",
-                "hr": "Unutra je često toplije nego vani u vjetrovitim uskim ulicama."
+                "hr": "Unutra je često toplije nego vani u prozračnim uskim ulicama."
               }
             },
             {
@@ -715,7 +728,7 @@
                 "hu": "Történelmi helyszín, amely télen különösen méltóságteljes.",
                 "ro": "Un loc plin de istorie care pare mult mai solemn în timpul iernii.",
                 "en": "A historic site that feels particularly solemn during the winter months.",
-                "hr": "Povijesno mjesto koje djeluje posebno svečano tijekom zimskih mjeseci."
+                "hr": "Povijesno mjesto koje se posebno svečano osjeća tijekom zimskih mjeseci."
               }
             },
             {
@@ -725,7 +738,7 @@
                 "hu": "A kert az öreg ciprussal télen is gyönyörű látványt nyújt.",
                 "ro": "Grădina cu chiparosul bătrân este superbă chiar și iarna.",
                 "en": "The garden with the ancient cypress tree is beautiful even in winter.",
-                "hr": "Vrt s drevnim čempresom prekrasan je čak i zimi."
+                "hr": "Vrt sa starim cypressom lijep je i zimi."
               }
             },
             {
@@ -735,7 +748,7 @@
                 "hu": "Érjen fel 16:15-re, hogy elcsípje a téli naplementét.",
                 "ro": "Ajungeți sus până la 16:15 pentru a vedea apusul de iarnă.",
                 "en": "Be at the top by 4:15 PM to catch the spectacular winter sunset.",
-                "hr": "Budite na vrhu do 16:15 kako biste uhvatili spektakularan zimski zalazak sunca."
+                "hr": "Budite na vrhu do 16:15 kako biste uhvatili spektakularni zimski zalazak sunca."
               }
             }
           ],
@@ -769,11 +782,11 @@
               "In winter, the air is extremely clear, perfect for panoramic photos from the fortress."
             ],
             "hr": [
-              "Hvar je najsunčaniji otok, ali zimi u sjeni ostaje prohladno.",
-              "Mnogi turistički restorani su zatvoreni; tražite mjesta gdje jedu mještani.",
-              "Zalazak sunca je oko 16:30; počnite s razgledavanjem rano kako biste maksimalno iskoristili dan.",
-              "Bura može biti vrlo hladna; vjetrootporna jakna je apsolutno neophodna.",
-              "Zimi je zrak izuzetno čist, savršen za panoramske fotografije s tvrđave."
+              "Hvar je najsunčaniji otok, ali u hladu zimi ostaje svjež.",
+              "Mnogi turistički restorani su zatvoreni; potražite mjesta gdje jedu mještani.",
+              "Zalazak sunca je oko 16:30; započnite razgledavanje rano da maksimalno iskoristite dnevno svjetlo.",
+              "Bura može biti vrlo hladna; vjetrootporna jakna je apsolutni nužan dio opreme.",
+              "Zimi je zrak izuzetno čist, savršen za panoramske fotografije s utvrde."
             ]
           }
         }
@@ -803,7 +816,7 @@
             "hu": "Kezdje a túrát a tengerparti sétányon.",
             "ro": "Punct de plecare pe faleza mării.",
             "en": "Start point at the seaside promenade.",
-            "hr": "Polazna točka na šetnici uz more."
+            "hr": "Polazna točka na rivijernoj promenadi."
           }
         },
         {
@@ -822,7 +835,7 @@
             "hu": "Könnyen elérhető a lapos parti úton.",
             "ro": "Ușor accesibil prin drumul plat de pe coastă.",
             "en": "Easily accessible via the flat coastal road.",
-            "hr": "Lako dostupno ravnom obalnom cestom."
+            "hr": "Lako pristupačno ravnom obalnom cestom."
           }
         },
         {
@@ -841,7 +854,7 @@
             "hu": "Gyönyörű tengerparti út vezet ide a városból.",
             "ro": "O potecă frumoasă pe coastă duce aici din oraș.",
             "en": "A beautiful coastal path leads here from the town.",
-            "hr": "Prekrasna obalna staza vodi od grada do ovdje."
+            "hr": "Prekrasna obalna staza vodi ovamo iz grada."
           }
         },
         {
@@ -860,7 +873,7 @@
             "hu": "Zárja le biztonságosan kerékpárját a kikötőben.",
             "ro": "Parcați bicicleta în siguranță lângă port.",
             "en": "Lock your bike safely near the harbor.",
-            "hr": "Sigurno zaključajte bicikl u blizini luke."
+            "hr": "Sigurno zaključajte bicikl blizu luke."
           }
         },
         {
@@ -888,7 +901,7 @@
         "hu": "Fedezze fel Hvart két keréken. A Pjacáról indulva a part mentén tekerünk a ferences kolostorig. Ezután az idilli Pokonji Dol öböl felé vesszük az irányt egy frissítő csobbanásra. Visszatérve a városba megnézzük az Arzenált, majd következik a fárasztó, de megérős tekerés fel a várba, hogy a napot a szigetekre nyíló kilátással zárjuk.",
         "ro": "Explorați Hvar pe două roți. Începem din Pjaca și mergem de-a lungul coastei până la mănăstirea franciscană. Apoi pedalăm spre golful idilic Pokonji Dol pentru o baie răcoritoare. Înapoi în oraș vizităm Arsenalul, înainte de a începe drumul obositor, dar plin de satisfacții spre cetate, pentru a încheia ziua cu o priveliște asupra insulelor.",
         "en": "Explore Hvar on two wheels. Starting from Pjaca, we ride along the coast to the Franciscan monastery. Then we cycle to the idyllic Pokonji Dol bay for a refreshing swim. Back in town, we visit the Arsenal before the strenuous but rewarding ride up to the Fortica fortress to crown the day with a view over the islands.",
-        "hr": "Istražite Hvar na dva kotača. Krenuvši s Pjace, vozimo se obalom do franjevačkog samostana. Zatim bicikliramo do idilične uvale Pokonji Dol na osvježavajuće kupanje. Povratkom u grad, posjećujemo Arsenal prije napornog, ali isplativog uspona do tvrđave Fortica za krunu dana s pogledom na otoke."
+        "hr": "Istražite Hvar na dva kotača. Polazeći s Pjace, vozimo uz obalu do franjevačkog samostana. Zatim pedaliramo do idilične uvale Pokonji Dol za osvježavajuće kupanje. U povratku u grad posjetimo Arsenal prije napornog, ali nagrađujućeg uspona do utvrde Fortica kako bismo dan okrunili pogledom na otoke."
       },
       "gastro_picks": {
         "de": [
@@ -1013,7 +1026,7 @@
           "Check your brakes before descending from the fortress."
         ],
         "hr": [
-          "Izbjegavajte podnevnu vrućinu prilikom uspona na tvrđavu.",
+          "Izbjegavajte popodnevnu vrućinu pri usponu na utvrdu.",
           "Neke uličice u starom gradu su pješačke zone.",
           "Provjerite kočnice prije spuštanja s tvrđave."
         ]
@@ -1024,7 +1037,8 @@
             "de": "Erkunden Sie Hvar auf zwei Rädern. Wir starten an der Pjaca und fahren entlang der Küste zum Franziskanerkloster. Danach radeln wir zur idyllischen Bucht Pokonji Dol für ein erfrischendes Bad. Zurück in der Stadt besuchen wir das Arsenal, bevor wir den anstrengenden, aber lohnenden Weg zur Festung Fortica antreten, um den Tag mit einem Blick über die Inseln zu krönen.",
             "hu": "Fedezze fel Hvart két keréken. A Pjacáról indulva a part mentén tekerünk a ferences kolostorig. Ezután az idilli Pokonji Dol öböl felé vesszük az irányt egy frissítő csobbanásra. Visszatérve a városba megnézzük az Arzenált, majd következik a fárasztó, de megérős tekerés fel a várba, hogy a napot a szigetekre nyíló kilátással zárjuk.",
             "ro": "Explorați Hvar pe două roți. Începem din Pjaca și mergem de-a lungul coastei până la mănăstirea franciscană. Apoi pedalăm spre golful idilic Pokonji Dol pentru o baie răcoritoare. Înapoi în oraș vizităm Arsenalul, înainte de a începe drumul obositor, dar plin de satisfacții spre cetate, pentru a încheia ziua cu o priveliște asupra insulelor.",
-            "en": "Explore Hvar on two wheels. Starting from Pjaca, we ride along the coast to the Franciscan monastery. Then we cycle to the idyllic Pokonji Dol bay for a refreshing swim. Back in town, we visit the Arsenal before the strenuous but rewarding ride up to the Fortica fortress to crown the day with a view over the islands."
+            "en": "Explore Hvar on two wheels. Starting from Pjaca, we ride along the coast to the Franciscan monastery. Then we cycle to the idyllic Pokonji Dol bay for a refreshing swim. Back in town, we visit the Arsenal before the strenuous but rewarding ride up to the Fortica fortress to crown the day with a view over the islands.",
+            "hr": "Istražite Hvar na dva kotača. Polazeći s Pjace vozimo se uz obalu do Franjevačkog samostana. Zatim bicikliramo do idilične uvale Pokonji Dol za osvježavajući kupanje. U povratku u grad posjećujemo Arsenal prije napornog, ali nagrađujućeg uspona do tvrđave Fortica kako bismo dan okrunili pogledom na otoke."
           },
           "stops": [
             {
@@ -1033,7 +1047,8 @@
                 "de": "Startpunkt an der Uferpromenade.",
                 "hu": "Kezdje a túrát a tengerparti sétányon.",
                 "ro": "Punct de plecare pe faleza mării.",
-                "en": "Start point at the seaside promenade."
+                "en": "Start point at the seaside promenade.",
+                "hr": "Polazište na šetnici uz more."
               }
             },
             {
@@ -1042,7 +1057,8 @@
                 "de": "Leicht erreichbar über die flache Uferstraße.",
                 "hu": "Könnyen elérhető a lapos parti úton.",
                 "ro": "Ușor accesibil prin drumul plat de pe coastă.",
-                "en": "Easily accessible via the flat coastal road."
+                "en": "Easily accessible via the flat coastal road.",
+                "hr": "Lako pristupačno ravnom obalnom cestom."
               }
             },
             {
@@ -1051,7 +1067,8 @@
                 "de": "Ein schöner Strandweg führt von der Stadt hierher.",
                 "hu": "Gyönyörű tengerparti út vezet ide a városból.",
                 "ro": "O potecă frumoasă pe coastă duce aici din oraș.",
-                "en": "A beautiful coastal path leads here from the town."
+                "en": "A beautiful coastal path leads here from the town.",
+                "hr": "Prekrasna obalna staza vodi ovamo iz grada."
               }
             },
             {
@@ -1060,7 +1077,8 @@
                 "de": "Stellen Sie Ihr Fahrrad sicher am Hafen ab.",
                 "hu": "Zárja le biztonságosan kerékpárját a kikötőben.",
                 "ro": "Parcați bicicleta în siguranță lângă port.",
-                "en": "Lock your bike safely near the harbor."
+                "en": "Lock your bike safely near the harbor.",
+                "hr": "Zaključajte bicikl sigurno blizu luke."
               }
             },
             {
@@ -1069,7 +1087,8 @@
                 "de": "Harter Anstieg, aber die Abfahrt macht Spaß.",
                 "hu": "Kemény emelkedő, de a lefelé út kárpótol.",
                 "ro": "Urcare grea, dar coborârea este distractivă.",
-                "en": "Tough climb, but the descent is fun."
+                "en": "Tough climb, but the descent is fun.",
+                "hr": "Težak uspon, ali spust je zabavan."
               }
             }
           ],
@@ -1175,6 +1194,11 @@
               "Avoid the midday heat when climbing to the fortress.",
               "Some alleys in the old town are pedestrian zones.",
               "Check your brakes before descending from the fortress."
+            ],
+            "hr": [
+              "Izbjegavajte popodnevnu vrućinu pri usponu prema tvrđavi.",
+              "Neke uličice u starom gradu su pješačke zone.",
+              "Provjerite kočnice prije spuštanja s tvrđave."
             ]
           }
         },
@@ -1184,7 +1208,7 @@
             "hu": "Az eső ellenére a parti kerékpározás frissítő élményt nyújt. Délelőtt a ferences kolostorhoz tekerünk, miközben az esőcseppek a tengerbe hullanak. Délben a Pokonji Dol strandnál a szürke tenger vad szépségét csodáljuk. Délután az Arzenálban keresünk menedéket, majd a friss, párás levegőben hódítjuk meg a várat.",
             "ro": "În ciuda ploii, tura cu bicicleta pe coastă oferă o perspectivă revigorantă. Dimineața mergem spre mănăstirea franciscană, ascultând picăturile în mare. La prânz ajungem la plaja Pokonji Dol, unde marea cenușie are o frumusețe sălbatică. După-amiaza ne adăpostim în Arsenal, înainte de a urca spre cetate în aerul umed.",
             "en": "Despite the rain, cycling along the coast offers a refreshing perspective of Hvar. Spend the morning riding to the Franciscan monastery as rain hits the sea. At noon, visit Pokonji Dol beach to witness the wild beauty of a stormy Adriatic. In the afternoon, retreat to the Arsenal before a damp but scenic climb to the Spanish Fortress.",
-            "hr": "Unatoč kiši, bicikliranje uz obalu nudi osvježavajuću perspektivu Hvara. Provedite jutro vozeći se do franjevačkog samostana dok kiša udara o more. U podne, posjetite plažu Pokonji Dol kako biste svjedočili divljoj ljepoti olujnog Jadrana. Poslijepodne se povucite u Arsenal prije vlažnog, ali slikovitog uspona do Španjolske tvrđave."
+            "hr": "Unatoč kiši, vožnja biciklom duž obale daje osvježavajuću perspektivu Hvara. Provedite jutro vozeći se do Franjevačkog samostana dok kiša udara u more. U podne posjetite plažu Pokonji Dol da svjedočite divljoj ljepoti olujnog Jadrana. Popodne se povucite u Arsenal prije vlažnog ali slikovitog uspona do Španjolske tvrđave."
           },
           "stops": [
             {
@@ -1194,7 +1218,7 @@
                 "hu": "Fékezzen óvatosan a vizes köveken; nagy a csúszásveszély!",
                 "ro": "Frânați cu mare atenție pe pavajul ud; risc ridicat de derapare!",
                 "en": "Brake very carefully on the wet pavement; high risk of slipping!",
-                "hr": "Kočite vrlo oprezno na mokrom kolniku; visok rizik od klizanja!"
+                "hr": "Kočite vrlo pažljivo po mokroj podlozi; visok rizik od proklizavanja!"
               }
             },
             {
@@ -1204,7 +1228,7 @@
                 "hu": "Parkolja le a biciklit a bejárat közeli fák alá.",
                 "ro": "Parcați bicicleta sub copacii de lângă intrare.",
                 "en": "Park your bike under the trees near the entrance for some cover.",
-                "hr": "Parkirajte bicikl ispod drveća blizu ulaza radi zaklona."
+                "hr": "Parkirajte bicikl pod stablima blizu ulaza radi zaklona."
               }
             },
             {
@@ -1214,7 +1238,7 @@
                 "hu": "Az út a strandhoz aszfaltozott, de vigyázzon a tócsákkal.",
                 "ro": "Drumul spre plajă este asfaltat, dar atenție la bălți.",
                 "en": "The path to the beach is paved, but watch out for deep puddles.",
-                "hr": "Put do plaže je asfaltiran, ali pripazite na duboke lokve."
+                "hr": "Staza do plaže je asfaltirana, ali pazite na duboke lokve."
               }
             },
             {
@@ -1224,7 +1248,7 @@
                 "hu": "Használja ki a megállót a ruházat szárazon tartására.",
                 "ro": "Folosiți această oprire pentru a vă usca puțin echipamentul.",
                 "en": "Use this stop as an opportunity to dry off your gear slightly.",
-                "hr": "Iskoristite ovo zaustavljanje kao priliku da malo osušite opremu."
+                "hr": "Iskoristite ovu stanku da malo osušite opremu."
               }
             },
             {
@@ -1234,7 +1258,7 @@
                 "hu": "A szerpentin esőben fárasztóbb, de az út jól tapad.",
                 "ro": "Drumul în serpentine este mai greu pe ploaie, dar are aderență.",
                 "en": "The serpentine path is tougher in the rain but remains grippy.",
-                "hr": "Serpentina je teža po kiši, ali i dalje dobro prianja."
+                "hr": "Serpentinska staza je teža po kiši, ali i dalje drži prianjanje."
               }
             }
           ],
@@ -1268,10 +1292,10 @@
               "Look for cafes with covered bike racks or porch areas."
             ],
             "hr": [
-              "Nosite potpunu vodootpornu opremu; vjetar vrlo brzo hladi mokru odjeću.",
-              "Izbjegavajte kočenje u zavojima na skliskom gradskom kolniku.",
-              "Provjerite kočione obloge prije spuštanja sa Španjolske tvrđave.",
-              "Obrišite sjedalo pri svakom zaustavljanju radi udobnosti vožnje.",
+              "Nosite punu vodonepropusnu opremu; vjetar brzo hladi mokru odjeću.",
+              "Izbjegavajte kočenje pri zavoju na skliskoj gradskoj podlozi.",
+              "Provjerite kočione pločice prije spuštanja sa Španjolske tvrđave.",
+              "Obrišite sjedalo suhim pri svakoj stanci kako biste održali udobnost vožnje.",
               "Tražite kafiće s natkrivenim stalcima za bicikle ili trijemovima."
             ]
           }
@@ -1282,7 +1306,7 @@
             "hu": "A tiszta téli reggel kerékpározásra csábít a Riva mentén. A hűvös levegő élénkítő, miközben a ferences kolostorhoz tekerünk. Délben a Pokonji Dol strand magányos nyugalmát élvezzük a téli napsütésben. A délután az Arzenál történelméé, majd a várból csodáljuk meg a korai naplementét.",
             "ro": "O dimineață senină de iarnă invită la o tură cu bicicleta pe Riva. Aerul rece este revigorant în drum spre mănăstirea franciscană. La prânz ne bucurăm de plaja Pokonji Dol pustie sub soarele de iarnă. După-amiaza este pentru istorie la Arsenal, terminând cu un apus superb de la cetate.",
             "en": "A crisp winter morning is perfect for a bike ride along the Riva. The cool air is invigorating as we cycle toward the Franciscan monastery. At noon, enjoy the solitary expanse of Pokonji Dol beach under the winter sun. The afternoon is dedicated to history at the Arsenal, followed by a climb to the fortress for sunset.",
-            "hr": "Vedro zimsko jutro savršeno je za vožnju biciklom duž Rive. Hladan zrak okrepljuje dok se vozimo prema franjevačkom samostanu. U podne uživajte u osamljenom prostranstvu plaže Pokonji Dol pod zimskim suncem. Poslijepodne je posvećeno povijesti u Arsenalu, nakon čega slijedi uspon na tvrđavu za zalazak sunca."
+            "hr": "Svježe zimsko jutro savršeno je za vožnju biciklom uz Rivu. Hladan zrak budi dok se vozimo prema Franjevačkom samostanu. U podne uživajte u usamljenu prostoru plaže Pokonji Dol pod zimskim suncem. Poslijepodne je posvećeno povijesti u Arsenalu, a zatim uspon do tvrđave radi zalaska sunca."
           },
           "stops": [
             {
@@ -1292,7 +1316,7 @@
                 "hu": "A nap télen csak késő délelőtt éri el a teret.",
                 "ro": "Soarele ajunge în piață abia târziu în cursul dimineții.",
                 "en": "The sun reaches the square quite late in the morning during winter.",
-                "hr": "Sunce zimi doseže trg tek kasno ujutro."
+                "hr": "Sunce kasno doseže trg tijekom zime."
               }
             },
             {
@@ -1302,7 +1326,7 @@
                 "hu": "Tökéletes hely egy pihenőre a szélvédett öbölben.",
                 "ro": "Loc perfect pentru o pauză în golful ferit de vânt.",
                 "en": "A perfect spot for a break in the wind-sheltered bay.",
-                "hr": "Savršeno mjesto za odmor u uvali zaštićenoj od vjetra."
+                "hr": "Savršeno mjesto za pauzu u uvali zaštićenoj od vjetra."
               }
             },
             {
@@ -1322,7 +1346,7 @@
                 "hu": "Nézze meg a kiállításokat, hogy közben kicsit felmelegedjen.",
                 "ro": "Vizitați expozițiile pentru a vă încălzi între etapele de pedalat.",
                 "en": "Visit the exhibitions to warm up between cycling stretches.",
-                "hr": "Posjetite izložbe kako biste se zagrijali između biciklističkih dionica."
+                "hr": "Posjetite izložbe da se ugrijete između dionica vožnje."
               }
             },
             {
@@ -1332,7 +1356,7 @@
                 "hu": "A naplemente utáni legurulás hirtelen nagyon hideg lesz.",
                 "ro": "Coborârea după apus devine foarte rece extrem de rapid.",
                 "en": "The descent after sunset will get very cold very quickly.",
-                "hr": "Spust nakon zalaska sunca vrlo će se brzo ohladiti."
+                "hr": "Spust nakon zalaska sunca postat će vrlo hladan vrlo brzo."
               }
             }
           ],
@@ -1366,11 +1390,11 @@
               "Enjoy the absolute peace on roads that are packed during summer."
             ],
             "hr": [
-              "Nosite slojevitu odjeću i vjetrootporne rukavice za brze spustove.",
-              "Zimsko sunce je iznenađujuće jako; koristite zaštitu od sunca unatoč hladnoći.",
-              "Pripazite na buru; bicikliranje je rizično tijekom jakih sjeveroistočnih naleta.",
-              "Dan rano završava; provjerite rade li svjetla na biciklu ispravno.",
-              "Uživajte u apsolutnom miru na cestama koje su ljeti prepune."
+              "Nosite slojevitu odjeću i vjetrootporne rukavice za brze spusteve.",
+              "Zimsko sunce iznenađujuće je jako; koristite zaštitu od sunca unatoč hladnoći.",
+              "Pazite na buru; vožnja biciklom je rizična tijekom jakih sjeveroistočnih udara.",
+              "Dnevna svjetlost završava rano; provjerite rade li svjetla na biciklu.",
+              "Uživajte u apsolutnom miru na cestama koje su ljeti pretrpane."
             ]
           }
         }
@@ -1400,7 +1424,7 @@
             "hu": "Parkoljon a város bejáratánál lévő nagy központi parkolóban.",
             "ro": "Parcați în marea parcare publică de la intrare.",
             "en": "Park in the large public parking lot at the entrance.",
-            "hr": "Parkirajte na velikom javnom parkiralištu na ulazu."
+            "hr": "Parkirajte na velikom javnom parkiralištu pri ulazu."
           }
         },
         {
@@ -1419,7 +1443,7 @@
             "hu": "Autóval szinte a vár bejáratáig fel lehet hajtani.",
             "ro": "Puteți conduce cu mașina aproape până la intrare.",
             "en": "You can drive almost to the entrance of the fortress.",
-            "hr": "Možete se dovesti gotovo do samog ulaza u tvrđavu."
+            "hr": "Možete voziti gotovo do ulaza u tvrđavu."
           }
         },
         {
@@ -1476,7 +1500,7 @@
             "hu": "Meredek gyalogút vezet le a parkolótól a partig.",
             "ro": "O potecă abruptă duce de la parcare jos la plajă.",
             "en": "A steep path leads down from the parking lot to the beach.",
-            "hr": "Strma staza vodi od parkirališta dolje do plaže."
+            "hr": "Strma staza vodi od parkirališta do plaže."
           }
         }
       ],
@@ -1485,7 +1509,7 @@
         "hu": "Autós kirándulás Hvar szigetén. Az óváros megtekintése után felhajtunk a várhoz. Utunk Brusje levendulamezőin keresztül Stari Gradba, Horvátország legrégebbi városába vezet. A délutánt a festői Dubovica-öbölben töltjük, majd a régi szerpentinúton, fantasztikus kilátás mellett térünk vissza Hvar városába.",
         "ro": "O excursie cu mașina pe insula Hvar. După vizitarea orașului vechi, conducem spre cetate. Călătoria continuă prin satele cu lavandă din Brusje către Stari Grad, cel mai vechi oraș din Croația. Petrecem după-amiaza în pitorescul golf Dubovica, înainte de a ne întoarce la Hvar pe vechiul drum șerpuitor cu vederi fantastice.",
         "en": "A road trip across Hvar island. After visiting the old town, we drive up to Fortica fortress. The journey continues through the lavender fields of Brusje to Stari Grad, Croatia's oldest town. We spend the afternoon at the picturesque Dubovica bay before returning to Hvar via the scenic old road with fantastic island views.",
-        "hr": "Izlet automobilom po otoku Hvaru. Nakon posjeta starom gradu, vozimo se do tvrđave Fortica. Putovanje se nastavlja kroz polja lavande Brusja do Starog Grada, najstarijeg grada u Hrvatskoj. Poslijepodne provodimo u slikovitoj uvali Dubovica prije povratka u Hvar starom cestom s fantastičnim pogledom na otoke."
+        "hr": "Izlet automobilom preko otoka Hvara. Nakon posjeta starom gradu, vozimo se do tvrđave Fortica. Putovanje se nastavlja kroz polja lavande u Brusju do Starog Grada, najstarijeg grada u Hrvatskoj. Poslijepodne provodimo u slikovitoj uvali Dubovica prije povratka u Hvar starom cestom s fantastičnim pogledima na otoke."
       },
       "gastro_picks": {
         "de": [
@@ -1610,9 +1634,9 @@
           "Refuel in Hvar town as gas stations are scarce on the island."
         ],
         "hr": [
-          "Stara cesta za Stari Grad nudi najljepše vidikovce.",
+          "Stara cesta za Stari Grad nudi najbolje panoramske poglede.",
           "Budite oprezni na uskim cestama u planinskim selima.",
-          "Natočite gorivo u gradu Hvaru jer su benzinske postaje rijetke na otoku."
+          "Napunite gorivo u gradu Hvar jer su benzinske postaje rijetke na otoku."
         ]
       },
       "variants": {
@@ -1621,7 +1645,8 @@
             "de": "Ein Roadtrip über die Insel Hvar. Nach dem Besuch der Altstadt fahren wir zur Festung Fortica. Die Reise geht weiter durch die Lavendeldörfer von Brusje nach Stari Grad, der ältesten Stadt Kroatiens. Den Nachmittag verbringen wir in der malerischen Dubovica-Bucht, bevor wir über die kurvenreiche alte Straße mit fantastischen Ausblicken nach Hvar zurückkehren.",
             "hu": "Autós kirándulás Hvar szigetén. Az óváros megtekintése után felhajtunk a várhoz. Utunk Brusje levendulamezőin keresztül Stari Gradba, Horvátország legrégebbi városába vezet. A délutánt a festői Dubovica-öbölben töltjük, majd a régi szerpentinúton, fantasztikus kilátás mellett térünk vissza Hvar városába.",
             "ro": "O excursie cu mașina pe insula Hvar. După vizitarea orașului vechi, conducem spre cetate. Călătoria continuă prin satele cu lavandă din Brusje către Stari Grad, cel mai vechi oraș din Croația. Petrecem după-amiaza în pitorescul golf Dubovica, înainte de a ne întoarce la Hvar pe vechiul drum șerpuitor cu vederi fantastice.",
-            "en": "A road trip across Hvar island. After visiting the old town, we drive up to Fortica fortress. The journey continues through the lavender fields of Brusje to Stari Grad, Croatia's oldest town. We spend the afternoon at the picturesque Dubovica bay before returning to Hvar via the scenic old road with fantastic island views."
+            "en": "A road trip across Hvar island. After visiting the old town, we drive up to Fortica fortress. The journey continues through the lavender fields of Brusje to Stari Grad, Croatia's oldest town. We spend the afternoon at the picturesque Dubovica bay before returning to Hvar via the scenic old road with fantastic island views.",
+            "hr": "Izlet automobilom preko otoka Hvara. Nakon posjeta starom gradu, vozimo se do tvrđave Fortica. Putovanje se nastavlja kroz polja lavande u Brusju do Starog Grada, najstarijeg grada u Hrvatskoj. Poslijepodne provodimo u slikovitoj uvali Dubovica prije povratka u Hvar starom cestom s fantastičnim pogledima na otoke."
           },
           "stops": [
             {
@@ -1630,7 +1655,8 @@
                 "de": "Parken Sie auf dem großen öffentlichen Parkplatz am Eingang.",
                 "hu": "Parkoljon a város bejáratánál lévő nagy központi parkolóban.",
                 "ro": "Parcați în marea parcare publică de la intrare.",
-                "en": "Park in the large public parking lot at the entrance."
+                "en": "Park in the large public parking lot at the entrance.",
+                "hr": "Parkirajte na velikom javnom parkiralištu pri ulazu."
               }
             },
             {
@@ -1639,7 +1665,8 @@
                 "de": "Sie können mit dem Auto fast bis zum Eingang fahren.",
                 "hu": "Autóval szinte a vár bejáratáig fel lehet hajtani.",
                 "ro": "Puteți conduce cu mașina aproape până la intrare.",
-                "en": "You can drive almost to the entrance of the fortress."
+                "en": "You can drive almost to the entrance of the fortress.",
+                "hr": "Možete voziti gotovo do ulaza u tvrđavu."
               }
             },
             {
@@ -1648,7 +1675,8 @@
                 "de": "Besonders im Juni und Juli zur Blütezeit wunderschön.",
                 "hu": "Különösen júniusban és júliusban, virágzáskor csodálatos.",
                 "ro": "Deosebit de frumos în iunie și iulie, în timpul înfloririi.",
-                "en": "Especially beautiful in June and July during the blooming season."
+                "en": "Especially beautiful in June and July during the blooming season.",
+                "hr": "Posebno lijepo u lipnju i srpnju tijekom sezone cvatnje."
               }
             },
             {
@@ -1657,7 +1685,8 @@
                 "de": "Besuchen Sie das Haus von Petar Hektorović (Tvrdalj).",
                 "hu": "Látogassa meg Petar Hektorović reneszánsz nyári lakát.",
                 "ro": "Vizitați casa lui Petar Hektorović (Tvrdalj).",
-                "en": "Visit the house of Petar Hektorović (Tvrdalj)."
+                "en": "Visit the house of Petar Hektorović (Tvrdalj).",
+                "hr": "Posjetite kuću Petra Hektorovića (Tvrdalj)."
               }
             },
             {
@@ -1666,7 +1695,8 @@
                 "de": "Ein steiler Fußweg führt vom Parkplatz zum Strand hinunter.",
                 "hu": "Meredek gyalogút vezet le a parkolótól a partig.",
                 "ro": "O potecă abruptă duce de la parcare jos la plajă.",
-                "en": "A steep path leads down from the parking lot to the beach."
+                "en": "A steep path leads down from the parking lot to the beach.",
+                "hr": "Strma staza vodi od parkirališta do plaže."
               }
             }
           ],
@@ -1772,6 +1802,11 @@
               "The old road to Stari Grad offers the best scenic views.",
               "Be careful on narrow roads in the mountain villages.",
               "Refuel in Hvar town as gas stations are scarce on the island."
+            ],
+            "hr": [
+              "Stara cesta za Stari Grad nudi najbolje panoramske poglede.",
+              "Budite oprezni na uskim cestama u planinskim selima.",
+              "Napunite gorivo u gradu Hvar jer su benzinske postaje rijetke na otoku."
             ]
           }
         },
@@ -1781,7 +1816,7 @@
             "hu": "Az eső Hvaron drámai tájakat ígér az autóablakból. Délelőtt a várost és a Fortica várat fedezzük fel, minimalizálva a gyaloglást. Délben Brusje ködös levendulamezőin át Stari Gradba hajtunk. A délután a Dubovica-öbölnél zárul, ahol a száraz autóból figyelhetjük a hullámzó tengert.",
             "ro": "Ploaia în Hvar aduce peisaje dramatice văzute din mașină. Dimineața explorăm orașul și cetatea Fortica, minimizând mersul pe jos. La prânz conducem prin câmpurile de lavandă cețoase spre Stari Grad. După-amiaza se încheie la golful Dubovica, privind marea din confortul mașinii.",
             "en": "Rain on Hvar creates dramatic scenery best enjoyed from a car. Spend the morning in the old town and Fortica, using the vehicle to stay dry between stops. At noon, drive through the misty lavender fields of Brusje to Stari Grad. End the afternoon at Dubovica bay, watching the rain hit the sea from your dry car seat.",
-            "hr": "Kiša na Hvaru stvara dramatičan krajolik u kojem se najbolje uživa iz automobila. Provedite jutro u starom gradu i Fortici, koristeći vozilo kako biste ostali suhi između postaja. U podne se provezite kroz maglovita polja lavande Brusja do Starog Grada. Završite poslijepodne u uvali Dubovica, promatrajući kišu na moru iz svog suhog sjedala."
+            "hr": "Kiša na Hvaru stvara dramatične prizore koje je najbolje pogledati iz automobila. Provedite jutro u starom gradu i Fortici, koristeći vozilo da ostanete suhi između zaustavljanja. U podne vozite kroz maglovita polja lavande u Brusju do Starog Grada. Završite popodne u uvali Dubovica, promatrajući kako kiša udara u more iz suhog mjesta u autu."
           },
           "stops": [
             {
@@ -1791,7 +1826,7 @@
                 "hu": "Parkoljon a bejáratnál lévő parkolóházban, hogy szárazon jusson a városba.",
                 "ro": "Parcați în garajul de la intrare pentru a ajunge uscat în centru.",
                 "en": "Park in the garage at the entrance to reach the town center dry.",
-                "hr": "Parkirajte u garaži na ulazu kako biste suhi došli do centra grada."
+                "hr": "Parkirajte u garaži pri ulazu da biste suhi stigli do centra grada."
               }
             },
             {
@@ -1801,7 +1836,7 @@
                 "hu": "Szinte egészen a kapuig fel lehet hajtani; ideális esőben.",
                 "ro": "Puteți conduce aproape până la intrare; ideal pe timp de ploaie.",
                 "en": "You can drive almost all the way to the top; ideal for rainy days.",
-                "hr": "Možete se dovesti gotovo do samog vrha; idealno za kišne dane."
+                "hr": "Možete voziti gotovo do vrha; idealno za kišne dane."
               }
             },
             {
@@ -1821,7 +1856,7 @@
                 "hu": "A parti árkádok jó védelmet nyújtanak séta közben.",
                 "ro": "Arcadele de pe mal oferă protecție bună în timpul plimbării.",
                 "en": "The waterfront arcades offer good shelter during a stroll.",
-                "hr": "Arkade na rivi nude dobar zaklon tijekom šetnje."
+                "hr": "Riva nudi dobar zaklon pod arkadama tijekom šetnje."
               }
             },
             {
@@ -1831,7 +1866,7 @@
                 "hu": "A strandra vezető lejtő esőben meredek és csúszós.",
                 "ro": "Coborârea spre plajă este abruptă și alunecă pe ploaie.",
                 "en": "The descent to the beach is steep and very slippery when wet.",
-                "hr": "Spust do plaže je strm i vrlo sklisko kad je mokro."
+                "hr": "Spust do plaže je strm i vrlo sklizak kad je mokar."
               }
             }
           ],
@@ -1865,11 +1900,11 @@
               "Stop at viewpoints; rain clouds over the Pakleni islands are very photogenic."
             ],
             "hr": [
-              "Vozite s posebnim oprezom na uskim otočkim cestama tijekom mokrih uvjeta.",
-              "Automobil je najbolja baza za istraživanje raznih uvala dok ostajete suhi.",
-              "Benzinske postaje dostupne su samo u gradu Hvaru i Starom Gradu.",
-              "Koristite parkiralište tik uz tvrđavu Fortica kako biste smanjili hodanje po kiši.",
-              "Zaustavite se na vidikovcima; kišni oblaci nad Paklenim otocima su vrlo fotogenični."
+              "Vozite s dodatnim oprezom na uskim otočnim cestama za mokrih uvjeta.",
+              "Auto je najbolja baza za istraživanje raznih uvala uz ostanak suhim.",
+              "Benzinske postaje su dostupne samo u Gradu Hvaru i Starom Gradu.",
+              "Koristite parkiralište odmah uz tvrđavu Fortica da smanjite hodanje po kiši.",
+              "Stajališta za fotografije; kišni oblaci nad Paklenim otocima su vrlo fotogenični."
             ]
           }
         },
@@ -1879,7 +1914,7 @@
             "hu": "A téli Hvar üres utakat és tágas kilátást kínál. A délelőtt a városé és a Fortica váré a lágy napsütésben. Délben panorámás út vezet Brusjén át Stari Gradba, az alvó levendulamezők mellett. A délutánt a Dubovica strandon zárjuk, amely télen teljesen elhagyatott és békés.",
             "ro": "Iarna în Hvar oferă drumuri libere și vederi panoramice superbe. Dimineața este pentru oraș și cetate sub soarele blând. La prânz, drumul panoramic prin Brusje spre Stari Grad trece pe lângă câmpurile de lavandă. După-amiaza se încheie la plaja Dubovica, pustie și liniștită.",
             "en": "Winter on Hvar means empty roads and endless vistas. Spend the morning exploring the old town and Fortica under the mild sun. At noon, take the scenic drive through Brusje to Stari Grad past sleeping lavender fields. End the afternoon at Dubovica beach, which is perfectly deserted and peaceful in winter.",
-            "hr": "Zima na Hvaru znači prazne ceste i beskrajne vidike. Provedite jutro istražujući stari grad i Forticu pod blagim suncem. U podne krenite slikovitom vožnjom kroz Brusje do Starog Grada pored usnulih polja lavande. Završite poslijepodne na plaži Dubovica, koja je zimi savršeno pusta i mirna."
+            "hr": "Zima na Hvaru znači prazne ceste i beskrajne vidike. Provedite jutro istražujući stari grad i Forticu pod blagim suncem. U podne vozite slikovito kroz Brusje do Starog Grada pored uspavanih polja lavande. Završite popodne na plaži Dubovica, koja je zimi savršeno napuštena i mirna."
           },
           "stops": [
             {
@@ -1889,7 +1924,7 @@
                 "hu": "A parkolás télen sokkal egyszerűbb és gyakran olcsóbb.",
                 "ro": "Parcarea este mult mai ușoară și adesea mai ieftină iarna.",
                 "en": "Parking is much easier and often cheaper during the winter months.",
-                "hr": "Parkiranje je puno lakše i često jeftinije tijekom zimskih mjeseci."
+                "hr": "Parkiranje je puno lakše i često je jeftinije tijekom zimskih mjeseci."
               }
             },
             {
@@ -1899,7 +1934,7 @@
                 "hu": "Élvezze a panorámát a nyári tömeg nélkül.",
                 "ro": "Bucurați-vă de panorama superbă fără mulțimile de vară.",
                 "en": "Enjoy the panoramic view without the typical summer crowds.",
-                "hr": "Uživajte u panoramskom pogledu bez tipičnih ljetnih gužvi."
+                "hr": "Uživajte u panorami bez tipičnih ljetnih gužvi."
               }
             },
             {
@@ -1909,7 +1944,7 @@
                 "hu": "Télen a levendula nem virágzik, de a kilátás fantasztikus.",
                 "ro": "Iarna lavanda nu este înflorită, dar priveliștea este fantastică.",
                 "en": "Lavender isn't in bloom in winter, but the views remain fantastic.",
-                "hr": "Lavanda zimi ne cvjeta, ali pogledi ostaju fantastični."
+                "hr": "Lavanda nije u cvatu zimi, ali pogledi su i dalje fantastični."
               }
             },
             {
@@ -1919,7 +1954,7 @@
                 "hu": "Látogasson el a Tvrdalj kastélyba; ellenőrizze a téli órákat.",
                 "ro": "Vizitați castelul Tvrdalj; verificați programul de iarnă.",
                 "en": "Visit the Tvrdalj castle; check the winter opening hours first.",
-                "hr": "Posjetite dvorac Tvrdalj; najprije provjerite zimsko radno vrijeme."
+                "hr": "Posjetite dvorac Tvrdalj; provjerite zimsko radno vrijeme prije dolaska."
               }
             },
             {
@@ -1929,7 +1964,7 @@
                 "hu": "Egy magányos séta a kavicsos strandon télen varázslatos.",
                 "ro": "O plimbare solitară pe plaja cu pietriș este magică iarna.",
                 "en": "A solitary walk on the pebble beach is magical during winter.",
-                "hr": "Osamljena šetnja šljunčanom plažom čarobna je tijekom zime."
+                "hr": "Usamljena šetnja po šljunčanoj plaži je magična zimi."
               }
             }
           ],
@@ -1963,10 +1998,10 @@
               "Take advantage of the clear winter air for views reaching Italy."
             ],
             "hr": [
-              "Budite oprezni s jakim naletima vjetra (bura) na visokim planinskim cestama.",
-              "Stara cesta preko Brusja puno je slikovitija od prolaska kroz tunel.",
-              "Natočite gorivo ranije; manje benzinskih postaja radi kasno u zimskoj sezoni.",
-              "Zalazak sunca je rano; nastojte završiti planinsku vožnju do 17:00 sati.",
+              "Budite oprezni zbog jakih naleta vjetra (Bura) na visokim planinskim cestama.",
+              "Stara cesta preko Brusja je mnogo slikovitija od vožnje tunelom.",
+              "Napunite gorivo ranije; manje benzinskih ima kasno radno vrijeme zimi.",
+              "Zalazak sunca je rano; ciljajte završiti planinsku vožnju prije 17:00.",
               "Iskoristite čist zimski zrak za poglede koji sežu do Italije."
             ]
           }
@@ -1997,7 +2032,7 @@
             "hu": "Központi találkozóhely minden túrához.",
             "ro": "Punct de întâlnire central pentru toate tururile.",
             "en": "Central meeting point for all island tours.",
-            "hr": "Središnje mjesto sastajanja za sve otočke ture."
+            "hr": "Središnje mjesto okupljanja za sve otoke ture."
           }
         },
         {
@@ -2016,7 +2051,7 @@
             "hu": "A város jelképe közvetlenül a főtéren.",
             "ro": "Simbolul orașului situat direct în piață.",
             "en": "The landmark of the city directly on the square.",
-            "hr": "Simbol grada izravno na trgu."
+            "hr": "Gradovska znamenitost smještena izravno na trgu."
           }
         },
         {
@@ -2035,7 +2070,7 @@
             "hu": "Közvetlenül a kikötő mellett található.",
             "ro": "Situat direct lângă bazinul portului.",
             "en": "Located directly next to the harbor basin.",
-            "hr": "Smješten neposredno uz lučki bazen."
+            "hr": "Nalazi se neposredno pored lučice."
           }
         },
         {
@@ -2054,7 +2089,7 @@
             "hu": "Szálljon fel egy taxihajóra a fő mólónál.",
             "ro": "Luați un taxi boat de la debarcaderul principal.",
             "en": "Take a taxi boat from the main pier.",
-            "hr": "Uzmite taxi brod s glavnog gata."
+            "hr": "Uzmite taksi-brod s glavne rive."
           }
         }
       ],
@@ -2063,7 +2098,7 @@
         "hu": "Hvar a víz felől. A Pjaca, a katedrális és az Arzenál megtekintése után igénybe vesszük a sziget legjobb közlekedési eszközét: a hajót. Egy taxihajó átvisz minket a Pakleni-szigetekre, ahol a délutánt kristálytiszta vízben töltjük. A visszaút során páratlan kilátás nyílik Hvar városának sziluettjére.",
         "ro": "Hvar de pe apă. După o plimbare prin Pjaca și vizitarea catedralei și a Arsenalului, folosim cel mai bun mijloc de transport de pe insulă: barca. Un taxi boat ne duce la insulele Pakleni, unde petrecem după-amiaza în ape cristaline. Călătoria de întoarcere oferă o vedere de neegalat asupra orizontului orașului Hvar.",
         "en": "Hvar from the water. After a walk through Pjaca and visiting the cathedral and Arsenal, we use the island's best mode of transport: the boat. A taxi boat takes us to the Pakleni Islands, where we spend the afternoon in crystal-clear water. The return trip offers an unparalleled view of Hvar town's skyline.",
-        "hr": "Hvar s vode. Nakon šetnje Pjacom i posjeta katedrali i Arsenalu, koristimo najbolji način otočkog prijevoza: brod. Taxi brod nas vozi do Paklenih otoka, gdje provodimo poslijepodne u kristalno čistom moru. Povratak nudi neusporediv pogled na siluetu grada Hvara."
+        "hr": "Hvar s mora. Nakon šetnje Pjacom i posjeta katedrali i Arsenalu koristimo najbolji prijevoz otoka: brod. Taksibrod nas vodi do Paklenih otoka, gdje provodimo popodne u kristalno čistoj vodi. Povratak nudi neusporediv pogled na siluetu grada Hvara."
       },
       "gastro_picks": {
         "de": [
@@ -2188,9 +2223,9 @@
           "Ask the skipper for the time of the last return boat."
         ],
         "hr": [
-          "Taxi brodovi voze svakih 20-30 minuta tijekom ljeta.",
-          "Čuvajte svoju povratnu kartu.",
-          "Pitajte kapetana za vrijeme zadnjeg povratnog broda."
+          "Taksibrodovi voze svake 20–30 minuta tijekom ljeta.",
+          "Sačuvajte povratnu kartu na sigurnom.",
+          "Pitajte skipera za vrijeme zadnjeg povratnog broda."
         ]
       },
       "variants": {
@@ -2199,7 +2234,8 @@
             "de": "Hvar vom Wasser aus. Nach einem Spaziergang über die Pjaca und dem Besuch der Kathedrale und des Arsenals nutzen wir das beste Transportmittel der Insel: das Boot. Ein Taxiboot bringt uns zu den Pakleni-Inseln, wo wir den Nachmittag in kristallklarem Wasser verbringen. Die Rückreise bietet einen unvergleichlichen Blick auf die Skyline von Hvar Stadt.",
             "hu": "Hvar a víz felől. A Pjaca, a katedrális és az Arzenál megtekintése után igénybe vesszük a sziget legjobb közlekedési eszközét: a hajót. Egy taxihajó átvisz minket a Pakleni-szigetekre, ahol a délutánt kristálytiszta vízben töltjük. A visszaút során páratlan kilátás nyílik Hvar városának sziluettjére.",
             "ro": "Hvar de pe apă. După o plimbare prin Pjaca și vizitarea catedralei și a Arsenalului, folosim cel mai bun mijloc de transport de pe insulă: barca. Un taxi boat ne duce la insulele Pakleni, unde petrecem după-amiaza în ape cristaline. Călătoria de întoarcere oferă o vedere de neegalat asupra orizontului orașului Hvar.",
-            "en": "Hvar from the water. After a walk through Pjaca and visiting the cathedral and Arsenal, we use the island's best mode of transport: the boat. A taxi boat takes us to the Pakleni Islands, where we spend the afternoon in crystal-clear water. The return trip offers an unparalleled view of Hvar town's skyline."
+            "en": "Hvar from the water. After a walk through Pjaca and visiting the cathedral and Arsenal, we use the island's best mode of transport: the boat. A taxi boat takes us to the Pakleni Islands, where we spend the afternoon in crystal-clear water. The return trip offers an unparalleled view of Hvar town's skyline.",
+            "hr": "Hvar s mora. Nakon šetnje Pjacom i posjeta katedrali i Arsenalu koristimo najbolji prijevoz otoka: brod. Taksibrod nas vodi do Paklenih otoka, gdje provodimo popodne u kristalno čistoj vodi. Povratak nudi neusporediv pogled na siluetu grada Hvara."
           },
           "stops": [
             {
@@ -2208,7 +2244,8 @@
                 "de": "Zentraler Treffpunkt für alle Touren.",
                 "hu": "Központi találkozóhely minden túrához.",
                 "ro": "Punct de întâlnire central pentru toate tururile.",
-                "en": "Central meeting point for all island tours."
+                "en": "Central meeting point for all island tours.",
+                "hr": "Središnje mjesto okupljanja za sve otoke ture."
               }
             },
             {
@@ -2217,7 +2254,8 @@
                 "de": "Das Wahrzeichen der Stadt direkt am Platz.",
                 "hu": "A város jelképe közvetlenül a főtéren.",
                 "ro": "Simbolul orașului situat direct în piață.",
-                "en": "The landmark of the city directly on the square."
+                "en": "The landmark of the city directly on the square.",
+                "hr": "Gradovska znamenitost smještena izravno na trgu."
               }
             },
             {
@@ -2226,7 +2264,8 @@
                 "de": "Direkt neben dem Hafenbecken gelegen.",
                 "hu": "Közvetlenül a kikötő mellett található.",
                 "ro": "Situat direct lângă bazinul portului.",
-                "en": "Located directly next to the harbor basin."
+                "en": "Located directly next to the harbor basin.",
+                "hr": "Nalazi se neposredno pored lučice."
               }
             },
             {
@@ -2235,7 +2274,8 @@
                 "de": "Nehmen Sie ein Taxiboot vom Hauptkai.",
                 "hu": "Szálljon fel egy taxihajóra a fő mólónál.",
                 "ro": "Luați un taxi boat de la debarcaderul principal.",
-                "en": "Take a taxi boat from the main pier."
+                "en": "Take a taxi boat from the main pier.",
+                "hr": "Uzmite taksi-brod s glavnog pristaništa."
               }
             }
           ],
@@ -2341,6 +2381,11 @@
               "Taxi boats run every 20-30 minutes during summer.",
               "Keep your return ticket safe.",
               "Ask the skipper for the time of the last return boat."
+            ],
+            "hr": [
+              "Taksi-brodovi voze svakih 20–30 minuta tijekom ljeta.",
+              "Čuvajte svoju povratnu kartu na sigurnom.",
+              "Pitajte skipera za vrijeme zadnjeg povratnog broda."
             ]
           }
         },
@@ -2350,7 +2395,7 @@
             "hu": "Egy esős nap Hvaron jól kezelhető a helyi buszokkal és hajókkal. Délelőtt a Szent István teret és a katedrálist nézzük meg, kihasználva a fedett részeket. Délben az Arzenál nyújt védelmet. Délután hajóval megyünk a Pakleni-szigetekre, ahol a tengerre hulló eső különleges, megnyugtató hangulatot áraszt.",
             "ro": "O zi ploioasă în Hvar poate fi parcursă ușor cu autobuzele locale și bărcile. Dimineața vedem Piața Sf. Ștefan și catedrala. La prânz, Arsenalul ne oferă protecție culturală sub acoperiș. După-amiaza luăm barca spre insulele Pakleni, unde ploaia peste mare creează o atmosferă relaxantă.",
             "en": "A rainy day in Hvar is manageable using local buses and water taxis. Spend the morning at St. Stephen's Square and the cathedral, moving between dry spots. At noon, the Arsenal provides a perfect cultural shelter. In the afternoon, take a boat to the Pakleni Islands, where the rain on the water creates a unique, peaceful vibe.",
-            "hr": "Kišni dan na Hvaru je podnošljiv uz korištenje lokalnih autobusa i vodenih taksija. Provedite jutro na Trgu svetog Stjepana i u katedrali, krećući se između suhih mjesta. U podne, Arsenal nudi savršeno kulturno utočište. Poslijepodne idite brodom do Paklenih otoka, gdje kiša na vodi stvara jedinstvenu, mirnu atmosferu."
+            "hr": "Kišni dan u Hvaru je podnošljiv koristeći lokalne autobuse i vodene taksije. Provedite jutro na Trgu svetog Stjepana i u katedrali, premještajući se između suhog prostora. U podne, Arsenal pruža savršeno kulturno sklonište. Poslijepodne uhvatite brod do Paklenih otoka, gdje kiša na moru stvara jedinstvenu, mirnu atmosferu."
           },
           "stops": [
             {
@@ -2360,7 +2405,7 @@
                 "hu": "A buszmegálló mindössze néhány perc sétára van a tértől.",
                 "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
                 "en": "The bus station is just a few minutes' walk from the square.",
-                "hr": "Autobusni kolodvor udaljen je samo nekoliko minuta hoda od trga."
+                "hr": "Autobusni kolodvor je samo nekoliko minuta hoda od trga."
               }
             },
             {
@@ -2370,7 +2415,7 @@
                 "hu": "Egy rövid futás a térről, és máris szárazon van a templomban.",
                 "ro": "Un scurt sprint din piață vă duce la adăpost în catedrală.",
                 "en": "A quick sprint from the square will get you dry inside the church.",
-                "hr": "Brzi sprint s trga dovest će vas na suho u unutrašnjost crkve."
+                "hr": "Kratki sprint s trga dovest će vas suhe unutra u crkvu."
               }
             },
             {
@@ -2380,7 +2425,7 @@
                 "hu": "Közvetlenül a kikötőben van, vízitaxival is könnyen elérhető.",
                 "ro": "Situat direct în port, este ușor accesibil cu taxiul pe apă.",
                 "en": "Located right at the harbor, easily reached by water taxi.",
-                "hr": "Smješten točno u luci, lako dostupan vodenim taksijem."
+                "hr": "Nalazi se odmah u luci, lako dostupan vodenim taksijem."
               }
             },
             {
@@ -2390,7 +2435,7 @@
                 "hu": "Győződjön meg róla, hogy a hajónak van fedett utastere.",
                 "ro": "Asigurați-vă că barca are o cabină acoperită pentru pasageri.",
                 "en": "Make sure the boat you take has a covered cabin for passengers.",
-                "hr": "Pobrinite se da brod kojim idete ima natkrivenu kabinu za putnike."
+                "hr": "Provjerite ima li brod koji koristite natkriveni salon za putnike."
               }
             }
           ],
@@ -2424,11 +2469,11 @@
               "Some smaller boats to the Pakleni Islands may not run during heavy rain."
             ],
             "hr": [
-              "Provjerite rasporede trajekata; usluge se mogu otkazati tijekom olujnog vremena.",
+              "Provjerite raspored trajekata; linije se mogu otkazati tijekom olujnog vremena.",
               "Autobusi između Hvara i Starog Grada voze rjeđe nego ljeti.",
-              "Pričekajte svoj vodeni taksi pod zaklon arkada Arsenala.",
-              "Nosite neklizajuću obuću za siguran ulazak i izlazak iz brodova.",
-              "Neki manji brodovi za Paklene otoke možda neće voziti tijekom jake kiše."
+              "Pričekajte svoj vodeni taksi ispod lukova Arsenala.",
+              "Nosite neklizajuću obuću radi sigurnog ukrcaja i iskrcaja s brodova.",
+              "Neki manji brodovi do Paklenih otoka možda neće ploviti tijekom jake kiše."
             ]
           }
         },
@@ -2438,7 +2483,7 @@
             "hu": "Csendes téli nap Hvaron, nyugodt közlekedéssel. Délelőtt az üres Szent István teret és a katedrálist élvezzük. Délben sorban állás nélkül fedezzük fel a történelmi Arzenált. A délután egy frissítő hajóutat kínál a néma Pakleni-szigetekre, tökéletes a magányt kedvelő természetbarátoknak.",
             "ro": "O zi liniștită de iarnă în Hvar cu transport relaxat. Dimineața savurăm Piața Sf. Ștefan și catedrala goale. La prânz explorăm Arsenalul istoric fără cozi. După-amiaza oferă o plimbare cu barca spre insulele Pakleni silențioase, ideale pentru iubitorii de natură.",
             "en": "A peaceful winter day in Hvar with relaxed transit options. Spend the morning at the empty St. Stephen's Square and the cathedral. At noon, explore the historic Arsenal without any crowds. The afternoon offers a refreshing boat ride to the quiet Pakleni Islands, perfect for nature lovers seeking solitude.",
-            "hr": "Miran zimski dan na Hvaru uz opuštene mogućnosti prijevoza. Provedite jutro na praznom Trgu svetog Stjepana i u katedrali. U podne istražite povijesni Arsenal bez ikakvih gužvi. Poslijepodne nudi osvježavajuću vožnju brodom do mirnih Paklenih otoka, savršeno za ljubitelje prirode koji traže osamu."
+            "hr": "Mirni zimski dan na Hvaru s opuštenim opcijama prijevoza. Provedite jutro na praznom Trgu svetog Stjepana i u katedrali. U podne istražite povijesni Arsenal bez gužve. Poslijepodne nudi osvježavajuću vožnju brodom do tihih Paklenih otoka, savršeno za ljubitelje prirode koji traže samoću."
           },
           "stops": [
             {
@@ -2448,7 +2493,7 @@
                 "hu": "Télen naponta csak néhány buszjárat közlekedik.",
                 "ro": "Iarna există doar câteva curse de autobuz pe zi.",
                 "en": "There are only a few bus departures per day during the winter.",
-                "hr": "Zimi ima samo nekoliko polazaka autobusa dnevno."
+                "hr": "Zimi postoji samo nekoliko polazaka autobusa dnevno."
               }
             },
             {
@@ -2458,7 +2503,7 @@
                 "hu": "Ideális hely a csend és a szakrális művészet élvezetére.",
                 "ro": "Ideal pentru a savura liniștea și arta sacră în tihnă.",
                 "en": "Ideal for enjoying the silence and sacred art without interruption.",
-                "hr": "Idealno za uživanje u tišini i sakralnoj umjetnosti bez prekida."
+                "hr": "Idealno za uživanje u tišini i sakralnoj umjetnosti bez ometanja."
               }
             },
             {
@@ -2468,7 +2513,7 @@
                 "hu": "Csodálatos hely, hogy elmeneküljünk a hűvös téli szél elől.",
                 "ro": "Un loc minunat pentru a scăpa de briza rece de iarnă.",
                 "en": "A wonderful indoor site to escape the chilly winter breeze.",
-                "hr": "Prekrasno unutarnje mjesto za bijeg od prohladnog zimskog povjetarca."
+                "hr": "Prekrasno zatvoreno mjesto za izbjegavanje hladnog zimskog hladnog vjetra."
               }
             },
             {
@@ -2478,7 +2523,7 @@
                 "hu": "Télen csak kevés hajó jár; foglaljon előre vagy érdeklődjön.",
                 "ro": "Puține bărci circulă iarna; verificați disponibilitatea în port.",
                 "en": "Very few boats run in winter; check availability at the harbor early.",
-                "hr": "Zimi vozi vrlo malo brodova; rano provjerite dostupnost u luci."
+                "hr": "Vrlo malo brodova plovi zimi; provjerite dostupnost rano u luci."
               }
             }
           ],
@@ -2512,11 +2557,11 @@
               "Take advantage of the lack of crowds for perfect, clear photos."
             ],
             "hr": [
-              "Raspored autobusa je zimi znatno smanjen; planirajte pažljivo.",
+              "Raspored autobusa je znatno smanjen zimi; planirajte pažljivo.",
               "Katamarani za Split često voze samo jednom dnevno rano ujutro.",
-              "Vodene taksije do Paklenih otoka često treba pozvati telefonom.",
-              "Nosite vrlo toplu odjeću za sve izlete brodom na otvorenom moru.",
-              "Iskoristite nedostatak gužvi za savršene, jasne fotografije."
+              "Vodeni taksiji do Paklenih otoka često se trebaju naručiti telefonom.",
+              "Nosite vrlo toplu odjeću za bilo kakve vožnje brodom na otvorenom moru.",
+              "Iskoristite manjak gužve za savršene, jasne fotografije."
             ]
           }
         }
@@ -2538,19 +2583,22 @@
       "de": "Drei nuetzliche kroatische Woerter: Bok (bok, hallo), Hvala (chwa-la, danke), Racun molim (ra-tschun mo-lim, die Rechnung bitte).",
       "hu": "Harom hasznos horvat szo: Bok (bok, szia), Hvala (hvala, koszonom), Racun molim (racsun molim, a szamlat kerem).",
       "ro": "Trei cuvinte utile in croata: Bok (bok, salut), Hvala (hvala, multumesc), Racun molim (raciun molim, nota va rog).",
-      "en": "Three useful Croatian words: Bok (bohk, hello), Hvala (hva-la, thank you), Racun molim (RA-choon MO-lim, the bill please)."
+      "en": "Three useful Croatian words: Bok (bohk, hello), Hvala (hva-la, thank you), Racun molim (RA-choon MO-lim, the bill please).",
+      "hr": "Tri korisne hrvatske riječi: Bok (bohk, pozdrav), Hvala (hva-la, hvala), Račun molim (RA-choon MO-lim, račun molim)."
     },
     "best_time_to_visit": {
       "de": "Ende Mai bis Juni und September sind perfekt (Lavendel-Bluete im Juni, ruhigere Strande). Juli und August sind teuer und ueberfuellt mit Yachten.",
       "hu": "Majus vege es junius, valamint szeptember tokeletes (juniusban levendulavirag, csendesebb strandok). Julius es augusztus draga es jachtokkal zsufolt.",
       "ro": "Sfarsitul lui mai pana in iunie si septembrie sunt perfecte (lavanda inflorita in iunie, plaje mai linistite). Iulie si august sunt scumpe si aglomerate de iahturi.",
-      "en": "Late May to June and September are perfect (lavender bloom in June, quieter beaches). July and August get pricey and packed with yachts."
+      "en": "Late May to June and September are perfect (lavender bloom in June, quieter beaches). July and August get pricey and packed with yachts.",
+      "hr": "Kraj svibnja do lipnja i rujan su savršeni (lavanda cvjeta u lipnju, plaže su mirnije). Srpanj i kolovoz postaju skupi i puni jahti."
     },
     "neighborhood_warnings": {
       "de": "Hvar-Stadt ist sicher, aber das Nachtleben rund um Pjaca/Carpe Diem zieht Pickpockets an. Vorsicht auf den polierten Steinplatten bei Regen.",
       "hu": "Hvar varos biztonsagos, de a Pjaca/Carpe Diem korul az ejszakai elet zsebtolvajokat vonz. Csuszos kovekre figyelj esoben.",
       "ro": "Orasul Hvar este sigur, dar viata de noapte din jurul Pjaca/Carpe Diem atrage hoti de buzunare. Atentie la pietrele lustruite cand ploua.",
-      "en": "Hvar Town is safe, but the nightlife strip around Pjaca/Carpe Diem attracts pickpockets. Watch for slippery polished stone when it rains."
+      "en": "Hvar Town is safe, but the nightlife strip around Pjaca/Carpe Diem attracts pickpockets. Watch for slippery polished stone when it rains.",
+      "hr": "Grad Hvar je siguran, ali noćni život oko Pjace/Carpe Diem privlači džeparoše. Pazite na klizavi ispolirani kamen kad pada kiša."
     }
   }
 }

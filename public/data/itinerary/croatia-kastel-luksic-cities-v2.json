@@ -32,7 +32,7 @@
             "hu": "Élvezze a reggeli kávét a halászhajók látványával.",
             "ro": "Savurați cafeaua de dimineață cu vedere la bărcile de pescuit.",
             "en": "Enjoy morning coffee with a view of the fishing boats.",
-            "hr": "Uživajte u jutarnjoj kavi s pogledom na ribarske brodove."
+            "hr": "Uživajte u jutarnjoj kavi s pogledom na ribarske brodice."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Ismerje meg Miljenko és Dobrila tragikus szerelmi történetét.",
             "ro": "Aflați povestea tragică de dragoste a lui Miljenko și Dobrila.",
             "en": "Hear the tragic love story of Miljenko and Dobrila.",
-            "hr": "Poslušajte tragičnu ljubavnu priču o Miljenku i Dobrili."
+            "hr": "Slušajte tragičnu ljubavnu priču o Miljenku i Dobrili."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Árnyas hely egy pihentető tengerparti sétához.",
             "ro": "Un loc umbros pentru o plimbare relaxantă la malul mării.",
             "en": "A shaded spot for a relaxing seaside stroll.",
-            "hr": "Sjenovito mjesto za opuštajuću šetnju uz more."
+            "hr": "Zasjenjeno mjesto za opuštajuću šetnju uz more."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Kristálytiszta víz és lassan mélyülő kavicsos part.",
             "ro": "Apă de cristal și o plajă cu pietriș fin.",
             "en": "Crystal clear water and a shallow pebble beach.",
-            "hr": "Kristalno čista voda i plitka šljunčana plaža."
+            "hr": "Kristalno čisto more i plitka šljunčana plaža."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "Nézze meg az egyedülálló iskolakertet 1400 növényfajjal.",
             "ro": "Vizitați această grădină școlară unică cu peste 1400 de specii.",
             "en": "Visit this unique school garden with over 1400 plant species.",
-            "hr": "Posjetite ovaj jedinstveni školski vrt s preko 1400 biljnih vrsta."
+            "hr": "Posjetite jedinstveni školski vrt s više od 1400 biljnih vrsta."
           }
         },
         {
@@ -174,7 +174,7 @@
         "hu": "Kezdje a napot Kaštel Lukšić napsütötte partján. A barokk templom megtekintése után fedezze fel a Vitturi-kastélyt, amely Dalmácia leghíresebb szerelmi történetét őrzi. Ebédre kóstoljon mediterrán finomságokat egy hagyományos konobában. A délután az Ostrog iskola díjnyertes botanikus kertjének és a kristálytiszta tengerparti pihenésnek szentelt helyi élményeket kínál.",
         "ro": "Începeți ziua pe malul însorit al localității Kaštel Lukšić. După o vizită la biserica barocă, explorați Castelul Vitturi, care păstrează cea mai faimoasă poveste de dragoste din Dalmația. La prânz, savurați delicii mediteraneene într-o konoba tradițională. După-amiaza este dedicată moștenirii botanice în grădina școlii Ostrog și unei pauze relaxante lângă marea de azur.",
         "en": "Start your day on the sunny Riva of Kaštel Lukšić. After visiting the baroque church, explore the magnificent Vitturi Castle, home to Dalmatia's most famous love story. Enjoy Mediterranean delicacies in a traditional konoba for lunch. The afternoon is dedicated to Dalmatian botanical heritage in the award-winning Ostrog garden and a relaxed break by the crystal-blue sea.",
-        "hr": "Započnite dan na sunčanoj rivi Kaštel Lukšića. Nakon posjeta baroknoj crkvi, istražite veličanstveni dvorac Vitturi, dom najpoznatije dalmatinske ljubavne priče. Za ručak uživajte u mediteranskim delicijama u tradicionalnoj konobi. Poslijepodne je posvećeno dalmatinskoj botaničkoj baštini u nagrađivanom vrtu Ostrog i opuštenom odmoru uz kristalno plavo more."
+        "hr": "Započnite dan na sunčanoj Rivi Kaštel Lukšića. Nakon posjeta baroknoj crkvi istražite veličanstveni dvorac Vitturi, dom najpoznatije dalmatinske ljubavne priče. Za ručak uživajte u mediteranskim delicijama u tradicionalnoj konobi. Poslijepodne je posvećeno dalmatinskom botaničkom naslijeđu u nagrađivanom vrtu Ostrog i odmoru uz kristalno plavo more."
       },
       "gastro_picks": {
         "de": [
@@ -299,8 +299,8 @@
           "The Riva is most atmospheric during sunset."
         ],
         "hr": [
-          "Nosite udobnu obuću za popločane ulice.",
-          "Posjetite muzej u dvorcu za uvid u lokalnu povijest.",
+          "Nosite udobnu obuću zbog kaldrmiranih ulica.",
+          "Posjetite dvorac i muzej za uvid u lokalnu povijest.",
           "Riva je najatmosferičnija tijekom zalaska sunca."
         ]
       },
@@ -311,7 +311,7 @@
             "hu": "A borús reggel a Riva mentén friss tengeri illatot hoz, az eső elől a barokk Keresztelő Szent János-templom nyújt menedéket. A délutánt a Vitturi-kastély múzeumában töltjük, szárazon élvezve a történelmet.\n\nEgy hangulatos konobában elköltött ebéd után ernyővel járjuk be a kastélyparkot és a Šoulavy strandot, ahol a viharos tenger látványa lenyűgöző.\n\nAz Ostrog iskola botanikai kertjének sűrű lombozata alatt az esőben is kellemes a séta, az estét pedig a mólón zárjuk, figyelve a felhők közül felbukkanó fényeket.",
             "ro": "O dimineață ploioasă pe Riva aduce un miros intens de sare; ne refugiem rapid în biserica barocă Sf. Ioan Botezătorul. Petrecem prânzul explorând muzeul din Castelul Vitturi, la adăpost de intemperii.\n\nDupă o masă caldă la o konoba, ne plimbăm cu umbrela prin parcul castelului spre plajă, unde marea agitată oferă un spectacol dramatic.\n\nGrădina Botanică a școlii Ostrog oferă protecție sub coroanele dese ale arborilor, iar seara se încheie pe chei, privind reflexiile luminii în apa mării sub cerul înnorat.",
             "en": "A rainy morning on the Riva is refreshing with the salty air; we take early cover in the Baroque St. John the Baptist Church. The midday is spent inside the sturdy walls of Vitturi Castle, exploring local history.\n\nAfter a long lunch in a cozy konoba, we walk with umbrellas through the park to the beach to see the dramatic waves. \n\nThe botanical garden's dense canopy provides a natural shelter for an afternoon stroll, ending the day at the pier watching the moody clouds over the Adriatic.",
-            "hr": "Kišno jutro na rivi osvježava slanim zrakom; rano se sklanjamo u baroknu crkvu sv. Ivana Krstitelja. Podne provodimo unutar čvrstih zidina dvorca Vitturi, istražujući lokalnu povijest.\n\nNakon dugog ručka u ugodnoj konobi, šećemo s kišobranima kroz park do plaže kako bismo vidjeli dramatične valove. \n\nGusta krošnja botaničkog vrta pruža prirodno utočište za poslijepodnevnu šetnju, završavajući dan na mulu promatrajući ćudljive oblake nad Jadranom."
+            "hr": "Kišno jutro na Rivi osvježava slanim zrakom; sklanjamo se rano u baroknu crkvu Sv. Ivana Krstitelja. U podne provodimo vrijeme unutar čvrstih zidova dvorca Vitturi, istražujući lokalnu povijest.\n\nNakon dugog ručka u ugodnoj konobi hodamo s kišobranima kroz park do plaže da vidimo dramatične valove.\n\nGusti krošnji botaničkog vrta pružaju prirodno sklonište za poslijepodnevnu šetnju, a dan završavamo na molu promatrajući tmurne oblake nad Jadranom."
           },
           "stops": [
             {
@@ -321,7 +321,7 @@
                 "hu": "Viselj csúszásmentes cipőt, az öreg kövek az esőben nagyon csúszhatnak.",
                 "ro": "Purtați încălțăminte antiderapantă, pietrele de pe Riva pot fi alunecoase.",
                 "en": "Wear non-slip shoes as the stone pavement can be slippery when wet.",
-                "hr": "Nosite obuću koja se ne kliže jer kameni pločnik može biti klizav kad je mokar."
+                "hr": "Nosite obuću s protukliznom đonom jer kamenoviti kolnik može biti klizav kad je mokar."
               }
             },
             {
@@ -331,7 +331,7 @@
                 "hu": "Tökéletes hely az eső kivárására, miközben a barokk oltárokat csodáljuk.",
                 "ro": "Locul ideal pentru a aștepta trecerea ploii admirând arta barocă.",
                 "en": "Perfect spot to stay dry while admiring the impressive Baroque interior.",
-                "hr": "Savršeno mjesto da ostanete suhi dok se divite impresivnoj baroknoj unutrašnjosti."
+                "hr": "Savršeno mjesto da ostanete suhi dok divite impresivnom baroknom interijeru."
               }
             },
             {
@@ -341,7 +341,7 @@
                 "hu": "A várkastélyban működő múzeum a legjobb esőhelyszín a környéken.",
                 "ro": "Muzeul orașului din interior este cea mai bună alternativă pe timp de ploaie.",
                 "en": "The town museum inside is the best indoor activity during a downpour.",
-                "hr": "Gradski muzej unutra je najbolja aktivnost u zatvorenom tijekom pljuska."
+                "hr": "Gradski muzej unutar mjesta najbolja je unutarnja aktivnost tijekom pljuska."
               }
             },
             {
@@ -351,7 +351,7 @@
                 "hu": "Válassz kandallós konobát a maximális kényelem és melegség érdekében.",
                 "ro": "Alegeți o konoba cu șemineu pentru un plus de confort și căldură.",
                 "en": "Choose a konoba with a fireplace for extra coziness while it rains.",
-                "hr": "Odaberite konobu s kaminom za dodatnu udobnost dok pada kiša."
+                "hr": "Odaberite konobu s kaminom za dodatnu ugodu dok pada kiša."
               }
             },
             {
@@ -361,7 +361,7 @@
                 "hu": "A hatalmas fák alatt is szükség lesz az esernyőre a sétához.",
                 "ro": "O umbrelă este indispensabilă chiar și sub arborii înalți.",
                 "en": "An umbrella is essential for a stroll even under the tall trees.",
-                "hr": "Kišobran je neophodan za šetnju čak i ispod visokih stabala."
+                "hr": "Kišobran je neizostavan za šetnju čak i pod visokim stablima."
               }
             },
             {
@@ -381,7 +381,7 @@
                 "hu": "A sűrű lombozat szinte természetes esernyőként véd a gyenge esőtől.",
                 "ro": "Coroanele dese ale copacilor acționează ca o umbrelă naturală.",
                 "en": "The dense tree canopy acts as a natural umbrella during light rain.",
-                "hr": "Gusta krošnja drveća djeluje kao prirodni kišobran tijekom lagane kiše."
+                "hr": "Gusta krošnja drveća djeluje kao prirodni kišobran za slabije padaline."
               }
             },
             {
@@ -391,7 +391,7 @@
                 "hu": "Esőben gyakran drámai fények jelennek meg az öböl felett szürkületkor.",
                 "ro": "Ploaia creează adesea jocuri de lumină dramatice deasupra golfului.",
                 "en": "Rainy evenings often produce dramatic light displays over the bay.",
-                "hr": "Kišne večeri često stvaraju dramatične svjetlosne prizore nad zaljevom."
+                "hr": "Kišna večer često stvara dramatične svjetlosne efekte nad zaljevom."
               }
             }
           ],
@@ -421,10 +421,10 @@
               "Use the breaks in rain for quick transitions between the historic sites."
             ],
             "hr": [
-              "Ponesite čvrst kišobran jer obalni vjetrovi mogu biti prilično jaki.",
-              "Muzej u dvorcu može biti zatvoren ponedjeljkom; provjerite raspored unaprijed.",
-              "Potražite kafiće sa staklenim stijenama na rivi kako biste uživali u pogledu na more dok ste na suhom.",
-              "Koristite stanke u kiši za brze prijelaze između povijesnih znamenitosti."
+              "Ponesite čvrst kišobran jer obalni vjetrovi mogu biti prilično snažni.",
+              "Muzej dvorca može biti zatvoren ponedjeljkom; provjerite raspored unaprijed.",
+              "Potražite kafiće sa staklenim zidovima na Rivi da uživate u pogledu na more i ostanete suhi.",
+              "Iskoristite prestanke u kiši za brze prijelaze između povijesnih lokacija."
             ]
           }
         },
@@ -434,7 +434,7 @@
             "hu": "A téli reggel Lukšićban enyhe, de a bóra szele hűvös lehet. A kihalt Riva és a csendes Szent János-templom igazi nyugalmat áraszt a nyári tömeg után.\n\nA Vitturi-kastély falai között kellemes az idő a kiállítások megtekintéséhez. Egy kiadós ebéd után a télen is zöldellő parkban és a parton folytatjuk a sétát.\n\nA Šoulavy strandnál élvezzük az alacsonyan járó nap sugarait, majd a botanikus kertben zárunk. A korai, 16:30 körüli naplemente aranyba vonja az egész öblöt.",
             "ro": "Dimineața de iarnă în Lukšić este blândă, dar vântul Bura poate fi rece. Ne bucurăm de Riva pustie și de liniștea din biserica Sf. Ioan, departe de aglomerația verii.\n\nCastelul Vitturi oferă un adăpost plăcut pentru a explora istoria locală. După un prânz copios, ne plimbăm prin parcul care rămâne verde și în timpul iernii.\n\nPe plaja Šoulavy admirăm soarele palid de iarnă, apoi încheiem ziua la grădina botanică. Apusul timpuriu de la ora 16:30 scaldă cheiul într-o lumină aurie superbă.",
             "en": "Winter mornings in Lukšić are mild, though the Bura wind can be chilly. Enjoy the quiet Riva and the peaceful St. John's Church without the summer crowds.\n\nVitturi Castle provides a comfortable setting to delve into local lore. After a hearty meal, walk through the evergreen park and along the pebble beach.\n\nAt Šoulavy beach, catch the soft winter sun before visiting the botanical garden. The early sunset around 16:30 paints the pier in brilliant gold hues.",
-            "hr": "Zimska jutra u Lukšiću su blaga, iako bura može biti hladna. Uživajte u tihoj rivi i mirnoj crkvi sv. Ivana bez ljetnih gužvi.\n\nDvorac Vitturi pruža ugodno okruženje za uranjanje u lokalne legende. Nakon krepkog obroka, prošećite kroz zimzeleni park i uz šljunčanu plažu.\n\nNa plaži Šoulavy uhvatite blago zimsko sunce prije posjeta botaničkom vrtu. Rani zalazak sunca oko 16:30 boji mul u briljantne zlatne nijanse."
+            "hr": "Zimska jutra u Lukšiću su blaga, iako bura može biti hladnija. Uživajte u mirnoj Rivi i u srcu Sv. Ivana bez ljetnih gužvi.\n\nDvorac Vitturi pruža ugodno okruženje za uranjanje u lokalne legende. Nakon obilnog obroka prošećite preko uvijekzelenog parka i uz šljunčanu plažu.\n\nNa plaži Šoulavy ulovite blago zimsko sunce prije posjeta botaničkom vrtu. Rana večer oko 16:30 oboji mol u sjajne zlatne tonove."
           },
           "stops": [
             {
@@ -444,7 +444,7 @@
                 "hu": "Szélálló dzseki kötelező, ha a hegyek felől fúj a hűvös bóra.",
                 "ro": "O jachetă rezistentă la vânt este necesară dacă suflă vântul Bura.",
                 "en": "A windproof jacket is essential if the Bura wind blows from the mountains.",
-                "hr": "Vjetrovka je neophodna ako bura puše s planina."
+                "hr": "Vjetrovka otporna na vjetar je neophodna ako bura puše s planina."
               }
             },
             {
@@ -464,7 +464,7 @@
                 "hu": "Használd ki a téli nyugalmat a múzeumlátogatáshoz sorban állás nélkül.",
                 "ro": "Profitați de lunile liniștite de iarnă pentru a vizita muzeul fără cozi.",
                 "en": "Take advantage of the quiet winter months to visit the museum without crowds.",
-                "hr": "Iskoristite mirne zimske mjesece za posjet muzeju bez gužvi."
+                "hr": "Iskoristite tihe zimske mjesece za posjet muzeju bez gužvi."
               }
             },
             {
@@ -474,7 +474,7 @@
                 "hu": "Kóstold meg a tipikus téli ételeket, mint a pašticada vagy a sűrű levesek.",
                 "ro": "Gustați mâncăruri tradiționale de iarnă, cum ar fi pašticada sau tocaniturile.",
                 "en": "Try traditional winter dishes like pašticada or hearty stews.",
-                "hr": "Probajte tradicionalna zimska jela poput pašticade ili krepkih variva."
+                "hr": "Probajte tradicionalna zimska jela poput pašticade ili bogatih variva."
               }
             },
             {
@@ -494,7 +494,7 @@
                 "hu": "Tökéletes hely egy frissítő sétához a tiszta téli levegőn.",
                 "ro": "Locul perfect pentru o plimbare revigorantă în aerul curat de iarnă.",
                 "en": "A perfect spot for a brisk walk in the clear winter air.",
-                "hr": "Savršeno mjesto za brzu šetnju na čistom zimskom zraku."
+                "hr": "Savršeno mjesto za živahnu šetnju u čistom zimskom zraku."
               }
             },
             {
@@ -504,7 +504,7 @@
                 "hu": "Az olajfák és kaktuszok télen is látványosak a kertben.",
                 "ro": "Măslinii și cactușii sunt spectaculoși în grădină chiar și iarna.",
                 "en": "The olive trees and cacti are well worth seeing even in winter.",
-                "hr": "Masline i kaktusi itekako su vrijedni viđenja čak i zimi."
+                "hr": "Masline i kaktusi vrijedni su pogleda i zimi."
               }
             },
             {
@@ -514,7 +514,7 @@
                 "hu": "Figyelem: télen a nap már 16:30 körül lenyugszik az öbölben.",
                 "ro": "Atenție: soarele apune deja în jurul orei 16:30 pe timpul iernii.",
                 "en": "Note: The sun sets early in winter, usually around 16:30.",
-                "hr": "Napomena: Sunce zimi rano zalazi, obično oko 16:30."
+                "hr": "Napomena: Sunce zalazi rano zimi, obično oko 16:30."
               }
             }
           ],
@@ -544,10 +544,10 @@
               "Winter sunsets are often more vibrant in color than summer ones."
             ],
             "hr": [
-              "Odjenite se slojevito jer sunce u podne još uvijek može biti toplo.",
-              "Mnogi barovi na plaži su zatvoreni zimi; koristite kafiće u centru mjesta.",
-              "Zrak je zimi vrlo čist, savršen za daleke poglede prema Splitu.",
-              "Zimski zalasci sunca često su živopisnijih boja od ljetnih."
+              "Obucite se slojevito jer podnevo još može biti toplo.",
+              "Mnogi beach barovi zatvoreni su zimi; koristite kafiće u centru grada.",
+              "Zrak je vrlo čist zimi, savršen za vidike prema Splitu na daljinu.",
+              "Zimski zalasci često su intenzivniji u bojama nego ljetni."
             ]
           }
         }
@@ -577,7 +577,7 @@
             "hu": "Kerekezzen végig a hét Kaštela mentén a tengerparton.",
             "ro": "Pedalați de-a lungul celor șapte Kaštela pe malul mării.",
             "en": "Cycle along the seven Kaštelas by the sea.",
-            "hr": "Vozite bicikl uz sedam Kaštela uz more."
+            "hr": "Biciklirajte uz sedam Kaštela uz more."
           }
         },
         {
@@ -596,7 +596,7 @@
             "hu": "Parkolja le a kerékpárt a kastély főbejáratánál.",
             "ro": "Parcați bicicleta la intrarea principală a castelului.",
             "en": "Park your bike at the main castle entrance.",
-            "hr": "Parkirajte bicikl kod glavnog ulaza u dvorac."
+            "hr": "Parkirajte bicikl kod glavnog ulaza dvorca."
           }
         },
         {
@@ -615,7 +615,7 @@
             "hu": "Rövid megálló a történelmi barokk homlokzatnál.",
             "ro": "Scurtă oprire la fațada barocă istorică.",
             "en": "Short stop at the historic baroque facade.",
-            "hr": "Kratko zaustavljanje ispred povijesnog baroknog pročelja."
+            "hr": "Kratka pauza kod povijesne barokne fasade."
           }
         },
         {
@@ -634,7 +634,7 @@
             "hu": "Könnyű mediterrán étel aktív kerékpárosoknak.",
             "ro": "Mâncare mediteraneană ușoară pentru bicicliști activi.",
             "en": "Light Mediterranean fare for active cyclists.",
-            "hr": "Lagana mediteranska hrana za aktivne bicikliste."
+            "hr": "Lagana mediteranska hrana pogodna za aktivne bicikliste."
           }
         },
         {
@@ -653,7 +653,7 @@
             "hu": "Szép emelkedő Kaštel Lukšić zöldövezetébe.",
             "ro": "O urcare frumoasă spre zona verde din Kaštel Lukšić.",
             "en": "A nice climb into the green area of Kaštel Lukšić.",
-            "hr": "Lijep uspon u zelenu zonu Kaštel Lukšića."
+            "hr": "Lijepo uspon u zeleni prostor Kaštel Lukšića."
           }
         },
         {
@@ -672,7 +672,7 @@
             "hu": "Hűtse le magát a tengerben a tekerés után.",
             "ro": "Răcoriți-vă în mare după plimbare.",
             "en": "Cool down in the sea after your ride.",
-            "hr": "Rashladite se u moru nakon vožnje."
+            "hr": "Ohlađivanje u moru nakon vožnje."
           }
         },
         {
@@ -691,7 +691,7 @@
             "hu": "Pihentető befejezés a fák árnyékában.",
             "ro": "Final relaxant la umbra copacilor.",
             "en": "Relaxing finish in the shade of the trees.",
-            "hr": "Opuštajući završetak u hladu drveća."
+            "hr": "Opusten završetak u hladu drveća."
           }
         }
       ],
@@ -700,7 +700,7 @@
         "hu": "Fedezze fel a Kaštela partvidékét két keréken. Ez a túra összeköti a tengerparti történelmi erődöket a hátország zöld oázisaival. A lukšići Rivától az út a híres botanikus kertbe vezet, majd vissza a strandokhoz, amelyek tökéletesek egy frissítő csobbanáshoz.",
         "ro": "Descoperiți coasta Kaštela pe două roți. Acest tur combină fortărețele istorice de la malul mării cu oazele verzi din hinterland. De la faleza din Lukšić, drumul duce la faimoasa grădină botanică și înapoi la plaje, perfecte pentru o răcorire rapidă.",
         "en": "Discover the Kaštela coastline on two wheels. This tour connects the historic seaside fortresses with the green oases of the hinterland. From the Lukšić Riva, the path leads to the famous botanical garden and back to the beaches, perfect for a refreshing swim.",
-        "hr": "Otkrijte kaštelansku obalu na dva kotača. Ova tura povezuje povijesne morske utvrde sa zelenim oazama u zaleđu. Od lukšićke rive put vodi do poznatog botaničkog vrta i natrag do plaža, savršenih za osvježavajuće kupanje."
+        "hr": "Otkrijte obalu Kaštela na dva kotača. Ova tura povezuje povijesne obalne utvrde s zelenim oazama zaleđa. Iz Lukšićke Rive put vodi do poznatog botaničkog vrta i natrag do plaža, idealno za osvježavajući kupanje."
       },
       "gastro_picks": {
         "de": [
@@ -825,9 +825,9 @@
           "Lock your bike securely at the sights."
         ],
         "hr": [
-          "Koristite obalne šetnice, ali pazite na pješake.",
-          "Ponesite dovoljno vode jer na stazama ima malo hlada.",
-          "Sigurno zaključajte bicikl kod znamenitosti."
+          "Koristite šetnice uz more, ali pazite na pješake.",
+          "Ponesite dovoljno vode jer je malo hlada na stazama.",
+          "Zaključajte bicikl sigurno kod znamenitosti."
         ]
       },
       "variants": {
@@ -837,7 +837,7 @@
             "hu": "Az esőben való biciklizés óvatosságot igényel a parti úton, de különleges hangulatot áraszt. A Vitturi-kastélynál biztonságba helyezzük a gépeket, és bevetjük magunkat a múzeumba.\n\nEgy rövid tekerés után a templomnál pihenünk meg, majd a kikötőben melegszünk fel egy hosszú ebéd alatt. A botanikus kert sűrű fái délután jó védelmet nyújtanak.\n\nA szürke tengerparti látkép után a kastélyparkban zárjuk a túrát. A növények színei az esőben sokkal élénkebbnek és mélyebbnek tűnnek.",
             "ro": "Mersul pe bicicletă în ploaie necesită atenție pe drumul de coastă, dar oferă o atmosferă mistică. Oprim la Castelul Vitturi pentru a lăsa bicicletele la adăpost și a vizita muzeul.\n\nO scurtă plimbare până la biserică este revigorantă, apoi ne încălzim la un prânz lung în port. Grădina Botanică ne oferă adăpost după-amiaza sub ramurile sale dese.\n\nDupă o privire rapidă spre plaja gri, încheiem turul în parcul castelului. Culorile naturii par mult mai intense și profunde în timpul ploii.",
             "en": "Cycling in the rain requires caution on the coastal path but offers a unique, misty vibe. We park the bikes safely at Vitturi Castle and dive into the local history museum.\n\nA short ride to the church is refreshing; afterwards, we warm up with a long lunch by the harbor. The botanical garden's thick trees protect us from the heaviest drops in the afternoon.\n\nAfter a quick look at the grey sea, we finish the tour in the castle park. The colors of the foliage appear much more vivid and deep in the wet weather.",
-            "hr": "Vožnja bicikla po kiši zahtijeva oprez na obalnoj stazi, ali nudi jedinstvenu, maglovitu atmosferu. Bicikle sigurno parkiramo kod dvorca Vitturi i uranjamo u muzej lokalne povijesti.\n\nKratka vožnja do crkve je osvježavajuća; nakon toga se grijemo uz dugi ručak u luci. Gusta stabla botaničkog vrta štite nas od najjačih kapi poslijepodne.\n\nNakon brzog pogleda na sivo more, turu završavamo u perivoju dvorca. Boje lišća čine se mnogo živopisnijima i dubljima po mokrom vremenu."
+            "hr": "Vožnja biciklom po kiši zahtijeva oprez na obalnoj stazi, ali nudi jedinstvenu, maglovitu atmosferu. Sigurno parkiramo bicikle kod dvorca Vitturi i zaronimo u lokalni povijesni muzej.\n\nKratka vožnja do crkve osvježava; potom se ugrijemo dugim ručkom u luci. Gusta stabla botaničkog vrta štite nas od najjačih pljuskova poslijepodne.\n\nNakon brzog pogleda na sivo more, završavamo turu u dvorcu i parku. Boje krošnje izgledaju puno intenzivnije i dublje po mokrom vremenu."
           },
           "stops": [
             {
@@ -847,7 +847,7 @@
                 "hu": "Vigyázz a tócsákkal és a csúszós algásodással az útburkolaton.",
                 "ro": "Atenție la bălți și la porțiunile alunecoase de pe carosabil.",
                 "en": "Watch out for puddles and slippery algae patches on the path.",
-                "hr": "Pripazite na lokve i skliska mjesta s algama na stazi."
+                "hr": "Pazite na lokve i klizave naslage algi na stazi."
               }
             },
             {
@@ -857,7 +857,7 @@
                 "hu": "Biciklitárolókat a főbejárat közelében találsz.",
                 "ro": "Suporturile pentru biciclete se află lângă intrarea principală.",
                 "en": "Bike racks are located near the main entrance of the castle.",
-                "hr": "Stalci za bicikle nalaze se blizu glavnog ulaza u dvorac."
+                "hr": "Stojevi za bicikle nalaze se blizu glavnog ulaza dvorca."
               }
             },
             {
@@ -867,7 +867,7 @@
                 "hu": "Rövid megálló a ruházat igazítására és a barokk oltár megtekintésére.",
                 "ro": "O scurtă oprire pentru a vă aranja hainele și a vedea altarul.",
                 "en": "Short stop to adjust gear and admire the Baroque interior.",
-                "hr": "Kratko zaustavljanje za podešavanje opreme i divljenje baroknoj unutrašnjosti."
+                "hr": "Kratka pauza za podešavanje opreme i divljenje baroknom interijeru."
               }
             },
             {
@@ -877,7 +877,7 @@
                 "hu": "Keress olyan helyet, ahol rálátsz a lelakatolt biciklikre.",
                 "ro": "Căutați restaurante unde puteți supraveghea bicicletele.",
                 "en": "Look for eateries with secure bike parking within your line of sight.",
-                "hr": "Potražite restorane sa sigurnim parkingom za bicikle u vidokrugu."
+                "hr": "Potražite restorane s osiguranim parkingom za bicikle u vidnom polju."
               }
             },
             {
@@ -887,7 +887,7 @@
                 "hu": "A kert útjai esőben felázhatnak, tekerj óvatosan.",
                 "ro": "Potecile din grădină pot fi moi pe timp de ploaie.",
                 "en": "The paths in the garden can get a bit soft in the rain.",
-                "hr": "Staze u vrtu mogu postati malo mekane na kiši."
+                "hr": "Staze u vrtu mogu postati malo mekane zbog kiše."
               }
             },
             {
@@ -897,7 +897,7 @@
                 "hu": "Kerüld a közvetlen biciklizést a vizes aprókavicsos parton.",
                 "ro": "Evitați să pedalați direct pe pietrișul ud de pe plajă.",
                 "en": "Avoid cycling directly on the wet pebbles of the beach.",
-                "hr": "Izbjegavajte vožnju bicikla izravno po mokrom šljunku na plaži."
+                "hr": "Izbjegavajte vožnju po mokrom šljunku na plaži."
               }
             },
             {
@@ -907,7 +907,7 @@
                 "hu": "Jó alkalom egy záró fotóra a hatalmas, vizes fák alatt.",
                 "ro": "O bună ocazie pentru o fotografie finală sub copacii bătrâni.",
                 "en": "Great opportunity for a final photo under the ancient trees.",
-                "hr": "Odlična prilika za završnu fotografiju ispod starih stabala."
+                "hr": "Sjajna prilika za završnu fotografiju pod drevnim stablima."
               }
             }
           ],
@@ -937,10 +937,10 @@
               "Avoid riding on painted road markings; they become very slick."
             ],
             "hr": [
-              "Provjerite kočnice jer su manje učinkovite na mokrim obručima kotača.",
-              "Nosite svijetlu kišnu opremu kako biste bili vidljivi vozačima automobila.",
-              "Stražnji blatobran je neophodan kako biste izbjegli 'mokru prugu' na leđima.",
-              "Izbjegavajte vožnju po obojenim oznakama na cesti; postaju vrlo klizave."
+              "Provjerite kočnice jer su manje učinkovite na mokrim obručima.",
+              "Nosite svijetlu kišnu opremu da budete vidljivi vozačima automobila.",
+              "Stražnji blatobran je neophodan kako biste izbjegli 'mokrI trag' na leđima.",
+              "Izbjegavajte vožnju po obojenim prometnim oznakama; postaju vrlo skliske."
             ]
           }
         },
@@ -950,7 +950,7 @@
             "hu": "A téli reggeli biciklizés Dalmáciában a kellemes hőmérséklet miatt igazi élmény. A parti út szinte csak a miénk, ahogy a Vitturi-kastély felé gurulunk.\n\nA kulturális kitérő után a templom felé tekerve melegszünk be. A kikötői ebéd a téli napsütésben rendkívül pihentető. Délután a botanikus kertet fedezzük fel, amely télen is tartogat látnivalót.\n\nMielőtt 17 órakor besötétedik, végigtekerünk a parton. A kastélypark szélvédett sarkaiban zárjuk ezt a tökéletes téli kétkerekű kirándulást.",
             "ro": "Mersul pe bicicletă într-o dimineață de iarnă este o plăcere datorită temperaturilor blânde din Dalmația. Drumul de coastă este aproape pustiu în drum spre Castelul Vitturi.\n\nDupă pauza culturală, pedalatul spre biserică ne menține activi. Prânzul în port este foarte relaxant sub soarele palid. După-amiaza explorăm grădina botanică, plină de viață și iarna.\n\nÎnainte de lăsarea întunericului la ora 17, pedalăm pe lângă plajă. Parcul castelului, protejat de vânt, este finalul perfect pentru excursia noastră pe două roți.",
             "en": "Cycling on a winter morning is a treat thanks to Dalmatia's mild climate. The coastal road is nearly empty as we glide toward Vitturi Castle.\n\nAfter a dose of culture, the ride to the church keeps us warm. Lunch by the harbor is exceptionally peaceful in the winter sun. In the afternoon, we explore the botanical garden, which remains vibrant even now.\n\nBefore darkness falls at 17:00, we cycle back along the beach. The castle park offers a wind-sheltered spot to end our winter two-wheeled adventure.",
-            "hr": "Vožnja bicikla u zimsko jutro pravi je užitak zahvaljujući blagoj dalmatinskoj klimi. Obalna cesta je gotovo prazna dok klizimo prema dvorcu Vitturi.\n\nNakon doze kulture, vožnja do crkve nas grije. Ručak u luci izuzetno je miran na zimskom suncu. Poslijepodne istražujemo botanički vrt koji i sada ostaje živopisan.\n\nPrije nego što padne mrak u 17:00, vraćamo se biciklom uz plažu. Perivoj dvorca nudi mjesto zaštićeno od vjetra za završetak naše zimske avanture na dva kotača."
+            "hr": "Vožnja biciklom u zimsko jutro prava je poslastica zahvaljujući blagoj klimi Dalmacije. Obalna cesta je gotovo prazna dok klizimo prema dvorcu Vitturi.\n\nNakon doze kulture, vožnja do crkve nas održava toplima. Ručak u luci izuzetno je miran na zimskom suncu. Poslijepodne istražujemo botanički vrt, koji i dalje ostaje živopisan.\n\nPrije nego što padne mrak u 17:00, vraćamo se duž plaže. Dvorčev park nudi zaklonjeno mjesto za kraj naše zimske dvo-kotačne avanture."
           },
           "stops": [
             {
@@ -960,7 +960,7 @@
                 "hu": "Élvezd a szabad utat a nyári gyalogos tömeg nélkül.",
                 "ro": "Bucurați-vă de drumul liber, fără mulțimile de turiști din vară.",
                 "en": "Enjoy the clear path without the usual summer pedestrian crowds.",
-                "hr": "Uživajte u praznoj stazi bez uobičajenih ljetnih gužvi pješaka."
+                "hr": "Uživajte u čistim stazama bez uobičajenih ljetnih pješačkih gužvi."
               }
             },
             {
@@ -970,7 +970,7 @@
                 "hu": "A belső udvar szélvédett, ideális hely a biciklik leállítására.",
                 "ro": "Curtea interioară este ferită de vânt, ideală pentru parcare.",
                 "en": "The inner courtyard is sheltered from wind, perfect for a short break.",
-                "hr": "Unutarnje dvorište zaštićeno je od vjetra, savršeno za kratki odmor."
+                "hr": "Unutarnji trg je zaštićen od vjetra, savršen za kratki odmor."
               }
             },
             {
@@ -980,7 +980,7 @@
                 "hu": "Egy rövid megálló elég, hogy kifújd magad a hűvös szél után.",
                 "ro": "O scurtă oprire este suficientă pentru a vă odihni după vântul rece.",
                 "en": "A brief stop is enough to shake off the cool breeze from the ride.",
-                "hr": "Kratko zaustavljanje dovoljno je da otresete hladan povjetarac od vožnje."
+                "hr": "Kratka pauza dovoljna je da otresete hladan povjetarac s vožnje."
               }
             },
             {
@@ -990,7 +990,7 @@
                 "hu": "Keress napos asztalt, hogy feltöltődj a nap melegével.",
                 "ro": "Căutați un loc la soare pentru a vă încălzi în timpul mesei.",
                 "en": "Look for a table in the sun to soak up some warmth while you eat.",
-                "hr": "Potražite stol na suncu kako biste upili malo topline dok jedete."
+                "hr": "Potražite stol na suncu da upijete toplinu dok jedete."
               }
             },
             {
@@ -1000,7 +1000,7 @@
                 "hu": "Az utak szárazak, ideálisak egy kényelmes kerti körre.",
                 "ro": "Potecile sunt uscate, ideale pentru o tură relaxantă cu bicicleta.",
                 "en": "The paths are dry and perfect for a leisurely loop around the garden.",
-                "hr": "Staze su suhe i savršene za lagani krug po vrtu."
+                "hr": "Staze su suhe i idealne za opuštenu rutu oko vrta."
               }
             },
             {
@@ -1010,7 +1010,7 @@
                 "hu": "A tiszta fényekben remek fotókat készíthetsz a gépekről a víznél.",
                 "ro": "Lumina clară oferă ocazia unor fotografii superbe cu bicicletele.",
                 "en": "The crisp winter light is great for photos of your bikes by the sea.",
-                "hr": "Oštro zimsko svjetlo izvrsno je za fotografije vaših bicikala uz more."
+                "hr": "Hrapavo zimsko svjetlo izvrsno je za fotografije vaših bicikala kraj mora."
               }
             },
             {
@@ -1020,7 +1020,7 @@
                 "hu": "Használd ki az utolsó fényeket egy parkbéli tekeréshez.",
                 "ro": "Folosiți ultima lumină a zilei pentru o tură prin parc.",
                 "en": "Use the last bit of daylight for a quick loop through the park.",
-                "hr": "Iskoristite zadnje zrake svjetla za brzi krug kroz park."
+                "hr": "Iskoristite posljednje zrake dana za brzu turu parkom."
               }
             }
           ],
@@ -1050,10 +1050,10 @@
               "Lights are mandatory as it gets dark very early in winter."
             ],
             "hr": [
-              "Nosite tanke rukavice jer hladan vjetar može biti oštar tijekom vožnje.",
-              "Pratite sat; temperature brzo padaju nakon zalaska sunca.",
-              "Bura može uzrokovati jake udare; čvrsto držite upravljač.",
-              "Svjetla su obavezna jer zimi mrak pada vrlo rano."
+              "Nosite tanke rukavice jer hladni osjećaj vjetra može biti oštar tijekom vožnje.",
+              "Pratite vrijeme; temperature brzo padaju nakon zalaska sunca.",
+              "Bura može izazvati snažne nalete; čvrsto držite upravljač.",
+              "Svjetla su obavezna jer zimi brzo pada mrak."
             ]
           }
         }
@@ -1083,7 +1083,7 @@
             "hu": "Parkoljon a központban, és gyalog fedezze fel a Vitturi-kastélyt.",
             "ro": "Parcați central și explorați Castelul Vitturi la pas.",
             "en": "Park centrally and explore Vitturi Castle on foot.",
-            "hr": "Parkirajte u centru i istražite dvorac Vitturi pješice."
+            "hr": "Parkirajte centralno i istražite dvorac Vitturi pješice."
           }
         },
         {
@@ -1102,7 +1102,7 @@
             "hu": "Rövid séta a kastélytól a szomszédos parkba.",
             "ro": "O scurtă plimbare de la castel în parcul adiacent.",
             "en": "A short walk from the castle to the adjacent park.",
-            "hr": "Kratka šetnja od dvorca do susjednog perivoja."
+            "hr": "Kratka šetnja od dvorca do susjednog parka."
           }
         },
         {
@@ -1121,7 +1121,7 @@
             "hu": "A történelmi városközpont része, pár lépésre a kastélytól.",
             "ro": "Parte a centrului istoric, la câțiva pași distanță.",
             "en": "Part of the historic center, just steps away.",
-            "hr": "Dio povijesne jezgre, udaljen samo nekoliko koraka."
+            "hr": "Dio povijesnog centra, na samo nekoliko koraka."
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "hu": "Élvezze a dalmát specialitásokat közvetlenül a tengerparton.",
             "ro": "Savurați specialități dalmate chiar la malul mării.",
             "en": "Enjoy Dalmatian specialties right by the sea.",
-            "hr": "Uživajte u dalmatinskim specijalitetima tik uz more."
+            "hr": "Uživajte u dalmatinskim specijalitetima uz samo more."
           }
         },
         {
@@ -1159,7 +1159,7 @@
             "hu": "Rövid autózás az északi lakóövezetbe a botanikai ékszerdobozhoz.",
             "ro": "Scurtă călătorie spre zona de nord la bijuteria botanică.",
             "en": "Short drive north to this botanical gem.",
-            "hr": "Kratka vožnja na sjever do ovog botaničkog dragulja."
+            "hr": "Kratka vožnja sjevernije do ovog botaničkog dragulja."
           }
         },
         {
@@ -1178,7 +1178,7 @@
             "hu": "Hajtson a strand melletti parkolóhoz a pihentető délutánért.",
             "ro": "Conduceți până la parcarea de lângă plajă pentru o după-amiază relaxantă.",
             "en": "Drive to the beach parking for a relaxed afternoon.",
-            "hr": "Odvezite se do parkinga na plaži za opušteno poslijepodne."
+            "hr": "Vozite do parkirališta na plaži za opušteno poslijepodne."
           }
         },
         {
@@ -1197,7 +1197,7 @@
             "hu": "Panorámakilátás a Kaštela-öbölre távozás előtt.",
             "ro": "Vedere panoramică asupra golfului Kaštela înainte de plecare.",
             "en": "Panoramic view of the Kaštela Bay before departure.",
-            "hr": "Panoramski pogled na Kaštelanski zaljev prije odlaska."
+            "hr": "Panoramski pogled na Kaštelanski zaljev prije polaska."
           }
         }
       ],
@@ -1206,7 +1206,7 @@
         "hu": "A Kaštel Lukšić-i autós túra lehetővé teszi a történelmi örökség és a rejtett botanikus kertek kényelmes felfedezését. Kezdje a központban a Vitturi-kastéllyal, merüljön el a helyi történelemben, majd autózzon el a buja kertekhez és strandokhoz, amelyek meghatározzák e dalmát település karakterét.",
         "ro": "Turul cu mașina prin Kaštel Lukšić vă permite să explorați confortabil atât moștenirea istorică, cât și grădinile botanice ascunse. Începeți în centru cu Castelul Vitturi, pătrundeți în istoria locală și apoi conduceți spre grădinile luxuriante și plajele care definesc caracterul acestei localități dalmate.",
         "en": "A car tour of Kaštel Lukšić allows you to comfortably explore both the historic heritage and hidden botanical gardens. Start in the center with Vitturi Castle, immerse yourself in local history, then drive to the lush gardens and beaches that define the character of this Dalmatian town.",
-        "hr": "Tura automobilom po Kaštel Lukšiću omogućuje vam da udobno istražite i povijesnu baštinu i skrivene botaničke vrtove. Započnite u centru kod dvorca Vitturi, uronite u lokalnu povijest, a zatim se odvezite do bujnih vrtova i plaža koje definiraju karakter ovog dalmatinskog mjesta."
+        "hr": "Automobilska tura po Kaštel Lukšiću omogućuje vam udobno istraživanje povijesne baštine i skrivenih botaničkih vrtova. Počnite u centru s dvorcem Vitturi, uronite u lokalnu povijest, a zatim se vozite do bujnih vrtova i plaža koje definiraju karakter ovog dalmatinskog mjesta."
       },
       "gastro_picks": {
         "de": [
@@ -1331,9 +1331,9 @@
           "Watch out for one-way streets near the Riva."
         ],
         "hr": [
-          "Parkirna mjesta u centru su ograničena ljeti; dođite rano.",
-          "Magistralna cesta brzo povezuje sva Kaštela.",
-          "Pripazite na jednosmjerne ulice u blizini rive."
+          "Parkirna mjesta su ograničena u centru tijekom ljeta; dođite rano.",
+          "Magistrala povezuje sva Kaštela brzo.",
+          "Pazite na jednosmjerne ulice u blizini Rive."
         ]
       },
       "variants": {
@@ -1343,7 +1343,7 @@
             "hu": "Autóval az esős nap Lukšićban teljesen gondtalan. Közvetlenül az óvárosnál parkolunk, és a délelőttöt szárazon töltjük a Vitturi-kastélyban.\n\nA rövid gyalogutak a parkhoz és a templomhoz vezetnek, majd autóval ugrunk el a Riva menti ebédhez. Délután a botanikus kertet látogatjuk meg, ami kocsival könnyen megközelíthető.\n\nA napot a kilátópontnál zárjuk, ahonnan esőben is lenyűgöző látvány nyílik a felhős öbölre és a viharos tengerre.",
             "ro": "Cu mașina, o zi ploioasă în Lukšić este lipsită de griji. Parcăm chiar lângă centrul vechi și petrecem dimineața la adăpost în Castelul Vitturi.\n\nScurte plimbări ne duc la parcul castelului și la biserică, apoi folosim mașina pentru a merge la prânz pe Riva. După-amiaza vizităm grădina botanică, ușor accesibilă cu autoturismul.\n\nLa final, urcăm cu mașina la punctul de belvedere. De acolo, chiar și pe ploaie, priveliștea golfului înnorat este spectaculoasă.",
             "en": "A rainy day in Lukšić is easy to handle by car. We park right by the old town cluster and spend the morning comfortably dry inside Vitturi Castle.\n\nShort walks take us to the park and the church before we drive to the Riva for lunch. In the afternoon, the botanical garden is just a quick hop away by vehicle.\n\nWe wrap up the day at the viewpoint. Even in the rain, the elevated vista of the moody bay and the churning sea is spectacular.",
-            "hr": "Kišni dan u Lukšiću lako je svladati automobilom. Parkiramo točno uz staru jezgru i provodimo jutro na suhom unutar dvorca Vitturi.\n\nKratke šetnje vode nas do parka i crkve prije nego što se odvezemo do rive na ručak. Poslijepodne, botanički vrt je udaljen samo kratku vožnju vozilom.\n\nDan završavamo na vidikovcu. Čak i na kiši, povišeni pogled na ćudljivi zaljev i uzburkano more je spektakularan."
+            "hr": "Kišni dan u Lukšiću lako se riješi automobilom. Parkiramo odmah kraj klastera starog grada i jutro provodimo udobno suhi unutar dvorca Vitturi.\n\nKratke šetnje vode nas do parka i crkve prije nego što vozimo do Rive na ručak. Poslijepodne je botanički vrt na dohvat ruke automobilom.\n\nZavršavamo dan na vidikovcu. Čak i po kiši, povišeni pogled na tmurni zaljev i razbjesnelo more je spektakularan."
           },
           "stops": [
             {
@@ -1353,7 +1353,7 @@
                 "hu": "Parkolj a kastélytól közvetlenül északra található nagy parkolóban.",
                 "ro": "Parcați în parcarea mare situată imediat la nord de castel.",
                 "en": "Park in the large parking lot located just north of the castle.",
-                "hr": "Parkirajte na velikom parkiralištu koje se nalazi sjeverno od dvorca."
+                "hr": "Parkirajte na velikom parkiralištu smještenom odmah sjeverno od dvorca."
               }
             },
             {
@@ -1363,7 +1363,7 @@
                 "hu": "Rövid séta a parkolótól, ideális az esőszünetek kihasználására.",
                 "ro": "Scurtă plimbare din parcare; ideal între reprizele de ploaie.",
                 "en": "Short walk from the car park; ideal for using gaps between rain showers.",
-                "hr": "Kratka šetnja od parkirališta; idealno za korištenje stanki između pljuskova."
+                "hr": "Kratka šetnja od parkirališta; idealno za iskorištavanje pauza između pljuskova."
               }
             },
             {
@@ -1373,7 +1373,7 @@
                 "hu": "Közvetlenül a templom előtt korlátozott a megállási lehetőség.",
                 "ro": "Există locuri de oprire limitate chiar în fața bisericii.",
                 "en": "There are limited stopping spots directly in front of the church.",
-                "hr": "Ispred same crkve postoji ograničen broj mjesta za zaustavljanje."
+                "hr": "Ispred crkve ima ograničen broj mjesta za zaustavljanje."
               }
             },
             {
@@ -1383,7 +1383,7 @@
                 "hu": "Használd a Riva menti parti úton található parkolóhelyeket.",
                 "ro": "Folosiți locurile de parcare de-a lungul drumului de coastă de pe Riva.",
                 "en": "Use the parking spots along the coastal road by the Riva.",
-                "hr": "Koristite parkirna mjesta duž obalne ceste uz rivu."
+                "hr": "Iskoristite mjesta za parkiranje uz obalnu cestu kraj Rive."
               }
             },
             {
@@ -1403,7 +1403,7 @@
                 "hu": "A strand melletti parkoló esőben általában teljesen üres.",
                 "ro": "Parcarea de la plajă este de obicei goală pe timp de ploaie.",
                 "en": "The beach parking lot is usually empty when it rains.",
-                "hr": "Parking na plaži obično je prazan kad pada kiša."
+                "hr": "Parkiralište na plaži obično je prazno kad pada kiša."
               }
             },
             {
@@ -1413,7 +1413,7 @@
                 "hu": "Heves esőben maradj az autóban, és onnan élvezd a kilátást.",
                 "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați vederea.",
                 "en": "During heavy rain, stay in the car and enjoy the view from inside.",
-                "hr": "Tijekom jake kiše ostanite u automobilu i uživajte u pogledu iznutra."
+                "hr": "Tijekom jakog pljuska ostanite u autu i uživajte u pogledu iznutra."
               }
             }
           ],
@@ -1443,10 +1443,10 @@
               "Do not leave valuables visible in the car, even in rainy weather."
             ],
             "hr": [
-              "Izbjegavajte parkiranje ispod nestabilnih stabala ako postoji upozorenje na oluju.",
-              "Vidljivost na obalnoj cesti može biti smanjena tijekom jake kiše.",
-              "Koristite aplikacije za parkiranje kako biste pojednostavili plaćanje bez stajanja na kiši.",
-              "Ne ostavljajte vrijedne stvari na vidljivom mjestu u automobilu, čak ni po kišnom vremenu."
+              "Izbjegavajte parkiranje pod nestabilnim stablima ako je izdano upozorenje na oluju.",
+              "Vidljivost na obalnoj cesti može se smanjiti tijekom jake kiše.",
+              "Koristite aplikacije za parkiranje kako biste olakšali plaćanje bez stajanja na kiši.",
+              "Ne ostavljajte vrijedne stvari vidljive u autu, čak ni po kišnom vremenu."
             ]
           }
         },
@@ -1456,7 +1456,7 @@
             "hu": "A téli autós nap maximális rugalmasságot nyújt a Kaštelák között. Lukšić óvárosában kezdünk, és kényelmesen bejárjuk a Vitturi-kastélyt.\n\nA templom, a Riva és a botanikus kert közötti rövid utak a szabad utakon télen kifejezetten élvezetesek. Az ebédhez könnyen találunk parkolót a parton.\n\nA délután a strandon napos és frissítő. Végül felautózunk a város feletti kilátópontra, hogy elcsípjük a korai naplemente arany fényeit az Adria felett.",
             "ro": "O zi de iarnă cu mașina oferă flexibilitate maximă în Kaštela. Începem în centrul vechi din Lukšić și vizităm Castelul Vitturi în liniște.\n\nScurtele drumuri între biserică, Riva și grădina botanică sunt plăcute iarna datorită șoselelor libere. Găsim ușor parcare lângă apă pentru prânz.\n\nDupă-amiaza la plajă este însorită și revigorantă. La final, urcăm la punctul de belvedere pentru a surprinde lumina aurie a apusului timpuriu peste Adriatică.",
             "en": "A winter day by car offers maximum flexibility across the Kaštela region. We start in Lukšić old town and tour Vitturi Castle at a relaxed pace.\n\nShort drives between the church, Riva, and botanical garden are a breeze on the quiet winter roads. Parking for lunch by the water is effortless. \n\nThe afternoon at the beach is bright and crisp. We finish at the viewpoint above the town to catch the golden hour and the early sunset over the Adriatic.",
-            "hr": "Zimski dan automobilom nudi maksimalnu fleksibilnost u regiji Kaštela. Počinjemo u staroj jezgri Lukšića i obilazimo dvorac Vitturi opuštenim tempom.\n\nKratke vožnje između crkve, rive i botaničkog vrta su jednostavne na tihim zimskim cestama. Parkiranje za ručak uz more je bez muke. \n\nPoslijepodne na plaži je svijetlo i svježe. Završavamo na vidikovcu iznad mjesta kako bismo uhvatili zlatni sat i rani zalazak sunca nad Jadranom."
+            "hr": "Zimski dan automobilom nudi maksimalnu fleksibilnost po Kaštelanskoj regiji. Počinjemo u starom gradu Lukšić i opušteno razgledavamo Kaštel Vitturi.\n\nKratke vožnje između crkve, rive i botaničkog vrta su lako izvedive po tihim zimskim cestama. Parkiranje za ručak uz more je bez napora.\n\nPoslijepodne na plaži je svježe i bistro. Završavamo na vidikovcu iznad grada kako bismo uhvatili zlatni sat i rani zalazak sunca nad Jadranom."
           },
           "stops": [
             {
@@ -1466,7 +1466,7 @@
                 "hu": "Télen a kastély melletti parkoló gyakran ingyenes vagy olcsóbb.",
                 "ro": "Iarna, parcarea de lângă castel este adesea gratuită sau mai ieftină.",
                 "en": "In winter, the castle parking lot is often free or has reduced rates.",
-                "hr": "Zimi je parking kod dvorca često besplatan ili ima snižene cijene."
+                "hr": "Zimi je parkiralište dvorca često prazno ili s nižim cijenama."
               }
             },
             {
@@ -1476,7 +1476,7 @@
                 "hu": "Parkolj közvetlenül a bejáratnál, télen rengeteg a szabad hely.",
                 "ro": "Parcați chiar la intrare; iarna sunt locuri din abundență.",
                 "en": "Park right at the entrance; there is plenty of space in winter.",
-                "hr": "Parkirajte točno kod ulaza; zimi ima dovoljno mjesta."
+                "hr": "Parkirajte točno na ulazu; zimi ima dovoljno mjesta."
               }
             },
             {
@@ -1486,7 +1486,7 @@
                 "hu": "A szűk utcákban télen sokkal egyszerűbb parkolóhelyet találni.",
                 "ro": "Găsirea unui loc de parcare în străzile înguste este mult mai ușoară.",
                 "en": "Finding a parking spot in the narrow streets is much easier in winter.",
-                "hr": "Pronalaženje parkirnog mjesta u uskim ulicama puno je lakše zimi."
+                "hr": "Pronalaženje parkirnog mjesta u uskim ulicama mnogo je lakše zimi."
               }
             },
             {
@@ -1506,7 +1506,7 @@
                 "hu": "Könnyen elérhető, a bekötőút télen teljesen forgalommentes.",
                 "ro": "Accesibil, drumul de acces este complet liber în timpul iernii.",
                 "en": "Easily accessible; the access road is completely traffic-free in winter.",
-                "hr": "Lako dostupno; prilazna cesta je zimi potpuno bez prometa."
+                "hr": "Lako dostupno; pristupna cesta je potpuno bez prometa zimi."
               }
             },
             {
@@ -1516,7 +1516,7 @@
                 "hu": "Tökéletes hely a parkolásra egy rövid tengerparti sétához.",
                 "ro": "Locul perfect pentru a parca mașina pentru o scurtă plimbare pe plajă.",
                 "en": "Perfect spot to park the car for a quick stroll along the shoreline.",
-                "hr": "Savršeno mjesto za parkiranje automobila za brzu šetnju uz obalu."
+                "hr": "Savršeno mjesto za parkiranje auta za kratku šetnju uz obalu."
               }
             },
             {
@@ -1526,7 +1526,7 @@
                 "hu": "A felvezető út a tiszta téli fényben kínálja a legjobb fotótémákat.",
                 "ro": "Drumul în sus oferă cele mai bune oportunități foto în lumina iernii.",
                 "en": "The drive up offers the best photo opportunities in the clear winter light.",
-                "hr": "Vožnja prema gore nudi najbolje prilike za fotografiranje na čistom zimskom svjetlu."
+                "hr": "Uspon cestom nudi najbolje fotografske prilike u bistroj zimnoj svjetlosti."
               }
             }
           ],
@@ -1556,10 +1556,10 @@
               "Drive carefully if the Bura wind creates strong side gusts."
             ],
             "hr": [
-              "Mraz je rijedak, ali ceste ujutro mogu biti vlažne i skliske.",
-              "Provjerite tlak u gumama jer može lagano pasti na hladnijem vremenu.",
-              "Pravila parkiranja vrijede i zimi; pratite prometne znakove.",
-              "Vozite oprezno ako bura stvara jake bočne udare."
+              "Orašje je rijetko, ali ceste mogu biti vlažne i skliske ujutro.",
+              "Provjerite tlak u gumama jer se može malo sniziti na hladnijem vremenu.",
+              "I zimi vrijede pravila parkiranja; pazite na prometne znakove.",
+              "Vozite oprezno ako Bura stvara jake bočne nalete."
             ]
           }
         }
@@ -1608,7 +1608,7 @@
             "hu": "A buszmegállótól kb. 10 perc séta a tengerpart.",
             "ro": "De la stația de autobuz sunt aproximativ 10 minute de mers pe jos până la mare.",
             "en": "It's about a 10-minute walk from the bus stop to the sea.",
-            "hr": "Od autobusne stanice do mora ima oko 10 minuta hoda."
+            "hr": "Do mora je oko 10 minuta hoda od autobusne stanice."
           }
         },
         {
@@ -1627,7 +1627,7 @@
             "hu": "Közvetlenül a kastély mellett, gyalogosan könnyen elérhető.",
             "ro": "Chiar lângă castel, ușor accesibil pe jos.",
             "en": "Right next to the castle, easily accessible on foot.",
-            "hr": "Odmah do dvorca, lako dostupno pješice."
+            "hr": "Točno pored dvorca, lako dostupno pješice."
           }
         },
         {
@@ -1646,7 +1646,7 @@
             "hu": "Sok étterem található 200 méteres körzeten belül.",
             "ro": "Multe restaurante se află pe o rază de 200 m.",
             "en": "Many restaurants are located within a 200m radius.",
-            "hr": "Mnogi restorani nalaze se u krugu od 200 metara."
+            "hr": "Mnoge su restorani smješteni unutar radijusa od 200 m."
           }
         },
         {
@@ -1665,7 +1665,7 @@
             "hu": "A kert közvetlenül az iskola mellett van a főút mentén.",
             "ro": "Grădina este chiar lângă școală, pe drumul principal.",
             "en": "The garden is right next to the school on the main road.",
-            "hr": "Vrt se nalazi odmah do škole na glavnoj cesti."
+            "hr": "Vrt je odmah pokraj škole uz glavnu cestu."
           }
         },
         {
@@ -1693,7 +1693,7 @@
         "hu": "Kaštel Lukšić kiválóan csatlakozik a regionális buszhálózathoz. Ez az útvonal a főúttól közvetlenül az óváros szívébe, a Vitturi-kastélyhoz és a csendes botanikus kertekhez vezet. Élvezze a tömegközlekedés rugalmasságát, és fedezze fel a település kincseit parkolási gondok nélkül.",
         "ro": "Kaštel Lukšić este excelent conectat la sistemul regional de autobuze. Această rută vă duce de la drumul principal direct în inima centrului vechi, la Castelul Vitturi și la grădinile botanice liniștite. Bucurați-vă de flexibilitatea transportului public și descoperiți comorile localității fără grija parcării.",
         "en": "Kaštel Lukšić is excellently connected to the regional bus system. This route takes you from the main road directly into the heart of the old town to Vitturi Castle and the quiet botanical gardens. Enjoy the flexibility of public transport and discover the town's treasures without parking worries.",
-        "hr": "Kaštel Lukšić je izvrsno povezan regionalnim autobusnim sustavom. Ova ruta vodi vas s glavne ceste izravno u srce stare jezgre do dvorca Vitturi i tihih botaničkih vrtova. Uživajte u fleksibilnosti javnog prijevoza i otkrijte blaga mjesta bez brige o parkiranju."
+        "hr": "Kaštel Lukšić je izvrsno povezan s regionalnim autobusnim sustavom. Ova ruta vodi vas s glavne ceste izravno u srce starog grada do Kaštela Vitturi i mirnih botaničkih vrtova. Uživajte u fleksibilnosti javnog prijevoza i otkrijte gradske znamenitosti bez brige o parkiranju."
       },
       "gastro_picks": {
         "de": [
@@ -1819,8 +1819,8 @@
         ],
         "hr": [
           "Preuzmite aplikaciju 'Promet Split' za informacije o autobusima u stvarnom vremenu.",
-          "Mahnite vozaču autobusa kako biste bili sigurni da će vam stati.",
-          "Stanice duž Magistrale često su samo male oznake."
+          "Mahnite vozaču autobusa da biste osigurali da će stati za vas.",
+          "Stajališta uz Magistralu često su samo male oznake."
         ]
       },
       "variants": {
@@ -1830,7 +1830,7 @@
             "hu": "A busz szárazon visz el Kaštel Lukšićba. A megállótól csak egy rövid futás a Vitturi-kastély, ahol a múzeumban vészeljük át az esős délelőttöt.\n\nEgy gyors séta után megtekintjük a templomot, majd egy hangulatos konobában ebédelünk. A botanikus kert délután természetes védelmet nyújt az esőcseppek ellen.\n\nA napot a Lukšić strandon zárjuk, egy fedett teraszról figyelve a szürke tengert, mielőtt a buszunk visszaindulna.",
             "ro": "Autobuzul ne duce la adăpost în Kaštel Lukšić. Din stație facem un sprint scurt până la Castelul Vitturi, unde vizităm muzeul pe timpul ploii.\n\nO scurtă plimbare ne duce la biserică, apoi ne așezăm la prânz într-o konoba primitoare. Grădina Botanică oferă după-amiaza protecție naturală contra ploii.\n\nÎncheiem ziua pe plaja din Lukšić, observând marea gri de pe o terasă acoperită, înainte ca autobuzul să ne preia de la stație.",
             "en": "The bus delivers us dry to Kaštel Lukšić. It's just a quick dash from the stop to Vitturi Castle, where we bridge the rainy morning inside the museum.\n\nA short walk leads us to the church, followed by a cozy lunch in a local konoba. The botanical garden's canopy provides natural cover during our afternoon visit.\n\nWe finish at the beach, watching the grey sea from a covered terrace before heading back to the bus stop for our return journey.",
-            "hr": "Autobus nas dovozi suhe u Kaštel Lukšić. Samo je kratak trk od stanice do dvorca Vitturi, gdje kratimo kišno jutro unutar muzeja.\n\nKratka šetnja vodi nas do crkve, nakon čega slijedi ugodan ručak u lokalnoj konobi. Krošnje botaničkog vrta pružaju prirodni zaklon tijekom našeg poslijepodnevnog posjeta.\n\nZavršavamo na plaži, promatrajući sivo more s natkrivene terase prije povratka na autobusnu stanicu."
+            "hr": "Autobus nas suhim dovede do Kaštel Lukšića. Od stajališta je samo brz skok do Kaštela Vitturi, gdje provodimo kišno jutro u muzeju.\n\nKratka šetnja vodi nas do crkve, nakon čega slijedi ugodan ručak u lokalnoj konobi. Krošnja botaničkog vrta pruža prirodnu zaštitu tijekom poslijepodnevnog obilaska.\n\nZavršavamo na plaži, promatrajući sivo more s natkrivene terase prije povratka na autobusno stajalište za povratak."
           },
           "stops": [
             {
@@ -1840,7 +1840,7 @@
                 "hu": "A váróterem védelmet nyújt az első nagy eső elől.",
                 "ro": "Refugiul din stație oferă protecție împotriva ploii.",
                 "en": "The bus shelter provides good cover from the initial downpour.",
-                "hr": "Nadstrešnica na stanici pruža dobar zaklon od početnog pljuska."
+                "hr": "Autobusna čekaonica dobro štiti od početnog pljuska."
               }
             },
             {
@@ -1850,7 +1850,7 @@
                 "hu": "Mindössze 5 perc séta a buszmegállótól.",
                 "ro": "La doar 5 minute de mers pe jos de stația de autobuz.",
                 "en": "Only a 5-minute walk from the bus stop to the castle entrance.",
-                "hr": "Samo 5 minuta hoda od autobusne stanice do ulaza u dvorac."
+                "hr": "Samo 5 minuta hoda od autobusnog stajališta do ulaza u dvorac."
               }
             },
             {
@@ -1860,7 +1860,7 @@
                 "hu": "Jó hely az idő szárazon való kitöltésére a következő buszig.",
                 "ro": "Un loc bun pentru a petrece timpul la adăpost până la următorul autobuz.",
                 "en": "A good spot to stay dry while waiting for your next transit connection.",
-                "hr": "Dobro mjesto da ostanete suhi dok čekate sljedeći prijevoz."
+                "hr": "Dobra lokacija za ostati suh dok čekate sljedeću vezu javnog prijevoza."
               }
             },
             {
@@ -1880,7 +1880,7 @@
                 "hu": "A visszaúthoz tartozó megálló nagyon közel van a kerthez.",
                 "ro": "Stația pentru drumul de întoarcere este foarte aproape de grădină.",
                 "en": "The bus stop for your return trip is very close to the garden entrance.",
-                "hr": "Autobusna stanica za povratak je vrlo blizu ulaza u vrt."
+                "hr": "Autobusno stajalište za povratak vrlo je blizu ulaza u vrt."
               }
             },
             {
@@ -1890,7 +1890,7 @@
                 "hu": "Számolj elég időt az esőben való visszasétálásra a megállóig.",
                 "ro": "Rezervați-vă destul timp pentru a reveni la stație pe ploaie.",
                 "en": "Allow extra time for walking back to the bus stop in the rain.",
-                "hr": "Odvojite dodatno vrijeme za povratak do stanice po kiši."
+                "hr": "Ostavite dodatno vremena za povratak do autobusnog stajališta po kiši."
               }
             }
           ],
@@ -1921,9 +1921,9 @@
             ],
             "hr": [
               "Koristite aplikaciju 'Promet Split' za praćenje kašnjenja autobusa tijekom kiše.",
-              "Pripremite točan iznos za kartu kako biste ubrzali ulazak.",
-              "Autobusna linija 37 učinkovito povezuje Kaštela čak i po lošem vremenu.",
-              "Kišobran je neophodan za šetnje između stanica."
+              "Pripremite točno sitniš za kartu kako biste ubrzali ulazak u autobus.",
+              "Autobusna linija 37 učinkovito povezuje Kaštele čak i po lošem vremenu.",
+              "Kišobran je neophodan za šetnje između autobusnih stajališta."
             ]
           }
         },
@@ -1933,7 +1933,7 @@
             "hu": "A buszozás egy tiszta téli reggelen kifejezetten pihentető. A megállótól a Vitturi-kastély felé vesszük az irányt, amely a téli fényekben lenyűgözően fest.\n\nA múzeum után megnézzük a templomot, majd egy konobában ebédelünk, ahol jól átmelegedhetünk. A botanikus kert télen is csendes, békés menedéket nyújt.\n\nA délutánt a parton töltjük, majd még a korai naplemente előtt visszasétálunk a buszmegállóhoz. A téli napsütésben a várakozás is kellemesebb.",
             "ro": "Călătoria cu autobuzul într-o dimineață clară de iarnă este relaxantă. De la stație pornim spre Castelul Vitturi, care arată impresionant în lumina iernii.\n\nDupă muzeu, vizităm biserica și luăm prânzul la o konoba pentru a ne încălzi. Grădina Botanică rămâne un refugiu liniștit și pe timpul iernii.\n\nDupă-amiaza o petrecem pe plajă, apoi revenim la stația de autobuz înainte de apusul timpuriu. Soarele de iarnă face așteptarea autobuzului mult mai plăcută.",
             "en": "Arriving by bus on a clear winter morning is a stress-free start. From the stop, we stroll to Vitturi Castle, looking majestic in the crisp winter light.\n\nAfter the museum, we visit the church and enjoy a warm lunch in a local konoba. The botanical garden remains a tranquil sanctuary even in the colder months. \n\nWe spend the afternoon by the sea, returning to the bus stop before the early sunset. The soft winter sun makes waiting for your transit connection quite pleasant.",
-            "hr": "Dolazak autobusom u vedro zimsko jutro početak je bez stresa. Sa stanice se šetamo do dvorca Vitturi koji izgleda veličanstveno na čistom zimskom svjetlu.\n\nNakon muzeja posjećujemo crkvu i uživamo u toplom ručku u lokalnoj konobi. Botanički vrt ostaje mirno utočište čak i u hladnijim mjesecima. \n\nPoslijepodne provodimo uz more, vraćajući se na stanicu prije ranog zalaska sunca. Blago zimsko sunce čini čekanje na prijevoz prilično ugodnim."
+            "hr": "Dolazak autobusom u bistro zimsko jutro daje bezstresan početak. Sa stajališta šetamo do Kaštela Vitturi, koji stoji veličanstveno u bistroj zimskog svjetlosti.\n\nNakon muzeja posjećujemo crkvu i uživamo u toplom ručku u lokalnoj konobi. Botanički vrt ostaje mirno utočište čak i u hladnijim mjesecima.\n\nPoslijepodne provodimo uz more, vraćajući se na stajalište prije ranog zalaska sunca. Nježna zimska svjetlost čini čekanje na vezu javnog prijevoza ugodnim."
           },
           "stops": [
             {
@@ -1943,7 +1943,7 @@
                 "hu": "A buszok télen némileg ritkított menetrend szerint közlekednek.",
                 "ro": "Autobuzele circulă după un program ușor redus pe timpul iernii.",
                 "en": "Buses run on a slightly reduced schedule during the winter months.",
-                "hr": "Autobusi voze prema malo smanjenom rasporedu tijekom zimskih mjeseci."
+                "hr": "Autobusi prometuju nešto rjeđe tijekom zimskih mjeseci."
               }
             },
             {
@@ -1953,7 +1953,7 @@
                 "hu": "A főszezonon kívül a kastélynál egyáltalán nincs várakozási idő.",
                 "ro": "În afara sezonului, nu există cozi de așteptare la castel.",
                 "en": "There are no wait times at the castle during the off-season.",
-                "hr": "U dvorcu nema čekanja tijekom izvansezone."
+                "hr": "Nema čekanja pred dvorcem tijekom izvansezone."
               }
             },
             {
@@ -1963,7 +1963,7 @@
                 "hu": "Csendes hely az elmélyülésre, távol a téli széltől.",
                 "ro": "Un loc liniștit pentru reculegere, departe de vântul de iarnă.",
                 "en": "A peaceful spot for reflection, sheltered from the winter wind.",
-                "hr": "Mirno mjesto za razmišljanje, zaštićeno od zimskog vjetra."
+                "hr": "Mirovno mjesto za razmišljanje, zaštićeno od zimskog vjetra."
               }
             },
             {
@@ -1973,7 +1973,7 @@
                 "hu": "Kérdezd a napi ajánlatot (marenda) a helyi gasztroélményhez.",
                 "ro": "Cereți meniul zilei (marenda) pentru o experiență locală autentică.",
                 "en": "Ask for the daily special (marenda) for an authentic local experience.",
-                "hr": "Potražite dnevnu ponudu (marendu) za autentično lokalno iskustvo."
+                "hr": "Zatražite dnevni specijal (marenda) za autentično lokalno iskustvo."
               }
             },
             {
@@ -1983,7 +1983,7 @@
                 "hu": "Előre ellenőrizd az iskolakert téli nyitvatartási idejét.",
                 "ro": "Verificați programul de iarnă al grădinii școlii în prealabil.",
                 "en": "Check the winter opening hours of the school garden in advance.",
-                "hr": "Unaprijed provjerite zimsko radno vrijeme školskog vrta."
+                "hr": "Provjerite zimsko radno vrijeme školskog vrta unaprijed."
               }
             },
             {
@@ -1993,7 +1993,7 @@
                 "hu": "A megállóig tartó visszaséta segít melegen tartani télen.",
                 "ro": "Plimbarea înapoi spre stație vă va menține activi și încălziți.",
                 "en": "The walk back to the bus stop will help keep you warm in winter.",
-                "hr": "Šetnja natrag do stanice pomoći će vam da se ugrijete zimi."
+                "hr": "Povratak do autobusnog stajališta pomoći će vam da ostanete topli zimi."
               }
             }
           ],
@@ -2023,10 +2023,10 @@
               "Keep in mind that it gets chilly quickly at the stop after 17:00."
             ],
             "hr": [
-              "Linija 37 vozi svakih 20-30 minuta između Splita i Trogira.",
+              "Linija 37 vozi svakih 20–30 minuta između Splita i Trogira.",
               "Karte kupite kod vozača ili na kiosku (Tisak).",
-              "Ostanite na zavjetrini stanice dok čekate.",
-              "Imajte na umu da na stanici brzo zahladi nakon 17:00."
+              "Dok čekate, ostanite na zaštićenoj strani autobusnog stajališta.",
+              "Imajte na umu da nakon 17:00 sati na stajalištu brzo postaje hladno."
             ]
           }
         }

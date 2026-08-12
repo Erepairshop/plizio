@@ -21,7 +21,8 @@
             "de": "Die Giganten von Trsteno",
             "hu": "Trstenói óriások",
             "ro": "Giganții din Trsteno",
-            "en": "Giants of Trsteno"
+            "en": "Giants of Trsteno",
+            "hr": "Divovi Trstena"
           },
           "coords": [
             17.9765,
@@ -45,7 +46,8 @@
             "de": "Haupteingang Arboretum",
             "hu": "Arborétum főbejárat",
             "ro": "Intrarea principală în Arboretum",
-            "en": "Arboretum Main Entrance"
+            "en": "Arboretum Main Entrance",
+            "hr": "Glavni ulaz u Arboretum"
           },
           "coords": [
             17.9775,
@@ -61,7 +63,7 @@
             "hu": "Váltsa meg jegyét a reneszánsz kertbe.",
             "ro": "Cumpărați biletul pentru grădina renascentistă.",
             "en": "Buy your ticket for the Renaissance garden.",
-            "hr": "Kupite ulaznicu za renesansni vrt."
+            "hr": "Kupi kartu za renesansni vrt."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Neptun-Brunnen",
             "hu": "Neptunusz-kút",
             "ro": "Fântâna lui Neptun",
-            "en": "Neptune Fountain"
+            "en": "Neptune Fountain",
+            "hr": "Fontana Neptuna"
           },
           "coords": [
             17.9785,
@@ -85,7 +88,7 @@
             "hu": "Barokk remekmű aranyhalas medencével.",
             "ro": "Capodoperă barocă cu un bazin cu pești aurii.",
             "en": "Baroque masterpiece with a goldfish pond.",
-            "hr": "Barokno remek-djelo s ribnjakom sa zlatnim ribicama."
+            "hr": "Barokno remek-djelo s ribnjakom za zlatne ribice."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Sommerresidenz Gučetić",
             "hu": "Gučetić-nyaraló",
             "ro": "Reședința de vară Gučetić",
-            "en": "Gucetic Summer Residence"
+            "en": "Gucetic Summer Residence",
+            "hr": "Ljetnikovac Gučetić"
           },
           "coords": [
             17.978,
@@ -109,7 +113,7 @@
             "hu": "Betekintés a 15. századi nemesség életébe.",
             "ro": "Privire asupra vieții nobilimii din secolul XV.",
             "en": "Insight into the 15th-century nobility life.",
-            "hr": "Uvid u život plemstva iz 15. stoljeća."
+            "hr": "Uvid u život plemstva 15. stoljeća."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Mittagessen in Trsteno",
             "hu": "Ebéd Trstenóban",
             "ro": "Prânz în Trsteno",
-            "en": "Lunch in Trsteno"
+            "en": "Lunch in Trsteno",
+            "hr": "Ručak u Trstenu"
           },
           "coords": [
             17.976,
@@ -133,7 +138,7 @@
             "hu": "Élvezze a helyi konyhát az öreg fák alatt.",
             "ro": "Savurați bucătăria locală sub copaci antici.",
             "en": "Enjoy local cuisine under ancient trees.",
-            "hr": "Uživajte u domaćoj kuhinji pod drevnim stablima."
+            "hr": "Uživajte u lokalnoj kuhinji pod drevnim stablima."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Hafen von Trsteno",
             "hu": "Trstenói kikötő",
             "ro": "Portul Trsteno",
-            "en": "Trsteno Harbor"
+            "en": "Trsteno Harbor",
+            "hr": "Trstenski lukobran"
           },
           "coords": [
             17.979,
@@ -166,7 +172,7 @@
         "hu": "Trsteno ad otthont a világ egyik legrégebbi arborétumának. Ez a séta az óriási platánfáktól a pompás reneszánsz kerteken át egészen a kis kikötőig vezet. Csodálja meg az egzotikus növényeket, amelyeket a tengerészek hoztak haza útjaikról, és élvezze a Neptunusz-kút hűsítő közelségét.",
         "ro": "Trsteno găzduiește unul dintre cele mai vechi arboretumuri din lume. Această plimbare vă poartă de la platanii giganți prin grădinile renascentiste superbe până la micul port. Admirați plantele exotice aduse odinioară de navigatori și bucurați-vă de răcoarea fântânii lui Neptun.",
         "en": "Trsteno is home to one of the world's oldest arboretums. This walk leads you from the giant plane trees through the magnificent Renaissance gardens down to the small harbor. Admire exotic plants brought home by sailors and enjoy the cool breeze of the Neptune fountain.",
-        "hr": "Trsteno je dom jednom od najstarijih arboretuma na svijetu. Ova šetnja vodi vas od divovskih platana kroz veličanstvene renesansne vrtove do male luke. Divite se egzotičnim biljkama koje su donijeli pomorci i uživajte u hladnom povjetarcu Neptunove fontane."
+        "hr": "Trsteno je dom jednog od najstarijih arboretuma na svijetu. Ova šetnja vodi vas od divovskih platana kroz veličanstvene renesansne vrtove do malog pristaništa. Divite se egzotičnim biljkama koje su moreplovci donijeli i uživajte u osvježavajućem povjetarcu kod Fontane Neptuna."
       },
       "gastro_picks": {
         "de": [
@@ -288,7 +294,7 @@
         ],
         "hr": [
           "Koristite zaštitu od sunca, vrtovi imaju sunčane dijelove.",
-          "Put do luke je strm, planirajte vrijeme za povratak pješice uzbrdo."
+          "Staza do luke je strma, planirajte vrijeme za povratni uspon."
         ]
       },
       "variants": {
@@ -298,7 +304,7 @@
             "hu": "Reggel a hatalmas platánok lombjai alatt keresünk menedéket a szemerkélő esőben, élvezve a felfrissült levegőt. Délben az arborétum sűrű növényzete és a Gučetić-villa falai nyújtanak fedezetet, miközben az eső kopogása különleges ritmust ad a kertnek. Délután a Neptun-kút környékén sétálunk, ahol a vízcseppek játéka eggyé válik az elemekkel. Estére a pavilon védett részéről csodáljuk a ködös, drámai tengeri kilátást.",
             "ro": "Dimineața, platanii uriași oferă un adăpost natural împotriva ploii ușoare, în timp ce aerul devine proaspăt și curat. La prânz, ne retragem în arboretum și la Villa Gučetić, unde sunetul ploii pe frunzele exotice creează o ambianță serenă. După-amiaza, fântâna lui Neptun pare și mai spectaculoasă sub cerul înnorat. Seara, pavilionul de observație ne oferă un loc uscat de unde putem privi marea agitată în prag de amurg.",
             "en": "In the morning, the giant plane trees provide natural shelter as we breathe in the fresh, rain-washed air. By noon, the dense canopy of the Arboretum and the walls of Villa Gučetić offer cover, with the rain's pitter-patter creating a soothing rhythm. In the afternoon, we visit the Neptune Fountain, where the water features blend beautifully with the drizzle. We end the day at the pavilion, watching the dramatic, misty sea from a dry vantage point.",
-            "hr": "Ujutro divovske platane pružaju prirodno sklonište dok udišemo svjež zrak ispran kišom. Do podneva, gusta krošnja Arboretuma i zidovi ljetnikovca Gučetić nude zaklon, uz umirujući ritam kišnih kapi. Poslijepodne posjećujemo Neptunovu fontanu, gdje se vodeni efekti prekrasno stapaju s rosnulom kišom. Dan završavamo u paviljonu, promatrajući dramatično, maglovito more sa suhog mjesta."
+            "hr": "Ujutro divovske platane pružaju prirodnu zaklon dok udišemo svjež, kišom očišćen zrak. U podne gust krošnji Arboretuma i zidovi Vile Gučetić pružaju zaklon, uz ritmično kapanje kiše koje djeluje umirujuće. Poslijepodne posjećujemo Fontanu Neptuna, gdje se vodeni elementi lijepo stapaju s rosuljom. Dan završavamo na paviljonu, promatrajući dramatično, maglovito more s osušenog vidikovca."
           },
           "stops": [
             {
@@ -308,7 +314,7 @@
                 "hu": "A sűrű lombkorona jól felfogja a gyengébb esőt, tökéletes pihenőhely.",
                 "ro": "Coroanele dese opresc ploaia ușoară, fiind un loc ideal de popas.",
                 "en": "The thick canopy blocks light rain well, making it a perfect short stop.",
-                "hr": "Gusta krošnja dobro blokira laganu kišu, što je čini savršenom kratkom postajom."
+                "hr": "Gusta krošnja dobro sprječava sitnu kišu, čineći to idealnom kratkom stankom."
               }
             },
             {
@@ -318,7 +324,7 @@
                 "hu": "Viseljen csúszásmentes cipőt, mert a kőutak az esőben nagyon csúszóssá válnak.",
                 "ro": "Purtați încălțăminte antiderapantă, potecile de piatră devin alunecoase.",
                 "en": "Wear non-slip shoes as the stone paths become quite slippery in the rain.",
-                "hr": "Nosite obuću koja se ne kliže jer kamene staze postaju vrlo klizave na kiši."
+                "hr": "Nosite obuću s dobrim gripom jer kamene staze postaju vrlo skliske po kiši."
               }
             },
             {
@@ -328,7 +334,7 @@
                 "hu": "Használja a villa loggiáját egy száraz pihenőre, kilátással a kertre.",
                 "ro": "Folosiți loggia vilei pentru o pauză uscată cu vedere la grădină.",
                 "en": "Use the villa's loggia for a dry break with a view of the garden.",
-                "hr": "Koristite lođu ljetnikovca za suhi odmor s pogledom na vrt."
+                "hr": "Iskoristite lođu vile za suhi odmor s pogledom na vrt."
               }
             },
             {
@@ -338,7 +344,7 @@
                 "hu": "A kút esőben különösen misztikus; tökéletes tükröződésmentes fotókhoz.",
                 "ro": "Fântâna pare mistică pe ploaie; ideală pentru fotografii fără reflexii.",
                 "en": "The fountain looks mystical in the rain; perfect for photos without glare.",
-                "hr": "Fontana izgleda mistično na kiši; savršeno za fotografije bez odsjaja."
+                "hr": "Fontana izgleda mistično po kiši; savršeno za fotografije bez odsjaja."
               }
             },
             {
@@ -348,7 +354,7 @@
                 "hu": "A pavilon fedett, így kiváló védelmet nyújt a szél és az eső ellen.",
                 "ro": "Pavilionul este acoperit, oferind protecție excelentă împotriva ploii.",
                 "en": "The pavilion is covered, providing excellent shelter from the wind and rain.",
-                "hr": "Paviljon je natkriven i pruža izvrstan zaklon od vjetra i kiše."
+                "hr": "Paviljon je natkriven, pružajući odličan zaklon od vjetra i kiše."
               }
             },
             {
@@ -358,7 +364,7 @@
                 "hu": "A kikötőbe vezető lejtő meredek; esőben fokozott óvatossággal közlekedjen.",
                 "ro": "Coborârea spre port este abruptă; mergeți cu mare atenție pe ploaie.",
                 "en": "The descent to the harbor is steep; proceed with extra caution in the wet.",
-                "hr": "Spust do luke je strm; nastavite s dodatnim oprezom po mokrom."
+                "hr": "Silazak do luke je strm; postupajte s dodatnim oprezom po mokrom."
               }
             }
           ],
@@ -392,11 +398,11 @@
               "Check if all garden paths are open, as heavy storms may restrict access."
             ],
             "hr": [
-              "Ponesite čvrst kišobran, jer obalni vjetrovi mogu biti prilično jaki tijekom kiše.",
-              "Vodootporna obuća je neophodna zbog starih, klizavih kamenih ploča.",
-              "Gusta područja Arboretuma pružaju prirodni zaklon tijekom vaše šetnje.",
+              "Ponesite čvrst kišobran jer obalni vjetrovi mogu biti prilično jaki tijekom kiše.",
+              "Vodootporne planinarske cipele su nužne zbog starih, skliskih kaldrma.",
+              "Gusti dijelovi Arboretuma pružaju prirodni krov tijekom šetnje.",
               "Visoka vlažnost nakon kiše pojačava mirise mediteranskog bilja.",
-              "Provjerite jesu li sve staze u vrtu otvorene, jer jake oluje mogu ograničiti pristup."
+              "Provjerite jesu li sve vrtne staze otvorene jer jake oluje mogu ograničiti pristup."
             ]
           }
         },
@@ -406,7 +412,7 @@
             "hu": "A téli reggel Trstenóban enyhe és csendes, tökéletes a hatalmas platánok megcsodálására a tömeg nélkül. Délben az alacsonyan járó nap sugarai melengetik az arborétum útjait, miközben a villa lágy fényben úszik. Délután a Neptun-kút környékének nyugalmát élvezzük, majd a pavilonhoz sétálunk a korai naplemente megtekintéséhez. Az estét a kikötőben zárjuk, ahol a tenger halkan mossa a part menti sziklákat.",
             "ro": "Dimineața de iarnă în Trsteno este blândă și liniștită, perfectă pentru a admira platanii uriași fără aglomerație. La prânz, soarele blând încălzește potecile arboretumului, în timp ce vila este scăldată într-o lumină caldă. După-amiaza, ne bucurăm de liniștea de la fântâna lui Neptun și mergem la pavilion pentru a vedea apusul timpuriu. Seara se încheie în port, ascultând valurile calme care lovesc malul.",
             "en": "A winter morning in Trsteno is mild and quiet, ideal for admiring the giant plane trees without the crowds. By noon, the low winter sun warms the Arboretum's paths, casting a soft glow on the historic villa. In the afternoon, we enjoy the peace around the Neptune Fountain before heading to the pavilion for an early sunset over the Adriatic. We finish our walk at the harbor, where the sea gently laps against the stone walls.",
-            "hr": "Zimsko jutro u Trstenu je blago i tiho, idealno za divljenje divovskim platanama bez gužve. Do podneva, nisko zimsko sunce grije staze Arboretuma, bacajući meki sjaj na povijesni ljetnikovac. Poslijepodne uživamo u miru oko Neptunove fontane prije nego što se uputimo u paviljon na rani zalazak sunca nad Jadranom. Šetnju završavamo u luci, gdje more lagano zapljuskuje kamene zidove."
+            "hr": "Zimsko jutro u Trstenu je blago i tiho, idealno za divljenje divovskim platanama bez gužve. U podne nisko zimsko sunce grije staze Arboretuma, bacajući mekani sjaj na povijesnu vilu. Poslijepodne uživamo u miru oko Fontane Neptuna prije nego što odemo u paviljon na raniji zalazak sunca nad Jadranom. Šetnju završavamo u luci, gdje more lagano udara o kamene zidove."
           },
           "stops": [
             {
@@ -416,7 +422,7 @@
                 "hu": "A lombmentes ágak között ilyenkor sokkal több fény jut a térre.",
                 "ro": "Ramurile fără frunze permit luminii să pătrundă mai bine în piațetă.",
                 "en": "The leafless canopies allow much more light into the square in winter.",
-                "hr": "Krošnje bez lišća dopuštaju puno više svjetla na trg zimi."
+                "hr": "Bez lišća krošnje zimi puštaju mnogo više svjetla na trg."
               }
             },
             {
@@ -426,7 +432,7 @@
                 "hu": "Az örökzöldeknek köszönhetően a kert télen is lenyűgözően zöld marad.",
                 "ro": "Datorită plantelor perene, grădina rămâne verde și spectaculoasă iarna.",
                 "en": "Thanks to evergreen plants, the garden remains lush even in winter.",
-                "hr": "Zahvaljujući zimzelenim biljkama, vrt ostaje bujan čak i zimi."
+                "hr": "Zahvaljujući zimzelenom bilju, vrt ostaje bujan i zimi."
               }
             },
             {
@@ -436,7 +442,7 @@
                 "hu": "Télen nagy itt a csend; ideális az építészet kedvelőinek a nézelődésre.",
                 "ro": "Iarna este foarte liniște aici, ideal pentru amatorii de arhitectură.",
                 "en": "It's very quiet here in winter, perfect for architecture enthusiasts.",
-                "hr": "Zimi je ovdje vrlo tiho, savršeno za ljubitelje arhitekture."
+                "hr": "Ovdje je zimi vrlo mirno, savršeno za ljubitelje arhitekture."
               }
             },
             {
@@ -446,7 +452,7 @@
                 "hu": "A szobrok a tiszta téli fényben különösen részletgazdagnak tűnnek.",
                 "ro": "Statuile par mai detaliate în lumina clară a zilelor de iarnă.",
                 "en": "The statues look especially detailed in the clear winter light.",
-                "hr": "Kipovi izgledaju posebno detaljno na čistom zimskom svjetlu."
+                "hr": "Kipovi izgledaju posebno detaljno u jasnom zimskom svjetlu."
               }
             },
             {
@@ -456,7 +462,7 @@
                 "hu": "Érkezzen 16:30 körül, hogy ne maradjon le a korai naplementéről.",
                 "ro": "Fiți aici în jur de ora 16:30 pentru a nu rata apusul soarelui.",
                 "en": "Be here around 4:30 PM to catch the early winter sunset.",
-                "hr": "Budite ovdje oko 16:30 kako biste uhvatili rani zimski zalazak sunca."
+                "hr": "Budite ovdje oko 16:30 da uhvatite rani zimski zalazak sunca."
               }
             },
             {
@@ -466,7 +472,7 @@
                 "hu": "Meleg ruházat szükséges, mert a tengeri szél télen igen hűvös.",
                 "ro": "Aveți nevoie de haine groase, briza mării este rece în timpul iernii.",
                 "en": "Warm clothing is needed as the sea breeze is quite chilly in winter.",
-                "hr": "Potrebna je topla odjeća jer je morski povjetarac zimi prilično hladan."
+                "hr": "Potrebna je topla odjeća jer je morski povjetarac prilično hladan zimi."
               }
             }
           ],
@@ -500,11 +506,11 @@
               "Check for off-season ticket prices, which are often lower at the Arboretum."
             ],
             "hr": [
-              "Planirajte šetnju rano u danu jer mrak pada oko 17:00 sati.",
-              "Slojevita odjeća je najbolja za zaštitu od prohladne bure.",
+              "Planirajte šetnju rano tijekom dana jer se oko 17:00 zatamni.",
+              "Slojevita odjeća je najbolja za zaštitu od hladne bure.",
               "Arboretum je zimi manje posjećen, što omogućuje bolje fotografije.",
-              "Ponesite topli napitak u termosu za pauze uz obalu.",
-              "Provjerite cijene ulaznica izvan sezone, koje su u Arboretumu često niže."
+              "Ponesite toplu napitak u termosici za odmore uz obalu.",
+              "Provjerite cijene ulaznica izvan sezone, koje su često niže u Arboretumu."
             ]
           }
         }
@@ -523,7 +529,8 @@
             "de": "Trsteno Dorfplatz",
             "hu": "Trsteno falutér",
             "ro": "Piața satului Trsteno",
-            "en": "Trsteno Village Square"
+            "en": "Trsteno Village Square",
+            "hr": "Trstenski trg sela"
           },
           "coords": [
             17.9765,
@@ -539,7 +546,7 @@
             "hu": "Indulópont a híres platánfák alól.",
             "ro": "Punct de plecare de sub platanii celebri.",
             "en": "Starting point under the famous plane trees.",
-            "hr": "Početna točka pod poznatim platanama."
+            "hr": "Polazište ispod poznatih platana."
           }
         },
         {
@@ -547,7 +554,8 @@
             "de": "Panoramastraße nach Brsečine",
             "hu": "Panorámaút Brsečine felé",
             "ro": "Drumul panoramic spre Brsečine",
-            "en": "Panoramic Road to Brsecine"
+            "en": "Panoramic Road to Brsecine",
+            "hr": "Panoramska cesta za Brsečine"
           },
           "coords": [
             17.955,
@@ -563,7 +571,7 @@
             "hu": "Csodás kilátás az Adriára menet közben.",
             "ro": "Vedere superbă spre Adriatică în timpul mersului.",
             "en": "Stunning Adriatic views while riding.",
-            "hr": "Zapanjujući pogledi na Jadran tijekom vožnje."
+            "hr": "Zapanjujući pogledi na Jadran dok vozite."
           }
         },
         {
@@ -571,7 +579,8 @@
             "de": "Brsečine Bucht",
             "hu": "Brsečine-öböl",
             "ro": "Golful Brsečine",
-            "en": "Brsecine Bay"
+            "en": "Brsecine Bay",
+            "hr": "Uvala Brsečine"
           },
           "coords": [
             17.95,
@@ -587,7 +596,7 @@
             "hu": "Csendes tengerparti szakasz fürdőzéshez.",
             "ro": "Porțiune liniștită de plajă pentru o baie.",
             "en": "Quiet beach section for a swim break.",
-            "hr": "Mirni dio plaže za pauzu uz kupanje."
+            "hr": "Tihi dio plaže za pauzu za kupanje."
           }
         },
         {
@@ -595,7 +604,8 @@
             "de": "Mittagessen in Brsečine",
             "hu": "Ebéd Brsečinében",
             "ro": "Prânz în Brsečine",
-            "en": "Lunch in Brsecine"
+            "en": "Lunch in Brsecine",
+            "hr": "Ručak u Brsečinama"
           },
           "coords": [
             17.952,
@@ -619,7 +629,8 @@
             "de": "Olivenhaine von Trsteno",
             "hu": "Trstenói olajligetek",
             "ro": "Livezile de măslini din Trsteno",
-            "en": "Trsteno Olive Groves"
+            "en": "Trsteno Olive Groves",
+            "hr": "Trstenski maslinici"
           },
           "coords": [
             17.97,
@@ -635,7 +646,7 @@
             "hu": "Bringázás a falu mezőgazdasági központjában.",
             "ro": "Ciclism prin inima agricolă a satului.",
             "en": "Cycling through the agricultural heart of the village.",
-            "hr": "Vožnja kroz poljoprivredno srce sela."
+            "hr": "Vožnja biciklom kroz poljoprivredno srce sela."
           }
         },
         {
@@ -643,7 +654,8 @@
             "de": "Rückkehr zum Arboretum-Eingang",
             "hu": "Visszatérés az arborétum bejáratához",
             "ro": "Revenire la intrarea în Arboretum",
-            "en": "Return to Arboretum Entrance"
+            "en": "Return to Arboretum Entrance",
+            "hr": "Povratak do ulaza u Arboretum"
           },
           "coords": [
             17.9775,
@@ -659,7 +671,7 @@
             "hu": "Rövid kerti látogatás lezárásként.",
             "ro": "Scurtă vizită în grădini la final.",
             "en": "Short garden visit to conclude the day.",
-            "hr": "Kratki posjet vrtu za kraj dana."
+            "hr": "Kratka posjeta vrtu za završetak dana."
           }
         }
       ],
@@ -668,7 +680,7 @@
         "hu": "Fedezze fel Trsteno környékének parti tájait kerékpárral. Az útvonal a panorámaúton a szomszédos Brsečine faluba vezet, ahol egy csendes öbölben pihenhetünk. Visszafelé évszázados olajligeteken haladunk keresztül, és időben érkezünk vissza az arborétumhoz egy nyugodt látogatásra.",
         "ro": "Descoperiți peisajul de coastă din jurul Trsteno cu bicicleta. Traseul vă poartă pe drumul panoramic spre satul vecin Brsečine, unde vă puteți relaxa într-un golf liniștit. La întoarcere traversăm livezile de măslini seculare și revenim la timp pentru o vizită relaxată în Arboretum.",
         "en": "Discover the coastal landscape around Trsteno by bicycle. The route leads you along the panoramic road to the neighboring village of Brsecine, where you can relax in a quiet bay. On the way back, we cross centuries-old olive groves and return in time for a relaxed visit to the Arboretum.",
-        "hr": "Otkrijte obalni krajolik oko Trstena biciklom. Ruta vas vodi panoramskom cestom do susjednog sela Brsečine, gdje se možete opustiti u mirnoj uvali. Na povratku prelazimo preko stoljetnih maslinika i vraćamo se na vrijeme za opušteni posjet Arboretumu."
+        "hr": "Otkrijte obalni krajolik oko Trstena biciklom. Ruta vodi panoramskom cestom do susjednog sela Brsečine, gdje se možete opustiti u mirnoj uvali. Na povratku prolazimo kroz stoljetne maslinike i vraćamo se na vrijeme za opuštenu posjetu Arboretumu."
       },
       "gastro_picks": {
         "de": [
@@ -790,7 +802,7 @@
         ],
         "hr": [
           "Obalna cesta ima promet, vozite oprezno.",
-          "Električni bicikl čini uspone mnogo ugodnijima."
+          "Električni bicikl čini uspon ugodnijim."
         ]
       },
       "variants": {
@@ -800,7 +812,7 @@
             "hu": "A kerékpártúra óvatosan indul a platánoknál, miközben az eső lemossa az utakat. Délben az akvaduktot és az arborétumot fedezzük fel, a szilárd burkolatú utakon maradva a sár elkerülése végett. Délután a Szent Vid templom felé tekerünk, ahol rövid menedéket keresünk. A napot a Brsečine felé vezető parti úton zárjuk, ügyelve a csúszós aszfaltra.",
             "ro": "Turul cu bicicleta începe cu prudență la platani, în timp ce ploaia curăță drumurile. La prânz explorăm apeductul și arboretumul, rămânând pe drumurile pavate pentru a evita noroiul. După-amiaza pedalăm spre Biserica Sf. Vitus, unde ne adăpostim scurt. Încheiem ziua cu o cursă lentă pe drumul de coastă spre Brsečine, atenți la carosabilul umed.",
             "en": "The bike tour starts cautiously by the plane trees as the rain freshens the air. At noon, we explore the aqueduct and the Arboretum, sticking to paved paths to avoid mud. In the afternoon, we cycle toward the Church of St. Vitus, taking a short break under cover. We finish the day with a slow ride along the coastal road to Brsečine, staying mindful of the slippery surface.",
-            "hr": "Biciklistička tura počinje oprezno kod platana dok kiša osvježava zrak. U podne istražujemo akvadukt i Arboretum, držeći se asfaltiranih staza kako bismo izbjegli blato. Poslijepodne bicikliramo prema crkvi sv. Vida, praveći kratku pauzu pod krovom. Dan završavamo laganom vožnjom obalnom cestom prema Brsečinama, pazeći na klizavu podlogu."
+            "hr": "Biciklistička tura započinje oprezno pokraj platana dok kiša osvježava zrak. U podne istražujemo akvedukt i Arboretum, držeći se asfaltiranih staza kako bismo izbjegli blato. Poslijepodne vozimo prema crkvi sv. Vida, kratko se odmarajući pod zaklonom. Dan završavamo sporom vožnjom obalnom cestom do Brsečina, pazeći na sklisku podlogu."
           },
           "stops": [
             {
@@ -810,7 +822,7 @@
                 "hu": "Ügyeljen az aszfalton lévő nedves levelekre, amelyek nagyon csúszhatnak.",
                 "ro": "Atenție la frunzele ude de pe asfalt, pot fi extrem de alunecoase.",
                 "en": "Watch out for wet leaves on the asphalt; they can be very slippery.",
-                "hr": "Pazite na mokro lišće na asfaltu; može biti vrlo klizavo."
+                "hr": "Pazite na mokro lišće na asfalttu; može biti vrlo sklizavo."
               }
             },
             {
@@ -820,7 +832,7 @@
                 "hu": "A kőszerkezet elvezeti az esővizet; kerülje a mellette lévő tócsákat.",
                 "ro": "Structura de piatră drenează apa; evitați bălțile formate lângă ea.",
                 "en": "The stone structure drains rainwater; avoid the puddles forming nearby.",
-                "hr": "Kamena struktura odvodi kišnicu; izbjegavajte lokve koje se stvaraju u blizini."
+                "hr": "Kamena konstrukcija odvodi kišnicu; izbjegavajte lokve u blizini."
               }
             },
             {
@@ -830,7 +842,7 @@
                 "hu": "A bicikliket a bejáratnál kell hagyni; keressen fedett tárolót.",
                 "ro": "Bicicletele trebuie lăsate la intrare; căutați un loc ferit de ploaie.",
                 "en": "Bikes must be left at the entrance; look for a sheltered spot to park.",
-                "hr": "Bicikli se moraju ostaviti na ulazu; potražite zaklonjeno mjesto za parkiranje."
+                "hr": "Bicikle treba ostaviti na ulazu; potražite zaklonjeno mjesto za parkiranje."
               }
             },
             {
@@ -840,7 +852,7 @@
                 "hu": "Az előtér kevés védelmet ad; használja a templomkaput menedékként.",
                 "ro": "Piațeta oferă puțin adăpost; folosiți portalul bisericii pentru a sta la uscat.",
                 "en": "The forecourt offers little cover; use the church portal as a shelter.",
-                "hr": "Predprostor nudi malo zaklona; koristite portal crkve kao sklonište."
+                "hr": "Predprostor nudi malo zaklona; upotrijebite crkveni portal kao sklonište."
               }
             },
             {
@@ -850,7 +862,7 @@
                 "hu": "Vezessen óvatosan; esőben a látótávolság korlátozott a parti úton.",
                 "ro": "Pedalați defensiv; vizibilitatea pe drumul de coastă este redusă pe ploaie.",
                 "en": "Cycle defensively; visibility on the coastal road is reduced in the rain.",
-                "hr": "Vozite defenzivno; vidljivost na obalnoj cesti smanjena je po kiši."
+                "hr": "Vozite defanzivno; vidljivost na obalnoj cesti je smanjena po kiši."
               }
             }
           ],
@@ -884,11 +896,11 @@
               "Waterproof panniers will keep your belongings dry from road spray."
             ],
             "hr": [
-              "Blatobrani vrijede zlata u ovoj brdovitoj regiji tijekom kiše.",
-              "Nosite uočljivu kišnu jaknu kako biste bili bolje primijećeni na glavnoj cesti.",
-              "Provjerite kočnice prije polaska; spustovi prema moru su strmi.",
-              "Izbjegavajte neasfaltirane sporedne staze jer se vrlo brzo pretvaraju u blato.",
-              "Vodootporne torbe očuvat će vaše stvari suhima od prskanja s ceste."
+              "Blatobrani su dragocjeni u ovom brdskom području tijekom kiše.",
+              "Nosite fluorescentnu kabanicu da vas bolje vide na glavnoj cesti.",
+              "Provjerite kočnice prije polaska; spuste prema moru su strme.",
+              "Izbjegavajte neasfaltirane sporedne staze jer se brzo pretvaraju u blato.",
+              "Vodootporne torbe za bicikl će držati vaše stvari suhim od prskanja s ceste."
             ]
           }
         },
@@ -898,7 +910,7 @@
             "hu": "A téli bringázás frissen indul a platánoknál, a hűvös levegő élénkítően hat. Délben megtekintjük a történelmi akvaduktot és teszünk egy kört az arborétumban az alacsony téli napsütésben. Délután feltekerünk a Szent Vid templomhoz, a mozgás segít a bemelegedésben. Végezetül élvezzük a tiszta kilátást a Brsečine felé vezető úton, mielőtt beállna a szürkület.",
             "ro": "Turul de iarnă cu bicicleta începe viguros la platani, aerul rece fiind revigorant. La prânz vizităm apeductul istoric și ne plimbăm prin arboretum sub soarele blând. După-amiaza pedalăm spre Biserica Sf. Vitus, mișcarea ajutându-ne să ne încălzim. La final, admirăm priveliștea largă de pe drumul de coastă spre Brsečine înainte de lăsarea serii.",
             "en": "The winter bike ride starts briskly at the plane trees, with the cool air feeling invigorating. At noon, we visit the historic aqueduct and stroll through the Arboretum under the low winter sun. In the afternoon, we cycle uphill to the Church of St. Vitus, using the movement to stay warm. We finish by enjoying the clear views on the coastal road to Brsečine before twilight sets in.",
-            "hr": "Zimska vožnja biciklom počinje živahno kod platana, uz hladan zrak koji djeluje okrepljujuće. U podne posjećujemo povijesni akvadukt i šetamo Arboretumom pod niskim zimskim suncem. Poslijepodne bicikliramo uzbrdo do crkve sv. Vida, koristeći kretanje kako bismo ostali zagrijani. Završavamo uživajući u čistim vidicima na obalnoj cesti prema Brsečinama prije sumraka."
+            "hr": "Zimska vožnja biciklom počinje žustro kod platana, s rashlađujućim zrakom koji razbuđuje. U podne posjećujemo povijesni akvedukt i šećemo kroz Arboretum pod niskim zimskim suncem. Poslijepodne penjemo prema crkvi sv. Vida, koristeći vožnju da ostanemo topli. Završavamo uživajući u bistrim pogledima obalnom cestom prema Brsečinama prije nego što nastupi sumrak."
           },
           "stops": [
             {
@@ -908,7 +920,7 @@
                 "hu": "Viseljen meleg kesztyűt, mert a menetszél itt télen nagyon hideg lehet.",
                 "ro": "Purtați mănuși groase, vântul produs de mișcare este tăios iarna.",
                 "en": "Wear warm gloves as the wind chill while riding is significant in winter.",
-                "hr": "Nosite tople rukavice jer je vjetar tijekom vožnje zimi značajan."
+                "hr": "Nosite tople rukavice jer je vjetar koji hladi puno izražen tijekom vožnje zimi."
               }
             },
             {
@@ -918,7 +930,7 @@
                 "hu": "Az akvadukt árnyékában jóval hűvösebb lehet, mint a napos részeken.",
                 "ro": "La umbra apeductului poate fi mult mai frig decât în zonele însorite.",
                 "en": "It can be much cooler in the shadow of the aqueduct than in the sun.",
-                "hr": "U sjeni akvadukta može biti mnogo hladnije nego na suncu."
+                "hr": "Može biti znatno hladnije u sjeni akvedukta nego na suncu."
               }
             },
             {
@@ -928,7 +940,7 @@
                 "hu": "Használja ki a megállót egy rövid gyalogos bemelegítő sétára a kertben.",
                 "ro": "Folosiți oprirea pentru o scurtă plimbare de încălzire prin grădină.",
                 "en": "Use the stop for a short brisk walk in the garden to warm up.",
-                "hr": "Iskoristite stanku za kratku živahnu šetnju vrtom kako biste se zagrijali."
+                "hr": "Iskoristite stajanje za kratku brzu šetnju u vrtu da se zagrijete."
               }
             },
             {
@@ -938,7 +950,7 @@
                 "hu": "Az idevezető emelkedő jól bemelegít, de fent gyakran fúj a hideg szél.",
                 "ro": "Urcarea până aici vă va încălzi, dar sus vântul este adesea rece.",
                 "en": "The climb here warms you up, but it's often windy and cold at the top.",
-                "hr": "Uspon ovdje će vas zagrijati, ali na vrhu je često vjetrovito i hladno."
+                "hr": "Uspon vas zagrije, ali na vrhu je često vjetrovito i hladno."
               }
             },
             {
@@ -948,7 +960,7 @@
                 "hu": "Fejezze be a túrát 16:30 előtt, hogy még világosban érjen célba.",
                 "ro": "Încheiați cursa înainte de 16:30 pentru a ajunge pe lumină.",
                 "en": "Finish your ride before 4:30 PM to arrive while it's still light out.",
-                "hr": "Završite vožnju prije 16:30 kako biste stigli dok je još dan."
+                "hr": "Završite vožnju prije 16:30 da stignete dok je još svijetlo."
               }
             }
           ],
@@ -982,11 +994,11 @@
               "Carry a set of bike lights in case you get caught in the early twilight."
             ],
             "hr": [
-              "Traka za glavu ispod kacige štiti uši od hladnog zimskog vjetra.",
-              "Izbjegavajte duge pauze kako biste spriječili preveliko hlađenje tijela.",
-              "Zimski zrak je vrlo čist, što omogućuje fantastične poglede na udaljene otoke.",
-              "Provjerite tlak u gumama; zimi često lagano opadne na hladnoći.",
-              "Nosite komplet svjetala za bicikl u slučaju da vas uhvati rani sumrak."
+              "Traka za glavu ispod kacige štiti vam uši od hladnog zimskog vjetra.",
+              "Izbjegavajte duže pauze kako se tijelo ne bi previše ohladilo.",
+              "Zimski zrak je vrlo proziran, što omogućuje fantastične poglede na udaljene otoke.",
+              "Provjerite tlak u gumama; često malo padne na hladnoći.",
+              "Ponesite set svjetala za bicikl u slučaju da vas zatekne rani sumrak."
             ]
           }
         }
@@ -1005,7 +1017,8 @@
             "de": "Trsteno Parkplatz (Cluster A)",
             "hu": "Trsteno parkoló",
             "ro": "Parcare Trsteno",
-            "en": "Trsteno Parking"
+            "en": "Trsteno Parking",
+            "hr": "Parkiralište Trsteno"
           },
           "coords": [
             17.977,
@@ -1021,7 +1034,7 @@
             "hu": "Parkoló közvetlenül az óriásplatánoknál.",
             "ro": "Parcare chiar lângă platanii giganți.",
             "en": "Parking right next to the giant plane trees.",
-            "hr": "Parkiranje odmah pored divovskih platana."
+            "hr": "Parkiranje odmah uz divovske platane."
           }
         },
         {
@@ -1029,7 +1042,8 @@
             "de": "Arboretum Rundgang (Cluster A)",
             "hu": "Arborétum körséta",
             "ro": "Turul Arboretumului",
-            "en": "Arboretum Walk"
+            "en": "Arboretum Walk",
+            "hr": "Šetnja Arboretumom"
           },
           "coords": [
             17.978,
@@ -1053,7 +1067,8 @@
             "de": "Orašac (Cluster B)",
             "hu": "Orašac",
             "ro": "Orašac",
-            "en": "Orasac"
+            "en": "Orasac",
+            "hr": "Oražac"
           },
           "coords": [
             18.005,
@@ -1069,7 +1084,7 @@
             "hu": "A régi faluközpont meglátogatása.",
             "ro": "Vizitarea centrului vechi al satului.",
             "en": "Visit the old village center.",
-            "hr": "Posjetite staru jezgru sela."
+            "hr": "Posjetite staro selo."
           }
         },
         {
@@ -1077,7 +1092,8 @@
             "de": "Traditionelle Ölpresse (Cluster B)",
             "hu": "Hagyományos olajprés",
             "ro": "Presă tradițională de ulei",
-            "en": "Traditional Oil Press"
+            "en": "Traditional Oil Press",
+            "hr": "Tradicionalna uljara"
           },
           "coords": [
             18.006,
@@ -1093,7 +1109,7 @@
             "hu": "Ismerje meg az olajpréselés folyamatát.",
             "ro": "Aflați cum se presează uleiul de măsline.",
             "en": "Learn how olive oil is pressed.",
-            "hr": "Naučite kako se preša maslinovo ulje."
+            "hr": "Saznajte kako se preša maslinovo ulje."
           }
         },
         {
@@ -1101,7 +1117,8 @@
             "de": "Mittagessen in Orašac (Cluster B)",
             "hu": "Ebéd Orašacban",
             "ro": "Prânz în Orašac",
-            "en": "Lunch in Orasac"
+            "en": "Lunch in Orasac",
+            "hr": "Ručak u Orašcu"
           },
           "coords": [
             18.007,
@@ -1117,7 +1134,7 @@
             "hu": "Hátországi konyha tengeri kilátással.",
             "ro": "Bucătărie din hinterland cu vedere la mare.",
             "en": "Hinterland cuisine with sea views.",
-            "hr": "Kuhinja zaleđa s pogledom na more."
+            "hr": "Zavičajna kuhinja s pogledom na more."
           }
         },
         {
@@ -1125,7 +1142,8 @@
             "de": "Brsečine Panorama (Cluster C)",
             "hu": "Brsečine panoráma",
             "ro": "Panorama Brsečine",
-            "en": "Brsecine Panorama"
+            "en": "Brsecine Panorama",
+            "hr": "Brsečine Panorama"
           },
           "coords": [
             17.955,
@@ -1141,7 +1159,7 @@
             "hu": "Utazás a következő nyugati klaszterhez.",
             "ro": "Călătorie spre următorul cluster din vest.",
             "en": "Drive to the next cluster in the west.",
-            "hr": "Vožnja do sljedećeg klastera na zapadu."
+            "hr": "Vozite do sljedeće skupine na zapadu."
           }
         },
         {
@@ -1149,7 +1167,8 @@
             "de": "Brsečine Strandspaziergang (Cluster C)",
             "hu": "Brsečine parti séta",
             "ro": "Plimbare pe plajă în Brsečine",
-            "en": "Brsecine Beach Walk"
+            "en": "Brsecine Beach Walk",
+            "hr": "Brsečine Šetnica uz plažu"
           },
           "coords": [
             17.952,
@@ -1173,7 +1192,8 @@
             "de": "Zaton Bucht (Cluster D)",
             "hu": "Zaton-öböl",
             "ro": "Golful Zaton",
-            "en": "Zaton Bay"
+            "en": "Zaton Bay",
+            "hr": "Zaton Bay"
           },
           "coords": [
             18.04,
@@ -1189,7 +1209,7 @@
             "hu": "Zárás a védett öbölben.",
             "ro": "Final în golful protejat.",
             "en": "Ending in the protected bay.",
-            "hr": "Završetak u zaštićenoj uvali."
+            "hr": "Završetak u zaštićenom uvalu."
           }
         }
       ],
@@ -1198,7 +1218,7 @@
         "hu": "Ez az autós túra Dubrovniktól északra fekvő látnivalókat érinti. Klaszterekben parkolunk, hogy gyalog fedezzük fel a trstenói arborétumot és Orašac hagyományos faluját. A nap ötvözi a botanikai csodákat egy régi olajprés meglátogatásával, és Brsečine, valamint Zaton strandjain zárul.",
         "ro": "Acest tur cu mașina dezvăluie atracțiile de la nord de Dubrovnik. Parcăm în clustere pentru a explora pe jos Arboretumul din Trsteno și satul tradițional Orašac. Ziua combină minunile botanice cu vizita la o presă veche de ulei și se încheie relaxat pe plajele din Brsečine și Zaton.",
         "en": "This car tour explores the highlights north of Dubrovnik. We park in clusters to explore the Trsteno Arboretum and the traditional village of Orasac on foot. The day combines botanical wonders with a visit to an old oil press and ends relaxed at the beaches of Brsecine and Zaton.",
-        "hr": "Ova tura automobilom istražuje znamenitosti sjeverno od Dubrovnika. Parkiramo u klasterima kako bismo pješice istražili Arboretum Trsteno i tradicionalno selo Orašac. Dan spaja botanička čuda s posjetom staroj uljari i završava opušteno na plažama Brsečine i Zatona."
+        "hr": "Ova automobilska tura istražuje istaknute točke sjeverno od Dubrovnika. Parkiramo u skupinama kako bismo pješice istražili Arboretum Trsteno i tradicionalno selo Orašac. Dan spaja botanička čuda s posjetom staroj uljari i završava opuštanjem na plažama Brsečina i Zatona."
       },
       "gastro_picks": {
         "de": [
@@ -1319,8 +1339,8 @@
           "Visit the oil press in the morning when it's operating."
         ],
         "hr": [
-          "Parkiranje u centru Trstena je vrlo ograničeno.",
-          "Posjetite uljaru ujutro dok radi."
+          "Parkiranje u središtu Trstena vrlo je ograničeno.",
+          "Posjetite uljaru ujutro kad radi."
         ]
       },
       "variants": {
@@ -1330,7 +1350,7 @@
             "hu": "Kényelmesen indulunk autóval és közvetlenül az arborétumnál parkolunk, miközben az eső kopog a tetőn. Délben a Gučetić-villát látogatjuk meg, élvezve a védett építészeti megoldásokat. Délután legurulunk a kikötőbe, ahol a száraz utastérből figyeljük a hullámzást. Végezetül Brsečine strandjához hajtunk, hogy átéljük a tengerparti eső drámai hangulatát.",
             "ro": "Pornim relaxați cu mașina și parcăm chiar lângă arboretum, ascultând ploaia pe plafon. La prânz vizităm Villa Gučetić, bucurându-ne de arhitectura protejată. După-amiaza coborâm spre port, observând marea din interiorul uscat al mașinii. La final, conducem spre plaja Brsečine pentru a admira atmosfera dramatică de coastă pe ploaie.",
             "en": "We start comfortably by car and park right at the Arboretum as rain drums on the roof. At noon, we visit Villa Gučetić, enjoying the sheltered architecture. In the afternoon, we drive down to the harbor, watching the sea from the dry interior of the car. We finish the day at Brsečine Beach, experiencing the dramatic coastal atmosphere in the rain.",
-            "hr": "Počinjemo udobno automobilom i parkiramo se tik uz Arboretum dok kiša bubnja po krovu. U podne posjećujemo ljetnikovac Gučetić, uživajući u natkrivenoj arhitekturi. Poslijepodne se vozimo dolje do luke, promatrajući more iz suhe unutrašnjosti automila. Dan završavamo na plaži Brsečine, doživljavajući dramatičnu obalnu atmosferu na kiši."
+            "hr": "Polazimo udobno automobilom i parkiramo odmah uz Arboretum dok kiša lupa po krovu. U podne posjećujemo Vilu Gučetić i uživamo u zaštićenoj arhitekturi. Popodne vozimo do luke, promatrajući more iz suhog interijera automobila. Dan završavamo na plaži Brsečine, doživljavajući dramatičnu obalnu atmosferu na kiši."
           },
           "stops": [
             {
@@ -1340,7 +1360,7 @@
                 "hu": "Parkoljon a főbejárathoz közel, hogy minimalizálja az esőben töltött időt.",
                 "ro": "Parcați aproape de intrarea principală pentru a merge puțin prin ploaie.",
                 "en": "Park near the main entrance to keep your walk in the rain short.",
-                "hr": "Parkirajte blizu glavnog ulaza kako bi šetnja po kiši bila kratka."
+                "hr": "Parkirajte blizu glavnog ulaza da vam šetnja po kiši bude kratka."
               }
             },
             {
@@ -1350,7 +1370,7 @@
                 "hu": "Hagyja a vizes ernyőket az autóban, vagy használja a benti tartókat.",
                 "ro": "Lăsați umbrelele ude în mașină sau folosiți suporturile de la vilă.",
                 "en": "Leave wet umbrellas in the car or use the stands provided at the villa.",
-                "hr": "Ostavite mokre kišobrane u autu ili koristite stalke u ljetnikovcu."
+                "hr": "Ostavite mokre kišobrane u autu ili koristite stalke koje pruža vila."
               }
             },
             {
@@ -1360,7 +1380,7 @@
                 "hu": "A kikötőhöz vezető út szűk és nedvesen csúszós; hajtson lassan.",
                 "ro": "Drumul spre port este îngust și alunecos pe ploaie; conduceți prudent.",
                 "en": "The road to the harbor is narrow and slippery when wet; drive slowly.",
-                "hr": "Cesta do luke je uska i klizava kad je mokra; vozite polako."
+                "hr": "Cesta do luke je uska i skliska kad je mokro; vozite polako."
               }
             },
             {
@@ -1370,7 +1390,7 @@
                 "hu": "Heves esőben maradjon az autóban és onnan élvezze a kilátást.",
                 "ro": "În caz de ploaie torențială, rămâneți în mașină și admirați peisajul.",
                 "en": "In heavy rain, stay in the car and enjoy the view from inside.",
-                "hr": "Po jakoj kiši ostanite u autu i uživajte u pogledu iznutra."
+                "hr": "U jakoj kiši ostanite u autu i uživajte u pogledu iznutra."
               }
             }
           ],
@@ -1404,11 +1424,11 @@
               "Narrow access roads may experience small water flows during heavy rain."
             ],
             "hr": [
-              "Uključite kratka svjetla jer je vidljivost na obalnoj cesti slaba.",
-              "Provjerite ispravnost brisača prije polaska.",
-              "Koristite klima-uređaj kako biste spriječili zamagljivanje stakala.",
-              "Izbjegavajte parkiranje ispod velikih stabala ako postoji opasnost od oluje.",
-              "Uske pristupne ceste mogu imati male bujice tijekom jake kiše."
+              "Upalite kratka svjetla jer je vidljivost na obalnoj cesti loša.",
+              "Provjerite brisače vjetrobrana da rade ispravno prije polaska.",
+              "Koristite klima-uređaj da spriječite zamagljivanje prozora.",
+              "Izbjegavajte parkiranje pod velikim stablima ako postoji rizik od oluje.",
+              "Uski pristupni putovi mogu imati manje vodene tokove tijekom jake kiše."
             ]
           }
         },
@@ -1418,7 +1438,7 @@
             "hu": "Egy tiszta téli reggelen Trstenóba autózunk, élvezve a bőséges parkolóhelyeket az arborétumnál. Délben a napsütötte kertben sétálunk, majd meglátogatjuk a Gučetić-villát. Délután legurulunk a kikötőbe, hogy beszívjuk a friss tengeri levegőt. A napot Brsečine strandjánál zárjuk, ahonnan kényelmesen nézhetjük végig a naplementét a partról.",
             "ro": "Într-o dimineață senină de iarnă, conducem spre Trsteno și profităm de parcările libere de la arboretum. La prânz soarele ne încălzește în grădină înainte de a vizita Villa Gučetić. După-amiaza mergem spre port pentru a respira briza proaspătă a mării. Încheiem ziua la plaja Brsečine, admirând apusul de pe mal sau direct din mașină.",
             "en": "On a clear winter morning, we drive to Trsteno, enjoying the ample parking available at the Arboretum. At noon, the sun warms us in the garden before we visit Villa Gučetić. In the afternoon, the drive takes us down to the harbor to breathe in the fresh sea breeze. We finish at Brsečine Beach, watching the sunset comfortably from the shore or the car.",
-            "hr": "U vedro zimsko jutro vozimo se do Trstena, uživajući u izobilju parkinga kod Arboretuma. U podne nas grije sunce u vrtu prije posjeta ljetnikovcu Gučetić. Poslijepodne nas vožnja vodi dolje do luke na svježi morski povjetarac. Završavamo na plaži Brsečine, udobno promatrajući zalazak sunca s obale ili iz automobila."
+            "hr": "Na vedro zimsko jutro vozimo se do Trstena i uživamo u obilnom parkiranju dostupnom kod Arboretuma. U podne nas sunce grije u vrtu prije posjeta Vili Gučetić. Popodne vožnja nas vodi dolje do luke da udahnemo svježi morski zrak. Završavamo na plaži Brsečine promatrajući zalazak sunca udobno s obale ili iz auta."
           },
           "stops": [
             {
@@ -1428,7 +1448,7 @@
                 "hu": "Télen a parkolás gyakran ingyenes vagy jóval olcsóbb a környéken.",
                 "ro": "Iarna, locurile de parcare sunt adesea gratuite sau mult mai ieftine.",
                 "en": "In winter, parking spaces are often free or significantly cheaper.",
-                "hr": "Zimi su parkirna mjesta često besplatna ili znatno jeftinija."
+                "hr": "Zimi su parkirna mjesta češće slobodna ili znatno jeftinija."
               }
             },
             {
@@ -1438,7 +1458,7 @@
                 "hu": "A villa télen szélvédett helyszínt biztosít a nézelődéshez.",
                 "ro": "Vila oferă un loc ferit de vânt pentru vizitare în timpul iernii.",
                 "en": "The villa provides a wind-sheltered spot for sightseeing in winter.",
-                "hr": "Ljetnikovac pruža mjesto zaklonjeno od vjetra za razgledavanje zimi."
+                "hr": "Vila pruža zaklonjeno mjesto za razgledavanje zimi."
               }
             },
             {
@@ -1458,7 +1478,7 @@
                 "hu": "Ideális egy rövid megállóra, hogy melegen nézze végig a naplementét.",
                 "ro": "Ideal pentru o oprire scurtă, pentru a vedea apusul la căldură.",
                 "en": "Ideal for a short stop to experience the sunset while staying warm.",
-                "hr": "Idealno za kratko zaustavljanje i doživljaj zalaska sunca na toplom."
+                "hr": "Idealno za kratko zadržavanje i doživljaj zalaska sunca dok ostajete topli."
               }
             }
           ],
@@ -1492,11 +1512,11 @@
               "Keeping warm drinks in the car makes coastal breaks much cozier."
             ],
             "hr": [
-              "Pazite na poledicu u sjenovitim zavojima obalne ceste.",
-              "Provjerite antifriz u tekućini za pranje stakla prije polaska.",
+              "Pazite na zasnežene ili zaleđene zakrivljene dijelove obalne ceste.",
+              "Provjerite antifriz u tekućini za pranje vjetrobrana prije polaska.",
               "Ceste su zimi praznije, što vožnju čini mnogo opuštenijom.",
               "Iskoristite nisko sunce za spektakularne fotografije tijekom vožnje.",
-              "Topli napici u automobilu čine obalne pauze mnogo ugodnijima."
+              "Imati tople napitke u autu čini obalne pauze puno ugodnijima."
             ]
           }
         }
@@ -1515,7 +1535,8 @@
             "de": "Trsteno Busstopp (Cluster A)",
             "hu": "Trsteno buszmegálló",
             "ro": "Stația de bus Trsteno",
-            "en": "Trsteno Bus Stop"
+            "en": "Trsteno Bus Stop",
+            "hr": "Autobusna stanica Trsteno"
           },
           "coords": [
             17.977,
@@ -1539,7 +1560,8 @@
             "de": "Renaissancegarten (Cluster A)",
             "hu": "Reneszánsz kert",
             "ro": "Grădina renascentistă",
-            "en": "Renaissance Garden"
+            "en": "Renaissance Garden",
+            "hr": "Renesansni vrt"
           },
           "coords": [
             17.978,
@@ -1555,7 +1577,7 @@
             "hu": "Élvezze a régi falak árnyékát.",
             "ro": "Bucurați-vă de umbra zidurilor vechi.",
             "en": "Enjoy the shade of the old walls.",
-            "hr": "Uživajte u sjeni starih zidina."
+            "hr": "Uživajte u hladu starih zidina."
           }
         },
         {
@@ -1563,7 +1585,8 @@
             "de": "St. Vitus Kapelle (Cluster A)",
             "hu": "Szent Vid kápolna",
             "ro": "Capela Sfântul Vitus",
-            "en": "St. Vitus Chapel"
+            "en": "St. Vitus Chapel",
+            "hr": "Kapela sv. Vida"
           },
           "coords": [
             17.9785,
@@ -1587,7 +1610,8 @@
             "de": "Orašac Dorf (Cluster B)",
             "hu": "Orašac falu",
             "ro": "Satul Orašac",
-            "en": "Orasac Village"
+            "en": "Orasac Village",
+            "hr": "Selo Orašac"
           },
           "coords": [
             18.005,
@@ -1603,7 +1627,7 @@
             "hu": "Buszos átszállás a következő parti faluhoz.",
             "ro": "Hop cu busul spre următorul sat de coastă.",
             "en": "Bus hop to the next coastal village.",
-            "hr": "Kratka vožnja autobusom do sljedećeg obalnog sela."
+            "hr": "Presjednite autobusom do sljedećeg obalnog sela."
           }
         },
         {
@@ -1611,7 +1635,8 @@
             "de": "Mittagessen in Orašac (Cluster B)",
             "hu": "Ebéd Orašacban",
             "ro": "Prânz în Orašac",
-            "en": "Lunch in Orasac"
+            "en": "Lunch in Orasac",
+            "hr": "Ručak u Orašcu"
           },
           "coords": [
             18.006,
@@ -1635,7 +1660,8 @@
             "de": "Zaton Mali (Cluster C)",
             "hu": "Zaton Mali",
             "ro": "Zaton Mali",
-            "en": "Zaton Mali"
+            "en": "Zaton Mali",
+            "hr": "Zaton Mali"
           },
           "coords": [
             18.045,
@@ -1659,7 +1685,8 @@
             "de": "Küstenpromenade Zaton (Cluster C)",
             "hu": "Zaton parti sétány",
             "ro": "Promenada din Zaton",
-            "en": "Zaton Promenade"
+            "en": "Zaton Promenade",
+            "hr": "Zaton Promenada"
           },
           "coords": [
             18.046,
@@ -1675,7 +1702,7 @@
             "hu": "Utolsó ital a vízparton a visszautazás előtt.",
             "ro": "Ultima băutură la malul mării înainte de întoarcere.",
             "en": "Last drink by the water before returning.",
-            "hr": "Zadnje piće uz more prije povratka."
+            "hr": "Zadnje piće uz vodu prije povratka."
           }
         }
       ],
@@ -1684,7 +1711,7 @@
         "hu": "Trsteno kiválóan kapcsolódik Dubrovnik távolsági buszhálózatához. Ez a túra lehetővé teszi az arborétum látogatását parkolási gondok nélkül. Ezután a buszt használjuk a szomszédos Orašac és Zaton festői öblének felfedezéséhez, mielőtt visszatérnénk a városba.",
         "ro": "Trsteno este excelent conectat la rețeaua de autobuze interurbane din Dubrovnik. Acest tur permite vizitarea Arboretumului fără grija parcării. Apoi, folosim autobuzul pentru a explora satul vecin Orašac și golful pitoresc Zaton, înainte de a reveni în oraș.",
         "en": "Trsteno is excellently connected to Dubrovnik's intercity bus system. This tour allows for a visit to the Arboretum without parking worries. Afterwards, we use the bus to explore neighboring Orasac and the scenic bay of Zaton before heading back to the city by transit.",
-        "hr": "Trsteno je izvrsno povezano s dubrovačkim međugradskim autobusnim sustavom. Ova tura omogućuje posjet Arboretumu bez brige o parkiranju. Nakon toga, autobusom istražujemo susjedni Orašac i slikovitu uvalu Zaton prije povratka u grad javnim prijevozom."
+        "hr": "Trsteno je izvrsno povezano s međugradskim autobusnim sustavom Dubrovnika. Ova tura omogućava posjet Arboretumu bez briga o parkiranju. Nakon toga koristimo autobus za istraživanje susjednog Orašca i slikovitog zaljeva Zaton prije povratka u grad javnim prijevozom."
       },
       "gastro_picks": {
         "de": [
@@ -1805,8 +1832,8 @@
           "Schedules are posted at major stops."
         ],
         "hr": [
-          "Autobusi staju na zahtjev, mahnite vozaču.",
-          "Vozni redovi su istaknuti na glavnim stanicama."
+          "Autobusi staju na zahtjev, dlanom obavijestite vozača.",
+          "Redovi vožnje istaknuti su na glavnim stajalištima."
         ]
       },
       "variants": {
@@ -1816,7 +1843,7 @@
             "hu": "Busszal érkezünk Trstenóba és azonnal menedéket keresünk a hatalmas platánok alatt. Délben az arborétumot fedezzük fel, előnyben részesítve a villa és a pavilon fedett részeit. Délután az esőben ázó Neptun-kutat csodáljuk meg, majd visszasétálunk a buszmegállóhoz. Az estét már a száraz buszon töltjük a visszaúton, figyelve az üvegen lefolyó cseppeket.",
             "ro": "Ajungem cu autobuzul în Trsteno și căutăm imediat adăpost sub platanii mari. La prânz explorăm arboretumul, preferând zonele acoperite ale vilei și pavilionului. După-amiaza admirăm fântâna lui Neptun pe ploaie înainte de a reveni la stație. Seara o petrecem la uscat în autobuz, pe drumul de întoarcere, privind ploaia de la fereastră.",
             "en": "We arrive in Trsteno by bus and immediately seek shelter under the large plane trees. At noon, we explore the Arboretum, favoring the covered areas of the villa and the pavilion. In the afternoon, we admire the Neptune Fountain in the rain before returning to the bus stop. We spend the evening dry on the bus ride back, watching the raindrops on the windows.",
-            "hr": "Dolazimo u Trsteno autobusom i odmah tražimo zaklon pod velikim platanama. U podne istražujemo Arboretum, držeći se natkrivenih dijelova ljetnikovca i paviljona. Poslijepodne se divimo Neptunovoj fontani na kiši prije povratka na autobusnu stanicu. Večer provodimo na suhom u autobusu, promatrajući kišne kapi na prozorima."
+            "hr": "Dole stižemo autobusom u Trsteno i odmah tražimo zaklon pod velikim platanskim stablima. U podne istražujemo Arboretum, birajući natkrivene dijelove vile i paviljona. Popodne u kiši divimo se Fontani Neptuna prije povratka na autobusno stajalište. Večer provodimo suhi u autobusu putujući natrag i promatrajući kapljice kiše na prozorima."
           },
           "stops": [
             {
@@ -1826,7 +1853,7 @@
                 "hu": "A buszmegálló kis tetővel rendelkezik; maradjon alatta indulásig.",
                 "ro": "Stația de autobuz are un mic acoperiș; stați acolo până la plecare.",
                 "en": "The bus stop has a small shelter; stay under it until the bus arrives.",
-                "hr": "Autobusna stanica ima mali zaklon; ostanite pod njim dok bus ne dođe."
+                "hr": "Autobusno stajalište ima mali zaklon; ostanite pod njim dok autobus ne stigne."
               }
             },
             {
@@ -1836,7 +1863,7 @@
                 "hu": "Használja a fák alatti utat, hogy szárazabban érjen el az arborétumig.",
                 "ro": "Folosiți poteca de sub copaci pentru a ajunge mai uscat la arboretum.",
                 "en": "Use the path under the trees to stay drier while heading to the Arboretum.",
-                "hr": "Koristite stazu ispod drveća kako biste ostali suši na putu do Arboretuma."
+                "hr": "Koristite put ispod stabala da ostanete suhi dok idete prema Arboretumu."
               }
             },
             {
@@ -1846,7 +1873,7 @@
                 "hu": "Heves esőben a bejárati jegypénztárnál kereshet rövid menedéket.",
                 "ro": "În caz de ploaie grea, ghereta de la intrare oferă un scurt adăpost.",
                 "en": "In heavy rain, the ticket booth at the entrance offers brief shelter.",
-                "hr": "Po jakoj kiši, blagajna na ulazu nudi kratki zaklon."
+                "hr": "U jakoj kiši šalter za ulaz nudi kratkotrajni zaklon."
               }
             },
             {
@@ -1856,7 +1883,7 @@
                 "hu": "Tervezze meg időben a visszautat a buszhoz, mert az utak csúszósak.",
                 "ro": "Planificați din timp revenirea la stație, drumurile sunt alunecoase.",
                 "en": "Plan your walk back to the bus in time, as the paths are slippery.",
-                "hr": "Planirajte povratak do autobusa na vrijeme, jer su staze klizave."
+                "hr": "Planirajte povratnu šetnju do autobusa na vrijeme, jer su putovi sklizavi."
               }
             },
             {
@@ -1866,7 +1893,7 @@
                 "hu": "Ideális hely a buszra való várakozási idő száraz eltöltéséhez.",
                 "ro": "Locul ideal pentru a aștepta autobuzul fără a vă uda pe ploaie.",
                 "en": "The ideal place to spend your bus waiting time while staying dry.",
-                "hr": "Idealno mjesto za čekanje autobusa na suhom."
+                "hr": "Idealno mjesto za čekanje autobusa i ostati suhim."
               }
             }
           ],
@@ -1900,11 +1927,11 @@
               "A small backpack with a rain cover will keep your valuables dry."
             ],
             "hr": [
-              "Provjerite aplikaciju 'Libertas Dubrovnik' za podatke o autobusima u stvarnom vremenu.",
-              "Nosite vodootpornu odjeću jer put do stanice nije natkriven.",
-              "Imajte na umu da autobusi mogu kasniti tijekom jakih kišnih oluja.",
-              "Pripremite točan iznos ili pokaz kako biste se brzo ukrcali u autobus.",
-              "Mali ruksak s navlakom za kišu očuvat će vaše dragocjenosti suhima."
+              "Provjerite aplikaciju 'Libertas Dubrovnik' za podatke o autobusima u stvarnom vremenu tijekom kiše.",
+              "Nosite vodootpornu odjeću jer je put do autobusne stanice nezaštićen.",
+              "Imajte na umu da autobusi mogu kasniti tijekom jakih oluja.",
+              "Pripremite točan iznos ili mjesečnu kartu za brzi ulazak u autobus.",
+              "Mali ruksak s navlakom protiv kiše održat će vrijednosti suhim."
             ]
           }
         },
@@ -1914,7 +1941,7 @@
             "hu": "Busszal érkezünk a reggeli Trstenóba, élvezve a tiszta téli levegőt a platánoknál. Délben a napfényes arborétumban sétálunk, majd meglátogatjuk a villát. Délután a Neptun-kutat és a pavilont keressük fel a kilátásért. Mivel télen korán sötétedik, időben visszatérünk a buszmegállóhoz, és a kivilágított parti úton utazunk vissza.",
             "ro": "Ajungem cu autobuzul în Trsteno și ne bucurăm de aerul curat de iarnă lângă platani. La prânz soarele ne încălzește în arboretum în timp ce vizităm vila. După-amiaza mergem la fântâna lui Neptun și la pavilion pentru priveliște. Deoarece iarna se întunecă devreme, revenim din timp la stație și admirăm drumul de coastă luminat la întoarcere.",
             "en": "We reach Trsteno by bus and enjoy the crisp winter air by the plane trees. At noon, the sun warms the Arboretum as we tour the villa. In the afternoon, we visit the Neptune Fountain and the pavilion to take in the views. Since it gets dark early in winter, we return to the bus stop in good time and enjoy the lit-up coastal road on the way back.",
-            "hr": "Dolazimo u Trsteno autobusom i uživamo u oštrom zimskom zraku kod platana. U podne sunce grije Arboretum dok obilazimo ljetnikovac. Poslijepodne posjećujemo Neptunovu fontanu i paviljon kako bismo uživali u vidicima. Budući da zimi rano pada mrak, vraćamo se na stanicu na vrijeme i uživamo u osvijetljenoj obalnoj cesti na povratku."
+            "hr": "Stižemo u Trsteno autobusom i uživamo u svježem zimskom zraku pod platanskim stablima. U podne nas grijava sunce dok razgledavamo vilu. Popodne posjećujemo Fontanu Neptuna i paviljon da uživamo u pogledu. Budući da se zimi brzo smrkava, vraćamo se na autobusno stajalište na vrijeme i uživamo u osvijetljenoj obalnoj cesti na povratku."
           },
           "stops": [
             {
@@ -1924,7 +1951,7 @@
                 "hu": "Ügyeljen a 12-es vagy 15-ös busz ritkított téli menetrendjére.",
                 "ro": "Atenție la programul de iarnă redus al liniilor 12 sau 15.",
                 "en": "Note the reduced winter schedule for bus lines 12 or 15.",
-                "hr": "Obratite pozornost na reducirani zimski red vožnje linija 12 ili 15."
+                "hr": "Obratite pozornost na smanjen zimski raspored za linije 12 i 15."
               }
             },
             {
@@ -1944,7 +1971,7 @@
                 "hu": "A látogatást a déli órákra időzítse, amikor a legmelegebb van.",
                 "ro": "Vizitați arboretumul la orele prânzului, când este cel mai cald.",
                 "en": "Schedule your visit for the midday hours when it is warmest.",
-                "hr": "Planirajte posjet u podnevnim satima kada je najtoplije."
+                "hr": "Rasporedite posjet za vrijeme podneva kada je najtoplije."
               }
             },
             {
@@ -1954,7 +1981,7 @@
                 "hu": "A szobrok télen gyakran árnyékban vannak; öltözzön fel melegen.",
                 "ro": "Statuile sunt adesea în umbră iarna; îmbrăcați-vă bine.",
                 "en": "The statues are often in the shade in winter; dress warmly.",
-                "hr": "Kipovi su zimi često u sjeni; obucite se toplo."
+                "hr": "Kipovi su često u hladu zimi; obucite se toplo."
               }
             },
             {
@@ -1964,7 +1991,7 @@
                 "hu": "Hagyja el időben a pavilont, hogy még világosban elérje az utolsó buszt.",
                 "ro": "Părăsiți pavilionul la timp pentru a prinde autobuzul pe lumină.",
                 "en": "Leave the pavilion in time to catch the last bus while it's still light.",
-                "hr": "Napustite paviljon na vrijeme da uhvatite zadnji autobus dok je još dan."
+                "hr": "Napustite paviljon na vrijeme da uhvatite zadnji autobus dok je još svijetlo."
               }
             }
           ],
@@ -1998,11 +2025,11 @@
               "The winter sunset is early, making the bus ride back very scenic."
             ],
             "hr": [
-              "Autobusi zimi voze rjeđe; pažljivo planirajte povratak.",
-              "Autobus je ugodno grijan, savršeno za zagrijavanje nakon šetnje.",
-              "Nosite kapu, jer na stanici zimi može biti prilično vjetrovito.",
-              "Kupite karte unaprijed u Dubrovniku (Tisak) kako biste uštedjeli vrijeme.",
-              "Zimski zalazak sunca je rano, pa je vožnja autobusom natrag vrlo slikovita."
+              "Autobusi voze rjeđe zimi; planirajte povratak pažljivo.",
+              "Autobus je udobno grijani, savršen za ugrijavanje nakon šetnje.",
+              "Nosite kapu jer može biti prohladno na autobusnom stajalištu zimi.",
+              "Kupite karte unaprijed u Dubrovniku (Tisak) da uštedite vrijeme.",
+              "Zimski zalazak sunca je ran, što čini povratnu vožnju vrlo slikovitom."
             ]
           }
         }

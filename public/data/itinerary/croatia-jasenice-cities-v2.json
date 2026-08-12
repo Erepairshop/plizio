@@ -32,7 +32,7 @@
             "hu": "Élvezze a kilátást a Novigradi-csatornára.",
             "ro": "Bucurați-vă de priveliștea asupra canalului Novigrad.",
             "en": "Enjoy the view over the Novigrad Channel.",
-            "hr": "Uživajte u pogledu na Novigradsko ždrilo."
+            "hr": "Uživajte u pogledu preko Novigradskog kanala."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Egy békés templom Maslenica szívében.",
             "ro": "O biserică liniștită în inima Maslenica.",
             "en": "A peaceful church in the heart of Maslenica.",
-            "hr": "Mirna crkva u srcu Maslenice."
+            "hr": "Miran crkveni objekt u srcu Maslenice."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Kristálytiszta víz csábít úszásra.",
             "ro": "Apa de cristal vă invită la înot.",
             "en": "Crystal clear water invites for a swim.",
-            "hr": "Kristalno čisto more poziva na kupanje."
+            "hr": "Kristalno čista voda poziva na kupanje."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Kóstolja meg a friss halat vagy a pekát.",
             "ro": "Încercați peștele proaspăt sau peka.",
             "en": "Try fresh fish or local peka.",
-            "hr": "Probajte svježu ribu ili domaću peku."
+            "hr": "Probajte svježu ribu ili lokalnu peku."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Egy pihentető lezárás a kis kikötőben.",
             "ro": "O încheiere relaxantă în micul port.",
             "en": "A relaxing finish at the small harbor.",
-            "hr": "Opuštajući završetak u maloj luci."
+            "hr": "Opustite se na kraju u maloj luci."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "Fedezze fel Jasenicét és Maslenicát gyalogosan. Az út a hangulatos kikötőtől a Szent Jeromos-templomig, majd az ikonikus vörös Maslenica-hídig vezet. Élvezze a délelőttöt a Novigradi-csatorna panorámájával, töltsön el pihentető órákat a kavicsos strandon, végül zárja a napot helyi dalmát specialitásokkal közvetlenül a vízparton.",
         "ro": "Explorați Jasenice și localitatea Maslenica pe jos. Traseul duce de la zona portuară primitoare la biserica istorică Sf. Ieronim și mai departe la emblematicul pod roșu Maslenica. Bucurați-vă de dimineață cu vederi panoramice asupra canalului Novigrad, petreceți ore relaxante pe plaja cu pietriș și încheiați ziua cu specialități dalmate chiar lângă apă.",
         "en": "Explore Jasenice and Maslenica on foot. The path leads from the cozy harbor to the historical St. Jerome Church and on to the iconic red Maslenica Bridge. Enjoy the morning with panoramic views of the Novigrad Channel, spend relaxing hours at the pebble beach, and finish the day with local Dalmatian specialties right by the water.",
-        "hr": "Istražite Jasenice i Maslenicu pješice. Put vodi od ugodne luke do povijesne crkve sv. Jeronima te dalje do kultnog crvenog Masleničkog mosta. Uživajte u jutru uz panoramski pogled na Novigradsko ždrilo, provedite opuštajuće sate na šljunčanoj plaži i završite dan uz lokalne dalmatinske specijalitete tik uz more."
+        "hr": "Istražite Jasenice i Maslenicu pješke. Put vodi od ugodne luke do povijesne crkve sv. Jeronima i dalje do ikoničnog crvenog mosta Maslenica. Uživajte u jutru s panoramskim pogledima na Novigradski kanal, provedite opuštajuće sate na šljunčanoj plaži i završite dan s lokalnim dalmatinskim specijalitetima tik uz more."
       },
       "gastro_picks": {
         "de": [
@@ -278,7 +278,7 @@
         ],
         "hr": [
           "Nosite udobnu obuću za šetnju do mosta.",
-          "Plaže u Maslenici su šljunčane, preporučuje se obuća za vodu."
+          "Plaže u Maslenici su šljunčane, preporučuju se cipelice za vodu."
         ]
       },
       "variants": {
@@ -288,7 +288,7 @@
             "hu": "A reggelt a kávézó belső asztalainál kezdjük, figyelve a tenger feletti esőfelhőket. A Szent Jeromos-templom vastag falai között szárazon pihenhetünk, mielőtt a Maslenica-híd felé vesszük az irányt. A hídon a szél és a vízpermet miatt vízhatlan kabát kell. A strand helyett egy hosszú, forró konoba-ebédet választunk, majd a kikötői sétányon, az eső elől a fedett részeken haladva fejezzük be a sétát.",
             "ro": "Începem ziua în interiorul cafenelei, protejați de ploaia care cade peste golf. Biserica Sf. Ieronim oferă un adăpost liniștit și uscat în continuare. Mersul pe podul Maslenica în condiții de ploaie este o experiență intensă, cu vânt puternic. În locul pauzei de plajă, alegem un prânz prelungit la o konoba locală, terminând ziua cu o plimbare scurtă în port, căutând zonele acoperite ale falezei.",
             "en": "Start the day inside the cafe, watching the rain clouds roll over the Novigrad Sea. St. Jerome Church provides a dry sanctuary for exploration. The walk to the Maslenica Bridge is windy when wet, offering a dramatic view of the steel structure against the grey sky. Swap the beach break for a long, warming lunch in a traditional tavern before a brisk walk along the harbor's sheltered spots.",
-            "hr": "Započnite dan u kafiću, promatrajući kišne oblake nad Novigradskim morem. Crkva sv. Jeronima pruža suho utočište za istraživanje. Šetnja do Masleničkog mosta po mokrom vremenu je vjetrovita, ali nudi dramatičan pogled na čeličnu konstrukciju naspram sivog neba. Zamijenite odmor na plaži dugim, toplim ručkom u tradicionalnoj konobi prije brze šetnje zaklonjenim dijelovima luke."
+            "hr": "Započnite dan u kafiću, promatrajući oblake kiše kako se nadvijaju nad Novigradskim morem. Crkva sv. Jeronima pruža suhi zaklon za razgled. Šetnja do mosta Maslenica vjetrovita je kad je mokro, nudeći dramatičan pogled čelične konstrukcije na sivom nebu. Umjesto pauze na plaži, priuštite si dugo, toplo ručanje u tradicionalnoj konobi prije energične šetnje uz zaklonjena mjesta u luci."
           },
           "stops": [
             {
@@ -298,7 +298,7 @@
                 "hu": "Válasszunk belső asztalt az ablak mellett.",
                 "ro": "Alegeți o masă în interior, lângă fereastră.",
                 "en": "Opt for a table inside near the window.",
-                "hr": "Odaberite stol unutra pored prozora."
+                "hr": "Odaberite stol unutra blizu prozora."
               }
             },
             {
@@ -308,7 +308,7 @@
                 "hu": "Használja ki a csendet egy száraz városnézésre.",
                 "ro": "Bucurați-vă de liniște pentru o vizită la adăpost.",
                 "en": "Enjoy the quiet interior for a dry visit.",
-                "hr": "Uživajte u mirnoj unutrašnjosti za suhi posjet."
+                "hr": "Uživajte u mirnom interijeru za suhi posjet."
               }
             },
             {
@@ -328,7 +328,7 @@
                 "hu": "Csak egy rövid fotómegálló esernyő alatt.",
                 "ro": "Doar o scurtă oprire pentru poze sub umbrelă.",
                 "en": "Just a quick photo stop under an umbrella.",
-                "hr": "Samo kratko zaustavljanje za fotografiju pod kišobranom."
+                "hr": "Samo kratko zaustavljanje za fotografiju ispod kišobrana."
               }
             },
             {
@@ -348,7 +348,7 @@
                 "hu": "Maradjon az épületek ereszei alatt.",
                 "ro": "Rămâneți sub streșinile clădirilor de pe faleză.",
                 "en": "Stay under the eaves of the harbor buildings.",
-                "hr": "Ostanite pod strehama lučkih zgrada."
+                "hr": "Ostanite pod žljebovima lučkih zgrada."
               }
             }
           ],
@@ -378,10 +378,10 @@
               "The red bridge contrasts beautifully with stormy grey skies."
             ],
             "hr": [
-              "Vjetrootporni kišobran je neophodan u blizini izložene obale.",
-              "Obalni putevi postaju skliski; nosite obuću s dobrim prianjanjem.",
-              "Lokalne konobe se brzo pune tijekom kiše; rezervirajte stol unaprijed.",
-              "Crveni most stvara prekrasan kontrast s olujnim sivim nebom."
+              "Vjetrootporan kišobran nužan je uz izloženu obalu.",
+              "Obalni putevi postaju sklizak; nosite obuću s dobrim prianjanjem.",
+              "Lokalne konobe brzo se pune tijekom kiše; rezervirajte stol unaprijed.",
+              "Crveni most lijepo kontrastira sa olovnim sivim nebom."
             ]
           }
         },
@@ -391,7 +391,7 @@
             "hu": "A csípős téli reggelen a kávézó gőze mellett tervezzük a napot. A templom hűvös belseje után a Maslenica-hídon a Velebit felől fújó Bura széllel küzdünk meg. A strandon csak a látványt élvezzük a téli napsütésben, majd egy fűtött konobában töltődünk fel. A parti sétát már a korai, délutáni naplemente fényeiben fejezzük be, mielőtt teljesen lehűlne a levegő.",
             "ro": "Aerul proaspăt de iarnă însoțește cafeaua de dimineață. După vizita la biserica răcoroasă, înfruntăm vântul Bura pe podul Maslenica. Pe plajă ne bucurăm de soarele blând de iarnă, fără a intra în apă, apoi ne încălzim într-o konoba primitoare. Plimbarea pe faleză se termină exact la apusul devreme, în jurul orei 16:30, când temperaturile scad brusc.",
             "en": "Crisp winter air greets us during morning coffee. The church interior is chilly but serene. On the bridge, be prepared for the strong Bura wind from the mountains. Enjoy the low winter sun at the beach for views only, then retreat to a heated tavern for a hearty meal. The harbor walk concludes just as the sun sets early, casting long shadows over the Adriatic by 4:30 PM.",
-            "hr": "Oštar zimski zrak pozdravlja nas tijekom jutarnje kave. Unutrašnjost crkve je hladna, ali spokojna. Na mostu budite spremni na jaku buru s planina. Uživajte u niskom zimskom suncu na plaži samo zbog pogleda, a zatim se povucite u grijanu konobu na krepko jelo. Šetnja lukom završava čim sunce rano zađe, bacajući duge sjene nad Jadran već oko 16:30."
+            "hr": "Hrskav zimski zrak dočekuje nas uz jutarnju kavu. Unutrašnjost crkve je hladna ali spokojna. Na mostu budite spremni na snažnu buru s planina. Uživajte u niskom zimskom suncu na plaži samo za poglede, zatim se povucite u zagrijanu konobu za obilni obrok. Šetnja lukom završava upravo kad sunce rano zađe, bacajući duge sjene preko Jadrana oko 16:30."
           },
           "stops": [
             {
@@ -401,7 +401,7 @@
                 "hu": "Igya a kávéját forrón, a benti részben.",
                 "ro": "Beți cafeaua fierbinte în interior.",
                 "en": "Drink your coffee hot and indoors.",
-                "hr": "Pijte kavu toplu i u zatvorenom prostoru."
+                "hr": "Pijte kavu toplu i unutra."
               }
             },
             {
@@ -421,7 +421,7 @@
                 "hu": "Szélálló ruházat kell a Bura ellen.",
                 "ro": "Haine rezistente la vânt pentru Bura.",
                 "en": "Windproof clothing is vital against the Bura.",
-                "hr": "Vjetrootporna odjeća je ključna protiv bure."
+                "hr": "Vjetrootporna odjeća vitalna je protiv bure."
               }
             },
             {
@@ -431,7 +431,7 @@
                 "hu": "Élvezze a tiszta fényeket a panorámafotókhoz.",
                 "ro": "Bucurați-vă de lumina clară pentru poze.",
                 "en": "Enjoy the crisp light for panoramic photos.",
-                "hr": "Uživajte u oštrom svjetlu za panoramske fotografije."
+                "hr": "Iskoristite oštro svjetlo za panoramske fotografije."
               }
             },
             {
@@ -441,7 +441,7 @@
                 "hu": "Kérjen asztalt a kályha vagy kandalló közelében.",
                 "ro": "Căutați o masă lângă sobă sau șemineu.",
                 "en": "Ask for a seat near the stove or fireplace.",
-                "hr": "Zatražite mjesto pored peći ili kamina."
+                "hr": "Zatražite mjesto blizu peći ili ognjišta."
               }
             },
             {
@@ -482,9 +482,9 @@
             ],
             "hr": [
               "Bura može biti žestoka; provjerite lokalna upozorenja o vjetru.",
-              "Odjenite se slojevito kako biste se prilagodili vjetru i zimskom suncu.",
-              "Neke konobe se zatvaraju tijekom sezone; nazovite unaprijed za potvrdu.",
-              "Zimski zalasci sunca nude zadivljujuće boje nad uvalom Maslenica."
+              "Slojevito se odjenite kako biste se prilagodili vjetru i zimskom suncu.",
+              "Neke konobe zatvaraju sezonski; nazovite unaprijed da potvrdite.",
+              "Zimski zalasci nude zapanjujuće boje nad uvalom Maslenica."
             ]
           }
         }
@@ -533,7 +533,7 @@
             "hu": "Kilátás a Zrmanja-kanyon bejáratára.",
             "ro": "Vedere spre intrarea în canionul Zrmanja.",
             "en": "View of the Zrmanja canyon entrance.",
-            "hr": "Pogled na ulaz u kanjon Zrmanje."
+            "hr": "Pogled na ulaz kanjona Zrmanje."
           }
         },
         {
@@ -552,7 +552,7 @@
             "hu": "Pihenő a bájos kis kikötőben.",
             "ro": "Pauză în micul port fermecător.",
             "en": "Break at the charming small harbor.",
-            "hr": "Predah u šarmantnoj maloj luci."
+            "hr": "Odmorite uz šarmantnu malu luku."
           }
         },
         {
@@ -609,7 +609,7 @@
             "hu": "Kiváló tengeri ételek.",
             "ro": "Fructe de mare excelente.",
             "en": "Excellent seafood options.",
-            "hr": "Izvrsne opcije s plodovima mora."
+            "hr": "Izvrsne opcije morskih plodova."
           }
         },
         {
@@ -637,7 +637,7 @@
         "hu": "Ez a kerékpártúra Maslenica tengerparti tájait köti össze a rejtélyes Modrič-barlanggal. Teerjen az Adria-menti úton (vigyázva!) vagy használja Rovanjska mellékutcáit. Az útvonal látványos kilátást nyújt a tengerre és a háttérben tornyosuló Velebit-hegység szikláira, elegendő időt hagyva egy barlangtúrára és egy kikötői ebédre.",
         "ro": "Acest tur cu bicicleta combină peisajul de coastă din Maslenica cu misterioasa peșteră Modrič. Pedalați de-a lungul magistralei Adriatice (cu atenție!) sau folosiți drumurile secundare din Rovanjska. Traseul oferă vederi spectaculoase asupra mării și a stâncilor impunătoare ale munților Velebit în fundal, cu destul timp pentru un tur al peșterii și un prânz în port.",
         "en": "This bike tour connects the coastal landscape of Maslenica with the mysterious Modrič Cave. Cycle along the Adriatic highway (with caution!) or use side roads in Rovanjska. The route offers spectacular views of the sea and the imposing rocks of the Velebit mountains in the background, with plenty of time for a cave tour and a harbor lunch.",
-        "hr": "Ova biciklistička tura povezuje obalni krajolik Maslenice s tajanstvenom špiljom Modrič. Vozite se Jadranskom magistralom (uz oprez!) ili koristite sporedne ceste u Rovanjskoj. Ruta nudi spektakularne vidike na more i impozantne stijene Velebita u pozadini, uz dovoljno vremena za obilazak špilje i ručak u luci."
+        "hr": "Ova biciklistička tura povezuje obalni krajolik Maslenice s misterioznom špiljom Modrič. Vozite uz Jadransku magistralu (pažljivo!) ili koristite sporedne ceste u Rovanjskoj. Ruta nudi spektakularne poglede na more i impozantne stijene Velebita u pozadini, s dovoljno vremena za razgled špilje i ručak u luci."
       },
       "gastro_picks": {
         "de": [
@@ -758,8 +758,8 @@
           "A helmet is essential on the main highway."
         ],
         "hr": [
-          "Za špilju Modrič često je potrebna prethodna rezervacija.",
-          "Kaciga je neophodna na glavnoj magistrali."
+          "Često je potrebna prethodna rezervacija za špilju Modrič.",
+          "Kaciga je obavezna na glavnoj magistrali."
         ]
       },
       "variants": {
@@ -769,7 +769,7 @@
             "hu": "Az esős kerékpártúra próbára teszi az embert, de a Modrič-barlang tökéletes fedett célpont. A templom után óvatosan kelünk át a hídon, ahol a szél megnehezíti a haladást. Rovanjska partján a sós permet és az eső keveredik. A barlangban 100 percig teljes szárazságban vagyunk, majd egy tápláló ebéd után vágunk neki a vizes visszaútnak.",
             "ro": "O tură cu bicicleta pe ploaie necesită echipament bun, dar peștera Modrič este destinația ideală. După biserică, traversăm podul cu mare atenție la vânt. Pe coasta Rovanjska, stropii de mare se amestecă cu ploaia. În peșteră rămânem uscați timp de 100 de minute, apoi, după un prânz consistent, revenim pe biciclete spre Maslenica.",
             "en": "Cycling in the rain requires focus, but Modrič Cave is the ultimate dry reward. Start at the church and cross the bridge with caution due to gusts. Along the Rovanjska coast, sea spray and rain create a wild atmosphere. Spend 100 dry minutes inside the cave before a fortifying lunch and a wet ride back to the starting point.",
-            "hr": "Bicikliranje po kiši zahtijeva fokus, ali špilja Modrič je vrhunska suha nagrada. Krenite od crkve i oprezno prijeđite most zbog naleta vjetra. Duž obale Rovanjske, morska pjena i kiša stvaraju divlju atmosferu. Provedite 100 suhih minuta unutar špilje prije okrepljujućeg ručka i mokre vožnje natrag do početne točke."
+            "hr": "Biciklizam po kiši zahtijeva fokus, ali špilja Modrič je ultimativna suha nagrada. Započnite kod crkve i prijeđite most pažljivo zbog naleta vjetra. Uz obalu Rovanjske, morska prašina i kiša stvaraju divlju atmosferu. Provedite 100 suhih minuta u špilji prije okrepljujućeg ručka i mokrog povratka do početne točke."
           },
           "stops": [
             {
@@ -779,7 +779,7 @@
                 "hu": "Parkolja a biciklit szélvédett fal mellé.",
                 "ro": "Parcați bicicleta lângă un zid ferit de vânt.",
                 "en": "Park your bike against a sheltered wall.",
-                "hr": "Parkirajte bicikl uza zaklonjeni zid."
+                "hr": "Parkirajte bicikl uza zaštićeni zid."
               }
             },
             {
@@ -799,7 +799,7 @@
                 "hu": "Vigyázat, az aszfalt és az algás kövek csúsznak.",
                 "ro": "Atenție la asfaltul ud și alge.",
                 "en": "Beware of slippery asphalt and algae.",
-                "hr": "Čuvajte se skliskog asfalta i algi."
+                "hr": "Pazite na sklizav asfalt i alge."
               }
             },
             {
@@ -829,7 +829,7 @@
                 "hu": "Használja az időt a zoknik szárítására.",
                 "ro": "Folosiți timpul pentru a vă usca șosetele.",
                 "en": "Use the time to dry your socks.",
-                "hr": "Iskoristite vrijeme da osušite čarape."
+                "hr": "Iskoristite vrijeme za sušenje čarapa."
               }
             },
             {
@@ -869,10 +869,10 @@
               "Avoid sharp turns on wet or mossy coastal sections."
             ],
             "hr": [
-              "Preporučuje se puna kišna oprema i blatobrani.",
-              "Lagano smanjite tlak u gumama za bolje prianjanje na mokrim cestama.",
-              "Špilja Modrič je savršena atrakcija otporna na kišu u ovom području.",
-              "Izbjegavajte oštra skretanja na mokrim ili mahovinom obraslim obalnim dijelovima."
+              "Potpuna kišna oprema i blatobrani su vrlo preporučljivi.",
+              "Blago smanjite tlak u gumama za bolje prianjanje na mokrim cestama.",
+              "Špilja Modrič savršena je atrakcija neovisna o kiši u okolici.",
+              "Izbjegavajte oštre zavoje na mokrim ili obraslim obalnim dionicama."
             ]
           }
         },
@@ -882,7 +882,7 @@
             "hu": "A téli tekerés Jasenicében a szél elleni küzdelemről szól. A templomtól a hídig érezzük a hegyek felől áramló hideget. Rovanjska felé a Bura oldalról tolhatja a biciklit. A barlang a maga állandó 15 fokával ilyenkor kifejezetten melegnek érződik. Egy kiadós ebéd után gyorsan tekerünk vissza, hogy még szürkület előtt beérjünk.",
             "ro": "Ciclismul de iarnă în Jasenice înseamnă lupta cu vântul. De la biserică la pod, aerul rece de munte este tăios. Spre Rovanjska, vântul Bura poate lovi din lateral. Peștera, cu cele 15 grade constante, pare foarte caldă iarna. După un prânz cald, pedalăm rapid înapoi pentru a evita frigul serii.",
             "en": "Winter cycling here is all about managing the wind. From the church to the bridge, feel the biting mountain air. The ride to Rovanjska is flat, but side winds from the Bura can be tricky. The cave’s constant 15°C feels remarkably warm in winter. After a hot lunch, pedal quickly back to beat the rapidly dropping dusk temperatures.",
-            "hr": "Zimski biciklizam ovdje se svodi na upravljanje vjetrom. Od crkve do mosta osjetite oštar planinski zrak. Vožnja do Rovanjske je ravna, ali bočni udari bure mogu biti nezgodni. Stalnih 15°C u špilji djeluje izrazito toplo zimi. Nakon toplog ručka, brzo pedalirajte natrag kako biste preduhitrili brzi pad temperature u sumrak."
+            "hr": "Zimski biciklizam ovdje je upravljanje vjetrom. Od crkve do mosta osjetite oštar planinski zrak. Vožnja do Rovanjske je ravna, ali bočni udari bure mogu biti nezgodni. Konstantnih 15°C u špilji osjeća se iznenađujuće toplo zimi. Nakon toplog ručka, brzo pedalirajte natrag kako biste stigli prije naglog pada temperature u sumrak."
           },
           "stops": [
             {
@@ -892,7 +892,7 @@
                 "hu": "Ne feledje a kesztyűt, a fékkarok hidegek.",
                 "ro": "Nu uitați mănușile, manetele sunt reci.",
                 "en": "Don't forget gloves; the brake levers are cold.",
-                "hr": "Ne zaboravite rukavice; ručice kočnica su hladne."
+                "hr": "Ne zaboravite rukavice; poluge kočnica su hladne."
               }
             },
             {
@@ -902,7 +902,7 @@
                 "hu": "Erős Bura esetén a tolás biztonságosabb.",
                 "ro": "La Bura puternică, e mai sigur să mergeți pe lângă.",
                 "en": "If the Bura is strong, walking the bike is safer.",
-                "hr": "Ako je bura jaka, sigurnije je gurati bicikl pješice."
+                "hr": "Ako je bura jaka, sigurnije je pješačiti s biciklom."
               }
             },
             {
@@ -932,7 +932,7 @@
                 "hu": "Rövid megálló egy forró teára a termoszból.",
                 "ro": "O scurtă oprire pentru ceai fierbinte din termos.",
                 "en": "Short stop for hot tea from a thermos.",
-                "hr": "Kratko zaustavljanje za topli čaj iz termosice."
+                "hr": "Kratko stajanje za topao čaj iz termosa."
               }
             },
             {
@@ -942,7 +942,7 @@
                 "hu": "A kalóriadús ételek segítenek a hideg ellen.",
                 "ro": "Mâncărurile bogate în calorii ajută contra frigului.",
                 "en": "High-calorie meals help fight the cold.",
-                "hr": "Visokokalorični obroci pomažu u borbi protiv hladnoće."
+                "hr": "Obroci s visokim udjelom kalorija pomažu borbi protiv hladnoće."
               }
             },
             {
@@ -952,7 +952,7 @@
                 "hu": "Legyen kéznél fejlámpa, ha későre nyúlna a túra.",
                 "ro": "Aveți lanterna frontală pregătită.",
                 "en": "Have a headlamp ready in case of delays.",
-                "hr": "Imajte spremnu naglavnu svjetiljku u slučaju kašnjenja."
+                "hr": "Imate spremnu glavnu lampu u slučaju kašnjenja."
               }
             }
           ],
@@ -982,10 +982,10 @@
               "Check your bike lights; daylight hours are limited."
             ],
             "hr": [
-              "Termalni slojevi i vjetrootporne jakne su obvezni.",
-              "Pijte dovoljno tekućine čak i ako ne osjećate žeđ na hladnoći.",
-              "U slučaju ekstremne bure, bicikliranje na mostu je zabranjeno.",
-              "Provjerite svjetla na biciklu; dnevno svjetlo je ograničeno."
+              "Toplinski slojevi i vjetrootporne jakne su obavezni.",
+              "Ostanite hidrirani čak i ako vam se ne pije u hladnoći.",
+              "U ekstremnoj buri vožnja biciklom preko mosta zabranjena je.",
+              "Provjerite svjetla na biciklu; sati dnevnog svjetla su ograničeni."
             ]
           }
         }
@@ -1053,7 +1053,7 @@
             "hu": "Fedezze fel a föld alatti csodákat.",
             "ro": "Explorați minunile subterane.",
             "en": "Explore the underground wonders.",
-            "hr": "Istražite podzemna čuda."
+            "hr": "Istražite podzemne ljepote."
           }
         },
         {
@@ -1072,7 +1072,7 @@
             "hu": "A sült bárány itt a specialitás.",
             "ro": "Mielul la proțap este specialitatea aici.",
             "en": "Spit-roasted lamb is the specialty here.",
-            "hr": "Janjetina s ražnja je ovdje specijalitet."
+            "hr": "Janje pečeno na ražnju je ovdje specijalitet."
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "hu": "Híres Winnetou-filmek forgatási helyszíne.",
             "ro": "Locații celebre de filmare pentru Winnetou.",
             "en": "Famous filming locations for Winnetou movies.",
-            "hr": "Poznate lokacije snimanja filmova o Winnetouu."
+            "hr": "Poznate lokacije snimanja Winnetou filmova."
           }
         },
         {
@@ -1138,7 +1138,7 @@
         "hu": "Ez az autós útvonal a tenger és a hegyek közötti végső élményt nyújtja. A part menti látnivalók, mint a Maslenica-híd és a Modrič-barlang után az út felvezet a Velebitbe, a Tulove Grede szikláihoz. A markáns képződmények nemcsak természeti csodák, hanem a filmrajongók zarándokhelye is. Az odavezető út (Majstorska cesta) önmagában is kaland, páratlan kilátással.",
         "ro": "Acest traseu auto oferă experiența supremă între mare și munte. După vizitarea punctelor de interes de pe coastă, cum ar fi podul Maslenica și peștera Modrič, drumul urcă în Velebit spre Tulove Grede. Formațiunile stâncoase marcante nu sunt doar o minune a naturii, ci și un loc de cult pentru fanii filmelor. Drumul până acolo (Majstorska cesta) este o aventură în sine, cu vederi de neegalat.",
         "en": "This car route offers the ultimate experience between the sea and the mountains. After visiting coastal highlights like the Maslenica Bridge and Modrič Cave, the drive leads up into Velebit to Tulove Grede. The striking rock formations are not only a natural wonder but also a cult site for movie fans. The road there (Majstorska cesta) is an adventure in itself with unparalleled views.",
-        "hr": "Ova ruta automobilom nudi vrhunski doživljaj između mora i planina. Nakon posjeta obalnim znamenitostima poput Masleničkog mosta i špilje Modrič, put vodi uzbrdo na Velebit do Tulovih greda. Upečatljive stijene nisu samo prirodno čudo već i kultno mjesto za ljubitelje filma. Put do tamo (Majstorska cesta) avantura je za sebe s neusporedivim vidicima."
+        "hr": "Ova ruta autom nudi vrhunsko iskustvo između mora i planine. Nakon posjete obalnim zanimljivostima poput Masleničkog mosta i Modričke špilje, vožnja vodi u Velebit do Tulovih greda. Impresivne stijene nisu samo prirodni fenomen već i kultno mjesto za filmske fanove. Sama cesta (Majstorska cesta) je avantura sa nenadmašnim pogledima."
       },
       "gastro_picks": {
         "de": [
@@ -1259,8 +1259,8 @@
           "Parking at the bridge is easier on the south side."
         ],
         "hr": [
-          "Majstorska cesta je makadamski put, vozite oprezno.",
-          "Parkiranje kod mosta je lakše na južnoj strani."
+          "Majstorska cesta je makadam, vozite pažljivo.",
+          "Parkiranje na mostu je lakše na južnoj strani."
         ]
       },
       "variants": {
@@ -1270,7 +1270,7 @@
             "hu": "Az autó rugalmasságot ad, ami esőben nagy előny. A hídat és a templomot a kocsiból is megcsodálhatjuk, mielőtt a barlangba megyünk. A Tulove grede felé vezető murvás út esőben trükkös és sáros lehet, óvatosan vezessünk. A Winnetou-helyszínen csak pár fotót lövünk az ablakból, majd egy meleg étteremben zárjuk a napot.",
             "ro": "Mașina oferă confortul necesar pe ploaie. Admirăm podul și biserica din mașină înainte de a intra în peșteră. Drumul spre Tulove Grede poate fi dificil pe ploaie, drumul neasfaltat devenind noroios. Limităm oprirea la locul de filmare Winnetou la câteva poze rapide, încheind ziua cu o cină caldă în Rovanjska.",
             "en": "The car provides the perfect shelter from the rain today. View the bridge and church comfortably before heading underground at Modrič. Driving up to Tulove Grede on the gravel road requires care when wet as it can get muddy. Keep the Winnetou photo stop brief before settling in for a cozy dinner in Rovanjska.",
-            "hr": "Automobil danas pruža savršen zaklon od kiše. Udobno razgledajte most i crkvu prije odlaska pod zemlju u Modrič. Vožnja uz Tulove grede makadamskom cestom po mokrom vremenu zahtijeva oprez jer put može postati blatnjav. Neka zaustavljanje za fotografiranje Winnetou lokacija bude kratko prije nego se smjestite na ugodnu večeru u Rovanjskoj."
+            "hr": "Auto danas pruža savršeno sklonište od kiše. Udobno pogledajte most i crkvu prije odlaska pod zemlju u Modrič. Vožnja do Tulovih greda makadamom traži oprez kad je mokro jer se može zagrađiti. Kratko zadržite Winnetou foto-stanku prije ugodne večere u Rovanjskoj."
           },
           "stops": [
             {
@@ -1280,7 +1280,7 @@
                 "hu": "Használja a pihenőt az autóból való fotózáshoz.",
                 "ro": "Folosiți parcarea pentru poze din mașină.",
                 "en": "Use the lay-by for photos from the car.",
-                "hr": "Iskoristite ugibalište za fotografije iz automobila."
+                "hr": "Iskoristite odvojak za fotografije iz auta."
               }
             },
             {
@@ -1290,7 +1290,7 @@
                 "hu": "Parkoljon közel a bejárathoz, hogy száraz maradjon.",
                 "ro": "Parcați aproape de intrare ca să rămâneți uscat.",
                 "en": "Park close to the entrance to stay dry.",
-                "hr": "Parkirajte blizu ulaza kako biste ostali suhi."
+                "hr": "Parkirajte blizu ulaza da ostanete suhi."
               }
             },
             {
@@ -1300,7 +1300,7 @@
                 "hu": "Biztonságos parkoló közvetlenül a találkozónál.",
                 "ro": "Parcare sigură direct la punctul de întâlnire.",
                 "en": "Secure parking right at the meeting point.",
-                "hr": "Siguran parking izravno na mjestu sastanka."
+                "hr": "Osigurano parkiranje odmah na sastajalištu."
               }
             },
             {
@@ -1310,7 +1310,7 @@
                 "hu": "Élvezze a völgyre és az esőre nyíló kilátást.",
                 "ro": "Bucurați-vă de vederea spre vale prin ploaie.",
                 "en": "Enjoy the view of the rain over the valley.",
-                "hr": "Uživajte u pogledu na kišu nad dolinom."
+                "hr": "Uživajte u pogledu kiše preko doline."
               }
             },
             {
@@ -1320,7 +1320,7 @@
                 "hu": "Csak jó látási viszonyok mellett hajtson fel.",
                 "ro": "Urcați pe munte doar dacă vizibilitatea e bună.",
                 "en": "Only drive up the mountain if visibility is good.",
-                "hr": "Vozite u planinu samo ako je vidljivost dobra."
+                "hr": "Penjite se na planinu samo ako je vidljivost dobra."
               }
             },
             {
@@ -1340,7 +1340,7 @@
                 "hu": "Keressen parkolót közvetlenül az étteremnél.",
                 "ro": "Căutați parcare chiar lângă restaurant.",
                 "en": "Look for a parking spot right by the restaurant.",
-                "hr": "Potražite parkirno mjesto odmah uz restoran."
+                "hr": "Potražite mjesto za parkiranje odmah kraj restorana."
               }
             }
           ],
@@ -1370,10 +1370,10 @@
               "Check your windshield wipers before starting the drive."
             ],
             "hr": [
-              "Makadamska cesta do Tulovih greda je rizična tijekom jake kiše.",
-              "Pazite na odrone kamenja s litica nakon padalina.",
-              "Neka vam svjetla budu upaljena i danju dok pada kiša.",
-              "Provjerite brisače vjetrobranskog stakla prije kretanja."
+              "Makadam prema Tulovim gredama je rizičan za jake kiše.",
+              "Pazite na odrone s litica nakon kiše.",
+              "Držite svjetla upaljenima čak i danju kad pada kiša.",
+              "Provjerite brisače prije početka vožnje."
             ]
           }
         },
@@ -1383,7 +1383,7 @@
             "hu": "Télen az autó meleg menedék a megállók között. A Maslenica-hidat az erős Bura miatt gyakran lezárják a magas járművek elől, de személyautóval általában átjuthatunk. A Tulove grede ilyenkor hóval borított lehet, ami fehér csodaországgá változtatja a tájat. A Winnetou-fotózás után egy kiadós vacsorával melegszünk fel Rovanjskában, miközben kint süvít a szél.",
             "ro": "Iarna, mașina oferă căldura necesară între opriri. Podul Maslenica e deseori închis pentru vehicule mari din cauza vântului Bura, dar turismele trec de obicei. Tulove Grede pot fi acoperite de zăpadă, transformând peisajul. După oprirea Winnetou, ne încălzim cu o cină consistentă în Rovanjska, în timp ce afară suflă vântul de iarnă.",
             "en": "The car is your warm base between winter stops. The Maslenica Bridge is often closed to high vehicles due to Bura, but cars usually pass. Tulove Grede may be snow-capped, turning the limestone into a winter wonderland. After the Winnetou stop, enjoy a heavy meal in Rovanjska while the winter winds howl outside.",
-            "hr": "Automobil je vaša topla baza između zimskih postaja. Maslenički most je često zatvoren za prvu skupinu vozila zbog bure, ali automobili obično prolaze. Tulove grede mogu biti prekrivene snijegom, pretvarajući vapnenac u zimsku bajku. Nakon Winnetou lokacije, uživajte u krepkom jelu u Rovanjskoj dok vani zavija zimski vjetar."
+            "hr": "Auto je vaša topla baza između zimskih zaustavljanja. Maslenički most često je zatvoren za visoka vozila zbog bure, ali osobni automobili obično prolaze. Tulove grede mogu biti snijegom pokrivene, pretvarajući vapnenac u zimski raj. Nakon Winnetou stanke, uživajte u obilnom obroku u Rovanjskoj dok vani huče zimski vjetrovi."
           },
           "stops": [
             {
@@ -1393,7 +1393,7 @@
                 "hu": "Erős oldalszélben tartsa stabilan a kormányt.",
                 "ro": "Țineți bine volanul în caz de vânt lateral.",
                 "en": "Keep a firm grip on the wheel in crosswinds.",
-                "hr": "Čvrsto držite upravljač pri bočnim udarima vjetra."
+                "hr": "Čvrsto držite volan pri bočnom vjetru."
               }
             },
             {
@@ -1403,7 +1403,7 @@
                 "hu": "Rövid látogatás, hogy ne kelljen sokáig fázni.",
                 "ro": "Vizită scurtă ca să nu părăsiți căldura mașinii.",
                 "en": "Quick visit to avoid leaving the heater for long.",
-                "hr": "Kratak posjet kako ne biste dugo ostavljali upaljeno grijanje."
+                "hr": "Brzi posjet kako ne biste dugo ostavljali grijač."
               }
             },
             {
@@ -1413,7 +1413,7 @@
                 "hu": "A barlang után vegyen fel meleg sapkát.",
                 "ro": "Puneți căciula după ieșirea din peșteră.",
                 "en": "Put on a beanie after exiting the cave.",
-                "hr": "Stavite kapu nakon izlaska iz špilje."
+                "hr": "Obucite kapu nakon izlaska iz špilje."
               }
             },
             {
@@ -1423,7 +1423,7 @@
                 "hu": "Parkoljon szélvédett helyen az épület mögött.",
                 "ro": "Parcați ferit de vânt în spatele clădirii.",
                 "en": "Park in a sheltered spot behind the building.",
-                "hr": "Parkirajte na zaklonjenom mjestu iza zgrade."
+                "hr": "Parkirajte na zaštićenom mjestu iza zgrade."
               }
             },
             {
@@ -1433,7 +1433,7 @@
                 "hu": "Téli gumi vagy hólánc szükséges lehet.",
                 "ro": "Anvelopele de iarnă sau lanțurile sunt necesare.",
                 "en": "Winter tires or chains may be necessary.",
-                "hr": "Zimske gume ili lanci mogu biti potrebni."
+                "hr": "Moguće su potrebne zimske gume ili lance."
               }
             },
             {
@@ -1443,7 +1443,7 @@
                 "hu": "A sziklákon lévő hó remek fotótéma.",
                 "ro": "Zăpada pe stânci e un motiv foto excelent.",
                 "en": "Snow on the rocks is a great photo motif.",
-                "hr": "Snijeg na stijenama je sjajan motiv za fotografiju."
+                "hr": "Snijeg na stijenama odličan je motiv za fotografiju."
               }
             },
             {
@@ -1453,7 +1453,7 @@
                 "hu": "Élvezze a naplementét az étterem ablakából.",
                 "ro": "Admirați apusul de la fereastra restaurantului.",
                 "en": "Enjoy the sunset from the restaurant window.",
-                "hr": "Uživajte u zalasku sunca s prozora restorana."
+                "hr": "Uživajte u zalasku sunca kroz prozor restorana."
               }
             }
           ],
@@ -1483,10 +1483,10 @@
               "The mountain road can be very treacherous if icy."
             ],
             "hr": [
-              "Antifriz u tekućini za pranje stakla je ključan u planinama.",
-              "Provjerite web stranicu HAK-a za zatvaranje cesta zbog vjetra ili snijega.",
-              "Držite tople deke u autu u slučaju zastoja zbog bure.",
-              "Planinska cesta može biti vrlo opasna ako je zaleđena."
+              "Protivsmrznuta tekućina u tekućini za pranje je obavezna u planini.",
+              "Provjerite HAK-ovu stranicu za zatvaranja cesta zbog vjetra ili snijega.",
+              "Držite tople deke u autu za slučaj kašnjenja zbog bure.",
+              "Planinska cesta može biti vrlo opasna ako je poledica."
             ]
           }
         }
@@ -1554,7 +1554,7 @@
             "hu": "A legjobb kilátás a híd gyalogos részéről.",
             "ro": "Cea mai bună vedere din zona pietonală a podului.",
             "en": "Best view from the bridge's pedestrian area.",
-            "hr": "Najbolji pogled iz pješačke zone na mostu."
+            "hr": "Najbolji pogled s pješačke zone na mostu."
           }
         },
         {
@@ -1573,7 +1573,7 @@
             "hu": "Rövid buszozás a következő faluba.",
             "ro": "Scurtă călătorie cu tranzit către următorul sat.",
             "en": "Short transit ride to the next village.",
-            "hr": "Kratka vožnja do sljedećeg mjesta."
+            "hr": "Kratka vožnja tranzitom do sljedećeg sela."
           }
         },
         {
@@ -1592,7 +1592,7 @@
             "hu": "Helyi specialitások élvezete.",
             "ro": "Savurați specialitățile locale.",
             "en": "Enjoy local specialties.",
-            "hr": "Uživajte u lokalnim specijalitetima."
+            "hr": "Uživajte u domaćim specijalitetima."
           }
         },
         {
@@ -1611,7 +1611,7 @@
             "hu": "Pihenés a visszaindulás előtt.",
             "ro": "Relaxare înainte de întoarcere.",
             "en": "Relaxation before the return trip.",
-            "hr": "Opuštanje prije povratka."
+            "hr": "Odmor prije povratka."
           }
         }
       ],
@@ -1620,7 +1620,7 @@
         "hu": "Busszal Jasenice kényelmesen felfedezhető Zadar felől. A fókusz Maslenica és Rovanjska tengerparti településein van. Maslenicán gyalogosan keresheti fel a hidat és a templomot, mielőtt a menetrend szerinti busszal átmenne a szomszédos Rovanjskába. Ott egy festői kis kikötő és nyugodt strandok várják, amelyek ideálisak egy pihentető naphoz a Novigradi-tengeren.",
         "ro": "Cu autobuzul, Jasenice poate fi explorat convenabil dinspre Zadar. Accentul este pus pe localitățile de coastă Maslenica și Rovanjska. În Maslenica vizitați podul și biserica pe jos, înainte de a merge cu autobuzul de linie în vecina Rovanjska. Acolo vă așteaptă un mic port pitoresc și plaje liniștite, ideale pentru o zi relaxantă la Marea Novigrad.",
         "en": "By bus, Jasenice can be conveniently explored from Zadar. The focus is on the coastal villages of Maslenica and Rovanjska. In Maslenica, visit the bridge and the church on foot before taking the local bus to neighboring Rovanjska. There, a picturesque small harbor and quiet beaches await, ideal for a relaxed day at the Novigrad Sea.",
-        "hr": "Autobusom se Jasenice mogu praktično istražiti iz Zadra. Fokus je na obalnim mjestima Maslenica i Rovanjska. U Maslenici pješice posjetite most i crkvu prije nego što sjednete na lokalni autobus do susjedne Rovanjske. Tamo vas čeka slikovita mala luka i mirne plaže, idealne za opušten dan na Novigradskom moru."
+        "hr": "Autobusom se Jasenice mogu povoljno istražiti iz Zadra. Fokus je na obalnim selima Maslenici i Rovanjskoj. U Maslenici posjetite most i crkvu pješice prije nego što uhvatite lokalni autobus za susjednu Rovanjskoju. Tamo vas čeka slikoviti mali porat i mirne plaže, idealne za opušten dan na Novigradskom moru."
       },
       "gastro_picks": {
         "de": [
@@ -1741,7 +1741,7 @@
           "The bus stops are located on the main road."
         ],
         "hr": [
-          "Unaprijed provjerite vozni red, učestalost je niska.",
+          "Provjerite vozni red autobusa unaprijed, frekvencija je niska.",
           "Autobusna stajališta nalaze se na glavnoj cesti."
         ]
       },
@@ -1752,7 +1752,7 @@
             "hu": "Esőben busszal közlekedni tervezést igényel. Maslenica központjából a templomba menekülünk az eső elől. A hidat csak rövid időre nézzük meg, mielőtt felszállunk a Rovanjska felé tartó buszra. A kikötői ebéd kiváló alkalom az eső kivárására. A strandolást kihagyjuk, helyette egy száraz kávézóból figyeljük a háborgó tengert.",
             "ro": "Călătoria cu autobuzul pe ploaie necesită planificare. Începem în centrul Maslenica și ne adăpostim în biserică. Vedem podul rapid înainte de a lua autobuzul spre Rovanjska. Prânzul în port e momentul ideal pentru a lăsa ploaia să treacă. Sărim peste plajă și privim marea agitată dintr-o cafenea uscată.",
             "en": "Traveling by bus in the rain requires timing. Start in Maslenica center and seek shelter in the church. Visit the bridge briefly before catching the bus to Rovanjska. Lunch at the harbor is the perfect place to wait out the downpour. Skip the beach and watch the stormy sea from the comfort of a dry cafe instead.",
-            "hr": "Putovanje autobusom po kiši zahtijeva dobro planiranje vremena. Započnite u centru Maslenice i potražite zaklon u crkvi. Nakratko posjetite most prije nego što uhvatite autobus za Rovanjsku. Ručak u luci savršeno je mjesto za pričekati da pljusak prođe. Preskočite plažu i umjesto toga promatrajte olujno more iz udobnosti suhog kafića."
+            "hr": "Putovanje autobusom po kiši zahtijeva tempiranje. Započnite u centru Maslenice i sklonite se u crkvu. Ukratko posjetite most prije nego što uhvatite autobus do Rovanjske. Ručak u poratu je savršeno mjesto da prečekate pljusak. Preskočite plažu i promatrajte olujno more iz suhog kafića umjesto toga."
           },
           "stops": [
             {
@@ -1762,7 +1762,7 @@
                 "hu": "Várjon a buszmegálló fedett várójában.",
                 "ro": "Așteptați în stația de autobuz acoperită.",
                 "en": "Wait inside the covered bus stop shelter.",
-                "hr": "Čekajte unutar natkrivenog stajališta."
+                "hr": "Pričekajte unutar natkrivenog autobusnog stajališta."
               }
             },
             {
@@ -1772,7 +1772,7 @@
                 "hu": "Használja a templomot száraz találkozópontként.",
                 "ro": "Biserica e un punct de întâlnire uscat.",
                 "en": "Use the church as a dry meeting point.",
-                "hr": "Koristite crkvu kao suho mjesto za sastanak."
+                "hr": "Koristite crkvu kao suho sastajalište."
               }
             },
             {
@@ -1782,7 +1782,7 @@
                 "hu": "A busz ablakából is jó a kilátás.",
                 "ro": "Vederea e bună și de la geamul autobuzului.",
                 "en": "The view from the bus window is also good.",
-                "hr": "Pogled s prozora autobusa je također dobar."
+                "hr": "Pogled kroz prozor autobusa je također dobar."
               }
             },
             {
@@ -1792,7 +1792,7 @@
                 "hu": "A megálló közel van az éttermekhez.",
                 "ro": "Stația e aproape de restaurante.",
                 "en": "The stop is located close to the restaurants.",
-                "hr": "Stajalište se nalazi blizu restorana."
+                "hr": "Stajalište je smješteno blizu restorana."
               }
             },
             {
@@ -1802,7 +1802,7 @@
                 "hu": "Válasszon asztalt távol a bejárattól.",
                 "ro": "Alegeți o masă departe de intrare.",
                 "en": "Choose a table far from the entrance.",
-                "hr": "Odaberite stol udaljen od ulaza."
+                "hr": "Odaberite stol što dalje od ulaza."
               }
             },
             {
@@ -1812,7 +1812,7 @@
                 "hu": "Sétáljon a kiépített, szilárd úton.",
                 "ro": "Plimbați-vă pe drumul pavat.",
                 "en": "Walk on the paved, solid path only.",
-                "hr": "Hodajte samo po popločanim, čvrstim stazama."
+                "hr": "Hodajte samo po popločanoj, čvrstoj stazi."
               }
             }
           ],
@@ -1842,10 +1842,10 @@
               "Have exact change ready for tickets to speed up boarding."
             ],
             "hr": [
-              "Provjerite aplikacije za prijevoz zbog kašnjenja tijekom kiše.",
-              "Vodootporni ruksak je ključan za suhe stvari tijekom presjedanja.",
-              "Učestalost autobusa može se promijeniti tijekom lošeg vremena.",
-              "Imajte spreman točan iznos za karte radi bržeg ulaska."
+              "Provjerite aplikacije za tranzit zbog stvarnih kašnjenja tijekom kiše.",
+              "Vodootporni ruksak je ključan za držanje stvari suhim pri presjedanju.",
+              "Frekvencije autobusa se mogu mijenjati za lošeg vremena.",
+              "Imajte točan iznos za kartu radi bržeg ukrcaja."
             ]
           }
         },
@@ -1855,7 +1855,7 @@
             "hu": "Téli buszozás jó opció, hogy elkerüljük a Bura szélviharait a hídon. A meleg buszból csodáljuk a tájat Maslenica és Rovanjska között. A megállókban töltött időt próbáljuk minimalizálni. A kikötői ebéd alatt jól felmelegszünk. Mivel korán sötétedik, még a hőmérséklet drasztikus esti csökkenése előtt visszabuszozunk Maslenicába.",
             "ro": "Călătoria cu autobuzul iarna e o opțiune bună pentru a evita vântul Bura. Din autobuzul încălzit admirăm drumul spre Rovanjska. Limităm timpul de așteptare în stații. Prânzul în port e cald și primitor. Deoarece se întunecă devreme, luăm autobuzul înapoi înainte de frigul serii.",
             "en": "Winter transit is a smart choice to avoid facing the Bura on the bridge. Enjoy the heated bus ride from Maslenica to Rovanjska. Keep your time at bus stops minimal to avoid the chill. Warm up thoroughly during lunch at the harbor. As darkness falls early, catch a bus back to Maslenica before the evening freeze sets in.",
-            "hr": "Zimski javni prijevoz pametan je izbor kako biste izbjegli susret s burom na mostu. Uživajte u vožnji grijanim autobusom od Maslenice do Rovanjske. Smanjite vrijeme na stajalištima kako biste izbjegli hladnoću. Dobro se zagrijte tijekom ručka u luci. Kako mrak rano pada, uhvatite autobus natrag za Maslenicu prije večernjeg smrzavanja."
+            "hr": "Zimski tranzit je pametan izbor da izbjegnete buru na mostu. Uživajte u zagrijanoj vožnji autobusom od Maslenice do Rovanjske. Smanjite vrijeme na stajalištima kako biste izbjegli hladnoću. Dobro se ugrijte tijekom ručka u poratu. Kako se mrak ranije spušta, uhvatite autobus natrag do Maslenice prije večernjeg smrzavanja."
           },
           "stops": [
             {
@@ -1865,7 +1865,7 @@
                 "hu": "Várjon egy közeli kávézóban a busz érkezéséig.",
                 "ro": "Așteptați într-o cafenea până vine autobuzul.",
                 "en": "Wait in a nearby cafe until the bus arrives.",
-                "hr": "Čekajte u obližnjem kafiću dok autobus ne stigne."
+                "hr": "Pričekajte u obližnjem kafiću dok autobus ne stigne."
               }
             },
             {
@@ -1875,7 +1875,7 @@
                 "hu": "Gyors séta a megállóig, hogy ne hűljön ki.",
                 "ro": "Mers rapid spre stație pentru a menține căldura.",
                 "en": "Walk briskly to the stop to stay warm.",
-                "hr": "Brzo hodajte do stajališta kako biste ostali zagrijani."
+                "hr": "Hodajte brzo do stajališta da ostanete topli."
               }
             },
             {
@@ -1885,7 +1885,7 @@
                 "hu": "Kilátás a téli Velebit-hegységre.",
                 "ro": "Vedere spre munții Velebit înzăpeziți.",
                 "en": "View of the wintry Velebit mountains.",
-                "hr": "Pogled na zimski Velebit."
+                "hr": "Pogled na velebitske zimske planine."
               }
             },
             {
@@ -1905,7 +1905,7 @@
                 "hu": "Rendeljen egy kiadós húsételt.",
                 "ro": "Comandați un fel principal consistent cu carne.",
                 "en": "Order a hearty meat dish.",
-                "hr": "Naručite krepko mesno jelo."
+                "hr": "Naručite obilno mesno jelo."
               }
             },
             {
@@ -1945,10 +1945,10 @@
               "The last afternoon connections are usually the most reliable."
             ],
             "hr": [
-              "Autobusi mogu zaobići most tijekom jake bure.",
-              "Uvijek se vodite službenim zimskim voznim redom.",
-              "Nosite toplu zimsku obuću jer su podovi na stajalištima hladni.",
-              "Zadnje poslijepodnevne linije obično su najpouzdanije."
+              "Autobusi mogu preskočiti most za jakih vjetrova bure.",
+              "Uvijek se pridržavajte službenog zimskog voznog reda.",
+              "Nosite tople zimske cipele jer su podovi na stajalištima hladni.",
+              "Posljednja popodnevna povezanost obično je najpouzdanija."
             ]
           }
         }

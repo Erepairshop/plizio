@@ -21,7 +21,8 @@
             "de": "Ban-Jelačić-Platz",
             "hu": "Jelačić bán tér",
             "ro": "Piața Ban Jelačić",
-            "en": "Ban Jelačić Square"
+            "en": "Ban Jelačić Square",
+            "hr": "Trg bana Jelačića"
           },
           "coords": [
             15.9775,
@@ -36,7 +37,8 @@
             "de": "Das Herz der Stadt.",
             "hu": "A város szíve és találkozóhelye.",
             "ro": "Inima orașului.",
-            "en": "The main square and heart of the city."
+            "en": "The main square and heart of the city.",
+            "hr": "Glavni trg i srce grada."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kathedrale von Zagreb",
             "hu": "Zágrábi katedrális",
             "ro": "Catedrala din Zagreb",
-            "en": "Zagreb Cathedral"
+            "en": "Zagreb Cathedral",
+            "hr": "Zagrebačka katedrala"
           },
           "coords": [
             15.9798,
@@ -59,7 +62,8 @@
             "de": "Ikonische Doppeltürme.",
             "hu": "Ikonikus kettős tornyok.",
             "ro": "Turnuri gemene iconice.",
-            "en": "Iconic twin spires."
+            "en": "Iconic twin spires.",
+            "hr": "Ikonične dvostruke kule."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Dolac Markt",
             "hu": "Dolac piac",
             "ro": "Piața Dolac",
-            "en": "Dolac Market"
+            "en": "Dolac Market",
+            "hr": "Tržnica Dolac"
           },
           "coords": [
             15.9772,
@@ -82,7 +87,8 @@
             "de": "Die roten Schirme.",
             "hu": "A jellegzetes piros napernyők.",
             "ro": "Celebrele umbrele roșii.",
-            "en": "Look for the iconic red umbrellas."
+            "en": "Look for the iconic red umbrellas.",
+            "hr": "Potražite prepoznatljive crvene kišobrane."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Szent Márk-templom",
             "hu": "Szent Márk-templom",
             "ro": "Biserica Sfântul Marcu",
-            "en": "St. Mark's Church"
+            "en": "St. Mark's Church",
+            "hr": "Crkva sv. Marka"
           },
           "coords": [
             15.9732,
@@ -105,7 +112,8 @@
             "de": "Buntes Wappendach.",
             "hu": "Színes címeres tető.",
             "ro": "Acoperiș colorat cu blazoane.",
-            "en": "Famous colorful tiled roof."
+            "en": "Famous colorful tiled roof.",
+            "hr": "Poznata šarena krovna pločica."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Mittagessen in der Tkalčićeva",
             "hu": "Ebéd a Tkalčićeván",
             "ro": "Prânz pe Tkalčićeva",
-            "en": "Lunch on Tkalčićeva"
+            "en": "Lunch on Tkalčićeva",
+            "hr": "Ručak na Tkalčićevoj"
           },
           "coords": [
             15.9755,
@@ -128,7 +137,8 @@
             "de": "Zahlreiche Straßencafés.",
             "hu": "Számos hangulatos terasz.",
             "ro": "Numeroase terase primitoare.",
-            "en": "Many vibrant outdoor terraces."
+            "en": "Many vibrant outdoor terraces.",
+            "hr": "Mnoštvo živahnih terasa na otvorenom."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Lotrščak Turm",
             "hu": "Lotrščak-torony",
             "ro": "Turnul Lotrščak",
-            "en": "Lotrščak Tower"
+            "en": "Lotrščak Tower",
+            "hr": "Kula Lotrščak"
           },
           "coords": [
             15.9733,
@@ -151,7 +162,8 @@
             "de": "Kanonenschuss um 12 Uhr.",
             "hu": "Ágyúlövés minden délben.",
             "ro": "Foc de tun la prânz.",
-            "en": "Cannon fires daily at noon."
+            "en": "Cannon fires daily at noon.",
+            "hr": "Top se svakodnevno puca u podne."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Zrinjevac Park",
             "hu": "Zrinjevac park",
             "ro": "Parcul Zrinjevac",
-            "en": "Zrinjevac Park"
+            "en": "Zrinjevac Park",
+            "hr": "Park Zrinjevac"
           },
           "coords": [
             15.9775,
@@ -174,7 +187,8 @@
             "de": "Musikpavillon.",
             "hu": "Szép pavilon és szökőkutak.",
             "ro": "Pavilion muzical și fântâni.",
-            "en": "Beautiful music pavilion and fountains."
+            "en": "Beautiful music pavilion and fountains.",
+            "hr": "Prekrasna glazbena paviljona i fontane."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Starten Sie am Ban-Jelačić-Platz und besichtigen Sie die majestätische Kathedrale, bevor Sie in das bunte Treiben des Dolac-Marktes eintauchen.\nSteigen Sie in die Oberstadt auf, um die berühmte Markuskirche mit ihrem farbenfrohen Dach zu bewundern.\nGenießen Sie ein entspanntes Mittagessen in der Tkalčićeva-Straße, dem Herz des gesellschaftlichen Lebens.\nBeenden Sie den Tag mit einem Spaziergang durch den eleganten Zrinjevac-Park in der Unterstadt.",
         "hu": "Kezdje a Jelačić bán téren, majd látogasson el a fenséges katedrálishoz, mielőtt elmerülne a Dolac piac forgatagában.\nSétáljon fel a Felsővárosba, hogy megcsodálja a Szent Márk-templom híres, színes címeres tetőjét.\nÉlvezzen egy kényelmes ebédet a Tkalčićeva utcában, amely Zágráb társasági életének központja.\nA napot az Alsóváros elegáns Zrinjevac parkjában tehetett sétával zárja.",
         "ro": "Începeți în piața Ban Jelačić și vizitați catedrala maiestuoasă, apoi explorați piața Dolac.\nUrcați în Orașul de Sus pentru a admira biserica Sfântul Marcu cu celebrul său acoperiș colorat.\nSavurați un prânz relaxat pe strada Tkalčićeva, inima vieții sociale a orașului.\nÎncheiați ziua cu o plimbare prin parcul elegant Zrinjevac din Orașul de Jos.",
-        "en": "Start at Ban Jelačić Square and visit the majestic cathedral before diving into the colorful Dolac Market.\nAscend to the Upper Town to admire St. Mark's Church and its famous colorful tiled roof.\nEnjoy a relaxed lunch on Tkalčićeva Street, the heart of the city's social life.\nEnd your day with a stroll through the elegant Zrinjevac Park in the Lower Town."
+        "en": "Start at Ban Jelačić Square and visit the majestic cathedral before diving into the colorful Dolac Market.\nAscend to the Upper Town to admire St. Mark's Church and its famous colorful tiled roof.\nEnjoy a relaxed lunch on Tkalčićeva Street, the heart of the city's social life.\nEnd your day with a stroll through the elegant Zrinjevac Park in the Lower Town.",
+        "hr": "Počnite na trgu bana Jelačića i posjetite veličanstvenu katedralu prije nego što zavirite u šareni Dolac.\nPopnite se u Gornji grad kako biste se divili crkvi sv. Marka i njezinu poznatom šarenom krovu.\nUživajte u opuštenom ručku na Tkalčićevoj ulici, središtu društvenog života grada.\nDan završite šetnjom kroz elegantni Zrinjevac u Donjem gradu."
       },
       "gastro_picks": {
         "de": [
@@ -298,6 +313,10 @@
         "en": [
           "Try the historic funicular ride.",
           "Coffee culture is a must-experience."
+        ],
+        "hr": [
+          "Isprobajte povijesnu uspinjaču.",
+          "Kultura ispijanja kave obavezno je iskustvo."
         ]
       }
     },
@@ -314,7 +333,8 @@
             "de": "Maksimir Park",
             "hu": "Maksimir park",
             "ro": "Parcul Maksimir",
-            "en": "Maksimir Park"
+            "en": "Maksimir Park",
+            "hr": "Park Maksimir"
           },
           "coords": [
             16.0155,
@@ -329,7 +349,8 @@
             "de": "Alte Eichenwälder.",
             "hu": "Régi tölgyerdők és tavak.",
             "ro": "Păduri de stejari și lacuri.",
-            "en": "Old oak forests and lakes."
+            "en": "Old oak forests and lakes.",
+            "hr": "Stara hrastova šuma i jezera."
           }
         },
         {
@@ -337,7 +358,8 @@
             "de": "Zagreber Zoo",
             "hu": "Zágrábi állatkert",
             "ro": "Grădina Zoologică",
-            "en": "Zagreb Zoo"
+            "en": "Zagreb Zoo",
+            "hr": "Zagrebački zoološki vrt"
           },
           "coords": [
             16.0215,
@@ -352,7 +374,8 @@
             "de": "Mitten im Maksimir.",
             "hu": "A Maksimir park területén.",
             "ro": "Situată în interiorul parcului.",
-            "en": "Located inside Maksimir Park."
+            "en": "Located inside Maksimir Park.",
+            "hr": "Nalazi se unutar parka Maksimir."
           }
         },
         {
@@ -360,7 +383,8 @@
             "de": "Jarun See",
             "hu": "Jarun-tó",
             "ro": "Lacul Jarun",
-            "en": "Jarun Lake"
+            "en": "Jarun Lake",
+            "hr": "Jezero Jarun"
           },
           "coords": [
             15.9255,
@@ -375,7 +399,8 @@
             "de": "Das 'Meer' von Zagreb.",
             "hu": "Zágráb tengerpartja.",
             "ro": "'Marea' din Zagreb.",
-            "en": "Known as the 'Sea of Zagreb'."
+            "en": "Known as the 'Sea of Zagreb'.",
+            "hr": "Poznato kao 'More Zagreba'."
           }
         }
       ],
@@ -383,7 +408,8 @@
         "de": "Radeln Sie zum historischen Maksimir-Park und erkunden Sie die weiten Alleen und den Zoo.\nFahren Sie quer durch die Stadt zum Jarun-See, dem Sport- und Freizeitzentrum im Südwesten.\nGenießen Sie eine Umrundung des Sees auf dem perfekten Radweg und machen Sie eine Pause in einem der Strandcafés.\nEine sportliche Tour, die die zwei größten Grünanlagen der Hauptstadt verbindet.",
         "hu": "Tekerjen el a történelmi Maksimir parkba, és fedezze fel a tágas sétányokat és az állatkertet.\nSzelje át a várost a Jarun-tóig, amely a délnyugati rész sport- és szabadidős központja.\nÉlvezze a tó körüli kerékpárutat, majd pihenjen meg az egyik tóparti kávézóban.\nSportos túra, amely a főváros két legnagyobb zöldövezetét kapcsolja össze.",
         "ro": "Pedalați spre parcul istoric Maksimir și explorați aleile vaste și grădina zoologică.\nTraversați orașul până la lacul Jarun, centrul de sport și agrement din sud-vest.\nBucurați-vă de o tură de lac pe pista de biciclete și faceți o pauză la o cafenea de pe plajă.\nUn tur sportiv care conectează cele mai mari două zone verzi ale capitalei.",
-        "en": "Cycle to the historic Maksimir Park and explore its wide alleys and the city zoo.\nRide across the city to Jarun Lake, the sports and recreation hub in the southwest.\nEnjoy a lap around the lake on the dedicated bike path and take a break at a lakeside cafe.\nA sporty tour connecting the two largest green spaces of the Croatian capital."
+        "en": "Cycle to the historic Maksimir Park and explore its wide alleys and the city zoo.\nRide across the city to Jarun Lake, the sports and recreation hub in the southwest.\nEnjoy a lap around the lake on the dedicated bike path and take a break at a lakeside cafe.\nA sporty tour connecting the two largest green spaces of the Croatian capital.",
+        "hr": "Biciklirajte do povijesnog parka Maksimir i istražite njegove široke aleje i gradski zoološki vrt.\nProđite gradom do Jaruna, središta sporta i rekreacije na jugozapadu.\nUživajte u krugu oko jezera na posebno označenoj biciklističkoj stazi i odmorite u kafiću uz jezero.\nSportska tura koja povezuje dva najveća zelena prostora hrvatske metropole."
       },
       "gastro_picks": {
         "de": [
@@ -483,6 +509,10 @@
         "en": [
           "Use the Nextbike sharing stations.",
           "Jarun becomes very lively in the evenings."
+        ],
+        "hr": [
+          "Koristite Nextbike stanice za iznajmljivanje bicikala.",
+          "Jarun postaje vrlo živ u večernjim satima."
         ]
       }
     },
@@ -499,7 +529,8 @@
             "de": "Mirogoj Friedhof",
             "hu": "Mirogoj temető",
             "ro": "Cimitirul Mirogoj",
-            "en": "Mirogoj Cemetery"
+            "en": "Mirogoj Cemetery",
+            "hr": "Groblje Mirogoj"
           },
           "coords": [
             15.9845,
@@ -514,7 +545,8 @@
             "de": "Wunderschöne Arkaden.",
             "hu": "Gyönyörű árkádsorok.",
             "ro": "Arcade superbe.",
-            "en": "Beautiful arcades and park-like grounds."
+            "en": "Beautiful arcades and park-like grounds.",
+            "hr": "Prekrasne arkade i park-ambijent."
           }
         },
         {
@@ -522,7 +554,8 @@
             "de": "Sljeme Gipfel (Medvednica)",
             "hu": "Sljeme-csúcs (Medvednica)",
             "ro": "Vârful Sljeme",
-            "en": "Sljeme Summit (Medvednica)"
+            "en": "Sljeme Summit (Medvednica)",
+            "hr": "Vrh Sljemena (Medvednica)"
           },
           "coords": [
             15.9485,
@@ -537,7 +570,8 @@
             "de": "Blick auf Zagreb.",
             "hu": "Kilátás egész Zágrábra.",
             "ro": "Vedere panoramică.",
-            "en": "Panoramic views over the capital."
+            "en": "Panoramic views over the capital.",
+            "hr": "Panoramski pogled na glavni grad."
           }
         },
         {
@@ -545,7 +579,8 @@
             "de": "Ban-Jelačić-Platz (Cluster Zentrum)",
             "hu": "Jelačić bán tér (Belváros klaszter)",
             "ro": "Piața Ban Jelačić (Centru)",
-            "en": "Ban Jelačić Square (Center Cluster)"
+            "en": "Ban Jelačić Square (Center Cluster)",
+            "hr": "Trg bana Jelačića (klaster centra)"
           },
           "coords": [
             15.9775,
@@ -560,7 +595,8 @@
             "de": "Parkhaus Langov Trg.",
             "hu": "Parkoljon a Langov téri garázsban.",
             "ro": "Parcare la Langov Trg.",
-            "en": "Park at the Langov Trg garage."
+            "en": "Park at the Langov Trg garage.",
+            "hr": "Parkirajte u garaži Langov trg."
           }
         },
         {
@@ -568,7 +604,8 @@
             "de": "Gornji Grad (Oberstadt)",
             "hu": "Felsőváros",
             "ro": "Orașul de Sus",
-            "en": "Upper Town"
+            "en": "Upper Town",
+            "hr": "Gornji grad"
           },
           "coords": [
             15.9735,
@@ -583,7 +620,8 @@
             "de": "Gassen erkunden.",
             "hu": "Fedezze fel a sikátorokat.",
             "ro": "Explorați străduțele.",
-            "en": "Wander through the narrow streets."
+            "en": "Wander through the narrow streets.",
+            "hr": "Prošećite uskim ulicama."
           }
         },
         {
@@ -591,7 +629,8 @@
             "de": "Kulináris túra (Gastro)",
             "hu": "Kulináris túra",
             "ro": "Tur culinar",
-            "en": "Culinary Tour"
+            "en": "Culinary Tour",
+            "hr": "Kulinarska tura"
           },
           "coords": [
             15.9755,
@@ -606,7 +645,8 @@
             "de": "Probieren Sie Štrukli.",
             "hu": "Kóstolja meg a Štrukli-t.",
             "ro": "Încercați celebrul Štrukli.",
-            "en": "Must try the local Štrukli pastry."
+            "en": "Must try the local Štrukli pastry.",
+            "hr": "Obavezno probajte lokalni štrukli."
           }
         }
       ],
@@ -614,7 +654,8 @@
         "de": "Fahren Sie morgens zum beeindruckenden Mirogoj-Friedhof und dann weiter auf den Sljeme-Gipfel für frische Bergluft.\nKehren Sie ins Stadtzentrum zurück, parken Sie bequem und erkunden Sie die historische Oberstadt zu Fuß.\nGenießen Sie ein spätes Mittagessen mit lokalen Spezialitäten in einem der traditionellen Restaurants.\nEin Tag, der die Natur des Medvednica-Gebirges mit dem historischen Erbe der Hauptstadt verbindet.",
         "hu": "Reggel látogasson el a lenyűgöző Mirogoj temetőbe, majd hajtson fel a Sljeme-csúcsra a hegyi levegőért.\nTérjen vissza a belvárosba, parkoljon le kényelmesen, és járja be gyalogosan a történelmi Felsővárost.\nÉlvezze a késői ebédet helyi specialitásokkal az egyik patinás étteremben.\nEz a nap ötvözi a Medvednica-hegység természetét a főváros történelmi örökségével.",
         "ro": "Vizitați dimineața impresionantul cimitir Mirogoj, apoi urcați pe vârful Sljeme pentru aer curat de munte.\nReveniți în centrul orașului, parcați confortabil și explorați la pas Orașul de Sus istoric.\nSavurați un prânz târziu cu specialități locale într-unul dintre restaurantele tradiționale.\nO zi care combină natura munților Medvednica cu moștenirea istorică a capitalei.",
-        "en": "Drive to the impressive Mirogoj Cemetery in the morning, then continue up to the Sljeme summit for fresh mountain air.\nReturn to the city center, park conveniently, and explore the historic Upper Town on foot.\nEnjoy a late lunch featuring local specialties in one of the traditional restaurants.\nA day that blends the nature of the Medvednica mountain with the capital's historic heritage."
+        "en": "Drive to the impressive Mirogoj Cemetery in the morning, then continue up to the Sljeme summit for fresh mountain air.\nReturn to the city center, park conveniently, and explore the historic Upper Town on foot.\nEnjoy a late lunch featuring local specialties in one of the traditional restaurants.\nA day that blends the nature of the Medvednica mountain with the capital's historic heritage.",
+        "hr": "Autom se zaputite u impresivni Mirogoj ujutro, zatim nastavite prema vrhu Sljemena za svježinski planinski zrak.\nVratite se u centar grada, parkirajte praktično i pješice istražite povijesni Gornji grad.\nUživajte u kasnom ručku s lokalnim specijalitetima u jednom od tradicionalnih restorana.\nDan koji spaja prirodu Medvednice i povijesno nasljeđe glavnog grada."
       },
       "gastro_picks": {
         "de": [
@@ -714,6 +755,10 @@
         "en": [
           "The road to Sljeme is winding.",
           "Parking in the center is highly regulated."
+        ],
+        "hr": [
+          "Cesta do Sljemena je vijugava.",
+          "Parkiranje u centru je visoko regulirano."
         ]
       }
     },
@@ -730,7 +775,8 @@
             "de": "Zagreber Hauptbahnhof",
             "hu": "Zágrábi főpályaudvar",
             "ro": "Gara Centrală Zagreb",
-            "en": "Zagreb Main Railway Station"
+            "en": "Zagreb Main Railway Station",
+            "hr": "Glavni kolodvor Zagreb"
           },
           "coords": [
             15.9795,
@@ -745,7 +791,8 @@
             "de": "Startpunkt der blauen Trams.",
             "hu": "A kék villamosok indulási pontja.",
             "ro": "Punctul de plecare al tramvaielor.",
-            "en": "Starting point for the blue trams."
+            "en": "Starting point for the blue trams.",
+            "hr": "Polazište za plave tramvaje."
           }
         },
         {
@@ -753,7 +800,8 @@
             "de": "Ban-Jelačić-Platz",
             "hu": "Jelačić bán tér",
             "ro": "Piața Ban Jelačić",
-            "en": "Ban Jelačić Square"
+            "en": "Ban Jelačić Square",
+            "hr": "Trg bana Jelačića"
           },
           "coords": [
             15.9775,
@@ -768,7 +816,8 @@
             "de": "Tram 6/13 vom Bahnhof.",
             "hu": "6/13-as villamos az állomástól.",
             "ro": "Tramvaiul 6/13 de la gară.",
-            "en": "Take tram 6 or 13 from the station."
+            "en": "Take tram 6 or 13 from the station.",
+            "hr": "Uzmite tramvaj 6 ili 13 iz kolodvora."
           }
         },
         {
@@ -776,7 +825,8 @@
             "de": "Zagreb 360 Aussichtspunkt",
             "hu": "Zágráb 360 kilátó",
             "ro": "Belvedere Zagreb 360",
-            "en": "Zagreb 360 Viewpoint"
+            "en": "Zagreb 360 Viewpoint",
+            "hr": "Vidikovac Zagreb 360"
           },
           "coords": [
             15.9765,
@@ -791,7 +841,8 @@
             "de": "Panoramablick.",
             "hu": "Panoráma a városra.",
             "ro": "Vedere panoramică.",
-            "en": "360-degree city view."
+            "en": "360-degree city view.",
+            "hr": "Pogled od 360 stupnjeva na grad."
           }
         },
         {
@@ -799,7 +850,8 @@
             "de": "Britanski Trg (Antiquitäten)",
             "hu": "Britanski tér (Antikvitás)",
             "ro": "Piața Britanică (Antichități)",
-            "en": "British Square (Antiques)"
+            "en": "British Square (Antiques)",
+            "hr": "Britanski trg (antikviteti)"
           },
           "coords": [
             15.9665,
@@ -814,7 +866,8 @@
             "de": "Charmanter Markt.",
             "hu": "Hangulatos antik piac.",
             "ro": "Piață de antichități.",
-            "en": "Charming antique market."
+            "en": "Charming antique market.",
+            "hr": "Šarmantna tržnica antikviteta."
           }
         },
         {
@@ -822,7 +875,8 @@
             "de": "Maksimir (Tram 4/11/12)",
             "hu": "Maksimir (4/11/12-es villamos)",
             "ro": "Maksimir (tramvai 4/11/12)",
-            "en": "Maksimir (Tram 4/11/12)"
+            "en": "Maksimir (Tram 4/11/12)",
+            "hr": "Maksimir (tramvaj 4/11/12)"
           },
           "coords": [
             16.0155,
@@ -837,7 +891,8 @@
             "de": "Direkt mit der Tram erreichbar.",
             "hu": "Közvetlenül elérhető villamossal.",
             "ro": "Acces direct cu tramvaiul.",
-            "en": "Directly accessible by tram lines."
+            "en": "Directly accessible by tram lines.",
+            "hr": "Izravno dostupno tramvajskim linijama."
           }
         }
       ],
@@ -845,7 +900,8 @@
         "de": "Starten Sie am Hauptbahnhof und fahren Sie mit der blauen Tram direkt zum Hauptplatz.\nErleben Sie den besten Ausblick vom Zagreb 360 und besuchen Sie dann den charmanten Britischen Platz.\nNutzen Sie die effizienten Straßenbahnen, um zum weitläufigen Maksimir-Park im Osten zu fahren.\nEin Tag, der die schnelle Fortbewegung mit den ikonischen blauen Zagreber Straßenbahnen optimal nutzt.",
         "hu": "Kezdje a főpályaudvaron, majd utazzon kék villamossal a Jelačić bán térig.\nÉlvezze a panorámát a Zágráb 360-ból, majd látogasson el a Brit tér hangulatos piacára.\nHasználja a hatékony villamoshálózatot, hogy eljusson a keleti részen fekvő Maksimir parkba.\nEz a nap a zágrábi ikonikus kék villamosok kényelmes használatára épít.",
         "ro": "Începeți la gara centrală și luați tramvaiul albastru direct spre piața principală.\nAdmirați panorama de la Zagreb 360 și vizitați fermecătoarea Piață Britanică.\nUtilizați tramvaiele eficiente pentru a ajunge la vastul parc Maksimir din est.\nO zi care folosește optim rețeaua iconică de tramvaie albastre din Zagreb.",
-        "en": "Start at the main railway station and take a blue tram directly to the main square.\nExperience the best city views from Zagreb 360, then visit the charming British Square.\nUse the efficient tram network to reach the expansive Maksimir Park in the eastern part of the city.\nA day optimized for easy travel using Zagreb's iconic blue tram system."
+        "en": "Start at the main railway station and take a blue tram directly to the main square.\nExperience the best city views from Zagreb 360, then visit the charming British Square.\nUse the efficient tram network to reach the expansive Maksimir Park in the eastern part of the city.\nA day optimized for easy travel using Zagreb's iconic blue tram system.",
+        "hr": "Počnite na glavnom kolodvoru i vozite plavim tramvajem izravno do glavnog trga.\nIskusite najbolji pogled na grad s vidikovca Zagreb 360, zatim posjetite šarmantni Britanski trg.\nIskoristite učinkovitu tramvajsku mrežu kako biste stigli do prostranog parka Maksimir na istočnoj strani grada.\nDan optimiziran za lako putovanje koristeći zagrebački simbol — plavi tramvaj."
       },
       "gastro_picks": {
         "de": [
@@ -921,6 +977,10 @@
         "en": [
           "NAMA Department Store",
           "Historic shopping at the main square."
+        ],
+        "hr": [
+          "Robna kuća NAMA",
+          "Povijesna kupovina na glavnom trgu."
         ]
       },
       "tips": {
@@ -939,6 +999,10 @@
         "en": [
           "Buy tram tickets at Tisak kiosks.",
           "Blue trams run every few minutes."
+        ],
+        "hr": [
+          "Kupite tramvajske karte u Tisak kioskima.",
+          "Plavi tramvaji voze svakih nekoliko minuta."
         ]
       }
     }

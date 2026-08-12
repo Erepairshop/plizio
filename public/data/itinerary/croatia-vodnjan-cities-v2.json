@@ -32,7 +32,7 @@
             "hu": "Nézze meg a Bradamante család címerét a homlokzaton.",
             "ro": "Admirați blazonul familiei Bradamante pe fațadă.",
             "en": "Check out the Bradamante family crest on the facade.",
-            "hr": "Pogledajte obiteljski grb Bradamante na pročelju."
+            "hr": "Pogledajte grb obitelji Bradamante na fasadi."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Próbálja megtalálni a legszűkebb pontot ebben a sikátorban.",
             "ro": "Încercați să găsiți cel mai îngust punct de pe această alee.",
             "en": "Try to find the narrowest point in this medieval alley.",
-            "hr": "Pokušajte pronaći najužu točku u ovoj srednjovjekovnoj uličici."
+            "hr": "Pokušajte pronaći najuži punkt u ovoj srednjovjekovnoj uličici."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Kóstolja meg a maneštrát, a tipikus isztriai levest.",
             "ro": "Gustați manestra, o tocană tipică istriană.",
             "en": "Try Manestra, a typical Istrian vegetable stew.",
-            "hr": "Probajte maneštru, tipično istarsko varivo od povrća."
+            "hr": "Probajte Maneštru, tipičnu istarsku povrtnu juhu."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Sok falfestmény a belső udvarokban rejtőzik.",
             "ro": "Multe picturi murale sunt ascunse în curțile interioare.",
             "en": "Many murals are hidden in the inner courtyards.",
-            "hr": "Mnogi murali skriveni su u unutarnjim dvorištima."
+            "hr": "Mnogi murali skrivaju se u unutrašnjim dvorištima."
           }
         },
         {
@@ -165,7 +165,7 @@
             "hu": "Élvezze a csendet a macskaköves sikátorokban.",
             "ro": "Bucurați-vă de liniște pe străzile pavate.",
             "en": "Enjoy the quiet atmosphere in the paved alleys.",
-            "hr": "Uživajte u mirnoj atmosferi u popločanim uličicama."
+            "hr": "Uživajte u mirnoj atmosferi kaldrmisanih uličica."
           }
         }
       ],
@@ -174,7 +174,7 @@
         "hu": "A délelőtt a történelmi örökségé: a főtér palotái és Isztria legszűkebb utcája várja. Az interaktív Ekomuzej után fedezze fel a Szent Balázs-bazilika rejtélyes múmiáit. A délután a modern művészet és a gasztronómia jegyében telik: csodálja meg a hatalmas falfestményeket a régi házfalakon, majd kóstolja meg a világhírű helyi olívaolajokat egy hangulatos kóstolóteremben.",
         "ro": "Dimineața este dedicată moștenirii istorice în piața centrală și pe cele mai înguste străzi din Istria. După o vizită la Ekomuzej, descoperiți mumiile misterioase din Basilica Sf. Blasiu. După-amiaza este marcată de artă modernă și gastronomie: admirați picturile murale uriașe pe pereții caselor vechi și degustați uleiul de măsline local, premiat la nivel mondial.",
         "en": "The morning is dedicated to historic heritage at the main square and the narrowest streets in Istria. After visiting the interactive Ekomuzej, discover the mysterious mummies in St. Blaise Basilica. The afternoon focuses on modern art and gastronomy: marvel at the huge murals on the old house walls and taste the world-renowned local olive oil in a cozy tasting room.",
-        "hr": "Jutro je posvećeno povijesnoj baštini na glavnom trgu i najužim ulicama u Istri. Nakon posjeta interaktivnom Ekomuzeju, otkrijte tajanstvene mumije u bazilici sv. Blaža. Poslijepodne je u znaku moderne umjetnosti i gastronomije: divite se golemim muralima na zidovima starih kuća i kušajte svjetski poznato lokalno maslinovo ulje u ugodnoj kušaonici."
+        "hr": "Jutro je posvećeno povijesnoj baštini na glavnom trgu i najužim ulicama Istre. Nakon posjeta interaktivnom Ekomuzeju, otkrijte misteriozne mumije u Bazilici sv. Blaža. Poslijepodne se fokusira na suvremenu umjetnost i gastronomiju: divite se ogromnim muralima na zidovima starih kuća i kušajte svjetski poznato lokalno maslinovo ulje u ugodnoj prostoriji za degustaciju."
       },
       "gastro_picks": {
         "de": [
@@ -323,10 +323,10 @@
           "Look for the information boards next to the murals."
         ],
         "hr": [
-          "Vodnjan je najbolje istražiti pješice kroz njegove uske uličice.",
-          "Posjetite baziliku na puni sat radi najboljih svjetlosnih uvjeta.",
-          "Rezervirajte termin za kušanje maslinovog ulja unaprijed.",
-          "Potražite informativne ploče pored murala."
+          "Vodnjan se najbolje istražuje pješice kroz njegove uske uličice.",
+          "Posjetite baziliku u pono ili satima zbog najboljeg osvjetljenja.",
+          "Rezervirajte degustaciju maslinovog ulja unaprijed.",
+          "Potražite informacijske ploče pored murala."
         ]
       },
       "variants": {
@@ -336,7 +336,7 @@
             "hu": "Reggel a Bradamante-palota falai között kezdünk, elkerülve az első záporokat. Délben a Szent Balázs-templom világhírű múmiái nyújtanak spirituális és fedett menedéket. Délután az Ekomúzeumban ismerkedünk a népi hagyományokkal, amíg kint esik. Az estét egy hangulatos, benti olívaolaj-kóstolóval és egy rövid, frissítő eső utáni sétával zárjuk.",
             "ro": "Dimineața, Palatul Bradamante oferă adăpost împotriva ploii în timp ce explorăm istoria locală. La prânz, vizităm Biserica Sf. Blasiu, ale cărei relicve oferă o experiență interioară fascinantă. După-amiaza, ne cufundăm în tradițiile istriene la Ecomuzeu. Seara se încheie confortabil cu o degustare de ulei de măsline într-o cramă uscată.",
             "en": "In the morning, the Bradamante Palace provides shelter from the rain as we explore local history. At noon, we visit St. Blaise's Church, where the relics offer a fascinating indoor experience. In the afternoon, we dive into Istrian traditions at the Ecomuseum while it pours outside. The evening ends cozily with an olive oil tasting in a dry cellar.",
-            "hr": "Ujutro palača Bradamante pruža utočište od kiše dok istražujemo lokalnu povijest. U podne posjećujemo crkvu sv. Blaža, gdje relikvije nude fascinantno iskustvo u zatvorenom prostoru. Poslijepodne uranjamo u istarsku tradiciju u Ekomuzeju dok vani pljušti. Večer završava ugodno uz degustaciju maslinovog ulja u suhom podrumu."
+            "hr": "Ujutro palača Bradamante pruža zaklon od kiše dok istražujemo lokalnu povijest. U podne posjećujemo crkvu sv. Blaža, gdje relikvije nude fascinantno unutarnje iskustvo. Poslijepodne uranjamo u istarske tradicije u Ekomuzeju dok vani pada kiša. Večer završava ugodno degustacijom maslinovog ulja u suhoj ostavi."
           },
           "stops": [
             {
@@ -346,7 +346,7 @@
                 "hu": "Ideális benti kezdés, amíg eláll az eső.",
                 "ro": "Un punct de plecare perfect pentru a începe ziua la adăpost.",
                 "en": "Perfect starting point to stay dry while the day begins.",
-                "hr": "Savršeno polazište da ostanete suhi dok dan počinje."
+                "hr": "Savršena polazna točka za ostati suhim dok dan započinje."
               }
             },
             {
@@ -356,7 +356,7 @@
                 "hu": "Gyors fotó az esernyők alatt a szűk sikátorban.",
                 "ro": "O scurtă oprire foto sub umbrelă pe această alee îngustă.",
                 "en": "Quick photo stop under an umbrella in this narrow alley.",
-                "hr": "Brzo fotografiranje pod kišobranom u ovoj uskoj uličici."
+                "hr": "Brza foto-stanka pod kišobranom u ovoj uskoj uličici."
               }
             },
             {
@@ -366,7 +366,7 @@
                 "hu": "Esőben kötelező – tágas belső terek a kiállításokhoz.",
                 "ro": "O vizită obligatorie pe ploaie – mult timp pentru expoziții.",
                 "en": "A must in the rain – plenty of time for indoor exhibits.",
-                "hr": "Obavezno po kiši – dovoljno vremena za unutarnje izloške."
+                "hr": "Obavezno pri kiši – ima mnogo vremena za izložbe u zatvorenom."
               }
             },
             {
@@ -376,7 +376,7 @@
                 "hu": "A múmiák száraz, klimatizált helyiségben tekinthetők meg.",
                 "ro": "Mumiile se află într-o încăpere uscată și climatizată.",
                 "en": "The mummies are kept in a dry, climate-controlled room.",
-                "hr": "Mumije se čuvaju u suhoj prostoriji s kontroliranom klimom."
+                "hr": "Mumije su smještene u suhoj, klimatiziranoj prostoriji."
               }
             },
             {
@@ -386,7 +386,7 @@
                 "hu": "Kóstoljon meg egy meleg Maneštrát a kandalló mellett.",
                 "ro": "Savurați o supă caldă (Maneštra) lângă șemineu.",
                 "en": "Enjoy a warm soup (Maneštra) by the fireplace.",
-                "hr": "Uživajte u toploj juhi (maneštri) uz kamin."
+                "hr": "Uživajte u toploj juhi (Maneštra) kraj ognjišta."
               }
             },
             {
@@ -396,7 +396,7 @@
                 "hu": "Néhány falfestmény az ereszaljak alól is jól látható.",
                 "ro": "Unele picturi murale pot fi văzute de sub streșini protectoare.",
                 "en": "Some murals can be viewed from under protective eaves.",
-                "hr": "Neki murali mogu se razgledati ispod zaštitnih streha."
+                "hr": "Neki murali mogu se promatrati s podstrešnica koje ih štite."
               }
             },
             {
@@ -406,7 +406,7 @@
                 "hu": "Száraz és ízletes program a mintaboltban.",
                 "ro": "O experiență uscată și plină de gust în magazin.",
                 "en": "A dry and flavorful experience in the tasting room.",
-                "hr": "Suho i aromatično iskustvo u kušaonici."
+                "hr": "Suho i punog okusa iskustvo u prostoriji za degustaciju."
               }
             },
             {
@@ -416,7 +416,7 @@
                 "hu": "Vigyázat, az eső után csúszós lehet a macskakő.",
                 "ro": "Atenție la pavajul alunecos după ploaie.",
                 "en": "Be careful on the slippery cobblestones after the rain.",
-                "hr": "Budite oprezni na klizavom kamenu nakon kiše."
+                "hr": "Budite oprezni na klizavim kaldrmama nakon kiše."
               }
             }
           ],
@@ -446,10 +446,10 @@
               "Central konobas offer cozy interiors for extended breaks."
             ],
             "hr": [
-              "Oprez: Stari kamen u Vodnjanu postaje vrlo klizav kad je mokar.",
-              "Iskoristite dugo radno vrijeme crkve i ekomuzeja kao pauze od kiše.",
-              "Nosite nepromočivu obuću jer se u uskim uličicama stvaraju lokve.",
-              "Središnje konobe nude ugodan interijer za duže pauze."
+              "Upozorenje: stare kaldrme u Vodnjanu postaju vrlo skliske kad su mokre.",
+              "Iskoristite duge radne sate crkve i Ekomuzeja kao pauze od kiše.",
+              "Nosite vodootpornu obuću jer se u uskim uličicama često stvaraju lokve.",
+              "Središnje konobe nude ugodne interijere za duže odmore."
             ]
           }
         },
@@ -459,7 +459,7 @@
             "hu": "A téli Vodnjan csendes és őszinte arcát mutatja. Reggel a tiszta téli fényben csodáljuk meg a Bradamante-palotát. Délben a monumentális Szent Balázs-templomban melegszünk fel. A délután az Ekomúzeumé és a muráloké, mielőtt a korai szürkület arany fénybe vonja a várost. A napot egy tápláló vacsorával zárjuk egy fűtött helyi vendéglőben.",
             "ro": "Iarna, Vodnjan își arată latura liniștită și autentică. Dimineața admirăm Palatul Bradamante în lumina clară de iarnă. La prânz, ne încălzim în istorica Biserică Sf. Blasiu. După-amiaza aparține Ecomuzeului și picturilor murale, înainte ca amurgul timpuriu să scalde orașul în lumină aurie. Ziua se încheie cu o masă copioasă într-o tavernă încălzită.",
             "en": "In winter, Vodnjan reveals its quiet, authentic side. In the morning, we admire the Bradamante Palace in the crisp winter light. At noon, we warm up inside the historic St. Blaise's Church. The afternoon is dedicated to the Ecomuseum and murals before the early dusk bathes the town in golden light. The day ends with a hearty meal in a heated local tavern.",
-            "hr": "Zimi Vodnjan otkriva svoju tihu, autentičnu stranu. Ujutro se divimo palači Bradamante na oštrom zimskom svjetlu. U podne se grijemo u povijesnoj crkvi sv. Blaža. Poslijepodne je posvećeno Ekomuzeju i muralima prije nego što rani sumrak okupa grad zlatnom svjetlošću. Dan završava obilnim obrokom u grijanoj lokalnoj konobi."
+            "hr": "Zimi Vodnjan otkriva svoju mirnu, autentičnu stranu. Ujutro uživamo u palači Bradamante u oštrom zimskom svjetlu. U podne se grijemo unutar povijesne crkve sv. Blaža. Poslijepodne je posvećeno Ekomuzeju i muralima prije nego što rano sumrak zamagli grad zlatnim svjetlom. Dan završava obilnim obrokom u zagrijanoj lokalnoj konobi."
           },
           "stops": [
             {
@@ -499,7 +499,7 @@
                 "hu": "A vastag falak védenek a hideg bóra széltől.",
                 "ro": "Zidurile groase protejează de vântul rece Bura.",
                 "en": "Thick walls protect against the cold Bora wind.",
-                "hr": "Debeli zidovi štite od hladne bure."
+                "hr": "Debeli zidovi štite od hladnog bura vjetra."
               }
             },
             {
@@ -509,7 +509,7 @@
                 "hu": "Kóstoljon laktató húsételeket szarvasgombával.",
                 "ro": "Încercați preparate din carne sățioase cu trufe.",
                 "en": "Try some hearty meat dishes with truffles.",
-                "hr": "Probajte krepka mesna jela s tartufima."
+                "hr": "Probajte jela od mesa s tartufima."
               }
             },
             {
@@ -519,7 +519,7 @@
                 "hu": "Tervezze a látogatást 16:30 előtt, mert korán sötétedik.",
                 "ro": "Planificați vizita înainte de 16:30, deoarece se întunecă devreme.",
                 "en": "Plan your visit before 4:30 PM as it gets dark early.",
-                "hr": "Planirajte posjet prije 16:30 jer rano pada mrak."
+                "hr": "Isplanirajte posjet prije 16:30 jer se rano smrkava."
               }
             },
             {
@@ -529,7 +529,7 @@
                 "hu": "Kóstolja meg a legutóbbi szüret friss olívaolaját.",
                 "ro": "Gustați ulei de măsline proaspăt din ultima recoltă.",
                 "en": "Taste fresh olive oil from the most recent harvest.",
-                "hr": "Kušajte svježe maslinovo ulje iz posljednje berbe."
+                "hr": "Kušajte svježe maslinovo ulje iz najnovije berbe."
               }
             },
             {
@@ -539,7 +539,7 @@
                 "hu": "Élvezze az ünnepi fényeket a főtéren.",
                 "ro": "Bucurați-vă de luminile de sărbătoare din piață.",
                 "en": "Enjoy the festive holiday lights on the main square.",
-                "hr": "Uživajte u svečanoj blagdanskoj rasvjeti na glavnom trgu."
+                "hr": "Uživajte u svečanim blagdanskim svjetlima na glavnom trgu."
               }
             }
           ],
@@ -569,8 +569,8 @@
               "Visit the church at noon to avoid the morning chill."
             ],
             "hr": [
-              "Bura može biti vrlo hladna; vjetrovka i šal su neophodni.",
-              "Sunce zimi zalazi oko 16:30.",
+              "Bura može biti vrlo hladna; vjetrovka i šal su nužni.",
+              "Sunce zalazi oko 16:30 zimi.",
               "Mnoge konobe imaju ograničeno radno vrijeme zimi, pa se preporučuje rezervacija.",
               "Posjetite crkvu u podne kako biste izbjegli jutarnju hladnoću."
             ]
@@ -602,7 +602,7 @@
             "hu": "Parkoljon a kerékpárral a főtéren.",
             "ro": "Parcați bicicleta în piața centrală.",
             "en": "Park your bike at the main square.",
-            "hr": "Parkirajte bicikl na glavnom trgu."
+            "hr": "Parkirajte svoj bicikl na glavnom trgu."
           }
         },
         {
@@ -716,7 +716,7 @@
             "hu": "Tolja át a kerékpárt a szűk sikátoron.",
             "ro": "Împingeți bicicleta prin aleea îngustă.",
             "en": "Push your bike through the narrow alley.",
-            "hr": "Pogurajte bicikl kroz usku uličicu."
+            "hr": "Gurajte bicikl kroz usku ulicu."
           }
         }
       ],
@@ -725,7 +725,7 @@
         "hu": "Ez a kerékpártúra ötvözi Vodnjan kulturális látnivalóit a környező mezőgazdasági tájjal. Kezdje a központban, fedezze fel a falakon lévő műalkotásokat, majd tekerjen ki a hatalmas olajfaligetek közé. A múmiák és az Ekomuzej meglátogatása kulturálisan teszi teljessé a sportos napot.",
         "ro": "Acest tur cu bicicleta combină atracțiile culturale din Vodnjan cu o plimbare prin peisajul agricol înconjurător. Începeți în centru, explorați operele de artă de pe ziduri, apoi pedalați printre livezile vaste de măslini. Vizitarea mumiilor și a Ekomuzej completează cultural această zi sportivă.",
         "en": "This bike tour combines the cultural highlights of Vodnjan with a ride through the surrounding agricultural landscape. Start in the center, explore the artworks on the walls, and then ride out into the vast olive groves. A visit to the mummies and the Ekomuzej completes the active day culturally.",
-        "hr": "Ova biciklistička tura kombinira kulturne znamenitosti Vodnjana s vožnjom kroz okolni poljoprivredni krajolik. Krenite iz centra, istražite umjetnička djela na zidovima, a zatim se odvezite u prostrane maslinike. Posjet mumijama i Ekomuzeju kulturno upotpunjuje aktivni dan."
+        "hr": "Ova biciklistička tura spaja kulturne vrhunce Vodnjana s vožnjom kroz okolni poljoprivredni krajolik. Počnite u centru, istražite umjetnička djela na zidovima, a zatim se uputite u široke maslinike. Posjet mumijama i Ekomuzeju kulturno upotpunjuje aktivan dan."
       },
       "gastro_picks": {
         "de": [
@@ -850,9 +850,9 @@
           "Navigating between the murals is faster by bike."
         ],
         "hr": [
-          "Putovi u maslinicima mogu biti prašnjavi.",
-          "Nosite dovoljno vode za dionice izvan grada.",
-          "Navigacija između murala brža je biciklom."
+          "Staze u maslinicima mogu biti prašnjave.",
+          "Ponesite dovoljno vode za dionice izvan grada.",
+          "Kretanje između murala brže je biciklom."
         ]
       },
       "variants": {
@@ -862,7 +862,7 @@
             "hu": "A kerékpározás esőben óvatosságot igényel, de különleges, párás hangulatot áraszt. A palotától indulva a murálokat keressük fel, melyek színei az esőben még élénkebbek. Délben a templom és az Ekomúzeum nyújt fedett menedéket. Az olajfaligetek közötti utat erős esőben lerövidítjük, és egy kiadós ebéddel kárpótoljuk magunkat.",
             "ro": "O tură cu bicicleta pe ploaie necesită prudență, dar oferă o atmosferă mistică. După startul de la palat, vizităm picturile murale, ale căror culori strălucesc în ploaie. La prânz, căutăm adăpost în biserică și la ecomuzeu. Scurtăm plimbarea prin livezile de măslini dacă plouă tare și ne încălzim cu un prânz copios.",
             "en": "Cycling in the rain requires caution but offers a mystical atmosphere. After starting at the palace, we visit the murals, whose colors glow in the wet sheen. At noon, we seek shelter in the church and ecomuseum. We shorten the ride through the olive groves if the rain gets heavy and warm up with a hearty lunch.",
-            "hr": "Bicikliranje po kiši zahtijeva oprez, ali nudi mističnu atmosferu. Nakon polaska kod palače, posjećujemo murale čije boje sjaje na mokrom. U podne tražimo zaklon u crkvi i ekomuzeju. Skraćujemo vožnju kroz maslinike ako kiša postane jaka i grijemo se uz obilan ručak."
+            "hr": "Vožnja biciklom po kiši zahtijeva oprez, ali pruža mističnu atmosferu. Nakon polaska s palače posjećujemo murale čije boje sjaje u mokrom sjaju. U podne tražimo zaklon u crkvi i Ekomuzeju. Ako kiša postane jaka, skraćujemo vožnju kroz maslinike i grijemo se uz zasitni ručak."
           },
           "stops": [
             {
@@ -872,7 +872,7 @@
                 "hu": "Ellenőrizze a fékeket a vizes macskakő előtt.",
                 "ro": "Verificați frânele înainte de a porni pe pavajul ud.",
                 "en": "Check your brakes before starting on the wet pavement.",
-                "hr": "Provjerite kočnice prije kretanja po mokrom kolniku."
+                "hr": "Provjerite kočnice prije polaska po mokrom kolniku."
               }
             },
             {
@@ -882,7 +882,7 @@
                 "hu": "Óvatosan a szűk kanyarokban a csúszós talajon.",
                 "ro": "Atenție în curbele strânse pe suprafața alunecoasă.",
                 "en": "Be careful in tight turns on slippery surfaces.",
-                "hr": "Budite oprezni u oštrim zavojima na klizavim površinama."
+                "hr": "Pažljivo u oštrim zavojima na klizavim površinama."
               }
             },
             {
@@ -892,7 +892,7 @@
                 "hu": "Kerékpártároló közvetlenül a bejáratnál a gyors menedékért.",
                 "ro": "Suport de biciclete chiar în fața intrării pentru adăpost rapid.",
                 "en": "Bike racks right in front of the entrance for quick shelter.",
-                "hr": "Stalci za bicikle odmah ispred ulaza za brzi zaklon."
+                "hr": "Stalak za bicikle odmah ispred ulaza za brzi zaklon."
               }
             },
             {
@@ -902,7 +902,7 @@
                 "hu": "Használja ki az időt egy alapos benti pihenőre.",
                 "ro": "Folosiți timpul pentru o pauză interioară prelungită.",
                 "en": "Use the time for a thorough indoor break.",
-                "hr": "Iskoristite vrijeme za temeljit odmor u zatvorenom."
+                "hr": "Iskoristite vrijeme za temeljitu pauzu unutra."
               }
             },
             {
@@ -912,7 +912,7 @@
                 "hu": "Kerülje a földutakat, mert sárba ragadhat.",
                 "ro": "Evitați drumurile neasfaltate care ar putea fi noroioase.",
                 "en": "Avoid unpaved paths that could be muddy.",
-                "hr": "Izbjegavajte neasfaltirane putove koji bi mogli biti blatni."
+                "hr": "Izbjegavajte neasfaltirane puteve koji bi mogli biti blatni."
               }
             },
             {
@@ -922,7 +922,7 @@
                 "hu": "Van hely a vizes ruhák felakasztására a bejáratnál.",
                 "ro": "Spațiu disponibil pentru hainele ude la intrare.",
                 "en": "Space available for wet clothes near the entrance.",
-                "hr": "Dostupan prostor za mokru odjeću u blizini ulaza."
+                "hr": "Prostor za mokru odjeću kod ulaza."
               }
             },
             {
@@ -932,7 +932,7 @@
                 "hu": "Érdemes tolni a bringát, nagyon szűk a sikátor.",
                 "ro": "Cel mai bine este să împingeți bicicleta, aleea este foarte îngustă.",
                 "en": "Best to push the bike as the alley is very narrow.",
-                "hr": "Najbolje je gurati bicikl jer je uličica vrlo uska."
+                "hr": "Bolje je gurati bicikl jer je uličica vrlo uska."
               }
             }
           ],
@@ -962,10 +962,10 @@
               "Keep the ride through olive groves short to avoid getting too cold."
             ],
             "hr": [
-              "Kompletna oprema za kišu (hlače i jakna) je neophodna.",
+              "Puna kišna oprema (hlače i jakna) je neophodna.",
               "Izbjegavajte kočenje izravno na bijelim kamenim pločama; klizave su kao led.",
-              "Lagano smanjite tlak u gumama za bolje prianjanje na mokrim cestama.",
-              "Neka vožnja kroz maslinike bude kratka kako se ne biste previše ohladili."
+              "Smanjite tlak u gumama lagano za bolje prianjanje na mokrim cestama.",
+              "Držite vožnju kroz maslinike kratkom da se ne biste prehladili."
             ]
           }
         },
@@ -975,7 +975,7 @@
             "hu": "A téli bringázás Vodnjan környékén tiszta kilátást és üres utakat kínál. Reggel a központ látnivalóit járjuk be, a mozgás pedig segít melegen tartani testünket. Délben a templom és az Ekomúzeum ad kulturális feltöltődést. Az olajfaligetek közötti túra a téli fényekben különösen fotogén. Korán befejezzük a kört, még a naplemente utáni lehűlés előtt.",
             "ro": "Biciclitul iarna în Vodnjan oferă vizibilitate clară și drumuri pustii. Dimineața vizităm atracțiile din centru, activitatea fizică menținându-ne calzi. La prânz, biserica și ecomuzeul oferă căldură culturală. Turul prin livezile de măslini este deosebit de fotogenic în lumina iernii. Încheiem tura devreme, înainte de gerul de după apus.",
             "en": "Winter cycling in Vodnjan offers clear views and empty roads. In the morning, we visit the sights in the center, with physical activity keeping us warm. At noon, the church and ecomuseum offer cultural warmth. The tour through the olive groves is especially photogenic in the winter light. We finish the loop early before the cold sets in after sunset.",
-            "hr": "Zimsko bicikliranje u Vodnjanu nudi čiste vidike i prazne ceste. Ujutro obilazimo znamenitosti u centru, a fizička aktivnost nas grije. U podne crkva i ekomuzej nude kulturnu toplinu. Tura kroz maslinike posebno je fotogenična na zimskom svjetlu. Završavamo krug rano prije nego što zahladi nakon zalaska sunca."
+            "hr": "Zimska vožnja biciklom u Vodnjanu nudi jasne poglede i prazne ceste. Ujutro posjećujemo znamenitosti u centru, uz tjelesnu aktivnost koja nas grije. U podne crkva i Ekomuzej nude kulturno utočište. Tura kroz maslinike posebno je fotogenična u zimskom svjetlu. Završavamo krug rano prije nego što hladnoća stigne nakon zalaska sunca."
           },
           "stops": [
             {
@@ -995,7 +995,7 @@
                 "hu": "Tartson rövid megállókat, hogy ne hűljön ki.",
                 "ro": "Faceți opriri scurte pentru a nu vă răci.",
                 "en": "Keep stops brief to avoid getting chilled.",
-                "hr": "Neka zaustavljanja budu kratka kako se ne biste ohladili."
+                "hr": "Neka stanice budu kratke da se ne ohladite."
               }
             },
             {
@@ -1005,7 +1005,7 @@
                 "hu": "Jó hely az ujjak felmelegítésére.",
                 "ro": "Un loc bun pentru a vă încălzi degetele.",
                 "en": "A good place to warm up your fingers.",
-                "hr": "Dobro mjesto za zagrijavanje prstiju."
+                "hr": "Dobra lokacija za ugrijati prste."
               }
             },
             {
@@ -1015,7 +1015,7 @@
                 "hu": "Nézze meg a kiállításokat nyugodtan, alig van látogató.",
                 "ro": "Vizitați expozițiile în liniște, este foarte puțină lume.",
                 "en": "Visit the exhibits in peace; there are hardly any crowds.",
-                "hr": "Razgledajte izloške u miru; gotovo da nema gužve."
+                "hr": "Posjetite izložbe u miru; gotovo nema gužve."
               }
             },
             {
@@ -1025,7 +1025,7 @@
                 "hu": "Élvezze a távoli kilátást az Adriára a tiszta időben.",
                 "ro": "Bucurați-vă de vederea spre Adriatică în lumina clară.",
                 "en": "Enjoy the distant view of the Adriatic in the clear air.",
-                "hr": "Uživajte u pogledu na Jadran u daljini na čistom zraku."
+                "hr": "Uživajte u dalekom pogledu na Jadran u čistom zraku."
               }
             },
             {
@@ -1035,7 +1035,7 @@
                 "hu": "Forró tea vagy leves most ideális választás.",
                 "ro": "Un ceai fierbinte sau o supă sunt ideale acum.",
                 "en": "Hot tea or soup is ideal right now.",
-                "hr": "Vrući čaj ili juha idealni su upravo sada."
+                "hr": "Vrući čaj ili juha idealni su sada."
               }
             },
             {
@@ -1045,7 +1045,7 @@
                 "hu": "Utolsó fotómegálló, mielőtt lehűl a levegő.",
                 "ro": "Ultima oprire foto înainte de a se face frig.",
                 "en": "Last photo stop before it gets chilly.",
-                "hr": "Zadnja postaja za fotografiranje prije nego zahladi."
+                "hr": "Zadnja foto-stanica prije nego što postane hladno."
               }
             }
           ],
@@ -1075,10 +1075,10 @@
               "Lighting conditions for photos are best between 11 AM and 2 PM."
             ],
             "hr": [
-              "Slojevito odijevanje štiti od hladnog vjetra.",
-              "Pazite na mraz rano ujutro, posebno u sjenovitim područjima.",
-              "Preporučuje se termosica s toplim čajem u držaču boce.",
-              "Svjetlosni uvjeti za fotografije najbolji su između 11:00 i 14:00 sati."
+              "Oblačenje u slojevima štiti od hladnog vjetra.",
+              "Pazite na mraz rano ujutro, posebno u sjenovitim dijelovima.",
+              "Preporučuje se termosa s toplim čajem u nosaču boce.",
+              "Uvjeti osvjetljenja za fotografije najbolji su između 11:00 i 14:00 sati."
             ]
           }
         }
@@ -1108,7 +1108,7 @@
             "hu": "Parkoljon a város szélén található nagy parkolóban.",
             "ro": "Parcați în parcarea mare de la marginea orașului.",
             "en": "Park at the large parking lot on the outskirts.",
-            "hr": "Parkirajte na velikom parkiralištu na rubu grada."
+            "hr": "Parkirajte na velikom parkiralištu na rubu mjesta."
           }
         },
         {
@@ -1127,7 +1127,7 @@
             "hu": "Csak gyalogosan megközelíthető.",
             "ro": "Accesibil doar pe jos.",
             "en": "Accessible only on foot.",
-            "hr": "Pristupačno samo pješice."
+            "hr": "Dostupno samo pješice."
           }
         },
         {
@@ -1146,7 +1146,7 @@
             "hu": "Történelemkedvelőknek kötelező látnivaló.",
             "ro": "Obligatoriu pentru pasionații de istorie.",
             "en": "A must-see for history lovers.",
-            "hr": "Obavezno mjesto za ljubitelje povijesti."
+            "hr": "Must-see za ljubitelje povijesti."
           }
         },
         {
@@ -1184,7 +1184,7 @@
             "hu": "Rövid séta a főbb művekhez.",
             "ro": "Scurtă plimbare către principalele opere.",
             "en": "Short walk to the main works.",
-            "hr": "Kratka šetnja do glavnih djela."
+            "hr": "Kratka šetnja do glavnih radova."
           }
         },
         {
@@ -1203,7 +1203,7 @@
             "hu": "Élvezze a tengert mindössze 10 percnyi autóútra.",
             "ro": "Bucurați-vă de mare la doar 10 minute de condus.",
             "en": "Enjoy the sea just 10 minutes away by car.",
-            "hr": "Uživajte u moru udaljenom samo 10 minuta vožnje."
+            "hr": "Uživajte u moru samo 10 minuta automobilom."
           }
         },
         {
@@ -1222,7 +1222,7 @@
             "hu": "Friss hal közvetlenül a parton.",
             "ro": "Pește proaspăt chiar pe malul mării.",
             "en": "Fresh fish right on the shore.",
-            "hr": "Svježa riba na samoj obali."
+            "hr": "Svježa riba pravo na obali."
           }
         },
         {
@@ -1241,7 +1241,7 @@
             "hu": "Kilátás a Brijuni-szigetekre.",
             "ro": "Vedere către insulele Brijuni.",
             "en": "View of the Brijuni Islands.",
-            "hr": "Pogled na otočje Brijuni."
+            "hr": "Pogled na otoke Brijune."
           }
         }
       ],
@@ -1250,7 +1250,7 @@
         "hu": "Ez a nap ötvözi Vodnjan misztikus óvárosát a közeli tengerpart felfrissülésével. Miután meglátogatta a kulturális kincseket, például a múmiákat és az Ekomuzejt, autózzon át a közeli Peroj strandjára. Itt pihenéssel töltheti a délutánt a tengerparton, a napot pedig a Brijuni-szigetekre nyíló kilátással zárhatja.",
         "ro": "Această zi combină orașul vechi mistic din Vodnjan cu prospețimea coastei din apropiere. După vizitarea comorilor culturale, cum ar fi mumiile și Ekomuzej, conduceți până la plaja din Peroj. Aici vă puteți relaxa după-amiaza la malul mării și puteți încheia ziua cu o vedere spre parcul național Brijuni.",
         "en": "This day combines the mystical old town of Vodnjan with the refreshment of the nearby coast. After visiting cultural treasures like the mummies and the Ekomuzej, drive to the nearby Peroj beach. Here you can spend a relaxing afternoon by the sea and end the day with a view of the Brijuni Islands.",
-        "hr": "Ovaj dan spaja mističnu staru jezgru Vodnjana s osvježenjem obližnje obale. Nakon posjeta kulturnim blagom poput mumija i Ekomuzeja, odvezite se do obližnje plaže u Peroju. Ovdje možete provesti opuštajuće poslijepodne uz more i završiti dan s pogledom na Brijune."
+        "hr": "Ovaj dan kombinira mistični stari grad Vodnjan s osvježenjem obale u blizini. Nakon posjeta kulturnim blagom poput mumija i Ekomuzeja, krenite automobilom do obližnje plaže Peroj. Ovdje možete provesti opuštajuće popodne uz more i završiti dan pogledom na otoke Brijune."
       },
       "gastro_picks": {
         "de": [
@@ -1376,8 +1376,8 @@
         ],
         "hr": [
           "Parkiranje u centru Vodnjana je otežano, koristite vanjska parkirališta.",
-          "Obala je udaljena samo 10-15 minuta vožnje automobilom.",
-          "Vrijedi spojiti posjet s izletom u Fažanu."
+          "Obala je udaljena samo 10–15 minuta vožnje automobilom.",
+          "Vrijedi posjet spojiti s izletom u Fažanu."
         ]
       },
       "variants": {
@@ -1387,7 +1387,7 @@
             "hu": "Autóval Vodnjan esőben is kényelmesen felfedezhető. A központ közelében parkolunk, megnézzük a palotát és a templomot. Délben az Ekomúzeumban bújunk el az eső elől. A peroiji tengerparti autózás során megcsodáljuk a haragos tengert, majd a parton ebédelünk. A naplementét biztonságban, a fűtött autóból figyeljük a foknál.",
             "ro": "Cu mașina, Vodnjan este confortabil chiar și pe ploaie. Parcăm aproape de centru și vizităm palatul și biserica. La prânz, ecomuzeul oferă adăpost. Drumul spre plaja Peroj arată marea în starea ei sălbatică, înainte de a ne bucura de un prânz pe coastă. Privim apusul în siguranță din mașina caldă, la cap.",
             "en": "By car, Vodnjan is comfortable even in the rain. We park near the center and visit the palace and church. At noon, the ecomuseum provides shelter. The drive to Peroj beach shows the sea's wild side before we enjoy a cozy lunch on the coast. We watch the sunset safely from the warm car at the cape.",
-            "hr": "Automobilom je Vodnjan udoban čak i po kiši. Parkiramo blizu centra i posjećujemo palaču i crkvu. U podne ekomuzej pruža zaklon. Vožnja do plaže Peroj pokazuje divlju stranu mora prije nego što uživamo u ugodnom ručku na obali. Zalazak sunca sigurno promatramo iz toplog automobila na rtu."
+            "hr": "Automobilom je Vodnjan ugodan čak i po kiši. Parkiramo blizu centra i posjećujemo palaču i crkvu. U podne Ekomuzej pruža zaklon. Vožnja do plaže Peroj pokazuje divlju stranu mora prije nego što uživamo u ugodnom ručku na obali. Zalazak sunca promatramo sigurno iz toplog auta na rtu."
           },
           "stops": [
             {
@@ -1407,7 +1407,7 @@
                 "hu": "Gyors kiszállás egy fotóra, majd vissza a száraz autóba.",
                 "ro": "O scurtă coborâre pentru o fotografie, apoi înapoi la uscat.",
                 "en": "Short hop out for a photo, then back into the dry car.",
-                "hr": "Brzi izlazak radi fotografije, pa natrag u suhi auto."
+                "hr": "Kratko iskakanje za fotografiju, pa natrag u suhi auto."
               }
             },
             {
@@ -1417,7 +1417,7 @@
                 "hu": "Ideális erős esőben, mivel sok időt tölthetünk bent.",
                 "ro": "Ideal pe ploaie puternică, deoarece petreceți mult timp în interior.",
                 "en": "Ideal during heavy rain as you spend a lot of time inside.",
-                "hr": "Idealno tijekom jake kiše jer puno vremena provodite unutra."
+                "hr": "Idealno za jaku kišu jer provodite puno vremena unutra."
               }
             },
             {
@@ -1427,7 +1427,7 @@
                 "hu": "Az akadálymentes bejárat többnyire szárazon elérhető.",
                 "ro": "Accesul fără bariere este în mare parte protejat de ploaie.",
                 "en": "Barrier-free access is mostly reachable without getting wet.",
-                "hr": "Pristup bez barijera uglavnom je dostižan bez močenja."
+                "hr": "Pristup bez prepreka većinom je moguć bez da se smočite."
               }
             },
             {
@@ -1437,7 +1437,7 @@
                 "hu": "Néhány murál akár az autóból elhaladva is megcsodálható.",
                 "ro": "Unele picturi murale pot fi admirate direct din mers.",
                 "en": "Some murals can be admired while driving past.",
-                "hr": "Nekim muralima možete se diviti dok prolazite automobilom."
+                "hr": "Neke murale možete razgledati i prolaskom automobilom."
               }
             },
             {
@@ -1497,10 +1497,10 @@
               "Use the parking lots directly at Peroj beach for sea views without getting wet."
             ],
             "hr": [
-              "Izbjegavajte parkiranje u vrlo uskim uličicama gdje je otjecanje kišnice jako.",
-              "Obalna cesta za Peroj može nanijeti morsku sol na vjetrobransko staklo po vjetrovitom vremenu.",
+              "Izbjegavajte parkiranje u vrlo uskim uličicama gdje je prohodnost oborinskih voda velika.",
+              "Primorska cesta prema Peroju može po vjetrovitom vremenu prskati sol po vjetrobranu.",
               "Provjerite brisače prije polaska.",
-              "Koristite parkirališta izravno na plaži Peroj za pogled na more bez močenja."
+              "Koristite parkirališta neposredno uz plažu Peroj za pogled na more bez mokrenja."
             ]
           }
         },
@@ -1510,7 +1510,7 @@
             "hu": "A téli autós túra a kulturális látnivalókat ötvözi a partvidék zord szépségével. Délelőtt Vodnjan központját fedezzük fel. Ebédidőben a templom és az Ekomúzeum ad meleget. A Perojba vezető út során a tiszta téli időben lenyűgöző kilátás nyílik a Brijuni-szigetekre. Egy késői ebéd után a foknál élvezzük a korai naplementét.",
             "ro": "Turul de iarnă cu mașina combină atracțiile culturale cu frumusețea aspră a coastei. Dimineața explorăm centrul orașului Vodnjan. La prânz ne încălzim în biserică și ecomuzeu. Drumul spre Peroj oferă o vedere spectaculoasă asupra insulelor Brijuni în lumina clară de iarnă. După un prânz târziu, experimentăm apusul timpuriu la cap.",
             "en": "The winter car tour combines cultural highlights with the rugged beauty of the coast. In the morning, we explore Vodnjan's center. At lunchtime, the church and ecomuseum provide warmth. The drive to Peroj offers spectacular views of the Brijuni Islands in the clear winter light. After a late lunch, we experience the early sunset at the cape.",
-            "hr": "Zimska tura automobilom spaja kulturne znamenitosti s grubom ljepotom obale. Ujutro istražujemo centar Vodnjana. U vrijeme ručka crkva i ekomuzej pružaju toplinu. Vožnja do Peroja nudi spektakularan pogled na Brijune na čistom zimskom svjetlu. Nakon kasnog ručka doživljavamo rani zalazak sunca na rtu."
+            "hr": "Zimska auto-tura kombinira kulturne istaknute točke s grubom ljepotom obale. Ujutro istražujemo središte Vodnjana. U podne crkva i Ekomuzej pružaju toplinu. Vožnja do Peroja nudi spektakularne poglede na otoke Brijune u bistrom zimskom svjetlu. Nakon kasnog ručka doživljavamo rani zalazak sunca na rtu."
           },
           "stops": [
             {
@@ -1520,7 +1520,7 @@
                 "hu": "Parkoljon napos helyen, hogy az autó természetesen átmelegedjen.",
                 "ro": "Parcați la soare pentru a încălzi mașina natural.",
                 "en": "Park in the sun to naturally warm up the car.",
-                "hr": "Parkirajte na suncu kako biste prirodno zagrijali automobil."
+                "hr": "Parkirajte na suncu kako biste prirodno ugrijali auto."
               }
             },
             {
@@ -1540,7 +1540,7 @@
                 "hu": "A lenyűgöző csend miatt érdemes hosszan bent maradni.",
                 "ro": "O vizită lungă merită pentru liniștea impresionantă.",
                 "en": "A long visit is worthwhile for the impressive silence.",
-                "hr": "Dugi posjet isplati se zbog impresivne tišine."
+                "hr": "Vrijedi duže ostati zbog dojmljive tišine."
               }
             },
             {
@@ -1550,7 +1550,7 @@
                 "hu": "Meleg ruha szükséges a parkolótól a bejáratig.",
                 "ro": "Haine groase necesare pentru drumul de la parcare.",
                 "en": "Warm clothes needed for the walk from the parking lot.",
-                "hr": "Potrebna topla odjeća za šetnju od parkirališta."
+                "hr": "Topla odjeća potrebna za šetnju od parkirališta."
               }
             },
             {
@@ -1560,7 +1560,7 @@
                 "hu": "Néhány mű az autóból ülve is megtekinthető.",
                 "ro": "Vizionarea din mașină este posibilă pentru unele lucrări.",
                 "en": "Viewing from the car is possible for some of the works.",
-                "hr": "Razgledavanje nekih djela moguće je iz automobila."
+                "hr": "Gledanje iz auta moguće je za neke radove."
               }
             },
             {
@@ -1570,7 +1570,7 @@
                 "hu": "Tökéletes egy rövid, frissítő gátsétához.",
                 "ro": "Perfect pentru o scurtă plimbare revigorantă pe dig.",
                 "en": "Perfect for a short, crisp walk along the sea wall.",
-                "hr": "Savršeno za kratku, britku šetnju uz morski zid."
+                "hr": "Savršeno za kratku, svježu šetnju uz morski zid."
               }
             },
             {
@@ -1580,7 +1580,7 @@
                 "hu": "A friss hal télen is kiváló választás.",
                 "ro": "Peștele proaspăt are un gust excelent și iarna.",
                 "en": "Fresh fish tastes excellent even in winter.",
-                "hr": "Svježa riba izvrsna je i zimi."
+                "hr": "Svježa riba odlično je i zimi."
               }
             },
             {
@@ -1590,7 +1590,7 @@
                 "hu": "Érkezzen időben (16:15 előtt).",
                 "ro": "Sosiți devreme (înainte de 16:15).",
                 "en": "Arrive early (before 4:15 PM).",
-                "hr": "Dođite ranije (prije 16:15)."
+                "hr": "Stignite rano (prije 16:15)."
               }
             }
           ],
@@ -1620,10 +1620,10 @@
               "Take advantage of the clear long-distance views from Peroj for photos of Brijuni Island."
             ],
             "hr": [
-              "Opasnost od mraza na mostovima i u udubljenjima lokalnih cesta.",
-              "Parkiranje u Vodnjanu zimi je često besplatno ili jeftinije.",
-              "Ponesite deku za zaustavljanje radi zalaska sunca u automobilu.",
-              "Iskoristite čistu vidljivost iz Peroja za fotografije Brijuna."
+              "Rizik od mraza na mostovima i u kotlinama seoskih cesta.",
+              "Parkiranje u Vodnjanu često je besplatno ili jeftinije tijekom zime.",
+              "Ponesite dekicu za zalazak sunca u autu.",
+              "Iskoristite jasne vidike iz Peroja za fotografije otoka Brijuni."
             ]
           }
         }
@@ -1653,7 +1653,7 @@
             "hu": "A buszmegálló közel van a központhoz.",
             "ro": "Stația de autobuz este aproape de centru.",
             "en": "The bus stop is near the center.",
-            "hr": "Autobusna stanica je u blizini centra."
+            "hr": "Autobusna stanica je blizu centra."
           }
         },
         {
@@ -1672,7 +1672,7 @@
             "hu": "Rövid séta a térről.",
             "ro": "O scurtă plimbare din piață.",
             "en": "A short walk from the square.",
-            "hr": "Kratka šetnja s trga."
+            "hr": "Kratka šetnja od trga."
           }
         },
         {
@@ -1710,7 +1710,7 @@
             "hu": "A múzeum nyáron kellemesen hűvös.",
             "ro": "Muzeul este răcoros pe timpul verii.",
             "en": "The museum is pleasantly cool in summer.",
-            "hr": "Muzej je ljeti ugodno hladan."
+            "hr": "Muzej je ugodno hladan ljeti."
           }
         },
         {
@@ -1729,7 +1729,7 @@
             "hu": "Kóstolja meg a helyi tésztaételeket.",
             "ro": "Gustați preparatele locale cu paste.",
             "en": "Try local pasta dishes.",
-            "hr": "Probajte lokalna jela od tjestenine."
+            "hr": "Probajte domaće tjestenine."
           }
         },
         {
@@ -1748,7 +1748,7 @@
             "hu": "A körséta a buszmegálló közelében ér véget.",
             "ro": "Turul se termină aproape de stația de autobuz.",
             "en": "The tour ends near the bus stop.",
-            "hr": "Tura završava u blizini autobusne stanice."
+            "hr": "Tura završava blizu autobusne stanice."
           }
         }
       ],
@@ -1757,7 +1757,7 @@
         "hu": "Vodnjan könnyen megközelíthető busszal Pulából vagy Fažanából. Ez a terv a kompakt óvárosra összpontosít, ahol minden látnivaló pár perces sétára található egymástól. A híres múmiáktól a modern falfestményekig ez a nap sűrű kulturális programot kínál autó nélkül is.",
         "ro": "Vodnjan este ușor accesibil cu autobuzul din Pula sau Fažana. Acest plan se concentrează pe centrul vechi compact, unde toate atracțiile sunt la câteva minute de mers pe jos. De la faimoasele mumii până la picturile murale moderne, această zi oferă un program cultural dens, fără mașină.",
         "en": "Vodnjan is easily accessible by bus from Pula or Fazana. This plan focuses on the compact old town, where all sights are within a few minutes' walk of each other. From the famous mummies to modern murals, this day offers a dense cultural program without the need for a car.",
-        "hr": "Vodnjan je lako dostupan autobusom iz Pule ili Fažane. Ovaj plan se fokusira na kompaktnu staru jezgru, gdje su sve znamenitosti udaljene samo nekoliko minuta hoda jedna od druge. Od poznatih mumija do modernih murala, ovaj dan nudi bogat kulturni program bez potrebe za automobilom."
+        "hr": "Vodnjan je lako dostupan autobusom iz Pule ili Fažane. Ovaj plan fokusira se na kompaktan stari grad, gdje su sve znamenitosti udaljene svega nekoliko minuta hoda jedna od druge. Od poznatih mumija do modernih murala, ovaj dan nudi gust kulturni program bez potrebe za autom."
       },
       "gastro_picks": {
         "de": [
@@ -1882,9 +1882,9 @@
           "The old town is cobbled, so wear comfortable shoes."
         ],
         "hr": [
-          "Unaprijed provjerite vozni red autobusa (Arriva ili Pulapromet).",
-          "Autobusi nedjeljom voze rjeđe.",
-          "Stara jezgra je popločana, pa nosite udobnu obuću."
+          "Provjerite vozne redove autobusa (Arriva ili Pulapromet) unaprijed.",
+          "Autobusi voze rjeđe nedjeljom.",
+          "Stari grad je popločan, pa nosite udobnu obuću."
         ]
       },
       "variants": {
@@ -1894,7 +1894,7 @@
             "hu": "Busszal vagy vonattal érkezünk Vodnjanba, és a kompakt központ látnivalóira fókuszálunk. Délelőtt a palotát és a templomot látogatjuk meg, melyek közel vannak egymáshoz. Délben az Ekomúzeumban bújunk el az időjárás elől. Egy hosszú központi ebéd segít átvészelni a záporokat, mielőtt megnéznénk a murálokat és visszaindulnánk.",
             "ro": "Ajungem în Vodnjan cu autobuzul sau trenul și ne concentrăm pe atracțiile din centrul compact. Dimineața vizităm palatul și biserica, situate aproape una de alta. La prânz, explorăm ecomuzeul pentru a scăpa de vremea rea. Un prânz lung în centru ne ajută să trecem peste ploaie înainte de a vedea picturile murale și a pleca.",
             "en": "We arrive in Vodnjan by bus or train and focus on the highlights in the compact center. In the morning, we visit the palace and the church, which are close to each other. At noon, we dive into the ecomuseum to escape the weather. A long lunch in the center bridges the rainy periods before we see the murals and head back.",
-            "hr": "U Vodnjan dolazimo autobusom ili vlakom i fokusiramo se na znamenitosti u kompaktnom centru. Ujutro posjećujemo palaču i crkvu koji su blizu jedno drugome. U podne uranjamo u ekomuzej kako bismo pobjegli od vremena. Dugi ručak u centru premošćuje kišna razdoblja prije nego što pogledamo murale i krenemo natrag."
+            "hr": "Dolazimo u Vodnjan autobusom ili vlakom i fokusiramo se na vrhunce u kompaktom centru. Ujutro posjećujemo palaču i crkvu koje su blizu jedna drugoj. U podne zaronimo u Ekomuzej da bismo izbjegli loše vrijeme. Dugi ručak u centru premošćuje kišna razdoblja prije nego što vidimo murale i vratimo se."
           },
           "stops": [
             {
@@ -1904,7 +1904,7 @@
                 "hu": "Csak 10 perc séta a vasútállomástól.",
                 "ro": "La doar 10 minute de mers pe jos de gară.",
                 "en": "Just a 10-minute walk from the train station.",
-                "hr": "Samo 10 minuta hoda od željezničke stanice."
+                "hr": "Samo 10 minuta hoda od kolodvora."
               }
             },
             {
@@ -1914,7 +1914,7 @@
                 "hu": "A buszmegálló közelében található.",
                 "ro": "Situată în apropierea stației de autobuz.",
                 "en": "Located near the bus stop.",
-                "hr": "Nalazi se u blizini autobusne stanice."
+                "hr": "Smešteno blizu autobusnog stajališta."
               }
             },
             {
@@ -1924,7 +1924,7 @@
                 "hu": "Stabil esernyő szükséges a megállók közötti közlekedéshez.",
                 "ro": "O umbrelă rezistentă este necesară pentru drumul dintre obiective.",
                 "en": "A sturdy umbrella is needed for the walk between stops.",
-                "hr": "Čvrst kišobran potreban je za šetnju između postaja."
+                "hr": "Za šetnju između točaka potreban je čvrst kišobran."
               }
             },
             {
@@ -1934,7 +1934,7 @@
                 "hu": "Központi biztos pont egy hosszú esőszünethez.",
                 "ro": "Punct central de ancorare pentru o pauză lungă de ploaie.",
                 "en": "Central anchor point for a long rain break.",
-                "hr": "Središnja točka za dugu pauzu od kiše."
+                "hr": "Središnje mjesto za dužu pauzu zbog kiše."
               }
             },
             {
@@ -1944,7 +1944,7 @@
                 "hu": "Válasszon éttermet a buszmegálló közelében.",
                 "ro": "Alegeți un restaurant aproape de stația de autobuz.",
                 "en": "Choose a restaurant close to the bus stop.",
-                "hr": "Odaberite restoran u blizini autobusne stanice."
+                "hr": "Odaberite restoran blizu autobusnog stajališta."
               }
             },
             {
@@ -1984,10 +1984,10 @@
               "Wait in the ecomuseum or a café until your bus arrives."
             ],
             "hr": [
-              "Pažljivo provjerite vrijeme polaska; autobusi mogu kasniti po kiši.",
-              "Čekaonice na stanici u Vodnjanu djelomično su nenatkrivene.",
-              "Centar grada je vrlo kompaktan, s kratkim udaljenostima između znamenitosti.",
-              "Pričekajte u ekomuzeju ili kafiću do dolaska autobusa."
+              "Pažljivo provjerite vrijeme polazaka; autobusi mogu kasniti zbog kiše.",
+              "Čekališta na stanici Vodnjan su djelomično neprekrivena.",
+              "Centar grada je vrlo kompaktan, s kratkim udaljenostima između atrakcija.",
+              "Pričekajte u eko-muzeju ili kafiću dok vaš autobus ne stigne."
             ]
           }
         },
@@ -1997,7 +1997,7 @@
             "hu": "A téli kirándulás tömegközlekedéssel Vodnjanba stresszmentes és hangulatos. A délelőtti érkezés után a Bradamante-palotát fedezzük fel. Délben a Szent Balázs-templom a csend és a meleg szigete. Az Ekomúzeumban a mezőgazdaságról tanulunk, majd a murálokat nézzük meg a lágy délutáni fényben. A napot egy melengető itallal zárjuk a visszaindulás előtt.",
             "ro": "O excursie de iarnă cu transportul public în Vodnjan este lipsită de stres și primitoare. După sosirea de dimineață, explorăm Palatul Bradamante. La prânz, Biserica Sf. Blasiu oferă un loc de liniște și căldură. La ecomuzeu aflăm despre agricultură, înainte de a vizita picturile murale în lumina blândă a după-amiezii. Încheiem ziua cu o băutură caldă înainte de plecare.",
             "en": "A winter trip by public transport to Vodnjan is stress-free and cozy. After arriving in the morning, we explore the Bradamante Palace. At noon, St. Blaise's Church offers a place of silence and warmth. In the ecomuseum, we learn about agriculture before visiting the murals in the soft afternoon light. We end the day with a warming drink before heading back.",
-            "hr": "Zimski izlet javnim prijevozom u Vodnjan je bez stresa i ugodan. Nakon dolaska ujutro, istražujemo palaču Bradamante. U podne crkva sv. Blaža nudi mjesto tišine i topline. U ekomuzeju učimo o poljoprivredi prije posjeta muralima na blagom poslijepodnevnom svjetlu. Dan završavamo uz toplo piće prije povratka."
+            "hr": "Zimski izlet javnim prijevozom do Vodnjana je bez stresa i ugodan. Nakon jutarnjeg dolaska razgledavamo palaču Bradamante. U podne, crkva sv. Blaža nudi mjesto tišine i topline. U eko-muzeju učimo o poljoprivredi prije posjeta muralima u mekanoj poslijepodnevnoj svjetlosti. Dan završavamo toplim pićem prije povratka."
           },
           "stops": [
             {
@@ -2027,7 +2027,7 @@
                 "hu": "A belső hőmérséklet állandóbb, mint kint.",
                 "ro": "Temperatura interioară este de obicei mai constantă decât afară.",
                 "en": "The indoor temperature is usually more stable than outside.",
-                "hr": "Unutarnja temperatura obično je stabilnija nego vanjska."
+                "hr": "Unutarnja temperatura obično je stabilnija nego vani."
               }
             },
             {
@@ -2037,7 +2037,7 @@
                 "hu": "Az interaktív állomások télen is szórakoztatóak.",
                 "ro": "Stațiile interactive sunt distractive și iarna.",
                 "en": "Interactive stations are fun even in winter.",
-                "hr": "Interaktivne stanice zabavne su i zimi."
+                "hr": "Interaktivne postaje zabavne su i zimi."
               }
             },
             {
@@ -2047,7 +2047,7 @@
                 "hu": "Az ablak melletti helyről rálátni a főtér forgatagára.",
                 "ro": "Un loc la fereastră oferă vedere spre agitația din piață.",
                 "en": "A seat by the window offers a view of the bustle on the piazza.",
-                "hr": "Sjedalo uz prozor nudi pogled na vrevu na piazzi."
+                "hr": "Mjesto uz prozor pruža pogled na žamor na trgu."
               }
             },
             {
@@ -2057,7 +2057,7 @@
                 "hu": "Kiváló fotólehetőség turistacsoportok nélkül.",
                 "ro": "Oportunități bune de fotografiere fără grupuri de turiști.",
                 "en": "Good photo opportunities without tourist groups in the shot.",
-                "hr": "Dobre prilike za fotografiranje bez turističkih grupa u kadru."
+                "hr": "Dobre fotografske prilike bez turističkih grupа u kadru."
               }
             }
           ],
@@ -2087,10 +2087,10 @@
               "Trains between Pula and Vodnjan are a scenic option."
             ],
             "hr": [
-              "Zimski vozni redovi mogu imati rjeđe linije nego ljeti.",
-              "Karte se često mogu kupiti izravno kod vozača ili na kolodvoru.",
+              "Zimski rasporedi mogu imati rjeđe veze nego ljeti.",
+              "Karte se često mogu kupiti izravno od vozača ili na stanici.",
               "Koristite grijane čekaonice ako su dostupne.",
-              "Vlakovi između Pule i Vodnjana su slikovita opcija."
+              "Vozovi između Pule i Vodnjana su slikovita opcija."
             ]
           }
         }

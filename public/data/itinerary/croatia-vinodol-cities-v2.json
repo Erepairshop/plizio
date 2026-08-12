@@ -32,7 +32,7 @@
             "hu": "Mássz fel a toronyba a völgyre nyíló kilátásért.",
             "ro": "Urcați în turn pentru o panoramă asupra văii.",
             "en": "Climb the tower for a view over the valley.",
-            "hr": "Popnite se na kulu za pogled na dolinu."
+            "hr": "Popnite se na toranj za pogled preko doline."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Csodáld meg a Frangepán-korszak építészetét.",
             "ro": "Admirați arhitectura din epoca Frankopan.",
             "en": "Admire the architecture from the Frankopan era.",
-            "hr": "Divite se arhitekturi iz doba Frankopana."
+            "hr": "Divite se arhitekturi iz Frankopanske ere."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Kóstold meg a helyi sonkát és sajtot.",
             "ro": "Încercați șunca și brânza locală.",
             "en": "Try the local prosciutto and cheese.",
-            "hr": "Probajte domaći pršut i sir."
+            "hr": "Probajte lokalni pršut i sir."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Az egyik 'Vinodol szeme' kilátó tengeri panorámával.",
             "ro": "Unul dintre 'Ochii Vinodolului' cu vedere la mare.",
             "en": "One of the 'Eyes of Vinodol' with sea views.",
-            "hr": "Jedno od 'Očiju Vinodola' s pogledom na more."
+            "hr": "Jedno od „Očiju Vinodola“ s pogledom na more."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "A naplemente aranyba borítja a mészkősziklákat.",
             "ro": "Apusul colorează stâncile de calcar în auriu.",
             "en": "The sunset turns the limestone cliffs golden.",
-            "hr": "Zalazak sunca boji vapnenačke stijene u zlatno."
+            "hr": "Zalazak sunca pretvara vapnenačke litice u zlatne."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "A napot a történelmi Bribirben indítod, ahol a hatalmas torony a Frangepánok dicsőségét hirdeti. Az ódon utcák felfedezése után egy hagyományos konobában kóstolhatod meg a völgy ízeit. Délután egy meredekebb séta vár a 'Vinodol szemei' egyik kilátójához, ahonnan lélegzetelállító panoráma nyílik a tengerre és a hegyekre.",
         "ro": "Ziua începe în Bribirul istoric, unde turnul masiv amintește de familia Frankopan. După o plimbare prin străzile vechi, vă veți delecta cu aromele locale la o konoba tradițională. După-amiaza vă conduce către unul dintre punctele de belvedere 'Ochii Vinodolului', oferind o priveliște spectaculoasă asupra văii și a Mării Adriatice.",
         "en": "Your day starts in historic Bribir, where the mighty tower recalls the Frankopan era. After exploring the old streets, enjoy local flavors in a traditional konoba. The afternoon takes you up to one of the spectacular 'Eyes of Vinodol' viewpoints, offering a breathtaking panorama of both the valley and the Adriatic Sea.",
-        "hr": "Vaš dan počinje u povijesnom Bribiru, gdje moćna kula podsjeća na doba Frankopana. Nakon istraživanja starih ulica, uživajte u lokalnim okusima u tradicionalnoj konobi. Poslijepodne vas vodi do jednog od spektakularnih vidikovaca 'Oči Vinodola', koji nudi prekrasnu panoramu doline i Jadranskog mora."
+        "hr": "Vaš dan počinje u povijesnom Bribiru, gdje snažna kula podsjeća na Frankopansku eru. Nakon istraživanja starih ulica, uživajte u lokalnim okusima u tradicionalnoj konobi. Poslijepodne vas vodi do jednog od spektakularnih „Očiju Vinodola“, s kojih se pruža zapanjujuća panorama doline i Jadranskog mora."
       },
       "gastro_picks": {
         "de": [
@@ -257,8 +257,8 @@
           "Take plenty of water, as there is little shade in summer."
         ],
         "hr": [
-          "Udobne planinarske cipele su obavezne za staze do vidikovaca.",
-          "Ponesite puno vode, jer ljeti ima malo hlada."
+          "Udobne planinarske cipele obavezne su za staze prema vidikovcima.",
+          "Ponesite dovoljno vode, jer je ljeti malo hlada."
         ]
       },
       "variants": {
@@ -268,7 +268,7 @@
             "hu": "Az esős reggel a Kula Turan vastag falai között indul, ahol az ódon kőépület menedéket nyújt a szél elől. Ebédidőben egy helyi konoba melegében élvezhetjük a vinodoli ízeket, miközben kint kopog az eső. Délután a ködbe burkolózó Bribir utcáin sétálunk, ahol a felhők misztikus keretet adnak a tájnak. A napot egy pohár bor mellett, fedett helyen zárjuk, figyelve a völgyre telepedő szürkületet.",
             "ro": "O dimineață ploioasă începe la adăpostul turnului Kula Turan, unde zidurile groase opresc vântul. La prânz, căldura unei konoba tradiționale invită la o pauză prelungită cu specialități locale. După-amiaza, drumul continuă prin străzile cețoase din Bribir, norii joși creând o atmosferă mistică deasupra văii Vinodol. Ziua se încheie confortabil cu un pahar de vin, privind ploaia de la adăpost.",
             "en": "A rainy morning starts sheltered by the thick walls of Kula Turan, keeping the damp wind at bay. At noon, the warmth of a traditional konoba invites a long break with hearty local dishes. In the afternoon, the misty streets of Bribir offer a mystical vibe as low clouds hang over the Vinodol valley. The day ends cozily indoors with a glass of local wine, watching the rain settle over the hills.",
-            "hr": "Kišno jutro počinje zaklonjeno debelim zidovima kule Turan, koja drži vlažan vjetar podalje. U podne vas toplina tradicionalne konobe poziva na dužu pauzu uz krepka domaća jela. Poslijepodne maglovite ulice Bribira nude mističnu atmosferu dok se niski oblaci nadvijaju nad Vinodolskom dolinom. Dan završava ugodno u zatvorenom uz čašu domaćeg vina, gledajući kako kiša natapa brda."
+            "hr": "Kišno jutro započinje zaštićeno debelim zidovima Kule Turan, koji odbijaju vlažan vjetar. U podne toplina tradicionalne konobe poziva na dugi odmor i srdačna lokalna jela. Poslijepodne maglovite ulice Bribira pružaju mističnu atmosferu dok niski oblaci vise nad Vinodolskom dolinom. Dan završava ugodno u zatvorenom uz čašu lokalnog vina dok kiša prekriva brežuljke."
           },
           "stops": [
             {
@@ -278,7 +278,7 @@
                 "hu": "A belső terek tökéletes menedéket nyújtanak az eső elől.",
                 "ro": "Spațiile interioare oferă adăpost perfect împotriva ploii.",
                 "en": "The indoor spaces provide perfect shelter from the downpour.",
-                "hr": "Unutarnji prostori pružaju savršen zaklon od pljuska."
+                "hr": "Unutarnji prostori pružaju savršeno sklonište od pljuska."
               }
             },
             {
@@ -288,7 +288,7 @@
                 "hu": "Használja ki a régi házak árkádjait és ereszaljait.",
                 "ro": "Folosiți arcadele și streșinile caselor vechi.",
                 "en": "Take advantage of the old houses' arcades and eaves.",
-                "hr": "Iskoristite arkade i strehe starih kuća."
+                "hr": "Iskoristite arkade i nadstrešnice starih kuća."
               }
             },
             {
@@ -298,7 +298,7 @@
                 "hu": "Ideális hely az esőkabát nyugodt megszárításához.",
                 "ro": "Un loc ideal pentru a vă usca haina de ploaie în liniște.",
                 "en": "An ideal spot to let your raincoat dry in peace.",
-                "hr": "Idealno mjesto da u miru osušite kabanicu."
+                "hr": "Idealno mjesto da bezbrižno osušite kabanicu."
               }
             },
             {
@@ -308,7 +308,7 @@
                 "hu": "Vigyázat, a platóra vezető kövek esőben csúszósak lehetnek.",
                 "ro": "Atenție la pietrele alunecoase de pe drumul spre platou.",
                 "en": "Careful with slippery stones on the path to the plateau.",
-                "hr": "Oprezno s klizavim kamenjem na putu prema platou."
+                "hr": "Pazite na skliske kamene na putu prema platoo."
               }
             },
             {
@@ -318,7 +318,7 @@
                 "hu": "Élvezze a felhők látványát egy forró tea mellett.",
                 "ro": "Bucurați-vă de vederea norilor cu un ceai fierbinte.",
                 "en": "Enjoy the view of the clouds with a hot tea.",
-                "hr": "Uživajte u pogledu na oblake uz topli čaj."
+                "hr": "Uživajte u pogledu na oblake uz vrući čaj."
               }
             },
             {
@@ -328,7 +328,7 @@
                 "hu": "Rossz látási viszonyoknál ajánlott a fényvisszaverő ruházat.",
                 "ro": "Se recomandă îmbrăcăminte reflectorizantă în condiții de vizibilitate redusă.",
                 "en": "Reflective clothing is advised in poor visibility.",
-                "hr": "Savjetuje se nošenje reflektirajuće odjeće pri lošoj vidljivosti."
+                "hr": "Preporučuje se reflektirajuća odjeća pri lošoj vidljivosti."
               }
             }
           ],
@@ -359,9 +359,9 @@
             ],
             "hr": [
               "Čvrst kišobran je neophodan zbog planinskih vjetrova.",
-              "Vodootporne planinarske cipele su obavezne na kamenim ulicama.",
-              "Planirajte duže pauze u bribirskim kafićima.",
-              "Vidljivost se može brzo promijeniti; ostanite na označenim stazama."
+              "Vodootporne planinarske cipele obavezne su na kaldrmi.",
+              "Isplanirajte duže pauze u kafićima Bribira.",
+              "Vidljivost se može brzo mijenjati; ostanite na označenim stazama."
             ]
           }
         },
@@ -371,7 +371,7 @@
             "hu": "A friss téli reggelen Bribir kövei szinte fehéren csillognak. A történelmi központban tett rövid séta alatt a kéményekből felszálló fahasáb-füst illata kísér minket. Ebédre egy laktató leves a konobában melengeti át a testet és lelket. Mivel a nap korán eltűnik a hegyek mögött, a délutáni arany órákat az Oči Vinodola kilátónál töltjük, mielőtt beállna az esti fagy.",
             "ro": "Aerul clar de iarnă de dimineață face ca pietrele din Bribir să pară aproape albe. O scurtă plimbare prin centrul istoric este însoțită de mirosul de foc de lemne de la coșuri. La prânz, o supă consistentă în konoba încălzește corpul și spiritul. Deoarece soarele dispare devreme după munți, profităm de lumina aurie a după-amiezii la belvedere înainte de gerul serii.",
             "en": "The crisp winter morning air makes the stones of Bribir appear almost white. A short walk through the historic core is accompanied by the scent of woodsmoke from the chimneys. At noon, a hearty soup in the konoba warms both body and soul. As the sun sets early behind the mountains, we take advantage of the golden afternoon light at the viewpoint before the evening chill sets in.",
-            "hr": "Oštar zimski jutarnji zrak čini bribirski kamen gotovo bijelim. Kratku šetnju povijesnom jezgrom prati miris dima iz dimnjaka. U podne krepka juha u konobi grije i tijelo i dušu. Kako sunce rano zalazi iza planina, koristimo zlatno poslijepodnevno svjetlo na vidikovcu prije nego što nastupi večernja hladnoća."
+            "hr": "Hladno, bistro zimsko jutro čini kamene zidine Bribira gotovo bijelima. Kratka šetnja kroz povijesno središte prati miris drvne vatre iz dimnjaka. U podne, gusta juha u konobi grije tijelo i dušu. Kako sunce rano zalazi iza planina, iskorištavamo zlatnu poslijepodnevnu svjetlost na vidikovcu prije nego što dođe večernja hladnoća."
           },
           "stops": [
             {
@@ -401,7 +401,7 @@
                 "hu": "Kérdezzen rá a házi forralt borra vagy teára.",
                 "ro": "Întrebați de vinul fiert de casă sau de ceai.",
                 "en": "Ask for the homemade mulled wine or herbal tea.",
-                "hr": "Pitajte za domaće kuhano vino ili biljni čaj."
+                "hr": "Zatražite domaći kuhani vino ili biljni čaj."
               }
             },
             {
@@ -411,7 +411,7 @@
                 "hu": "Télen a szél itt fent különösen metsző lehet.",
                 "ro": "Vântul bate deosebit de tăios aici sus în timpul iernii.",
                 "en": "The wind up here can be particularly biting in winter.",
-                "hr": "Vjetar ovdje gore zimi može biti posebno oštar."
+                "hr": "Vjetar ovdje zimi može biti posebno oštar."
               }
             },
             {
@@ -461,10 +461,10 @@
               "Thick soles insulate against the cold of the stone paths."
             ],
             "hr": [
-              "Slojevita odjeća štiti od oštrog planinskog vjetra.",
-              "Sunce rano zalazi, pa krenite u obilazak na vrijeme.",
-              "Termosica s toplim napitkom je vrlo korisna.",
-              "Debeli potplati izoliraju od hladnoće kamenih staza."
+              "Slojevito odijevanje štiti od oštrog planinskog vjetra.",
+              "Sunce brzo zalazi, pa krenite na vrijeme.",
+              "Termos s toplim napitkom je vrlo koristan.",
+              "Debeli potplati štite od hladnoće kamenih staza."
             ]
           }
         }
@@ -494,7 +494,7 @@
             "hu": "Nézd meg a jól megőrzött erődrendszert.",
             "ro": "Vizitați complexul fortificat bine conservat.",
             "en": "Visit the well-preserved fortress complex.",
-            "hr": "Posjetite dobro očuvani kompleks utvrde."
+            "hr": "Posjetite dobro sačuvani tvrđavni kompleks."
           }
         },
         {
@@ -513,7 +513,7 @@
             "hu": "Fedezd fel a Szent Dujam régi templomot.",
             "ro": "Descoperiți vechea biserică Sf. Dujam.",
             "en": "Discover the old St. Dujam church.",
-            "hr": "Otkrijte staru crkvu sv. Dujma."
+            "hr": "Otkrijte staru crkvu sv. Duje."
           }
         },
         {
@@ -532,7 +532,7 @@
             "hu": "Tökéletes egy sétához a tóparton.",
             "ro": "Perfect pentru o plimbare pe malul lacului.",
             "en": "Perfect for a stroll along the lakeshore.",
-            "hr": "Savršeno za šetnju obalom jezera."
+            "hr": "Savršeno za šetnju uz obalu jezera."
           }
         },
         {
@@ -570,7 +570,7 @@
             "hu": "A Frangepán uralom központja.",
             "ro": "Centrul stăpânirii familiei Frankopan.",
             "en": "Center of the Frankopan rule.",
-            "hr": "Središte frankopanske vladavine."
+            "hr": "Centar Frankopanske vlasti."
           }
         },
         {
@@ -589,7 +589,7 @@
             "hu": "Rövid megálló a régi városkapunál.",
             "ro": "Scurtă oprire la vechea poartă a orașului.",
             "en": "Short stop at the old city gate.",
-            "hr": "Kratko zaustavljanje kod starih gradskih vrata."
+            "hr": "Kratko zaustavljanje kod stare gradske kapije."
           }
         },
         {
@@ -608,7 +608,7 @@
             "hu": "Panoráma az egész völgyre, egészen Krk szigetéig.",
             "ro": "Panoramă peste întreaga vale până la insula Krk.",
             "en": "Panoramic view over the entire valley to Krk island.",
-            "hr": "Panoramski pogled na cijelu dolinu do otoka Krka."
+            "hr": "Panoramski pogled preko cijele doline do otoka Krka."
           }
         },
         {
@@ -636,7 +636,7 @@
         "hu": "Autóval a Vinodol-völgy teljes sokszínűségét felfedezheted. Északnyugaton kezdesz a lenyűgöző Drivenik váránál, majd a nyugodt Tribalji-tó partján haladsz tovább. Egy regionális ebéd után Bribirbe látogatsz a Turan-toronyhoz. A napot a 'Vinodol szemei' kilátóknál zárod, ahonnan a Kvarner-öböl feletti naplementében gyönyörködhetsz.",
         "ro": "Cu mașina, veți explora întreaga diversitate a Văii Vinodol. Începeți în nord-vest la impresionantul castel Drivenik, apoi continuați pe lângă liniștitul lac Tribalj. După un prânz regional, călătoria vă duce la Bribir, la Turnul Turan. Punctul culminant este drumul către 'Ochii Vinodolului', unde veți admira apusul deasupra golfului Kvarner.",
         "en": "By car, you will explore the full diversity of the Vinodol Valley. Start in the northwest at the impressive Drivenik Castle, then drive along the tranquil Tribalj Lake. After a regional lunch, the journey leads to Bribir and the Turan Tower. The highlight is the drive to the 'Eyes of Vinodol', where you will witness the sunset overlooking the Kvarner Bay.",
-        "hr": "Automobilom ćete istražiti svu raznolikost Vinodolske doline. Krenite na sjeverozapadu kod impresivnog kaštela Drivenik, a zatim se vozite uz mirno Tribaljsko jezero. Nakon regionalnog ručka, put vodi do Bribira i kule Turan. Vrhunac je vožnja do 'Očiju Vinodola', gdje ćete svjedočiti zalasku sunca s pogledom na Kvarnerski zaljev."
+        "hr": "Autom ćete istražiti svu raznolikost Vinodolske doline. Počnite na sjeverozapadu kod impresivnog dvorca Drivenik, potom vozite uz mirno Tribaljsko jezero. Nakon regionalnog ručka, put vodi do Bribira i Turanove kule. Vrhunac je vožnja do „Očiju Vinodola“, gdje ćete svjedočiti zalasku sunca nad Kvarnerskim zaljevom."
       },
       "gastro_picks": {
         "de": [
@@ -758,7 +758,7 @@
         ],
         "hr": [
           "Ceste do vidikovaca su uske i zavojite.",
-          "U Driveniku parkirajte izravno ispod dvorca."
+          "U Driveniku parkirajte neposredno ispod dvorca."
         ]
       },
       "variants": {
@@ -768,7 +768,7 @@
             "hu": "Az utazás a ködbe vesző driveniki várnál kezdődik, amely az esőben még zordabbnak tűnik. A Tribalj-tó partján a vízcseppek táncolnak a felszínen, miközben mi a fűtött autóból csodáljuk a tájat. Ebédre egy barátságos tribalji étterembe térünk be. A Bribirbe vezető út szerpentinjei misztikusan tűnnek el a párában, majd a napot egy szélvédett kilátópontnál zárjuk.",
             "ro": "Călătoria începe la castelul Drivenik învăluit în ceață, care pare și mai impunător în ploaie. De-a lungul lacului Tribalj, picăturile dansează pe suprafața apei, în timp ce noi admirăm peisajul din mașina caldă. La prânz oprim la un restaurant primitor în Tribalj. Drumul spre Bribir trece prin serpentine care dispar în negură, înainte de a încheia ziua la un punct de belvedere ferit de vânt.",
             "en": "The drive begins at the mist-covered Drivenik Castle, appearing even more formidable in the rain. Along Lake Tribalj, droplets dance on the water as we enjoy the view from the warm car. At noon, we stop at a cozy restaurant in Tribalj. The drive to Bribir leads through mountain curves vanishing into the haze, before ending the day at a wind-sheltered viewpoint.",
-            "hr": "Vožnja počinje kod maglom prekrivenog kaštela Drivenik, koji po kiši izgleda još moćnije. Uz Tribaljsko jezero kapljice plešu po vodi dok uživamo u pogledu iz toplog automobila. U podne se zaustavljamo u ugodnom restoranu u Triblju. Vožnja do Bribira vodi kroz planinske zavoje koji nestaju u sumaglici, prije nego što dan završimo na vidikovcu zaštićenom od vjetra."
+            "hr": "Vožnja započinje u maglom obavijenom dvorcu Drivenik, koji u kiši djeluje još zastrašujuće. Uz jezero Tribalj kapljice plešu po vodi dok iz toplog automobila uživamo u pogledu. U podne stajemo u ugodnom restoranu u Tribalju. Vožnja do Bribira vodi kroz planinske zavoje koji nestaju u izmaglici, prije nego dan završimo na vidikovcu zaštićenom od vjetra."
           },
           "stops": [
             {
@@ -778,7 +778,7 @@
                 "hu": "Parkoljon közel a bejárathoz, hogy elkerülje az ázást.",
                 "ro": "Parcați aproape de intrare pentru a nu vă uda.",
                 "en": "Park close to the entrance to avoid getting wet.",
-                "hr": "Parkirajte blizu ulaza kako biste izbjegli močenje."
+                "hr": "Parkirajte blizu ulaza kako biste izbjegli natapanje."
               }
             },
             {
@@ -788,7 +788,7 @@
                 "hu": "Rövid séta a fotópontig, aztán irány vissza a szárazra.",
                 "ro": "Scurtă plimbare până la punctul foto, apoi înapoi la uscat.",
                 "en": "Quick walk to the photo spot, then back to the dry car.",
-                "hr": "Brza šetnja do mjesta za fotografiranje, pa natrag u suhi auto."
+                "hr": "Brza šetnja do foto-mjesta, pa natrag do suhog auta."
               }
             },
             {
@@ -798,7 +798,7 @@
                 "hu": "A kilátás a páramentesített ablakokon keresztül a legjobb.",
                 "ro": "Vederea prin geamurile dezaburite este cea mai bună.",
                 "en": "The view through defogged windows is best.",
-                "hr": "Pogled kroz odmagljene prozore je najbolji."
+                "hr": "Pogled kroz odmagljena stakla je najbolji."
               }
             },
             {
@@ -808,7 +808,7 @@
                 "hu": "Használja a fedett vendégparkolót, ha van ilyen.",
                 "ro": "Folosiți parcarea acoperită pentru oaspeți, dacă există.",
                 "en": "Use the covered guest parking if available.",
-                "hr": "Koristite natkriveni parking za goste ako je dostupan."
+                "hr": "Iskoristite natkriveni gostinski parking ako je dostupan."
               }
             },
             {
@@ -818,7 +818,7 @@
                 "hu": "Látogassa meg a torony múzeumát, hogy száraz maradjon.",
                 "ro": "Vizitați muzeul din turn pentru a rămâne uscat.",
                 "en": "Visit the museum inside the tower to stay dry.",
-                "hr": "Posjetite muzej unutar kule kako biste ostali suhi."
+                "hr": "Posjetite muzej u kuli da ostanete suhi."
               }
             },
             {
@@ -828,7 +828,7 @@
                 "hu": "A szűk utcák némi védelmet nyújtanak a szél ellen.",
                 "ro": "Străzile înguste oferă puțină protecție împotriva vântului.",
                 "en": "The narrow alleys offer some protection from the wind.",
-                "hr": "Uske uličice nude određenu zaštitu od vjetra."
+                "hr": "Uske uličice nude donekle zaštite od vjetra."
               }
             },
             {
@@ -838,7 +838,7 @@
                 "hu": "Heves esőben maradjon az autóban, és onnan csodálja a panorámát.",
                 "ro": "În caz de ploaie torențială, rămâneți în mașină pentru panoramă.",
                 "en": "In heavy rain, stay in the car and enjoy the panorama from there.",
-                "hr": "Po jakoj kiši ostanite u autu i uživajte u panorami odande."
+                "hr": "U jakom pljusku ostanite u autu i uživajte u panorami od tamo."
               }
             },
             {
@@ -879,9 +879,9 @@
             ],
             "hr": [
               "Provjerite brisače prije odlaska u planine.",
-              "Pazite na odrone kamenja nakon jake kiše.",
-              "Planinske ceste mogu biti klizave kad su mokre.",
-              "Neka prozori budu odmagljeni za najbolji panoramski pogled."
+              "Pazite na odrone nakon obilne kiše.",
+              "Planinske ceste mogu biti skliske kad su mokre.",
+              "Držite prozore odmagljenima za najbolje panoramske poglede."
             ]
           }
         },
@@ -891,7 +891,7 @@
             "hu": "A napos, de fagyos téli reggel a driveniki várhoz vezet, melynek falai ragyognak az alacsonyan járó napfényben. A Tribalj-tó a téli fényben tükörként fest a kopár hegyek ölelésében. Ebédre egy helyi vendéglő kandallójának tüzénél melegszünk fel. Délután a csendes Bribirt fedezzük fel, majd időben érkezünk az Oči Vinodola kilátóhoz, hogy elkapjuk a hegyek feletti alkonypírt.",
             "ro": "O dimineață de iarnă însorită, dar geroasă, ne duce la castelul Drivenik, ale cărui ziduri strălucesc în soarele de joasă altitudine. Lacul Tribalj arată ca o oglindă în lumina iernii, încadrat de munți golași. La prânz, ne bucurăm de căldura unui șemineu într-un han local. După-amiaza explorăm liniștitul Bribir, înainte de a ajunge la timp pentru apus la belvedere.",
             "en": "A sunny but frosty winter morning leads us to Drivenik Castle, its walls glistening in the low sun. Lake Tribalj acts like a mirror in the winter light, framed by barren mountains. At noon, we enjoy the warmth of a fireplace in a local inn. In the afternoon, we explore quiet Bribir, arriving just in time at the 'Eyes of Vinodol' to catch the sunset glow.",
-            "hr": "Sunčano, ali mrazno zimsko jutro vodi nas do kaštela Drivenik, čiji zidovi svjetlucaju na niskom suncu. Tribaljsko jezero djeluje poput zrcala u zimskom svjetlu, uokvireno ogoljelim planinama. U podne uživamo u toplini kamina u lokalnoj gostionici. Poslijepodne istražujemo mirni Bribir, stižući točno na vrijeme na 'Oči Vinodola' da uhvatimo sjaj zalaska sunca."
+            "hr": "Sunčano, ali mrazno zimsko jutro vodi nas do dvorca Drivenik, čiji zidovi blistaju u niskom suncu. Tribaljsko jezero djeluje poput zrcala u zimskom svjetlu, uokvireno golim planinama. U podne uživamo u toplini kamina u lokalnoj konobi. Poslijepodne istražujemo mirni Bribir i stižemo upravo na vrijeme do „Očiju Vinodola“ da ulovimo sjaj zalaska."
           },
           "stops": [
             {
@@ -921,7 +921,7 @@
                 "hu": "A tóparti levegő jóval hidegebb, mint az autóban.",
                 "ro": "Aerul de lângă lac este mult mai rece decât în mașină.",
                 "en": "The air by the lake is significantly colder than in the car.",
-                "hr": "Zrak uz jezero je znatno hladniji nego u automobilu."
+                "hr": "Zrak uz jezero znatno je hladniji nego u autu."
               }
             },
             {
@@ -931,7 +931,7 @@
                 "hu": "Válasszon egy forró ételt az átmelegedéshez.",
                 "ro": "Alegeți un fel de mâncare cald pentru revigorare.",
                 "en": "Choose a hot dish to warm up properly.",
-                "hr": "Odaberite toplo jelo kako biste se pošteno zagrijali."
+                "hr": "Odaberite toplo jelo da se pravilno ugrijete."
               }
             },
             {
@@ -941,7 +941,7 @@
                 "hu": "A toronyba vezető lépcsőház télen huzatos lehet.",
                 "ro": "Urcarea în turn este foarte expusă curentului iarna.",
                 "en": "The climb inside the tower is very drafty in winter.",
-                "hr": "Uspon unutar kule je zimi vrlo propuhan."
+                "hr": "Uspon unutar kule zimi je vrlo prozračan."
               }
             },
             {
@@ -951,7 +951,7 @@
                 "hu": "Használja ki az utolsó fényeket a szűk utcákban.",
                 "ro": "Profitați de ultima lumină în străzile înguste.",
                 "en": "Make the most of the remaining light in the alleys.",
-                "hr": "Maksimalno iskoristite preostalo svjetlo u uličicama."
+                "hr": "Iskoristite preostalo svjetlo u uličicama."
               }
             },
             {
@@ -971,7 +971,7 @@
                 "hu": "Naplemente után a hőmérséklet gyorsan zuhanni kezd.",
                 "ro": "După apus, temperaturile scad rapid.",
                 "en": "Temperatures drop rapidly once the sun sets.",
-                "hr": "Temperature brzo padaju čim sunce zađe."
+                "hr": "Temperatura brzo pada nakon zalaska sunca."
               }
             }
           ],
@@ -1001,10 +1001,10 @@
               "Keep an ice scraper handy in the car."
             ],
             "hr": [
-              "Antifriz za stakla je neophodan za putovanje.",
+              "Protivsmrzna tekućina za vjetrobransko staklo je obavezna za izlet.",
               "Zimske gume su obavezne na planinskim cestama.",
-              "Krenite prije 10 ujutro kako biste maksimalno iskoristili dnevno svjetlo.",
-              "Imajte strugalicu za led pri ruci u autu."
+              "Krenite prije 10 sati da iskoristite danje svjetlo.",
+              "Držite strugač za led pri ruci u autu."
             ]
           }
         }
@@ -1034,7 +1034,7 @@
             "hu": "Szép emelkedő a várhoz bemelegítésnek.",
             "ro": "O urcare frumoasă spre castel ca încălzire.",
             "en": "Nice climb to the castle as a warm-up.",
-            "hr": "Lijep uspon do dvorca za zagrijavanje."
+            "hr": "Lijep uspon do dvorca kao zagrijavanje."
           }
         },
         {
@@ -1053,7 +1053,7 @@
             "hu": "Kerekezz kényelmesen körbe a tó körül.",
             "ro": "Pedalați relaxat în jurul lacului.",
             "en": "Cycle leisurely around the lake.",
-            "hr": "Lagana vožnja oko jezera."
+            "hr": "Vožnja biciklom lagano oko jezera."
           }
         },
         {
@@ -1072,7 +1072,7 @@
             "hu": "Energialöket a Bribir felé vezető úthoz.",
             "ro": "Pauză de energie pentru drumul spre Bribir.",
             "en": "Energy boost for the ride to Bribir.",
-            "hr": "Energetski poticaj za vožnju do Bribira."
+            "hr": "Poticaj energije za vožnju do Bribira."
           }
         },
         {
@@ -1091,7 +1091,7 @@
             "hu": "A túra célpontja a völgy szívében.",
             "ro": "Destinația turului în inima văii.",
             "en": "The destination of the tour in the heart of the valley.",
-            "hr": "Cilj ture u srcu doline."
+            "hr": "Odredište ture u srcu doline."
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "hu": "Megérdemelt hűsítő az emelkedők után.",
             "ro": "Răcoritoare meritată după urcări.",
             "en": "Well-deserved cooling off after the climbs.",
-            "hr": "Zasluženo osvježenje nakon uspona."
+            "hr": "Dobro zasluženo rashlađivanje nakon uspona."
           }
         },
         {
@@ -1129,7 +1129,7 @@
             "hu": "Figyeld a helyi forgatagot.",
             "ro": "Observați agitația locală.",
             "en": "Watch the local bustle.",
-            "hr": "Promatrajte lokalnu vrevu."
+            "hr": "Promatrajte lokalni žamor."
           }
         }
       ],
@@ -1138,7 +1138,7 @@
         "hu": "A Vinodol-völgyi kerékpártúra a sportot ötvözi a kulturális élményekkel. Drivenik várától síkabb szakaszokon jutsz el a Tribalji-tóig, ami ideális egy pihenőhöz. A Bribirbe vezető utolsó emelkedőt a történelmi torony látványa és a falusi főtér nyugodt hangulata feledteti.",
         "ro": "Turul cu bicicleta prin Valea Vinodol îmbină activitatea sportivă cu momentele culturale. De la castelul Drivenik, parcurgeți etape plane până la lacul Tribalj, ideal pentru o pauză. Urcarea finală spre Bribir este răsplătită cu vizitarea turnului istoric și atmosfera relaxată din piața satului.",
         "en": "The bike tour through the Vinodol Valley combines sporting activity with cultural highlights. From Drivenik Castle, ride through flat sections to Tribalj Lake, perfect for a break. The final climb to Bribir is rewarded with a visit to the historic tower and the relaxed atmosphere of the village square.",
-        "hr": "Biciklistička tura kroz Vinodolsku dolinu spaja sportsku aktivnost s kulturnim znamenitostima. Od kaštela Drivenik vozite se ravnim dionicama do Tribaljskog jezera, savršenog za odmor. Završni uspon do Bribira nagrađen je posjetom povijesnoj kuli i opuštenom atmosferom seoskog trga."
+        "hr": "Biciklistička tura kroz Vinodolsku dolinu spaja sportsku aktivnost s kulturnim znamenitostima. Od dvorca Drivenik vozite preko ravnih dionica do Tribaljskog jezera, idealnog za odmor. Završni uspon do Bribira nagrađuje vas posjetom povijesnoj kuli i opuštenom atmosferom sela."
       },
       "gastro_picks": {
         "de": [
@@ -1259,8 +1259,8 @@
           "The route along the valley floor is mostly flat."
         ],
         "hr": [
-          "Provjerite kočnice prije spustova u dolinu.",
-          "Ruta dnom doline je većinom ravna."
+          "Provjerite kočnice prije spusteva u dolinu.",
+          "Ruta uz dno doline uglavnom je ravna."
         ]
       },
       "variants": {
@@ -1270,7 +1270,7 @@
             "hu": "Az eső ellenére nekivágunk a driveniki várnak, teljes esőfelszerelésben. A Tribalj-tóhoz vezető út frissítő, de a vizes aszfalton fokozott óvatosságra van szükség. A pikniket a tóparti fedett beálló alá helyezzük át. Délután feltekerünk Bribirbe, ahol egy forró eszpresszó ad új erőt, mielőtt megkezdenénk a rövid ereszkedést a szemerkélő esőben.",
             "ro": "În ciuda ploii, începem turul spre castelul Drivenik, echipați complet. Drumul spre lacul Tribalj este revigorant, dar este necesară prudență sporită pe asfaltul umed. Mutăm picnicul sub un adăpost de pe malul lacului. După-amiaza urcăm spre Bribir, unde un espresso fierbinte ne revigorează înainte de coborârea scurtă prin ploaia măruntă.",
             "en": "Despite the rain, we start our tour to Drivenik Castle fully equipped with rain gear. The ride to Lake Tribalj is refreshing, but increased caution is needed on wet roads. We move our picnic under a shelter by the shore. In the afternoon, we pedal up to Bribir, where a hot espresso re-energizes us before the short descent in the drizzle.",
-            "hr": "Unatoč kiši, krećemo na turu prema kaštelu Drivenik potpuno opremljeni kišnom opremom. Vožnja do jezera Tribalj je osvježavajuća, ali je potreban pojačan oprez na mokrim cestama. Piknik selimo pod nadstrešnicu uz obalu. Poslijepodne pedaliramo do Bribira, gdje nas topli espresso puni energijom prije kratkog spusta po rosulji."
+            "hr": "Unatoč kiši, započinjemo turu do dvorca Drivenik potpuno opremljeni kišnom opremom. Vožnja do Tribaljskog jezera osvježava, no treba povećan oprez na mokrim cestama. Piknik premještamo pod zaklon uz obalu. Poslijepodne pedaliramo do Bribira, gdje nas vrući espresso ponovo puni energijom prije kratkog spusta po rosulji."
           },
           "stops": [
             {
@@ -1280,7 +1280,7 @@
                 "hu": "Vigyázzon a leszállásnál, a macskakő nagyon csúszik.",
                 "ro": "Atenție la descălecare, pavajul este alunecos.",
                 "en": "Be careful when dismounting; the cobblestones are slippery.",
-                "hr": "Budite oprezni pri silaženju s bicikla; kamene kocke su klizave."
+                "hr": "Budite oprezni pri silasku s bicikla; kaldrma je skliska."
               }
             },
             {
@@ -1290,7 +1290,7 @@
                 "hu": "Zápor esetén keressen menedéket a horgászházban.",
                 "ro": "Căutați adăpost în coliba pescarilor în caz de aversă.",
                 "en": "Seek shelter in the fishing hut during heavy showers.",
-                "hr": "Potražite zaklon u ribarskoj kućici tijekom jakih pljuskova."
+                "hr": "Sklonite se u ribarsku kolibu tijekom jakih pljuskova."
               }
             },
             {
@@ -1300,7 +1300,7 @@
                 "hu": "Használjon vízhatlan ülőalátétet a padokon.",
                 "ro": "Folosiți o protecție impermeabilă pentru șezut pe bănci.",
                 "en": "Use a waterproof seat pad for the benches.",
-                "hr": "Koristite vodootpornu podlogu za sjedenje na klupama."
+                "hr": "Koristite vodootpornu podlošku za sjedalo na klupama."
               }
             },
             {
@@ -1310,7 +1310,7 @@
                 "hu": "A biciklitárolók fedetlenek, olajozza meg a zárat.",
                 "ro": "Suporturile de biciclete sunt adesea neacoperite, ungeți bine antifurtul.",
                 "en": "Bike racks are often uncovered; keep your lock well-oiled.",
-                "hr": "Stalci za bicikle su često nepokriveni; neka vaš lokot bude dobro podmazan."
+                "hr": "Stalak za bicikle često nema pokriće; držite lokot dobro nauljenim."
               }
             },
             {
@@ -1320,7 +1320,7 @@
                 "hu": "Cserélje a fagyit egy meleg almás rétesre.",
                 "ro": "Înlocuiți înghețata cu un ștrudel cald.",
                 "en": "Swap the ice cream for a warm strudel instead.",
-                "hr": "Zamijenite sladoled toplom štrudlom."
+                "hr": "Zamijenite sladoled za topao štrudel."
               }
             },
             {
@@ -1330,7 +1330,7 @@
                 "hu": "Indulás előtt törölje szárazra a nyerget.",
                 "ro": "Ștergeți șaua înainte de plecare.",
                 "en": "Wipe your saddle dry before heading out.",
-                "hr": "Obrišite sjedalo prije nego što krenete dalje."
+                "hr": "Obrišite sedlo suhim prije nastavka vožnje."
               }
             }
           ],
@@ -1360,10 +1360,10 @@
               "Waterproof gloves keep your fingers nimble for braking."
             ],
             "hr": [
-              "Blatobrani su neophodni kako bi se spriječilo prskanje vode.",
-              "Malo smanjite tlak u gumama za bolje prianjanje na mokrim cestama.",
+              "Blatobrani su nužni da spriječe prskanje vode.",
+              "Smanjite malo tlak u gumama za bolje prianjanje na mokrim cestama.",
               "Kočite rano i nježno na vlažnom asfaltu.",
-              "Vodootporne rukavice čine prste spretnima za kočenje."
+              "Vodootporne rukavice održavaju prste okretnima za kočenje."
             ]
           }
         },
@@ -1373,7 +1373,7 @@
             "hu": "A téli túra erőt és kitartást igényel a fagyos időben. A driveniki vár körvonalai élesen rajzolódnak ki a tiszta levegőben. A tóhoz vezető út lehűti a testet, ezért a pikniket forró teás pihenőre cseréljük. A Bribirbe vezető emelkedő segít testhőnk megtartásában. A központban egy meleg itallal jutalmazzuk magunkat, mielőtt a korai szürkület beállna.",
             "ro": "Turul de iarnă necesită forță și rezistență la temperaturi scăzute. Castelul Drivenik apare clar conturat în aerul tăios. Drumul spre lac răcește corpul, așa că înlocuim picnicul cu o scurtă pauză cu ceai fierbinte. Urcarea spre Bribir ajută la menținerea temperaturii corpului. În centru ne recompensăm cu o băutură caldă înainte de amurgul timpuriu.",
             "en": "The winter tour demands strength and stamina in frosty temperatures. Drivenik Castle stands sharply defined in the clear air. The ride to the lake chills the body, so we swap the picnic for a quick break with hot tea. The climb to Bribir helps maintain body heat. In the center, we reward ourselves with a warm drink before returning before the early dusk.",
-            "hr": "Zimska tura zahtijeva snagu i izdržljivost na mraznim temperaturama. Kaštel Drivenik oštro se ocrtava u čistom zraku. Vožnja do jezera hladi tijelo, pa piknik mijenjamo za brzu pauzu uz topli čaj. Uspon do Bribira pomaže u održavanju tjelesne topline. U centru se nagrađujemo toplim napitkom prije povratka prije ranog sumraka."
+            "hr": "Zimska tura zahtijeva snagu i izdržljivost u mraznim temperaturama. Dvorac Drivenik oštro se ocrtava na bistrom zraku. Vožnja do jezera hladi tijelo, pa mijenjamo piknik za kratku pauzu s vrućim čajem. Uspon do Bribira pomaže održati tjelesnu toplinu. U centru se nagradimo toplim napitkom prije povratka prije ranog sumraka."
           },
           "stops": [
             {
@@ -1383,7 +1383,7 @@
                 "hu": "Vigyázzon a zúzmarás útszakaszokkal az árnyékos részeken.",
                 "ro": "Atenție la chiciura de pe secțiunile de drum umbrite.",
                 "en": "Watch out for hoarfrost on shaded sections of the road.",
-                "hr": "Pazite na inje na zasjenjenim dijelovima ceste."
+                "hr": "Pazite na poledicu na zasjenjenim dijelovima ceste."
               }
             },
             {
@@ -1393,7 +1393,7 @@
                 "hu": "A vízparti hideg szél miatt szélálló ruházat kell.",
                 "ro": "Vântul rece de lângă apă necesită haine anti-vânt.",
                 "en": "Cold winds by the water require windstopper clothing.",
-                "hr": "Hladni vjetrovi uz vodu zahtijevaju odjeću koja štiti od vjetra."
+                "hr": "Hladni vjetrovi pokraj vode zahtijevaju odjeću otporu na vjetar."
               }
             },
             {
@@ -1403,7 +1403,7 @@
                 "hu": "Tartsa röviden a pihenőt, nehogy kihűljön.",
                 "ro": "Țineți pauza scurtă pentru a nu vă răci.",
                 "en": "Keep the break short to avoid getting too cold.",
-                "hr": "Neka pauza bude kratka kako se ne biste previše ohladili."
+                "hr": "Držite pauzu kratkom da ne biste prehladili."
               }
             },
             {
@@ -1413,7 +1413,7 @@
                 "hu": "Nyújtson egy kicsit, hogy melegen tartsa az izmait.",
                 "ro": "Faceți câteva exerciții de stretching pentru a menține mușchii calzi.",
                 "en": "Do some quick stretches to keep your muscles warm.",
-                "hr": "Napravite nekoliko brzih vježbi istezanja kako biste mišiće održali toplima."
+                "hr": "Napravi nekoliko brzih istezanja da mišići ostanu topli."
               }
             },
             {
@@ -1423,7 +1423,7 @@
                 "hu": "Egy forró kakaó most sokkal jobb választás.",
                 "ro": "O ciocolată caldă este o alegere mai bună acum.",
                 "en": "A hot cocoa is a much better choice right now.",
-                "hr": "Topli kakao je trenutno puno bolji izbor."
+                "hr": "Vruća kakao je trenutno puno bolji izbor."
               }
             },
             {
@@ -1433,7 +1433,7 @@
                 "hu": "Lámpákat fel! Télen korán romlanak a látási viszonyok.",
                 "ro": "Aprindeți luminile! Vizibilitatea scade devreme iarna.",
                 "en": "Lights on! Visibility drops very early in winter.",
-                "hr": "Svjetla upaljena! Vidljivost zimi vrlo rano opada."
+                "hr": "Svjetla upaliti! Vidljivost pada vrlo rano zimi."
               }
             }
           ],
@@ -1463,9 +1463,9 @@
               "Drink regularly, even if you don't feel thirsty in the cold."
             ],
             "hr": [
-              "Nosite termalne uloške kako biste se zaštitili od hladnih pedala.",
-              "Grijač za vrat štiti lice i vrat od hladnog vjetra.",
-              "Provjerite razinu baterije na svjetlima; hladnoća ih brže prazni.",
+              "Nosite termoslojeve za uloške kako biste zaštitili stopala od hladnih pedala.",
+              "Nacrtnik za vrat štiti lice i vrat od hladnog vjetra.",
+              "Provjerite razinu baterije na svjetlima; hladno ih brže prazni.",
               "Pijte redovito, čak i ako ne osjećate žeđ na hladnoći."
             ]
           }
@@ -1496,7 +1496,7 @@
             "hu": "A buszmegálló központi helyen van.",
             "ro": "Stația de autobuz este situată central.",
             "en": "The bus stop is centrally located.",
-            "hr": "Autobusna stanica se nalazi u centru."
+            "hr": "Autobusna stanica nalazi se u centru."
           }
         },
         {
@@ -1515,7 +1515,7 @@
             "hu": "A falu fő látványossága, csak 5 perc séta.",
             "ro": "Principala atracție, la doar 5 min de mers pe jos.",
             "en": "Main attraction of the village, just 5 min walk.",
-            "hr": "Glavna atrakcija mjesta, udaljena samo 5 minuta hoda."
+            "hr": "Glavna atrakcija sela, samo 5 minuta hoda."
           }
         },
         {
@@ -1534,7 +1534,7 @@
             "hu": "Élvezd a helyi specialitásokat sietség nélkül.",
             "ro": "Bucurați-vă de specialități locale fără grabă.",
             "en": "Enjoy local specialties without time pressure.",
-            "hr": "Uživajte u lokalnim specijalitetima bez pritiska vremena."
+            "hr": "Uživajte u lokalnim specijalitetima bez žurbe."
           }
         },
         {
@@ -1553,7 +1553,7 @@
             "hu": "Utazás a helyi busszal a tóhoz.",
             "ro": "Călătorie cu autobuzul regional spre lac.",
             "en": "Ride the regional bus to the lake.",
-            "hr": "Vozite se regionalnim autobusom do jezera."
+            "hr": "Putujte regionalnim autobusom do jezera."
           }
         },
         {
@@ -1591,7 +1591,7 @@
             "hu": "Ellenőrizd a menetrendet időben.",
             "ro": "Verificați programul din timp.",
             "en": "Check the schedule in time.",
-            "hr": "Na vrijeme provjerite vozni red."
+            "hr": "Provjerite raspored na vrijeme."
           }
         }
       ],
@@ -1600,7 +1600,7 @@
         "hu": "A Vinodol-völgy tömegközlekedéssel is felfedezhető. A középpontban Bribir áll a Turan-toronnyal és történelmi óvárosával. Egy rövid buszos kitérő a Tribalji-tóhoz vezet, ahol élvezheted a természetet, mielőtt késő délután visszatérnél a partvidékre.",
         "ro": "Valea Vinodol poate fi experimentată și cu transportul public. Vă veți concentra pe localitatea principală, Bribir, cu turnul său și centrul istoric. O scurtă deplasare cu autobuzul local vă duce la lacul Tribalj, unde vă puteți bucura de natură înainte de a reveni la coastă spre seară.",
         "en": "The Vinodol Valley can also be experienced by public transport. Focus on the main village of Bribir with its tower complex and historic old town. A side trip by local bus takes you to Tribalj Lake, where you can enjoy nature before heading back to the coast in the late afternoon.",
-        "hr": "Vinodolska dolina se može doživjeti i javnim prijevozom. Usredotočite se na glavno mjesto Bribir s njegovim kompleksom kula i povijesnom starom jezgrom. Izlet lokalnim autobusom vodi vas do Tribaljskog jezera, gdje možete uživati u prirodi prije povratka na obalu kasno poslijepodne."
+        "hr": "Vinodolska dolina se može doživjeti i javnim prijevozom. Usredotočite se na glavno selo Bribir s njegovim tornjem i povijesnom starom jezgrom. Izlet lokalnim autobusom vodi do jezera Tribalj, gdje možete uživati u prirodi prije povratka na obalu kasnog poslijepodneva."
       },
       "gastro_picks": {
         "de": [
@@ -1722,7 +1722,7 @@
         ],
         "hr": [
           "Autobusne veze su ograničene vikendom.",
-          "Pitajte vozača za stanicu 'Tribalj Centar'."
+          "Pitajte vozača za stajalište 'Tribalj Centar'."
         ]
       },
       "variants": {
@@ -1732,7 +1732,7 @@
             "hu": "A busz biztonságban visz át minket az esőn Bribirbe. Miközben a cseppek dobolnak az ablakon, felfedezzük a Kula Turant, amely ma biztos menedékként szolgál. Ebédre a központ vendégszeretetét élvezzük, majd busszal megyünk a Tribalj-tóhoz. Ott egy fedett megállóból figyeljük az elemek játékát a víz felett, mielőtt a fűtött busszal visszaindulnánk.",
             "ro": "Autobuzul ne duce în siguranță prin ploaie la Bribir. În timp ce picăturile bat în geamuri, explorăm turnul Kula Turan, care servește drept refugiu solid astăzi. La prânz ne bucurăm de ospitalitatea din centru, înainte de a lua autobuzul spre lacul Tribalj. Acolo observăm spectacolul vremii de la o stație protejată înainte de întoarcere.",
             "en": "The bus carries us safely through the rain to Bribir. As droplets drum against the windows, we explore Kula Turan, which serves as a sturdy retreat today. At noon, we enjoy the local hospitality in the center before taking the bus to Lake Tribalj. There, we watch the weather over the water from a sheltered stop before heading back in the warm bus.",
-            "hr": "Autobus nas sigurno vozi kroz kišu do Bribira. Dok kapljice bubnjaju po prozorima, istražujemo kulu Turan, koja nam danas služi kao čvrsto utočište. U podne uživamo u lokalnom gostoprimstvu u centru prije nego što krenemo autobusom do jezera Tribalj. Tamo s natkrivene stanice promatramo vrijeme nad vodom prije povratka toplim autobusom."
+            "hr": "Autobus nas sigurno vodi kroz kišu do Bribira. Dok kapljice bubnjaju po prozorima, istražujemo Kulu Turan koja danas služi kao čvrsto utočište. U podne uživamo u lokalnoj gostoljubivosti u centru prije nego što autobusom odemo do jezera Tribalj. Tamo promatramo vrijeme nad vodom s zaštićenog stajališta prije povratka u toplom autobusu."
           },
           "stops": [
             {
@@ -1742,7 +1742,7 @@
                 "hu": "Várjon a buszmegállóban, amíg alábbhagy a zápor.",
                 "ro": "Așteptați în stație până când trece aversa.",
                 "en": "Wait in the bus shelter until the shower lets up.",
-                "hr": "Čekajte u nadstrešnici dok pljusak ne popusti."
+                "hr": "Pričekajte u autobusnom zaklonu dok pljusak ne popusti."
               }
             },
             {
@@ -1752,7 +1752,7 @@
                 "hu": "Egy gyors sprint a megállótól a toronyig, és száraz marad.",
                 "ro": "Un sprint scurt de la stație la turn vă menține uscat.",
                 "en": "A quick sprint from the stop to the tower keeps you dry.",
-                "hr": "Brzi sprint od stanice do kule održat će vas suhima."
+                "hr": "Brzi sprint od stajališta do tornja održat će vas suhim."
               }
             },
             {
@@ -1762,7 +1762,7 @@
                 "hu": "Foglaljon asztalt távol a huzatos bejárati ajtótól.",
                 "ro": "Rezervați o masă departe de ușa de la intrare.",
                 "en": "Book a table away from the drafty entrance door.",
-                "hr": "Rezervirajte stol podalje od propuha kod ulaznih vrata."
+                "hr": "Rezervirajte stol dalje od propusnih ulaznih vrata."
               }
             },
             {
@@ -1772,7 +1772,7 @@
                 "hu": "A tóparti megálló jó védelmet nyújt a szél ellen.",
                 "ro": "Stația de lângă lac oferă o protecție bună împotriva vântului.",
                 "en": "The stop by the lake offers good shelter from the wind.",
-                "hr": "Stanica uz jezero nudi dobar zaklon od vjetra."
+                "hr": "Stajalište kraj jezera nudi dobar zaklon od vjetra."
               }
             },
             {
@@ -1782,7 +1782,7 @@
                 "hu": "Érdeklődjön a következő buszról, hogy pontos legyen.",
                 "ro": "Întrebați de următorul autobuz pentru a fi punctuali.",
                 "en": "Ask about the next bus to ensure you are on time.",
-                "hr": "Pitajte za sljedeći autobus kako biste bili na vrijeme."
+                "hr": "Raspitajte se o sljedećem autobusu kako biste bili na vrijeme."
               }
             },
             {
@@ -1792,7 +1792,7 @@
                 "hu": "Legyen kéznél a jegy, ne az esőben kelljen keresgélni.",
                 "ro": "Țineți biletul la îndemână pentru a nu-l căuta în ploaie.",
                 "en": "Keep your ticket handy so you don't have to search in the rain.",
-                "hr": "Imajte kartu pri ruci kako je ne biste morali tražiti na kiši."
+                "hr": "Držite kartu pri ruci da je ne trebate tražiti na kiši."
               }
             }
           ],
@@ -1823,9 +1823,9 @@
             ],
             "hr": [
               "Koristite lokalnu aplikaciju za praćenje autobusa u stvarnom vremenu.",
-              "Nosite vodootpornu odjeću za šetnje između stanica.",
+              "Nosite vodootpornu odjeću za pješačenja između stajališta.",
               "Prozori autobusa mogu se zamagliti tijekom jake kiše.",
-              "Ostavite dodatno vrijeme za kašnjenja u prometu uzrokovana vremenom."
+              "Predvidite dodatno vrijeme zbog kašnjenja uzrokovanih vremenskim uvjetima."
             ]
           }
         },
@@ -1835,7 +1835,7 @@
             "hu": "Egy tiszta téli napon a busz Bribirbe visz minket, ahol élvezzük a falu békés csendjét. A Kula Turan védelmet nyújt a hideg északi szél ellen. Ebédre egy étteremben melegszünk fel, majd továbbutazunk a Tribalj-tóhoz. A tó feletti éles fények télen egyedülállóak. Mielőtt túl hideg lenne, a délutáni busszal indulunk vissza, csodálva a téli tájat.",
             "ro": "Într-o zi senină de iarnă, autobuzul ne duce la Bribir, unde ne bucurăm de liniștea pașnică a locului. Turnul oferă protecție împotriva vântului rece de nord. La prânz ne încălzim într-un restaurant, înainte de a continua spre lacul Tribalj. Lumina clară de la lac este unică iarna. Înainte de a se face prea frig, luăm autobuzul de după-amiază înapoi.",
             "en": "On a clear winter day, the bus takes us to Bribir, where we enjoy the peaceful silence of the village. Kula Turan offers shelter from the cold north wind. At noon, we warm up in a restaurant before continuing to Lake Tribalj. The crisp light over the lake is unique in winter. Before it gets too cold, we take the afternoon bus back, enjoying the passing winter scenery.",
-            "hr": "Za vedrog zimskog dana autobus nas vozi u Bribir, gdje uživamo u mirnoj tišini mjesta. Kula Turan nudi zaklon od hladne bure. U podne se grijemo u restoranu prije nastavka prema jezeru Tribalj. Oštro svjetlo nad jezerom jedinstveno je zimi. Prije nego što postane prehladno, vraćamo se poslijepodnevnim autobusom, uživajući u zimskom krajoliku koji prolazi."
+            "hr": "U bistru zimsko jutro autobus nas vodi do Bribira, gdje uživamo u mirnoj tišini sela. Kula Turan nudi zaklon od hladnog sjevernog vjetra. U podne se grijemo u restoranu prije nastavka do jezera Tribalj. Oštro svjetlo nad jezerom u zimskom razdoblju je posebno. Prije nego što postane prehladno, vraćamo se popodnevnim autobusom, uživajući u izmjenjujućoj se zimskoj sceni."
           },
           "stops": [
             {
@@ -1855,7 +1855,7 @@
                 "hu": "Vigyázzon a csúszós lépcsőkkel a megállónál.",
                 "ro": "Atenție la treptele alunecoase de la stație.",
                 "en": "Watch out for slippery steps at the bus stop.",
-                "hr": "Pazite na klizave stepenice na autobusnoj stanici."
+                "hr": "Pazite na skliske stepenice na autobusnom stajalištu."
               }
             },
             {
@@ -1865,7 +1865,7 @@
                 "hu": "Élvezze a kilátást a havas hegyekre (ha van hó).",
                 "ro": "Bucurați-vă de vederea spre munții înzăpeziți (dacă există).",
                 "en": "Enjoy the view of the snow-capped mountains (if any).",
-                "hr": "Uživajte u pogledu na snijegom prekrivene planine (ako ih ima)."
+                "hr": "Uživajte u pogledu na snijegom pokrivene planine (ako ih ima)."
               }
             },
             {
@@ -1875,7 +1875,7 @@
                 "hu": "A várakozási idő a tónál a szélben nagyon hideg lehet.",
                 "ro": "Timpul de așteptare la lac poate fi foarte rece din cauza vântului.",
                 "en": "Waiting time at the lake can be very cold in the wind.",
-                "hr": "Vrijeme čekanja na jezeru može biti vrlo hladno na vjetru."
+                "hr": "Vrijeme čekanja kraj jezera može biti vrlo hladno na vjetru."
               }
             },
             {
@@ -1885,7 +1885,7 @@
                 "hu": "Használja a kávézót meleg váróteremként.",
                 "ro": "Folosiți cafeneaua ca o sală de așteptare caldă.",
                 "en": "Use the cafe as a warm waiting room.",
-                "hr": "Koristite kafić kao toplu čekaonicu."
+                "hr": "Iskoristite kafić kao toplu čekaonicu."
               }
             },
             {
@@ -1895,7 +1895,7 @@
                 "hu": "Ellenőrizze a téli menetrendet, egyes járatok ritkábban járnak.",
                 "ro": "Verificați mersul autobuzelor iarna, unele linii circulă mai rar.",
                 "en": "Check the winter schedule; some lines may run less frequently.",
-                "hr": "Provjerite zimski vozni red; neke linije mogu voziti rjeđe."
+                "hr": "Provjerite zimski raspored; neke linije mogu voziti rjeđe."
               }
             }
           ],
@@ -1925,9 +1925,9 @@
               "A hot drink makes the waiting time feel much shorter."
             ],
             "hr": [
-              "Pripazite na potencijalne promjene zimskog voznog reda.",
-              "Što više boravite u zatvorenom dok čekate autobus.",
-              "Nosite toplu obuću, jer autobusne stanice mogu biti vrlo propuhane.",
+              "Budite svjesni mogućih promjena zimskog rasporeda.",
+              "Što je više moguće, ostanite u zatvorenom dok čekate autobus.",
+              "Nosite tople cipele, autobusna stajališta mogu biti jako prozračna.",
               "Topli napitak čini vrijeme čekanja puno kraćim."
             ]
           }

@@ -21,7 +21,8 @@
             "de": "Hauptplatz Placa",
             "hu": "Placa főtér",
             "ro": "Piața Centrală Placa",
-            "en": "Placa Main Square"
+            "en": "Placa Main Square",
+            "hr": "Placa Glavni trg"
           },
           "coords": [
             17.7005,
@@ -45,7 +46,8 @@
             "de": "Salzwerk Ston",
             "hu": "Stoni sólepárló",
             "ro": "Salina Ston",
-            "en": "Ston Saltworks"
+            "en": "Ston Saltworks",
+            "hr": "Stonske solane"
           },
           "coords": [
             17.702,
@@ -61,7 +63,7 @@
             "hu": "Európa legrégebbi, ma is működő sólepárlója.",
             "ro": "Cea mai veche salină activă din Europa.",
             "en": "The oldest active salt pans in Europe.",
-            "hr": "Najstarija aktivna solana u Europi."
+            "hr": "Najstarije aktivne solane u Europi."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Stadtmauer Aufstieg",
             "hu": "Várfal feljárat",
             "ro": "Urcare pe zidurile cetății",
-            "en": "City Walls Ascent"
+            "en": "City Walls Ascent",
+            "hr": "Uspon na gradske zidine"
           },
           "coords": [
             17.699,
@@ -85,7 +88,7 @@
             "hu": "Sétáljon Európa 'kínai falán'.",
             "ro": "Plimbați-vă pe 'Marele Zid al Europei'.",
             "en": "Walk on the 'Great Wall of Europe'.",
-            "hr": "Prošećite 'europskim kineskim zidom'."
+            "hr": "Prošećite 'Velikim zidom Europe'."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Mittagessen in Ston",
             "hu": "Ebéd Stonban",
             "ro": "Prânz în Ston",
-            "en": "Lunch in Ston"
+            "en": "Lunch in Ston",
+            "hr": "Ručak u Stonu"
           },
           "coords": [
             17.7,
@@ -109,7 +113,7 @@
             "hu": "Kóstolja meg a híres stoni tortát.",
             "ro": "Încercați celebra prăjitură din Ston.",
             "en": "Try the famous Ston cake (Stonska torta).",
-            "hr": "Probajte poznatu stonsku tortu."
+            "hr": "Probajte poznatu stonsku tortu (Stonska torta)."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Festung Veliki Kaštio",
             "hu": "Veliki Kaštio erőd",
             "ro": "Cetatea Veliki Kaštio",
-            "en": "Veliki Kastio Fortress"
+            "en": "Veliki Kastio Fortress",
+            "hr": "Tvrđava Veliki Kaštio"
           },
           "coords": [
             17.698,
@@ -133,7 +138,7 @@
             "hu": "Hatalmas erődrendszer a fal végén.",
             "ro": "Cetate masivă la capătul zidului.",
             "en": "Massive fortress at the end of the wall.",
-            "hr": "Masivna tvrđava na kraju zidina."
+            "hr": "Masivna tvrđava na kraju zidine."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "St. Blasius Kirche",
             "hu": "Szent Balázs-templom",
             "ro": "Biserica Sfântul Vlasie",
-            "en": "St. Blaise Church"
+            "en": "St. Blaise Church",
+            "hr": "Crkva sv. Blaža"
           },
           "coords": [
             17.701,
@@ -165,7 +171,8 @@
             "de": "Mali Ston Hafenweg",
             "hu": "Mali Ston kikötői út",
             "ro": "Drumul spre portul Mali Ston",
-            "en": "Mali Ston Harbor Path"
+            "en": "Mali Ston Harbor Path",
+            "hr": "Put uz luku Mali Ston"
           },
           "coords": [
             17.704,
@@ -190,7 +197,7 @@
         "hu": "Ston világhírű a hatalmas védőfalairól és történelmi sólepárlóiról. Kezdje a körsétát a város szívében, másszon fel a várfalakra a Pelješac-medencére nyíló panorámáért, és ismerje meg, hogyan nyerik a sót évszázadok óta. A napot egy kellemes sétával zárjuk Mali Stonba.",
         "ro": "Ston este faimos în întreaga lume pentru zidurile sale uriașe de apărare și salinele istorice. Începeți turul în inima orașului, urcați pe zidurile cetății pentru o vedere panoramică asupra bazinului Pelješac și aflați cum se extrage sarea de secole. Ziua se încheie cu o plimbare plăcută spre Mali Ston.",
         "en": "Ston is world-famous for its massive defensive walls and historic salt pans. Start your walk in the heart of the town, climb the fortress walls for a panoramic view of the Peljesac basin, and learn how salt has been harvested for centuries. The day ends with a pleasant walk to Mali Ston.",
-        "hr": "Ston je svjetski poznat po svojim masivnim obrambenim zidinama i povijesnoj solani. Započnite šetnju u srcu grada, popnite se na utvrđene zidine za panoramski pogled na pelješki bazen i saznajte kako se sol bere stoljećima. Dan završava ugodnom šetnjom do Malog Stona."
+        "hr": "Ston je svjetski poznat po masivnim obrambenim zidinama i povijesnim solanama. Započnite šetnju u srcu grada, popnite se na gradske zidine za panoramski pogled na pelješki bazen i saznajte kako se stoljećima vadio sol. Dan završite ugodnom šetnjom do Malog Stona."
       },
       "gastro_picks": {
         "de": [
@@ -312,7 +319,7 @@
         ],
         "hr": [
           "Zidine su strme, ponesite vodu i zaštitu od sunca.",
-          "Parking je dostupan ispred gradskih vrata."
+          "Parkiranje je dostupno ispred gradske kapije."
         ]
       },
       "variants": {
@@ -322,7 +329,7 @@
             "hu": "A reggel a Rektori Palota védelmében indul, ahol az eső kopogása mellett csodálhatjuk meg a történelmi belsőt. Délben a Szent Balázs-templom és a sólepárlók következnek, melyek ködös, éteri arcukat mutatják a csapadékos időben. Délután a Kaštio erőd és a falak alsóbb, kevésbé szeles szakaszai járhatóak be óvatosan. Az estét egy mali stoni fogadóban zárjuk, élvezve a helyi tenger gyümölcseit és a barátságos menedéket.",
             "ro": "Dimineața începe la adăpost în Palatul Rectorului, admirând detaliile gotice în timp ce ploaia cade peste oraș. La prânz, vizitați Biserica Sf. Blaise și observați salinele, care capătă o aură mistică sub cerul înnorat. După-amiaza este dedicată Cetății Kaštio și unei plimbări prudente pe porțiunile joase ale zidurilor. Seara se încheie confortabil într-o tavernă din Mali Ston, savurând o supă caldă de scoici.",
             "en": "Morning starts sheltered in the Rector's Palace, admiring the architecture while the rain taps on the stone. Midday, visit the Church of St. Blaise and observe the salt pans; the rain creates a misty, ethereal look over the basins. Afternoon is for the Kaštio Fortress and a cautious walk on the lower parts of the walls. Evening ends in a cozy Mali Ston tavern with a warm bowl of traditional oyster soup.",
-            "hr": "Jutro započinje u zaklonu Kneževa dvora, diveći se arhitekturi dok kiša dobuje po kamenu. Sredinom dana posjetite crkvu sv. Vlaha i promatrajte solanu; kiša stvara magličast, eteričan izgled bazena. Poslijepodne je rezervirano za tvrđavu Kaštio i opreznu šetnju donjim dijelovima zidina. Večer završava u ugodnoj malostonskoj konobi uz toplu zdjelu tradicionalne juhe od kamenica."
+            "hr": "Jutro počinje u Zaštitnikovoj palači, promatrajući arhitekturu dok kiša lupa po kamenu. U podne, posjetite crkvu sv. Blaža i promatrajte solane; kiša stvara maglovit, eteričan izgled nad bazenima. Poslijepodne je za tvrđavu Kaštio i opreznu šetnju nižim dijelovima zidina. Večer završava u ugodnoj malištanskoj taverni uz toplu zdjelu tradicionalne juhe od kamenica."
           },
           "stops": [
             {
@@ -332,7 +339,7 @@
                 "hu": "Kiváló menedék az eső elől, gazdag történelmi kiállítással.",
                 "ro": "Refugiul perfect împotriva ploii, cu exponate istorice fascinante.",
                 "en": "Perfect shelter from the rain with interesting historical exhibits.",
-                "hr": "Savršeno utočište od kiše sa zanimljivim povijesnim izlošcima."
+                "hr": "Savršeno sklonište od kiše s zanimljivim povijesnim izložbama."
               }
             },
             {
@@ -342,7 +349,7 @@
                 "hu": "Csendes pihenő szárazon, csodálja meg a szakrális művészetet.",
                 "ro": "O pauză liniștită la uscat, admirați arta sacră din interior.",
                 "en": "A quiet break in the dry, admire the sacred art inside.",
-                "hr": "Miran odmor na suhom, divite se sakralnoj umjetnosti u unutrašnjosti."
+                "hr": "Tihi predah na suhom, divite se sakralnoj umjetnosti iznutra."
               }
             },
             {
@@ -352,7 +359,7 @@
                 "hu": "Vigyázat, a medencék közötti utak csúszósak és sárosak lehetnek.",
                 "ro": "Atenție, potecile dintre bazine pot fi alunecoase când sunt ude.",
                 "en": "Caution, the paths between the basins can be slippery when wet.",
-                "hr": "Oprez, staze između bazena mogu biti skliske kad su mokre."
+                "hr": "Pažnja, puteljci između bazena mogu biti sklizavi kad su mokri."
               }
             },
             {
@@ -362,7 +369,7 @@
                 "hu": "A vizes kőlépcsőkön elengedhetetlen a jó tapadású cipő.",
                 "ro": "Încălțămintea aderentă este esențială pentru treptele de piatră ude.",
                 "en": "Good grip footwear is essential for the wet stone steps.",
-                "hr": "Obuća s dobrim prianjanjem je neophodna za mokre kamene stepenice."
+                "hr": "Obuća s dobrim prijanjanjem nužna je za mokre kamene stepenice."
               }
             },
             {
@@ -372,7 +379,7 @@
                 "hu": "Erős esőben csak az alsó szakaszokat javasoljuk; csúszásveszély!",
                 "ro": "Pe ploaie torențială vizitați doar porțiunile joase; risc de alunecare.",
                 "en": "In heavy rain, only walk the lower sections; slip hazard!",
-                "hr": "Po jakoj kiši hodajte samo donjim dijelovima; opasnost od klizanja!"
+                "hr": "U jakoj kiši hodajte samo donjim dijelovima; opasnost od klizanja!"
               }
             },
             {
@@ -382,7 +389,7 @@
                 "hu": "Kóstolja meg a friss osztrigát a fedett éttermek egyikében.",
                 "ro": "Savurați stridii proaspete într-unul dintre restaurantele acoperite.",
                 "en": "Enjoy fresh oysters in one of the cozy covered restaurants.",
-                "hr": "Uživajte u svježim kamenicama u jednom od ugodnih natkrivenih restorana."
+                "hr": "Uživajte u svježim ostrigama u jednom od ugodnih natkrivenih restorana."
               }
             }
           ],
@@ -416,11 +423,11 @@
               "Mali Ston restaurants provide a warm escape from the damp weather."
             ],
             "hr": [
-              "Nosite vodootporne cipele za planinarenje zbog blatnjavih staza u blizini solane.",
-              "Gradske zidine mogu biti izuzetno skliske; uvijek koristite rukohvate.",
+              "Nosite vodootporne planinarske cipele zbog blatnih staza kraj solana.",
+              "Zidine grada mogu biti izuzetno klizave; uvijek koristite rukohvate.",
               "Čvrst kišobran je neophodan zbog naleta vjetra s mora.",
-              "Planirajte više vremena za posjete zatvorenim prostorima u Kneževu dvoru.",
-              "Restorani u Malom Stonu pružaju topli bijeg od vlažnog vremena."
+              "Planirajte više vremena za unutarnje razglede u Kneževu dvoru.",
+              "Restorani u Malom Stonu pružaju topao bijeg od vlage."
             ]
           }
         },
@@ -430,7 +437,7 @@
             "hu": "A téli reggel friss és tiszta Stonban, tökéletes a Rektori Palota tömegmentes bejárásához. Délben az alacsonyan járó nap megvilágítja a Szent Balázs-templom fehér köveit. A délután ideális a teljes fali túrához, ha a szél nem túl erős, kristálytiszta kilátást nyújtva a Pelješac-félszigetre. Mivel korán sötétedik, a napot egy pohár helyi vörösbor mellett, kandalló tűzénél zárjuk.",
             "ro": "O dimineață de iarnă în Ston este proaspătă și senină, ideală pentru Palatul Rectorului fără mulțimi. La prânz, soarele blând luminează piatra albă a Bisericii Sf. Blaise. După-amiaza este perfectă pentru întreaga drumeție pe ziduri dacă vântul nu e puternic, oferind vederi clare spre Pelješac. Seara vine devreme, așa că relaxați-vă cu un pahar de vin roșu local lângă un șemineu cald.",
             "en": "The winter morning in Ston is crisp and clear, ideal for visiting the Rector's Palace without the crowds. Midday, the low winter sun reflects off the white stone of St. Blaise's Church. Afternoon is perfect for the full wall hike if the wind is low, offering crystal-clear vistas of the Pelješac peninsula. Since darkness falls early, end the day with a glass of local red wine by a fireplace in a cozy tavern.",
-            "hr": "Zimsko jutro u Stonu je svježe i vedro, idealno za posjet Kneževu dvoru bez gužve. Sredinom dana, nisko zimsko sunce reflektira se s bijelog kamena crkve sv. Vlaha. Poslijepodne je savršeno za cijeli uspon na zidine ako nema vjetra, nudeći kristalno čiste vidike na poluotok Pelješac. Budući da mrak rano pada, završite dan uz čašu domaćeg crnog vina uz kamin u ugodnoj konobi."
+            "hr": "Zimsko jutro u Stonu je svježe i bistro, idealno za posjet Kneževu dvoru bez gužve. U podne, nisko zimsko sunce odbija se od bijelog kamena crkve sv. Blaža. Poslijepodne je savršeno za cjeloviti uspon zidom ako je vjetar slab, s kristalno čistim pogledima na poluotok Pelješac. Budući da se mrak spušta rano, završite dan čašom domaćeg crnog vina kraj kamina u ugodnoj konobi."
           },
           "stops": [
             {
@@ -440,7 +447,7 @@
                 "hu": "Élvezze a történelem csendjét a nyári hőség és tömeg nélkül.",
                 "ro": "Bucurați-vă de liniștea istoriei fără căldura verii.",
                 "en": "Enjoy the silence of history without the summer heat and crowds.",
-                "hr": "Uživajte u tišini povijesti bez ljetnih vrućina i gužve."
+                "hr": "Uživajte u tišini povijesti bez ljetne vrućine i gužvi."
               }
             },
             {
@@ -450,7 +457,7 @@
                 "hu": "Az elcsendesedés helye, télen gyakran ünnepi díszben áll.",
                 "ro": "Un loc de reflecție, adesea decorat festiv în timpul iernii.",
                 "en": "A place for reflection, often festively decorated in winter.",
-                "hr": "Mjesto za razmišljanje, često svečano ukrašeno zimi."
+                "hr": "Mjesto za razmišljanje, često svečano uređeno zimi."
               }
             },
             {
@@ -460,7 +467,7 @@
                 "hu": "A sólepárlás szünetel, de a látvány ilyenkor is lenyűgöző.",
                 "ro": "Producția de sare stagnează, dar peisajul este impresionant.",
                 "en": "Salt harvesting is inactive, but the site remains impressive.",
-                "hr": "Berba soli nije aktivna, ali lokacija ostaje impresivna."
+                "hr": "Berba soli ne radi, ali lokalitet ostaje impresivan."
               }
             },
             {
@@ -470,7 +477,7 @@
                 "hu": "A vastag falak jó védelmet nyújtanak a hideg bóra szél ellen.",
                 "ro": "Zidurile groase oferă protecție bună împotriva vântului rece.",
                 "en": "The thick walls provide good shelter from the cold Bura wind.",
-                "hr": "Debeli zidovi pružaju dobar zaklon od hladne bure."
+                "hr": "Debeli zidovi pružaju dobru zaštitu od hladnog bure."
               }
             },
             {
@@ -490,7 +497,7 @@
                 "hu": "Kóstolja meg a feketekagylót, amely télen a legízletesebb.",
                 "ro": "Gustați midiile, care sunt deosebit de gustoase iarna.",
                 "en": "Try the mussels, which are particularly flavorful in winter.",
-                "hr": "Probajte dagnje koje su zimi posebno ukusne."
+                "hr": "Probajte dagnje, koje su posebno ukusne zimi."
               }
             }
           ],
@@ -524,11 +531,11 @@
               "Enjoy the tranquility, as Ston is nearly tourist-free in winter."
             ],
             "hr": [
-              "Zalazak sunca je zimi oko 16:30; planirajte uspon na zidine ranije.",
+              "Zalazak sunca je oko 16:30 zimi; planirajte uspon zidom rano.",
               "Bura može biti vrlo jaka; provjerite lokalnu prognozu.",
-              "Mnogi kafići imaju ugodne, grijane interijere tijekom zimskih mjeseci.",
-              "Nosite odjeću koja štiti od vjetra tijekom boravka na utvrdama.",
-              "Uživajte u tišini, jer je Ston zimi gotovo bez turista."
+              "Mnogi kafići imaju ugodne, grijane unutrašnjosti tijekom zime.",
+              "Nosite odjeću koja zaustavlja vjetar za boravak na utvrdama.",
+              "Uživajte u miru, jer je Ston zimi gotovo bez turista."
             ]
           }
         }
@@ -547,7 +554,8 @@
             "de": "Ston Zentrum",
             "hu": "Ston központ",
             "ro": "Centrul Ston",
-            "en": "Ston Center"
+            "en": "Ston Center",
+            "hr": "Centar Stona"
           },
           "coords": [
             17.7,
@@ -571,7 +579,8 @@
             "de": "Küstenweg Hodilje",
             "hu": "Hodilje parti út",
             "ro": "Drumul de coastă Hodilje",
-            "en": "Hodilje Coastal Path"
+            "en": "Hodilje Coastal Path",
+            "hr": "Hodilje obalna staza"
           },
           "coords": [
             17.705,
@@ -587,7 +596,7 @@
             "hu": "Csendes út a kagylótelepek mentén.",
             "ro": "Drum liniștit pe lângă crescătoriile de scoici.",
             "en": "Quiet path along the mussel farms.",
-            "hr": "Mirna staza uz uzgajališta dagnji."
+            "hr": "Tihi put uz farmu dagnji."
           }
         },
         {
@@ -595,7 +604,8 @@
             "de": "Dorf Luka",
             "hu": "Luka falu",
             "ro": "Satul Luka",
-            "en": "Luka Village"
+            "en": "Luka Village",
+            "hr": "Selo Luka"
           },
           "coords": [
             17.72,
@@ -619,7 +629,8 @@
             "de": "Mittagessen in Luka",
             "hu": "Ebéd Lukában",
             "ro": "Prânz în Luka",
-            "en": "Lunch in Luka"
+            "en": "Lunch in Luka",
+            "hr": "Ručak u Luki"
           },
           "coords": [
             17.721,
@@ -643,7 +654,8 @@
             "de": "Rückweg über Ston-Feld",
             "hu": "Visszaút a stoni mezőn át",
             "ro": "Revenire prin câmpia Ston",
-            "en": "Return via Ston Field"
+            "en": "Return via Ston Field",
+            "hr": "Povratak preko Stonskog polja"
           },
           "coords": [
             17.695,
@@ -659,7 +671,7 @@
             "hu": "Sík szakasz olajligeteken keresztül.",
             "ro": "Traseu plat prin livezi de măslini.",
             "en": "Flat section through olive groves.",
-            "hr": "Ravna dionica kroz maslinike."
+            "hr": "Ravni dio kroz maslinike."
           }
         },
         {
@@ -667,7 +679,8 @@
             "de": "Abschluss am Kai von Ston",
             "hu": "Zárás a stoni rakparton",
             "ro": "Final la cheiul din Ston",
-            "en": "Ending at Ston Quay"
+            "en": "Ending at Ston Quay",
+            "hr": "Završetak na stonskoj rivi"
           },
           "coords": [
             17.701,
@@ -683,7 +696,7 @@
             "hu": "Lazítás a bringatúra után.",
             "ro": "Relaxare după tura cu bicicleta.",
             "en": "Relaxation after the bike tour.",
-            "hr": "Opuštanje nakon biciklističke ture."
+            "hr": "Odmor nakon biciklističke ture."
           }
         }
       ],
@@ -692,7 +705,7 @@
         "hu": "Fedezze fel Ston környékének síkságait és festői partjait kerékpárral. Ez az útvonal elvezeti Önt a fő látnivalóktól a rejtett öblök és kis halászfalvak felé, mint Hodilje és Luka, ahol megállt az idő. Élvezze a friss tengeri szellőt és a régió kulináris kincseit.",
         "ro": "Explorați câmpia și coasta pitorească din jurul Stonului cu bicicleta. Acest traseu vă poartă departe de atracțiile principale spre golfuri ascunse și sate mici de pescari precum Hodilje și Luka, unde timpul pare să stea în loc. Bucurați-vă de briza mării și de comorile culinare ale regiunii.",
         "en": "Explore the flat plains and scenic coastline around Ston by bicycle. This route takes you away from the main attractions to hidden bays and small fishing villages like Hodilje and Luka, where time seems to stand still. Enjoy the fresh sea breeze and the culinary treasures of the region.",
-        "hr": "Istražite ravne ravnice i slikovitu obalu oko Stona biciklom. Ova ruta vas vodi dalje od glavnih atrakcija do skrivenih uvala i malih ribarskih mjesta poput Hodilja i Luke, gdje vrijeme kao da je stalo. Uživajte u svježem morskom povjetarcu i kulinarskom blagu regije."
+        "hr": "Istražite ravnice i slikovitu obalu oko Stona biciklom. Ova ruta odvodi vas od glavnih atrakcija do skrivenih uvala i malih ribarskih mjesta poput Hodilja i Luke, gdje čini se da vrijeme stoji. Uživajte u svježem morskom zraku i kulinarskim blagima regije."
       },
       "gastro_picks": {
         "de": [
@@ -813,7 +826,7 @@
           "Take basic tools for minor bike repairs."
         ],
         "hr": [
-          "Staze su uglavnom ravne i lake za vožnju.",
+          "Staze su uglavnom ravne i lagane za vožnju.",
           "Ponesite osnovni alat za manje popravke bicikla."
         ]
       },
@@ -824,7 +837,7 @@
             "hu": "Az esős bringázás fegyelmet igényel, de magányos utakkal jutalmaz. Reggel a sólepárlókhoz tekerünk, ahol a nedves talajon figyelni kell a tapadásra. Délben a Prapratno-öböl felé az út frissítő, a fenyők illata intenzívebb az esőben. Délután Mali Stont vesszük célba a vizes aszfalton óvatosan fékezve. Az estét Ston központjában zárjuk egy jól megérdemelt meleg vacsorával egy fedett teraszon.",
             "ro": "O plimbare cu bicicleta în ploaie necesită disciplină, dar oferă drumuri pustii. Dimineața mergeți la saline, unde anvelopele au nevoie de aderență pe solul umed. La prânz, drumul spre Prapratno este revigorant, parfumul pinilor fiind mai intens. După-amiaza, pedalați spre Mali Ston pe asfalt ud. Seara se încheie în centrul Stonului cu o masă caldă binemeritată într-un colț ferit.",
             "en": "A bike ride in the rain requires discipline but rewards you with empty paths. Morning ride to the salt pans requires waterproof gear as tracks can be damp. Midday, the route to Prapratno Bay is refreshing, with the smell of pine trees intensified by the rain. Afternoon, head to Mali Ston; wet asphalt requires careful braking. Evening returns to Ston's center for a well-deserved hot meal in a sheltered corner.",
-            "hr": "Vožnja biciklom po kiši zahtijeva disciplinu, ali vas nagrađuje praznim stazama. Jutarnja vožnja do solane zahtijeva vodootpornu opremu jer staze mogu biti vlažne. Sredinom dana, ruta do uvale Prapratno je osvježavajuća, s mirisom borova koji kiša pojačava. Poslijepodne krenite prema Malom Stonu; mokri asfalt zahtijeva pažljivo kočenje. Večer se vraća u centar Stona na zasluženi topli obrok u natkrivenom kutku."
+            "hr": "Bicikliranje po kiši zahtijeva disciplinu, ali nagrađuje praznim putevima. Jutarnja vožnja do solana traži vodootpornu opremu jer su tragovi vlažni. U podne, ruta do uvale Prapratno osvježava, sa intenzivnijim mirisom borova nakon kiše. Poslijepodne, krećite prema Malom Stonu; mokri asfalt zahtijeva pažljivo kočenje. Navečer se vratite u središte Stona na zasluženi topao obrok u zaklonjenom kutku."
           },
           "stops": [
             {
@@ -844,7 +857,7 @@
                 "hu": "A vizes úton az öbölbe vezető lejtőn fokozott óvatosság kell.",
                 "ro": "Coborârea spre golf trebuie făcută cu prudență pe carosabil ud.",
                 "en": "The descent to the bay requires caution on wet road surfaces.",
-                "hr": "Spust do uvale zahtijeva oprez na mokrim kolnicima."
+                "hr": "Spust prema uvali zahtijeva oprez na mokroj kolničkoj površini."
               }
             },
             {
@@ -864,7 +877,7 @@
                 "hu": "Rövid megálló; a kövek nagyon csúszósak stoplis cipőben.",
                 "ro": "Oprire scurtă; piatra este alunecoasă pentru pantofii de ciclism.",
                 "en": "Short stop; the stones are very slippery for cycling shoes.",
-                "hr": "Kratko zaustavljanje; kamenje je vrlo sklisko za biciklističke cipele."
+                "hr": "Kratka stanica; kameni su vrlo sklizavi za biciklističke cipele."
               }
             },
             {
@@ -874,7 +887,7 @@
                 "hu": "Sáros tekerés után érdemes letisztítani a fékfelületeket.",
                 "ro": "Curățați jantele și frânele după plimbarea prin noroi.",
                 "en": "Clean your brake rims after riding through the mud.",
-                "hr": "Očistite felge kočnica nakon vožnje kroz blato."
+                "hr": "Očistite obruče kočnica nakon vožnje kroz blato."
               }
             }
           ],
@@ -908,11 +921,11 @@
               "In case of heavy downpours, seek shelter in Ston's cafes."
             ],
             "hr": [
-              "Nosite kompletnu kišnu jaknu i vodootporne navlake za cipele tijekom vožnje.",
-              "Lagano smanjite tlak u gumama za bolje prianjanje na mokrim cestama.",
-              "Imajte na umu da su putovi kočenja znatno duži na mokrom asfaltu.",
-              "Koristite blatobrane kako biste se zaštitili od prskanja s ceste i prljavštine.",
-              "U slučaju jakih pljuskova, potražite zaklon u stonskim kafićima."
+              "Nosite kompletnu kabanicu i vodootporne navlake za cipele za vožnju.",
+              "Blago smanjite tlak u gumama radi boljeg prianjanja na mokrom kolniku.",
+              "Imajte na umu da su zaustavni putovi znatno dulji na mokrom asfaltu.",
+              "Koristite blatobrane da se zaštitite od prskanja vode i blata.",
+              "U slučaju jakih pljuskova potražite zaklon u stonskim kafićima."
             ]
           }
         },
@@ -922,7 +935,7 @@
             "hu": "A téli kerékpározás élénkítő, ahogy a hűvös szellő fúj a sólepárlóknál délelőtt. Délben a Prapratno-öböl felé vezető emelkedő elég hőt termel, hogy élvezzük a kilátást. Délután a tekerés Mali Ston felé gyors a tiszta téli égbolt alatt. Este érdemes a 17:00 órás naplemente előtt visszaérni, mert a szűk völgyekben gyorsan lehűl a levegő és romlik a látótávolság.",
             "ro": "Ciclismul de iarnă este revigorant cu briza rece de lângă saline dimineața. La prânz, urcarea spre Prapratno oferă suficientă căldură pentru a savura priveliștea. După-amiaza, plimbarea spre Mali Ston este rapidă sub cerul senin. Seara, asigurați-vă că vă întoarceți înainte de apusul de la ora 17:00, deoarece temperatura scade brusc în văi.",
             "en": "Winter cycling is invigorating with the cool breeze near the salt pans in the morning. Midday, the climb towards Prapratno provides enough warmth to enjoy the view. Afternoon, the ride to Mali Ston is quick under the clear winter sky. Evening, make sure to return before the 5 PM sunset, as the roads become chilly and visibility drops quickly in the narrow valleys.",
-            "hr": "Zimsko bicikliranje osnažuje uz hladan povjetarac u blizini solane ujutro. Sredinom dana, uspon prema Prapratnu pruža dovoljno topline za uživanje u pogledu. Poslijepodne, vožnja do Malog Stona je brza pod vedrim zimskim nebom. Večer, obavezno se vratite prije zalaska sunca u 17 sati, jer ceste postaju hladne, a vidljivost brzo opada u uskim dolinama."
+            "hr": "Zimsko bicikliranje je osvježavajuće uz svježi povjetarac pokraj solana ujutro. U podne, uspon prema Prapratnu daje dovoljno topline za uživanje u pogledu. Poslijepodne, vožnja do Malog Stona ide brzo pod bistrim zimskim nebom. Navečer se pobrinite vratiti prije zalaska sunca u 17:00, jer ceste postaju hladne i vidljivost brzo opada u uskim dolinama."
           },
           "stops": [
             {
@@ -932,7 +945,7 @@
                 "hu": "Viseljen kesztyűt; a fém kormány gyorsan elszívja a hőt a kezéből.",
                 "ro": "Purtați mănuși; ghidonul metalic răcește mâinile rapid iarna.",
                 "en": "Wear gloves; the metal handlebars can make your hands very cold.",
-                "hr": "Nosite rukavice; metalni upravljači mogu vam jako ohladiti ruke."
+                "hr": "Nosite rukavice; metalne ručke volana mogu jako ohladiti ruke."
               }
             },
             {
@@ -942,7 +955,7 @@
                 "hu": "Az árnyékos öbölben jóval hidegebb van, mint fent a hegyen.",
                 "ro": "În golful umbrit este mult mai frig decât pe porțiunile însorite.",
                 "en": "It is significantly colder in the shaded bay than on the ridge.",
-                "hr": "U zasjenjenoj uvali je znatno hladnije nego na grebenu."
+                "hr": "Znatno je hladnije u zasjenjenoj uvali nego na grebenu."
               }
             },
             {
@@ -952,7 +965,7 @@
                 "hu": "Csak rövid pihenőt tartson; ne hűljön ki állás közben.",
                 "ro": "Faceți o pauză scurtă; nu lăsați corpul să se răcească prea mult.",
                 "en": "Keep breaks short; don't let your body cool down too much while stationary.",
-                "hr": "Neka pauze budu kratke; ne dopustite tijelu da se previše ohladi dok mirujete."
+                "hr": "Držite pauze kratkima; ne dopuštajte tijelu da se previše ohladi dok mirujete."
               }
             },
             {
@@ -962,7 +975,7 @@
                 "hu": "A kilátás télen a tiszta levegőnek köszönhetően fantasztikus.",
                 "ro": "Priveliștea este fantastică iarna datorită aerului foarte clar.",
                 "en": "The view is fantastic in winter thanks to the very clear air.",
-                "hr": "Pogled je zimi fantastičan zahvaljujući vrlo čistom zraku."
+                "hr": "Pogled je fantastičan zimi zahvaljujući vrlo čistom zraku."
               }
             },
             {
@@ -972,7 +985,7 @@
                 "hu": "Melegedjen fel egy forró teával az egyik helyi bárban.",
                 "ro": "Încălziți-vă cu un ceai fierbinte într-un bar local la final.",
                 "en": "Warm up with a hot tea in a local bar after your ride.",
-                "hr": "Zagrijte se toplim čajem u lokalnom baru nakon vožnje."
+                "hr": "Zagrijte se šalicom vrućeg čaja u lokalnom baru nakon vožnje."
               }
             }
           ],
@@ -1006,11 +1019,11 @@
               "Check your tire pressure; cold air can cause it to drop significantly."
             ],
             "hr": [
-              "Odjenite se slojevito s vanjskim slojem otpornim na vjetar.",
-              "Koristite jaka svjetla, jer je zimski sumrak vrlo kratak i taman.",
-              "Održavajte hidrataciju čak i ako osjećate manju žeđ na hladnoći.",
-              "Grijač za vrat štiti vaše lice i vrat od ledenog čeonog vjetra.",
-              "Provjerite tlak u gumama; hladan zrak može uzrokovati njegov znatan pad."
+              "Obucite se u slojevima s vjetrootpornim vanjskim slojem koji blokira povjetarac.",
+              "Koristite jake svjetlima; zimski sumrak je vrlo kratak i tamni.",
+              "Ostanite hidrirani iako osjećate manju žeđ na hladnoći.",
+              "Multifunkcionalna ruta štiti lice i vrat od ledenog vjetra.",
+              "Provjerite tlak u gumama; hladan zrak može ga znatno sniziti."
             ]
           }
         }
@@ -1029,7 +1042,8 @@
             "de": "Ston Parkplatz (Cluster A)",
             "hu": "Ston parkoló",
             "ro": "Parcare Ston",
-            "en": "Ston Parking"
+            "en": "Ston Parking",
+            "hr": "Stonsko parkiralište"
           },
           "coords": [
             17.701,
@@ -1045,7 +1059,7 @@
             "hu": "Központi parkoló a kapuk előtt.",
             "ro": "Parcare centrală la poarta orașului.",
             "en": "Central parking in front of the gates.",
-            "hr": "Centralni parking ispred gradskih vrata."
+            "hr": "Središnje parkiranje ispred vrata."
           }
         },
         {
@@ -1053,7 +1067,8 @@
             "de": "Stadtzentrum Rundgang (Cluster A)",
             "hu": "Városközpont körséta",
             "ro": "Turul centrului orașului",
-            "en": "Town Center Walk"
+            "en": "Town Center Walk",
+            "hr": "Šetnja gradskim središtem"
           },
           "coords": [
             17.7005,
@@ -1077,7 +1092,8 @@
             "de": "Prapratno Bucht (Cluster B)",
             "hu": "Prapratno-öböl",
             "ro": "Golful Prapratno",
-            "en": "Prapratno Bay"
+            "en": "Prapratno Bay",
+            "hr": "Uvala Prapratno"
           },
           "coords": [
             17.675,
@@ -1093,7 +1109,7 @@
             "hu": "A régió egyik legszebb homokos strandja.",
             "ro": "Una dintre cele mai frumoase plaje cu nisip din regiune.",
             "en": "One of the region's most beautiful sandy beaches.",
-            "hr": "Jedna od najljepših pješčanih plaža u regiji."
+            "hr": "Jedna od najljepših pješčanih plaža regije."
           }
         },
         {
@@ -1101,7 +1117,8 @@
             "de": "Fährhafen Spaziergang (Cluster B)",
             "hu": "Kompkikötő séta",
             "ro": "Plimbare în portul de feribot",
-            "en": "Ferry Port Walk"
+            "en": "Ferry Port Walk",
+            "hr": "Šetnica luka za trajekte"
           },
           "coords": [
             17.678,
@@ -1125,7 +1142,8 @@
             "de": "Mali Ston Zentrum (Cluster C)",
             "hu": "Mali Ston központ",
             "ro": "Centrul Mali Ston",
-            "en": "Mali Ston Center"
+            "en": "Mali Ston Center",
+            "hr": "Centar Malog Stona"
           },
           "coords": [
             17.705,
@@ -1141,7 +1159,7 @@
             "hu": "Parkolás Mali Ston kikötőjében.",
             "ro": "Parcare în portul Mali Ston.",
             "en": "Parking at Mali Ston harbor.",
-            "hr": "Parking u luci Mali Ston."
+            "hr": "Parkiranje u lučici Malog Stona."
           }
         },
         {
@@ -1149,7 +1167,8 @@
             "de": "Mittagessen in Mali Ston (Cluster C)",
             "hu": "Ebéd Mali Stonban",
             "ro": "Prânz în Mali Ston",
-            "en": "Lunch in Mali Ston"
+            "en": "Lunch in Mali Ston",
+            "hr": "Ručak u Malom Stonu"
           },
           "coords": [
             17.7055,
@@ -1165,7 +1184,7 @@
             "hu": "Kóstoljon osztrigát közvetlenül a tenyésztőtől.",
             "ro": "Savurați stridii direct de la crescător.",
             "en": "Enjoy oysters directly from the producer.",
-            "hr": "Uživajte u kamenicama izravno od proizvođača."
+            "hr": "Uživajte u ostrigama izravno od proizvođača."
           }
         },
         {
@@ -1173,7 +1192,8 @@
             "de": "Drače Aussichtspunkt (Cluster D)",
             "hu": "Drače kilátó",
             "ro": "Punct panoramic Drače",
-            "en": "Drace Viewpoint"
+            "en": "Drace Viewpoint",
+            "hr": "Vidikovac Drače"
           },
           "coords": [
             17.45,
@@ -1197,7 +1217,8 @@
             "de": "Promenade von Drače (Cluster D)",
             "hu": "Drače sétány",
             "ro": "Promenada din Drače",
-            "en": "Drace Promenade"
+            "en": "Drace Promenade",
+            "hr": "Promenada Drače"
           },
           "coords": [
             17.452,
@@ -1222,7 +1243,7 @@
         "hu": "Ez az autós túra Ston történelmi csodáit ötvözi a Pelješac-félsziget rejtett strandjaival és kulináris csúcspontjaival. Klasztereket használunk Ston és Mali Ston alapos gyalogos felfedezéséhez, meglátogatjuk a gyönyörű Prapratno-öblöt, és Drače felé vesszük az irányt a naplementére.",
         "ro": "Acest tur auto combină minunile istorice ale Stonului cu plajele ascunse și punctele culminante culinare ale peninsulei Pelješac. Folosim clustere pentru a experimenta intens Ston și Mali Ston pe jos, vizităm golful superb Prapratno și continuăm spre Drače pentru apus.",
         "en": "This car tour combines the historical wonders of Ston with the hidden beaches and culinary highlights of the Peljesac peninsula. We use clusters to explore Ston and Mali Ston intensively on foot, visit the beautiful Prapratno bay, and head to Drace for the sunset.",
-        "hr": "Ova tura automobilom spaja povijesna čuda Stona sa skrivenim plažama i kulinarskim vrhuncima poluotoka Pelješca. Koristimo klastere za intenzivno istraživanje Stona i Malog Stona pješice, posjet prekrasnoj uvali Prapratno i odlazak u Drače na zalazak sunca."
+        "hr": "Ova automobilska tura spaja povijesna čuda Stona s skrivenim plažama i kulinarskim highlightima Pelješkog poluotoka. Korištenjem skupina intenzivno istražujemo Ston i Mali Ston pješice, posjetimo lijepo Prapratno i odvezemo se do Drače na zalazak sunca."
       },
       "gastro_picks": {
         "de": [
@@ -1344,7 +1365,7 @@
         ],
         "hr": [
           "Prapratno ima hladovinu, idealno za obitelji.",
-          "Cesta za Drače nudi sjajne poglede, zaustavite se u uvalama."
+          "Cesta prema Drači nudi odlične poglede, stanite na uvalama."
         ]
       },
       "variants": {
@@ -1354,7 +1375,7 @@
             "hu": "A délelőtti felfedezés a központban indul, az autót száraz bázisként használva a rövid séták között. Délben a sólepárlókat látogatjuk meg, majd élvezzük a festői, eső áztatta parti utat Mali Ston felé. Délután a drámai, viharos tengert figyelhetjük meg az autó kényelméből Prapratnónál. Az este tökéletes egy közeli borászat felkereséséhez, ahol egy pohár Dingač mellett várhatjuk meg az eső végét.",
             "ro": "Explorarea de dimineață începe în centru, folosind mașina ca bază uscată între plimbările scurte. La prânz vizitați salinele și savurați drumul de coastă spre Mali Ston. După-amiaza, observați marea furtunatică din confortul mașinii la Prapratno. Seara este perfectă pentru o vizită la o cramă din apropiere, degustând un vin Dingač în timp ce ploaia cade afară.",
             "en": "Morning drive starts at the town center, using the car as a dry base between short walks. Midday, visit the salt pans and then enjoy the scenic, rain-washed coastal road to Mali Ston. Afternoon, watch the dramatic stormy sea from the comfort of your car at Prapratno. Evening is perfect for a drive to a nearby winery to taste some local Dingač wine while the rain pours outside.",
-            "hr": "Jutarnja vožnja počinje u centru grada, koristeći automobil kao suhu bazu između kratkih šetnji. Sredinom dana posjetite solanu, a zatim uživajte u slikovitoj, kišom opranoj obalnoj cesti do Malog Stona. Poslijepodne promatrajte dramatično olujno more iz udobnosti svog automobila u Prapratnu. Večer je savršena za vožnju do obližnje vinarije na kušanje lokalnog vina Dingač dok vani pljušti kiša."
+            "hr": "Jutarnja vožnja počinje u središtu grada, koristeći auto kao suhi bazu između kratkih šetnji. U podne posjetite solane, a zatim uživajte u slikovitoj, kišom opranoj obalnoj cesti do Malog Stona. Poslijepodne promatrajte dramatično olujno more iz udobnosti auta u Prapratnu. Navečer je savršeno otići do obližnje vinarije na kušanje lokalnog Dingača dok vani pada kiša."
           },
           "stops": [
             {
@@ -1364,7 +1385,7 @@
                 "hu": "Parkoljon közel a kapuhoz, hogy lerövidítse az utat az esőben.",
                 "ro": "Parcați aproape de poartă pentru a minimiza mersul prin ploaie.",
                 "en": "Park close to the main gate to minimize walking in the rain.",
-                "hr": "Parkirajte blizu glavnih vrata kako biste smanjili hodanje po kiši."
+                "hr": "Parkirajte blizu glavne kapije da smanjite hod po kiši."
               }
             },
             {
@@ -1374,7 +1395,7 @@
                 "hu": "A vizes ernyőt tartsa a csomagtartóban, hogy ne párásodjon az utastér.",
                 "ro": "Țineți umbrela udă în portbagaj pentru a evita aburirea geamurilor.",
                 "en": "Keep wet umbrellas in the trunk to avoid fogging up the cabin.",
-                "hr": "Mokre kišobrane držite u prtljažniku kako biste izbjegli magljenje kabine."
+                "hr": "Držite mokre kišobrane u prtljažniku kako biste izbjegli zamagljivanje kabine."
               }
             },
             {
@@ -1384,7 +1405,7 @@
                 "hu": "Közvetlenül a kikötőben vannak parkolók, közel az éttermekhez.",
                 "ro": "Există parcări chiar în port, aproape de restaurante.",
                 "en": "There are parking spots right in the harbor, close to the eateries.",
-                "hr": "Postoje parkirna mjesta u samoj luci, blizu restorana."
+                "hr": "Postoje parkirna mjesta odmah u luci, blizu ugostiteljskih objekata."
               }
             },
             {
@@ -1394,7 +1415,7 @@
                 "hu": "Élvezze a hullámok látványát közvetlenül a parkolóból.",
                 "ro": "Admirați spectacolul valurilor direct din parcare.",
                 "en": "Enjoy the view of the waves directly from your parking spot.",
-                "hr": "Uživajte u pogledu na valove izravno s vašeg parkirnog mjesta."
+                "hr": "Uživajte u pogledu valova izravno s parkirnog mjesta."
               }
             },
             {
@@ -1404,7 +1425,7 @@
                 "hu": "Ideális program esőben; a borospincék többnyire a föld alatt vannak.",
                 "ro": "Activitate ideală pe ploaie; cramele sunt de obicei subterane.",
                 "en": "Ideal rainy day activity; wine cellars are mostly underground.",
-                "hr": "Idealna aktivnost za kišni dan; vinski podrumi su uglavnom pod zemljom."
+                "hr": "Idealna aktivnost za kišni dan; vinske podrume većinom su pod zemljom."
               }
             }
           ],
@@ -1438,11 +1459,11 @@
               "Prioritize parking spots that are closest to covered building entrances."
             ],
             "hr": [
-              "Provjerite brisače vjetrobranskog stakla prije vožnje preko poluotoka.",
+              "Provjerite brisače prije vožnje preko poluotoka.",
               "Obalne ceste mogu biti vrlo skliske tijekom prvih minuta kiše.",
-              "Držite klima uređaj uključenim kako biste spriječili magljenje vjetrobrana.",
-              "Pazite na potencijalne odrone kamenja duž dionica ceste uz litice.",
-              "Dajte prednost parkirnim mjestima koja su najbliža natkrivenim ulazima u zgrade."
+              "Držite klima-uređaj uključenim kako se vjetrobran ne bi zamaglilo.",
+              "Pazite na moguće odrone duž odsjeka ceste uz liticu.",
+              "Prioritirajte parkirna mjesta najbliža natkrivenim ulazima u zgrade."
             ]
           }
         },
@@ -1452,7 +1473,7 @@
             "hu": "Ston központjának reggeli felfedezése kellemes az enyhe mediterrán télben. Délben a sólepárlók látványa az alacsony napfényben különlegesen szép. Délután látogasson el a csendes Mali Stonba és az üres Prapratno strandra egy békés sétára. Este a rövid nappalok miatt egy korai borászat-látogatás a tökéletes zárás, ahol a nehéz Pelješac-i borok belülről melegítik fel.",
             "ro": "Explorarea matinală a centrului este plăcută în iarna mediteraneană blândă. La prânz, salinele arată auster și frumos în lumina soarelui. După-amiaza, conduceți spre liniștitul Mali Ston și spre plaja goală Prapratno pentru o plimbare pașnică. Seara, zilele scurte fac dintr-o vizită timpurie la o cramă finalul perfect, unde vinurile grele de Pelješac vă vor încălzi.",
             "en": "Morning exploration of Ston's center is pleasant in the mild Mediterranean winter. Midday, the salt pans look stark and beautiful in the low sun. Afternoon, drive to the quiet Mali Ston and the empty Prapratno beach for a peaceful walk. Evening, the short days make an early visit to a local winery the perfect conclusion, where the heavy Pelješac wines warm you up.",
-            "hr": "Jutarnje istraživanje centra Stona ugodno je u blagoj mediteranskoj zimi. Sredinom dana, solana izgleda ogoljeno i lijepo na niskom suncu. Poslijepodne se odvezite do mirnog Malog Stona i prazne plaže Prapratno za mirnu šetnju. Večer, zbog kratkih dana, rani posjet lokalnoj vinariji savršen je završetak, gdje će vas ugrijati teška pelješka vina."
+            "hr": "Jutarnje istraživanje središta Stona ugodno je u blage mediteranske zime. U podne solane izgledaju strogo i lijepo u niskom suncu. Poslijepodne se provozajte do mirnog Malog Stona i prazne plaže Prapratno na mirnu šetnju. Navečer, kratki dani čine rani posjet lokalnoj vinariji savršenim završetkom, gdje vas teža pelješka vina ugriju."
           },
           "stops": [
             {
@@ -1462,7 +1483,7 @@
                 "hu": "Télen bőven talál szabad parkolóhelyet a központban is.",
                 "ro": "Locurile de parcare sunt abundente în timpul iernii.",
                 "en": "Parking spots are plentiful in the center during winter months.",
-                "hr": "Parkirnih mjesta u centru ima na pretek tijekom zimskih mjeseci."
+                "hr": "Parkirna mjesta u centru su u zimskim mjesecima obilna."
               }
             },
             {
@@ -1472,7 +1493,7 @@
                 "hu": "Használja ki a tiszta téli fényeket a látványos fotókhoz.",
                 "ro": "Folosiți lumina clară de iarnă pentru fotografii impresionante.",
                 "en": "Take advantage of the clear winter light for striking photos.",
-                "hr": "Iskoristite čisto zimsko svjetlo za upečatljive fotografije."
+                "hr": "Iskoristite jasno zimsko svjetlo za upečatljive fotografije."
               }
             },
             {
@@ -1482,7 +1503,7 @@
                 "hu": "Egy rövid séta a kikötőben télen is felfrissíti az embert.",
                 "ro": "O scurtă plimbare prin port este revigorantă și iarna.",
                 "en": "A short stroll by the harbor is invigorating even in winter.",
-                "hr": "Kratka šetnja lukom okrepljuje čak i zimi."
+                "hr": "Kratka šetnja uz luku je osvježavajuća i zimi."
               }
             },
             {
@@ -1492,7 +1513,7 @@
                 "hu": "A strand magánya tökéletes nyugalmat és kikapcsolódást nyújt.",
                 "ro": "Singurătatea plajei oferă liniște și relaxare totală.",
                 "en": "The solitude of the empty beach offers peace and relaxation.",
-                "hr": "Samoća prazne plaže nudi mir i opuštanje."
+                "hr": "Samota prazne plaže pruža mir i opuštanje."
               }
             },
             {
@@ -1536,11 +1557,11 @@
               "Always keep a warm jacket in the car for spontaneous photo stops."
             ],
             "hr": [
-              "Provjerite razinu antifriza u tekućini za pranje vjetrobrana.",
-              "Bura može otežati vožnju; čvrsto držite upravljač.",
-              "Dani su kratki; pokušajte završiti vožnju dok je još dan.",
-              "Zasjenjene planinske ceste mogu biti zaleđene nakon hladne zimske noći.",
-              "Uvijek držite toplu jaknu u autu za spontana zaustavljanja radi fotografiranja."
+              "Provjerite razinu sredstva protiv smrzavanja u tekućini za pranje vjetrobrana.",
+              "Bura može otežati vožnju; čvrsto držite volan.",
+              "Dani su kratki; pokušajte završiti vožnju dok je još svijetlo.",
+              "Putujuće planinske ceste u hladu mogu biti zaleđene nakon hladne noći.",
+              "Uvijek držite toplu jaknu u automobilu za nenadane fotografijske stanice."
             ]
           }
         }
@@ -1559,7 +1580,8 @@
             "de": "Ston Busstation (Cluster A)",
             "hu": "Ston buszmegálló",
             "ro": "Stația de bus Ston",
-            "en": "Ston Bus Station"
+            "en": "Ston Bus Station",
+            "hr": "Autobusni kolodvor Ston"
           },
           "coords": [
             17.702,
@@ -1575,7 +1597,7 @@
             "hu": "Fő megálló a Dubrovnikból vagy Splitből érkező buszoknak.",
             "ro": "Stația principală pentru autobuze din Dubrovnik sau Split.",
             "en": "Main stop for buses from Dubrovnik or Split.",
-            "hr": "Glavna stanica za autobuse iz Dubrovnika ili Splita."
+            "hr": "Glavno stajalište za autobuse iz Dubrovnika ili Splita."
           }
         },
         {
@@ -1583,7 +1605,8 @@
             "de": "Lapidarium Museum (Cluster A)",
             "hu": "Lapidárium múzeum",
             "ro": "Muzeul Lapidarium",
-            "en": "Lapidarium Museum"
+            "en": "Lapidarium Museum",
+            "hr": "Lapidarium muzej"
           },
           "coords": [
             17.7,
@@ -1599,7 +1622,7 @@
             "hu": "Középkori kőszobrok gyűjteménye.",
             "ro": "Sculpturi medievale din piatră.",
             "en": "Collection of medieval stone sculptures.",
-            "hr": "Zbirka srednjovjekovnih kamenih skulptura."
+            "hr": "Zbirka srednjovjekovnih kamених skulptura."
           }
         },
         {
@@ -1607,7 +1630,8 @@
             "de": "Ston Walls (Unteres Segment) (Cluster A)",
             "hu": "Stoni falak (alsó szakasz)",
             "ro": "Zidurile din Ston (segment inferior)",
-            "en": "Ston Walls (Lower Segment)"
+            "en": "Ston Walls (Lower Segment)",
+            "hr": "Stonske zidine (donji dio)"
           },
           "coords": [
             17.699,
@@ -1623,7 +1647,7 @@
             "hu": "Séta a fal alsó részén.",
             "ro": "Plimbare pe partea inferioară a zidului.",
             "en": "Walk on the lower part of the wall.",
-            "hr": "Šetnja donjim dijelom zidina."
+            "hr": "Prošećite donjim dijelom zidine."
           }
         },
         {
@@ -1631,7 +1655,8 @@
             "de": "Mali Ston (Cluster B)",
             "hu": "Mali Ston",
             "ro": "Mali Ston",
-            "en": "Mali Ston"
+            "en": "Mali Ston",
+            "hr": "Mali Ston"
           },
           "coords": [
             17.705,
@@ -1647,7 +1672,7 @@
             "hu": "Helyi buszos átszállás a halászfaluhoz.",
             "ro": "Transfer cu bus local spre satul de pescari.",
             "en": "Local bus hop to the fishing village.",
-            "hr": "Lokalni autobus do ribarskog sela."
+            "hr": "Lokalni autobus do ribarskog mjesta."
           }
         },
         {
@@ -1655,7 +1680,8 @@
             "de": "Mittagessen in Mali Ston (Cluster B)",
             "hu": "Ebéd Mali Stonban",
             "ro": "Prânz în Mali Ston",
-            "en": "Lunch in Mali Ston"
+            "en": "Lunch in Mali Ston",
+            "hr": "Ručak u Malom Stonu"
           },
           "coords": [
             17.706,
@@ -1679,7 +1705,8 @@
             "de": "Zuljana (Cluster C)",
             "hu": "Žuljana",
             "ro": "Žuljana",
-            "en": "Zuljana"
+            "en": "Zuljana",
+            "hr": "Zuljana"
           },
           "coords": [
             17.45,
@@ -1695,7 +1722,7 @@
             "hu": "Utazás a gyönyörű parti településre.",
             "ro": "Călătorie spre frumoasa localitate de coastă.",
             "en": "Transit to the beautiful coastal village.",
-            "hr": "Prijevoz do prekrasnog obalnog sela."
+            "hr": "Transfеr do prekrasnog obalnog mjesta."
           }
         },
         {
@@ -1703,7 +1730,8 @@
             "de": "Zuljana Strandpromenade (Cluster C)",
             "hu": "Žuljana tengerparti sétány",
             "ro": "Faleza din Žuljana",
-            "en": "Zuljana Beachfront"
+            "en": "Zuljana Beachfront",
+            "hr": "Obala plaže Zuljana"
           },
           "coords": [
             17.452,
@@ -1719,7 +1747,7 @@
             "hu": "Utolsó pillantás a tengerre a busz előtt.",
             "ro": "Ultima vedere spre mare înainte de bus.",
             "en": "Last look at the sea before the bus.",
-            "hr": "Posljednji pogled na more prije autobusa."
+            "hr": "Zadnji pogled na more prije autobusa."
           }
         }
       ],
@@ -1728,7 +1756,7 @@
         "hu": "A regionális buszjáratoknak köszönhetően Ston és a Pelješac-part autó nélkül is jól felfedezhető. A hatalmas városfalak megtekintése után a túra Mali Ston kulináris központjába vezet. Egy másik busz a festői Žuljana faluba visz, amely kristálytiszta öbleiről ismert.",
         "ro": "Datorită conexiunilor regionale de autobuz, Ston și coasta Pelješac pot fi explorate bine fără mașină. După vizitarea zidurilor masive ale orașului, turul continuă spre centrul culinar Mali Ston. Un alt autobuz vă duce în satul pitoresc Žuljana, cunoscut pentru golfurile sale cristaline.",
         "en": "Thanks to regional bus connections, Ston and the Peljesac coast can be experienced well without a car. After visiting the massive city walls, the tour leads to the culinary center of Mali Ston. Another bus takes you to the picturesque village of Zuljana, known for its crystal-clear bays.",
-        "hr": "Zahvaljujući regionalnim autobusnim linijama, Ston i pelješka obala mogu se dobro doživjeti i bez automobila. Nakon posjeta masivnim gradskim zidinama, tura vodi do kulinarskog središta Malog Stona. Drugi autobus vas vodi do pitoresknog sela Žuljana, poznatog po kristalno čistim uvalama."
+        "hr": "Zahvaljujući regionalnim autobusnim vezama, Ston i pelješka obala dobro se mogu doživjeti bez automobila. Nakon posjeta masivnim gradskim zidinama, tura vodi u kulinarsko središte Malog Stona. Drugi autobus vozi do slikovitog mjesta Zuljane, poznate po kristalno čistim uvalama."
       },
       "gastro_picks": {
         "de": [
@@ -1849,8 +1877,8 @@
           "Ask the driver for the best stop to reach the beach."
         ],
         "hr": [
-          "Autobusi na Pelješcu su usklađeni s voznim redom trajekata.",
-          "Pitajte vozača za najbolju stanicu za dolazak do plaže."
+          "Autobusi na Pelješcu usklađeni su s trajektnim rasporedima.",
+          "Pitajte vozača za najbolje stajalište za dolazak do plaže."
         ]
       },
       "variants": {
@@ -1860,7 +1888,7 @@
             "hu": "A délelőtt a stoni buszmegállóba való megérkezéssel indul, ahol a közeli kávézókban várhatjuk meg az eső végét. Délben több időt tölthetünk a Rektori Palotában és a helyi üzletekben. Délután vegyen igénybe egy rövid taxit vagy helyi buszt Mali Stonba, elkerülve a vizes gyaloglást. Az estét töltse egy hangulatos étteremben a busz indulásáig.",
             "ro": "Dimineața începe cu sosirea la autogara din Ston; zona are cafenele unde puteți aștepta trecerea ploii. La prânz, petreceți mai mult timp în Palatul Rectorului și în magazinele locale. După-amiaza, luați un taxi scurt sau autobuzul local spre Mali Ston, evitând drumeția pe ud. Seara, bucurați-vă de ospitalitatea locală la interior înainte de plecare.",
             "en": "Morning arrival by bus into Ston; the station area has cafes to wait out heavy showers. Midday, spend more time inside the Rector's Palace and local shops. Afternoon, take a short taxi or the local bus connection to Mali Ston, avoiding the wet hike. Evening, enjoy the local hospitality indoors before the final bus departure back to the main hubs.",
-            "hr": "Jutarnji dolazak autobusom u Ston; u blizini stanice postoje kafići za čekanje dok prođu jaki pljuskovi. Sredinom dana provedite više vremena u Kneževu dvoru i lokalnim trgovinama. Poslijepodne uzmite kratki taksi ili lokalnu autobusnu vezu do Malog Stona, izbjegavajući pješačenje po kiši. Večer, uživajte u lokalnom gostoprimstvu u zatvorenom prije polaska posljednjeg autobusa natrag."
+            "hr": "Jutarnji dolazak autobusom u Ston; prostor oko stanice ima kafiće za čekanje jakih pljuskova. U podne provedite više vremena u Kneževoj palači i lokalnim trgovinama. Poslijepodne uzmite kratak taksi ili lokalni autobus do Malog Stona, izbjegavajući mokru pješačku stazu. Navečer uživajte u domaćoj gostoljubivosti unutra prije posljednjeg autobusa nazad do glavnih središta."
           },
           "stops": [
             {
@@ -1870,7 +1898,7 @@
                 "hu": "A váróterem kicsi; heves esőben érdemes a közeli kávézókba beülni.",
                 "ro": "Stația oferă adăpost limitat; folosiți cafenelele din apropiere.",
                 "en": "The bus stop has limited cover; use nearby cafes during heavy rain.",
-                "hr": "Autobusna stanica ima ograničen zaklon; koristite obližnje kafiće tijekom jake kiše."
+                "hr": "Stajalište ima ograničen zaklon; tijekom jake kiše koristite obližnje kafiće."
               }
             },
             {
@@ -1880,7 +1908,7 @@
                 "hu": "A szűk utcákban az ernyő nehézkes lehet; a regenponcsó praktikusabb.",
                 "ro": "Străzile sunt înguste, umbrelele pot fi incomode; folosiți pelerine.",
                 "en": "The alleys are narrow, umbrellas can be clumsy; a poncho is better.",
-                "hr": "Uličice su uske, kišobrani mogu biti nespretni; pončo je bolji."
+                "hr": "Ulice su uske, kišobrani mogu biti nezgrapni; bolji je pončo."
               }
             },
             {
@@ -1890,7 +1918,7 @@
                 "hu": "A sólepárlóhoz vezető járdákon sok tócsa gyűlhet össze.",
                 "ro": "Trotuarele spre salină pot avea multe bălți pe ploaie.",
                 "en": "The sidewalks leading to the salt pans often have deep puddles.",
-                "hr": "Trotoari koji vode do solane često imaju duboke lokve."
+                "hr": "Pločnici koji vode do solana često imaju duboke lokve."
               }
             },
             {
@@ -1934,11 +1962,11 @@
               "Cafes near the bus stops are great places to wait comfortably."
             ],
             "hr": [
-              "Provjerite vozni red online jer jaka kiša može uzrokovati manja kašnjenja.",
-              "Pripremite sitan novac za karte kako biste skratili vrijeme na kiši.",
-              "Nosite vodootporne vanjske slojeve za kratke šetnje između stanica.",
-              "Imajte pri ruci broj lokalnog taksija kao rezervu za autobusne veze.",
-              "Kafići u blizini autobusnih stanica odlična su mjesta za ugodno čekanje."
+              "Provjerite raspored online, jer jaka kiša može uzrokovati manje kašnjenja.",
+              "Imajte sitniš spreman za karte kako biste smanjili vrijeme provedeno na kiši.",
+              "Nosite vodootpornu vanjsku odjeću za kratke šetnje između stajališta.",
+              "Držite lokalni broj taksija pri ruci kao rezervu za autobusne veze.",
+              "Kafići blizu autobusnih stajališta odlična su mjesta za udobno čekanje."
             ]
           }
         },
@@ -1948,7 +1976,7 @@
             "hu": "A téli buszozás tiszta kilátást nyújt az adriai partvidékre. Délben fedezze fel az óvárost; télen nincs tömeg és jobb a kiszolgálás a helyi kifőzdékben. Délután látogassa meg a sólepárlókat, majd utazzon át Mali Stonba, hogy láthassa a középkori kikötőt a legnyugodtabb arcával. Este melegedjen fel egy bisztróban a buszmegálló közelében a csatlakozásra várva.",
             "ro": "Călătoria cu autobuzul iarna oferă vederi clare asupra coastei adriatice. La prânz, explorați orașul vechi; iarna sunt mai puține mulțimi și servicii mai bune. După-amiaza, vizitați salinele și luați transportul spre Mali Ston pentru a vedea portul medieval în cel mai liniștit sezon. Seara, încălziți-vă într-un bistro lângă stație în timp ce așteptați legătura.",
             "en": "The winter bus trip offers clear views of the Adriatic coastline. Midday, explore the old town; winter means fewer crowds and better service in the local eateries. Afternoon, visit the salt pans and take the transit to Mali Ston to see the medieval harbor in its quietest season. Evening, stay warm in a bistro near the bus stop while waiting for your connection back.",
-            "hr": "Zimsko putovanje autobusom nudi čiste poglede na jadransku obalu. Sredinom dana istražite stari grad; zima znači manje gužve i bolju uslugu u lokalnim restoranima. Poslijepodne posjetite solanu i prevezite se do Malog Stona kako biste vidjeli srednjovjekovnu luku u njenom najmirnijem razdoblju. Večer, ostanite na toplom u bistrou blizu stanice dok čekate svoj povratak."
+            "hr": "Zimska autobusna vožnja nudi jasne poglede na jadransku obalu. U podne istražite staro mjesto; zima znači manje gužve i bolju uslugu u lokalnim restoranima. Poslijepodne posjetite solane i prijeđite u Mali Ston da vidite srednjovjekovnu luku u najmirnijoj sezoni. Navečer, ugrijte se u bistrou blizu autobusnog stajališta dok čekate vezu natrag."
           },
           "stops": [
             {
@@ -1958,7 +1986,7 @@
                 "hu": "Ügyeljen a ritkább menetrendre a téli holtszezonban.",
                 "ro": "Atenție la orarul redus de iarnă în afara sezonului turistic.",
                 "en": "Be aware of the reduced bus frequency during the winter off-season.",
-                "hr": "Budite svjesni smanjene učestalosti autobusa tijekom zimske izvansezone."
+                "hr": "Budite svjesni smanjene frekvencije autobusa tijekom zimske izvansezone."
               }
             },
             {
@@ -1968,7 +1996,7 @@
                 "hu": "A kőfalak télen sugározzák a hideget; öltözzön fel melegen.",
                 "ro": "Zidurile de piatră emană frig iarna; îmbrăcați-vă gros.",
                 "en": "The stone walls radiate cold in winter; dress in warm layers.",
-                "hr": "Kameni zidovi zimi isijavaju hladnoću; odjenite se toplo."
+                "hr": "Kamene zidine zimi zrače hladnoću; slojevito se obucite."
               }
             },
             {
@@ -1988,7 +2016,7 @@
                 "hu": "Kérdezze meg a sofőrt az utolsó visszainduló járatról.",
                 "ro": "Întrebați șoferul despre ultima cursă de întoarcere spre Ston.",
                 "en": "Ask the driver about the last return trip to Ston for the evening.",
-                "hr": "Pitajte vozača o posljednjem povratku u Ston za tu večer."
+                "hr": "Pitajte vozača o posljednjem povratku u Ston za večer."
               }
             }
           ],
@@ -2022,11 +2050,11 @@
               "Wear bright clothing or reflectors when walking to the stop in the dark."
             ],
             "hr": [
-              "Autobusi zimi voze rjeđe; pažljivo planirajte povratak.",
-              "Čekajte u grijanim zatvorenim prostorima umjesto stajanja na stanici.",
-              "Autobusi su obično dobro grijani i udobni tijekom zime.",
-              "Provjerite postoje li popusti na karte izvan sezone.",
-              "Nosite svijetlu odjeću ili reflektirajuće elemente kad hodate do stanice po mraku."
+              "Autobusi voze rjeđe zimi; pažljivo planirajte povratak.",
+              "Čekajte u grijanim unutarnjim prostorima umjesto da stojite na stajalištu.",
+              "Autobusi su obično dobro zagrijani i udobni tijekom zime.",
+              "Provjerite postoje li popusti izvan sezone za karte koji bi mogli biti dostupni.",
+              "Nosite svijetlu odjeću ili reflektirajuće elemente pri hodanju do stajališta po mraku."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Ante Starčević Platz",
             "hu": "Ante Starčević tér",
             "ro": "Piața Ante Starčević",
-            "en": "Ante Starčević Square"
+            "en": "Ante Starčević Square",
+            "hr": "Trg Ante Starčevića"
           },
           "coords": [
             18.6955,
@@ -37,7 +38,8 @@
             "de": "Beginnen Sie den Tag hier mit einem Kaffee und beobachten Sie das Leben der Stadt.",
             "hu": "Kezdje a napot egy kávéval, és figyelje a város ébredését.",
             "ro": "Începeți ziua aici cu o cafea, privind viața orașului.",
-            "en": "Start your day here with a coffee and watch the city life."
+            "en": "Start your day here with a coffee and watch the city life.",
+            "hr": "Započnite dan ovdje kavom i promatrajte gradski život."
           }
         },
         {
@@ -45,7 +47,8 @@
             "de": "Kathedrale St. Peter und Paul",
             "hu": "Szent Péter és Pál-társszékesegyház",
             "ro": "Catedrala Sf. Petru și Pavel",
-            "en": "Co-cathedral of St. Peter and St. Paul"
+            "en": "Co-cathedral of St. Peter and St. Paul",
+            "hr": "Konkatedrala sv. Petra i Pavla"
           },
           "coords": [
             18.695,
@@ -61,7 +64,8 @@
             "de": "Achten Sie auf den beeindruckenden 90 Meter hohen Glockenturm, den höchsten in Slawonien.",
             "hu": "Figyelje meg a lenyűgöző, 90 méter magas harangtornyot, Szlavónia legmagasabbját.",
             "ro": "Observați impresionantul turn clopotniță de 90 de metri, cel mai înalt din Slavonia.",
-            "en": "Note the impressive 90-meter bell tower, the tallest in Slavonia."
+            "en": "Note the impressive 90-meter bell tower, the tallest in Slavonia.",
+            "hr": "Obratite pozornost na impresivan zvonik od 90 metara, najviši u Slavoniji."
           }
         },
         {
@@ -69,7 +73,8 @@
             "de": "Europäische Allee",
             "hu": "Európa sugárút",
             "ro": "Bulevardul European",
-            "en": "European Avenue"
+            "en": "European Avenue",
+            "hr": "Europska avenija"
           },
           "coords": [
             18.705,
@@ -85,7 +90,8 @@
             "de": "Bewundern Sie die prächtigen Jugendstilfassaden der Paläste.",
             "hu": "Csodálja meg a paloták gyönyörű szecessziós homlokzatát.",
             "ro": "Admirați fațadele Art Nouveau magnifice ale palatelor.",
-            "en": "Admire the magnificent Art Nouveau facades of the palaces."
+            "en": "Admire the magnificent Art Nouveau facades of the palaces.",
+            "hr": "Divite se veličanstvenim secesijskim pročeljima palača."
           }
         },
         {
@@ -93,7 +99,8 @@
             "de": "Sakuntala Park",
             "hu": "Sakuntala park",
             "ro": "Parcul Sakuntala",
-            "en": "Sakuntala Park"
+            "en": "Sakuntala Park",
+            "hr": "Park Sakuntala"
           },
           "coords": [
             18.708,
@@ -109,7 +116,8 @@
             "de": "Ein perfekter Ort für eine kurze Pause im Schatten alter Bäume.",
             "hu": "Tökéletes hely egy rövid pihenőre az öreg fák árnyékában.",
             "ro": "Un loc perfect pentru o scurtă pauză la umbra copacilor bătrâni.",
-            "en": "A perfect spot for a short break in the shade of old trees."
+            "en": "A perfect spot for a short break in the shade of old trees.",
+            "hr": "Savršeno mjesto za kratki odmor u hladu starih stabala."
           }
         },
         {
@@ -117,7 +125,8 @@
             "de": "Tvrđa",
             "hu": "Tvrđa (Vár)",
             "ro": "Tvrđa (Fortăreața)",
-            "en": "Tvrđa (The Fortress)"
+            "en": "Tvrđa (The Fortress)",
+            "hr": "Tvrđa"
           },
           "coords": [
             18.715,
@@ -133,7 +142,8 @@
             "de": "Verlieren Sie sich in den gepflasterten Gassen dieses barocken Meisterwerks.",
             "hu": "Vesszen el a macskaköves utcákon ebben a barokk mesterműben.",
             "ro": "Pierdeți-vă pe străduțele pavate ale acestei capodopere baroce.",
-            "en": "Get lost in the cobbled streets of this baroque masterpiece."
+            "en": "Get lost in the cobbled streets of this baroque masterpiece.",
+            "hr": "Izgubite se u kaldrmisanim ulicama ovog baroknog remek-djela."
           }
         },
         {
@@ -141,7 +151,8 @@
             "de": "Museum von Slawonien",
             "hu": "Szlavónia Múzeuma",
             "ro": "Muzeul Slavoniei",
-            "en": "Museum of Slavonia"
+            "en": "Museum of Slavonia",
+            "hr": "Muzej Slavonije"
           },
           "coords": [
             18.716,
@@ -157,7 +168,8 @@
             "de": "Das älteste Museum in Kroatien, ein Muss für Geschichtsliebhaber.",
             "hu": "Horvátország legrégebbi múzeuma, kötelező a történelem kedvelőinek.",
             "ro": "Cel mai vechi muzeu din Croația, un must-see pentru iubitorii de istorie.",
-            "en": "The oldest museum in Croatia, a must-visit for history lovers."
+            "en": "The oldest museum in Croatia, a must-visit for history lovers.",
+            "hr": "Najstariji muzej u Hrvatskoj, nezaobilazno mjesto za ljubitelje povijesti."
           }
         },
         {
@@ -165,7 +177,8 @@
             "de": "Drava-Hängebrücke",
             "hu": "Dráva függőhíd",
             "ro": "Podul suspendat peste Drava",
-            "en": "Drava Pedestrian Bridge"
+            "en": "Drava Pedestrian Bridge",
+            "hr": "Pješački most preko Drave"
           },
           "coords": [
             18.68,
@@ -181,7 +194,8 @@
             "de": "Der beste Ort in Osijek, um den Sonnenuntergang über dem Fluss Drau zu beobachten.",
             "hu": "A legjobb hely Eszéken a naplemente megtekintésére a Dráva felett.",
             "ro": "Cel mai bun loc din Osijek pentru a privi apusul peste râul Drava.",
-            "en": "The best place in Osijek to watch the sunset over the Drava river."
+            "en": "The best place in Osijek to watch the sunset over the Drava river.",
+            "hr": "Najbolje mjesto u Osijeku za gledanje zalaska sunca nad rijekom Dravom."
           }
         }
       ],
@@ -189,7 +203,8 @@
         "de": "Beginnen Sie Ihren Spaziergang am belebten Ante Starčević Platz, dem Herzen von Osijek. Am Vormittag erkunden Sie die hoch aufragende Kathedrale und schlendern die Europäische Allee entlang, gesäumt von prächtigen Jugendstilgebäuden, die in den Sakuntala Park führen. Der Nachmittag ist der barocken Festung Tvrđa gewidmet, wo Sie das Museum von Slawonien besuchen und in die reiche Geschichte der Region eintauchen. Zum Abschluss des Tages spazieren Sie zur Drau-Hängebrücke und genießen einen malerischen Sonnenuntergang, der den Himmel in leuchtende Farben taucht.",
         "hu": "Kezdje sétáját a nyüzsgő Ante Starčević téren, Eszék szívében. A délelőttöt a tornyosuló székesegyház felfedezésével és az Európa sugárúton való sétával tölti, amelyet gyönyörű szecessziós épületek szegélyeznek, és a Sakuntala parkba vezetnek. A délután a barokk Tvrđa erődé, ahol meglátogatja a Szlavónia Múzeumát és elmerül a régió gazdag történelmében. A napot a Dráva gyaloghídhoz sétálva zárja, ahol egy festői naplementében gyönyörködhet, amely vibráló színekkel festi be az eget.",
         "ro": "Începeți plimbarea în Piața plină de viață Ante Starčević, inima orașului Osijek. Dimineața este dedicată explorării catedralei impunătoare și plimbării pe Bulevardul European, flancat de clădiri magnifice Art Nouveau, care duc spre Parcul Sakuntala. După-amiaza este dedicată fortăreței baroce Tvrđa, unde veți vizita Muzeul Slavoniei și vă veți cufunda în istoria bogată a regiunii. Încheiați ziua cu o plimbare până la Podul pietonal Drava pentru a admira un apus de soare pitoresc, care pictează cerul în culori vibrante.",
-        "en": "Start your walking tour in the bustling Ante Starčević Square, the heart of Osijek. The morning is for exploring the towering Co-cathedral and strolling down European Avenue, lined with magnificent Art Nouveau buildings leading to Sakuntala Park. The afternoon is dedicated to the baroque fortress, Tvrđa, where you'll visit the Museum of Slavonia and delve into the region's rich history. End your day with a walk to the Drava Pedestrian Bridge to catch a picturesque sunset painting the sky in vibrant colors."
+        "en": "Start your walking tour in the bustling Ante Starčević Square, the heart of Osijek. The morning is for exploring the towering Co-cathedral and strolling down European Avenue, lined with magnificent Art Nouveau buildings leading to Sakuntala Park. The afternoon is dedicated to the baroque fortress, Tvrđa, where you'll visit the Museum of Slavonia and delve into the region's rich history. End your day with a walk to the Drava Pedestrian Bridge to catch a picturesque sunset painting the sky in vibrant colors.",
+        "hr": "Započnite pješačku turu u užurbanom Trgu Ante Starčevića, srcu Osijeka. Jutro je za razgledavanje impozantne konkatedrale i šetnju Europskom avenijom, koja vodi pored veličanstvenih secesijskih zgrada do parka Sakuntala. Poslijepodne je posvećeno baroknoj Tvrđi, gdje ćete posjetiti Muzej Slavonije i uroniti u bogatu povijest regije. Dan završite šetnjom do pješačkog mosta preko Drave kako biste uhvatili slikoviti zalazak sunca koji nebo oboji živim bojama."
       },
       "gastro_picks": {
         "de": [
@@ -349,6 +364,12 @@
           "Carry a reusable water bottle.",
           "Don't forget your camera, especially for the Art Nouveau architecture and the sunset.",
           "Most central locations are easily reachable on foot."
+        ],
+        "hr": [
+          "Nosite udobnu obuću jer ćete dosta pješačiti.",
+          "Ponesite višekratnu bočicu za vodu.",
+          "Ne zaboravite fotoaparat, posebno za secesijsku arhitekturu i zalazak sunca.",
+          "Većina središnjih lokacija lako je dostupna pješice."
         ]
       },
       "variants": {
@@ -357,7 +378,8 @@
             "de": "Der Morgen beginnt am zentralen Platz unter Regenschirmen, während die secessionistischen Fassaden im nassen Glanz erstrahlen. Mittags bietet die massive Co-Kathedrale eine perfekte trockene Zuflucht. Am Nachmittag erkunden wir die Museen der Festung Tvrđa, um dem Regen zu entkommen. Der Abend endet mit einer atmosphärischen, wenn auch feuchten Überquerung der Drau-Brücke.",
             "hu": "A reggel esernyők alatt indul a főtéren, ahol a szecessziós épületek vizes csillogása különleges hangulatot ad. Délben a monumentális társszékesegyház nyújt száraz menedéket. Délután a vár múzeumaiba húzódunk be az eső elől, felfedezve Szlavónia múltját. Az este a gyalogoshídon zárul, ahol az esőcseppek tükrözik a város esti fényeit.",
             "ro": "Dimineața începe sub umbrele în piața centrală, unde fațadele secesioniste strălucesc în ploaie. La prânz, co-catedrala masivă oferă un refugiu uscat perfect. După-amiaza explorăm muzeele din cetatea Tvrđa pentru a scăpa de vremea rea. Seara se încheie cu o traversare atmosferică, deși umedă, a podului de peste Drava.",
-            "en": "Morning starts under umbrellas at the main square, with secessionist facades shining in the rain. Midday provides a perfect dry refuge inside the massive Co-cathedral. In the afternoon, we retreat into the museums of the Tvrđa fortress to stay dry. The evening ends with an atmospheric, albeit wet, crossing of the Drava pedestrian bridge."
+            "en": "Morning starts under umbrellas at the main square, with secessionist facades shining in the rain. Midday provides a perfect dry refuge inside the massive Co-cathedral. In the afternoon, we retreat into the museums of the Tvrđa fortress to stay dry. The evening ends with an atmospheric, albeit wet, crossing of the Drava pedestrian bridge.",
+            "hr": "Jutro započinje pod kišobranima na glavnom trgu, s blistavim secesijskim pročeljima na kiši. U podne je idealno suho utočište unutar masivne konkatedrale. Poslijepodne se povlačimo u muzeje tvrđe da ostanemo suhi. Večer završava s atmosferičnim, iako mokrim, prijelazom pješačkog mosta preko Drave."
           },
           "stops": [
             {
@@ -366,7 +388,8 @@
                 "de": "Die Cafés rund um den Platz bieten hervorragenden Schutz vor Schauern.",
                 "hu": "A tér körüli kávézók kiváló menedéket nyújtanak a záporok elől.",
                 "ro": "Cafenelele din jurul pieței oferă un adăpost excelent împotriva ploii.",
-                "en": "Cafes around the square offer excellent shelter from the showers."
+                "en": "Cafes around the square offer excellent shelter from the showers.",
+                "hr": "Kafići oko trga nude izvrsno zaklonište od pljuskova."
               }
             },
             {
@@ -375,7 +398,8 @@
                 "de": "Ein idealer Ort, um die Architektur im Trockenen zu bewundern.",
                 "hu": "Ideális hely az építészet megcsodálására szárazon.",
                 "ro": "Un loc ideal pentru a admira arhitectura la adăpost.",
-                "en": "An ideal place to admire architecture while staying dry."
+                "en": "An ideal place to admire architecture while staying dry.",
+                "hr": "Idealno mjesto za divljenje arhitekturi dok ostajete suhi."
               }
             },
             {
@@ -384,7 +408,8 @@
                 "de": "Nutzen Sie die Vordächer der prächtigen Paläste als Regenschutz.",
                 "hu": "Használja a pompás paloták előtetőit eső elleni védelemként.",
                 "ro": "Folosiți arcadele palatelor magnifice ca protecție împotriva ploii.",
-                "en": "Use the overhangs of the grand palaces as rain protection."
+                "en": "Use the overhangs of the grand palaces as rain protection.",
+                "hr": "Iskoristite previse velikih palača kao zaštitu od kiše."
               }
             },
             {
@@ -393,7 +418,8 @@
                 "de": "Die hohen Bäume bieten nur kurzzeitig Schutz; halten Sie den Schirm bereit.",
                 "hu": "A magas fák csak rövid ideig védenek; tartsa készenlétben az esernyőt.",
                 "ro": "Copacii înalți oferă adăpost doar temporar; țineți umbrela pregătită.",
-                "en": "The tall trees offer only temporary shelter; keep your umbrella ready."
+                "en": "The tall trees offer only temporary shelter; keep your umbrella ready.",
+                "hr": "Visoka stabla nude samo privremeni zaklon; držite kišobran pri ruci."
               }
             },
             {
@@ -402,7 +428,8 @@
                 "de": "Vorsicht auf dem Kopfsteinpflaster, es kann bei Nässe sehr rutschig sein.",
                 "hu": "Vigyázat a macskakövön, esőben nagyon csúszós lehet.",
                 "ro": "Atenție pe piatra cubică, poate fi foarte alunecoasă când este udă.",
-                "en": "Careful on the cobblestones, they can be very slippery when wet."
+                "en": "Careful on the cobblestones, they can be very slippery when wet.",
+                "hr": "Pazite na kaldrmu, može biti vrlo klizava kad je mokra."
               }
             },
             {
@@ -411,7 +438,8 @@
                 "de": "Perfekt für eine ausgiebige Besichtigung während eines Regengusses.",
                 "hu": "Tökéletes egy alapos látogatáshoz egy kiadós felhőszakadás idején.",
                 "ro": "Perfect pentru o vizită prelungită în timpul unei ploi torențiale.",
-                "en": "Perfect for an extensive visit during a heavy downpour."
+                "en": "Perfect for an extensive visit during a heavy downpour.",
+                "hr": "Savršeno za opsežan posjet tijekom jake pljuska."
               }
             },
             {
@@ -420,7 +448,8 @@
                 "de": "Der Metallboden kann rutschig sein; gehen Sie vorsichtig.",
                 "hu": "A fém padlózat csúszós lehet; közlekedjen óvatosan.",
                 "ro": "Podeaua metalică poate fi alunecoasă; mergeți cu atenție.",
-                "en": "The metal flooring can be slippery; walk carefully."
+                "en": "The metal flooring can be slippery; walk carefully.",
+                "hr": "Metalne podne obloge mogu biti klizave; hodajte pažljivo."
               }
             }
           ],
@@ -448,6 +477,12 @@
               "The tram is a good alternative to commute dry between the center and Tvrđa.",
               "Schedule museum visits in the fortress during the heaviest rainfalls.",
               "Wear waterproof shoes for the cobblestone streets in the old town."
+            ],
+            "hr": [
+              "Ponesite čvrsti kišobran jer vjetar s Drave može biti prilično jak.",
+              "Tramvaj je dobra alternativa za suho putovanje između centra i Tvrđe.",
+              "Planirajte posjete muzejima u tvrđi tijekom najjačih padalina.",
+              "Nosite vodootpornu obuću zbog kaldrme u starom gradu."
             ]
           }
         },
@@ -456,7 +491,8 @@
             "de": "Morgens weht ein kalter Wind über den leeren Hauptplatz. Die Co-Kathedrale bietet eine andächtige Stille und Schutz vor dem Frost. Nachmittags wärmen wir uns in den Galerien der Tvrđa auf, während draußen der Raureif die Barockgebäude verziert. Der Tag endet früh bei Sonnenuntergang an der Drau, wenn die Winterlichter die Stadt erhellen.",
             "hu": "A reggel fagyos széllel indul az üres főtéren. A társszékesegyház áhítatos csendet és védelmet nyújt a fagy elől. Délután a vár galériáiban melegszünk fel, miközben kint zúzmara díszíti a barokk épületeket. A nap korán, naplementekor ér véget a Drávánál, amikor a téli fények kigyúlnak.",
             "ro": "Dimineața începe cu un vânt rece în piața principală pustie. Co-catedrala oferă o liniște pioasă și protecție împotriva gerului. După-amiaza ne încălzim în galeriile din Tvrđa, în timp ce afară chiciura împodobește clădirile baroce. Ziua se încheie devreme la apus pe Drava, când luminile de iarnă se aprind.",
-            "en": "Morning starts with a cold wind blowing across the empty main square. The Co-cathedral offers a prayerful silence and protection from the frost. In the afternoon, we warm up in the galleries of Tvrđa while hoarfrost decorates the baroque buildings outside. The day ends early at sunset by the Drava, as winter lights illuminate the city."
+            "en": "Morning starts with a cold wind blowing across the empty main square. The Co-cathedral offers a prayerful silence and protection from the frost. In the afternoon, we warm up in the galleries of Tvrđa while hoarfrost decorates the baroque buildings outside. The day ends early at sunset by the Drava, as winter lights illuminate the city.",
+            "hr": "Jutro započinje hladnim vjetrom preko praznog glavnog trga. Konkatedrala nudi molitvenu tišinu i zaštitu od mraza. Poslijepodne se ugrijavamo u galerijama Tvrđe dok osjetna rosa krasi barokne zgrade vani. Dan završava rano na zalasku uz Dravu, dok zimska svjetla osvjetljavaju grad."
           },
           "stops": [
             {
@@ -465,7 +501,8 @@
                 "de": "Gönnen Sie sich einen heißen Tee in einem der beheizten Cafés.",
                 "hu": "Igyon egy forró teát az egyik fűtött kávézóban.",
                 "ro": "Savurați un ceai fierbinte într-una dintre cafenelele încălzite.",
-                "en": "Treat yourself to a hot tea in one of the heated cafes."
+                "en": "Treat yourself to a hot tea in one of the heated cafes.",
+                "hr": "Počastite se toplim čajem u jednom od grijanih kafića."
               }
             },
             {
@@ -474,7 +511,8 @@
                 "de": "Das Innere ist kühler als erwartet; behalten Sie Ihren Mantel an.",
                 "hu": "A belső tér hűvösebb a vártnál; hagyja magán a kabátját.",
                 "ro": "Interiorul este mai răcoros decât vă așteptați; păstrați haina pe dvs.",
-                "en": "The interior is cooler than expected; keep your coat on."
+                "en": "The interior is cooler than expected; keep your coat on.",
+                "hr": "Unutrašnjost je hladnija nego što očekujete; držite kaput na sebi."
               }
             },
             {
@@ -483,7 +521,8 @@
                 "de": "Die Wintersonne steht tief und beleuchtet die Fassaden wunderschön.",
                 "hu": "A téli nap alacsonyan jár, és gyönyörűen megvilágítja a homlokzatokat.",
                 "ro": "Soarele de iarnă este jos și luminează superb fațadele.",
-                "en": "The winter sun is low and illuminates the facades beautifully."
+                "en": "The winter sun is low and illuminates the facades beautifully.",
+                "hr": "Zimsko sunce je nisko i prekrasno osvjetljava pročelja."
               }
             },
             {
@@ -492,7 +531,8 @@
                 "de": "Ein kurzer Spaziergang reicht; die Bänke sind oft gefroren.",
                 "hu": "Egy rövid séta is elég; a padok gyakran fagyottak.",
                 "ro": "O scurtă plimbare este suficientă; băncile sunt adesea înghețate.",
-                "en": "A short walk is enough; the benches are often frozen."
+                "en": "A short walk is enough; the benches are often frozen.",
+                "hr": "Kratka šetnja je dovoljna; klupe su često zaleđene."
               }
             },
             {
@@ -501,7 +541,8 @@
                 "de": "Suchen Sie Schutz in den dicken Mauern der lokalen Gaststätten.",
                 "hu": "Keressen menedéket a helyi vendéglők vastag falai között.",
                 "ro": "Căutați adăpost între zidurile groase ale restaurantelor locale.",
-                "en": "Seek shelter within the thick walls of the local eateries."
+                "en": "Seek shelter within the thick walls of the local eateries.",
+                "hr": "Potražite zaklon unutar debelih zidova lokalnih gostionica."
               }
             },
             {
@@ -510,7 +551,8 @@
                 "de": "Die beste Zeit, um die Innenräume ausführlich zu erkunden.",
                 "hu": "A legjobb idő a belső terek alapos felfedezésére.",
                 "ro": "Cel mai bun moment pentru a explora interiorul în detaliu.",
-                "en": "The best time to explore the interiors in detail."
+                "en": "The best time to explore the interiors in detail.",
+                "hr": "Najbolje vrijeme za detaljno razgledavanje interijera."
               }
             },
             {
@@ -519,7 +561,8 @@
                 "de": "Sehr windig im Winter; ziehen Sie Schal und Handschuhe fest an.",
                 "hu": "Télen nagyon szeles; húzza szorosra a sálat és a kesztyűt.",
                 "ro": "Foarte vântos iarna; strângeți bine fularul și mănușile.",
-                "en": "Very windy in winter; tighten your scarf and gloves."
+                "en": "Very windy in winter; tighten your scarf and gloves.",
+                "hr": "Zimi je vrlo vjetrovito; stegnite šal i rukavice."
               }
             }
           ],
@@ -547,6 +590,12 @@
               "Dress in layers as it is freezing outside but warm in museums.",
               "The Drava riverside promenade is especially drafty in winter.",
               "Watch out for black ice on the bridges and cobblestones."
+            ],
+            "hr": [
+              "Zalazak je oko 16:30 zimi; planirajte aktivnosti na otvorenom rano.",
+              "Obucite se u slojevima jer je napolju smrznuto, a u muzejima toplo.",
+              "Šetnica uz Dravu posebno je prohladna zimi.",
+              "Pazite na crni led na mostovima i kaldrmi."
             ]
           }
         }
@@ -565,7 +614,8 @@
             "de": "Osijek Zoo",
             "hu": "Eszéki Állatkert",
             "ro": "Grădina Zoologică Osijek",
-            "en": "Osijek Zoo"
+            "en": "Osijek Zoo",
+            "hr": "Zoološki vrt Osijek"
           },
           "coords": [
             18.675,
@@ -581,7 +631,8 @@
             "de": "Einer der größten Zoos in Kroatien, direkt am Ufer der Drau.",
             "hu": "Horvátország egyik legnagyobb állatkertje, közvetlenül a Dráva partján.",
             "ro": "Una dintre cele mai mari grădini zoologice din Croația, situată chiar pe malul Dravei.",
-            "en": "One of the largest zoos in Croatia, located right on the bank of the Drava river."
+            "en": "One of the largest zoos in Croatia, located right on the bank of the Drava river.",
+            "hr": "Jedan od najvećih zooloških vrtova u Hrvatskoj, smješten uz obalu rijeke Drave."
           }
         },
         {
@@ -589,7 +640,8 @@
             "de": "Drava-Hängebrücke",
             "hu": "Dráva függőhíd",
             "ro": "Podul suspendat peste Drava",
-            "en": "Drava Pedestrian Bridge"
+            "en": "Drava Pedestrian Bridge",
+            "hr": "Pješački most preko Drave"
           },
           "coords": [
             18.68,
@@ -605,7 +657,8 @@
             "de": "Überqueren Sie die Brücke für eine tolle Aussicht auf die Stadt und den Fluss.",
             "hu": "Menjen át a hídon a városra és a folyóra nyíló nagyszerű kilátásért.",
             "ro": "Traversați podul pentru o priveliște minunată asupra orașului și a râului.",
-            "en": "Cross the bridge for a great view of the city and the river."
+            "en": "Cross the bridge for a great view of the city and the river.",
+            "hr": "Prijeđite most za izvrstan pogled na grad i rijeku."
           }
         },
         {
@@ -613,7 +666,8 @@
             "de": "Tvrđa",
             "hu": "Tvrđa (Vár)",
             "ro": "Tvrđa (Fortăreața)",
-            "en": "Tvrđa (The Fortress)"
+            "en": "Tvrđa (The Fortress)",
+            "hr": "Tvrđa"
           },
           "coords": [
             18.715,
@@ -629,7 +683,8 @@
             "de": "Stellen Sie Ihr Fahrrad ab und erkunden Sie die Festung zu Fuß. Mittagessen hier!",
             "hu": "Parkolja le a biciklit és fedezze fel gyalog az erődöt. Ebédeljen itt!",
             "ro": "Parcați bicicleta și explorați cetatea pe jos. Luați prânzul aici!",
-            "en": "Park your bike and explore the fortress on foot. Have lunch here!"
+            "en": "Park your bike and explore the fortress on foot. Have lunch here!",
+            "hr": "Ostavite bicikl i istražite tvrđu pješice. Ovdje ručajte!"
           }
         },
         {
@@ -637,7 +692,8 @@
             "de": "Museum von Slawonien",
             "hu": "Szlavónia Múzeuma",
             "ro": "Muzeul Slavoniei",
-            "en": "Museum of Slavonia"
+            "en": "Museum of Slavonia",
+            "hr": "Muzej Slavonije"
           },
           "coords": [
             18.716,
@@ -653,7 +709,8 @@
             "de": "Befindet sich innerhalb der Festungsmauern, ein einfacher Spaziergang nach dem Mittagessen.",
             "hu": "Az erőd falain belül található, egy könnyű séta ebéd után.",
             "ro": "Situat în interiorul zidurilor cetății, o plimbare ușoară după prânz.",
-            "en": "Located within the fortress walls, an easy walk after lunch."
+            "en": "Located within the fortress walls, an easy walk after lunch.",
+            "hr": "Smešten unutar zidina tvrđe, lagana šetnja nakon ručka."
           }
         },
         {
@@ -661,7 +718,8 @@
             "de": "Kathedrale St. Peter und Paul",
             "hu": "Szent Péter és Pál-társszékesegyház",
             "ro": "Catedrala Sf. Petru și Pavel",
-            "en": "Co-cathedral of St. Peter and St. Paul"
+            "en": "Co-cathedral of St. Peter and St. Paul",
+            "hr": "Konkatedrala sv. Petra i Pavla"
           },
           "coords": [
             18.695,
@@ -677,7 +735,8 @@
             "de": "Ein atemberaubendes neugotisches Wahrzeichen. Schließen Sie Ihr Fahrrad sicher ab.",
             "hu": "Lenyűgöző neogótikus épület. Zárja le biztonságosan a kerékpárját.",
             "ro": "Un reper neo-gotic uimitor. Asigurați-vă bicicleta bine.",
-            "en": "A stunning neo-Gothic landmark. Lock your bike securely."
+            "en": "A stunning neo-Gothic landmark. Lock your bike securely.",
+            "hr": "Zapanjujući neogotički orijentir. Sigurno zaključajte bicikl."
           }
         },
         {
@@ -685,7 +744,8 @@
             "de": "Ante Starčević Platz",
             "hu": "Ante Starčević tér",
             "ro": "Piața Ante Starčević",
-            "en": "Ante Starčević Square"
+            "en": "Ante Starčević Square",
+            "hr": "Trg Ante Starčevića"
           },
           "coords": [
             18.6955,
@@ -701,7 +761,8 @@
             "de": "Beenden Sie Ihre Radtour mit einem wohlverdienten Drink in einem der vielen Cafés.",
             "hu": "Fejezze be a kerékpártúrát egy jól megérdemelt itallal a számos kávézó egyikében.",
             "ro": "Încheiați turul cu bicicleta cu o băutură binemeritată la una dintre numeroasele cafenele.",
-            "en": "End your bike tour with a well-deserved drink at one of the many cafes."
+            "en": "End your bike tour with a well-deserved drink at one of the many cafes.",
+            "hr": "Završite biciklističku turu zasluženim pićem u jednom od brojnih kafića."
           }
         }
       ],
@@ -709,7 +770,8 @@
         "de": "Starten Sie Ihr Fahrradabenteuer im Zoo von Osijek am Drauufer. Am Vormittag überqueren Sie die malerische Fußgängerbrücke und radeln zur historischen Festung Tvrđa, wo Sie zum Mittagessen anhalten. Am Nachmittag tauchen Sie im Museum von Slawonien in die Geschichte ein, bevor Sie ins Stadtzentrum radeln, um die beeindruckende Kathedrale zu bewundern. Beenden Sie den Tag auf dem Ante Starčević Platz, wo Sie sich bei einem erfrischenden Getränk entspannen und die Atmosphäre der Stadt auf sich wirken lassen.",
         "hu": "Kezdje kerékpáros kalandját az eszéki állatkertben, a Dráva partján. Délelőtt átkel a festői gyaloghídon, majd a történelmi Tvrđa erődhöz teker, ahol megáll ebédelni. Délután a Szlavónia Múzeumában merül el a történelemben, mielőtt a városközpontba biciklizik, hogy megcsodálja a lenyűgöző székesegyházat. A napot az Ante Starčević téren zárja, ahol egy frissítő ital mellett pihenhet, és magába szívhatja a város hangulatát.",
         "ro": "Începeți aventura pe bicicletă la Grădina Zoologică din Osijek, pe malul râului Drava. Dimineața veți traversa podul pietonal pitoresc și veți pedala spre fortăreața istorică Tvrđa, unde vă veți opri pentru prânz. După-amiaza, pătrundeți în istorie la Muzeul Slavoniei înainte de a pedala spre centrul orașului pentru a admira catedrala impunătoare. Încheiați ziua în Piața Ante Starčević, relaxându-vă cu o băutură răcoritoare și absorbind atmosfera orașului.",
-        "en": "Start your bike adventure at the Osijek Zoo on the Drava riverbank. In the morning, you'll cross the scenic pedestrian bridge and cycle to the historic Tvrđa fortress where you'll stop for lunch. In the afternoon, dive into history at the Museum of Slavonia before cycling to the city center to admire the impressive Co-cathedral. End your day at Ante Starčević Square, relaxing with a refreshing drink and soaking up the city's atmosphere."
+        "en": "Start your bike adventure at the Osijek Zoo on the Drava riverbank. In the morning, you'll cross the scenic pedestrian bridge and cycle to the historic Tvrđa fortress where you'll stop for lunch. In the afternoon, dive into history at the Museum of Slavonia before cycling to the city center to admire the impressive Co-cathedral. End your day at Ante Starčević Square, relaxing with a refreshing drink and soaking up the city's atmosphere.",
+        "hr": "Započnite biciklističku avanturu u Zoološkom vrtu Osijek na obali Drave. Ujutro ćete prijeći slikoviti pješački most i voziti se do povijesne Tvrđe gdje ćete stati na ručak. Poslijepodne zaronite u povijest u Muzeju Slavonije prije vožnje prema gradskom središtu da biste se divili impresivnoj konkatedrali. Dan završite na Trgu Ante Starčevića, opuštajući se uz osvježavajuće piće i upijajući gradski ugođaj."
       },
       "gastro_picks": {
         "de": [
@@ -869,6 +931,12 @@
           "Osijek is very bike-friendly, make use of the designated bike lanes.",
           "Bring a strong lock for the cathedral and museum visits.",
           "The paths along the Drava are flat and suitable for all fitness levels."
+        ],
+        "hr": [
+          "Provjerite tlak u gumama prije polaska.",
+          "Osijek je vrlo prijateljski prema biciklistima, iskoristite označene biciklističke trake.",
+          "Ponesite jak sigurnosni lokot za posjete katedrali i muzejima.",
+          "Staze uz Dravu su ravne i prikladne za sve razine kondicije."
         ]
       },
       "variants": {
@@ -877,7 +945,8 @@
             "de": "Regnerisches Radeln durch den Zoo, wo die Pfade matschig sein können. Über die Drau-Brücke peitscht der Wind, während wir zur Festung eilen. In der Tvrđa finden wir im Museum Schutz für Geist und Rad. Die Rückkehr zum Hauptplatz erfordert volle Konzentration auf dem nassen Pflaster.",
             "hu": "Esős bringázás az állatkertben, ahol az utak sárosak lehetnek. A Dráva-hídon átvágva tép a szél, miközben a vár felé sietünk. A várban a múzeum nyújt menedéket a szellemnek és a bringának is. A főtérre való visszatérés teljes koncentrációt igényel a vizes aszfalton.",
             "ro": "Ciclism prin ploaie la grădina zoologică, unde potecile pot fi noroioase. Vântul bate cu putere pe podul peste Drava în timp ce grăbim spre cetate. În Tvrđa, găsim adăpost în muzeu pentru spirit și bicicletă. Întoarcerea în piața centrală necesită concentrare maximă pe asfaltul ud.",
-            "en": "Rainy cycling through the zoo, where paths can be muddy. The wind whips across the Drava bridge as we rush toward the fortress. In Tvrđa, the museum provides shelter for both mind and bike. Returning to the main square requires full concentration on the wet pavement."
+            "en": "Rainy cycling through the zoo, where paths can be muddy. The wind whips across the Drava bridge as we rush toward the fortress. In Tvrđa, the museum provides shelter for both mind and bike. Returning to the main square requires full concentration on the wet pavement.",
+            "hr": "Kišovito bicikliranje kroz zoološki vrt gdje staze mogu biti blatne. Vjetar šiba preko Dravskog mosta dok jurimo prema tvrđi. U Tvrđi muzej pruža utočište i za um i za bicikl. Povratak na glavni trg zahtijeva potpunu koncentraciju zbog mokrog kolnika."
           },
           "stops": [
             {
@@ -886,7 +955,8 @@
                 "de": "Vorsicht auf den unbefestigten Wegen; sie können sehr schlammig sein.",
                 "hu": "Vigyázat a nem aszfaltozott utakon; nagyon sárosak lehetnek.",
                 "ro": "Atenție pe drumurile neasfaltate; pot fi foarte noroioase.",
-                "en": "Careful on unpaved paths; they can be very muddy."
+                "en": "Careful on unpaved paths; they can be very muddy.",
+                "hr": "Pazite na neasfaltirane staze; mogu biti vrlo blatne."
               }
             },
             {
@@ -895,7 +965,8 @@
                 "de": "Fahren Sie langsam; die Metallplatten sind bei Regen tückisch.",
                 "hu": "Hajtson lassan; a fémlapok esőben csalókák.",
                 "ro": "Mergeți încet; plăcile metalice sunt înșelătoare pe ploaie.",
-                "en": "Ride slowly; the metal plates are treacherous in the rain."
+                "en": "Ride slowly; the metal plates are treacherous in the rain.",
+                "hr": "Vozite polako; metalne ploče su opasne po kiši."
               }
             },
             {
@@ -904,7 +975,8 @@
                 "de": "Das Kopfsteinpflaster ist für schmale Reifen bei Nässe gefährlich.",
                 "hu": "A macskakő vizesen veszélyes a keskeny gumiknak.",
                 "ro": "Piatra cubică este periculoasă pentru anvelopele înguste când este udă.",
-                "en": "The cobblestones are dangerous for narrow tires when wet."
+                "en": "The cobblestones are dangerous for narrow tires when wet.",
+                "hr": "Kaldrma je opasna za uske gume kad je mokra."
               }
             },
             {
@@ -913,7 +985,8 @@
                 "de": "Fragen Sie nach einem überdachten Platz zum Abstellen Ihres Rades.",
                 "hu": "Kérdezzen rá a fedett kerékpártárolóra.",
                 "ro": "Întrebați despre un loc acoperit pentru a lăsa bicicleta.",
-                "en": "Ask about a covered spot to park your bike."
+                "en": "Ask about a covered spot to park your bike.",
+                "hr": "Pitajte ima li pokriveno mjesto za parkiranje bicikla."
               }
             },
             {
@@ -922,7 +995,8 @@
                 "de": "Nutzen Sie den Halt für eine kurze Trockenpause im Inneren.",
                 "hu": "Használja ki a megállót egy rövid benti száradásra.",
                 "ro": "Folosiți oprirea pentru o scurtă pauză de uscare în interior.",
-                "en": "Use the stop for a short drying break inside."
+                "en": "Use the stop for a short drying break inside.",
+                "hr": "Iskoristite stajanje za kratko sušenje unutra."
               }
             },
             {
@@ -931,7 +1005,8 @@
                 "de": "Beenden Sie die Tour vorsichtig; bremsen Sie frühzeitig auf Fliesen.",
                 "hu": "Óvatosan fejezze be a túrát; fékezzen időben a kövön.",
                 "ro": "Încheiați turul cu atenție; frânați din timp pe plăcile de piatră.",
-                "en": "Finish the tour carefully; brake early on the stone tiles."
+                "en": "Finish the tour carefully; brake early on the stone tiles.",
+                "hr": "Završite turu pažljivo; kočite rano na kamenim pločama."
               }
             }
           ],
@@ -959,6 +1034,12 @@
               "Wear a full rain jacket and rain trousers.",
               "Avoid puddles as they can hide deep potholes.",
               "Mudguards are essential in this weather in Osijek."
+            ],
+            "hr": [
+              "Provjerite kočnice; mokri obruči znatno povećavaju zaustavni put.",
+              "Nosite kompletnu kabanicu i vodootporne hlače.",
+              "Izbjegavajte bare jer mogu skrivati duboke rupe.",
+              "Blatobrani su neophodni u ovakvom vremenu u Osijeku."
             ]
           }
         },
@@ -967,7 +1048,8 @@
             "de": "Eine frostige Fahrt zum Zoo, wo die Tiere im Winterpelz warten. Der Wind auf der Brücke schneidet ins Gesicht, aber der Blick auf die vereiste Drau ist spektakulär. Die Tvrđa bietet warme Museen als Zwischenstopp. Die Rückfahrt zum beleuchteten Zentrum erfolgt in der frühen Dämmerung.",
             "hu": "Fagyos tekerés az állatkertig, ahol az állatok téli bundában várnak. A hídon az arcunkba vág a szél, de a jeges Dráva látványa pazar. A vár meleg múzeumai jó pihenőhelyek. A visszautat a kivilágított központba már a korai szürkületben tesszük meg.",
             "ro": "O cursă geroasă până la grădina zoologică, unde animalele așteaptă în blană de iarnă. Vântul de pe pod ne bate în față, dar vederea Dravei înghețate este superbă. Cetatea oferă muzee calde ca puncte de oprire. Întoarcerea spre centrul iluminat are loc în amurgul timpuriu.",
-            "en": "A frosty ride to the zoo, where animals wait in their winter coats. The wind on the bridge bites the face, but the view of the icy Drava is spectacular. Tvrđa offers warm museums as stopping points. The ride back to the lit center takes place in the early twilight."
+            "en": "A frosty ride to the zoo, where animals wait in their winter coats. The wind on the bridge bites the face, but the view of the icy Drava is spectacular. Tvrđa offers warm museums as stopping points. The ride back to the lit center takes place in the early twilight.",
+            "hr": "Mrazna vožnja do zoološkog vrta, gdje životinje čekaju u zimskim krznima. Vjetar na mostu grize za lice, ali je pogled na ledenu Dravu spektakularan. Tvrđa nudi tople muzeje kao mjesta za odmor. Povratak do osvijetljenog centra odvija se u ranom sumraku."
           },
           "stops": [
             {
@@ -976,7 +1058,8 @@
                 "de": "Die Wege können vereist sein; fahren Sie mit niedrigem Reifendruck.",
                 "hu": "Az utak jegesek lehetnek; hajtson alacsonyabb guminyomással.",
                 "ro": "Drumurile pot fi înghețate; mergeți cu o presiune mai mică în pneuri.",
-                "en": "Paths can be icy; ride with lower tire pressure."
+                "en": "Paths can be icy; ride with lower tire pressure.",
+                "hr": "Staze mogu biti zaleđene; vozite s nešto manjim tlakom u gumama."
               }
             },
             {
@@ -985,7 +1068,8 @@
                 "de": "Extreme Windkälte hier; halten Sie den Lenker fest.",
                 "hu": "Extrém szélhideg van itt; fogja erősen a kormányt.",
                 "ro": "Vânt extrem de rece aici; țineți bine ghidonul.",
-                "en": "Extreme wind chill here; hold the handlebars firmly."
+                "en": "Extreme wind chill here; hold the handlebars firmly.",
+                "hr": "Oštri osjećaj hladnoće od vjetra; čvrsto držite upravljač."
               }
             },
             {
@@ -994,7 +1078,8 @@
                 "de": "Das Kopfsteinpflaster hält die Kälte; Ihre Füße werden schnell auskühlen.",
                 "hu": "A macskakő tartja a hideget; a lábai gyorsan áthűlnek.",
                 "ro": "Piatra cubică reține frigul; picioarele vi se vor răci repede.",
-                "en": "The cobblestones hold the cold; your feet will cool down quickly."
+                "en": "The cobblestones hold the cold; your feet will cool down quickly.",
+                "hr": "Kocke na pločniku zadržavaju hladnoću; stopala će vam brzo ohladiti."
               }
             },
             {
@@ -1003,7 +1088,8 @@
                 "de": "Tauen Sie hier Ihre Finger auf, bevor Sie weiterfahren.",
                 "hu": "Itt olvassza ki az ujjait, mielőtt tovább indulna.",
                 "ro": "Dezghețați-vă degetele aici înainte de a pleca mai departe.",
-                "en": "Thaw out your fingers here before riding on."
+                "en": "Thaw out your fingers here before riding on.",
+                "hr": "Odmrznite prste ovdje prije nastavka vožnje."
               }
             },
             {
@@ -1012,7 +1098,8 @@
                 "de": "Stellen Sie das Rad sicher ab; Metallständer können festfrieren.",
                 "hu": "Támassza le biztosan a bringát; a fémtámaszok odafagyhatnak.",
                 "ro": "Parcați bicicleta în siguranță; suporturile metalice pot îngheța.",
-                "en": "Park the bike securely; metal stands can freeze over."
+                "en": "Park the bike securely; metal stands can freeze over.",
+                "hr": "Parkirajte bicikl sigurno; metalni stalci mogu se zalijepiti od leda."
               }
             },
             {
@@ -1021,7 +1108,8 @@
                 "de": "Die Fliesen am Platz sind im Winter oft glatt.",
                 "hu": "A tér kövei télen gyakran csúszósak.",
                 "ro": "Plăcile din piață sunt adesea alunecoase iarna.",
-                "en": "The tiles on the square are often slippery in winter."
+                "en": "The tiles on the square are often slippery in winter.",
+                "hr": "Pločice na trgu često su skliske zimi."
               }
             }
           ],
@@ -1049,6 +1137,12 @@
               "Ensure your bike lights are working for the early darkness.",
               "Avoid sudden steering movements on potentially icy surfaces.",
               "A warm tea in Tvrđa is mandatory for winter cyclists."
+            ],
+            "hr": [
+              "Nosite termo rukavice i vjetrootpornu masku.",
+              "Provjerite rade li vam svjetla na biciklu zbog ranog sumraka.",
+              "Izbjegavajte nagle pokrete upravljačem na potencijalno zaleđenim površinama.",
+              "Topli čaj u Tvrđi je obavezan za zimске bicikliste."
             ]
           }
         }
@@ -1067,7 +1161,8 @@
             "de": "Osijek Zoo",
             "hu": "Eszéki Állatkert",
             "ro": "Grădina Zoologică Osijek",
-            "en": "Osijek Zoo"
+            "en": "Osijek Zoo",
+            "hr": "Osječki zoo"
           },
           "coords": [
             18.675,
@@ -1083,7 +1178,8 @@
             "de": "Beginnen Sie hier, es gibt genügend Parkplätze. Der Zoo liegt gegenüber der Stadt am Fluss.",
             "hu": "Kezdje itt, rengeteg a parkolóhely. Az állatkert a folyó túlpartján, a várossal szemben található.",
             "ro": "Începeți aici, există o parcare amplă. Grădina zoologică este vizavi de oraș, peste râu.",
-            "en": "Start here as parking is ample. The zoo is located across the river from the city."
+            "en": "Start here as parking is ample. The zoo is located across the river from the city.",
+            "hr": "Počnite ovdje jer ima dovoljno parkirnog mjesta. Zoo se nalazi preko rijeke od grada."
           }
         },
         {
@@ -1091,7 +1187,8 @@
             "de": "Tvrđa",
             "hu": "Tvrđa (Vár)",
             "ro": "Tvrđa (Fortăreața)",
-            "en": "Tvrđa (The Fortress)"
+            "en": "Tvrđa (The Fortress)",
+            "hr": "Tvrđa"
           },
           "coords": [
             18.715,
@@ -1107,7 +1204,8 @@
             "de": "Fahren Sie nach Tvrđa und parken Sie Ihr Auto für den nächsten Teil des Tages. Suchen Sie nach Parkplätzen außerhalb der Haupttore.",
             "hu": "Vezessen a Tvrđába, és parkolja le az autót a nap következő részére. Keressen parkolót a főkapukon kívül.",
             "ro": "Conduceți spre Tvrđa și parcați mașina pentru următoarea parte a zilei. Căutați parcare în afara porților principale.",
-            "en": "Drive to Tvrđa and park your car for the next part of the day. Look for parking outside the main gates."
+            "en": "Drive to Tvrđa and park your car for the next part of the day. Look for parking outside the main gates.",
+            "hr": "Dođite autom do Tvrđe i parkirajte za sljedeći dio dana. Tražite parkiralište izvan glavnih vrata."
           }
         },
         {
@@ -1115,7 +1213,8 @@
             "de": "Museum von Slawonien",
             "hu": "Szlavónia Múzeuma",
             "ro": "Muzeul Slavoniei",
-            "en": "Museum of Slavonia"
+            "en": "Museum of Slavonia",
+            "hr": "Muzej Slavonije"
           },
           "coords": [
             18.716,
@@ -1131,7 +1230,8 @@
             "de": "Ein kurzer Spaziergang vom Parkplatz aus. Hier können Sie auch zu Mittag essen.",
             "hu": "Rövid séta a parkolótól. Itt ebédelhet is.",
             "ro": "O scurtă plimbare de la locul de parcare. Puteți lua și prânzul aici.",
-            "en": "A short walk from where you parked. You can also have lunch around here."
+            "en": "A short walk from where you parked. You can also have lunch around here.",
+            "hr": "Kratka šetnja od mjesta gdje ste parkirali. Ovdje se možete i ručati."
           }
         },
         {
@@ -1139,7 +1239,8 @@
             "de": "Europäische Allee",
             "hu": "Európa sugárút",
             "ro": "Bulevardul European",
-            "en": "European Avenue"
+            "en": "European Avenue",
+            "hr": "Europska avenija"
           },
           "coords": [
             18.705,
@@ -1155,7 +1256,8 @@
             "de": "Machen Sie auf dem Weg zurück zum Stadtzentrum einen Spaziergang entlang dieser Allee.",
             "hu": "Sétáljon végig ezen a sugárúton a városközpont felé vezető úton.",
             "ro": "Faceți o plimbare pe acest bulevard în drum spre centrul orașului.",
-            "en": "Take a stroll down this avenue on your walk towards the city center."
+            "en": "Take a stroll down this avenue on your walk towards the city center.",
+            "hr": "Prošećite ovom avenijom u smjeru centra grada."
           }
         },
         {
@@ -1163,7 +1265,8 @@
             "de": "Kathedrale St. Peter und Paul",
             "hu": "Szent Péter és Pál-társszékesegyház",
             "ro": "Catedrala Sf. Petru și Pavel",
-            "en": "Co-cathedral of St. Peter and St. Paul"
+            "en": "Co-cathedral of St. Peter and St. Paul",
+            "hr": "Konkatedrala sv. Petra i Pavla"
           },
           "coords": [
             18.695,
@@ -1179,7 +1282,8 @@
             "de": "Fahren Sie ins Zentrum. Das Parken kann eine Herausforderung sein; suchen Sie nach gebührenpflichtigen Parkplätzen.",
             "hu": "Vezessen a központba. A parkolás kihívást jelenthet; keressen fizetős parkolókat.",
             "ro": "Conduceți spre centru. Parcarea poate fi o provocare; căutați parcări cu plată.",
-            "en": "Drive to the center. Parking can be a challenge; look for paid parking lots."
+            "en": "Drive to the center. Parking can be a challenge; look for paid parking lots.",
+            "hr": "Vozite do centra. Parkiranje može biti izazov; tražite naplatna parkirališta."
           }
         },
         {
@@ -1187,7 +1291,8 @@
             "de": "Ante Starčević Platz",
             "hu": "Ante Starčević tér",
             "ro": "Piața Ante Starčević",
-            "en": "Ante Starčević Square"
+            "en": "Ante Starčević Square",
+            "hr": "Trg Ante Starčevića"
           },
           "coords": [
             18.6955,
@@ -1203,7 +1308,8 @@
             "de": "Das Herz der Stadt, nur einen Steinwurf von der Kathedrale entfernt.",
             "hu": "A város szíve, egy kőhajításnyira a székesegyháztól.",
             "ro": "Inima orașului, la o aruncătură de băț de catedrală.",
-            "en": "The heart of the city, just a stone's throw from the cathedral."
+            "en": "The heart of the city, just a stone's throw from the cathedral.",
+            "hr": "Srce grada, samo kamen udaljeno od katedrale."
           }
         },
         {
@@ -1211,7 +1317,8 @@
             "de": "Drava-Hängebrücke",
             "hu": "Dráva függőhíd",
             "ro": "Podul suspendat peste Drava",
-            "en": "Drava Pedestrian Bridge"
+            "en": "Drava Pedestrian Bridge",
+            "hr": "Pješački most preko Drave"
           },
           "coords": [
             18.68,
@@ -1227,7 +1334,8 @@
             "de": "Lassen Sie Ihr Auto geparkt und machen Sie einen Spaziergang zur Brücke, um den Tag ausklingen zu lassen.",
             "hu": "Hagyja leparkolva az autót, és sétáljon el a hídhoz a nap lezárásaként.",
             "ro": "Lăsați mașina parcată și faceți o plimbare până la pod pentru a încheia ziua.",
-            "en": "Leave your car parked and take a walk to the bridge to end the day."
+            "en": "Leave your car parked and take a walk to the bridge to end the day.",
+            "hr": "Ostavite auto parkiran i prošetajte do mosta da završite dan."
           }
         }
       ],
@@ -1235,7 +1343,8 @@
         "de": "Beginnen Sie Ihren Tag im Zoo von Osijek, der leicht mit dem Auto zu erreichen ist. Nach dem Zoobesuch fahren Sie zur historischen Festung Tvrđa. Parken Sie Ihr Auto und verbringen Sie den Mittag damit, die Festung, das Museum von Slawonien zu erkunden und die Jugendstil-Architektur der Europäischen Allee zu bewundern. Am Nachmittag fahren Sie ins Stadtzentrum, besuchen die prächtige Kathedrale und den Hauptplatz. Beenden Sie den Tag mit einem entspannten Spaziergang zur Drau-Hängebrücke, um den Sonnenuntergang zu genießen.",
         "hu": "Kezdje a napot az eszéki állatkertben, amely autóval könnyen megközelíthető. Az állatkerti látogatás után vezessen a történelmi Tvrđa erődhöz. Parkolja le az autót, és töltse a déli órákat az erőd, a Szlavónia Múzeuma felfedezésével és az Európa sugárút szecessziós építészetének csodálásával. Délután vezessen be a városközpontba, látogassa meg a csodálatos székesegyházat és a főteret. A napot egy pihentető sétával zárja a Dráva gyaloghídhoz, hogy élvezze a naplementét.",
         "ro": "Începeți ziua la Grădina Zoologică din Osijek, ușor accesibilă cu mașina. După vizita la zoo, conduceți spre fortăreața istorică Tvrđa. Parcați mașina și petreceți amiaza explorând cetatea, Muzeul Slavoniei și admirând arhitectura Art Nouveau de pe Bulevardul European. După-amiaza, conduceți spre centrul orașului, vizitați magnifica catedrală și piața principală. Încheiați ziua cu o plimbare relaxantă la Podul pietonal Drava pentru a vă bucura de apus.",
-        "en": "Start your day at the Osijek Zoo, easily accessible by car. After the zoo visit, drive to the historic Tvrđa fortress. Park your car and spend midday exploring the fortress, the Museum of Slavonia, and admiring the Art Nouveau architecture of the European Avenue on foot. In the afternoon, drive to the city center, visit the magnificent Co-cathedral and the main square. End your day with a relaxing walk to the Drava Pedestrian Bridge to enjoy the sunset."
+        "en": "Start your day at the Osijek Zoo, easily accessible by car. After the zoo visit, drive to the historic Tvrđa fortress. Park your car and spend midday exploring the fortress, the Museum of Slavonia, and admiring the Art Nouveau architecture of the European Avenue on foot. In the afternoon, drive to the city center, visit the magnificent Co-cathedral and the main square. End your day with a relaxing walk to the Drava Pedestrian Bridge to enjoy the sunset.",
+        "hr": "Započnite dan u Osječkom zoo-u, lako dostupnom automobilom. Nakon posjete zoo-u, vozite do povijesne Tvrđe. Parkirajte auto i poslijepodne istražujte tvrđavu, Muzej Slavonije i divite se secesijskoj arhitekturi Europske avenije pješice. Poslijepodne se vozite do centra, posjetite raskošnu konkatedralu i glavni trg. Dan završite opuštajućom šetnjom do pješačkog mosta preko Drave kako biste uživali u zalasku sunca."
       },
       "gastro_picks": {
         "de": [
@@ -1395,6 +1504,12 @@
           "Be mindful of parking zones and pay the fees to avoid tickets.",
           "A car gives you the flexibility to visit nearby attractions like Kopački Rit.",
           "Plan your route to avoid rush hour traffic."
+        ],
+        "hr": [
+          "Parkiranje je općenito jednostavno u Osijeku, posebno izvan samog centra.",
+          "Pazite na zone parkiranja i platite pristojbe kako biste izbjegli kazne.",
+          "Automobil vam daje fleksibilnost za posjete obližnjim atrakcijama poput Kopačkog rita.",
+          "Isplanirajte rutu kako biste izbjegli prometne gužve u špici."
         ]
       },
       "variants": {
@@ -1403,7 +1518,8 @@
             "de": "Bequeme Fahrt zum Zoo, während der Regen gegen die Scheiben trommelt. Wir parken nah an der Tvrđa, um die nassen Wege zu minimieren. Die europäischen Alleen wirken im Regen elegant und melancholisch. Der Tag endet an der Brücke, wobei wir den Wagen im Trockenen verlassen, sobald der Schauer nachlässt.",
             "hu": "Kényelmes autózás az állatkertig, miközben az eső veri az ablakot. A várhoz közel parkolunk, hogy minimalizáljuk a vizes gyalogutat. Az Európai sugárút elegáns és melankolikus az esőben. A nap a hídnál zárul, ahol csak a zápor elvonultával hagyjuk el a száraz utasteret.",
             "ro": "Cursă confortabilă spre grădina zoologică în timp ce ploaia bate în geamuri. Parcăm aproape de cetate pentru a minimiza mersul prin ploaie. Bulevardul European pare elegant și melancolic în ploaie. Ziua se încheie la pod, părăsind mașina doar când ploaia se mai potolește.",
-            "en": "Comfortable drive to the zoo while rain drums against the windows. We park close to the fortress to minimize wet walking paths. European Avenue looks elegant and melancholic in the rain. The day ends at the bridge, leaving the dry car only when the shower subsides."
+            "en": "Comfortable drive to the zoo while rain drums against the windows. We park close to the fortress to minimize wet walking paths. European Avenue looks elegant and melancholic in the rain. The day ends at the bridge, leaving the dry car only when the shower subsides.",
+            "hr": "Udobna vožnja do zoo-a dok kiša lupa po prozorima. Parkiramo blizu tvrđave kako bismo minimalizirali mokre pješačke staze. Europska avenija izgleda elegantno i melankolično na kiši. Dan završava na mostu, auto napuštamo samo kad prestane pljusak."
           },
           "stops": [
             {
@@ -1412,7 +1528,8 @@
                 "de": "Nutzen Sie den Parkplatz direkt am Eingang.",
                 "hu": "Használja közvetlenül a bejáratnál lévő parkolót.",
                 "ro": "Folosiți parcarea direct de la intrare.",
-                "en": "Use the parking lot right at the entrance."
+                "en": "Use the parking lot right at the entrance.",
+                "hr": "Koristite parkiralište odmah na ulazu."
               }
             },
             {
@@ -1421,7 +1538,8 @@
                 "de": "Parken Sie am Rand der Festung, um das enge Kopfsteinpflaster zu meiden.",
                 "hu": "A vár szélén parkoljon, hogy elkerülje a szűk macskaköves utakat.",
                 "ro": "Parcați la marginea cetății pentru a evita piatra cubică îngustă.",
-                "en": "Park at the edge of the fortress to avoid narrow cobblestones."
+                "en": "Park at the edge of the fortress to avoid narrow cobblestones.",
+                "hr": "Parkirajte na rubu tvrđave kako biste izbjegli uske kocke."
               }
             },
             {
@@ -1430,7 +1548,8 @@
                 "de": "Ein kurzer Sprint vom Wagen zum Museumseingang ist nötig.",
                 "hu": "Egy rövid sprintre szükség lesz az autótól a múzeum bejáratáig.",
                 "ro": "Va fi nevoie de un scurt sprint de la mașină până la intrarea în muzeu.",
-                "en": "A short sprint from the car to the museum entrance is needed."
+                "en": "A short sprint from the car to the museum entrance is needed.",
+                "hr": "Potrebni su kratki sprint do ulaza u muzej od auta."
               }
             },
             {
@@ -1439,7 +1558,8 @@
                 "de": "Die Sicht auf die Architektur ist auch aus dem Fenster hervorragend.",
                 "hu": "Az építészeti látvány az ablakból is kiváló.",
                 "ro": "Vederea arhitecturală este excelentă și de la fereastră.",
-                "en": "The architectural view is excellent even from the window."
+                "en": "The architectural view is excellent even from the window.",
+                "hr": "Arhitektonski pogled je izvrstan čak i kroz prozor."
               }
             },
             {
@@ -1448,7 +1568,8 @@
                 "de": "Parkhäuser in der Nähe bieten Schutz für den Wagen.",
                 "hu": "A közeli parkolóházak védelmet nyújtanak az autónak.",
                 "ro": "Parcările acoperite din apropiere oferă protecție mașinii.",
-                "en": "Nearby parking garages offer protection for the car."
+                "en": "Nearby parking garages offer protection for the car.",
+                "hr": "Obližnje garaže nude zaštitu za auto."
               }
             },
             {
@@ -1457,7 +1578,8 @@
                 "de": "Kurzes Halten zum Aussteigen ist oft schwierig; suchen Sie einen festen Platz.",
                 "hu": "A rövid megállás kiszálláshoz nehéz; keressen fix helyet.",
                 "ro": "Oprirea scurtă pentru debarcare este dificilă; căutați un loc fix.",
-                "en": "Short stopping for drop-off is difficult; look for a fixed spot."
+                "en": "Short stopping for drop-off is difficult; look for a fixed spot.",
+                "hr": "Kratko zaustavljanje za iskrcaj je teško; tražite fiksno mjesto."
               }
             },
             {
@@ -1466,7 +1588,8 @@
                 "de": "Parken Sie auf der Südseite, um schnell zum Ufer zu gelangen.",
                 "hu": "A déli oldalon parkoljon, hogy gyorsan a partra érjen.",
                 "ro": "Parcați pe partea de sud pentru a ajunge rapid la mal.",
-                "en": "Park on the south side to reach the riverbank quickly."
+                "en": "Park on the south side to reach the riverbank quickly.",
+                "hr": "Parkirajte na južnoj strani da brzo dođete do riječnog korita."
               }
             }
           ],
@@ -1494,6 +1617,12 @@
               "Osijek streets can flood quickly during heavy rain.",
               "Have coins ready for parking meters, which are often uncovered.",
               "Use seat heating to warm up quickly after short walks in the rain."
+            ],
+            "hr": [
+              "Provjerite brisače vjetrobranskog stakla prije polaska.",
+              "Osječke ulice se brzo mogu poplaviti za jake kiše.",
+              "Imajte spremne kovanice za naplatne ure na ulici, koje su često nezaštićene.",
+              "Koristite grijače sjedala da se brzo ugrijete nakon kratkih šetnji po kiši."
             ]
           }
         },
@@ -1502,7 +1631,8 @@
             "de": "Winterliche Fahrt durch das verschneite Slawonien zum Zoo. Die Heizung läuft auf Hochtouren, während wir die barocke Tvrđa besuchen. In der Dämmerung leuchten die Alleen besonders festlich. Den Tag beenden wir mit einem kurzen Blick auf die Drau, bevor wir in den warmen Wagen zurückkehren.",
             "hu": "Téli autózás a havas Szlavónián át az állatkertig. A fűtés teljes gőzzel megy, miközben meglátogatjuk a barokk várat. A szürkületben a sugárutak ünnepi fényben úsznak. A napot egy rövid drávai pillantással zárjuk, mielőtt visszatérnénk a meleg autóba.",
             "ro": "Cursă de iarnă prin Slavonia înzăpezită spre grădina zoologică. Încălzirea merge la maximum în timp ce vizităm cetatea barocă. La amurg, bulevardele strălucesc festiv. Încheiem ziua cu o scurtă privire spre Drava, înainte de a ne întoarce în mașina caldă.",
-            "en": "Winter drive through snowy Slavonia to the zoo. The heater is on full blast while we visit the baroque fortress. At twilight, the avenues shine festively. We end the day with a brief look at the Drava before returning to the warm car."
+            "en": "Winter drive through snowy Slavonia to the zoo. The heater is on full blast while we visit the baroque fortress. At twilight, the avenues shine festively. We end the day with a brief look at the Drava before returning to the warm car.",
+            "hr": "Zimska vožnja snježnom Slavonijom prema zoo-u. Grijač radi punom snagom dok posjećujemo baroknu tvrđavu. U sumrak avenije blistaju blagdanski. Dan završavamo kratkim pogledom na Dravu prije povratka u topao auto."
           },
           "stops": [
             {
@@ -1511,7 +1641,8 @@
                 "de": "Achten Sie auf ungeräumte Parkplätze am Stadtrand.",
                 "hu": "Ügyeljen a le nem takarított parkolókra a város szélén.",
                 "ro": "Atenție la parcările nedezpezite de la marginea orașului.",
-                "en": "Watch out for unplowed parking lots on the outskirts."
+                "en": "Watch out for unplowed parking lots on the outskirts.",
+                "hr": "Pazite na nepročišćena parkirališta na rubovima grada."
               }
             },
             {
@@ -1520,7 +1651,8 @@
                 "de": "Vermeiden Sie das Parken unter Eiszapfen an alten Gebäuden.",
                 "hu": "Kerülje a parkolást a régi épületek jégcsapjai alatt.",
                 "ro": "Evitați parcarea sub țurțurii de pe clădirile vechi.",
-                "en": "Avoid parking under icicles on old buildings."
+                "en": "Avoid parking under icicles on old buildings.",
+                "hr": "Izbjegavajte parkiranje ispod ledenica na starim zgradama."
               }
             },
             {
@@ -1529,7 +1661,8 @@
                 "de": "Lassen Sie keine dicken Jacken sichtbar im Auto liegen.",
                 "hu": "Ne hagyjon vastag kabátokat látható helyen az autóban.",
                 "ro": "Nu lăsați haine groase la vedere în mașină.",
-                "en": "Do not leave thick coats visible in the car."
+                "en": "Do not leave thick coats visible in the car.",
+                "hr": "Ne ostavljajte debele kapute vidljive u autu."
               }
             },
             {
@@ -1538,7 +1671,8 @@
                 "de": "Die Straßenreinigung ist hier meist sehr effizient.",
                 "hu": "Az úttisztítás itt általában nagyon hatékony.",
                 "ro": "Curățarea drumurilor este de obicei foarte eficientă aici.",
-                "en": "Street cleaning is usually very efficient here."
+                "en": "Street cleaning is usually very efficient here.",
+                "hr": "Čišćenje ulica je obično vrlo učinkovito ovdje."
               }
             },
             {
@@ -1547,7 +1681,8 @@
                 "de": "Der Motor kühlt schnell aus; planen Sie die Stopps gut.",
                 "hu": "A motor gyorsan kihűl; tervezze meg jól a megállókat.",
                 "ro": "Motorul se răcește repede; planificați bine opririle.",
-                "en": "The engine cools down quickly; plan your stops well."
+                "en": "The engine cools down quickly; plan your stops well.",
+                "hr": "Motor se brzo hladi; dobro isplanirajte zaustavljanja."
               }
             },
             {
@@ -1556,7 +1691,8 @@
                 "de": "Fußgängerzonen können am Rand vereist sein.",
                 "hu": "A gyalogos zónák szélei jegesek lehetnek.",
                 "ro": "Zonele pietonale pot fi înghețate la margini.",
-                "en": "Pedestrian zones can be icy at the edges."
+                "en": "Pedestrian zones can be icy at the edges.",
+                "hr": "Pješačke zone mogu biti zaleđene na rubovima."
               }
             },
             {
@@ -1565,7 +1701,8 @@
                 "de": "Lassen Sie den Wagen nicht zu lange im Leerlauf laufen.",
                 "hu": "Ne járassa túl sokáig a motort üresben.",
                 "ro": "Nu lăsați mașina să meargă prea mult în gol.",
-                "en": "Do not leave the car idling for too long."
+                "en": "Do not leave the car idling for too long.",
+                "hr": "Ne ostavljajte motor u leru predugo."
               }
             }
           ],
@@ -1593,6 +1730,12 @@
               "Avoid pulling the handbrake overnight during extreme frost.",
               "Keep an ice scraper and a brush in the car.",
               "Slavonian roads can be very slippery in the mornings."
+            ],
+            "hr": [
+              "Provjerite je li antifriz dopunjen.",
+              "Izbjegavajte povlačenje ručne kočnice preko noći tijekom jakog mraza.",
+              "Držite strugač za led i četku u autu.",
+              "Slavonski putevi mogu biti vrlo sklizki ujutro."
             ]
           }
         }
@@ -1611,7 +1754,8 @@
             "de": "Ante Starčević Platz",
             "hu": "Ante Starčević tér",
             "ro": "Piața Ante Starčević",
-            "en": "Ante Starčević Square"
+            "en": "Ante Starčević Square",
+            "hr": "Trg Ante Starčevića"
           },
           "coords": [
             18.6955,
@@ -1627,7 +1771,8 @@
             "de": "Das Haupt-Drehkreuz für Straßenbahnen und Busse. Ein idealer Ausgangspunkt.",
             "hu": "A villamosok és buszok fő csomópontja. Ideális kiindulópont.",
             "ro": "Principalul nod pentru tramvaie și autobuze. Un punct de plecare ideal.",
-            "en": "The main hub for trams and buses. An ideal starting point."
+            "en": "The main hub for trams and buses. An ideal starting point.",
+            "hr": "Glavno čvorište za tramvaje i autobuse. Idealna početna točka."
           }
         },
         {
@@ -1635,7 +1780,8 @@
             "de": "Kathedrale St. Peter und Paul",
             "hu": "Szent Péter és Pál-társszékesegyház",
             "ro": "Catedrala Sf. Petru și Pavel",
-            "en": "Co-cathedral of St. Peter and St. Paul"
+            "en": "Co-cathedral of St. Peter and St. Paul",
+            "hr": "Konkatedrala sv. Petra i Pavla"
           },
           "coords": [
             18.695,
@@ -1651,7 +1797,8 @@
             "de": "Nur einen kurzen Spaziergang vom Platz entfernt, Sie können sie nicht verfehlen.",
             "hu": "Csak egy rövid séta a tértől, nem lehet eltéveszteni.",
             "ro": "La o scurtă plimbare de piață, nu o puteți rata.",
-            "en": "Just a short walk from the square, you can't miss it."
+            "en": "Just a short walk from the square, you can't miss it.",
+            "hr": "Samo kratka šetnja od trga, ne možete je promašiti."
           }
         },
         {
@@ -1659,7 +1806,8 @@
             "de": "Tvrđa",
             "hu": "Tvrđa (Vár)",
             "ro": "Tvrđa (Fortăreața)",
-            "en": "Tvrđa (The Fortress)"
+            "en": "Tvrđa (The Fortress)",
+            "hr": "Tvrđa"
           },
           "coords": [
             18.715,
@@ -1675,7 +1823,8 @@
             "de": "Nehmen Sie die Straßenbahnlinie 1 vom Hauptplatz. Es ist eine kurze und landschaftlich reizvolle Fahrt.",
             "hu": "Menjen az 1-es villamossal a főtérről. Rövid és festői út.",
             "ro": "Luați tramvaiul linia 1 din piața principală. Este o călătorie scurtă și pitorească.",
-            "en": "Take tram line 1 from the main square. It's a short and scenic ride."
+            "en": "Take tram line 1 from the main square. It's a short and scenic ride.",
+            "hr": "Uzmite tramvaj linije 1 s glavnog trga. Kratka je i slikovita vožnja."
           }
         },
         {
@@ -1683,7 +1832,8 @@
             "de": "Museum von Slawonien",
             "hu": "Szlavónia Múzeuma",
             "ro": "Muzeul Slavoniei",
-            "en": "Museum of Slavonia"
+            "en": "Museum of Slavonia",
+            "hr": "Muzej Slavonije"
           },
           "coords": [
             18.716,
@@ -1699,7 +1849,8 @@
             "de": "Erkunden Sie die Festung zu Fuß, nachdem Sie von der Straßenbahn ausgestiegen sind. Das Museum ist leicht zu finden.",
             "hu": "Fedezze fel gyalog az erődöt, miután leszállt a villamosról. A múzeum könnyen megtalálható.",
             "ro": "Explorați cetatea pe jos după ce coborâți din tramvai. Muzeul este ușor de găsit.",
-            "en": "Explore the fortress on foot after getting off the tram. The museum is easy to find."
+            "en": "Explore the fortress on foot after getting off the tram. The museum is easy to find.",
+            "hr": "Istražite tvrđavu pješice nakon silaska s tramvaja. Muzej je lako pronaći."
           }
         },
         {
@@ -1707,7 +1858,8 @@
             "de": "Drava-Hängebrücke",
             "hu": "Dráva függőhíd",
             "ro": "Podul suspendat peste Drava",
-            "en": "Drava Pedestrian Bridge"
+            "en": "Drava Pedestrian Bridge",
+            "hr": "Pješački most preko Drave"
           },
           "coords": [
             18.68,
@@ -1723,7 +1875,8 @@
             "de": "Nehmen Sie einen Bus oder eine Straßenbahn zurück ins Zentrum und gehen Sie dann zum Flussufer.",
             "hu": "Menjen busszal vagy villamossal vissza a központba, majd sétáljon le a folyópartra.",
             "ro": "Luați un autobuz sau tramvai înapoi spre centru, apoi mergeți pe jos până la malul râului.",
-            "en": "Take a bus or tram back towards the center, then walk to the riverfront."
+            "en": "Take a bus or tram back towards the center, then walk to the riverfront.",
+            "hr": "Vratite se autobusom ili tramvajem prema centru, a zatim prošećite do šetnice uz rijeku."
           }
         },
         {
@@ -1731,7 +1884,8 @@
             "de": "Osijek Zoo",
             "hu": "Eszéki Állatkert",
             "ro": "Grădina Zoologică Osijek",
-            "en": "Osijek Zoo"
+            "en": "Osijek Zoo",
+            "hr": "Osječki zoo"
           },
           "coords": [
             18.675,
@@ -1747,7 +1901,8 @@
             "de": "Eine einzigartige Fähre namens 'Kompa' verbindet das Stadtzentrum mit dem Zoo. Prüfen Sie den Fahrplan!",
             "hu": "Egy egyedülálló komp, a 'Kompa' köti össze a városközpontot az állatkerttel. Ellenőrizze a menetrendet!",
             "ro": "Un feribot unic numit 'Kompa' leagă centrul orașului de grădina zoologică. Verificați orarul!",
-            "en": "A unique ferry called 'Kompa' connects the city center to the zoo. Check its schedule!"
+            "en": "A unique ferry called 'Kompa' connects the city center to the zoo. Check its schedule!",
+            "hr": "Jedinstvena 'Kompa' povezuje centar grada i zoo. Provjerite vozni red!"
           }
         }
       ],
@@ -1755,7 +1910,8 @@
         "de": "Beginnen Sie Ihre Reise am Ante Starčević Platz, dem Verkehrsknotenpunkt der Stadt, und besichtigen Sie die nahegelegene Kathedrale. Am Vormittag nehmen Sie eine Straßenbahn zur barocken Festung Tvrđa, wo Sie das Museum von Slawonien erkunden. Nach dem Mittagessen in der Festung nehmen Sie öffentliche Verkehrsmittel zurück in Richtung Fluss. Am Nachmittag überqueren Sie die Drau mit der charmanten 'Kompa'-Fähre, um den Zoo von Osijek zu besuchen und einen entspannten Abschluss des Tages zwischen den Tieren zu genießen.",
         "hu": "Kezdje utazását az Ante Starčević téren, a város közlekedési csomópontjában, és látogassa meg a közeli székesegyházat. Délelőtt villamossal utazik a barokk Tvrđa erődhöz, ahol felfedezi a Szlavónia Múzeumát. Az erődben elköltött ebéd után tömegközlekedéssel induljon vissza a folyó irányába. Délután a bájos 'Kompa' komppal kel át a Dráván, hogy meglátogassa az eszéki állatkertet, és az állatok között fejezze be a napot.",
         "ro": "Începeți călătoria din Piața Ante Starčević, nodul de transport al orașului, și vizitați catedrala din apropiere. Dimineața, luați un tramvai spre fortăreața barocă Tvrđa, unde veți explora Muzeul Slavoniei. După prânzul în cetate, luați transportul public înapoi spre râu. După-amiaza, traversați Drava cu fermecătorul feribot 'Kompa' pentru a vizita Grădina Zoologică din Osijek, încheind ziua într-un mod relaxant printre animale.",
-        "en": "Start your journey at Ante Starčević Square, the city's transport hub, and visit the nearby Co-cathedral. In the morning, take a tram to the baroque Tvrđa fortress where you'll explore the Museum of Slavonia. After lunch in the fortress, take public transport back towards the river. In the afternoon, cross the Drava on the charming 'Kompa' ferry to visit the Osijek Zoo, enjoying a relaxing end to the day among the animals."
+        "en": "Start your journey at Ante Starčević Square, the city's transport hub, and visit the nearby Co-cathedral. In the morning, take a tram to the baroque Tvrđa fortress where you'll explore the Museum of Slavonia. After lunch in the fortress, take public transport back towards the river. In the afternoon, cross the Drava on the charming 'Kompa' ferry to visit the Osijek Zoo, enjoying a relaxing end to the day among the animals.",
+        "hr": "Započnite putovanje na Trgu Ante Starčevića, čvorištu gradskog prijevoza, i posjetite obližnju konkatedralu. Ujutro uhvatite tramvaj do barokne Tvrđe gdje ćete istražiti Muzej Slavonije. Nakon ručka u Tvrđi, javnim prijevozom se vratite prema rijeci. Poslijepodne prijeđite Dravu šarmantnom 'Kompom' do Osječkog zoo-a i uživajte u opuštajućem završetku dana među životinjama."
       },
       "gastro_picks": {
         "de": [
@@ -1915,6 +2071,12 @@
           "Trams are an efficient and scenic way to get around.",
           "Validate your ticket when you board to avoid fines.",
           "Check the schedule for the last 'Kompa' ferry back from the zoo."
+        ],
+        "hr": [
+          "Kupite dnevnu kartu gradskog prijevoza za neograničene vožnje.",
+          "Tramvaji su učinkovit i slikovit način kretanja.",
+          "Potvrdite kartu pri ulasku kako biste izbjegli kazne.",
+          "Provjerite raspored zadnje 'Kompe' za povratak iz zoo-a."
         ]
       },
       "variants": {
@@ -1923,7 +2085,8 @@
             "de": "Mit der Tram durch das regnerische Osijek, von Unterstand zu Unterstand. Die Co-Kathedrale bietet Schutz, während wir auf die nächste Bahn warten. In der Tvrđa verbringen wir die Zeit in Museen, bis der Regen nachlässt. Den Tag beenden wir mit einer kurzen Busfahrt zum Zoo, wo die Innengehege das Ziel sind.",
             "hu": "Villamossal az esős Eszéken, megállótól megállóig haladva. A társszékesegyház védelmet nyújt, amíg a következő járatra várunk. A várban múzeumokban töltjük az időt, amíg csillapodik az eső. A napot egy rövid buszozással zárjuk az állatkertig, ahol a belső kifutók a célpontok.",
             "ro": "Cu tramvaiul prin Osijekul ploios, mergând de la adăpost la adăpost. Co-catedrala oferă protecție în timp ce așteptăm următorul vehicul. În Tvrđa petrecem timpul în muzee până se potolește ploaia. Încheiem ziua cu o scurtă cursă de autobuz spre grădina zoologică, unde ținta sunt pavilioanele interioare.",
-            "en": "By tram through rainy Osijek, moving from shelter to shelter. The Co-cathedral provides protection while waiting for the next ride. In Tvrđa, we spend time in museums until the rain subsides. The day ends with a short bus ride to the zoo, where the indoor enclosures are the main goal."
+            "en": "By tram through rainy Osijek, moving from shelter to shelter. The Co-cathedral provides protection while waiting for the next ride. In Tvrđa, we spend time in museums until the rain subsides. The day ends with a short bus ride to the zoo, where the indoor enclosures are the main goal.",
+            "hr": "Tramvajem kroz kišni Osijek, od skloništa do skloništa. Konkatedrala pruža zaštitu dok čekate sljedeću vožnju. U Tvrđi provodimo vrijeme u muzejima dok ne prestane kiša. Dan završava kratkom autobusnom vožnjom do zoo-a, gdje su glavni cilj unutarnje izložbe."
           },
           "stops": [
             {
@@ -1932,7 +2095,8 @@
                 "de": "Die Tramstationen am Platz sind gut überdacht.",
                 "hu": "A téri villamosmegállók jól fedettek.",
                 "ro": "Stațiile de tramvai din piață sunt bine acoperite.",
-                "en": "The tram stations on the square are well covered."
+                "en": "The tram stations on the square are well covered.",
+                "hr": "Stajališta tramvaja na trgu su dobro natkrivena."
               }
             },
             {
@@ -1941,7 +2105,8 @@
                 "de": "Ein kurzer Fußweg von der Tramhaltestelle reicht aus.",
                 "hu": "Egy rövid séta a villamosmegállótól elegendő.",
                 "ro": "O scurtă plimbare de la stația de tramvai este suficientă.",
-                "en": "A short walk from the tram stop is enough."
+                "en": "A short walk from the tram stop is enough.",
+                "hr": "Dovoljna je kratka šetnja od tramvaja."
               }
             },
             {
@@ -1950,7 +2115,8 @@
                 "de": "Die Tramhaltestelle Tvrđa ist der beste Ausstiegspunkt.",
                 "hu": "A Tvrđa villamosmegálló a legjobb leszállási pont.",
                 "ro": "Stația de tramvai Tvrđa este cel mai bun punct de coborâre.",
-                "en": "The Tvrđa tram stop is the best drop-off point."
+                "en": "The Tvrđa tram stop is the best drop-off point.",
+                "hr": "Stajalište Tvrđa je najbolja točka za iskrcaj."
               }
             },
             {
@@ -1959,7 +2125,8 @@
                 "de": "Bleiben Sie bei der Haltestelle unter dem Dach, bis die Bahn kommt.",
                 "hu": "Maradjon a megálló fedele alatt, amíg jön a járat.",
                 "ro": "Stați sub acoperișul stației până vine vehiculul.",
-                "en": "Stay under the station roof until the ride arrives."
+                "en": "Stay under the station roof until the ride arrives.",
+                "hr": "Ostanite pod krovištem stanice dok ne stigne vozilo."
               }
             },
             {
@@ -1968,7 +2135,8 @@
                 "de": "Die Busverbindungen zum Ufer sind bei Regen seltener.",
                 "hu": "A parti buszjáratok esőben ritkábbak lehetnek.",
                 "ro": "Legăturile de autobuz spre mal pot fi mai rare pe ploaie.",
-                "en": "Bus connections to the riverbank may be less frequent in the rain."
+                "en": "Bus connections to the riverbank may be less frequent in the rain.",
+                "hr": "Autobusne veze do riječnog šetališta mogu biti rjeđe po kiši."
               }
             },
             {
@@ -1977,7 +2145,8 @@
                 "de": "Die Kompa-Fähre fährt bei extremem Wetter möglicherweise nicht.",
                 "hu": "A Kompa komp extrém időjárás esetén nem biztos, hogy közlekedik.",
                 "ro": "Bacul Kompa s-ar putea să nu circule în caz de vreme extremă.",
-                "en": "The Kompa ferry might not operate during extreme weather."
+                "en": "The Kompa ferry might not operate during extreme weather.",
+                "hr": "Kompa možda neće ploviti tijekom ekstremnog vremena."
               }
             }
           ],
@@ -2005,6 +2174,12 @@
               "Osijek trams are usually dry and reliable.",
               "A day ticket is worth it for flexible commuting between showers.",
               "Careful when boarding; the steps can be slippery."
+            ],
+            "hr": [
+              "Koristite aplikaciju kako biste smanjili čekanje na kiši.",
+              "Osječki tramvaji su obično suhi i pouzdani.",
+              "Dnevna karta se isplati za fleksibilno putovanje između pljuskova.",
+              "Budite oprezni pri ulasku; stepenice mogu biti skliske."
             ]
           }
         },
@@ -2013,7 +2188,8 @@
             "de": "Wärmende Tramfahrten durch die frostige Stadt. In der Co-Kathedrale genießen wir die Stille, bevor es weiter zur Tvrđa geht. Die Museen bieten stundenlange Wärme. Der Abend bricht früh an, während wir mit dem Bus zum Zoo fahren, um die Winterstimmung am Stadtrand zu erleben.",
             "hu": "Melegítő villamosozás a fagyos városon át. A társszékesegyházban élvezzük a csendet, mielőtt továbbmennénk a várba. A múzeumok órákon át tartó meleget nyújtanak. Az este korán köszönt be, miközben busszal megyünk az állatkertig, átélve a városvégi téli hangulatot.",
             "ro": "Curse de tramvai primitoare prin orașul geros. În co-catedrală ne bucurăm de liniște înainte de a merge mai departe spre cetate. Muzeele oferă căldură timp de ore întregi. Seara se lasă devreme în timp ce mergem cu autobuzul la grădina zoologică, trăind atmosfera de iarnă de la marginea orașului.",
-            "en": "Warming tram rides through the frosty city. In the Co-cathedral, we enjoy the silence before moving on to Tvrđa. The museums offer hours of warmth. Evening falls early while we take the bus to the zoo, experiencing the winter atmosphere on the outskirts."
+            "en": "Warming tram rides through the frosty city. In the Co-cathedral, we enjoy the silence before moving on to Tvrđa. The museums offer hours of warmth. Evening falls early while we take the bus to the zoo, experiencing the winter atmosphere on the outskirts.",
+            "hr": "Topli tramvajske vožnje kroz smrznuti grad. U konkatedrali uživamo u tišini prije polaska prema Tvrđi. Muzeji nude sate topline. Večer pada rano dok autobusom idemo do zoo-a, osjećajući zimsku atmosferu na rubovima grada."
           },
           "stops": [
             {
@@ -2022,7 +2198,8 @@
                 "de": "Die Trams sind im Winter gut beheizt.",
                 "hu": "A villamosok télen jól fűtöttek.",
                 "ro": "Tramvaiele sunt bine încălzite iarna.",
-                "en": "The trams are well heated in winter."
+                "en": "The trams are well heated in winter.",
+                "hr": "Tramvaji su dobro grijani zimi."
               }
             },
             {
@@ -2031,7 +2208,8 @@
                 "de": "Warten Sie in der Nähe eines Cafés, wenn die Bahn Verspätung hat.",
                 "hu": "Várjon egy kávézó közelében, ha késik a járat.",
                 "ro": "Așteptați în apropierea unei cafenele dacă întârzie vehiculul.",
-                "en": "Wait near a cafe if the ride is delayed."
+                "en": "Wait near a cafe if the ride is delayed.",
+                "hr": "Ako kasni vožnja, pričekajte blizu kafića."
               }
             },
             {
@@ -2040,7 +2218,8 @@
                 "de": "Der Wind an der Haltestelle kann eisig sein; ziehen Sie sich warm an.",
                 "hu": "A megállóban a szél jeges lehet; öltözzön fel melegen.",
                 "ro": "Vântul în stație poate fi tăios; îmbrăcați-vă gros.",
-                "en": "The wind at the stop can be icy; dress warmly."
+                "en": "The wind at the stop can be icy; dress warmly.",
+                "hr": "Vjetar na stajalištu može biti leden; obucite se toplo."
               }
             },
             {
@@ -2049,7 +2228,8 @@
                 "de": "Die Museen sind perfekte Orte, um sich zwischen den Fahrten aufzuwärmen.",
                 "hu": "A múzeumok tökéletes helyek a bemelegedésre a járatok között.",
                 "ro": "Muzeele sunt locuri perfecte pentru a vă încălzi între curse.",
-                "en": "Museums are perfect places to warm up between rides."
+                "en": "Museums are perfect places to warm up between rides.",
+                "hr": "Muzeji su savršena mjesta za zagrijavanje između vožnji."
               }
             },
             {
@@ -2058,7 +2238,8 @@
                 "de": "Busse fahren im Winter seltener; prüfen Sie den Fahrplan genau.",
                 "hu": "A buszok télen ritkábban járnak; ellenőrizze pontosan a menetrendet.",
                 "ro": "Autobuzele circulă mai rar iarna; verificați bine programul.",
-                "en": "Buses run less frequently in winter; check the schedule carefully."
+                "en": "Buses run less frequently in winter; check the schedule carefully.",
+                "hr": "Autobusi voze rjeđe zimi; pažljivo provjerite voznog reda."
               }
             },
             {
@@ -2067,7 +2248,8 @@
                 "de": "Der Fußweg von der Bushaltestelle zum Zoo kann rutschig sein.",
                 "hu": "A buszmegállótól az állatkertig vezető út csúszós lehet.",
                 "ro": "Drumul de la stația de autobuz la grădina zoologică poate fi alunecos.",
-                "en": "The walk from the bus stop to the zoo can be slippery."
+                "en": "The walk from the bus stop to the zoo can be slippery.",
+                "hr": "Šetnja od autobusnog stajališta do zoološkog vrta može biti skliska."
               }
             }
           ],
@@ -2095,6 +2277,12 @@
               "The old trams have charm but can be a bit drafty.",
               "Keep your ticket handy to avoid constantly taking off your gloves.",
               "In the early darkness, the stops are well lit and safe."
+            ],
+            "hr": [
+              "Planirajte presjedanja kako ne biste dugo čekali vani.",
+              "Stari tramvaji imaju šarm, ali mogu propuhivati.",
+              "Držite kartu pri ruci kako ne biste stalno skidali rukavice.",
+              "U ranoj tami stanice su dobro osvijetljene i sigurne."
             ]
           }
         }

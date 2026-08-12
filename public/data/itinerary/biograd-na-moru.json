@@ -32,7 +32,7 @@
             "hu": "Központi találkozóhely a vízparti sétányon.",
             "ro": "Loc de întâlnire central pe faleză.",
             "en": "Central meeting point on the waterfront.",
-            "hr": "Središnje mjesto susreta na rivi."
+            "hr": "Središnje mjesto za susret na rivi."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Érdemes megnézni az ókori hajóroncs gyűjteményt.",
             "ro": "Colecție remarcabilă de epave antice.",
             "en": "Must-see collection of ancient shipwrecks.",
-            "hr": "Obavezna zbirka antičkih brodoloma."
+            "hr": "Obavezna zbirka drevnih brodoloma."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Fenyőerdő által árnyékolt strand.",
             "ro": "Plajă umbrită de păduri de pini.",
             "en": "Shaded beach thanks to pine forests.",
-            "hr": "Plaža u sjeni borove šume."
+            "hr": "Zasjenjena plaža zahvaljujući borovim šumama."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Homokos meder, ideális családoknak.",
             "ro": "Fund nisipos, ideal pentru familii.",
             "en": "Sandy sea floor, ideal for families.",
-            "hr": "Pješčano morsko dno, idealno za obitelji."
+            "hr": "Pješčano dno, idealno za obitelji."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "Fedezze fel Biograd na Morut gyalogosan, a Tomislav-emlékműtől indulva. Merüljön el a tengeri történelemben a Helytörténeti Múzeumban, majd látogasson el a barokk Szent Anasztázia-templomhoz. A modern Marina Kornati kikötői sétája után az út a népszerű Dražica strandhoz vezet. A délutánt töltse a sekély Soline-öbölben, majd zárja a napot a Riva számos éttermének egyikében.",
         "ro": "Descoperiți Biograd na Moru la pas, începând de la monumentul lui Tomislav. Explorați istoria maritimă la Muzeul Local și vizitați biserica barocă Sf. Anastasia. După o plimbare prin moderna Marina Kornati, drumul vă poartă spre populara plajă Dražica. Bucurați-vă de după-amiază în golful liniștit Soline, înainte de a încheia ziua la unul dintre restaurantele de pe faleză.",
         "en": "Discover Biograd na Moru on foot, starting at the Tomislav monument. Dive into maritime history at the Local Museum and visit the baroque St. Anastasia Church. After a stroll through the modern Marina Kornati, the path leads along the coast to the popular Dražica beach. Enjoy the afternoon in the shallow Soline Bay before ending the day at one of the many restaurants on the Riva.",
-        "hr": "Otkrijte Biograd na Moru pješice, počevši od spomenika kralju Tomislavu. Zaronite u pomorsku povijest u Zavičajnom muzeju i posjetite baroknu crkvu sv. Anastazije. Nakon šetnje modernom Marinom Kornati, put vodi obalom do popularne plaže Dražica. Uživajte u popodnevu u plitkoj uvali Soline prije nego što završite dan u jednom od brojnih restorana na rivi."
+        "hr": "Otkrijte Biograd na Moru pješice, počevši od spomenika Tomislavu. Uronite u pomorsku povijest u Gradskom muzeju i posjetite baroknu crkvu sv. Anastazije. Nakon šetnje modernom Marinom Kornati, staza vodi uz obalu do popularne plaže Dražica. Uživajte poslijepodne u plitkoj uvali Soline prije završetka dana u jednom od brojnih restorana na Rivi."
       },
       "gastro_picks": {
         "de": [
@@ -265,10 +265,10 @@
           "Enjoy a morning coffee at the harbor."
         ],
         "hr": [
-          "Riva je navečer živahna, savršena za šetnju.",
-          "Muzej često ima podnevnu pauzu.",
-          "Ovdje se također preporučuje obuća za vodu.",
-          "Uživajte u jutarnjoj kavi u luci."
+          "Riva je živa navečer, savršena za šetnju.",
+          "Muzej često ima pauzu u podne.",
+          "I ovdje se preporučuju vodene cipele.",
+          "Užite u jutarnjoj kavi u luci."
         ]
       },
       "variants": {
@@ -277,7 +277,8 @@
             "de": "Entdecken Sie Biograd na Moru zu Fuß, beginnend am Tomislav-Denkmal. Tauchen Sie im Heimatmuseum in die maritime Geschichte ein und besuchen Sie die barocke St.-Anastasia-Kirche. Nach einem Spaziergang durch die moderne Marina Kornati führt der Weg entlang der Küste zum beliebten Strand Dražica. Den Nachmittag genießen Sie in der flachen Bucht Soline, bevor Sie den Tag in einem der zahlreichen Restaurants an der Riva ausklingen lassen.",
             "hu": "Fedezze fel Biograd na Morut gyalogosan, a Tomislav-emlékműtől indulva. Merüljön el a tengeri történelemben a Helytörténeti Múzeumban, majd látogasson el a barokk Szent Anasztázia-templomhoz. A modern Marina Kornati kikötői sétája után az út a népszerű Dražica strandhoz vezet. A délutánt töltse a sekély Soline-öbölben, majd zárja a napot a Riva számos éttermének egyikében.",
             "ro": "Descoperiți Biograd na Moru la pas, începând de la monumentul lui Tomislav. Explorați istoria maritimă la Muzeul Local și vizitați biserica barocă Sf. Anastasia. După o plimbare prin moderna Marina Kornati, drumul vă poartă spre populara plajă Dražica. Bucurați-vă de după-amiază în golful liniștit Soline, înainte de a încheia ziua la unul dintre restaurantele de pe faleză.",
-            "en": "Discover Biograd na Moru on foot, starting at the Tomislav monument. Dive into maritime history at the Local Museum and visit the baroque St. Anastasia Church. After a stroll through the modern Marina Kornati, the path leads along the coast to the popular Dražica beach. Enjoy the afternoon in the shallow Soline Bay before ending the day at one of the many restaurants on the Riva."
+            "en": "Discover Biograd na Moru on foot, starting at the Tomislav monument. Dive into maritime history at the Local Museum and visit the baroque St. Anastasia Church. After a stroll through the modern Marina Kornati, the path leads along the coast to the popular Dražica beach. Enjoy the afternoon in the shallow Soline Bay before ending the day at one of the many restaurants on the Riva.",
+            "hr": "Otkrijte Biograd na Moru pješice, počevši od spomenika Tomislavu. Uronite u pomorsku povijest u Gradskom muzeju i posjetite baroknu crkvu sv. Anastazije. Nakon šetnje modernom Marinom Kornati, staza vodi uz obalu do popularne plaže Dražica. Uživajte poslijepodne u plitkoj uvali Soline prije završetka dana u jednom od brojnih restorana na Rivi."
           },
           "stops": [
             {
@@ -286,7 +287,8 @@
                 "de": "Zentraler Treffpunkt an der Uferpromenade.",
                 "hu": "Központi találkozóhely a vízparti sétányon.",
                 "ro": "Loc de întâlnire central pe faleză.",
-                "en": "Central meeting point on the waterfront."
+                "en": "Central meeting point on the waterfront.",
+                "hr": "Središnje mjesto za susret na rivi."
               }
             },
             {
@@ -295,7 +297,8 @@
                 "de": "Sehenswerte Sammlung antiker Schiffswracks.",
                 "hu": "Érdemes megnézni az ókori hajóroncs gyűjteményt.",
                 "ro": "Colecție remarcabilă de epave antice.",
-                "en": "Must-see collection of ancient shipwrecks."
+                "en": "Must-see collection of ancient shipwrecks.",
+                "hr": "Obavezna zbirka drevnih brodoloma."
               }
             },
             {
@@ -304,7 +307,8 @@
                 "de": "Barockkirche im Herzen der Stadt.",
                 "hu": "Barokk templom a város szívében.",
                 "ro": "Biserică barocă în inima orașului.",
-                "en": "Baroque church in the heart of the city."
+                "en": "Baroque church in the heart of the city.",
+                "hr": "Barokna crkva u srcu grada."
               }
             },
             {
@@ -313,7 +317,8 @@
                 "de": "Bestaunen Sie die Yachten im Hafen.",
                 "hu": "Csodálja meg a jachtokat a kikötőben.",
                 "ro": "Admirați iahturile din port.",
-                "en": "Admire the yachts in the harbor."
+                "en": "Admire the yachts in the harbor.",
+                "hr": "Divite se jahtama u luci."
               }
             },
             {
@@ -322,7 +327,8 @@
                 "de": "Beschatteter Strand durch Pinienwälder.",
                 "hu": "Fenyőerdő által árnyékolt strand.",
                 "ro": "Plajă umbrită de păduri de pini.",
-                "en": "Shaded beach thanks to pine forests."
+                "en": "Shaded beach thanks to pine forests.",
+                "hr": "Zasjenjena plaža zahvaljujući borovim šumama."
               }
             },
             {
@@ -331,7 +337,8 @@
                 "de": "Sandiger Meeresboden, ideal für Familien.",
                 "hu": "Homokos meder, ideális családoknak.",
                 "ro": "Fund nisipos, ideal pentru familii.",
-                "en": "Sandy sea floor, ideal for families."
+                "en": "Sandy sea floor, ideal for families.",
+                "hr": "Pješčano dno, idealno za obitelji."
               }
             }
           ],
@@ -441,6 +448,12 @@
               "The museum often has a midday break.",
               "Water shoes are recommended here as well.",
               "Enjoy a morning coffee at the harbor."
+            ],
+            "hr": [
+              "Riva je živa navečer, savršena za šetnju.",
+              "Muzej često ima pauzu u podne.",
+              "I ovdje se preporučuju vodene cipele.",
+              "Užite u jutarnjoj kavi u luci."
             ]
           }
         },
@@ -450,7 +463,7 @@
             "hu": "A séta a Tomiszláv emlékműnél indul, esőben is méltóságteljes. A Helytörténeti Múzeum kincsei között szárazon telik a délelőtt. Délben a Szent Anasztázia-templom csendje fogad. Délután a Marina és a Dražica strand mentén az eső kopogása festi alá a tenger látványát, a napot pedig a Soline-öböl egyik barátságos, fedett kávézójában zárjuk a fenyvesek közelében.",
             "ro": "Ziua începe la monumentul lui Tomislav, protejați de umbrelă. Muzeul de Istorie oferă apoi un adăpost uscat și povești maritime fascinante. La prânz vizităm biserica Sf. Anastasia. După-amiaza continuă spre marină și plaja Dražica, unde marea cenușie emană o liniște mistică, înainte de a ne încălzi cu o băutură caldă în golful Soline.",
             "en": "The day starts at the Tomislav monument, umbrella in hand. The Heritage Museum provides a dry refuge and fascinating maritime history. At noon, we admire the baroque interior of St. Anastasia Church. The afternoon leads to the marina and Dražica beach despite the drizzle, where the gray Adriatic radiates a mystic calm, ending with a warm drink at Soline Bay.",
-            "hr": "Dan počinje kod spomenika Tomislavu, s kišobranom u ruci. Zavičajni muzej pruža suho utočište i fascinantnu pomorsku povijest. U podne se divimo baroknoj unutrašnjosti crkve sv. Anastazije. Popodne vodi do marine i plaže Dražica unatoč kišici, gdje sivi Jadran zrači mističnim mirom, a dan završava toplim pićem u uvali Soline."
+            "hr": "Dan počinje kod spomenika Tomislavu, kišobran u ruci. Gradski muzej pruža suhi zaklon i fascinantnu pomorsku povijest. U podne divimo se baroknom unutrašnjosti crkve sv. Anastazije. Poslijepodne vodi do marine i plaže Dražica unatoč rosulji, gdje sivi Jadran zrači mističnim mirom, završavajući toplim napitkom u uvali Soline."
           },
           "stops": [
             {
@@ -460,7 +473,7 @@
                 "hu": "Gyors fotómegálló; a tér kövezete esőben csúszós lehet.",
                 "ro": "Oprire scurtă; pavajul pieței poate fi alunecos când este ud.",
                 "en": "Quick photo stop; the square's pavement can be slippery when wet.",
-                "hr": "Kratka pauza za fotografiranje; pločnik trga može biti sklizak."
+                "hr": "Brzi foto-stop; popločje trga može biti klizavo kad je mokro."
               }
             },
             {
@@ -480,7 +493,7 @@
                 "hu": "Használja ki a belső tér csendjét a zápor átvészelésére.",
                 "ro": "Folosiți liniștea interiorului pentru a aștepta trecerea ploii.",
                 "en": "Use the quiet interior to wait out a heavy shower.",
-                "hr": "Iskoristite mirnu unutrašnjost da pričekate da prođe jak pljusak."
+                "hr": "Iskoristite miran interijer za čekanje jakog pljuska."
               }
             },
             {
@@ -490,7 +503,7 @@
                 "hu": "A környékbeli épületek árkádjai alatt védve sétálhatunk.",
                 "ro": "Plimbare posibilă sub arcadele clădirilor din jur.",
                 "en": "Walking under the arcades of surrounding buildings is possible.",
-                "hr": "Moguća je šetnja ispod arkada okolnih zgrada."
+                "hr": "Moguće je hodati ispod arkada okolnih zgrada."
               }
             },
             {
@@ -500,7 +513,7 @@
                 "hu": "A fenyőerdő természetes védelmet nyújt az enyhe eső ellen.",
                 "ro": "Pădurea de pini oferă o protecție naturală împotriva ploii ușoare.",
                 "en": "The pine forest provides natural shelter from light rain.",
-                "hr": "Borova šuma pruža prirodno zaklon od lagane kiše."
+                "hr": "Borova šuma pruža prirodni zaklon od sitne kiše."
               }
             },
             {
@@ -540,10 +553,10 @@
               "Harbor cafes often have heated, covered outdoor seating."
             ],
             "hr": [
-              "Čvrsti olujni kišobran je bolji na obali od malog.",
-              "Kamene ploče u starom gradu postaju vrlo skliske kad su mokre.",
-              "Muzej nudi najdužu aktivnost u zatvorenom u gradu.",
-              "Kafići u luci često imaju grijane, natkrivene terase."
+              "Snažniji olujni kišobran bolji je na obali od malog.",
+              "Kamene ploče u starom gradu postaju vrlo klizave kad su mokre.",
+              "Muzej nudi najdulju aktivnost u zatvorenom u gradu.",
+              "Kafići u luci često imaju grijane, natkrivene vanjske terase."
             ]
           }
         },
@@ -553,7 +566,7 @@
             "hu": "Télen Biograd megmutatja nyugodt arcát. A reggelt a Tomiszláv emlékműnél indítjuk a tiszta levegőn. A múzeumban melegedünk fel, majd a Szent Anasztázia-templom ünnepi csendjét élvezzük. Délután a Marina turisták nélkül is lenyűgöző. A Dražica strandtól a Soline-öbölig tartó séta friss tengeri széllel és korai, de látványos naplementével ajándékoz meg.",
             "ro": "Iarna, Biograd își arată fața adevărată și liniștită. Începem la monument în aerul curat al dimineții. Muzeul ne încălzește cu cultură, înainte de a experimenta liniștea bisericii Sf. Anastasia. După-amiaza la marină este pașnică, aproape fără turiști. Plimbarea de pe plaja Dražica spre golful Soline oferă brize proaspete și un apus spectaculos peste insule.",
             "en": "Biograd shows its true, quiet face in winter. We start at the monument in the crisp morning air. The Heritage Museum warms us up with culture before experiencing the peaceful silence of St. Anastasia Church. The afternoon at the marina is serene, almost tourist-free. The walk from Dražica beach to Soline Bay offers fresh sea breezes and a spectacular early sunset over the islands.",
-            "hr": "Biograd zimi pokazuje svoje pravo, mirno lice. Počinjemo kod spomenika na svježem jutarnjem zraku. Zavičajni muzej nas grije kulturom prije nego što doživimo spokojnu tišinu crkve sv. Anastazije. Popodne u marini je spokojno, gotovo bez turista. Šetnja od plaže Dražica do uvale Soline nudi svježi morski povjetarac i spektakularan rani zalazak sunca nad otocima."
+            "hr": "Biograd pokazuje svoje stvarno, mirno lice zimi. Počinjemo kod spomenika u svježem jutarnjem zraku. Gradski muzej nas zagrije kulturom prije iskustva spokojne tišine crkve sv. Anastazije. Poslijepodne u marini je mirno, gotovo bez turista. Šetnja od plaže Dražica do uvale Soline nudi svježe morski povjetarac i spektakularan rani zalazak sunca nad otocima."
           },
           "stops": [
             {
@@ -563,7 +576,7 @@
                 "hu": "A reggeli nap alacsonyan jár, kiváló fényeket adva a fotókhoz.",
                 "ro": "Soarele de dimineață este jos și oferă o lumină excelentă pentru poze.",
                 "en": "The morning sun is low, providing great light for photos.",
-                "hr": "Jutarnje sunce je nisko, pružajući odlično svjetlo za fotografije."
+                "hr": "Jutarnje sunce je nisko, pruža izvrsno svjetlo za fotografije."
               }
             },
             {
@@ -573,7 +586,7 @@
                 "hu": "Ellenőrizze a téli nyitvatartást; gyakran csak délelőtt van nyitva.",
                 "ro": "Verificați programul de iarnă; adesea deschis doar dimineața.",
                 "en": "Check winter opening hours; often only open in the morning.",
-                "hr": "Provjerite zimsko radno vrijeme; često otvoreno samo ujutro."
+                "hr": "Provjerite zimska radna vremena; često otvoreno samo ujutro."
               }
             },
             {
@@ -583,7 +596,7 @@
                 "hu": "Bévül gyakran melegebb van, mint kint; ideális egy rövid pihenőre.",
                 "ro": "În interior este adesea mai cald decât afară; ideal pentru o pauză.",
                 "en": "It is often warmer inside than outside; ideal for a break.",
-                "hr": "Unutra je često toplije nego vani; idealno za predah."
+                "hr": "Unutra je često toplije nego vani; idealno za odmor."
               }
             },
             {
@@ -593,7 +606,7 @@
                 "hu": "Élvezze a téliesített jachtok látványát a csendes kikötőben.",
                 "ro": "Bucurați-vă de vederea iahturilor pregătite pentru iarnă.",
                 "en": "Enjoy the view of the yachts wintered in the quiet harbor.",
-                "hr": "Uživajte u pogledu na jahte koje zimuju u mirnoj luci."
+                "hr": "Uživajte u pogledu na jahte prezimljene u mirnoj luci."
               }
             },
             {
@@ -603,7 +616,7 @@
                 "hu": "Tökéletes egy tempós sétához a nyári hőség nélkül.",
                 "ro": "Perfect pentru o plimbare rapidă fără căldura verii.",
                 "en": "Perfect for a brisk walk without the summer heat.",
-                "hr": "Savršeno za brzu šetnju bez ljetnih vrućina."
+                "hr": "Savršeno za brzu šetnju bez ljetne vrućine."
               }
             },
             {
@@ -613,7 +626,7 @@
                 "hu": "Érkezzen 16:30 körül, hogy láthassa a naplementét.",
                 "ro": "Fiți aici în jurul orei 16:30 pentru a vedea apusul.",
                 "en": "Be here around 4:30 PM to catch the sunset.",
-                "hr": "Budite ovdje oko 16:30 kako biste uhvatili zalazak sunca."
+                "hr": "Budite ovdje oko 16:30 da uhvatite zalazak sunca."
               }
             }
           ],
@@ -643,10 +656,10 @@
               "The Bora (north wind) can significantly lower the perceived temperature."
             ],
             "hr": [
-              "Nosite odjeću otpornu na vjetar, posebno za područje marine.",
-              "Zalazak sunca u prosincu je prije 17:00 sati.",
-              "Mnogi barovi na plaži su zatvoreni; koristite kafiće u centru grada.",
-              "Bura može značajno sniziti osjet temperature."
+              "Nosite vjetrootpornu odjeću, posebno za područje marine.",
+              "Zalazak sunca u prosincu događa se prije 17:00.",
+              "Mnogi beach barovi su zatvoreni; koristite kafiće u središtu grada.",
+              "Bora (sjeverni vjetar) može znatno sniziti osjećaj temperature."
             ]
           }
         }
@@ -676,7 +689,7 @@
             "hu": "Tágas kiindulópont a kerékpározáshoz.",
             "ro": "Punct de plecare cu mult spațiu pentru biciclete.",
             "en": "Spacious starting point for cycling.",
-            "hr": "Prostrano polazište za vožnju biciklom."
+            "hr": "Prostrana polazna točka za biciklizam."
           }
         },
         {
@@ -695,7 +708,7 @@
             "hu": "Kicsi, békés kápolna a város szélén.",
             "ro": "Capelă mică și liniștită la marginea orașului.",
             "en": "Small, peaceful chapel on the outskirts.",
-            "hr": "Mala, mirna kapelica na rubu grada."
+            "hr": "Mala, mirna kapela na rubu mjesta."
           }
         },
         {
@@ -714,7 +727,7 @@
             "hu": "A kerékpárút a fák árnyékában vezet.",
             "ro": "Pista de biciclete trece prin umbra copacilor.",
             "en": "The bike path runs through the shade of trees.",
-            "hr": "Biciklistička staza prolazi kroz sjenu drveća."
+            "hr": "Biciklistička staza vodi kroz hladovinu stabala."
           }
         },
         {
@@ -733,7 +746,7 @@
             "hu": "Jó hely egy kis frissítőhöz.",
             "ro": "Un loc bun pentru o răcorire.",
             "en": "Good stop for a quick refreshment.",
-            "hr": "Dobra postaja za brzo osvježenje."
+            "hr": "Dobra stanica za kratko osvježenje."
           }
         },
         {
@@ -752,7 +765,7 @@
             "hu": "A 'horvát Gardaland' a kalandvágyóknak.",
             "ro": "Supranumit 'Gardaland-ul croat'.",
             "en": "The 'Croatian Gardaland' for thrill-seekers.",
-            "hr": "Hrvatski Gardaland za ljubitelje adrenalina."
+            "hr": "'Hrvatski Gardaland' za tražitelje adrenalina."
           }
         },
         {
@@ -771,7 +784,7 @@
             "hu": "Kulturális zárás a városközpontban.",
             "ro": "Final cultural în centrul orașului.",
             "en": "A cultural finish in the town center.",
-            "hr": "Kulturni završetak u centru grada."
+            "hr": "Kulturan završetak u središtu grada."
           }
         }
       ],
@@ -780,7 +793,7 @@
         "hu": "Kerékpározzon Biogradban és a tengerpart mentén. A kikötőtől indulva érintse a csendes Szent Antal-templomot, majd folytassa útját az árnyas utakon a Dražica és Soline strandok mentén. Az akciókedvelőknek a várostól délre fekvő Fun Park Biograd a fő attrakció. Visszafelé a Helytörténeti Múzeumban még egyszer elmélyedhet a történelemben. Változatos túra természet, adrenalin és kultúra között.",
         "ro": "Explorați Biogradul și coasta sa cu bicicleta. De la marină porniți spre liniștita biserică Sf. Anton și continuați pe potecile umbrite de-a lungul plajelor Dražica și Soline. Punctul culminant pentru fanii adrenalinei este Fun Park Biograd, în sudul orașului. La întoarcere, vizitați Muzeul Local pentru o doză finală de istorie. Un tur variat între natură, adrenalină și cultură.",
         "en": "Cycle through Biograd and its coastline. From the marina, head to the peaceful St. Anthony's Church and continue along the shaded paths by Dražica and Soline beaches. The highlight for thrill-seekers is Fun Park Biograd south of town. On the way back, immerse yourself in history at the Local Museum. A diverse tour blending nature, adrenaline, and culture.",
-        "hr": "Vozite bicikl kroz Biograd i njegovu obalu. Od marine krenite prema mirnoj crkvi sv. Ante i nastavite sjenovitim stazama uz plaže Dražica i Soline. Vrhunac za ljubitelje adrenalina je Fun Park Biograd južno od grada. Na povratku uronite u povijest u Zavičajnom muzeju. Raznolika tura koja spaja prirodu, adrenalin i kulturu."
+        "hr": "Biciklirajte kroz Biograd i njegovu obalu. Iz marine krenite prema mirnoj crkvi sv. Antuna i nastavite uz sjenovite staze pokraj plaža Dražica i Soline. Vrhunac za adrenalinske ljubitelje je Fun Park Biograd južno od grada. Na povratku uronite u povijest u Gradskom muzeju. Raznolika tura koja spaja prirodu, adrenalin i kulturu."
       },
       "gastro_picks": {
         "de": [
@@ -909,10 +922,10 @@
           "Watch out for pedestrians on the promenade."
         ],
         "hr": [
-          "Ruta do Solina je gotovo potpuno ravna.",
-          "Propisno osigurajte bicikl kod Fun Parka.",
+          "Ruta prema Solinama gotovo je potpuno ravna.",
+          "Osigurajte svoj bicikl pravilno u Fun Parku.",
           "Izbjegavajte glavnu cestu; držite se obalnih staza.",
-          "Pazite na pješake na šetnici."
+          "Čuvajte se pješaka na promenadi."
         ]
       },
       "variants": {
@@ -921,7 +934,8 @@
             "de": "Erfahren Sie Biograd und seine Küste mit dem Fahrrad. Von der Marina geht es zur ruhigen St.-Antonius-Kirche und weiter auf den schattigen Wegen entlang der Strände Dražica und Soline. Das Highlight für Action-Fans ist der Fun Park Biograd im Süden der Stadt. Auf dem Rückweg tauchen Sie im Heimatmuseum noch einmal in die Geschichte ein. Eine abwechslungsreiche Tour zwischen Natur, Adrenalin und Kultur.",
             "hu": "Kerékpározzon Biogradban és a tengerpart mentén. A kikötőtől indulva érintse a csendes Szent Antal-templomot, majd folytassa útját az árnyas utakon a Dražica és Soline strandok mentén. Az akciókedvelőknek a várostól délre fekvő Fun Park Biograd a fő attrakció. Visszafelé a Helytörténeti Múzeumban még egyszer elmélyedhet a történelemben. Változatos túra természet, adrenalin és kultúra között.",
             "ro": "Explorați Biogradul și coasta sa cu bicicleta. De la marină porniți spre liniștita biserică Sf. Anton și continuați pe potecile umbrite de-a lungul plajelor Dražica și Soline. Punctul culminant pentru fanii adrenalinei este Fun Park Biograd, în sudul orașului. La întoarcere, vizitați Muzeul Local pentru o doză finală de istorie. Un tur variat între natură, adrenalină și cultură.",
-            "en": "Cycle through Biograd and its coastline. From the marina, head to the peaceful St. Anthony's Church and continue along the shaded paths by Dražica and Soline beaches. The highlight for thrill-seekers is Fun Park Biograd south of town. On the way back, immerse yourself in history at the Local Museum. A diverse tour blending nature, adrenaline, and culture."
+            "en": "Cycle through Biograd and its coastline. From the marina, head to the peaceful St. Anthony's Church and continue along the shaded paths by Dražica and Soline beaches. The highlight for thrill-seekers is Fun Park Biograd south of town. On the way back, immerse yourself in history at the Local Museum. A diverse tour blending nature, adrenaline, and culture.",
+            "hr": "Biciklirajte kroz Biograd i njegovu obalu. Iz marine krenite prema mirnoj crkvi sv. Antuna i nastavite uz sjenovite staze pokraj plaža Dražica i Soline. Vrhunac za adrenalinske ljubitelje je Fun Park Biograd južno od grada. Na povratku uronite u povijest u Gradskom muzeju. Raznolika tura koja spaja prirodu, adrenalin i kulturu."
           },
           "stops": [
             {
@@ -930,7 +944,8 @@
                 "de": "Startpunkt mit viel Platz zum Radfahren.",
                 "hu": "Tágas kiindulópont a kerékpározáshoz.",
                 "ro": "Punct de plecare cu mult spațiu pentru biciclete.",
-                "en": "Spacious starting point for cycling."
+                "en": "Spacious starting point for cycling.",
+                "hr": "Prostrana polazna točka za biciklizam."
               }
             },
             {
@@ -939,7 +954,8 @@
                 "de": "Kleine, friedliche Kapelle am Stadtrand.",
                 "hu": "Kicsi, békés kápolna a város szélén.",
                 "ro": "Capelă mică și liniștită la marginea orașului.",
-                "en": "Small, peaceful chapel on the outskirts."
+                "en": "Small, peaceful chapel on the outskirts.",
+                "hr": "Mala, mirna kapela na rubu mjesta."
               }
             },
             {
@@ -948,7 +964,8 @@
                 "de": "Radweg führt durch den Schatten der Bäume.",
                 "hu": "A kerékpárút a fák árnyékában vezet.",
                 "ro": "Pista de biciclete trece prin umbra copacilor.",
-                "en": "The bike path runs through the shade of trees."
+                "en": "The bike path runs through the shade of trees.",
+                "hr": "Biciklistička staza vodi kroz hladovinu stabala."
               }
             },
             {
@@ -957,7 +974,8 @@
                 "de": "Guter Stopp für eine Erfrischung.",
                 "hu": "Jó hely egy kis frissítőhöz.",
                 "ro": "Un loc bun pentru o răcorire.",
-                "en": "Good stop for a quick refreshment."
+                "en": "Good stop for a quick refreshment.",
+                "hr": "Dobra stanica za kratko osvježenje."
               }
             },
             {
@@ -966,7 +984,8 @@
                 "de": "Der 'kroatische Gardaland' für Abenteuerlustige.",
                 "hu": "A 'horvát Gardaland' a kalandvágyóknak.",
                 "ro": "Supranumit 'Gardaland-ul croat'.",
-                "en": "The 'Croatian Gardaland' for thrill-seekers."
+                "en": "The 'Croatian Gardaland' for thrill-seekers.",
+                "hr": "'Hrvatski Gardaland' za tražitelje adrenalina."
               }
             },
             {
@@ -975,7 +994,8 @@
                 "de": "Abschluss mit Kultur im Stadtzentrum.",
                 "hu": "Kulturális zárás a városközpontban.",
                 "ro": "Final cultural în centrul orașului.",
-                "en": "A cultural finish in the town center."
+                "en": "A cultural finish in the town center.",
+                "hr": "Kulturan završetak u središtu grada."
               }
             }
           ],
@@ -1085,6 +1105,12 @@
               "Secure your bike properly at Fun Park.",
               "Avoid the main road; stick to the coastal paths.",
               "Watch out for pedestrians on the promenade."
+            ],
+            "hr": [
+              "Ruta prema Solinama gotovo je potpuno ravna.",
+              "Osigurajte svoj bicikl pravilno u Fun Parku.",
+              "Izbjegavajte glavnu cestu; držite se obalnih staza.",
+              "Čuvajte se pješaka na promenadi."
             ]
           }
         },
@@ -1094,7 +1120,7 @@
             "hu": "Az eső ellenére a Marina Kornatinál kezdjük a biciklis túrát. Vízálló ruhában tekerünk a Szent Antal-templomig, majd tovább a part mentén a Dražica strandig. A Soline-öböl felé vezető út figyelmet igényel, de magányos kilátással hálálja meg. A Fun Park helyett délután a száraz Helytörténeti Múzeumban töltünk több időt.",
             "ro": "În ciuda ploii, începem turul cu bicicleta la Marina Kornati. Cu haine impermeabile mergem la biserica Sf. Anton și mai departe pe coastă spre plaja Dražica. Drumul spre golful Soline necesită concentrare, dar răsplătește cu vederi solitare. Vizita la Fun Park este scurtată în favoarea unei șederi mai lungi la Muzeul de Istorie.",
             "en": "Despite the rain, we start the bike tour at Marina Kornati. In waterproof gear, we pedal to St. Anthony's Church and further along the coast to Dražica Beach. The ride to Soline Bay requires concentration but rewards us with solitary views. We swap the Fun Park for a longer stay at the dry Heritage Museum in the afternoon.",
-            "hr": "Unatoč kiši, biciklističku turu započinjemo u Marini Kornati. U vodootpornoj opremi vozimo do crkve sv. Ante i dalje obalom do plaže Dražica. Vožnja do uvale Soline zahtijeva koncentraciju, ali nagrađuje osamljenim pogledima. Fun Park mijenjamo za duži boravak u suhom Zavičajnom muzeju poslijepodne."
+            "hr": "Unatoč kiši, započinjemo biciklističku turu u Marini Kornati. U vodootpornoj opremi pedaliramo do crkve sv. Antuna i dalje uz obalu do plaže Dražica. Vožnja do uvale Soline zahtijeva koncentraciju, ali nagrađuje osamljenim prizorima. Umjesto Fun Parka provodimo dulje vrijeme u suhom Gradskom muzeju poslijepodne."
           },
           "stops": [
             {
@@ -1124,7 +1150,7 @@
                 "hu": "A partmenti sétány a tócsák környékén csúszós lehet.",
                 "ro": "Promenada de pe mal poate fi alunecoasă în zonele cu bălți.",
                 "en": "The waterfront promenade can be slippery where puddles form.",
-                "hr": "Obalna šetnica može biti skliska tamo gdje se stvaraju lokve."
+                "hr": "Promenada može biti klizava tamo gdje se stvaraju lokve."
               }
             },
             {
@@ -1134,7 +1160,7 @@
                 "hu": "Használja az erdei utat, amely némi védelmet nyújt a szél ellen.",
                 "ro": "Folosiți drumul prin pădure, care oferă puțină protecție contra vântului.",
                 "en": "Use the forest path, which offers some protection from the wind.",
-                "hr": "Koristite šumsku stazu koja nudi određenu zaštitu od vjetra."
+                "hr": "Iskoristite šumski put koji nudi određenu zaštitu od vjetra."
               }
             },
             {
@@ -1144,7 +1170,7 @@
                 "hu": "Heves esőzés esetén sok játék nem üzemel.",
                 "ro": "În caz de ploaie torențială, multe atracții sunt închise.",
                 "en": "Many rides are closed during heavy rain.",
-                "hr": "Mnoge vožnje u parku su zatvorene tijekom jake kiše."
+                "hr": "Mnoge vožnje su zatvorene tijekom jake kiše."
               }
             },
             {
@@ -1154,7 +1180,7 @@
                 "hu": "Biztonságos kerékpártárolók találhatók közvetlenül a bejáratnál.",
                 "ro": "Suporturi sigure pentru biciclete se află chiar în fața intrării.",
                 "en": "Secure bike racks are located right in front of the entrance.",
-                "hr": "Sigurni stalci za bicikle nalaze se točno ispred ulaza."
+                "hr": "Sigurni rasjedi za bicikle nalaze se odmah ispred ulaza."
               }
             }
           ],
@@ -1184,9 +1210,9 @@
               "Paths by the sea are often heavily exposed to the wind."
             ],
             "hr": [
-              "Nosite svijetli kišni ogrtač radi bolje vidljivosti.",
-              "Izbjegavajte naglo kočenje na bijelim kamenim pločama.",
-              "Tijekom pauza zaštitite sjedalo plastičnom vrećicom.",
+              "Nosite jarku kabanicu za bolju vidljivost.",
+              "Izbjegavajte naglo kočenje na bijelim kamennim pločama.",
+              "Zaštitite sjedalo plastičnom vrećicom tijekom pauza.",
               "Staze uz more često su jako izložene vjetru."
             ]
           }
@@ -1197,7 +1223,7 @@
             "hu": "A téli biciklitúra frissítően indul a Marina Kornatinál. A Szent Antal-templom felé tekerünk, majd a Dražica strandról csodáljuk a tiszta kilátást. A Soline-öbölben ilyenkor teljes a nyugalom. Mivel a Fun Park télen zárva tart, több időnk marad a hátország olajfaligetei közötti tekerésre, mielőtt a múzeumban felmelegednénk.",
             "ro": "Turul de iarnă începe cu prospețime la Marina Kornati. Pedalăm spre biserica Sf. Anton și ne bucurăm de vederea clară spre insule de pe plaja Dražica. În golful Soline este minunat de liniște. Deoarece Fun Park este de obicei închis iarna, folosim timpul pentru o plimbare prin livezile de măslini din hinterland.",
             "en": "The winter tour starts fresh at Marina Kornati. We cycle to St. Anthony's Church and enjoy the clear island views from Dražica Beach. Soline Bay is wonderfully quiet now. As the Fun Park is mostly closed in winter, we use the time for an extensive ride through the inland olive groves before warming up at the Heritage Museum.",
-            "hr": "Zimska tura počinje svježe u Marini Kornati. Vozimo do crkve sv. Ante i uživamo u čistom pogledu na otoke s plaže Dražica. Uvala Soline sada je predivno mirna. Budući da je Fun Park zimi uglavnom zatvoren, vrijeme koristimo za dužu vožnju kroz maslinike u unutrašnjosti prije grijanja u Zavičajnom muzeju."
+            "hr": "Zimska tura započinje svježe u Marini Kornati. Bicikliramo do crkve sv. Antuna i uživamo u čistim otočnim pogledima s plaže Dražica. Uvala Soline je sada prekrasno mirna. Kako je Fun Park većinom zatvoren zimi, vrijeme koristimo za opsežnu vožnju kroz unutrašnja maslinika prije zagrijavanja u Gradskom muzeju."
           },
           "stops": [
             {
@@ -1217,7 +1243,7 @@
                 "hu": "Nyugodt hely egy rövid pihenőre a szélvédett oldalon.",
                 "ro": "Un loc liniștit pentru o scurtă odihnă la adăpost de vânt.",
                 "en": "A quiet place for a short rest in the lee of the wind.",
-                "hr": "Mirno mjesto za kratki odmor u zavjetrini."
+                "hr": "Mirno mjesto za kratak odmor u zaklonu od vjetra."
               }
             },
             {
@@ -1227,7 +1253,7 @@
                 "hu": "A téli nap erősen tükröződhet a vízfelszínen.",
                 "ro": "Soarele de iarnă se poate reflecta puternic pe apă.",
                 "en": "The winter sun can reflect strongly on the water.",
-                "hr": "Zimsko sunce može se snažno reflektirati na vodi."
+                "hr": "Zimsko sunce može se jako reflektirati na vodi."
               }
             },
             {
@@ -1247,7 +1273,7 @@
                 "hu": "Télen zárva; tekintse meg a területet kívülről.",
                 "ro": "Închis iarna; vizitați împrejurimile din exterior.",
                 "en": "Closed in winter; view the grounds from the outside.",
-                "hr": "Zatvoreno zimi; razgledajte teren izvana."
+                "hr": "Zatvoreno zimi; razgledajte posjed izvana."
               }
             },
             {
@@ -1287,10 +1313,10 @@
               "Avoid cycling immediately after sunset (sudden temperature drop)."
             ],
             "hr": [
-              "Nosite više slojeva (princip luka) protiv hladnog vjetra.",
+              "Nosite više slojeva odjeće (sloj po sloj) protiv osjećaja hladnoće od vjetra.",
               "Zrak je zimi vrlo suh; spakirajte balzam za usne.",
-              "Rasvjeta na biciklu je važna jer rano pada mrak.",
-              "Izbjegavajte vožnju neposredno nakon zalaska sunca (nagli pad temperature)."
+              "Svjetla na biciklu su važna jer se rano smrkava.",
+              "Izbjegavajte bicikliranje odmah nakon zalaska sunca (naglo zahladnjenje)."
             ]
           }
         }
@@ -1320,7 +1346,7 @@
             "hu": "Parkoljon a kikötői medencénél.",
             "ro": "Parcați lângă bazinul portului.",
             "en": "Park near the harbor basin.",
-            "hr": "Parkirajte u blizini lučkog bazena."
+            "hr": "Parkirajte blizu lučkog bazena."
           }
         },
         {
@@ -1358,7 +1384,7 @@
             "hu": "Nagy parkoló a fenyőfák árnyékában.",
             "ro": "Parcare mare la umbra pinilor.",
             "en": "Large parking lot in the pine shade.",
-            "hr": "Veliki parking u sjeni borova."
+            "hr": "Veliko parkiralište u hladu borova."
           }
         },
         {
@@ -1405,7 +1431,7 @@
         "hu": "Autóval kényelmesen felfedezheti Biogradot és látnivalóit. Kezdjen kultúrával a Helytörténeti Múzeumban és az Anasztázia-templomnál. Ezután a Soline-öböl kínál tökéletes fürdőzési lehetőséget könnyű parkolással. A délutánt töltse a Fun Park Biogradban, majd térjen vissza a Marina Kornatihoz, hogy naplementekor megcsodálja a lenyűgöző hajókat. Változatos nap az egész családnak.",
         "ro": "Cu mașina, explorați Biogradul și atracțiile sale în mod relaxat. Începeți cu cultura la Muzeul Local și biserica Anastasia. Apoi, golful Soline oferă condiții perfecte de baie și parcare facilă. Petreceți după-amiaza la Fun Park Biograd, înainte de a reveni la Marina Kornati pentru a vedea navele impresionante la apus. O zi plină de diversitate pentru întreaga familie.",
         "en": "By car, you can explore Biograd and its attractions at your own pace. Start with culture at the Local Museum and Anastasia Church. Afterward, Soline Bay offers perfect swimming with easy parking. Spend the afternoon at Fun Park Biograd before returning to Marina Kornati to see the impressive ships at sunset. A day full of variety for the whole family.",
-        "hr": "Automobilom možete istražiti Biograd i njegove atrakcije vlastitim tempom. Započnite kulturom u Zavičajnom muzeju i crkvi sv. Anastazije. Nakon toga, uvala Soline nudi savršeno kupanje uz jednostavan parking. Provedite popodne u Fun Parku Biograd prije povratka u Marinu Kornati kako biste vidjeli impresivne brodove uz zalazak sunca. Dan pun raznolikosti za cijelu obitelj."
+        "hr": "Autom možete istražiti Biograd i njegove atrakcije vlastitim tempom. Počnite s kulturom u Zavičajnom muzeju i crkvi sv. Anastazije. Nakon toga, uvala Soline nudi savršeno kupanje uz jednostavno parkiranje. Poslijepodne provedite u Fun Parku Biograd prije povratka u Marinu Kornati da vidite impresivne brodove pri zalasku sunca. Dan pun raznolikosti za cijelu obitelj."
       },
       "gastro_picks": {
         "de": [
@@ -1534,10 +1560,10 @@
           "Drive to nearby Kamenjak viewpoint for great vistas."
         ],
         "hr": [
-          "Parkiranje u centru je teško tijekom vrhunca sezone.",
-          "Koristite aplikaciju za parkiranje za praktično plaćanje.",
-          "Posjetite Fun Park radnim danom za kraće redove.",
-          "Odvezite se do obližnjeg vidikovca Kamenjak za sjajne poglede."
+          "Parkiranje u centru je teško tijekom glavne sezone.",
+          "Koristite aplikaciju za parkiranje za jednostavno plaćanje.",
+          "Posjetite Fun Park radnim danima za kraće redove.",
+          "Vozite do obližnjeg vidikovca Kamenjak za prekrasne poglede."
         ]
       },
       "variants": {
@@ -1546,7 +1572,8 @@
             "de": "Mit dem Auto erkunden Sie Biograd und seine Attraktionen ganz entspannt. Starten Sie mit Kultur im Heimatmuseum und der Anastasia-Kirche. Danach bietet die Bucht Soline perfekte Bademöglichkeiten mit einfachem Parken. Den Nachmittag verbringen Sie im Fun Park Biograd, bevor Sie zur Marina Kornati zurückkehren, um die beeindruckenden Schiffe bei Sonnenuntergang zu sehen. Ein Tag voller Abwechslung für die ganze Familie.",
             "hu": "Autóval kényelmesen felfedezheti Biogradot és látnivalóit. Kezdjen kultúrával a Helytörténeti Múzeumban és az Anasztázia-templomnál. Ezután a Soline-öböl kínál tökéletes fürdőzési lehetőséget könnyű parkolással. A délutánt töltse a Fun Park Biogradban, majd térjen vissza a Marina Kornatihoz, hogy naplementekor megcsodálja a lenyűgöző hajókat. Változatos nap az egész családnak.",
             "ro": "Cu mașina, explorați Biogradul și atracțiile sale în mod relaxat. Începeți cu cultura la Muzeul Local și biserica Anastasia. Apoi, golful Soline oferă condiții perfecte de baie și parcare facilă. Petreceți după-amiaza la Fun Park Biograd, înainte de a reveni la Marina Kornati pentru a vedea navele impresionante la apus. O zi plină de diversitate pentru întreaga familie.",
-            "en": "By car, you can explore Biograd and its attractions at your own pace. Start with culture at the Local Museum and Anastasia Church. Afterward, Soline Bay offers perfect swimming with easy parking. Spend the afternoon at Fun Park Biograd before returning to Marina Kornati to see the impressive ships at sunset. A day full of variety for the whole family."
+            "en": "By car, you can explore Biograd and its attractions at your own pace. Start with culture at the Local Museum and Anastasia Church. Afterward, Soline Bay offers perfect swimming with easy parking. Spend the afternoon at Fun Park Biograd before returning to Marina Kornati to see the impressive ships at sunset. A day full of variety for the whole family.",
+            "hr": "Autom možete istražiti Biograd i njegove atrakcije vlastitim tempom. Počnite s kulturom u Zavičajnom muzeju i crkvi sv. Anastazije. Nakon toga, uvala Soline nudi savršeno kupanje uz jednostavno parkiranje. Poslijepodne provedite u Fun Parku Biograd prije povratka u Marinu Kornati da vidite impresivne brodove pri zalasku sunca. Dan pun raznolikosti za cijelu obitelj."
           },
           "stops": [
             {
@@ -1555,7 +1582,8 @@
                 "de": "Parken Sie am Hafenbecken.",
                 "hu": "Parkoljon a kikötői medencénél.",
                 "ro": "Parcați lângă bazinul portului.",
-                "en": "Park near the harbor basin."
+                "en": "Park near the harbor basin.",
+                "hr": "Parkirajte blizu lučkog bazena."
               }
             },
             {
@@ -1564,7 +1592,8 @@
                 "de": "Kurzer Stopp im Zentrum.",
                 "hu": "Rövid megálló a központban.",
                 "ro": "Oprire scurtă în centru.",
-                "en": "Short stop in the city center."
+                "en": "Short stop in the city center.",
+                "hr": "Kratko zaustavljanje u centru grada."
               }
             },
             {
@@ -1573,7 +1602,8 @@
                 "de": "Großer Parkplatz im Schatten der Pinien.",
                 "hu": "Nagy parkoló a fenyőfák árnyékában.",
                 "ro": "Parcare mare la umbra pinilor.",
-                "en": "Large parking lot in the pine shade."
+                "en": "Large parking lot in the pine shade.",
+                "hr": "Veliko parkiralište u hladu borova."
               }
             },
             {
@@ -1582,7 +1612,8 @@
                 "de": "Genügend Parkplätze direkt am Eingang.",
                 "hu": "Elegendő parkoló közvetlenül a bejáratnál.",
                 "ro": "Suficiente locuri de parcare la intrare.",
-                "en": "Ample parking right at the entrance."
+                "en": "Ample parking right at the entrance.",
+                "hr": "Dovoljno parkirnih mjesta odmah na ulazu."
               }
             },
             {
@@ -1591,7 +1622,8 @@
                 "de": "Abendspaziergang vor der Rückfahrt.",
                 "hu": "Esti séta a visszaindulás előtt.",
                 "ro": "Plimbare de seară înainte de plecare.",
-                "en": "Evening stroll before heading back."
+                "en": "Evening stroll before heading back.",
+                "hr": "Večernja šetnja prije povratka."
               }
             }
           ],
@@ -1701,6 +1733,12 @@
               "Use the parking app for convenient payment.",
               "Visit Fun Park on weekdays for shorter queues.",
               "Drive to nearby Kamenjak viewpoint for great vistas."
+            ],
+            "hr": [
+              "Parkiranje u centru je teško tijekom glavne sezone.",
+              "Koristite aplikaciju za parkiranje za jednostavno plaćanje.",
+              "Posjetite Fun Park radnim danima za kraće redove.",
+              "Vozite do obližnjeg vidikovca Kamenjak za prekrasne poglede."
             ]
           }
         },
@@ -1710,7 +1748,7 @@
             "hu": "Autóval Biograd esőben is kényelmes. A Helytörténeti Múzeumnál kezdünk, majd a Szent Anasztázia-templomhoz hajtunk, amely csak pár lépésre van a parkolótól. A Soline-öböl felé menet az autóból csodáljuk a tengert. A Fun Parkban a fedett attrakciókat keressük, végül a kikötő látványával zárjuk a napot.",
             "ro": "Cu mașina, Biograd este relaxant chiar și pe ploaie. Începem la Muzeul de Istorie, apoi mergem la biserica Sf. Anastasia, situată la câțiva pași de parcare. Drumul spre golful Soline ne permite să observăm marea confortabil din fereastră. La Fun Park folosim ofertele de interior, înainte de a încheia ziua cu o privire asupra marinei.",
             "en": "By car, Biograd is relaxed even in the rain. We start dry at the Heritage Museum, then head to St. Anastasia Church, just steps from parking. The drive to Soline Bay lets us watch the sea comfortably from the window. At the Fun Park, we focus on indoor options before ending the day with a view of Marina Kornati.",
-            "hr": "Automobilom je Biograd opušten čak i po kiši. Počinjemo na suhom u Zavičajnom muzeju, zatim idemo do crkve sv. Anastazije, koja je samo nekoliko koraka od parkinga. Vožnja do uvale Soline omogućuje nam da udobno promatramo more s prozora. U Fun Parku se fokusiramo na unutarnje opcije prije završetka dana s pogledom na Marinu Kornati."
+            "hr": "Autom je Biograd opušten čak i po kiši. Počinjemo suhi u Zavičajnom muzeju, zatim posjećujemo crkvu sv. Anastazije, odmah uza parking. Vožnja do uvale Soline omogućuje nam ugodno promatranje mora kroz prozor. U Fun Parku biramo unutarnje sadržaje prije nego što dan završimo pogledom na Marinu Kornati."
           },
           "stops": [
             {
@@ -1720,7 +1758,7 @@
                 "hu": "A parti sétány parkolói esőben általában üresek.",
                 "ro": "Locurile de parcare de pe faleză sunt de obicei libere pe ploaie.",
                 "en": "Parking spaces on the waterfront are usually free when it rains.",
-                "hr": "Parkirna mjesta na rivi obično su slobodna kad pada kiša."
+                "hr": "Parkirna mjesta uz obalu obično su besplatna kad pada kiša."
               }
             },
             {
@@ -1730,7 +1768,7 @@
                 "hu": "Tervezzen rövid sétát az autó és a templombejárat között.",
                 "ro": "Planificați distanțe scurte între mașină și intrarea în biserică.",
                 "en": "Plan for short walks between the car and the church entrance.",
-                "hr": "Planirajte kratke šetnje između automobila i ulaza u crkvu."
+                "hr": "Planirajte kratke šetnje između auta i ulaza u crkvu."
               }
             },
             {
@@ -1740,7 +1778,7 @@
                 "hu": "Parkoljon közvetlenül az erdő szélén a legjobb tengeri kilátásért.",
                 "ro": "Parcați chiar la marginea pădurii pentru cea mai bună vedere la mare.",
                 "en": "Park right at the forest edge for the best sea view.",
-                "hr": "Parkirajte točno na rubu šume za najbolji pogled na more."
+                "hr": "Parkirajte odmah na rubu šume za najbolji pogled na more."
               }
             },
             {
@@ -1760,7 +1798,7 @@
                 "hu": "Élvezze a kikötői kilátást az autóból egy kávészünet alatt.",
                 "ro": "Bucurați-vă de vederea portului din mașină în timpul unei pauze.",
                 "en": "Enjoy the harbor view from the car during a coffee break.",
-                "hr": "Uživajte u pogledu na luku iz automobila tijekom pauze za kavu."
+                "hr": "Uživajte u pogledu na luku iz auta tijekom pauze za kavu."
               }
             }
           ],
@@ -1790,10 +1828,10 @@
               "An umbrella in the trunk is essential for stops."
             ],
             "hr": [
-              "Koristite klima uređaj kako biste spriječili magljenje stakala.",
+              "Koristite klima-uređaj da spriječite zamagljivanje stakala.",
               "Pazite na velike lokve na obalnoj cesti.",
               "Naknade za parkiranje mogu biti niže ili ukinute zimi.",
-              "Kišobran u prtljažniku je neophodan za stajanja."
+              "Kišobran u prtljažniku je nužan za zaustavljanja."
             ]
           }
         },
@@ -1803,7 +1841,7 @@
             "hu": "A téli városnézés autóval Biogradban kifejezetten pihentető. A Helytörténeti Múzeumnál kezdünk, majd felfedezzük a Szent Anasztázia-templomot. A Soline-öböl felé vezető út az alvó tengerparti tájon visz keresztül. Mivel a Fun Park zárva van, elautózunk a közeli Vrana-tóhoz (Vransko Jezero), mielőtt a napot a kikötőben zárnánk.",
             "ro": "Vizitarea iarna cu mașina este deosebit de relaxantă în Biograd. Începem la Muzeul de Istorie și explorăm apoi biserica Sf. Anastasia. Drumul spre golful Soline ne poartă printr-un peisaj de coastă adormit. Deoarece Fun Park este închis, folosim mașina pentru o excursie la lacul Vransko Jezero.",
             "en": "Winter sightseeing by car is especially relaxed in Biograd. We start at the Heritage Museum and explore St. Anastasia Church. The drive to Soline Bay takes us through a sleeping coastal landscape. Since the Fun Park is closed, we use the car for a trip to the nearby Lake Vrana (Vransko Jezero) before ending the day at Marina Kornati.",
-            "hr": "Zimsko razgledavanje automobilom posebno je opušteno u Biogradu. Počinjemo u Zavičajnom muzeju i istražujemo crkvu sv. Anastazije. Vožnja do uvale Soline vodi nas kroz usnuli obalni krajolik. Budući da je Fun Park zatvoren, automobil koristimo za izlet do obližnjeg Vranskog jezera prije završetka dana u Marini Kornati."
+            "hr": "Zimsko razgledavanje automobilom posebno je opušteno u Biogradu. Počinjemo u Zavičajnom muzeju i razgledavamo crkvu sv. Anastazije. Vožnja do uvale Soline vodi nas kroz uspavani obalni krajolik. Budući da je Fun Park zatvoren, koristimo auto za izlet do obližnjeg Vranskog jezera prije nego što dan završimo u Marini Kornati."
           },
           "stops": [
             {
@@ -1813,7 +1851,7 @@
                 "hu": "Közvetlenül előtte télen bőségesen van parkolóhely.",
                 "ro": "Există multe locuri de parcare chiar în față iarna.",
                 "en": "There is plenty of parking right in front during winter.",
-                "hr": "Zimi ima dovoljno parkinga odmah ispred."
+                "hr": "Ima dovoljno parkiranja odmah ispred tijekom zime."
               }
             },
             {
@@ -1833,7 +1871,7 @@
                 "hu": "A parkoló télen gyakran ingyenes.",
                 "ro": "Parcarea este adesea gratuită iarna.",
                 "en": "The parking lot is often free in winter.",
-                "hr": "Parkiralište je zimi često besplatno."
+                "hr": "Parkiralište je često besplatno zimi."
               }
             },
             {
@@ -1843,7 +1881,7 @@
                 "hu": "Tartson egy fotómegállót a bejáratnál (western tematika).",
                 "ro": "Faceți o oprire pentru poze la intrare (tematică western).",
                 "en": "Take a photo stop at the entrance (Western theme).",
-                "hr": "Napravite pauzu za fotografiranje na ulazu (Western tema)."
+                "hr": "Stani za fotografiju na ulazu (western tema)."
               }
             },
             {
@@ -1883,10 +1921,10 @@
               "Finding a parking spot is stress-free compared to summer."
             ],
             "hr": [
-              "Provjerite antifriz u sustavu za pranje vjetrobrana.",
-              "Obalna cesta može imati zaleđene dijelove u vedrim noćima.",
-              "Iskoristite kratke udaljenosti za grijanje u automobilu.",
-              "Pronalaženje parkirnog mjesta je bez stresa u usporedbi s ljetom."
+              "Provjerite antifriz u sustavu za pranje vjetrobranskog stakla.",
+              "Obalna cesta može imati zaleđene dijelove po vedrim noćima.",
+              "Iskoristite kratke udaljenosti da se u autu ugrijete.",
+              "Pronalaženje parkirnog mjesta manje je stresno u usporedbi sa ljetom."
             ]
           }
         }
@@ -1916,7 +1954,7 @@
             "hu": "A buszpályaudvar csak pár lépésre van.",
             "ro": "Autogara este la doar câțiva pași distanță.",
             "en": "The bus station is just a few steps away.",
-            "hr": "Autobusni kolodvor je udaljen samo nekoliko koraka."
+            "hr": "Autobusna stanica je samo nekoliko koraka udaljena."
           }
         },
         {
@@ -1935,7 +1973,7 @@
             "hu": "Központi tájékozódási pont a városban.",
             "ro": "Punct central de referință în oraș.",
             "en": "Central landmark in the town.",
-            "hr": "Središnji simbol u gradu."
+            "hr": "Središnji orijentir u gradu."
           }
         },
         {
@@ -1954,7 +1992,7 @@
             "hu": "Gyalogosan könnyen elérhető a kikötőtől.",
             "ro": "Accesibil ușor pe jos din port.",
             "en": "Easily reachable on foot from the harbor.",
-            "hr": "Lako dostupno pješice iz luke."
+            "hr": "Jednostavno dostupno pješice iz luke."
           }
         },
         {
@@ -1973,7 +2011,7 @@
             "hu": "Sok étterem található a közvetlen közelében.",
             "ro": "Multe restaurante în imediata apropiere.",
             "en": "Many dining options in the immediate area.",
-            "hr": "Mnogo opcija za objedovanje u neposrednoj blizini."
+            "hr": "Mnoge opcije za jelo u neposrednoj blizini."
           }
         },
         {
@@ -1992,7 +2030,7 @@
             "hu": "A legjobb strand a buszmegálló közelében.",
             "ro": "Cea mai bună plajă accesibilă din stație.",
             "en": "Best beach within reach of the bus stop.",
-            "hr": "Najbolja plaža u dometu autobusne stanice."
+            "hr": "Najbolja plaža u dosegu autobusne stanice."
           }
         }
       ],
@@ -2001,7 +2039,7 @@
         "hu": "Biograd fontos közlekedési csomópont, busszal kiválóan elérhető. A kikötő melletti buszpályaudvartól minden központi látnivaló, mint a Helytörténeti Múzeum és az Anasztázia-templom, pár perc alatt elérhető gyalog. Sétáljon el a Marina Kornatihoz, majd tovább a Dražica strandra anélkül, hogy a parkolás miatt aggódna. Ideális választás az utazóknak, akik fenntartható módon fedeznék fel Dalmácia partjait.",
         "ro": "Biograd este un important nod de transport, ușor accesibil cu autobuzul. De la autogara din port, toate obiectivele centrale, cum ar fi Muzeul Local și biserica Anastasia, sunt la câteva minute de mers pe jos. Mergeți la Marina Kornati și mai departe la plaja Dražica fără grija parcării. Alegerea ideală pentru călătorii care doresc să exploreze orașele de coastă dalmate într-un mod sustenabil.",
         "en": "Biograd is a key transport hub and very accessible by bus. From the station by the harbor, all central sights like the Local Museum and Anastasia Church are just minutes away on foot. Stroll to Marina Kornati and on to Dražica beach without worrying about parking. The ideal choice for travelers wanting to explore Dalmatian coastal towns sustainably.",
-        "hr": "Biograd je ključno prometno čvorište i vrlo je pristupačan autobusom. S kolodvora kod luke, sve središnje znamenitosti poput Zavičajnog muzeja i crkve sv. Anastazije udaljene su svega nekoliko minuta hoda. Prošećite do Marine Kornati i dalje do plaže Dražica bez brige o parkiranju. Idealan izbor za putnike koji žele održivo istraživati dalmatinske obalne gradove."
+        "hr": "Biograd je važna prometna točka i vrlo je dostupan autobusom. Od kolodvora uz luku svi središnji sadržaji poput Zavičajnog muzeja i crkve sv. Anastazije udaljeni su samo nekoliko minuta hoda. Prošećite do Marine Kornati i na plažu Dražica bez brige oko parkiranja. Idealni izbor za putnike koji žele održivo istraživati dalmatinske primorske gradove."
       },
       "gastro_picks": {
         "de": [
@@ -2131,7 +2169,7 @@
         ],
         "hr": [
           "Biograd je polazište za mnoge otočne trajekte.",
-          "Vozni redovi su istaknuti na glavnom autobusnom kolodvoru.",
+          "Vozni redovi objavljeni su na glavnom autobusnom kolodvoru.",
           "Koristite aplikaciju 'FlixBus' za međugradska putovanja.",
           "Čuvanje prtljage često je dostupno na autobusnom kolodvoru."
         ]
@@ -2142,7 +2180,8 @@
             "de": "Biograd ist ein wichtiger Verkehrsknotenpunkt und gut per Bus erreichbar. Vom Busbahnhof am Hafen sind alle Sehenswürdigkeiten im Zentrum, wie das Heimatmuseum und die Anastasia-Kirche, in wenigen Minuten zu Fuß erreichbar. Spazieren Sie zur Marina Kornati und weiter zum Strand Dražica, ohne sich um Parkplätze sorgen zu müssen. Die ideale Wahl für Reisende, die die Küstenstädte Dalmatiens nachhaltig erkunden möchten.",
             "hu": "Biograd fontos közlekedési csomópont, busszal kiválóan elérhető. A kikötő melletti buszpályaudvartól minden központi látnivaló, mint a Helytörténeti Múzeum és az Anasztázia-templom, pár perc alatt elérhető gyalog. Sétáljon el a Marina Kornatihoz, majd tovább a Dražica strandra anélkül, hogy a parkolás miatt aggódna. Ideális választás az utazóknak, akik fenntartható módon fedeznék fel Dalmácia partjait.",
             "ro": "Biograd este un important nod de transport, ușor accesibil cu autobuzul. De la autogara din port, toate obiectivele centrale, cum ar fi Muzeul Local și biserica Anastasia, sunt la câteva minute de mers pe jos. Mergeți la Marina Kornati și mai departe la plaja Dražica fără grija parcării. Alegerea ideală pentru călătorii care doresc să exploreze orașele de coastă dalmate într-un mod sustenabil.",
-            "en": "Biograd is a key transport hub and very accessible by bus. From the station by the harbor, all central sights like the Local Museum and Anastasia Church are just minutes away on foot. Stroll to Marina Kornati and on to Dražica beach without worrying about parking. The ideal choice for travelers wanting to explore Dalmatian coastal towns sustainably."
+            "en": "Biograd is a key transport hub and very accessible by bus. From the station by the harbor, all central sights like the Local Museum and Anastasia Church are just minutes away on foot. Stroll to Marina Kornati and on to Dražica beach without worrying about parking. The ideal choice for travelers wanting to explore Dalmatian coastal towns sustainably.",
+            "hr": "Biograd je važna prometna točka i vrlo je dostupan autobusom. Od kolodvora uz luku svi središnji sadržaji poput Zavičajnog muzeja i crkve sv. Anastazije udaljeni su samo nekoliko minuta hoda. Prošećite do Marine Kornati i na plažu Dražica bez brige oko parkiranja. Idealni izbor za putnike koji žele održivo istraživati dalmatinske primorske gradove."
           },
           "stops": [
             {
@@ -2151,7 +2190,8 @@
                 "de": "Der Busbahnhof ist nur wenige Schritte entfernt.",
                 "hu": "A buszpályaudvar csak pár lépésre van.",
                 "ro": "Autogara este la doar câțiva pași distanță.",
-                "en": "The bus station is just a few steps away."
+                "en": "The bus station is just a few steps away.",
+                "hr": "Autobusna stanica je samo nekoliko koraka udaljena."
               }
             },
             {
@@ -2160,7 +2200,8 @@
                 "de": "Zentraler Anlaufpunkt im Ort.",
                 "hu": "Központi tájékozódási pont a városban.",
                 "ro": "Punct central de referință în oraș.",
-                "en": "Central landmark in the town."
+                "en": "Central landmark in the town.",
+                "hr": "Središnji orijentir u gradu."
               }
             },
             {
@@ -2169,7 +2210,8 @@
                 "de": "Bequem zu Fuß vom Hafen erreichbar.",
                 "hu": "Gyalogosan könnyen elérhető a kikötőtől.",
                 "ro": "Accesibil ușor pe jos din port.",
-                "en": "Easily reachable on foot from the harbor."
+                "en": "Easily reachable on foot from the harbor.",
+                "hr": "Jednostavno dostupno pješice iz luke."
               }
             },
             {
@@ -2178,7 +2220,8 @@
                 "de": "Viel Gastronomie in der direkten Umgebung.",
                 "hu": "Sok étterem található a közvetlen közelében.",
                 "ro": "Multe restaurante în imediata apropiere.",
-                "en": "Many dining options in the immediate area."
+                "en": "Many dining options in the immediate area.",
+                "hr": "Mnoge opcije za jelo u neposrednoj blizini."
               }
             },
             {
@@ -2187,7 +2230,8 @@
                 "de": "Bester Strand in Reichweite der Haltestelle.",
                 "hu": "A legjobb strand a buszmegálló közelében.",
                 "ro": "Cea mai bună plajă accesibilă din stație.",
-                "en": "Best beach within reach of the bus stop."
+                "en": "Best beach within reach of the bus stop.",
+                "hr": "Najbolja plaža u dosegu autobusne stanice."
               }
             }
           ],
@@ -2297,6 +2341,12 @@
               "Schedules are posted at the main bus station.",
               "Use the 'FlixBus' app for intercity travel.",
               "Luggage storage is often available at the bus station."
+            ],
+            "hr": [
+              "Biograd je polazište za mnoge otočne trajekte.",
+              "Vozni redovi objavljeni su na glavnom autobusnom kolodvoru.",
+              "Koristite aplikaciju 'FlixBus' za međugradska putovanja.",
+              "Čuvanje prtljage često je dostupno na autobusnom kolodvoru."
             ]
           }
         },
@@ -2306,7 +2356,7 @@
             "hu": "A helyi közlekedéssel kényelmesen elérjük Biograd főbb pontjait. A Tomiszláv emlékműnél kezdünk, majd az esős délelőttöt a múzeumban töltjük. A Szent Anasztázia-templom után busszal megyünk a kikötő felé. A Dražica strandon töltött idő rövidebb lesz, de egy védett helyről így is élvezzük a tenger látványát.",
             "ro": "Cu autobuzul local ajungem confortabil la atracțiile din Biograd. Începem la monumentul lui Tomislav și petrecem dimineața ploioasă la Muzeul de Istorie. După vizitarea bisericii Sf. Anastasia, luăm autobuzul spre Marina Kornati. După-amiaza la plaja Dražica va fi mai scurtă, dar ne bucurăm de mare dintr-un loc protejat.",
             "en": "With local transport, we comfortably reach Biograd's highlights. We start at the Tomislav monument and spend the rainy morning in the Heritage Museum. After visiting St. Anastasia Church, we take the bus towards Marina Kornati. The afternoon at Dražica Beach is shorter, but we enjoy the sea view from a sheltered spot.",
-            "hr": "Lokalnim prijevozom udobno stižemo do vrhunaca Biograda. Počinjemo kod spomenika kralju Tomislavu i provodimo kišno jutro u Zavičajnom muzeju. Nakon posjeta crkvi sv. Anastazije, idemo autobusom prema Marini Kornati. Popodne na plaži Dražica je kraće, ali uživamo u pogledu na more iz zaklonjenog mjesta."
+            "hr": "Lokalnim prijevozom udobno dolazimo do biogradskih znamenitosti. Počinjemo kod spomenika Tomislavu i provodimo kišno jutro u Zavičajnom muzeju. Nakon posjeta crkvi sv. Anastazije, autobusom idemo prema Marini Kornati. Poslijepodne na plaži Dražica je kraće, ali uživamo u pogledu na more s zaklonjene lokacije."
           },
           "stops": [
             {
@@ -2316,7 +2366,7 @@
                 "hu": "A 'Biograd Centar' buszmegálló a közvetlen közelben van.",
                 "ro": "Stația de autobuz 'Biograd Centar' se află în imediata apropiere.",
                 "en": "The 'Biograd Centar' bus stop is in the immediate vicinity.",
-                "hr": "Autobusna stanica 'Biograd Centar' nalazi se u neposrednoj blizini."
+                "hr": "Stajalište 'Biograd Centar' je u neposrednoj blizini."
               }
             },
             {
@@ -2326,7 +2376,7 @@
                 "hu": "Használja ki a buszok indulása közötti időt a kiállításra.",
                 "ro": "Folosiți timpul dintre plecările autobuzelor pentru expoziție.",
                 "en": "Use the time between bus departures to see the exhibition.",
-                "hr": "Iskoristite vrijeme između polazaka autobusa za razgledavanje izložbe."
+                "hr": "Iskoristite vrijeme između polazaka autobusa za razgled izložbe."
               }
             },
             {
@@ -2336,7 +2386,7 @@
                 "hu": "Innen mindössze 5 perc séta a fő buszmegálló.",
                 "ro": "De aici sunt doar 5 minute de mers pe jos până la stația principală.",
                 "en": "It's only a 5-minute walk from here to the main bus stop.",
-                "hr": "Odavde do glavnog autobusnog kolodvora ima samo 5 minuta hoda."
+                "hr": "Samo je 5 minuta hoda odavde do glavnog autobusnog stajališta."
               }
             },
             {
@@ -2346,7 +2396,7 @@
                 "hu": "A kikötő fedett várótermei védelmet nyújtanak az eső ellen.",
                 "ro": "Zonele de așteptare acoperite din port oferă protecție contra ploii.",
                 "en": "Covered waiting areas at the harbor provide shelter from rain.",
-                "hr": "Natkriveni čekaonice u luci pružaju zaklon od kiše."
+                "hr": "Natkrivena čekališta u luci pružaju zaklon od kiše."
               }
             },
             {
@@ -2386,10 +2436,10 @@
               "Bus shelters are small, so an umbrella is still important."
             ],
             "hr": [
-              "Kupite karte unaprijed ako je moguće.",
+              "Karte kupite unaprijed ako je moguće.",
               "Autobusi mogu voziti rjeđe zimi ili po kiši; koristite aplikaciju.",
-              "Pripremite sitniš za kupnju karte kod vozača.",
-              "Nadstrešnice na stanicama su male, pa je kišobran i dalje važan."
+              "Imajte sitniš spreman za kupnju karata kod vozača.",
+              "Autobusna čekališta su mala, pa je kišobran i dalje važan."
             ]
           }
         },
@@ -2399,7 +2449,7 @@
             "hu": "Télen Biograd kényelmesen felfedezhető busszal. A Tomiszláv emlékműnél kezdünk, majd a múzeumban melegszünk fel. A Szent Anasztázia-templom nyugalmat áraszt. Délután a kikötőhöz utazunk a hajókat nézni, végül a Dražica strandon éljük át a naplementét, mielőtt az utolsó busszal visszatérnénk.",
             "ro": "Iarna, Biograd poate fi explorat relaxat cu autobuzul. Începem la monumentul lui Tomislav și ne încălzim la Muzeul de Istorie. Biserica Sf. Anastasia oferă liniște. După-amiaza tranzitul ne duce la Marina Kornati, unde observăm navele, înainte de a vedea apusul pe plaja Dražica.",
             "en": "In winter, Biograd is easy to explore by bus. We start at the Tomislav monument and warm up in the Heritage Museum. St. Anastasia Church offers peace and reflection. In the afternoon, transit takes us to Marina Kornati to watch the ships before catching the sunset at Dražica Beach and returning on the last bus.",
-            "hr": "Zimi je Biograd lako istražiti autobusom. Počinjemo kod spomenika kralju Tomislavu i grijemo se u Zavičajnom muzeju. Crkva sv. Anastazije nudi mir i razmišljanje. Poslijepodne nas prijevoz vodi do Marine Kornati kako bismo promatrali brodove prije zalaska sunca na plaži Dražica i povratka zadnjim autobusom."
+            "hr": "Zimi je Biograd lako istražiti autobusom. Počinjemo kod spomenika Tomislavu i grijemo se u Zavičajnom muzeju. Crkva sv. Anastazije nudi mir i razmišljanje. Poslijepodne nas javni prijevoz vodi do Marine Kornati da promatramo brodove prije zalaska sunca na plaži Dražica i povratka posljednjim autobusom."
           },
           "stops": [
             {
@@ -2409,7 +2459,7 @@
                 "hu": "Télen a megállók sokkal kevésbé zsúfoltak.",
                 "ro": "Iarna stațiile sunt mult mai puțin aglomerate.",
                 "en": "Bus stops are much less crowded in winter.",
-                "hr": "Autobusne stanice su zimi mnogo manje posjećene."
+                "hr": "Stajališta su zimi mnogo manje prepuna."
               }
             },
             {
@@ -2419,7 +2469,7 @@
                 "hu": "A busz szinte közvetlenül a múzeum ajtaja előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața ușii muzeului.",
                 "en": "The bus stops almost directly in front of the museum door.",
-                "hr": "Autobus staje gotovo točno ispred vrata muzeja."
+                "hr": "Autobus staje gotovo neposredno pred vratima muzeja."
               }
             },
             {
@@ -2429,7 +2479,7 @@
                 "hu": "Ideális pont az útvonal rugalmas módosításához.",
                 "ro": "Stație ideală pentru a ajusta flexibil traseul.",
                 "en": "Ideal station for flexibly adjusting your route.",
-                "hr": "Idealna postaja za fleksibilnu prilagodbu rute."
+                "hr": "Idealna stanica za fleksibilno prilagođavanje rute."
               }
             },
             {
@@ -2439,7 +2489,7 @@
                 "hu": "Este a buszok jól fűtöttek; kellemes a visszautazáshoz.",
                 "ro": "Seara autobuzele sunt bine încălzite; plăcut pentru drumul de întoarcere.",
                 "en": "Buses are well-heated in the evening; pleasant for the return trip.",
-                "hr": "Autobusi su navečer dobro ugrijani; ugodno za povratak."
+                "hr": "Autobusi su navečer dobro grijani; ugodno za povratak."
               }
             },
             {
@@ -2449,7 +2499,7 @@
                 "hu": "Az utolsó busz gyakran röviddel naplemente után indul.",
                 "ro": "Ultimul autobuz pleacă adesea imediat după apus.",
                 "en": "The last bus often leaves shortly after sunset.",
-                "hr": "Zadnji autobus često polazi ubrzo nakon zalaska sunca."
+                "hr": "Posljednji autobus često polazi ubrzo nakon zalaska sunca."
               }
             }
           ],
@@ -2479,9 +2529,9 @@
               "Long-distance buses (Zadar-Šibenik) also stop at the main road."
             ],
             "hr": [
-              "Reducirani zimski vozni red stupa na snagu u studenom.",
+              "Smanjeni zimski vozni red stupa na snagu u studenom.",
               "Iskoristite vrijeme čekanja za brzi čaj u centru grada.",
-              "Provjerite obavijesti na stanicama za vozne redove tijekom blagdana.",
+              "Provjerite obavijesti na stajalištima za rasporede tijekom praznika.",
               "Međugradski autobusi (Zadar-Šibenik) također staju na glavnoj cesti."
             ]
           }
@@ -2510,19 +2560,22 @@
       "de": "Kroatisch ist Amtssprache. Deutsch und Italienisch in der Tourismusbranche oft verstanden. Danke: Hvala.",
       "hu": "A horvát a hivatalos nyelv. Németet és olaszt sokan értenek a turizmusban. Köszönöm: Hvala.",
       "ro": "Croata este limba oficială. Germana și italiana sunt înțelese în turism. Mulțumesc: Hvala.",
-      "en": "Croatian is official. German and Italian are commonly understood in tourism. Thank you: Hvala."
+      "en": "Croatian is official. German and Italian are commonly understood in tourism. Thank you: Hvala.",
+      "hr": "Hrvatski je službeni. Njemački i talijanski su u turističkim područjima često razumljivi. Hvala: Hvala."
     },
     "best_time_to_visit": {
       "de": "Mai bis September. Familienorientierter Badeort, Juli/August voll, Anfang Juni und September ruhiger mit warmem Meer.",
       "hu": "Május és szeptember között. Családbarát üdülőhely, július-augusztus zsúfolt, június eleje és szeptember csendesebb.",
       "ro": "Din mai până în septembrie. Stațiune familială, iulie-august aglomerate, începutul lui iunie și septembrie mai liniștite.",
-      "en": "May to September. Family resort; July-August packed, early June and September quieter with warm sea."
+      "en": "May to September. Family resort; July-August packed, early June and September quieter with warm sea.",
+      "hr": "Svibanj do rujna. Obiteljsko odredište; srpanj-kolovoz vrlo gusto, početak lipnja i rujan mirniji s toplim morem."
     },
     "neighborhood_warnings": {
       "de": "Marina-Bereich verkehrsreich, im Sommer lange Staus auf der D8. Pinienpollen im Frühjahr. Strandbereich stellenweise kieselig.",
       "hu": "A jachtkikötő körül forgalmas, nyáron D8-on torlódás. Tavasszal fenyőpollen. A partszakasz több helyen kavicsos.",
       "ro": "Zona marinei e aglomerată, vara cozi pe D8. Polen de pin primăvara. Plaja este pe alocuri pietroasă.",
-      "en": "Marina area busy; long D8 traffic jams in summer. Pine pollen in spring. Beach pebbly in places."
+      "en": "Marina area busy; long D8 traffic jams in summer. Pine pollen in spring. Beach pebbly in places.",
+      "hr": "Marina je prometna; ljeti dugi zastoji na D8. Pelud borova u proljeće. Plaža na mjestima šljunkovita."
     }
   }
 }

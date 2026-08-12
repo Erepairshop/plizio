@@ -21,7 +21,8 @@
             "de": "Veliki Slap",
             "hu": "Nagy-vízesés",
             "ro": "Cascada Mare",
-            "en": "Great Waterfall"
+            "en": "Great Waterfall",
+            "hr": "Veliki vodopad"
           },
           "coords": [
             15.608,
@@ -45,7 +46,8 @@
             "de": "Donja Jezera",
             "hu": "Alsó-tavak",
             "ro": "Lacurile de Jos",
-            "en": "Lower Lakes"
+            "en": "Lower Lakes",
+            "hr": "Donja jezera"
           },
           "coords": [
             15.61,
@@ -61,7 +63,7 @@
             "hu": "A fapallók nedves időben csúszósak, legyen óvatos.",
             "ro": "Puntele de lemn sunt alunecoase când sunt ude, mare atenție.",
             "en": "The wooden boardwalks are slippery when wet, use caution.",
-            "hr": "Drvene staze su skliske kad su mokre, budite oprezni."
+            "hr": "Drvene pješačke staze klizave su kad su mokre, budite oprezni."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Šupljara-Höhle",
             "hu": "Šupljara-barlang",
             "ro": "Peștera Šupljara",
-            "en": "Šupljara Cave"
+            "en": "Šupljara Cave",
+            "hr": "Šupljara špilja"
           },
           "coords": [
             15.611,
@@ -85,7 +88,7 @@
             "hu": "Másszon fel a lépcsőkön a tavakra nyíló pazar kilátásért.",
             "ro": "Urcați scările pentru o vedere superbă asupra lacurilor.",
             "en": "Climb up the stairs for a great view over the lakes.",
-            "hr": "Popnite se stepenicama za prekrasan pogled na jezera."
+            "hr": "Popnite se stubama za odličan pogled preko jezera."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Kozjak-See",
             "hu": "Kozjak-tó",
             "ro": "Lacul Kozjak",
-            "en": "Kozjak Lake"
+            "en": "Kozjak Lake",
+            "hr": "Jezero Kozjak"
           },
           "coords": [
             15.61,
@@ -109,7 +113,7 @@
             "hu": "Használja az elektromos hajót a parkrészek közötti közlekedéshez.",
             "ro": "Luați barca electrică pentru a trece între secțiunile parcului.",
             "en": "Take the electric boat to transfer between park sections.",
-            "hr": "Uzmite elektrobrod za prijelaz između dijelova parka."
+            "hr": "Uzmite električni čamac za prijevoz između dijelova parka."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Milanovac-See",
             "hu": "Milanovac-tó",
             "ro": "Lacul Milanovac",
-            "en": "Milanovac Lake"
+            "en": "Milanovac Lake",
+            "hr": "Jezero Milanovac"
           },
           "coords": [
             15.612,
@@ -133,7 +138,7 @@
             "hu": "Figyelje a halakat a kristálytiszta türkizkék vízben.",
             "ro": "Observați peștii în apa turcoaz extrem de limpede.",
             "en": "Watch the fish in the crystal clear turquoise water.",
-            "hr": "Promatrajte ribe u kristalno čistoj tirkiznoj vodi."
+            "hr": "Promatrajte ribu u kristalno bistroj tirkiznoj vodi."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Galovački buk",
             "hu": "Galovác-vízesés",
             "ro": "Cascada Galovački",
-            "en": "Galovac Waterfall"
+            "en": "Galovac Waterfall",
+            "hr": "Vodopad Galovac"
           },
           "coords": [
             15.6,
@@ -157,7 +163,7 @@
             "hu": "A Felső-tavak egyik legszebb többlépcsős vízesése.",
             "ro": "Una dintre cele mai frumoase cascade din Lacurile Superioare.",
             "en": "One of the most beautiful cascading falls in the Upper Lakes.",
-            "hr": "Jedan od najljepših kaskadnih slapova na Gornjim jezerima."
+            "hr": "Jedan od najljepših kaskadnih slapova u Gornjim jezerima."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Prošćansko-See",
             "hu": "Prošćansko-tó",
             "ro": "Lacul Prošćansko",
-            "en": "Prošćansko Lake"
+            "en": "Prošćansko Lake",
+            "hr": "Prošćansko jezero"
           },
           "coords": [
             15.59,
@@ -181,7 +188,7 @@
             "hu": "A legmagasabban fekvő és legnyugodtabb tó, ideális pihenésre.",
             "ro": "Cel mai înalt și liniștit lac, ideal pentru relaxare.",
             "en": "The highest and quietest lake basin, ideal for relaxing.",
-            "hr": "Najviše i najmirnije jezersko korito, idealno za opuštanje."
+            "hr": "Najviši i najtiši kotao jezera, idealan za opuštanje."
           }
         },
         {
@@ -189,7 +196,8 @@
             "de": "Vidikovac-Aussichtspunkt",
             "hu": "Vidikovac-kilátó",
             "ro": "Punctul de belvedere Vidikovac",
-            "en": "Vidikovac Lookout"
+            "en": "Vidikovac Lookout",
+            "hr": "Vidikovac"
           },
           "coords": [
             15.615,
@@ -205,7 +213,7 @@
             "hu": "A klasszikus képeslap-kilátás az S-alakú fapallókra.",
             "ro": "Vederea clasică de carte poștală peste punțile în formă de S.",
             "en": "The classic postcard view over the S-shaped boardwalks.",
-            "hr": "Klasični pogled s razglednice na drvene staze u obliku slova S."
+            "hr": "Klasičan razglednica-pogled preko S-oblikovanih drvenih staza."
           }
         }
       ],
@@ -214,7 +222,7 @@
         "hu": "Reggel a Nagy-vízesés erejével és az Alsó-tavak csendjével indul a nap. Délben hajókázás vár a tágas Kozjak-tavon. Délután a Felső-tavak vízesésrendszerét fedezzük fel a Prošćansko-tóig. Este a park feletti kilátópontról búcsúzunk a tájtól, élvezve a panorámát.",
         "ro": "Dimineața începe cu forța Cascadei Mari și liniștea Lacurilor de Jos. La prânz, bucurați-vă de o plimbare cu barca pe lacul Kozjak. După-amiaza, explorați cascadele Lacurilor Superioare până la lacul Prošćansko. Seara se încheie cu o vedere panoramică spectaculoasă asupra întregului parc.",
         "en": "Morning starts with the power of the Great Waterfall and the serenity of the Lower Lakes. Midday features a boat ride across the vast Kozjak Lake. Afternoon is spent exploring the cascading Upper Lakes up to Prošćansko Lake. Evening ends with a panoramic view over the entire park from a high lookout point.",
-        "hr": "Jutro započinje snagom Velikog slapa i mirom Donjih jezera. Sredinom dana slijedi vožnja brodom preko prostranog jezera Kozjak. Poslijepodne je rezervirano za istraživanje kaskada Gornjih jezera sve do Prošćanskog jezera. Večer završava panoramskim pogledom na cijeli park s visokog vidikovca."
+        "hr": "Jutro počinje snagom Velikog vodopada i spokojem Donjih jezera. U podne slijedi vožnja čamcem preko prostranog jezera Kozjak. Popodne je ispunjeno istraživanjem kaskadnih Gornjih jezera do Prošćanskog jezera. Večer završava panoramskim pogledom preko cijelog parka s visokog vidikovca."
       },
       "gastro_picks": {
         "de": [
@@ -412,11 +420,11 @@
           "Swimming in the lakes is strictly prohibited."
         ],
         "hr": [
-          "Nosite čvrstu obuću za planinarenje s dobrim prianjanjem.",
-          "Rezervirajte ulaznicu online barem 2 dana unaprijed.",
-          "Krenite s Ulaza 1 kako biste izbjegli većinu uspona.",
+          "Nosite čvrste planinarske cipele s dobrim gripom.",
+          "Rezervirajte kartu putem interneta najmanje 2 dana unaprijed.",
+          "Počnite na Ulazu 1 kako biste izbjegli većinu uspona.",
           "Ponesite vodu sa sobom jer su kiosci rijetki unutar parka.",
-          "Plivanje u jezerima strogo je zabranjeno."
+          "Kupaње u jezerima strogo je zabranjeno."
         ]
       },
       "variants": {
@@ -425,7 +433,8 @@
             "de": "Morgens erleben Sie die Kraft des Großen Wasserfalls und die Stille der Unteren Seen. Mittags genießen Sie eine Bootsfahrt auf dem weiten Kozjak-See. Nachmittags erkunden Sie die kaskadierenden Oberen Seen bis zum Prošćansko-See. Abends lassen Sie den Tag mit einem Panoramablick über den gesamten Nationalpark ausklingen.",
             "hu": "Reggel a Nagy-vízesés erejével és az Alsó-tavak csendjével indul a nap. Délben hajókázás vár a tágas Kozjak-tavon. Délután a Felső-tavak vízesésrendszerét fedezzük fel a Prošćansko-tóig. Este a park feletti kilátópontról búcsúzunk a tájtól, élvezve a panorámát.",
             "ro": "Dimineața începe cu forța Cascadei Mari și liniștea Lacurilor de Jos. La prânz, bucurați-vă de o plimbare cu barca pe lacul Kozjak. După-amiaza, explorați cascadele Lacurilor Superioare până la lacul Prošćansko. Seara se încheie cu o vedere panoramică spectaculoasă asupra întregului parc.",
-            "en": "Morning starts with the power of the Great Waterfall and the serenity of the Lower Lakes. Midday features a boat ride across the vast Kozjak Lake. Afternoon is spent exploring the cascading Upper Lakes up to Prošćansko Lake. Evening ends with a panoramic view over the entire park from a high lookout point."
+            "en": "Morning starts with the power of the Great Waterfall and the serenity of the Lower Lakes. Midday features a boat ride across the vast Kozjak Lake. Afternoon is spent exploring the cascading Upper Lakes up to Prošćansko Lake. Evening ends with a panoramic view over the entire park from a high lookout point.",
+            "hr": "Jutro započinje snagom Velikog slapa i spokojem Donjih jezera. U podne slijedi vožnja čamcem preko prostranog jezera Kozjak. Poslijepodne je rezervirano za istraživanje kaskadnih Gornjih jezera do Prošćanskog jezera. Večer završava panoramskim pogledom na cijeli park s visoke vidikovke."
           },
           "stops": [
             {
@@ -433,13 +442,15 @@
                 "de": "Veliki Slap",
                 "hu": "Nagy-vízesés",
                 "ro": "Cascada Mare",
-                "en": "Great Waterfall"
+                "en": "Great Waterfall",
+                "hr": "Veliki slap"
               },
               "tip_5lang": {
                 "de": "Kommen Sie früh, um die Regenbögen im Nebel ohne Menschenmassen zu sehen.",
                 "hu": "Érkezz korán, hogy tömeg nélkül lásd a szivárványokat a párában.",
                 "ro": "Veniți devreme pentru a vedea curcubeiele în ceață fără mulțime.",
-                "en": "Arrive early to see rainbows in the mist without the crowds."
+                "en": "Arrive early to see rainbows in the mist without the crowds.",
+                "hr": "Stignite rano kako biste vidjeli duge u maglici bez gužve."
               }
             },
             {
@@ -447,13 +458,15 @@
                 "de": "Donja Jezera",
                 "hu": "Alsó-tavak",
                 "ro": "Lacurile de Jos",
-                "en": "Lower Lakes"
+                "en": "Lower Lakes",
+                "hr": "Donja jezera"
               },
               "tip_5lang": {
                 "de": "Die hölzernen Stege sind bei Nässe rutschig, Vorsicht geboten.",
                 "hu": "A fapallók nedves időben csúszósak, legyen óvatos.",
                 "ro": "Puntele de lemn sunt alunecoase când sunt ude, mare atenție.",
-                "en": "The wooden boardwalks are slippery when wet, use caution."
+                "en": "The wooden boardwalks are slippery when wet, use caution.",
+                "hr": "Drvene daske mogu biti skliske kad su mokre, oprez pri kretanju."
               }
             },
             {
@@ -461,13 +474,15 @@
                 "de": "Šupljara-Höhle",
                 "hu": "Šupljara-barlang",
                 "ro": "Peștera Šupljara",
-                "en": "Šupljara Cave"
+                "en": "Šupljara Cave",
+                "hr": "Šupljara pećina"
               },
               "tip_5lang": {
                 "de": "Steigen Sie die Treppen für einen tollen Blick auf die Seen hinauf.",
                 "hu": "Másszon fel a lépcsőkön a tavakra nyíló pazar kilátásért.",
                 "ro": "Urcați scările pentru o vedere superbă asupra lacurilor.",
-                "en": "Climb up the stairs for a great view over the lakes."
+                "en": "Climb up the stairs for a great view over the lakes.",
+                "hr": "Popnite se stubama za izvrstan pogled na jezera."
               }
             },
             {
@@ -475,13 +490,15 @@
                 "de": "Kozjak-See",
                 "hu": "Kozjak-tó",
                 "ro": "Lacul Kozjak",
-                "en": "Kozjak Lake"
+                "en": "Kozjak Lake",
+                "hr": "Jezerо Kozjak"
               },
               "tip_5lang": {
                 "de": "Nehmen Sie das Elektroboot, um zwischen den Parkabschnitten zu wechseln.",
                 "hu": "Használja az elektromos hajót a parkrészek közötti közlekedéshez.",
                 "ro": "Luați barca electrică pentru a trece între secțiunile parcului.",
-                "en": "Take the electric boat to transfer between park sections."
+                "en": "Take the electric boat to transfer between park sections.",
+                "hr": "Sjednite u električni čamac za prijelaz između dijelova parka."
               }
             },
             {
@@ -489,13 +506,15 @@
                 "de": "Milanovac-See",
                 "hu": "Milanovac-tó",
                 "ro": "Lacul Milanovac",
-                "en": "Milanovac Lake"
+                "en": "Milanovac Lake",
+                "hr": "Jezero Milanovac"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf die Fische im kristallklaren türkisfarbenen Wasser.",
                 "hu": "Figyelje a halakat a kristálytiszta türkizkék vízben.",
                 "ro": "Observați peștii în apa turcoaz extrem de limpede.",
-                "en": "Watch the fish in the crystal clear turquoise water."
+                "en": "Watch the fish in the crystal clear turquoise water.",
+                "hr": "Promatrajte ribu u kristalno prozirnoj tirkiznoj vodi."
               }
             },
             {
@@ -503,13 +522,15 @@
                 "de": "Galovački buk",
                 "hu": "Galovác-vízesés",
                 "ro": "Cascada Galovački",
-                "en": "Galovac Waterfall"
+                "en": "Galovac Waterfall",
+                "hr": "Slap Galovac"
               },
               "tip_5lang": {
                 "de": "Einer der schönsten Kaskadenfälle in den Oberen Seen.",
                 "hu": "A Felső-tavak egyik legszebb többlépcsős vízesése.",
                 "ro": "Una dintre cele mai frumoase cascade din Lacurile Superioare.",
-                "en": "One of the most beautiful cascading falls in the Upper Lakes."
+                "en": "One of the most beautiful cascading falls in the Upper Lakes.",
+                "hr": "Jedan od najljepših kaskadnih slapova u Gornjim jezerima."
               }
             },
             {
@@ -517,13 +538,15 @@
                 "de": "Prošćansko-See",
                 "hu": "Prošćansko-tó",
                 "ro": "Lacul Prošćansko",
-                "en": "Prošćansko Lake"
+                "en": "Prošćansko Lake",
+                "hr": "Prošćansko jezero"
               },
               "tip_5lang": {
                 "de": "Das höchste und ruhigste Seebecken, ideal zum Entspannen.",
                 "hu": "A legmagasabban fekvő és legnyugodtabb tó, ideális pihenésre.",
                 "ro": "Cel mai înalt și liniștit lac, ideal pentru relaxare.",
-                "en": "The highest and quietest lake basin, ideal for relaxing."
+                "en": "The highest and quietest lake basin, ideal for relaxing.",
+                "hr": "Najviši i najmirniji kotao jezera, idealan za opuštanje."
               }
             },
             {
@@ -531,13 +554,15 @@
                 "de": "Vidikovac-Aussichtspunkt",
                 "hu": "Vidikovac-kilátó",
                 "ro": "Punctul de belvedere Vidikovac",
-                "en": "Vidikovac Lookout"
+                "en": "Vidikovac Lookout",
+                "hr": "Vidikovac"
               },
               "tip_5lang": {
                 "de": "Der klassische Postkartenblick über die S-förmigen Stege.",
                 "hu": "A klasszikus képeslap-kilátás az S-alakú fapallókra.",
                 "ro": "Vederea clasică de carte poștală peste punțile în formă de S.",
-                "en": "The classic postcard view over the S-shaped boardwalks."
+                "en": "The classic postcard view over the S-shaped boardwalks.",
+                "hr": "Klasični razgled za razglednicu preko S-oblikovanih dasaka."
               }
             }
           ],
@@ -703,6 +728,13 @@
               "Start at Entrance 1 to avoid most uphill climbs.",
               "Bring water with you as kiosks are sparse inside the park.",
               "Swimming in the lakes is strictly prohibited."
+            ],
+            "hr": [
+              "Nosite čvrste planinarske cipele s dobrim gripom.",
+              "Rezervirajte kartu putem interneta najmanje 2 dana unaprijed.",
+              "Počnite na Ulazu 1 kako biste izbjegli većinu uspona.",
+              "Ponesite vodu sa sobom jer su kiosci rijetki unutar parka.",
+              "Kupaanje u jezerima strogo je zabranjeno."
             ]
           }
         },
@@ -712,7 +744,7 @@
             "hu": "Reggel a Nagy-vízesés dübörgése fogad az esőben, amely ilyenkor mutatja meg igazi erejét. Az Alsó-tavak mentén vezető párás ösvények misztikus hangulatot árasztanak, ahogy a víz minden szikláról csorog.\n\nDélben a Kozjak-tavon átkelve az elektromos hajó fedele alatt megpihenhetünk, miközben a ködbe vesző partokat figyeljük. Az erdős lankák sötéten tükröződnek a felkavart vízfelületen.\n\nDélután a felső zuhatagok mentén haladunk, ahol az eső még élénkebbé teszi a mohák és páfrányok zöldjét. A fapallók ilyenkor figyelmet igényelnek, de kárpótol a természet közelsége.\n\nEste a kilátópontról csodáljuk meg a felhőkbe burkolózó tavakat, amelyek egy elfeledett világ benyomását keltik. A friss, párás levegő teljesen felfrissít a hosszú túra végére.",
             "ro": "Dimineața, vuietul Marii Cascade te întâmpină în ploaie, arătându-și adevărata forță în acest moment. Potecile cețoase de-a lungul Lacurilor Inferioare emană o atmosferă mistică, cu apa șiroind de pe stânci.\n\nLa prânz, traversând lacul Kozjak cu barca electrică, ne putem odihni sub acoperiș în timp ce observăm malurile pierdute în ceață. Versanții împăduriți se oglindesc întunecat în suprafața apei tulburate.\n\nDupă-amiaza parcurgem cascadele superioare, unde ploaia face verdele mușchilor și ferigilor și mai intens. Podețele de lemn necesită atenție sporită acum, dar apropierea de natură merită efortul.\n\nSeara admirăm de la punctul de observație lacurile învăluite în nori, care lasă impresia unei lumi uitate. Aerul proaspăt și umed te revigorează complet la finalul acestei zile lungi de drumeție.",
             "en": "In the morning, the roar of the Great Waterfall greets you in the rain, showing its true power at this time. The misty paths along the Lower Lakes exude a mystical atmosphere as water trickles from every rock.\n\nAt noon, crossing Lake Kozjak by electric boat offers a moment of rest under cover while watching the shores vanish into the fog. The forested slopes are darkly reflected in the agitated water surface.\n\nIn the afternoon, we head along the upper cascades, where the rain makes the green of the moss and ferns even more vivid. The wooden boardwalks require focus now, but the closeness to nature is rewarding.\n\nBy evening, we admire the cloud-shrouded lakes from the lookout, giving the impression of a forgotten world. The fresh, damp air completely revives you at the end of a long day of hiking.",
-            "hr": "Ujutro vas na kiši dočekuje huk Velikog slapa, koji u ovo vrijeme pokazuje svoju pravu snagu. Maglovite staze duž Donjih jezera odišu mističnom atmosferom dok voda curi sa svake stijene.\n\nU podne, prijelaz preko jezera Kozjak elektrobrodom nudi trenutak odmora pod krovom dok promatrate kako obale nestaju u magli. Šumovite padine tamno se ogledaju u uzburkanoj površini vode.\n\nPoslijepodne idemo uz gornje kaskade, gdje kiša čini zelenu boju mahovine i paprati još živopisnijom. Drvene staze sada zahtijevaju koncentraciju, ali bliskost s prirodom je nagrađujuća.\n\nNavečer se divimo jezerima obavijenim oblacima s vidikovca, što ostavlja dojam zaboravljenog svijeta. Svjež, vlažan zrak potpuno vas oživljava na kraju dugog dana pješačenja."
+            "hr": "Ujutro vas pozdravlja huk Velikog slapa u kiši, pokazujući svoju pravu snagu u to doba. Mističan ugođaj obavija staze uz Donja jezera dok voda žubori s svakog kamena.\n\nU podne, prijelaz jezera Kozjak električnim čamcem pruža trenutak odmora pod pokrovom dok obale nestaju u magli. Šumski padovi tamno se odražavaju u uzburkanoj površini vode.\n\nPoslijepodne krećemo duž gornjih kaskada, gdje kiša čini zelenilo mahovine i paprati još življim. Drvene daske sada zahtijevaju koncentraciju, ali blizina prirode to nagrađuje.\n\nU večernjim satima divimo se jezercima obavijenim oblacima s vidikovca, ostavljajući dojam zaboravljenog svijeta. Svježi, vlažni zrak u potpunosti vas oživljava nakon dugog dana planinarenja."
           },
           "stops": [
             {
@@ -722,7 +754,7 @@
                 "hu": "Vigyázat, a vízeséshez vezető kőlépcsők csúszósak; a tapadós talpú cipő kötelező.",
                 "ro": "Atenție, treptele de piatră spre cascadă sunt alunecoase; încălțămintea aderentă este obligatorie.",
                 "en": "Caution, the stone steps to the waterfall are slippery; grippy shoes are mandatory.",
-                "hr": "Oprez, kamene stepenice prema slapu su skliske; obuća koja ne kliže je obavezna."
+                "hr": "Upozorenje, kameni koraci do slapa su sklizavi; obavezna je obuća s dobrom prianjajućom potplatom."
               }
             },
             {
@@ -732,7 +764,7 @@
                 "hu": "A fapallók helyenként víz alá kerülhetnek; viselj vízálló túrabakancsot.",
                 "ro": "Podețele de lemn pot fi parțial sub apă; purtați bocanci de munte impermeabili.",
                 "en": "The wooden boardwalks may be partially submerged; wear waterproof hiking boots.",
-                "hr": "Drvene staze mogu biti djelomično potopljene; nosite vodootporne planinarske cipele."
+                "hr": "Drvene daske mogu biti djelomično potopljene; nosite vodootporne planinarske čizme."
               }
             },
             {
@@ -742,7 +774,7 @@
                 "hu": "A barlang száraz menedéket nyújt, ahol megigazíthatod az esőfelszerelésedet.",
                 "ro": "Peștera oferă un adăpost uscat unde vă puteți aranja echipamentul de ploaie.",
                 "en": "The cave provides a dry shelter where you can adjust your rain gear.",
-                "hr": "Špilja pruža suho sklonište gdje možete prilagoditi svoju opremu za kišu."
+                "hr": "Pećina pruža suhi zaklon gdje možete prilagoditi odjeću za kišu."
               }
             },
             {
@@ -752,7 +784,7 @@
                 "hu": "Használd a fedett elektromos hajót a száraz átkeléshez a legnagyobb tavon.",
                 "ro": "Folosiți barca electrică acoperită pentru o traversare uscată pe cel mai mare lac.",
                 "en": "Use the covered electric boat for a dry crossing over the largest lake.",
-                "hr": "Koristite natkriveni elektrobrod za suhi prijelaz preko najvećeg jezera."
+                "hr": "Koristite pokriveni električni čamac za suhi prijelaz najvećeg jezera."
               }
             },
             {
@@ -762,7 +794,7 @@
                 "hu": "A tó feletti szivárványok látványosak szemerkélő esőben és rövid napsütésben.",
                 "ro": "Curcubeele de deasupra lacului sunt spectaculoase în ploaie ușoară și ferestre scurte de soare.",
                 "en": "Rainbows over the lake are spectacular in light rain and short sun windows.",
-                "hr": "Duge iznad jezera su spektakularne tijekom lagane kiše i kratkih sunčanih razdoblja."
+                "hr": "Duge nad jezerom spektakularne su za vrijeme lagane kiše i prolaznih sunčanih prozora."
               }
             },
             {
@@ -772,7 +804,7 @@
                 "hu": "Az esőponchó itt jobb, mint az esernyő, mert a szél erősen befújja a vizet.",
                 "ro": "Pelerina de ploaie e mai bună decât umbrela aici, deoarece vântul suflă apa tare.",
                 "en": "A rain poncho is better than an umbrella here as the wind blows the water strongly.",
-                "hr": "Kabanica je ovdje bolja od kišobrana jer vjetar snažno nanosi vodu."
+                "hr": "Kišno pončo bolje je od kišobrana jer vjetar snažno raznosi vodu."
               }
             },
             {
@@ -782,7 +814,7 @@
                 "hu": "A sűrű erdei környezet természetes védelmet nyújt az enyhe szemerkélő eső ellen.",
                 "ro": "Mediul forestier dens oferă protecție naturală împotriva ploii ușoare.",
                 "en": "The dense forest environment provides natural protection against light drizzle.",
-                "hr": "Gusta šumska okolina pruža prirodnu zaštitu od lagane rosulje."
+                "hr": "Gusta šuma pruža prirodnu zaštitu protiv lagane rosiće."
               }
             },
             {
@@ -792,7 +824,7 @@
                 "hu": "Zivatar idején kerüld a kilátópontot a kitett, magaslati helyszín miatt.",
                 "ro": "Evitați punctul de observație în timpul furtunilor din cauza locației expuse.",
                 "en": "Avoid the lookout point during thunderstorms due to the exposed location.",
-                "hr": "Izbjegavajte vidikovac tijekom grmljavine zbog izloženog položaja."
+                "hr": "Izbjegavajte vidikovac tijekom grmljavinskih nevremena zbog izloženog položaja."
               }
             }
           ],
@@ -826,11 +858,11 @@
               "Allow more time for the route, as the walking pace drops significantly in the rain."
             ],
             "hr": [
-              "Nosite kvalitetnu kabanicu; kišobrani su nepraktični na uskim drvenim stazama.",
-              "Drvene staze postaju izuzetno skliske kad su mokre; hodajte pažljivo i držite se sredine.",
-              "Koristite restorane na ulazima i na stanici P3 za pauze na suhom.",
-              "Vodootporne futrole za telefone i fotoaparate su neophodne zbog visoke vlage.",
-              "Odvojite više vremena za rutu, jer tempo hodanja značajno opada na kiši."
+              "Nosite kvalitetan kišni pončo; kišobrani su nepraktični na uskim daskama.",
+              "Drvene staze postaju izuzetno skliske kad su mokre; hodajte oprezno i držite središnju liniju.",
+              "Iskoristite restorane na ulazima i na stanici P3 za suhe pauze.",
+              "Vodootporne futrole za telefone i fotoaparate su nužne zbog visoke vlažnosti.",
+              "Predvidite više vremena za rutu, jer se hodni ritam značajno usporava po kiši."
             ]
           }
         },
@@ -840,7 +872,7 @@
             "hu": "A fagyos reggelen a Nagy-vízesés szikláiról óriási jégcsapok lógnak, mint kristálycsillárok. A hó minden zajt elnyel, és fehér csendbe burkolja az Alsó-tavakat.\n\nDélben a napfény megcsillan a tavak befagyott felszínén, miközben az elektromos hajó utat tör a vékony jégrétegben. A tiszta, hideg időben a látótávolság ma különösen nagy.\n\nDélután egy téli mesevilágban sétálunk a behavazott bükkerdők között. A Galovac vízesés megfagyott zuhatagjai mintha megálltak volna az időben, mélykék jégként csillognak.\n\nA korai naplemente előtt a kilátópontról pasztellszínű panoráma tárul elénk. A távolban kigyúlnak a nemzeti park szállodáinak fényei, hívogatva egy meleg teára.",
             "ro": "O dimineață geroasă la Marea Cascadă dezvăluie țurțuri giganți care atârnă de pe stânci ca niște candelabre de cristal. Zăpada absoarbe orice zgomot, învăluind Lacurile Inferioare într-o liniște albă.\n\nLa prânz, soarele sclipește pe suprafața înghețată a lacurilor, în timp ce barca electrică își croiește drum prin straturile subțiri de gheață. Aerul rece și curat face ca vizibilitatea să fie extrem de mare astăzi.\n\nDupă-amiaza ne plimbăm printr-o poveste de iarnă printre pădurile de fagi înzăpezite. Cascadele înghețate de la Galovac par încremenite în timp, strălucind în nuanțe de albastru profund.\n\nÎnainte de apusul devreme, punctul de observație oferă o panoramă în culori pastelate. Luminile hotelurilor din parcul național se aprind în depărtare, invitându-te la un ceai cald.",
             "en": "A frosty morning at the Great Waterfall reveals giant icicles hanging from the rocks like crystal chandeliers. The snow muffles every sound, wrapping the Lower Lakes in a white silence.\n\nAt noon, the sun glints off the frozen surface of the lakes while the electric boat breaks its way through thin layers of ice. The clear, cold air makes visibility exceptionally sharp today.\n\nIn the afternoon, we walk through a winter wonderland of snow-covered beech forests. The frozen cascades of Galovac seem frozen in time, sparkling in deep blue ice.\n\nBefore the early sunset, the lookout point offers a panorama in soft pastel colors. The lights of the national park hotels glow in the distance, inviting you for a warming tea.",
-            "hr": "Ledeno jutro kod Velikog slapa otkriva divovske ledenice koje vise s stijena poput kristalnih lustera. Snijeg prigušuje svaki zvuk, obavijajući Donja jezera bijelom tišinom.\n\nU podne, sunce se ljeska na zaleđenoj površini jezera dok elektrobrod probija put kroz tanke slojeve leda. Čist, hladan zrak čini vidljivost danas izuzetno oštrom.\n\nPoslijepodne šetamo kroz zimsku bajku snijegom prekrivenih bukovih šuma. Zaleđene kaskade Galovca čine se zamrznute u vremenu, svjetlucajući u dubokom plavom ledu.\n\nPrije ranog zalaska sunca, vidikovac nudi panoramu u nježnim pastelnim bojama. Svjetla hotela u nacionalnom parku svijetle u daljini, pozivajući vas na topli čaj."
+            "hr": "Mrazno jutro kod Velikog slapa otkriva golema ledena závisanja koja vise s stijena poput kristalnih lusterа. Snijeg prigušuje svaki zvuk, uvijajući Donja jezera u bijeli mir.\n\nU podne, sunce se odbija od zaleđene površine jezera dok električni čamac probija tanke slojeve leda. Bistra, hladna zračnost danas čini vidljivost izuzetno oštrom.\n\nPoslijepodne hodamo kroz zimski raj prekriven bukovom šumom i snijegom. Zaleđene kaskade Galovca izgledaju zamrznuto u vremenu, sjajeći dublje plavim ledom.\n\nPrije ranog zalaska sunca, vidikovac nudi panoramu u mekim pastelnim bojama. Svjetla hotela u nacionalnom parku sjaje u daljini i pozivaju vas na toplu šalicu čaja."
           },
           "stops": [
             {
@@ -850,7 +882,7 @@
                 "hu": "Vigyázz az ösvény feletti sziklafalakról lehulló jégcsapokra.",
                 "ro": "Atenție la țurțurii care pot cădea de pe pereții de stâncă de deasupra potecii.",
                 "en": "Watch out for falling icicles from the cliff walls above the path.",
-                "hr": "Pripazite na ledenice koje padaju s litica iznad staze."
+                "hr": "Pazite na padajuće ledene sante sa stijenskih zidova iznad puta."
               }
             },
             {
@@ -860,7 +892,7 @@
                 "hu": "Cipőre csatolható csúszásgátló erősen ajánlott a gyakran jeges fapallókon.",
                 "ro": "Dispozitivele antiderapante pentru încălțăminte sunt recomandate pe podețele adesea înghețate.",
                 "en": "Traction cleats for shoes are highly recommended on the often icy boardwalks.",
-                "hr": "Dereze za cipele se toplo preporučuju na često zaleđenim drvenim stazama."
+                "hr": "Nastavci za poledicu na cipelama toplo se preporučuju za često zaleđene daske."
               }
             },
             {
@@ -870,7 +902,7 @@
                 "hu": "A barlang fagymentes marad, jó hely egy rövid átmelegedésre.",
                 "ro": "Peștera rămâne fără îngheț și este un loc bun pentru a vă încălzi puțin.",
                 "en": "The cave remains frost-free and is a good place to warm up briefly.",
-                "hr": "Špilja ostaje bez mraza i dobro je mjesto za kratko zagrijavanje."
+                "hr": "Pećina ostaje bez leda i dobro je mjesto za kratko zagrijavanje."
               }
             },
             {
@@ -880,7 +912,7 @@
                 "hu": "Ellenőrizd a bejáratnál, hogy a jegesedés miatt nem állt-e le a hajóforgalom.",
                 "ro": "Verificați la intrare dacă circulația bărcilor a fost suspendată din cauza gheții.",
                 "en": "Check at the entrance if boat service has been suspended due to ice.",
-                "hr": "Provjerite na ulazu je li brodska linija obustavljena zbog leda."
+                "hr": "Provjerite na ulazu je li brodska služba obustavljena zbog leda."
               }
             },
             {
@@ -890,7 +922,7 @@
                 "hu": "A türkizkék víz éles kontrasztot alkot a hófehér parttal.",
                 "ro": "Apa turcoaz formează un contrast puternic cu malul alb imaculat.",
                 "en": "The turquoise water forms a sharp contrast with the pure white shore.",
-                "hr": "Tirkizna voda tvori oštar kontrast s čisto bijelom obalom."
+                "hr": "Tirkizna voda oštrim kontrastom ističe čistu bijelu obalu."
               }
             },
             {
@@ -900,7 +932,7 @@
                 "hu": "A felső tavak télen gyakran le vannak zárva; csak idáig lehet eljutni.",
                 "ro": "Lacurile superioare sunt adesea închise iarna; accesul este posibil doar până aici.",
                 "en": "The upper lakes are often closed in winter; access may only be possible up to here.",
-                "hr": "Gornja jezera su često zatvorena zimi; pristup je moguć samo do ove točke."
+                "hr": "Gornja jezera često su zatvorena zimi; pristup je možda moguć samo do ove točke."
               }
             },
             {
@@ -910,7 +942,7 @@
                 "hu": "A mély hó járhatatlanná teheti az utat; csak magas szárú bakancsban indulj el.",
                 "ro": "Zăpada mare poate face drumul impracticabil; accesibil doar cu bocanci înalți.",
                 "en": "Deep snow can make the path impassable; accessible only with high boots.",
-                "hr": "Duboki snijeg može učiniti stazu neprohodnom; pristup samo u visokim čizmama."
+                "hr": "Dubok snijeg može učiniti stazu nepristupačnom; moguća samo s visokim čizmama."
               }
             },
             {
@@ -920,7 +952,7 @@
                 "hu": "Fent nagyon metsző a szél; a sapka és kesztyű kötelező viselet.",
                 "ro": "Vântul suflă foarte tăios aici sus; căciula și mănușile sunt obligatorii.",
                 "en": "The wind is very biting up here; hat and gloves are mandatory.",
-                "hr": "Vjetar je ovdje gore vrlo oštar; kapa i rukavice su obavezni."
+                "hr": "Vjetar je ovdje vrlo oštar; kapa i rukavice su obavezni."
               }
             }
           ],
@@ -954,11 +986,11 @@
               "Check the official park app in the morning for path closures due to snow or ice hazards."
             ],
             "hr": [
-              "Gornja jezera su obično zatvorena zimi; usredotočite se na posjet Donjim jezerima.",
-              "Sunce zalazi oko 16:15; započnite svoju turu najkasnije u 10:00 ujutro.",
-              "Odjenite se slojevito; zagrijat ćete se dok se krećete, ali ćete se brzo ohladiti dok stojite.",
-              "Ponesite termosicu s toplim čajem jer su mnogi kiosci zatvoreni zimi.",
-              "Ujutro provjerite službenu aplikaciju parka zbog zatvaranja staza uslijed snijega ili leda."
+              "Gornja jezera obično su zatvorena zimi; usmjerite posjet na Donja jezera.",
+              "Sunce zalazi oko 16:15; započnite turu najkasnije u 10:00.",
+              "Obucite se slojevito; zagrijat ćete se pri kretanju, ali brzo se ohladiti kad stanete.",
+              "Ponesite termus s vrućim čajem jer su mnogi kiosci zatvoreni tijekom zime.",
+              "Provjerite službenu aplikaciju parka ujutro zbog zatvaranja staza zbog snijega ili opasnosti od leda."
             ]
           }
         }
@@ -977,7 +1009,8 @@
             "de": "Vidikovac-Aussichtspunkt",
             "hu": "Vidikovac-kilátó",
             "ro": "Belvederea Vidikovac",
-            "en": "Vidikovac Lookout"
+            "en": "Vidikovac Lookout",
+            "hr": "Vidikovac"
           },
           "coords": [
             15.615,
@@ -993,7 +1026,7 @@
             "hu": "Tökéletes kezdőpont fotózáshoz, mielőtt az erdős területre hajtana.",
             "ro": "Punct de plecare perfect pentru poze înainte de a intra în zona de pădure.",
             "en": "Perfect starting point for photos before riding into the forest area.",
-            "hr": "Savršena polazna točka za fotografije prije vožnje u šumsko područje."
+            "hr": "Savršeno mjesto za početak fotografiranja prije ulaska u šumsko područje."
           }
         },
         {
@@ -1001,7 +1034,8 @@
             "de": "Prošćansko-See",
             "hu": "Prošćansko-tó",
             "ro": "Lacul Prošćansko",
-            "en": "Prošćansko Lake"
+            "en": "Prošćansko Lake",
+            "hr": "Prošćansko jezero"
           },
           "coords": [
             15.59,
@@ -1017,7 +1051,7 @@
             "hu": "A kerékpárutak a nemzeti park külső határai mentén haladnak.",
             "ro": "Pistele de biciclete trec pe la marginile exterioare ale parcului.",
             "en": "Cycling paths run along the outer borders of the national park.",
-            "hr": "Biciklističke staze protežu se uz vanjske granice nacionalnog parka."
+            "hr": "Biciklističke staze vode duž vanjskih granica nacionalnog parka."
           }
         },
         {
@@ -1025,7 +1059,8 @@
             "de": "Burget-See",
             "hu": "Burget-tó",
             "ro": "Lacul Burget",
-            "en": "Burget Lake"
+            "en": "Burget Lake",
+            "hr": "Jezero Burget"
           },
           "coords": [
             15.6,
@@ -1041,7 +1076,7 @@
             "hu": "Egy kisebb tó, amely gyakran kevésbé zsúfolt.",
             "ro": "Un lac mai mic, care este adesea mai puțin aglomerat.",
             "en": "A smaller lake that is often less crowded.",
-            "hr": "Manje jezero koje je često manje posjećeno."
+            "hr": "Manje jezero koje je često manje prenapučeno."
           }
         },
         {
@@ -1049,7 +1084,8 @@
             "de": "Kozjak-See (Südufer)",
             "hu": "Kozjak-tó (déli part)",
             "ro": "Lacul Kozjak (malul sudic)",
-            "en": "Kozjak Lake (South Shore)"
+            "en": "Kozjak Lake (South Shore)",
+            "hr": "Južna obala jezera Kozjak"
           },
           "coords": [
             15.61,
@@ -1065,7 +1101,7 @@
             "hu": "Zárja le biztonságosan a kerékpárt, ha meglátogatja a hajóállomást.",
             "ro": "Parcați bicicleta în siguranță dacă vizitați debarcaderul.",
             "en": "Park your bike securely if visiting the boat dock area.",
-            "hr": "Sigurno parkirajte bicikl ako posjećujete područje pristaništa za brodove."
+            "hr": "Sigurno parkirajte bicikl ako posjećujete pristanište za čamce."
           }
         },
         {
@@ -1073,7 +1109,8 @@
             "de": "Donja Jezera",
             "hu": "Alsó-tavak",
             "ro": "Lacurile de Jos",
-            "en": "Lower Lakes"
+            "en": "Lower Lakes",
+            "hr": "Donja jezera"
           },
           "coords": [
             15.61,
@@ -1089,7 +1126,7 @@
             "hu": "A fapallókon tilos biciklizni, használja az erdei utakat.",
             "ro": "Bicicletele sunt interzise pe punți, folosiți drumurile forestiere.",
             "en": "Bikes are not allowed on boardwalks, use the forest roads.",
-            "hr": "Bicikli nisu dopušteni na drvenim stazama, koristite šumske ceste."
+            "hr": "Bicikli nisu dozvoljeni na drvenim stazama, koristite šumske puteve."
           }
         },
         {
@@ -1097,7 +1134,8 @@
             "de": "Sastavci-Wasserfälle",
             "hu": "Sastavci-vízesések",
             "ro": "Cascadele Sastavci",
-            "en": "Sastavci Waterfalls"
+            "en": "Sastavci Waterfalls",
+            "hr": "Slapovi Sastavci"
           },
           "coords": [
             15.609,
@@ -1122,7 +1160,7 @@
         "hu": "Kerékpárral a park erdős környezetét fedezheti fel a kijelölt utakon. A délelőtt a nyugodtabb Felső-tavakhoz és a Prošćansko-tóhoz vezet. Délben pihenő a Kozjak-tó partján. A délután kilátást nyújt az Alsó-tavakra és a lenyűgöző Sastavci-vízesésekre, mielőtt befejeznénk a túrát.",
         "ro": "Cu bicicleta explorați împrejurimile împădurite ale parcului pe trasee oficiale. Dimineața vă duce la Lacurile Superioare mai liniștite și lacul Prošćansko. La prânz faceți o pauză pe malul lacului Kozjak. După-amiaza oferă vederi spre Lacurile de Jos și cascadele Sastavci înainte de final.",
         "en": "By bike, you explore the forested surroundings of the park on official trails. The morning takes you to the quieter Upper Lakes and Prošćansko Lake. Midday features a break by the shores of Kozjak Lake. The afternoon offers views of the Lower Lakes and the impressive Sastavci falls before concluding the tour.",
-        "hr": "Biciklom istražujete šumovitu okolicu parka na službenim stazama. Jutro vas vodi do mirnijih Gornjih jezera i Prošćanskog jezera. Sredinom dana slijedi odmor uz obalu jezera Kozjak. Poslijepodne nudi pogled na Donja jezera i impresivne slapove Sastavke prije završetka ture."
+        "hr": "Biciklom ćete istražiti šumske okolice parka na označenim stazama. Jutro vodi do mirnijih Gornjih jezera i Prošćanskog jezera. U podne slijedi pauza uz obalu Kozjaka. Poslijepodne nudi poglede na Donja jezera i impresivne slapove Sastavci prije završetka ture."
       },
       "gastro_picks": {
         "de": [
@@ -1275,11 +1313,11 @@
           "Watch out for hikers at crossing points."
         ],
         "hr": [
-          "Vožnja bicikla zabranjena je u užem području jezera.",
-          "Koristite označene biciklističke staze oko mjesta Rakovica.",
-          "Unajmite e-bicikle za brdoviti krajolik Like.",
-          "Uvijek nosite kacigu jer staze mogu biti kamenite.",
-          "Pripazite na pješake na mjestima križanja."
+          "Biciklizam je zabranjen u središnjem području jezera.",
+          "Koristite obilježene biciklističke staze oko sela Rakovica.",
+          "Iznajmite električne bicikle za brdoviti krajolik Like.",
+          "Uvijek nosite kacigu jer staze mogu biti stjenovite.",
+          "Pazite na planinare na prijelazima staza."
         ]
       },
       "variants": {
@@ -1288,7 +1326,8 @@
             "de": "Mit dem Rad erkunden Sie die waldreiche Umgebung des Parks auf offiziellen Wegen. Der Vormittag führt Sie zu den ruhigeren Oberen Seen und dem Prošćansko-See. Mittags machen Sie Pause am Ufer des Kozjak-Sees. Der Nachmittag bietet Ausblicke auf die Donja Jezera und die beeindruckenden Sastavci-Fälle, bevor die Tour endet.",
             "hu": "Kerékpárral a park erdős környezetét fedezheti fel a kijelölt utakon. A délelőtt a nyugodtabb Felső-tavakhoz és a Prošćansko-tóhoz vezet. Délben pihenő a Kozjak-tó partján. A délután kilátást nyújt az Alsó-tavakra és a lenyűgöző Sastavci-vízesésekre, mielőtt befejeznénk a túrát.",
             "ro": "Cu bicicleta explorați împrejurimile împădurite ale parcului pe trasee oficiale. Dimineața vă duce la Lacurile Superioare mai liniștite și lacul Prošćansko. La prânz faceți o pauză pe malul lacului Kozjak. După-amiaza oferă vederi spre Lacurile de Jos și cascadele Sastavci înainte de final.",
-            "en": "By bike, you explore the forested surroundings of the park on official trails. The morning takes you to the quieter Upper Lakes and Prošćansko Lake. Midday features a break by the shores of Kozjak Lake. The afternoon offers views of the Lower Lakes and the impressive Sastavci falls before concluding the tour."
+            "en": "By bike, you explore the forested surroundings of the park on official trails. The morning takes you to the quieter Upper Lakes and Prošćansko Lake. Midday features a break by the shores of Kozjak Lake. The afternoon offers views of the Lower Lakes and the impressive Sastavci falls before concluding the tour.",
+            "hr": "Biciklom ćete istražiti šumske okolice parka na označenim stazama. Jutro vodi do mirnijih Gornjih jezera i Prošćanskog jezera. U podne slijedi pauza uz obalu Kozjaka. Poslijepodne nudi poglede na Donja jezera i impresivne slapove Sastavci prije završetka ture."
           },
           "stops": [
             {
@@ -1296,13 +1335,15 @@
                 "de": "Vidikovac-Aussichtspunkt",
                 "hu": "Vidikovac-kilátó",
                 "ro": "Belvederea Vidikovac",
-                "en": "Vidikovac Lookout"
+                "en": "Vidikovac Lookout",
+                "hr": "Vidikovac"
               },
               "tip_5lang": {
                 "de": "Perfekter Startpunkt für Fotos, bevor man in das Waldgebiet fährt.",
                 "hu": "Tökéletes kezdőpont fotózáshoz, mielőtt az erdős területre hajtana.",
                 "ro": "Punct de plecare perfect pentru poze înainte de a intra în zona de pădure.",
-                "en": "Perfect starting point for photos before riding into the forest area."
+                "en": "Perfect starting point for photos before riding into the forest area.",
+                "hr": "Savršeno mjesto za početak fotografiranja prije ulaska u šumsko područje."
               }
             },
             {
@@ -1310,13 +1351,15 @@
                 "de": "Prošćansko-See",
                 "hu": "Prošćansko-tó",
                 "ro": "Lacul Prošćansko",
-                "en": "Prošćansko Lake"
+                "en": "Prošćansko Lake",
+                "hr": "Prošćansko jezero"
               },
               "tip_5lang": {
                 "de": "Die Radwege führen um die äußeren Grenzen des Nationalparks herum.",
                 "hu": "A kerékpárutak a nemzeti park külső határai mentén haladnak.",
                 "ro": "Pistele de biciclete trec pe la marginile exterioare ale parcului.",
-                "en": "Cycling paths run along the outer borders of the national park."
+                "en": "Cycling paths run along the outer borders of the national park.",
+                "hr": "Biciklističke staze vode duž vanjskih granica nacionalnog parka."
               }
             },
             {
@@ -1324,13 +1367,15 @@
                 "de": "Burget-See",
                 "hu": "Burget-tó",
                 "ro": "Lacul Burget",
-                "en": "Burget Lake"
+                "en": "Burget Lake",
+                "hr": "Jezero Burget"
               },
               "tip_5lang": {
                 "de": "Ein kleinerer See, der oft weniger überlaufen ist.",
                 "hu": "Egy kisebb tó, amely gyakran kevésbé zsúfolt.",
                 "ro": "Un lac mai mic, care este adesea mai puțin aglomerat.",
-                "en": "A smaller lake that is often less crowded."
+                "en": "A smaller lake that is often less crowded.",
+                "hr": "Manje jezero koje je često manje prenapučeno."
               }
             },
             {
@@ -1338,13 +1383,15 @@
                 "de": "Kozjak-See (Südufer)",
                 "hu": "Kozjak-tó (déli part)",
                 "ro": "Lacul Kozjak (malul sudic)",
-                "en": "Kozjak Lake (South Shore)"
+                "en": "Kozjak Lake (South Shore)",
+                "hr": "Južna obala jezera Kozjak"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad sicher ab, wenn Sie den Bootsanleger besuchen.",
                 "hu": "Zárja le biztonságosan a kerékpárt, ha meglátogatja a hajóállomást.",
                 "ro": "Parcați bicicleta în siguranță dacă vizitați debarcaderul.",
-                "en": "Park your bike securely if visiting the boat dock area."
+                "en": "Park your bike securely if visiting the boat dock area.",
+                "hr": "Sigurno parkirajte bicikl ako posjećujete pristanište za čamce."
               }
             },
             {
@@ -1352,13 +1399,15 @@
                 "de": "Donja Jezera",
                 "hu": "Alsó-tavak",
                 "ro": "Lacurile de Jos",
-                "en": "Lower Lakes"
+                "en": "Lower Lakes",
+                "hr": "Donja jezera"
               },
               "tip_5lang": {
                 "de": "Fahrräder sind auf den Holzstegen nicht erlaubt, nutzen Sie die Waldwege.",
                 "hu": "A fapallókon tilos biciklizni, használja az erdei utakat.",
                 "ro": "Bicicletele sunt interzise pe punți, folosiți drumurile forestiere.",
-                "en": "Bikes are not allowed on boardwalks, use the forest roads."
+                "en": "Bikes are not allowed on boardwalks, use the forest roads.",
+                "hr": "Bicikli nisu dozvoljeni na drvenim stazama, koristite šumske puteve."
               }
             },
             {
@@ -1366,13 +1415,15 @@
                 "de": "Sastavci-Wasserfälle",
                 "hu": "Sastavci-vízesések",
                 "ro": "Cascadele Sastavci",
-                "en": "Sastavci Waterfalls"
+                "en": "Sastavci Waterfalls",
+                "hr": "Slapovi Sastavci"
               },
               "tip_5lang": {
                 "de": "Hier fließen die Seen zusammen und bilden den Fluss Korana.",
                 "hu": "Itt folynak össze a tavak, megalkotva a Korana-folyót.",
                 "ro": "Aici se unesc lacurile, formând râul Korana.",
-                "en": "Here the lakes merge and form the Korana river."
+                "en": "Here the lakes merge and form the Korana river.",
+                "hr": "Ovdje se jezera stapaju i tvore rijeku Koranu."
               }
             }
           ],
@@ -1502,6 +1553,13 @@
               "Rent e-bikes for the hilly landscape of Lika.",
               "Always wear a helmet as paths can be rocky.",
               "Watch out for hikers at crossing points."
+            ],
+            "hr": [
+              "U jezgrenom području jezera zabranjeno je voziti bicikl.",
+              "Koristite označene biciklističke staze oko sela Rakovica.",
+              "Iznajmite električne bicikle za brežuljkasti kraj Like.",
+              "Uvijek nosite kacigu jer su staze često kamenkaste.",
+              "Pazite na planinare na prijelazima."
             ]
           }
         },
@@ -1511,7 +1569,7 @@
             "hu": "A kerékpáros reggel frissítően hűvösen indul a kilátópontnál. Az eső lepereg a technikai ruházatról, miközben a ködös kanyont szemléljük.\n\nDélben a Prošćansko-tóhoz vezető felázott erdei utak teljes koncentrációt igényelnek. A nedves fenyőerdő illata kísér minden pedálfordulatot.\n\nDélután óvatosan gurulunk lefelé a Kozjak-tóhoz. A kerekek által felcsapott víz és a finom permet igazi szabadtéri kalanddá válik.\n\nA napot a vízesések közelében zárjuk. A fékek halkan nyikorognak a nedvességben, miközben a drámai, vízzel teli tájat élvezzük.",
             "ro": "Dimineața pe bicicletă începe răcoros la punctul de observație. Ploaia alunecă de pe hainele tehnice în timp ce privim canionul cețos.\n\nLa prânz, drumurile forestiere înmuiate spre lacul Prošćansko cer concentrare maximă. Parfumul pădurii umede de pini însoțește fiecare pedalare.\n\nDupă-amiaza coborâm cu grijă spre lacul Kozjak. Apa împroșcată de roți se amestecă cu burnița fină într-o adevărată aventură în aer liber.\n\nÎncheiem ziua în apropierea cascadelor. Frânele scârțâie ușor în umezeală în timp ce savurăm scenariul dramatic plin de apă.",
             "en": "The cycling morning starts refreshingly cool at the lookout. Rain beads off technical clothing as we survey the misty canyon.\n\nAt noon, the softened forest trails to Lake Prošćansko require full concentration. The scent of damp pine wood accompanies every pedal stroke.\n\nIn the afternoon, we roll carefully downhill towards Lake Kozjak. The spray from the tires mixes with the fine drizzle into a true outdoor adventure.\n\nWe conclude the day near the waterfalls. The brakes squeak quietly in the wet as we enjoy the dramatic, water-rich scenery.",
-            "hr": "Biciklističko jutro započinje osvježavajuće hladno na vidikovcu. Kiša klizi s tehničke odjeće dok promatramo magloviti kanjon.\n\nU podne, omekšale šumske staze prema Prošćanskom jezeru zahtijevaju punu koncentraciju. Miris vlažnog borovog drveta prati svaki okret pedale.\n\nPoslijepodne se pažljivo spuštamo nizbrdo prema jezeru Kozjak. Prskanje s guma miješa se s laganom rosuljom u pravu outdoor avanturu.\n\nDan završavamo u blizini slapova. Kočnice tiho škripe na mokrom dok uživamo u dramatičnom krajoliku bogatom vodom."
+            "hr": "Biciklističko jutro počinje osvježavajuće hladno na vidikovcu. Kišne kapljice kližu s tehničke odjeće dok promatramo magloviti kanjon.\n\nU podne, omekšane šumske staze prema Prošćanskom jezeru zahtijevaju punu koncentraciju. Miris vlažnog borovog drva prati svaki okret pedale.\n\nPoslijepodne, pažljivo se spuštamo prema jezeru Kozjak. Prskanje s guma miješa se s finom rosom u pravo vanjsko iskustvo.\n\nDan zaključujemo kraj slapova. Kočnice tiho škripe na vlažnom dok uživamo u dramatičnom, vodenom krajoliku."
           },
           "stops": [
             {
@@ -1521,7 +1579,7 @@
                 "hu": "Töröld le a szemüveged; a köd akadályozza a kilátást a szakadék felé.",
                 "ro": "Ștergeți ochelarii de protecție; ceața obstrucționează vederea spre abis.",
                 "en": "Wipe your goggles; the mist obstructs the view of the abyss.",
-                "hr": "Obrišite naočale; magla ometa pogled u ponor."
+                "hr": "Obrišite naočale; magla zaklanja pogled u ponor."
               }
             },
             {
@@ -1531,7 +1589,7 @@
                 "hu": "Ügyelj a mély tócsákra; a talaj itt nagyon agyagos és csúszós lehet.",
                 "ro": "Atenție la bălțile adânci; solul poate fi foarte lutos și alunecos aici.",
                 "en": "Watch out for deep puddles; the ground can be very clayey and slippery here.",
-                "hr": "Pripazite na duboke lokve; tlo ovdje može biti vrlo glinovito i sklisko."
+                "hr": "Pazite na duboke lokve; tlo ovdje može biti vrlo glineno i sklisko."
               }
             },
             {
@@ -1551,7 +1609,7 @@
                 "hu": "Kerüld az éles kanyarokat a nedves parti utakon; csúszásveszély.",
                 "ro": "Evitați virajele strânse pe drumurile umede de pe mal; risc de derapare.",
                 "en": "Avoid sharp turns on the wet shore paths; risk of skidding.",
-                "hr": "Izbjegavajte oštre zavoje na mokrim obalnim stazama; rizik od proklizavanja."
+                "hr": "Izbjegavajte oštre zavoje na vlažnim obalnim stazama; postoji rizik od proklizavanja."
               }
             },
             {
@@ -1561,7 +1619,7 @@
                 "hu": "Ezen a részen tolni kell a kerékpárt; a pallók rendkívül simák és csúsznak.",
                 "ro": "Bicicletele trebuie împinse în această zonă; podețele sunt extrem de alunecoase.",
                 "en": "Bikes must be pushed in this area; the boardwalks are extremely smooth and slick.",
-                "hr": "Bicikli se u ovom području moraju gurati; drvene staze su izuzetno glatke i skliske."
+                "hr": "U ovom području bicikle treba gurati; drvene staze su iznimno glatke i skliske."
               }
             },
             {
@@ -1571,7 +1629,7 @@
                 "hu": "Biztonságosan támaszd le a bringát; a szél felerősödhet a nyitott részeken.",
                 "ro": "Parcați bicicleta în siguranță; vântul se poate intensifica în locurile expuse.",
                 "en": "Park your bike securely; the wind can pick up in exposed areas.",
-                "hr": "Sigurno parkirajte bicikl; vjetar može ojačati na izloženim mjestima."
+                "hr": "Parkirajte bicikl sigurno; vjetar može pojačati na izloženim dijelovima."
               }
             }
           ],
@@ -1605,11 +1663,11 @@
               "A small rag to clean the chain after the tour prevents rust from rainwater."
             ],
             "hr": [
-              "Koristite blatobrane na biciklu kako biste se zaštitili od prskanja blata.",
-              "Disk kočnice su bitna sigurnosna značajka na mokrim brdima Like.",
-              "Nosite vodootporne navlake za cipele kako bi vam stopala ostala suha tijekom duge vožnje.",
-              "Biciklom potpuno izbjegavajte drvene staze; one su za gume poput sapunice.",
-              "Mala krpica za čišćenje lanca nakon ture sprječava hrđu od kišnice."
+              "Koristite blatobrane na biciklu kako biste se zaštitili od prskajućeg blata.",
+              "Disk kočnice su bitna sigurnosna značajka u vlažnim brdima Like.",
+              "Nosite vodootporne navlake za cipele kako biste držali noge suhim na dugim vožnjama.",
+              "S drvenih staza na dasci u potpunosti izbjegavajte vožnju biciklom; one su poput sapuna za gume.",
+              "Mala krpa za čišćenje lanca nakon ture sprječava hrđu od kišnice."
             ]
           }
         },
@@ -1619,7 +1677,7 @@
             "hu": "Hidegen és tisztán indul a bringás nap a kilátópontnál. A gumik ropognak a fagyott talajon, miközben a leheletünk fehér felhőket fest a levegőbe.\n\nDélben elérjük a Prošćansko-tó behavazott partját. A tél csendjét csak a gumik halk surrogása töri meg a hóban.\n\nDélután a Burget-tóhoz vezető jeges szakaszok technikai ügyességet igényelnek. A mélykék víz éles kontrasztban áll a fehér téli tájjal.\n\nBefejezésül az alsó zuhatagok hűvös pompáját élvezzük. A lemenő nap aranyfénybe vonja a Sastavci-vízesés megfagyott permetét.",
             "ro": "Rece și senin începe ziua de bicicletă la punctul de observație. Anvelopele scârțâie pe solul înghețat în timp ce respirația desenează nori albi în aer.\n\nLa prânz ajungem la malul înzăpezit al lacului Prošćansko. Liniștea iernii este întreruptă doar de sunetul încet al roților pe zăpadă.\n\nDupă-amiaza, pasajele înghețate spre lacul Burget cer abilități tehnice. Apa albastru închis contrastează puternic cu peisajul alb de iarnă.\n\nLa final savurăm splendoarea rece a cascadelor inferioare. Soarele la apus scaldă în lumină aurie spuma înghețată a căderilor Sastavci.",
             "en": "Cold and clear starts the cycling day at the lookout. Tires crunch on the frozen ground while breath paints white clouds in the air.\n\nAt noon, we reach the snow-covered shore of Lake Prošćansko. The winter silence is only broken by the soft hum of the tires in the snow.\n\nIn the afternoon, the icy sections to Lake Burget require technical skill. The deep blue water stands in stark contrast to the white winter landscape.\n\nFinally, we enjoy the cool splendor of the lower cascades. The setting sun bathes the frozen spray of the Sastavci falls in golden light.",
-            "hr": "Hladno i vedro započinje biciklistički dan na vidikovcu. Gume krckaju na smrznutom tlu dok dah crta bijele oblake u zraku.\n\nU podne dolazimo do snijegom prekrivene obale Prošćanskog jezera. Zimsku tišinu prekida samo tiho brujanje guma u snijegu.\n\nPoslijepodne zaleđeni dijelovi prema jezeru Burget zahtijevaju tehničku vještinu. Duboka plava voda stoji u oštrom kontrastu s bijelim zimskim krajolikom.\n\nNapokon, uživamo u hladnom sjaju donjih kaskada. Zalazeće sunce kupa zaleđene kapljice slapova Sastavaka u zlatnoj svjetlosti."
+            "hr": "Hladno i vedro počinje biciklistički dan na vidikovcu. Gume škripaju po zaleđenom tlu dok dah stvara bijele oblake u zraku.\n\nU podne stignemo do snijegom pokrivene obale Prošćanskog jezera. Zimska tišina prekida se samo blagim zujanjem guma po snijegu.\n\nPoslijepodne, zaleđeni dijelovi prema jezeru Burget zahtijevaju tehničku vještinu. Duboko plavo jezero oštro kontrastira s bijelim zimskim krajolikom.\n\nNa kraju uživamo u hladnome sjaju donjih kaskada. Zalazeće sunce obasjava zaleđenu prsku slapova Sastavci zlatnim sjajem."
           },
           "stops": [
             {
@@ -1629,7 +1687,7 @@
                 "hu": "Vigyázz a jeges foltokra a kilátópont parkolójában.",
                 "ro": "Atenție la porțiunile înghețate din parcarea punctului de observație.",
                 "en": "Beware of icy patches in the lookout's parking area.",
-                "hr": "Čuvajte se zaleđenih mjesta na parkiralištu vidikovca."
+                "hr": "Pazite na zaleđene dijelove na parkiralištu kod vidikovca."
               }
             },
             {
@@ -1639,7 +1697,7 @@
                 "hu": "A tóparti utat hófúvások zárhatják el; kerüld meg ezeket.",
                 "ro": "Drumul de pe malul lacului poate fi blocat de troiene; ocoliți-le.",
                 "en": "The lakeside path may be blocked by snowdrifts; bypass them.",
-                "hr": "Obalna staza može biti blokirana nanosima snijega; zaobiđite ih."
+                "hr": "Obalna staza može biti zatvorena snježnim nanosima; zaobiđite ih."
               }
             },
             {
@@ -1649,7 +1707,7 @@
                 "hu": "A kerékpár fém részei rendkívül lehűlhetnek; viselj hőszigetelt kesztyűt.",
                 "ro": "Părțile metalice ale bicicletei pot deveni extrem de reci; purtați mănuși izolante.",
                 "en": "Metal parts of the bike can become extremely cold; wear insulated gloves.",
-                "hr": "Metalni dijelovi bicikla mogu postati izuzetno hladni; nosite izolirane rukavice."
+                "hr": "Metalni dijelovi bicikla mogu postati iznimno hladni; nosite izolirane rukavice."
               }
             },
             {
@@ -1659,7 +1717,7 @@
                 "hu": "Az árnyékos utak itt fagynak le először; tekints különösen lassan.",
                 "ro": "Drumurile umbrite de aici îngheață primele; pedalați deosebit de încet.",
                 "en": "The shaded paths here freeze first; ride particularly slowly.",
-                "hr": "Zasjenjene staze se ovdje prve smrzavaju; vozite posebno polako."
+                "hr": "Sjenovite staze ovdje prve se zaleđuju; vozite posebno polako."
               }
             },
             {
@@ -1669,7 +1727,7 @@
                 "hu": "A pallókon lévő hókása fáradságossá teszi a bringa tolását.",
                 "ro": "Zăpada topită de pe podețe face împingerea bicicletei anevoioasă.",
                 "en": "Slush on the boardwalks makes pushing the bike tedious.",
-                "hr": "Bljuzga na drvenim stazama čini guranje bicikla zamornim."
+                "hr": "Rabljenje bicikla po bljuzgi na drvenim stazama otežava guranje."
               }
             },
             {
@@ -1679,7 +1737,7 @@
                 "hu": "A megfagyott permet síkos jégréteggel vonhatja be az ösvényt.",
                 "ro": "Spuma înghețată poate acoperi poteca cu un strat de gheață alunecos.",
                 "en": "The frozen spray can coat the path with a slippery layer of ice.",
-                "hr": "Zaleđene kapljice mogu prekriti stazu skliskim slojem leda."
+                "hr": "Zaleđena prska može prekriti stazu klizavim slojem leda."
               }
             }
           ],
@@ -1713,11 +1771,11 @@
               "Take spare batteries for lights, as cold weather quickly drains battery life."
             ],
             "hr": [
-              "Koristite gume s grubim profilom ili čak čavlićima za bolje prianjanje na ledu.",
-              "Izbjegavajte znojenje na temperaturama ispod nule; vozite umjerenim tempom.",
+              "Koristite gume grubog profila ili čak s čavlima za bolje prianjanje na ledu.",
+              "Izbjegavajte pretjerano znojenje na temperaturama ispod nule; vozite umjerenim tempom.",
               "Dobro podmažite sve pokretne dijelove kako biste spriječili smrzavanje mjenjača.",
-              "Niži tlak u gumama povećava dodirnu površinu i prianjanje u pršiću.",
-              "Uzmite rezervne baterije za svjetla, jer hladno vrijeme brzo prazni baterije."
+              "Smanjenjem tlaka u gumama povećava se kontaktna površina i prianjanje u labavom snijegu.",
+              "Ponesite rezervne baterije za svjetla, jer hladnoća brzo prazni baterije."
             ]
           }
         }
@@ -1736,7 +1794,8 @@
             "de": "Eingang 1 (Veliki Slap)",
             "hu": "1-es bejárat (Nagy-vízesés)",
             "ro": "Intrarea 1 (Cascada Mare)",
-            "en": "Entrance 1 (Great Waterfall)"
+            "en": "Entrance 1 (Great Waterfall)",
+            "hr": "Ulaz 1 (Veliki slap)"
           },
           "coords": [
             15.611,
@@ -1760,7 +1819,8 @@
             "de": "Kozjak-See Anleger",
             "hu": "Kozjak-tó hajóállomás",
             "ro": "Debarcaderul Lacului Kozjak",
-            "en": "Kozjak Lake Boat Dock"
+            "en": "Kozjak Lake Boat Dock",
+            "hr": "Gat za čamce na jezeru Kozjak"
           },
           "coords": [
             15.615,
@@ -1776,7 +1836,7 @@
             "hu": "A hajóút összeköti az alsó és felső tavakat.",
             "ro": "Plimbarea cu barca conectează lacurile de jos cu cele de sus.",
             "en": "The boat trip connects the lower and upper lakes.",
-            "hr": "Vožnja brodom povezuje Donja i Gornja jezera."
+            "hr": "Vožnja čamcem povezuje donja i gornja jezera."
           }
         },
         {
@@ -1784,7 +1844,8 @@
             "de": "Galovački buk",
             "hu": "Galovác-vízesés",
             "ro": "Cascada Galovački",
-            "en": "Galovac Waterfall"
+            "en": "Galovac Waterfall",
+            "hr": "Slap Galovac"
           },
           "coords": [
             15.6,
@@ -1800,7 +1861,7 @@
             "hu": "Rövid séta szükséges az ST3 parkolótól.",
             "ro": "Este necesară o scurtă plimbare de la parcarea ST3.",
             "en": "A short walk from the ST3 parking/shuttle area is required.",
-            "hr": "Potrebna je kratka šetnja od parkirališta ST3 ili stanice vlaka."
+            "hr": "Potrebno je kratko pješačenje iz područja parkirališta/shuttle ST3."
           }
         },
         {
@@ -1808,7 +1869,8 @@
             "de": "Eingang 2 (Hotelareal)",
             "hu": "2-es bejárat (szállodanegyed)",
             "ro": "Intrarea 2 (zona hotelieră)",
-            "en": "Entrance 2 (Hotel area)"
+            "en": "Entrance 2 (Hotel area)",
+            "hr": "Ulaz 2 (područje hotela)"
           },
           "coords": [
             15.618,
@@ -1832,7 +1894,8 @@
             "de": "Milanovac-See",
             "hu": "Milanovac-tó",
             "ro": "Lacul Milanovac",
-            "en": "Milanovac Lake"
+            "en": "Milanovac Lake",
+            "hr": "Jezero Milanovac"
           },
           "coords": [
             15.612,
@@ -1856,7 +1919,8 @@
             "de": "Rastoke (Slunj)",
             "hu": "Rastoke (Szluin)",
             "ro": "Rastoke (Slunj)",
-            "en": "Rastoke (Slunj)"
+            "en": "Rastoke (Slunj)",
+            "hr": "Rastoke (Slunj)"
           },
           "coords": [
             15.587,
@@ -1872,7 +1936,7 @@
             "hu": "Festői vízimalom-falu 25 km-re északra.",
             "ro": "Un sat pitoresc cu mori de apă, la 25 km spre nord.",
             "en": "A picturesque watermill village 25 km to the north.",
-            "hr": "Slikovito selo mlinica 25 km prema sjeveru."
+            "hr": "Slikovito selo s vodenicama 25 km na sjever."
           }
         }
       ],
@@ -1881,7 +1945,7 @@
         "hu": "Autóval ingázva a főbejáratok között hatékonyan látogathatja meg mindkét tórendszert. A délelőtt az Alsó-tavaké és a Nagy-vízesésé. Délben hajózás a Kozjak-tavon. Délután a Felső-tavakat fedezzük fel, a napot pedig egy rövid kitérővel zárjuk a történelmi Rastoke falujába.",
         "ro": "Cu mașina faceți legătura între intrările principale pentru a vizita eficient ambele grupuri de lacuri. Dimineața aparține Lacurilor de Jos și Cascadei Mari. La prânz folosiți barca pe lacul Kozjak. După-amiaza explorați Lacurile Superioare și încheiați ziua cu o scurtă vizită în istoricul Rastoke.",
         "en": "By car, you commute between the main entrances to efficiently visit both lake groups. The morning is dedicated to the Lower Lakes and the Great Waterfall. Midday includes a boat trip on Kozjak Lake. The afternoon is spent exploring the Upper Lakes, concluding the day with a short trip to historic Rastoke.",
-        "hr": "Automobilom putujete između glavnih ulaza kako biste učinkovito posjetili obje skupine jezera. Jutro je posvećeno Donjim jezerima i Velikom slapu. Sredinom dana planiran je izlet brodom po jezeru Kozjak. Poslijepodne istražujete Gornja jezera, a dan završavate kratkim izletom u povijesne Rastoke."
+        "hr": "Autom se premještate između glavnih ulaza kako biste učinkovito posjetili obje grupe jezera. Jutro je posvećeno Donjim jezerima i Velikom slapu. U podne je predviđena vožnja čamcem po jezeru Kozjak. Poslijepodne se istražuju Gornja jezera, a dan se završava kratkim izletom u povijesne Rastoke."
       },
       "gastro_picks": {
         "de": [
@@ -2014,11 +2078,11 @@
           "Use parking apps for payment where available."
         ],
         "hr": [
-          "Naknada za parkiranje naplaćuje se po satu.",
-          "Parkirališta su ljeti često puna već do 10:00 sati.",
-          "Ne ostavljajte dragocjenosti na vidljivom mjestu u automobilu.",
-          "Cesta D1 povezuje ulaze u nekoliko minuta vožnje.",
-          "Koristite aplikacije za plaćanje parkiranja gdje su dostupne."
+          "Naknade za parkiranje naplaćuju se po satu.",
+          "Parkirališta su često puna već do 10:00 ujutro ljeti.",
+          "Ne ostavljajte vrijedne stvari vidljive u automobilu.",
+          "Cesta D1 povezuje ulaze za nekoliko minuta.",
+          "Koristite aplikacije za parkiranje za plaćanje gdje su dostupne."
         ]
       },
       "variants": {
@@ -2027,7 +2091,8 @@
             "de": "Mit dem Auto pendeln Sie zwischen den Haupteingängen, um beide Seengruppen effizient zu besuchen. Der Vormittag gehört den Unteren Seen und dem Großen Wasserfall. Mittags nutzen Sie das Boot am Kozjak-See. Nachmittags erkunden Sie die Oberen Seen und beenden den Tag mit einem kurzen Abstecher in das historische Rastoke.",
             "hu": "Autóval ingázva a főbejáratok között hatékonyan látogathatja meg mindkét tórendszert. A délelőtt az Alsó-tavaké és a Nagy-vízesésé. Délben hajózás a Kozjak-tavon. Délután a Felső-tavakat fedezzük fel, a napot pedig egy rövid kitérővel zárjuk a történelmi Rastoke falujába.",
             "ro": "Cu mașina faceți legătura între intrările principale pentru a vizita eficient ambele grupuri de lacuri. Dimineața aparține Lacurilor de Jos și Cascadei Mari. La prânz folosiți barca pe lacul Kozjak. După-amiaza explorați Lacurile Superioare și încheiați ziua cu o scurtă vizită în istoricul Rastoke.",
-            "en": "By car, you commute between the main entrances to efficiently visit both lake groups. The morning is dedicated to the Lower Lakes and the Great Waterfall. Midday includes a boat trip on Kozjak Lake. The afternoon is spent exploring the Upper Lakes, concluding the day with a short trip to historic Rastoke."
+            "en": "By car, you commute between the main entrances to efficiently visit both lake groups. The morning is dedicated to the Lower Lakes and the Great Waterfall. Midday includes a boat trip on Kozjak Lake. The afternoon is spent exploring the Upper Lakes, concluding the day with a short trip to historic Rastoke.",
+            "hr": "Autom se premještate između glavnih ulaza kako biste učinkovito posjetili obje grupe jezera. Jutro je posvećeno Donjim jezerima i Velikom slapu. U podne je predviđena vožnja čamcem po jezeru Kozjak. Poslijepodne se istražuju Gornja jezera, a dan se završava kratkim izletom u povijesne Rastoke."
           },
           "stops": [
             {
@@ -2035,13 +2100,15 @@
                 "de": "Eingang 1 (Veliki Slap)",
                 "hu": "1-es bejárat (Nagy-vízesés)",
                 "ro": "Intrarea 1 (Cascada Mare)",
-                "en": "Entrance 1 (Great Waterfall)"
+                "en": "Entrance 1 (Great Waterfall)",
+                "hr": "Ulaz 1 (Veliki slap)"
               },
               "tip_5lang": {
                 "de": "Parken Sie hier für den schnellsten Zugang zum Großen Wasserfall.",
                 "hu": "Parkoljon itt a Nagy-vízesés leggyorsabb eléréséhez.",
                 "ro": "Parcați aici pentru cel mai rapid acces la Cascada Mare.",
-                "en": "Park here for the quickest access to the Great Waterfall."
+                "en": "Park here for the quickest access to the Great Waterfall.",
+                "hr": "Parkirajte ovdje za najbrži pristup Velikom slapu."
               }
             },
             {
@@ -2049,13 +2116,15 @@
                 "de": "Kozjak-See Anleger",
                 "hu": "Kozjak-tó hajóállomás",
                 "ro": "Debarcaderul Lacului Kozjak",
-                "en": "Kozjak Lake Boat Dock"
+                "en": "Kozjak Lake Boat Dock",
+                "hr": "Gat za čamce na jezeru Kozjak"
               },
               "tip_5lang": {
                 "de": "Die Bootsfahrt verbindet die unteren mit den oberen Seen.",
                 "hu": "A hajóút összeköti az alsó és felső tavakat.",
                 "ro": "Plimbarea cu barca conectează lacurile de jos cu cele de sus.",
-                "en": "The boat trip connects the lower and upper lakes."
+                "en": "The boat trip connects the lower and upper lakes.",
+                "hr": "Vožnja čamcem povezuje donja i gornja jezera."
               }
             },
             {
@@ -2063,13 +2132,15 @@
                 "de": "Galovački buk",
                 "hu": "Galovác-vízesés",
                 "ro": "Cascada Galovački",
-                "en": "Galovac Waterfall"
+                "en": "Galovac Waterfall",
+                "hr": "Slap Galovac"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Fußmarsch vom Parkplatz ST3 erforderlich.",
                 "hu": "Rövid séta szükséges az ST3 parkolótól.",
                 "ro": "Este necesară o scurtă plimbare de la parcarea ST3.",
-                "en": "A short walk from the ST3 parking/shuttle area is required."
+                "en": "A short walk from the ST3 parking/shuttle area is required.",
+                "hr": "Potrebno je kratko pješačenje iz područja parkirališta/shuttle ST3."
               }
             },
             {
@@ -2077,13 +2148,15 @@
                 "de": "Eingang 2 (Hotelareal)",
                 "hu": "2-es bejárat (szállodanegyed)",
                 "ro": "Intrarea 2 (zona hotelieră)",
-                "en": "Entrance 2 (Hotel area)"
+                "en": "Entrance 2 (Hotel area)",
+                "hr": "Ulaz 2 (područje hotela)"
               },
               "tip_5lang": {
                 "de": "Günstigerer Startpunkt für die Oberen Seen.",
                 "hu": "Kedvezőbb kiindulópont a Felső-tavakhoz.",
                 "ro": "Punct de plecare mai bun pentru Lacurile Superioare.",
-                "en": "Better starting point for visiting the Upper Lakes."
+                "en": "Better starting point for visiting the Upper Lakes.",
+                "hr": "Bolja polazna točka za posjet Gornjim jezerima."
               }
             },
             {
@@ -2091,13 +2164,15 @@
                 "de": "Milanovac-See",
                 "hu": "Milanovac-tó",
                 "ro": "Lacul Milanovac",
-                "en": "Milanovac Lake"
+                "en": "Milanovac Lake",
+                "hr": "Jezero Milanovac"
               },
               "tip_5lang": {
                 "de": "Die Farbe des Wassers ändert sich je nach Sonnenstand.",
                 "hu": "A víz színe a nap állásától függően változik.",
                 "ro": "Culoarea apei se schimbă în funcție de poziția soarelui.",
-                "en": "The color of the water changes depending on the sun's position."
+                "en": "The color of the water changes depending on the sun's position.",
+                "hr": "Boja vode mijenja se ovisno o položaju sunca."
               }
             },
             {
@@ -2105,13 +2180,15 @@
                 "de": "Rastoke (Slunj)",
                 "hu": "Rastoke (Szluin)",
                 "ro": "Rastoke (Slunj)",
-                "en": "Rastoke (Slunj)"
+                "en": "Rastoke (Slunj)",
+                "hr": "Rastoke (Slunj)"
               },
               "tip_5lang": {
                 "de": "Ein malerisches Dorf mit Wassermühlen, 25 km nördlich.",
                 "hu": "Festői vízimalom-falu 25 km-re északra.",
                 "ro": "Un sat pitoresc cu mori de apă, la 25 km spre nord.",
-                "en": "A picturesque watermill village 25 km to the north."
+                "en": "A picturesque watermill village 25 km to the north.",
+                "hr": "Slikovito selo s vodenicama 25 km na sjever."
               }
             }
           ],
@@ -2225,6 +2302,13 @@
               "Do not leave valuables visible in the car.",
               "The D1 road connects the entrances in a few minutes.",
               "Use parking apps for payment where available."
+            ],
+            "hr": [
+              "Naknade za parkiranje naplaćuju se po satu.",
+              "Parkirališta su često puna već do 10:00 ujutro ljeti.",
+              "Ne ostavljajte vrijedne stvari vidljive u automobilu.",
+              "Cesta D1 povezuje ulaze za nekoliko minuta.",
+              "Koristite aplikacije za parkiranje za plaćanje gdje su dostupne."
             ]
           }
         },
@@ -2234,7 +2318,7 @@
             "hu": "Az autós nap szakadó esőben indul az 1-es bejáratnál. Az ablaktörlők küzdenek a víztömeggel, miközben meglátogatjuk a Nagy-vízesést.\n\nDélben a Kozjak-tó melletti parkolóba hajtunk. Az erdő itt nyújt némi védelmet a szél elől, miközben a hajóállomáshoz sietünk.\n\nDélután a felső zuhatagok felé vesszük az irányt. Lika kanyargós útjai óvatosságot igényelnek, mert a víz helyenként patakokban folyik át az aszfalton.\n\nA napot a történelmi Rastoke faluban zárjuk. A házak között futó kisméretű vízesések esőben még élénkebbek és erőteljesebbek.",
             "ro": "Ziua cu mașina începe sub o ploaie torențială la Intrarea 1. Ștergătoarele se luptă cu masele de apă în timp ce vizităm Marea Cascadă.\n\nLa prânz ne îndreptăm spre parcarea de lângă lacul Kozjak. Pădurea oferă aici puțină protecție împotriva vântului în timp ce ne grăbim spre debarcader.\n\nDupă-amiaza ne îndreptăm spre cascadele superioare. Drumurile sinuoase din Lika cer prudență, deoarece apa poate curge în șuvoaie peste asfalt.\n\nÎncheiem ziua în istoricul Rastoke. Numeroasele cascade mici dintre case par și mai vii și mai puternice pe ploaie.",
             "en": "The driving day begins in pouring rain at Entrance 1. The wipers struggle with the water masses as we visit the Great Waterfall.\n\nAt noon, we head to the parking lot near Lake Kozjak. The forest offers some protection from the wind here as we hurry to the boat dock.\n\nIn the afternoon, we head towards the upper cascades. Lika's winding roads require caution as water can flow in torrents across the asphalt.\n\nWe end the day in historical Rastoke. The many small waterfalls between the houses seem even more vivid and powerful in the rain.",
-            "hr": "Vozački dan započinje u jakoj kiši na Ulazu 1. Brisači se bore s vodenom masom dok posjećujemo Veliki slap.\n\nU podne krećemo prema parkiralištu kod jezera Kozjak. Šuma ovdje nudi određenu zaštitu od vjetra dok žurimo prema pristaništu broda.\n\nPoslijepodne idemo prema gornjim kaskadama. Zavojite ceste Like zahtijevaju oprez jer voda može teći u bujicama preko asfalta.\n\nDan završavamo u povijesnim Rastokama. Mnogobrojni mali slapovi između kuća čine se još živopisnijim i moćnijim na kiši."
+            "hr": "Vožnja počinje u izljevima kiše na Ulazu 1. Brisači se muče s masama vode dok posjećujemo Veliki slap.\n\nU podne krećemo prema parkiralištu kraj jezera Kozjak. Šuma ovdje pruža djelomičnu zaštitu od vjetra dok žurimo do gatova.\n\nPoslijepodne krećemo prema gornjim kaskadama. Likin zavojiti putevi zahtijevaju oprez jer voda može navaliti preko asfalta.\n\nDan završavamo u povijesnim Rastokama. Mnogobrojni mali slapovi među kućama djeluju još živopisnije i snažnije na kiši."
           },
           "stops": [
             {
@@ -2244,7 +2328,7 @@
                 "hu": "Használd a fedett információs pultot a parktérkép szárazon történő tanulmányozásához.",
                 "ro": "Folosiți ghișeul de informații acoperit pentru a studia harta parcului la uscat.",
                 "en": "Use the covered information desk to study the park map in the dry.",
-                "hr": "Koristite natkriveni informacijski pult za proučavanje karte parka na suhom."
+                "hr": "Iskoristite natkriveni info-pult da u suhom proučite kartu parka."
               }
             },
             {
@@ -2254,7 +2338,7 @@
                 "hu": "Parkolj fák alá, hogy kiszálláskor kevesebb eső érjen.",
                 "ro": "Parcați sub copaci pentru a fi mai puțin expuși la ploaie când coborâți.",
                 "en": "Park under trees to be less exposed to rain when getting out.",
-                "hr": "Parkirajte ispod drveća kako biste bili manje izloženi kiši pri izlasku."
+                "hr": "Parkirajte pod stablima da biste bili manje izloženi kiši pri izlasku iz vozila."
               }
             },
             {
@@ -2264,7 +2348,7 @@
                 "hu": "Az ide vezető út a vízenfutás veszélye miatt csalóka lehet; vezess lassan.",
                 "ro": "Drumul spre acest loc poate fi înșelător din cauza riscului de acvaplanare; conduceți încet.",
                 "en": "The road here can be treacherous due to hydroplaning risk; drive slowly.",
-                "hr": "Cesta ovdje može biti opasna zbog rizika od akvaplaninga; vozite polako."
+                "hr": "Ovdje cesta može postati opasna zbog rizika od akvaplaninga; vozite polako."
               }
             },
             {
@@ -2284,7 +2368,7 @@
                 "hu": "A közeli parkolótól csak pár lépés az első fotópont.",
                 "ro": "De la parcarea din apropiere sunt doar câțiva pași până la primul punct de fotografiere.",
                 "en": "From the nearby parking lot, it's just a few steps to the first photo spot.",
-                "hr": "S obližnjeg parkirališta dijeli vas samo nekoliko koraka do prve točke za fotografiranje."
+                "hr": "Iz obližnjeg parkirališta samo su nekoliko koraka do prve fototeke."
               }
             },
             {
@@ -2294,7 +2378,7 @@
                 "hu": "A közvetlenül a vízesések feletti kávézók hangulatos helyeket kínálnak az esőben.",
                 "ro": "Cafenelele direct deasupra cascadelor oferă locuri primitoare pe timp de ploaie.",
                 "en": "The cafes directly above the waterfalls offer cozy spots in the rain.",
-                "hr": "Kafići izravno iznad slapova nude ugodna mjesta na kiši."
+                "hr": "Kafići izravno iznad slapova nude ugodne zaklone od kiše."
               }
             }
           ],
@@ -2328,11 +2412,11 @@
               "Visit the Lika House at the entrance for a warm lunch during a heavy shower."
             ],
             "hr": [
-              "Vozite posebno oprezno na državnoj cesti D1; skliska je kad je mokra.",
-              "Ostavite prozore malo otvorene ili koristite klimu kako biste spriječili zamagljivanje.",
-              "Kišobran u autu je neophodan za hodanje između parkirališta i ulaza.",
-              "Neasfaltirana parkirališta mogu postati vrlo blatna tijekom jake kiše.",
-              "Posjetite Ličku kuću na ulazu za topli ručak tijekom jakog pljuska."
+              "Vozite posebno pažljivo nacionalnom cestom D1; klizavo je kada je mokro.",
+              "Ostavite prozore malo otvorene ili koristite klima-uređaj kako biste spriječili zamagljivanje.",
+              "Kišobran u autu je neophodan za šetnju između parkirališta i ulaza.",
+              "Nasuta parkirališta mogu postati vrlo blatna tijekom jake kiše.",
+              "Posjetite Liku kuću na ulazu za topao ručak tijekom velike pljuska."
             ]
           }
         },
@@ -2342,7 +2426,7 @@
             "hu": "Dermesztő hidegben indul az út az 1-es bejáratnál. A behavazott likai táj olyan, mint egy képeslap, miközben a Nagy-vízesést csodáljuk.\n\nDélben mély havon keresztül hajtunk a Kozjak-tóhoz. Az útkezelők fáradhatatlanul dolgoznak, hogy szabadon tartsák az utakat a látogatók előtt.\n\nDélután a Galovac-vízesések felé folytatjuk. Az autó kellemes meleg szigetet nyújt a csípős hidegben tett fotómegállók között.\n\nA nap Rastoke faluban ér véget, ahol a régi vízimalmok vastag hótakaró alatt alusszák álmukat. A faházak kivilágított ablakai hívogatóan hatnak a szürkületben.",
             "ro": "Ziua începe cu un ger năpraznic la Intrarea 1. Peisajul înzăpezit din Lika arată ca o carte poștală în timp ce admirăm Marea Cascadă.\n\nLa prânz conducem prin zăpadă mare spre lacul Kozjak. Serviciile de deszăpezire lucrează neobosit pentru a menține drumurile libere pentru vizitatori.\n\nDupă-amiaza continuăm spre cascadele Galovac. Mașina oferă o insulă de căldură binevenită între opririle pentru poze în gerul tăios.\n\nZiua se încheie în Rastoke, unde vechile mori de apă dorm sub un strat gros de zăpadă. Ferestrele luminate ale caselor de lemn par deosebit de primitoare în amurg.",
             "en": "The drive starts in biting cold at Entrance 1. The snow-covered Lika landscape looks like a postcard as we marvel at the Great Waterfall.\n\nAt noon, we drive through deep snow to Lake Kozjak. Road services work tirelessly to keep the paths clear for visitors.\n\nIn the afternoon, we continue to the Galovac falls. The car provides a welcome island of warmth between photo stops in the freezing cold.\n\nThe day ends in Rastoke, where the old watermills slumber under a thick blanket of snow. The lit windows of the wooden houses look particularly inviting at dusk.",
-            "hr": "Vožnja počinje u oštroj hladnoći na Ulazu 1. Snijegom prekriven lički krajolik izgleda kao s razglednice dok se divimo Velikom slapu.\n\nU podne se vozimo kroz duboki snijeg do jezera Kozjak. Cestovne službe neumorno rade kako bi staze ostale prohodne za posjetitelje.\n\nPoslijepodne nastavljamo prema slapovima Galovca. Automobil pruža dobrodošao otok topline između foto-pauza na ledenoj hladnoći.\n\nDan završava u Rastokama, gdje stare mlinice spavaju pod debelim pokrivačem snijega. Osvijetljeni prozori drvenih kuća izgledaju posebno primamljivo u sumrak."
+            "hr": "Voznja počinje u oštrome mrazu na Ulazu 1. Snijegom prekriveni licki krajolik izgleda poput razglednice dok se divimo Velikom slapu.\n\nU podne vozimo kroz dubok snijeg prema jezeru Kozjak. Ceste se održavaju trudom službi kako bi staze bile prohodne za posjetitelje.\n\nPoslijepodne nastavljamo prema slapovima Galovac. Auto pruža dobrodošlo utočište topline između fotostajanja u ledenom hladnoći.\n\nDan završava u Rastokama, gdje stare vodenice drijemaju pod debelim pokrivačem snijega. Osvijetljeni prozori drvenih kuća izgledaju posebno primamljivo u sumrak."
           },
           "stops": [
             {
@@ -2362,7 +2446,7 @@
                 "hu": "Győződj meg róla, hogy az ablaktörlők nem fagytak rá az üvegre.",
                 "ro": "Asigurați-vă că ștergătoarele nu au înghețat pe parbriz.",
                 "en": "Make sure your windshield wipers aren't frozen to the glass.",
-                "hr": "Pobrinite se da vam brisači nisu smrznuti na staklo."
+                "hr": "Provjerite nisu li brisači vjetrobrana zaleđeni za staklo."
               }
             },
             {
@@ -2372,7 +2456,7 @@
                 "hu": "A parkoló itt nagyon jeges lehet; kiszálláskor ügyelj a csúszós részekre.",
                 "ro": "Parcarea poate fi foarte înghețată aici; atenție la gheață când coborâți.",
                 "en": "The parking lot here can be very icy; watch out for slick spots when getting out.",
-                "hr": "Parkiralište ovdje može biti vrlo zaleđeno; pripazite na skliska mjesta pri izlasku."
+                "hr": "Parkiralište ovdje može biti vrlo zaleđeno; pazite na klizava mjesta pri izlasku."
               }
             },
             {
@@ -2382,7 +2466,7 @@
                 "hu": "A Hotel Jezero felé vezető utat elsőként takarítják, így általában jól járható.",
                 "ro": "Accesul spre Hotelul Jezero este deszăpezit prioritar și este de obicei practicabil.",
                 "en": "Access to Hotel Jezero is cleared as a priority and is usually easily passable.",
-                "hr": "Pristup hotelu Jezero čisti se prioritetno i obično je lako prohodan."
+                "hr": "Pristup Hotelu Jezero se prioritetno čisti i obično je lako prohodan."
               }
             },
             {
@@ -2392,7 +2476,7 @@
                 "hu": "Legyenek készenlétben a ködlámpák, ha a hóesés korlátozná a látótávolságot.",
                 "ro": "Aveți proiectoarele de ceață pregătite în caz că ninsoarea reduce vizibilitatea.",
                 "en": "Have your fog lights ready in case snowfall limits visibility.",
-                "hr": "Imajte spremna svjetla za maglu u slučaju da snježne padaline ograniče vidljivost."
+                "hr": "Imajte pri ruci maglenke u slučaju da snijeg smanji vidljivost."
               }
             },
             {
@@ -2402,7 +2486,7 @@
                 "hu": "A Slunj felé vezető meredek lejtőhöz jó téli gumi és motorfék szükséges.",
                 "ro": "Coborârea abruptă spre Slunj necesită anvelope bune de iarnă și frână de motor.",
                 "en": "The steep descent to Slunj requires good winter tires and engine braking.",
-                "hr": "Strmi spust prema Slunju zahtijeva dobre zimske gume i kočenje motorom."
+                "hr": "Strmi spust prema Slunju zahtijeva dobre zimске gume i kočenje motorom."
               }
             }
           ],
@@ -2436,11 +2520,11 @@
               "Don't park with the handbrake engaged as it can freeze in place."
             ],
             "hr": [
-              "Zimske gume i lanci za snijeg su zimi apsolutno obavezni u ličkom gorju.",
-              "Prije polaska napunite spremnik tekućine za pranje stakla antifrizom.",
-              "Mala lopata i deka u prtljažniku pružaju dodatnu sigurnost.",
-              "Očistite sav snijeg s krova automobila kako ne biste ugrozili druge vozače.",
-              "Ne parkirajte s povučenom ručnom kočnicom jer se može smrznuti."
+              "Zimske gume i lance za snijeg obavezno nosite u ličkoj visoravni zimi.",
+              "Napunite posudu za tekućinu brisača tekućinom protiv smrzavanja prije polaska.",
+              "Mala lopata i deka u prtljažniku dodatno su osiguranje.",
+              "Očistite sav snijeg s krova auta kako ne biste ugrozili druge vozače.",
+              "Ne parkirajte s uključenom ručnom kočnicom jer se može zalijepiti od leda."
             ]
           }
         }
@@ -2459,7 +2543,8 @@
             "de": "ST1 Shuttle-Station",
             "hu": "ST1 buszmegálló",
             "ro": "Stația de autobuz ST1",
-            "en": "ST1 Shuttle Station"
+            "en": "ST1 Shuttle Station",
+            "hr": "ST1 stanica Shuttle"
           },
           "coords": [
             15.61,
@@ -2475,7 +2560,7 @@
             "hu": "A panorámabusz kiindulópontja az 1-es bejáratnál.",
             "ro": "Punctul de plecare al autobuzului panoramic lângă Intrarea 1.",
             "en": "Starting point for the panoramic bus near Entrance 1.",
-            "hr": "Polazište za panoramski vlak u blizini Ulaza 1."
+            "hr": "Polazna točka panoramskog autobusa blizu Ulaza 1."
           }
         },
         {
@@ -2483,7 +2568,8 @@
             "de": "Veliki Slap",
             "hu": "Nagy-vízesés",
             "ro": "Cascada Mare",
-            "en": "Great Waterfall"
+            "en": "Great Waterfall",
+            "hr": "Veliki slap"
           },
           "coords": [
             15.608,
@@ -2499,7 +2585,7 @@
             "hu": "A buszról leszállva rövid séta lefelé.",
             "ro": "După coborârea din autobuz, o scurtă plimbare la vale.",
             "en": "A short walk downhill after getting off the bus.",
-            "hr": "Kratka šetnja nizbrdo nakon izlaska iz vlaka."
+            "hr": "Kratka pješačka nizbrdica nakon iskrcaja iz autobusa."
           }
         },
         {
@@ -2507,7 +2593,8 @@
             "de": "P3 Bootstation (Kozjak)",
             "hu": "P3 hajóállomás (Kozjak)",
             "ro": "Stația de barcă P3 (Kozjak)",
-            "en": "P3 Boat Dock (Kozjak)"
+            "en": "P3 Boat Dock (Kozjak)",
+            "hr": "P3 pristanište (Kozjak)"
           },
           "coords": [
             15.614,
@@ -2523,7 +2610,7 @@
             "hu": "Itt tágas piknikezőhelyek és mosdók találhatók.",
             "ro": "Aici există zone mari de picnic și toalete.",
             "en": "There are large picnic areas and restrooms here.",
-            "hr": "Ovdje se nalaze veliki prostori za piknik i toaleti."
+            "hr": "Ovdje su velike piknik-zone i sanitarije."
           }
         },
         {
@@ -2531,7 +2618,8 @@
             "de": "P1 Bootstation (Kozjak)",
             "hu": "P1 hajóállomás (Kozjak)",
             "ro": "Stația de barcă P1 (Kozjak)",
-            "en": "P1 Boat Dock (Kozjak)"
+            "en": "P1 Boat Dock (Kozjak)",
+            "hr": "P1 pristanište (Kozjak)"
           },
           "coords": [
             15.617,
@@ -2547,7 +2635,7 @@
             "hu": "Központi átszállóhely a tórendszerek között.",
             "ro": "Punct central de transfer între grupurile de lacuri.",
             "en": "Central transfer point between the lake groups.",
-            "hr": "Središnja točka prijelaza između skupina jezera."
+            "hr": "Središnja međustanica između skupina jezera."
           }
         },
         {
@@ -2555,7 +2643,8 @@
             "de": "ST2 Shuttle-Station",
             "hu": "ST2 buszmegálló",
             "ro": "Stația de autobuz ST2",
-            "en": "ST2 Shuttle Station"
+            "en": "ST2 Shuttle Station",
+            "hr": "ST2 stanica Shuttle"
           },
           "coords": [
             15.618,
@@ -2571,7 +2660,7 @@
             "hu": "Szállodanegyedi megálló, ideális pihenésre.",
             "ro": "Stația de lângă zona hotelieră, ideală pentru o pauză.",
             "en": "Station by the hotel area, ideal for a break.",
-            "hr": "Stanica kod hotelske zone, idealna za odmor."
+            "hr": "Stanica uz hotelsko područje, idealna za odmor."
           }
         },
         {
@@ -2579,7 +2668,8 @@
             "de": "ST3 Shuttle-Station",
             "hu": "ST3 buszmegálló",
             "ro": "Stația de autobuz ST3",
-            "en": "ST3 Shuttle Station"
+            "en": "ST3 Shuttle Station",
+            "hr": "ST3 stanica Shuttle"
           },
           "coords": [
             15.595,
@@ -2595,7 +2685,7 @@
             "hu": "A busz végállomása a Felső-tavaknál.",
             "ro": "Capătul de linie al autobuzului la Lacurile Superioare.",
             "en": "The end station of the bus at the Upper Lakes.",
-            "hr": "Zadnja stanica vlaka na Gornjim jezerima."
+            "hr": "Krajnja stanica autobusa kod Gornjih jezera."
           }
         },
         {
@@ -2603,7 +2693,8 @@
             "de": "Vidikovac-Aussichtspunkt",
             "hu": "Vidikovac-kilátó",
             "ro": "Belvederea Vidikovac",
-            "en": "Vidikovac Lookout"
+            "en": "Vidikovac Lookout",
+            "hr": "Vidikovac"
           },
           "coords": [
             15.615,
@@ -2619,7 +2710,7 @@
             "hu": "Használja a buszt a visszajutáshoz az ST1-hez.",
             "ro": "Folosiți autobuzul pentru a reveni la ST1.",
             "en": "Use the shuttle bus to get back to ST1 station.",
-            "hr": "Koristite shuttle bus za povratak do stanice ST1."
+            "hr": "Koristite shuttle autobus za povratak do stanice ST1."
           }
         }
       ],
@@ -2628,7 +2719,7 @@
         "hu": "Használja ki a park belső közlekedési rendszerét: panorámabuszokat és elektromos hajókat. A délelőtt a buszozást és a Kozjak-tavon való átkelést kombinálja. Délben pihenő a park központjában. Délután a busz a Felső-tavakhoz visz, majd kényelmesen térhet vissza a kiindulópontra.",
         "ro": "Profitat de sistemul de transport intern cu autobuze panoramice și bărci electrice. Dimineața combină autobuzul spre Lacurile de Jos cu o traversare a lacului Kozjak. La prânz faceți o pauză în centrul parcului. După-amiaza autobuzul vă duce la Lacurile Superioare înainte de revenirea la punctul de plecare.",
         "en": "Take advantage of the internal transport system with panoramic buses and electric boats. The morning combines the bus to the Lower Lakes with a crossing of Kozjak Lake. Midday features a break in the park's center. The afternoon shuttle takes you to the Upper Lakes before you comfortably return to the starting point.",
-        "hr": "Iskoristite interni transportni sustav s panoramskim vlakovima i elektrobrodovima. Jutro kombinira vožnju vlakom do Donjih jezera s prijelazom preko jezera Kozjak. Sredinom dana slijedi odmor u središtu parka. Poslijepodnevni shuttle vozi vas do Gornjih jezera prije nego što se udobno vratite na polazište."
+        "hr": "Iskoristite unutarnji sustav prijevoza s panoramskim autobusima i električnim brodovima. Ujutro se kombinira autobus do Donjih jezera s prelaskom Kozjaka. U podne je pauza u središtu parka. Poslijepodne vas shuttle vodi do Gornjih jezera prije udobnog povratka na polazište."
       },
       "gastro_picks": {
         "de": [
@@ -2761,11 +2852,11 @@
           "The panoramic bus saves a lot of energy on uphill climbs."
         ],
         "hr": [
-          "Prijevoz je uključen u cijenu ulaznice.",
-          "Vlakovi i brodovi voze svakih 30 minuta.",
-          "Brodovi često imaju duge redove oko podneva.",
-          "Pokažite ulaznicu pri ukrcaju.",
-          "Panoramski vlak štedi puno energije pri usponima."
+          "Prijevoz je uključen u ulaznicu.",
+          "Shuttle vozila voze svakih 30 minuta.",
+          "Za brodove često su duge vrste oko podneva.",
+          "Prikažite ulaznicu pri ukrcaju.",
+          "Panoramski autobus štedi puno energije na usponima."
         ]
       },
       "variants": {
@@ -2774,7 +2865,8 @@
             "de": "Nutzen Sie das interne Transportsystem mit Panoramabussen und Elektrobooten. Der Vormittag kombiniert den Bus zu den Unteren Seen mit einer Fahrt über den Kozjak-See. Mittags pausieren Sie im Zentrum des Parks. Der Nachmittag führt Sie mit dem Shuttle zu den Oberen Seen, bevor Sie bequem zum Ausgangspunkt zurückkehren.",
             "hu": "Használja ki a park belső közlekedési rendszerét: panorámabuszokat és elektromos hajókat. A délelőtt a buszozást és a Kozjak-tavon való átkelést kombinálja. Délben pihenő a park központjában. Délután a busz a Felső-tavakhoz visz, majd kényelmesen térhet vissza a kiindulópontra.",
             "ro": "Profitat de sistemul de transport intern cu autobuze panoramice și bărci electrice. Dimineața combină autobuzul spre Lacurile de Jos cu o traversare a lacului Kozjak. La prânz faceți o pauză în centrul parcului. După-amiaza autobuzul vă duce la Lacurile Superioare înainte de revenirea la punctul de plecare.",
-            "en": "Take advantage of the internal transport system with panoramic buses and electric boats. The morning combines the bus to the Lower Lakes with a crossing of Kozjak Lake. Midday features a break in the park's center. The afternoon shuttle takes you to the Upper Lakes before you comfortably return to the starting point."
+            "en": "Take advantage of the internal transport system with panoramic buses and electric boats. The morning combines the bus to the Lower Lakes with a crossing of Kozjak Lake. Midday features a break in the park's center. The afternoon shuttle takes you to the Upper Lakes before you comfortably return to the starting point.",
+            "hr": "Iskoristite unutarnji sustav prijevoza s panoramskim autobusima i električnim brodovima. Ujutro se kombinira autobus do Donjih jezera s prelaskom Kozjaka. U podne je pauza u središtu parka. Poslijepodne vas shuttle vodi do Gornjih jezera prije udobnog povratka na polazište."
           },
           "stops": [
             {
@@ -2782,13 +2874,15 @@
                 "de": "ST1 Shuttle-Station",
                 "hu": "ST1 buszmegálló",
                 "ro": "Stația de autobuz ST1",
-                "en": "ST1 Shuttle Station"
+                "en": "ST1 Shuttle Station",
+                "hr": "ST1 stanica Shuttle"
               },
               "tip_5lang": {
                 "de": "Startpunkt des Panoramabusses nahe Eingang 1.",
                 "hu": "A panorámabusz kiindulópontja az 1-es bejáratnál.",
                 "ro": "Punctul de plecare al autobuzului panoramic lângă Intrarea 1.",
-                "en": "Starting point for the panoramic bus near Entrance 1."
+                "en": "Starting point for the panoramic bus near Entrance 1.",
+                "hr": "Polazna točka panoramskog autobusa blizu Ulaza 1."
               }
             },
             {
@@ -2796,13 +2890,15 @@
                 "de": "Veliki Slap",
                 "hu": "Nagy-vízesés",
                 "ro": "Cascada Mare",
-                "en": "Great Waterfall"
+                "en": "Great Waterfall",
+                "hr": "Veliki slap"
               },
               "tip_5lang": {
                 "de": "Nach dem Aussteigen ein kurzer Fußweg bergab.",
                 "hu": "A buszról leszállva rövid séta lefelé.",
                 "ro": "După coborârea din autobuz, o scurtă plimbare la vale.",
-                "en": "A short walk downhill after getting off the bus."
+                "en": "A short walk downhill after getting off the bus.",
+                "hr": "Kratka pješačka nizbrdica nakon iskrcaja iz autobusa."
               }
             },
             {
@@ -2810,13 +2906,15 @@
                 "de": "P3 Bootstation (Kozjak)",
                 "hu": "P3 hajóállomás (Kozjak)",
                 "ro": "Stația de barcă P3 (Kozjak)",
-                "en": "P3 Boat Dock (Kozjak)"
+                "en": "P3 Boat Dock (Kozjak)",
+                "hr": "P3 pristanište (Kozjak)"
               },
               "tip_5lang": {
                 "de": "Hier gibt es große Picknickplätze und Toiletten.",
                 "hu": "Itt tágas piknikezőhelyek és mosdók találhatók.",
                 "ro": "Aici există zone mari de picnic și toalete.",
-                "en": "There are large picnic areas and restrooms here."
+                "en": "There are large picnic areas and restrooms here.",
+                "hr": "Ovdje su velike piknik-zone i sanitarije."
               }
             },
             {
@@ -2824,13 +2922,15 @@
                 "de": "P1 Bootstation (Kozjak)",
                 "hu": "P1 hajóállomás (Kozjak)",
                 "ro": "Stația de barcă P1 (Kozjak)",
-                "en": "P1 Boat Dock (Kozjak)"
+                "en": "P1 Boat Dock (Kozjak)",
+                "hr": "P1 pristanište (Kozjak)"
               },
               "tip_5lang": {
                 "de": "Zentraler Umsteigepunkt zwischen den Seengruppen.",
                 "hu": "Központi átszállóhely a tórendszerek között.",
                 "ro": "Punct central de transfer între grupurile de lacuri.",
-                "en": "Central transfer point between the lake groups."
+                "en": "Central transfer point between the lake groups.",
+                "hr": "Središnja međustanica između skupina jezera."
               }
             },
             {
@@ -2838,13 +2938,15 @@
                 "de": "ST2 Shuttle-Station",
                 "hu": "ST2 buszmegálló",
                 "ro": "Stația de autobuz ST2",
-                "en": "ST2 Shuttle Station"
+                "en": "ST2 Shuttle Station",
+                "hr": "ST2 stanica Shuttle"
               },
               "tip_5lang": {
                 "de": "Station beim Hotelareal, ideal für eine Pause.",
                 "hu": "Szállodanegyedi megálló, ideális pihenésre.",
                 "ro": "Stația de lângă zona hotelieră, ideală pentru o pauză.",
-                "en": "Station by the hotel area, ideal for a break."
+                "en": "Station by the hotel area, ideal for a break.",
+                "hr": "Stanica uz hotelsko područje, idealna za odmor."
               }
             },
             {
@@ -2852,13 +2954,15 @@
                 "de": "ST3 Shuttle-Station",
                 "hu": "ST3 buszmegálló",
                 "ro": "Stația de autobuz ST3",
-                "en": "ST3 Shuttle Station"
+                "en": "ST3 Shuttle Station",
+                "hr": "ST3 stanica Shuttle"
               },
               "tip_5lang": {
                 "de": "Endstation des Busses bei den Oberen Seen.",
                 "hu": "A busz végállomása a Felső-tavaknál.",
                 "ro": "Capătul de linie al autobuzului la Lacurile Superioare.",
-                "en": "The end station of the bus at the Upper Lakes."
+                "en": "The end station of the bus at the Upper Lakes.",
+                "hr": "Krajnja stanica autobusa kod Gornjih jezera."
               }
             },
             {
@@ -2866,13 +2970,15 @@
                 "de": "Vidikovac-Aussichtspunkt",
                 "hu": "Vidikovac-kilátó",
                 "ro": "Belvederea Vidikovac",
-                "en": "Vidikovac Lookout"
+                "en": "Vidikovac Lookout",
+                "hr": "Vidikovac"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den Shuttle zurück zu ST1.",
                 "hu": "Használja a buszt a visszajutáshoz az ST1-hez.",
                 "ro": "Folosiți autobuzul pentru a reveni la ST1.",
-                "en": "Use the shuttle bus to get back to ST1 station."
+                "en": "Use the shuttle bus to get back to ST1 station.",
+                "hr": "Koristite shuttle autobus za povratak do stanice ST1."
               }
             }
           ],
@@ -2986,6 +3092,13 @@
               "Boats often have long queues around midday.",
               "Present your ticket when boarding.",
               "The panoramic bus saves a lot of energy on uphill climbs."
+            ],
+            "hr": [
+              "Prijevoz je uključen u ulaznicu.",
+              "Shuttle vozila voze svakih 30 minuta.",
+              "Za brodove često su duge vrste oko podneva.",
+              "Prikažite ulaznicu pri ukrcaju.",
+              "Panoramski autobus štedi puno energije na usponima."
             ]
           }
         },
@@ -2995,7 +3108,7 @@
             "hu": "A nap az ST1 állomáson indul. A panorámavonat száraz helyet kínál, miközben az esőáztatta erdőn keresztül siklunk.\n\nDélben a P3 állomáson szállunk fel az elektromos hajóra. A Kozjak-tavon való átkelés ma hangulatos élmény a védelmet nyújtó tető alatt.\n\nDélután a buszokat (shuttle) használjuk az ST2 és ST3 állomások közötti közlekedésre. Így elkerüljük a hosszú gyaloglást a szakadó esőben.\n\nBefejezésül a kilátópontról élvezzük a látványt. A buszok kényelmesen visszavisznek a kiindulópontra, miközben kint az eső táplálja a tavakat.",
             "ro": "Ziua începe la stația ST1. Trenulețul panoramic oferă un loc uscat în timp ce alunecăm prin pădurea udată de ploaie.\n\nLa prânz urcăm în barca electrică la stația P3. Traversarea lacului Kozjak este astăzi o experiență plină de atmosferă sub acoperișul protector.\n\nDupă-amiaza folosim autobuzele (shuttle) pentru a naviga între stațiile ST2 și ST3. Astfel evităm mersul pe jos pe distanțe lungi prin ploaia torențială.\n\nLa final savurăm priveliștea de la punctul de observație. Autobuzele ne aduc confortabil înapoi la punctul de plecare în timp ce afară ploaia hrănește lacurile.",
             "en": "The day starts at station ST1. The panoramic train offers a dry spot as we glide through the rain-soaked forest.\n\nAt noon, we board the electric boat at station P3. Crossing Lake Kozjak today is an atmospheric experience under the protective roof.\n\nIn the afternoon, we use the shuttles to travel between stations ST2 and ST3. This way, we avoid long walks in the pouring rain and stay mostly dry.\n\nFinally, we enjoy the view from the lookout. The buses bring us comfortably back to the starting point while outside the rain feeds the lakes.",
-            "hr": "Dan počinje na stanici ST1. Panoramski vlak nudi suho mjesto dok klizimo kroz kišom natopljenu šumu.\n\nU podne se ukrcavamo na elektrobrod na stanici P3. Prijelaz preko jezera Kozjak danas je atmosfersko iskustvo pod zaštitnim krovom.\n\nPoslijepodne koristimo shuttle-ove za putovanje između stanica ST2 and ST3. Na taj način izbjegavamo duge šetnje na jakoj kiši i ostajemo uglavnom suhi.\n\nNapokon uživamo u pogledu s vidikovca. Vlakovi nas udobno vraćaju na početnu točku dok vani kiša hrani jezera."
+            "hr": "Dan započinje na stanici ST1. Panoramski vlak nudi suho mjesto dok prolazimo kroz kišom natopljenu šumu.\n\nU podne ukrcavamo se na električni brod na stanici P3. Prijelaz Kozjaka danas je dojmljivo iskustvo pod zaštitnim krovom.\n\nPoslijepodne koristimo shuttle za putovanje između stanica ST2 i ST3. Tako izbjegavamo duge šetnje po pljusku i ostajemo većinom suhi.\n\nNa kraju uživamo u pogledu s vidikovca. Autobusi nas udobno vraćaju na polazište dok vani kiša puni jezera."
           },
           "stops": [
             {
@@ -3005,7 +3118,7 @@
                 "hu": "Várd meg a következő panorámavonatot a fedett peron alatt.",
                 "ro": "Așteptați următorul tren panoramic sub peronul acoperit.",
                 "en": "Wait for the next panoramic train under the covered platform.",
-                "hr": "Pričekajte sljedeći panoramski vlak ispod natkrivene platforme."
+                "hr": "Pričekajte sljedeći panoramski vlak pod natkrivenom platformom."
               }
             },
             {
@@ -3015,7 +3128,7 @@
                 "hu": "Az ST1 állomástól a vízesésig vezető út rövid, de esőben meredek.",
                 "ro": "Drumul de la stația ST1 la cascadă este scurt, dar abrupt pe timp de ploaie.",
                 "en": "The path from station ST1 to the waterfall is short but steep in the rain.",
-                "hr": "Put od stanice ST1 do slapa je kratak, ali strm na kiši."
+                "hr": "Put od stanice ST1 do slapa kratak je ali strm po kiši."
               }
             },
             {
@@ -3025,7 +3138,7 @@
                 "hu": "Használd a P3 állomásnál lévő fedett pihenőt egy szünetre a járatok között.",
                 "ro": "Folosiți zona de odihnă acoperită de la P3 pentru o pauză între curse.",
                 "en": "Use the covered rest area at P3 for a break between trips.",
-                "hr": "Koristite natkriveno odmorište na P3 za stanku između vožnji."
+                "hr": "Iskoristite natkrivenu zonu za odmor na P3 za pauzu između vožnji."
               }
             },
             {
@@ -3035,7 +3148,7 @@
                 "hu": "A hajóról menj egyenesen az ST2 állomásra, hogy száraz maradj.",
                 "ro": "Mergeți direct de la barcă la stația ST2 pentru a rămâne la uscat.",
                 "en": "Go directly from the boat to station ST2 to stay dry.",
-                "hr": "Idite izravno s broda na stanicu ST2 kako biste ostali suhi."
+                "hr": "Idite direktno s broda do stanice ST2 da ostanete suhi."
               }
             },
             {
@@ -3045,7 +3158,7 @@
                 "hu": "A buszok gyakorisága nagy esőben kissé csökkenhet.",
                 "ro": "Frecvența autobuzelor poate fi ușor redusă în timpul ploilor abundente.",
                 "en": "Shuttle frequency may be slightly reduced during heavy rain.",
-                "hr": "Učestalost shuttle-ova može biti malo smanjena tijekom jake kiše."
+                "hr": "Učestalost shuttle vozila može biti nešto smanjena tijekom jake kiše."
               }
             },
             {
@@ -3055,7 +3168,7 @@
                 "hu": "Innen jó rálátás nyílik a felső tavakra anélkül, hogy sokat kellene gyalogolni.",
                 "ro": "De aici aveți o vedere bună asupra lacurilor superioare fără a merge mult pe jos.",
                 "en": "From here you have a good view of the upper lakes without walking far.",
-                "hr": "Odavde imate dobar pogled na gornja jezera bez dugog hodanja."
+                "hr": "Odsud imate dobar pogled na gornja jezera bez velike šetnje."
               }
             },
             {
@@ -3099,11 +3212,11 @@
               "Seats on the boats are limited; there are often longer wait times during rain."
             ],
             "hr": [
-              "Kupite ulaznicu online unaprijed kako biste izbjegli duge redove na kiši.",
-              "Brodovi i vlakovi su natkriveni, nudeći najbolju zaštitu u parku.",
-              "Imajte na umu da usluge prijevoza mogu biti obustavljene tijekom ekstremnih vremenskih uvjeta.",
-              "Koristite aplikaciju parka kako biste vidjeli lokaciju autobusa u stvarnom vremenu.",
-              "Broj mjesta na brodovima je ograničen; tijekom kiše često su duža vremena čekanja."
+              "Kupite ulaznicu online unaprijed kako biste izbjegli duge redove po kiši.",
+              "Brodovi i shuttle vozila su natkriveni te nude najbolju zaštitu u parku.",
+              "Imajte na umu da se shuttle usluge mogu obustaviti tijekom ekstremnih vremenskih uvjeta.",
+              "Koristite aplikaciju parka za prikaz lokacija autobusa u stvarnom vremenu.",
+              "Sjedišta na brodovima su ograničena; po kiši su često dulja čekanja."
             ]
           }
         },
@@ -3113,7 +3226,7 @@
             "hu": "A téli nap varázslatosan indul az ST1 állomáson. A panorámavonat egy fehér csodaországon halad keresztül, miközben az ablakon bámészkodunk.\n\nDélben elérjük a P3 hajóállomást. Az elektromos hajó egyike azon kevés közlekedési eszköznek, amely télen is mélyebb betekintést enged a parkba.\n\nDélután az ST2 állomásra tartó buszt használjuk. Az út a behavazott erdőn keresztül rövid, de lélegzetelállító kilátást nyújt a megfagyott természetre.\n\nBefejezésül a Vidikovac kilátóról csodáljuk a tájat. A buszok biztonságban és melegben visznek vissza, miközben a szürkület kékre festi a havat.",
             "ro": "Ziua de iarnă începe magic la stația ST1. Trenulețul panoramic trece printr-o lume albă de basm în timp ce privim pe fereastră.\n\nLa prânz ajungem la debarcaderul P3. Barca electrică este unul dintre puținele mijloace de transport care ne permite să explorăm parcul în profunzime și iarna.\n\nDupă-amiaza folosim shuttle-ul spre stația ST2. Drumul prin pădurea înzăpezită este scurt, dar oferă vederi uluitoare asupra naturii înghețate.\n\nLa final admirăm priveliștea de la Vidikovac. Autobuzele ne aduc înapoi în siguranță și la căldură, în timp ce amurgul colorează zăpada în albastru.",
             "en": "The winter day begins magically at station ST1. The panoramic train travels through a white wonderland while we gaze out the windows.\n\nAt noon, we reach the P3 boat dock. The electric boat is one of the few means of transport that allows us deeper insights into the park even in winter.\n\nIn the afternoon, we use the shuttle to station ST2. The trip through the snow-covered forest is short but offers breathtaking views of frozen nature.\n\nFinally, we enjoy the view from Vidikovac. The shuttles bring us back safely and warmly while the twilight colors the snow blue.",
-            "hr": "Zimski dan počinje magično na stanici ST1. Panoramski vlak putuje kroz bijelu bajku dok mi gledamo kroz prozore.\n\nU podne dolazimo do pristaništa broda P3. Elektrobrod je jedno od rijetkih prijevoznih sredstava koje nam omogućuje dublji uvid u park čak i zimi.\n\nPoslijepodne koristimo shuttle do stanice ST2. Vožnja kroz snijegom prekrivenu šumu je kratka, ali nudi prekrasne poglede na zaleđenu prirodu.\n\nNapokon uživamo u pogledu s Vidikovca. Shuttle-ovi nas vraćaju sigurno i toplo dok sumrak boji snijeg u plavo."
+            "hr": "Zimski dan čarobno započinje na stanici ST1. Panoramski vlak prolazi kroz bijeli raj dok gledamo kroz prozore.\n\nU podne stižemo do pristaništa P3. Električni brod jedan je od rijetkih prijevoznih sredstava koji nam zimi omogućuje dublje upoznavanje parka.\n\nPoslijepodne koristimo shuttle do stanice ST2. Vožnja kroz snijegom prekrivenu šumu kratka je, ali nudi zapanjujuće prizore zamrznute prirode.\n\nNa kraju uživamo u pogledu s Vidikovca. Shuttlei nas vraćaju sigurno i toplo dok sumrak plavi snijeg."
           },
           "stops": [
             {
@@ -3123,7 +3236,7 @@
                 "hu": "Ellenőrizd, hogy nagy hóban nem váltották-e fel a panorámavonatot hóekés traktorok.",
                 "ro": "Verificați dacă trenulețul panoramic a fost înlocuit cu tractoare cu plug în caz de ninsoare mare.",
                 "en": "Check if the panoramic train has been replaced by tractors with snowplows during heavy snow.",
-                "hr": "Provjerite je li panoramski vlak zamijenjen traktorima s ralicama tijekom jakog snijega."
+                "hr": "Provjerite je li panoramski vlak zamijenjen traktorima sa snježnim plugovima tijekom obilnog snijega."
               }
             },
             {
@@ -3133,7 +3246,7 @@
                 "hu": "A közösségi közlekedés menetrendje télen ritkább; számolj 30-60 perc várakozással.",
                 "ro": "Orarele de tranzit sunt reduse iarna; planificați o așteptare de 30-60 de minute.",
                 "en": "Transit schedules are reduced in winter; plan for 30-60 minute wait times.",
-                "hr": "Red vožnje je zimi reduciran; planirajte vrijeme čekanja od 30-60 minuta."
+                "hr": "Rasporedi prometa smanjeni su zimi; planirajte čekanja od 30–60 minuta."
               }
             },
             {
@@ -3143,7 +3256,7 @@
                 "hu": "A P3-as büfé mögött fűtött mosdók vannak, ami ritka luxus a téli parkban.",
                 "ro": "În spatele chioșcului de la P3 există toalete încălzite, un lux rar în parcul de iarnă.",
                 "en": "Behind the kiosk at P3, there are heated restrooms, a rare luxury in the winter park.",
-                "hr": "Iza kioska na P3 nalaze se grijani toaleti, rijedak luksuz u zimskom parku."
+                "hr": "Iza kioska na P3 nalaze se grijani toaleti, rijetki luksuz u zimskom parku."
               }
             },
             {
@@ -3153,7 +3266,7 @@
                 "hu": "A hajók télen gyakran csak rövidített útvonalon (P1-P2) közlekednek.",
                 "ro": "Bărcile circulă adesea iarna doar pe o rută scurtă (P1-P2).",
                 "en": "Boats often only operate on a shortened route (P1-P2) during winter.",
-                "hr": "Brodovi zimi često voze samo na skraćenoj ruti (P1-P2)."
+                "hr": "Brodovi često zimi voze skraćenom rutom (P1–P2)."
               }
             },
             {
@@ -3163,7 +3276,7 @@
                 "hu": "Ez az állomás a legfontosabb csomópont a szállodák felé; itt van a legnagyobb forgalom.",
                 "ro": "Această stație este cel mai important nod pentru hoteluri; aici e cea mai mare agitație.",
                 "en": "This station is the main hub for the hotels; it's the busiest spot here.",
-                "hr": "Ova stanica je glavno čvorište za hotele; to je najprometnije mjesto ovdje."
+                "hr": "Ova stanica glavno je čvorište za hotele; najprometnije je mjesto ovdje."
               }
             },
             {
@@ -3173,7 +3286,7 @@
                 "hu": "Extrém hidegben a buszok ajtói befagyhatnak; légy óvatos a felszállásnál.",
                 "ro": "În caz de ger extrem, ușile autobuzelor pot îngheța; fiți atenți la urcare.",
                 "en": "In extreme cold, shuttle doors can freeze; be careful when boarding.",
-                "hr": "Na ekstremnoj hladnoći vrata shuttle-ova se mogu smrznuti; budite oprezni pri ulasku."
+                "hr": "U izrazitoj hladnoći vrata shuttle vozila mogu se zalediti; budite oprezni pri ukrcaju."
               }
             },
             {
@@ -3183,7 +3296,7 @@
                 "hu": "Az utolsó busz télen gyakran már 16:00 előtt elindul; ne késd le!",
                 "ro": "Ultimul shuttle pleacă adesea înainte de ora 16:00 iarna; nu îl ratați!",
                 "en": "The last shuttle often leaves before 4:00 PM in winter; don't miss it!",
-                "hr": "Zadnji shuttle zimi često kreće prije 16:00 sati; nemojte ga propustiti!"
+                "hr": "Zadnji shuttle često odlazi prije 16:00 zimi; ne propustite ga!"
               }
             }
           ],
@@ -3217,11 +3330,11 @@
               "The park ticket includes all transit trips; keep it handy but protected from the elements."
             ],
             "hr": [
-              "Unaprijed provjerite koje su stanice (ST1, ST2, ST3) zapravo u funkciji tijekom zime.",
-              "Vlakovi su grijani, što je vrlo ugodno nakon pješačenja po snijegu.",
-              "Vanjska područja za čekanje mogu biti vrlo vjetrovita; krećite se kako biste ostali topli.",
-              "Nosite cipele s debelim potplatom, jer hladnoća može prodirati s podova shuttle-ova.",
-              "Ulaznica za park uključuje sve tranzitne vožnje; držite je pri ruci, ali zaštićenu od vlage."
+              "Provjerite unaprijed koje su stanice (ST1, ST2, ST3) zapravo u funkciji tijekom zime.",
+              "Shuttle vozila su grijana, što je vrlo ugodno nakon planinarenja po snijegu.",
+              "Vanjska čekaonica može biti vrlo prozračna; krećite se da ne biste ogladnjeli i ostali topli.",
+              "Nosite cipele s debelim potplatom, jer hladnoća može prodrijeti s podova shuttle vozila.",
+              "Ulaznica za park uključuje sve prijevozne vožnje; držite je pri ruci, ali zaštićenu od vremenskih utjecaja."
             ]
           }
         }
@@ -3249,19 +3362,22 @@
       "de": "Kroatisch ist Amtssprache; im Nationalpark sind Englisch und Deutsch gut verbreitet, Beschilderung mehrsprachig.",
       "hu": "A horvát a hivatalos nyelv; a nemzeti parkban az angol és német jól érthető, a táblák több nyelven kihelyezve.",
       "ro": "Limba oficială este croata; în parcul național engleza și germana sunt frecvent vorbite, indicatoarele multilingve.",
-      "en": "Croatian is the official language; English and German are widely spoken in the park, signage is multilingual."
+      "en": "Croatian is the official language; English and German are widely spoken in the park, signage is multilingual.",
+      "hr": "Hrvatski je službeni jezik; engleski i njemački su široko rasprostranjeni u parku, znakovi su višejezični."
     },
     "best_time_to_visit": {
       "de": "Mai bis Juni und September bis Oktober für volle Wasserfälle und Herbstfarben; Winter mit eisigen Kaskaden besonders.",
       "hu": "Május–június és szeptember–október: telt vízesések és őszi színek; télen különleges a jeges látvány.",
       "ro": "Mai–iunie și septembrie–octombrie pentru cascade pline și culori de toamnă; iarna oferă cascade înghețate spectaculoase.",
-      "en": "May–June and September–October for full waterfalls and autumn colours; winter offers spectacular icy cascades."
+      "en": "May–June and September–October for full waterfalls and autumn colours; winter offers spectacular icy cascades.",
+      "hr": "Svibanj–lipanj i rujan–listopad za pune slapove i jesenske boje; zima nudi spektakularne zaleđene kaskade."
     },
     "neighborhood_warnings": {
       "de": "Holzstege ohne Geländer, rutschig bei Nässe; im Sommer Eintrittstickets im Voraus online buchen, Tageskontingent begrenzt.",
       "hu": "A fapallók korlát nélküliek, esőben csúszósak; nyáron foglald online a belépőjegyet, napi kvóta van.",
       "ro": "Pasarelele de lemn nu au balustrade, alunecă pe ploaie; rezervă biletele online vara, există cotă zilnică.",
-      "en": "Wooden boardwalks have no railings and are slippery when wet; book tickets online in summer, daily quota applies."
+      "en": "Wooden boardwalks have no railings and are slippery when wet; book tickets online in summer, daily quota applies.",
+      "hr": "Drvene staze nemaju ogradu i klizave su kad su mokre; u ljeti rezervirajte ulaznice online, primjenjuje se dnevni kvota."
     }
   }
 }

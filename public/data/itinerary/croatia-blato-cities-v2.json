@@ -32,7 +32,7 @@
             "hu": "Európa második leghosszabb hárssétánya hűvös árnyat ad.",
             "ro": "A doua cea mai lungă alee de tei din Europa oferă o umbră minunată.",
             "en": "Europe's second-longest linden alley offers wonderful shade.",
-            "hr": "Drugi najduži drvored lipa u Europi nudi prekrasan hlad."
+            "hr": "Druga najduža lipova aleja u Europi pruža prekrasnu hladovinu."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Kóstolja meg a pasticada-t, a helyi marhahúsételt.",
             "ro": "Încercați pasticada, un preparat local din carne de vită.",
             "en": "Try pasticada, a local beef dish.",
-            "hr": "Probajte pašticadu, tradicionalno jelo od govedine."
+            "hr": "Probajte pašticadu, lokalno jelo od govedine."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Vásároljon házi olívaolajat és fügelekvárt.",
             "ro": "Cumpărați ulei de măsline de casă și gem de smochine.",
             "en": "Buy homemade olive oil and fig jam.",
-            "hr": "Kupite domaće maslinovo ulje i džem od smokava."
+            "hr": "Kupite domaće maslinovo ulje i pekmez od smokava."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "Tökéletes hely fotózáshoz a termékeny szőlőültetvények felett.",
             "ro": "Locul perfect pentru fotografii deasupra podgoriilor fertile.",
             "en": "Perfect spot for photos over the fertile vineyards.",
-            "hr": "Savršeno mjesto za fotografije s pogledom na plodne vinograde."
+            "hr": "Savršeno mjesto za fotografije iznad plodnih vinograda."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "Fedezze fel Blatót gyalogosan, a Zlinje sétány fenséges hársfái alatt kezdve. A délelőtt szakrális kincseken és a lenyűgöző Barilo múzeumon vezet keresztül, ahol megállt az idő. Egy bőséges konoba-ebéd után fedezze fel a helyi piacot, majd zárja a napot a Korčula tágas mezőire nyíló kilátással.",
         "ro": "Descoperiți Blato la pas, începând sub teii maiestuoși de pe aleea Zlinje. Dimineața vă poartă prin comori sacre și fascinantul muzeu Barilo, unde timpul pare să fi stat în loc. După un prânz copios într-o konoba primitoare, explorați piața locală și încheiați ziua cu o priveliște asupra câmpurilor întinse din Korčula.",
         "en": "Discover Blato on foot, starting under the majestic linden trees of Zlinje alley. The morning takes you through sacred treasures and the fascinating Barilo museum, where time seems to have stood still. After a hearty lunch in a cozy konoba, explore the local market and end the day with a view over the vast fields of Korčula.",
-        "hr": "Otkrijte Blato pješice, počevši ispod veličanstvenih lipa u drvoredu Zlinje. Jutro vas vodi kroz sakralna blaga i fascinantan muzej Barilo, gdje se čini kao da je vrijeme stalo. Nakon obilnog ručka u ugodnoj konobi, istražite lokalnu tržnicu i završite dan pogledom na prostrana polja Korčule."
+        "hr": "Otkrijte Blato pješice, počevši ispod veličanstvenih lipa Zlinjske aleje. Jutro vodi kroz sakralna blaga i fascinantni Muzej Barilo, gdje se čini da je vrijeme stalo. Nakon obilnog ručka u ugodnoj konobi, istražite lokalnu tržnicu i završite dan pogledom na prostrana polja Korčule."
       },
       "gastro_picks": {
         "de": [
@@ -277,7 +277,7 @@
         ],
         "hr": [
           "Nosite udobnu obuću jer su ulice često strme.",
-          "Probajte lokalno vino od sorte grožđa Cetinka."
+          "Probajte lokalno vino od sorte Cetinka."
         ]
       },
       "variants": {
@@ -287,7 +287,7 @@
             "hu": "Az esős reggel a Zlinje hárssétány lombjai alatt indul, amely némi védelmet nyújt. Délben a kegyhely és a Barilo néprajzi ház fedett tereiben ismerkedhetünk a helyi múlttal. Délután a piacon a friss eső illata terjeng, az estét pedig egy kandalló mellett elköltött konoba-vacsora teszi teljessé.",
             "ro": "O dimineață ploioasă începe sub teii protectori de pe aleea Zlinje. La prânz, sanctuarul și casa etnografică Barilo oferă refugii culturale uscate. După-amiaza, piața locală emană arome proaspete, iar ziua se încheie cu o masă caldă într-o konoba primitoare.",
             "en": "A rainy morning begins under the sheltering lime trees of Zlinje alley. At noon, the sanctuary and Barilo Ethno House offer perfect dry cultural retreats. Afternoon brings fresh scents at the local market, followed by a cozy dinner in a warm konoba to escape the damp weather.",
-            "hr": "Kišno jutro počinje pod zaklonjenim lipama drvoreda Zlinje. U podne, svetište i etno kuća Barilo nude savršeno suho kulturno utočište. Popodne donosi svježe mirise na lokalnoj tržnici, nakon čega slijedi ugodna večera u toploj konobi kako biste pobjegli od vlage."
+            "hr": "Kišno jutro započinje pod zaklonom lipa Zlinjske aleje. U podne svetište i Etno kuća Barilo nude idealne suhe kulturne utočišta. Poslijepodne donosi svježe mirise na lokalnoj tržnici, a zatim ugodnu večeru u toploj konobi kako biste izbjegli vlažno vrijeme."
           },
           "stops": [
             {
@@ -297,7 +297,7 @@
                 "hu": "A sűrű lombozat enyhe esőben jó menedéket nyújt.",
                 "ro": "Coronamentul des oferă o protecție bună în caz de ploaie ușoară.",
                 "en": "The thick canopy provides good shelter during light rain.",
-                "hr": "Gusta krošnja pruža dobar zaklon tijekom lagane kiše."
+                "hr": "Gusta krošnja dobro štiti tijekom slabije kiše."
               }
             },
             {
@@ -307,7 +307,7 @@
                 "hu": "Csendes, száraz hely a spirituális elmélyüléshez.",
                 "ro": "Un loc liniștit și uscat pentru reflecție spirituală.",
                 "en": "A quiet, dry place for spiritual reflection.",
-                "hr": "Mirno, suho mjesto za duhovnu sabranost."
+                "hr": "Tihi, suhi prostor za duhovnu refleksiju."
               }
             },
             {
@@ -327,7 +327,7 @@
                 "hu": "Tökéletes esős napra: hatalmas gyűjtemény fedél alatt.",
                 "ro": "Perfect pentru zilele ploioase: o colecție vastă sub acoperiș.",
                 "en": "Perfect for rainy days: a vast collection under one roof.",
-                "hr": "Savršeno za kišne dane: golema zbirka pod jednim krovom."
+                "hr": "Idealan za kišne dane: velika zbirka pod jednim krovom."
               }
             },
             {
@@ -337,7 +337,7 @@
                 "hu": "Élvezze a helyi specialitásokat a meleg kandalló mellett.",
                 "ro": "Savurați specialități locale lângă șemineul cald.",
                 "en": "Enjoy local specialties by the warm fireplace.",
-                "hr": "Uživajte u lokalnim specijalitetima uz topli kamin."
+                "hr": "Uživajte u lokalnim specijalitetima uz topao kamin."
               }
             },
             {
@@ -347,7 +347,7 @@
                 "hu": "Vásároljon helyi termékeket az árkádok védelmében.",
                 "ro": "Cumpărați produse regionale sub arcade.",
                 "en": "Buy regional products under the protection of the arcades.",
-                "hr": "Kupite regionalne proizvode pod zaštitom arkada."
+                "hr": "Kupujte regionalne proizvode pod zaštitom arkada."
               }
             },
             {
@@ -357,7 +357,7 @@
                 "hu": "Dramatikus felhők a termékeny blatói mező felett.",
                 "ro": "Formațiuni spectaculoase de nori deasupra câmpului fertil.",
                 "en": "Dramatic cloud formations over the fertile field.",
-                "hr": "Dramatične formacije oblaka iznad plodnog polja."
+                "hr": "Dramatične oblake nad plodnim poljem."
               }
             }
           ],
@@ -387,9 +387,9 @@
               "Use rain breaks for the short walk to the viewpoint."
             ],
             "hr": [
-              "Savjetuje se čvrst kišobran zbog otočkih vjetrova.",
-              "Kameno popločenje u starom gradu može biti sklisko kad je mokro.",
-              "Etno kuća Barilo najbolje je mjesto za čekanje da prođe jaki pljusak.",
+              "Snažan kišobran se savjetuje zbog otočnih vjetrova.",
+              "Kamenita popločanja u starom gradu mogu biti skliska kada su mokra.",
+              "Etno kuća Barilo najbolje je mjesto za pričekati jaku pljusku.",
               "Iskoristite pauze u kiši za kratku šetnju do vidikovca."
             ]
           }
@@ -400,7 +400,7 @@
             "hu": "A blatói téli reggel enyhe, de friss a kopár hárssétány alatt. Délelőtt a templomok és a múzeum hívogatnak időutazásra a sziget történelmébe. Egy fűtött konobában elköltött ebéd után a téli mező látványa melankolikus szépséget áraszt, mielőtt korán leszáll az éj.",
             "ro": "Dimineața de iarnă în Blato este blândă, dar proaspătă sub teii desfrunziți. Înainte de prânz, bisericile și muzeul vă invită la o călătorie în istoria insulei. După o masă într-o konoba încălzită, vederea asupra câmpului hibernal oferă o frumusețe melancolică înainte de lăsarea serii.",
             "en": "Winter mornings in Blato are mild yet crisp under the bare lime trees. Before noon, the churches and museum invite you on a journey through island history. After lunch in a heated konoba, the winter field view offers a melancholic beauty before the early sunset.",
-            "hr": "Zimska jutra u Blatu su blaga, ali svježa ispod ogoljelih lipa. Prije podneva, crkve i muzej pozivaju vas na putovanje kroz otočku povijest. Nakon ručka u grijanoj konobi, zimski pogled na polje nudi melankoličnu ljepotu prije ranog zalaska sunca."
+            "hr": "Zimska jutra u Blatu su blaga, ali oštra pod ogoljelim lipama. Prije podne crkve i muzej pozivaju na putovanje kroz otočnu povijest. Nakon ručka u grijanoj konobi, zimski pogled na polja nudi melankoličnu ljepotu prije ranog zalaska sunca."
           },
           "stops": [
             {
@@ -410,7 +410,7 @@
                 "hu": "Élvezze a tiszta téli levegőt a híres sétányon.",
                 "ro": "Bucurați-vă de aerul curat de iarnă pe faimoasa alee.",
                 "en": "Enjoy the crisp winter air on the famous avenue.",
-                "hr": "Uživajte u svježem zimskom zraku na poznatom drvoredu."
+                "hr": "Uživajte u svježem zrak u slavnoj aleji."
               }
             },
             {
@@ -440,7 +440,7 @@
                 "hu": "Tudjon meg többet a szigeti életről egy csésze tea mellett.",
                 "ro": "Aflați mai multe despre viața pe insulă la o ceașcă de ceai.",
                 "en": "Learn more about island life over a cup of tea.",
-                "hr": "Saznajte više o životu na otoku uz šalicu čaja."
+                "hr": "Saznajte više o otočnom životu uz šalicu čaja."
               }
             },
             {
@@ -450,7 +450,7 @@
                 "hu": "Kóstolja meg a kiadós téli ételeket, például a pekát.",
                 "ro": "Încercați mâncărurile consistente de iarnă, cum ar fi peka.",
                 "en": "Try hearty winter dishes like Peka.",
-                "hr": "Probajte krepka zimska jela poput peke."
+                "hr": "Probajte obilna zimska jela poput Peke."
               }
             },
             {
@@ -500,10 +500,10 @@
               "Enjoy the peace as there are very few tourists."
             ],
             "hr": [
-              "Odjenite se slojevito kako biste se zaštitili od hladnog vjetra.",
+              "Obucite se u slojevima radi zaštite od hladnog vjetra.",
               "Zalazak sunca je rano, oko 16:30.",
-              "Mnogi kafići zimi imaju ograničen broj mjesta na otvorenom.",
-              "Uživajte u miru jer je vrlo malo turista."
+              "Mnogi kafići imaju ograničen vanjski prostor zimi.",
+              "Uživajte u miru jer je turista vrlo malo."
             ]
           }
         }
@@ -533,7 +533,7 @@
             "hu": "Tökéletes egy első kis körre az árnyékban.",
             "ro": "Perfect pentru o primă mică tură la umbră.",
             "en": "Perfect for a first short loop in the shade.",
-            "hr": "Savršeno za prvi kratki krug u hladu."
+            "hr": "Savršeno za prvu kratku rutu u hladovini."
           }
         },
         {
@@ -571,7 +571,7 @@
             "hu": "Látogassa meg a templomot röviddel az ebédszünet előtt.",
             "ro": "Vizitați biserica chiar înainte de pauza de prânz.",
             "en": "Visit the church shortly before the lunch break.",
-            "hr": "Posjetite crkvu kratko prije pauze za ručak."
+            "hr": "Posjetite crkvu neposredno prije pauze za ručak."
           }
         },
         {
@@ -628,7 +628,7 @@
             "hu": "Frissítő fürdő a kristálytiszta vízben.",
             "ro": "O baie răcoritoare în apa de cristal.",
             "en": "A refreshing swim in the crystal clear water.",
-            "hr": "Osvježavajuće kupanje u kristalno čistom moru."
+            "hr": "Osvježavajuće kupanje u kristalno čistoj vodi."
           }
         },
         {
@@ -647,7 +647,7 @@
             "hu": "Rövid pihenő a Blatóba visszavezető emelkedőn.",
             "ro": "Scurtă pauză în timpul urcării înapoi spre Blato.",
             "en": "Short break during the climb back to Blato.",
-            "hr": "Kratka stanka tijekom uspona natrag u Blato."
+            "hr": "Kratka pauza tijekom uspona natrag prema Blatu."
           }
         }
       ],
@@ -656,7 +656,7 @@
         "hu": "Ez a kerékpártúra összeköti Blato kulturális központját Prigradica idilli partjával. A múzeumok és templomok látogatása után festői lejtő következik a tengerhez. Töltse a délutánt a strandon, mielőtt megkezdi a lassú emelkedést visszafelé, közben élvezve az Adriára nyíló fantasztikus kilátást.",
         "ro": "Acest tur cu bicicleta combină centrul cultural din Blato cu coasta idilică din Prigradica. După vizitarea muzeelor și bisericilor din localitate, urmează o coborâre pitorească spre mare. Petreceți după-amiaza la plajă înainte de a începe urcarea ușoară înapoi, bucurându-vă de vederi fantastice spre marea Adriatică.",
         "en": "This bike tour connects the cultural center of Blato with the idyllic coast of Prigradica. After visiting the local museums and churches, a scenic descent follows to the sea. Spend the afternoon at the beach before starting the gentle climb back, enjoying fantastic views of the Adriatic along the way.",
-        "hr": "Ova biciklistička tura povezuje kulturno središte Blata s idiličnom obalom Prigradice. Nakon posjeta lokalnim muzejima i crkvama, slijedi slikoviti spust prema moru. Provedite poslijepodne na plaži prije laganog uspona natrag, uživajući putem u fantastičnim pogledima na Jadran."
+        "hr": "Ova biciklistička tura povezuje kulturno središte Blata s idiličnom obalom Prigradice. Nakon posjeta lokalnim muzejima i crkvama slijedi slikovit spust prema moru. Provedite poslijepodne na plaži prije nego što započnete lagani uspon natrag, uživajući po putu u fantastičnim pogledima na Jadran."
       },
       "gastro_picks": {
         "de": [
@@ -788,7 +788,7 @@
             "hu": "Frissítő kerékpártúra az eső ellenére is Korčula zöld szívében. A Prigradicába vezető út óvatosságot igényel a nedves aszfalton, de magányos kilátással jutalmaz a felkavart tengerre. A múzeumlátogatás után egy ebéd melegít fel, mielőtt visszatérnénk Blatóba.",
             "ro": "O tură revigorantă cu bicicleta, în ciuda ploii, prin inima verde a insulei Korčula. Drumul spre Prigradica necesită prudență pe asfaltul ud, dar oferă vederi solitare asupra mării agitate. După vizitarea muzeului, prânzul vă va încălzi înainte de întoarcerea în Blato.",
             "en": "A refreshing bike ride despite the rain through Korčula's green heart. The ride to Prigradica requires caution on wet roads but rewards you with solitary views of the churning sea. After a museum visit, lunch warms you up before heading back to Blato.",
-            "hr": "Osvježavajuća vožnja biciklom kroz zeleno srce Korčule usprkos kiši. Vožnja do Prigradice zahtijeva oprez na mokrim cestama, ali vas nagrađuje osamljenim pogledima na uzburkano more. Nakon posjeta muzeju, ručak će vas ugrijati prije povratka u Blato."
+            "hr": "Osvježavajuća vožnja biciklom kroz zeleno srce Korčule iako pada kiša. Vožnja do Prigradice zahtijeva oprez na mokrim cestama, ali nagrađuje vas osamljenim pogledima na uzburkano more. Nakon posjeta muzeju, ručak će vas ugrijati prije povratka u Blato."
           },
           "stops": [
             {
@@ -798,7 +798,7 @@
                 "hu": "Induljon óvatosan a nedves talajon.",
                 "ro": "Porniți cu prudență pe suprafața umedă.",
                 "en": "Start carefully on the wet ground.",
-                "hr": "Krenite oprezno po mokrom tlu."
+                "hr": "Krećite pažljivo po mokroj podlozi."
               }
             },
             {
@@ -818,7 +818,7 @@
                 "hu": "Rövid pihenő a száraz templomhajóban.",
                 "ro": "Scurtă pauză în nava uscată a bisericii.",
                 "en": "Short break in the dry nave.",
-                "hr": "Kratka stanka u suhoj crkvenoj lađi."
+                "hr": "Kratka pauza u suhoj brodskoj lađi (navi)."
               }
             },
             {
@@ -838,7 +838,7 @@
                 "hu": "A tenger esőben különösen vadnak tűnik.",
                 "ro": "Marea pare deosebit de aspră și sălbatică pe ploaie.",
                 "en": "The sea looks especially rough and wild in the rain.",
-                "hr": "More izgleda posebno uzburkano i divlje na kiši."
+                "hr": "More izgleda osobito nemirno i divlje na kiši."
               }
             },
             {
@@ -858,7 +858,7 @@
                 "hu": "Vigyázat a megállásnál a nem aszfaltozott útpadkán.",
                 "ro": "Atenție la oprirea pe marginea neasfaltată a drumului.",
                 "en": "Be careful when stopping on unpaved roadsides.",
-                "hr": "Budite oprezni pri zaustavljanju na neasfaltiranim rubovima ceste."
+                "hr": "Budite oprezni pri zaustavljanju na nezaključenim cestama."
               }
             }
           ],
@@ -888,10 +888,10 @@
               "Use waterproof bags for your valuables."
             ],
             "hr": [
-              "Nosite vodootpornu odjeću i svijetle boje.",
-              "Provjerite kočnice prije spuštanja u Prigradicu.",
+              "Nosite vodootpornu odjeću i jarke boje.",
+              "Provjerite kočnice prije spuštanja prema Prigradici.",
               "Izbjegavajte naglo upravljanje u mokrim zavojima.",
-              "Koristite vodootporne torbe za svoje dragocjenosti."
+              "Koristite vodootporne vreće za vrijednosti."
             ]
           }
         },
@@ -901,7 +901,7 @@
             "hu": "Csendes téli túra Blato szőlőskertjei között le egészen a tengerig. A hűvös levegő élénkítő, az utak pedig szinte csak az Önéi. A kulturális délelőtt után egy kiadós ebéd ad erőt, majd Prigradica magányos partja hívogat meditatív pihenőre a korai szürkület előtt.",
             "ro": "O tură liniștită de iarnă prin podgoriile din Blato până la mare. Aerul răcoros este revigorant, iar drumurile sunt aproape pustii. După o dimineață culturală, un prânz consistent vă va da energie pentru coasta solitară din Prigradica, ideală pentru relaxare înainte de amurg.",
             "en": "A peaceful winter ride through the vineyards of Blato down to the sea. The crisp air is invigorating, and the roads are almost entirely yours. After a cultural morning, a hearty lunch fuels you for the solitary coast of Prigradica, perfect for a meditative break before dusk.",
-            "hr": "Mirna zimska vožnja kroz vinograde Blata dolje do mora. Svjež zrak okrepljuje, a ceste su gotovo potpuno vaše. Nakon kulturnog jutra, obilan ručak daje vam snagu za osamljenu obalu Prigradice, savršenu za meditativnu pauzu prije sumraka."
+            "hr": "Mirna zimska vožnja kroz vinograde Blata prema moru. Oštar zrak budi, a ceste su gotovo u potpunosti vaše. Nakon kulturnog prijepodneva, obilni ručak vas napaja za osamljenu obalu Prigradice, savršenu za meditativnu pauzu prije sumraka."
           },
           "stops": [
             {
@@ -911,7 +911,7 @@
                 "hu": "A hűvös szellő erősen fúj át a sétányon.",
                 "ro": "Briza răcoroasă suflă cu putere prin alee.",
                 "en": "The cool breeze blows strongly through the avenue.",
-                "hr": "Hladan povjetarac snažno puše kroz drvored."
+                "hr": "Hladan povjetarac snažno puše kroz aleju."
               }
             },
             {
@@ -921,7 +921,7 @@
                 "hu": "Csodálatosan fűtött hely, tele történetekkel.",
                 "ro": "Un loc minunat încălzit, plin de povești.",
                 "en": "A wonderfully heated place full of stories.",
-                "hr": "Prekrasno grijano mjesto puno priča."
+                "hr": "Prekrasno ugrijano mjesto puno priča."
               }
             },
             {
@@ -931,7 +931,7 @@
                 "hu": "Tekintse meg az oltárokat tömeg nélkül.",
                 "ro": "Vizitați altarele fără mulțimi de turiști.",
                 "en": "View the altars without the crowds.",
-                "hr": "Razgledajte oltare bez gužve."
+                "hr": "Pogledajte oltare bez gužve."
               }
             },
             {
@@ -941,7 +941,7 @@
                 "hu": "Kérdezze a házi gyógynövényes pálinkát (travarica).",
                 "ro": "Întrebați de rachiul local de ierburi.",
                 "en": "Ask for the homemade herbal brandy (travarica).",
-                "hr": "Pitajte za domaću travaricu."
+                "hr": "Zatražite domaću travaricu."
               }
             },
             {
@@ -951,7 +951,7 @@
                 "hu": "Télen itt abszolút csend uralkodik.",
                 "ro": "Iarna aici domnește o liniște absolută.",
                 "en": "Absolute silence prevails here in winter.",
-                "hr": "Ovdje zimi vlada apsolutna tišina."
+                "hr": "Posvuda vlada apsolutna tišina zimi."
               }
             },
             {
@@ -961,7 +961,7 @@
                 "hu": "Csak elszántaknak: tengerparti séta a szélben.",
                 "ro": "Doar pentru cei curajoși: o plimbare pe plajă în vânt.",
                 "en": "Only for the brave: a beach walk in the wind.",
-                "hr": "Samo za hrabre: šetnja plažom po vjetru."
+                "hr": "Samo za hrabre: šetnja plažom na vjetru."
               }
             },
             {
@@ -971,7 +971,7 @@
                 "hu": "Készítsen gyorsan fotót, mielőtt lemegy a nap.",
                 "ro": "Faceți fotografia repede înainte să apună soarele.",
                 "en": "Take your photo quickly before the sun sets.",
-                "hr": "Brzo se fotografirajte prije zalaska sunca."
+                "hr": "Brzo snimite fotografiju prije zalaska sunca."
               }
             }
           ],
@@ -1001,10 +1001,10 @@
               "Some climbs will keep you pleasantly warm."
             ],
             "hr": [
-              "Nosite rukavice i kapu protiv hladnog vjetra.",
-              "Pazite na kraće dnevno svjetlo.",
+              "Nosite rukavice i kapu protiv hladnoće vjetra.",
+              "Imajte na umu kraće dnevne svjetlosti.",
               "Ponesite termosicu s toplim čajem.",
-              "Neki usponi će vas ugodno zagrijati."
+              "Neki usponi će vas ugodno ugrijati."
             ]
           }
         }
@@ -1034,7 +1034,7 @@
             "hu": "Parkoljon a központban, és fedezze fel a magot gyalog.",
             "ro": "Parcați central și explorați centrul pe jos.",
             "en": "Park centrally and explore the core on foot.",
-            "hr": "Parkirajte u centru i istražite jezgru pješice."
+            "hr": "Parkirajte središnje i istražite jezgru pješice."
           }
         },
         {
@@ -1074,7 +1074,7 @@
             "hu": "Blato jelképe az impozáns loggiájával.",
             "ro": "Simbolul orașului Blato cu loggia sa impunătoare.",
             "en": "The landmark of Blato with its imposing loggia.",
-            "hr": "Simbol Blata s impresivnom ložom."
+            "hr": "Znamenitost Blata s impresivnom lođom."
           }
         },
         {
@@ -1094,7 +1094,7 @@
             "hu": "A látogatás után térjen vissza az autóhoz.",
             "ro": "Reveniți la mașină după vizită.",
             "en": "Return to the car after the visit.",
-            "hr": "Povratak do automobila nakon posjeta."
+            "hr": "Vratite se do auta nakon posjeta."
           }
         },
         {
@@ -1114,7 +1114,7 @@
             "hu": "Parkolóhelyek közvetlenül a strand felett elérhetők.",
             "ro": "Locuri de parcare disponibile direct deasupra plajei.",
             "en": "Parking spaces available directly above the beach.",
-            "hr": "Parkirna mjesta dostupna izravno iznad plaže."
+            "hr": "Parkirna mjesta dostupna odmah iznad plaže."
           }
         },
         {
@@ -1134,7 +1134,7 @@
             "hu": "Figyelje meg a befutó halászhajókat.",
             "ro": "Urmăriți bărcile de pescuit care intră în port.",
             "en": "Watch the fishing boats coming in.",
-            "hr": "Gledajte ribarske brodove kako pristižu."
+            "hr": "Promatrajte kako ribarski brodovi pristaju."
           }
         },
         {
@@ -1154,7 +1154,7 @@
             "hu": "Élvezze a tenger gyümölcseit kilátással a Hvar-csatornára.",
             "ro": "Bucurați-vă de fructe de mare cu vedere spre canalul Hvar.",
             "en": "Enjoy seafood with a view of the Hvar channel.",
-            "hr": "Uživajte u plodovima mora s pogledom na Hvarski kanal."
+            "hr": "Uživajte u plodovima mora s pogledom na kanal Hvara."
           }
         },
         {
@@ -1174,7 +1174,7 @@
             "hu": "Álljon meg az útnál egy utolsó panorámáért.",
             "ro": "Opriți-vă la drum pentru o ultimă panoramă.",
             "en": "Stop by the road for one last panorama.",
-            "hr": "Zaustavite se uz cestu za posljednju panoramu."
+            "hr": "Zaustavite se uz cestu za još jednu panoramu."
           }
         }
       ],
@@ -1183,7 +1183,7 @@
         "hu": "Autóval mindkét világból a legjobbat kapja: Blato kulturális örökségét és Prigradica tengerparti báját. A történelmi központban töltött nyugodt délelőtt után hajtson a partra, hogy élvezze a napsütést és a tengert. Egy tökéletes nap, amely egyesíti a rugalmasságot és a kényelmet, kiváló vacsorával zárva a vízparton.",
         "ro": "Cu mașina experimentați ce este mai bun din ambele lumi: moștenirea culturală din Blato și farmecul maritim din Prigradica. După o dimineață relaxată în centrul istoric, conduceți spre coastă pentru a vă bucura de soare și mare. O zi perfectă care îmbină flexibilitatea și confortul, încheiată cu o cină excelentă pe malul apei.",
         "en": "By car, you experience the best of both worlds: the cultural heritage of Blato and the maritime charm of Prigradica. After a relaxed morning in the historic center, drive to the coast to enjoy the sun and the sea. A perfect day combining flexibility and comfort, rounded off with an excellent dinner by the water.",
-        "hr": "Automobilom doživite najbolje od oba svijeta: kulturnu baštinu Blata i pomorski šarm Prigradice. Nakon opuštenog jutra u povijesnom centru, odvezite se do obale kako biste uživali u suncu i moru. Savršen dan koji spaja fleksibilnost i udobnost, upotpunjen izvrsnom večerom uz more."
+        "hr": "Autom doživljavate najbolje od oba svijeta: kulturnu baštinu Blata i pomorski šarm Prigradice. Nakon opuštenog prijepodneva u povijesnoj jezgri, zaputite se do obale kako biste uživali u suncu i moru. Savršen dan koji spaja fleksibilnost i udobnost, zaokružen izvrsnom večerom uz vodu."
       },
       "gastro_picks": {
         "de": [
@@ -1304,8 +1304,8 @@
           "In Prigradica, parking can be tight in high summer."
         ],
         "hr": [
-          "U Blatu je najbolje parkirati u blizini drvoreda Zlinje.",
-          "U Prigradici parkiranje može biti otežano u jeku ljeta."
+          "U Blatu je najbolje parkirati blizu uličice Zlinje.",
+          "U Prigradici parkiranje može biti ograničeno tijekom visoke sezone."
         ]
       },
       "variants": {
@@ -1315,7 +1315,7 @@
             "hu": "Kellemes autózás a ködös Korčulán, védve az esőtől. Blato misztikus oldalát mutatja, miközben szárazon látogathatja a kulturális kincseket. A part menti út Prigradicába látványos kilátást nyújt a szürke tengerre, majd egy hosszú, tengerparti ebéd teszi teljessé az esős napot.",
             "ro": "O călătorie relaxantă prin Korčula cețoasă, la adăpost de ploaie. Blato își arată latura mistică în timp ce vizitați comorile culturale la uscat. Drumul spre Prigradica oferă vederi spectaculoase asupra mării gri, urmate de un prânz lung lângă țărm.",
             "en": "A relaxed drive through misty Korčula, protected from the rain. Blato shows its mystical side as you visit cultural treasures in the dry. The coastal drive to Prigradica offers spectacular views of the grey sea, followed by a long lunch near the shore.",
-            "hr": "Opuštena vožnja kroz maglovitu Korčulu, zaštićena od kiše. Blato pokazuje svoju mističnu stranu dok posjećujete kulturna blaga na suhom. Obalna vožnja do Prigradice nudi spektakularne poglede na sivo more, nakon čega slijedi dugi ručak u blizini obale."
+            "hr": "Opustena vožnja kroz maglovitu Korčulu, zaštićena od kiše. Blato pokazuje svoju mističnu stranu dok posjećujete kulturna blaga na suhom. Obalna vožnja do Prigradice nudi spektakularne poglede na sivo more, praćena dugim ručkom uz obalu."
           },
           "stops": [
             {
@@ -1345,7 +1345,7 @@
                 "hu": "Használja a templombejáratot eső elleni védelemként.",
                 "ro": "Folosiți intrarea bisericii ca adăpost.",
                 "en": "Use the church entrance as rain cover.",
-                "hr": "Koristite ulaz u crkvu kao zaklon od kiše."
+                "hr": "Iskoristite ulaz u crkvu kao zaklon od kiše."
               }
             },
             {
@@ -1355,7 +1355,7 @@
                 "hu": "Ideális megálló, ha kint szakad az eső.",
                 "ro": "O oprire ideală când afară plouă torențial.",
                 "en": "An ideal stop when it's pouring outside.",
-                "hr": "Idealno stajalište kad vani lije."
+                "hr": "Idealna stanica kad vani pljušti kiša."
               }
             },
             {
@@ -1365,7 +1365,7 @@
                 "hu": "Figyelje a hullámokat az autóból.",
                 "ro": "Priviți valurile din mașină.",
                 "en": "Watch the waves from the car.",
-                "hr": "Promatrajte valove iz automobila."
+                "hr": "Gledajte valove iz automobila."
               }
             },
             {
@@ -1395,7 +1395,7 @@
                 "hu": "Élvezze a felhőjátékot naplemente helyett.",
                 "ro": "Bucurați-vă de spectacolul norilor în loc de apus.",
                 "en": "Enjoy the cloud display instead of a sunset.",
-                "hr": "Uživajte u igri oblaka umjesto u zalasku sunca."
+                "hr": "Uživajte u prikazu oblaka umjesto zalaska sunca."
               }
             }
           ],
@@ -1425,10 +1425,10 @@
               "Keep umbrellas handy in the trunk."
             ],
             "hr": [
-              "Vozite oprezno na zavojitim cestama zbog akvaplaninga.",
-              "U Prigradici parkirajte blizu konobe.",
-              "Održavajte stakla odmagljenima za jasan pogled.",
-              "Neka vam kišobrani budu pri ruci u prtljažniku."
+              "Vozite pažljivo po vijugavim cestama zbog akvaplaninga.",
+              "Parkirajte u Prigradici blizu konobe.",
+              "Držite prozore bez magle za jasan pogled.",
+              "Držite kišobrane pri ruci u prtljažniku."
             ]
           }
         },
@@ -1438,7 +1438,7 @@
             "hu": "Kényelmes felfedezőút autóval a téli Blatóban. Maximális rugalmasságot és meleget élvezhet a kulturális megállók között. A prigradicai látogatás megmutatja az Adria zord, magányos téli szépségét. A napot egy kiadós ebéd és egy rövid megálló koronázza meg az aranyórában.",
             "ro": "O explorare confortabilă cu mașina prin Blato hibernal. Vă bucurați de flexibilitate maximă și căldură între oprirea culturală. Vizita în Prigradica dezvăluie frumusețea aspră și solitară a Adriaticii iarna. Ziua se încheie cu un prânz consistent și o scurtă oprire la apus.",
             "en": "A cozy exploration by car through winter Blato. Enjoy maximum flexibility and warmth between cultural stops. A visit to Prigradica reveals the rugged, solitary beauty of the Adriatic in winter. The day is crowned by a late, hearty lunch and a quick stop for the golden hour.",
-            "hr": "Ugodno istraživanje automobilom kroz zimsko Blato. Uživajte u maksimalnoj fleksibilnosti i toplini između kulturnih postaja. Posjet Prigradici otkriva grubu, osamljenu ljepotu Jadrana zimi. Dan kruni kasni, krepki ručak i kratko zaustavljanje u 'zlatni sat'."
+            "hr": "Ugodno istraživanje autom kroz zimsko Blato. Uživajte u maksimalnoj fleksibilnosti i toplini između kulturnih stanica. Posjet Prigradici otkriva grubu, osamljenu ljepotu Jadrana zimi. Dan kruni kasni, obilni ručak i brza stanica za zlatni sat."
           },
           "stops": [
             {
@@ -1448,7 +1448,7 @@
                 "hu": "Élvezze a nyugalmat a híres sétányon.",
                 "ro": "Bucurați-vă de liniște pe faimoasa alee.",
                 "en": "Enjoy the tranquility in the famous avenue.",
-                "hr": "Uživajte u miru u poznatom drvoredu."
+                "hr": "Uživajte u miru u poznatoj aleji."
               }
             },
             {
@@ -1458,7 +1458,7 @@
                 "hu": "Télen bőségesen talál parkolóhelyet.",
                 "ro": "Locurile de parcare sunt din abundență iarna.",
                 "en": "Parking spaces are plentiful in winter.",
-                "hr": "Parkirnih mjesta zimi ima napretek."
+                "hr": "Parkirna mjesta su obilna zimi."
               }
             },
             {
@@ -1468,7 +1468,7 @@
                 "hu": "Látogassa meg a templomot a nyári hőség nélkül.",
                 "ro": "Vizitați biserica fără căldura verii.",
                 "en": "Visit the church without the summer heat.",
-                "hr": "Posjetite crkvu bez ljetnih vrućina."
+                "hr": "Posjetite crkvu bez ljetne vrućine."
               }
             },
             {
@@ -1478,7 +1478,7 @@
                 "hu": "Fénypont: történelem meghitt hangulatban.",
                 "ro": "Un punct culminant: istorie într-o atmosferă primitoare.",
                 "en": "A highlight: history in a cozy atmosphere.",
-                "hr": "Vrhunac: povijest u ugodnoj atmosferi."
+                "hr": "Istaknuto: povijest u ugodnoj atmosferi."
               }
             },
             {
@@ -1508,7 +1508,7 @@
                 "hu": "Élvezze a téli specialitásokat a tenger közelében.",
                 "ro": "Savurați specialitățile de iarnă lângă mare.",
                 "en": "Enjoy winter specialties near the sea.",
-                "hr": "Uživajte u zimskim specijalitetima u blizini mora."
+                "hr": "Uživajte u zimskim specijalitetima uz more."
               }
             },
             {
@@ -1518,7 +1518,7 @@
                 "hu": "Korai megálló a nap legjobb fényeihez.",
                 "ro": "Oprire timpurie pentru cea mai bună lumină a zilei.",
                 "en": "Early stop for the best light of the day.",
-                "hr": "Rano stajanje za najbolje svjetlo dana."
+                "hr": "Rana stanica za najbolje svjetlo dana."
               }
             }
           ],
@@ -1548,9 +1548,9 @@
               "Make the most of daylight until 4:30 PM."
             ],
             "hr": [
-              "Provjerite tlak u gumama na nižim temperaturama.",
-              "Ceste su zimi prazne, ali sjenovita mjesta mogu biti skliska.",
-              "Ponesite deke za pauze uz more.",
+              "Provjerite tlak u gumama pri nižim temperaturama.",
+              "Ceste su prazne zimi, ali sjenovita mjesta mogu biti kliska.",
+              "Ponesite deke za odsjeke uz more.",
               "Iskoristite dnevno svjetlo do 16:30."
             ]
           }
@@ -1581,7 +1581,7 @@
             "hu": "A buszállomás közvetlenül a fősétánynál van.",
             "ro": "Stația de autobuz este chiar lângă aleea principală.",
             "en": "The bus station is right by the main alley.",
-            "hr": "Autobusni kolodvor nalazi se tik uz glavni drvored."
+            "hr": "Autobusna stanica je odmah uz glavnu ulicu."
           }
         },
         {
@@ -1690,7 +1690,7 @@
         "hu": "Fedezze fel Blatót és környékét kényelmesen, a helyi buszokkal. A központban töltött kulturális délelőtt után egy rövid buszút viszi a partra, Prigradicába. Élvezze a kilátást az út alatt és a frissítő tengert, parkolási gondok nélkül.",
         "ro": "Explorați Blato și împrejurimile sale relaxat, cu autobuzele publice. După o dimineață culturală în centru, o scurtă călătorie cu autobuzul vă duce la coastă, în Prigradica. Bucurați-vă de priveliște în timpul călătoriei și de răcoarea mării, fără grija parcării.",
         "en": "Explore Blato and its surroundings in a relaxed way with public buses. After a cultural morning in the center, a short bus ride takes you to the coast at Prigradica. Enjoy the views during the ride and the refreshment in the sea, without any parking worries.",
-        "hr": "Istražite Blato i njegovu okolicu na opušten način javnim autobusima. Nakon kulturnog jutra u centru, kratka vožnja autobusom vodi vas do obale u Prigradici. Uživajte u pogledu tijekom vožnje i osvježenju u moru, bez brige o parkiranju."
+        "hr": "Istražite Blato i okolinu opušteno javnim autobusima. Nakon kulturnog prijepodneva u centru, kratka vožnja autobusom vodi vas do obale u Prigradici. Uživajte u pogledu tijekom vožnje i osvježenju u moru, bez brige oko parkiranja."
       },
       "gastro_picks": {
         "de": [
@@ -1812,7 +1812,7 @@
         ],
         "hr": [
           "Karte se mogu kupiti izravno kod vozača autobusa.",
-          "Autobusi rjeđe voze vikendom."
+          "Autobusi voze rjeđe vikendom."
         ]
       },
       "variants": {
@@ -1822,7 +1822,7 @@
             "hu": "Busszal szárazon a sziget szívében. A blatói délelőtt fedett kulturális élményeket kínál, mielőtt a prigradicai járat közvetlenül a partra viszi. Amíg kint esik, egy kikötői konobában élvezheti a vad tenger látványát, mielőtt a busz biztonságban visszaszállítaná.",
             "ro": "Cu autobuzul, la adăpost, prin inima insulei. Dimineața în Blato oferă cultură sub acoperiș, înainte ca cursa spre Prigradica să vă ducă direct la coastă. În timp ce afară plouă, savurați vederea mării agitate dintr-o konoba, înainte de întoarcere.",
             "en": "Travel dry by bus through the heart of the island. A morning in Blato offers indoor culture before the bus to Prigradica takes you straight to the coast. While it rains outside, enjoy the view of the rough sea from a harbor konoba before the transit brings you back safely.",
-            "hr": "Putujte suhi autobusom kroz srce otoka. Jutro u Blatu nudi zatvorenu kulturu prije nego što vas autobus za Prigradicu odveze ravno do obale. Dok vani pada kiša, uživajte u pogledu na nemirno more iz lučke konobe prije nego vas prijevoz sigurno vrati natrag."
+            "hr": "Putujte suho autobusom kroz srce otoka. Jutro u Blatu nudi unutarnju kulturu prije autobusa za Prigradicu koji vas vodi ravno do obale. Dok vani pada kiša, uživajte u pogledu na uzburkano more iz lučke konobe prije nego što vas tranzit sigurno vrati."
           },
           "stops": [
             {
@@ -1832,7 +1832,7 @@
                 "hu": "A buszmegálló védelmet nyújt az eső elől.",
                 "ro": "Stația de autobuz oferă adăpost împotriva ploii.",
                 "en": "The bus stop provides shelter from the rain.",
-                "hr": "Autobusna stanica pruža zaklon od kiše."
+                "hr": "Autobusno stajalište pruža zaklon od kiše."
               }
             },
             {
@@ -1862,7 +1862,7 @@
                 "hu": "Válasszon éttermet a megálló közelében.",
                 "ro": "Alegeți un restaurant aproape de stație.",
                 "en": "Choose a restaurant close to the stop.",
-                "hr": "Odaberite restoran blizu stanice."
+                "hr": "Odaberite restoran blizu stajališta."
               }
             },
             {
@@ -1872,7 +1872,7 @@
                 "hu": "Élvezze a kilátást a száraz buszablakból.",
                 "ro": "Bucurați-vă de priveliște de la fereastra uscată a autobuzului.",
                 "en": "Enjoy the view from the dry bus window.",
-                "hr": "Uživajte u pogledu kroz suhi prozor autobusa."
+                "hr": "Uživajte u pogledu iz suhog autobusnog prozora."
               }
             },
             {
@@ -1882,7 +1882,7 @@
                 "hu": "Egy forró kávé fagylalt helyett felmelegít az esőben.",
                 "ro": "O cafea fierbinte în loc de înghețată vă va încălzi.",
                 "en": "A hot coffee instead of gelato warms you in the rain.",
-                "hr": "Vruća kava umjesto sladoleda ugrijat će vas na kiši."
+                "hr": "Topla kava umjesto sladoleda ugrijat će vas na kiši."
               }
             }
           ],
@@ -1914,8 +1914,8 @@
             "hr": [
               "Provjerite aktualni Arriva vozni red online.",
               "Pripremite sitniš za kartu.",
-              "Autobusi su zimi obično točni.",
-              "Koristite nadstrešnice na stanicama kao mjesta sastanka."
+              "Autobusi su obično točni zimi.",
+              "Koristite autobusne čekaonice kao mjesta za sastanak."
             ]
           }
         },
@@ -1925,7 +1925,7 @@
             "hu": "Téli nyugalom a dombok és a tenger közötti járatokon. A blatói nap szinte csak az Öné, miközben a kulturális látnivalókat élvezi az enyhe klímában. A prigradicai buszút hiteles betekintést nyújt a szigeti életbe a szezonon kívül, majd egy csendes pillanat vár a téli parton.",
             "ro": "Liniște hibernală în tranzit între dealuri și mare. Ziua în Blato vă aparține aproape în totalitate, vizitând atracțiile culturale în climatul blând. Călătoria cu autobuzul spre Prigradica oferă o perspectivă autentică asupra vieții de pe insulă în afara sezonului.",
             "en": "Winter peace in transit between the hills and the sea. The day in Blato is almost yours alone as you visit cultural highlights in the mild climate. The bus ride to Prigradica offers an authentic glimpse into island life off-season, followed by a quiet moment on the winter beach.",
-            "hr": "Zimski mir u tranzitu između brda i mora. Dan u Blatu gotovo je samo vaš dok posjećujete kulturne znamenitosti u blagoj klimi. Vožnja autobusom do Prigradice nudi autentičan uvid u život na otoku izvan sezone, nakon čega slijedi tihi trenutak na zimskoj plaži."
+            "hr": "Zimski mir u prijevozu između brežuljaka i mora. Dan u Blatu gotovo je samo vaš dok posjećujete kulturne znamenitosti u blagoj klimi. Vožnja autobusom do Prigradice nudi autentičan uvid u otočni život izvan sezone, nakon čega slijedi tih trenutak na zimskoj plaži."
           },
           "stops": [
             {
@@ -1935,7 +1935,7 @@
                 "hu": "A sétány télen csodálatosan átlátható.",
                 "ro": "Aleea este minunat de liberă iarna.",
                 "en": "The avenue is wonderfully clear in winter.",
-                "hr": "Drvored je zimi prekrasno pregledan."
+                "hr": "Aleja je zimi prekrasno prozračna."
               }
             },
             {
@@ -1945,7 +1945,7 @@
                 "hu": "Látogatás sorban állás és hőség nélkül.",
                 "ro": "Vizită fără cozi și fără căldură.",
                 "en": "Visit without queues or heat.",
-                "hr": "Posjetite bez redova i vrućine."
+                "hr": "Posjet bez redova i vrućine."
               }
             },
             {
@@ -1955,7 +1955,7 @@
                 "hu": "Kérdezzen a sziget téli szokásairól.",
                 "ro": "Întrebați despre obiceiurile de iarnă ale insulei.",
                 "en": "Ask about the island's winter customs.",
-                "hr": "Pitajte o zimskim običajima na otoku."
+                "hr": "Pitajte o otočnim zimskim običajima."
               }
             },
             {
@@ -1985,7 +1985,7 @@
                 "hu": "Egy séta az üres strandon kitisztítja a fejet.",
                 "ro": "O plimbare pe plaja pustie vă va limpezi mintea.",
                 "en": "A walk on the empty beach clears the head.",
-                "hr": "Šetnja praznom plažom pročišćava glavu."
+                "hr": "Šetnja praznom plažom razbistrit će glavu."
               }
             }
           ],
@@ -2015,10 +2015,10 @@
               "Plan your return trip before dark."
             ],
             "hr": [
-              "Obratite pozornost na smanjeni zimski vozni red.",
-              "Nosite toplu odjeću za vrijeme čekanja.",
+              "Uzmite na znanje skraćeni zimski raspored.",
+              "Obucite toplu odjeću zbog vremena čekanja.",
               "Autobusi su grijani i udobni.",
-              "Planirajte povratak prije mraka."
+              "Isplanirajte povratak prije mraka."
             ]
           }
         }

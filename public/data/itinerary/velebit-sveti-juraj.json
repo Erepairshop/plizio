@@ -32,7 +32,7 @@
             "hu": "Történelmi templom a parti település központjában.",
             "ro": "Biserică istorică în centrul localității de coastă.",
             "en": "Historic church in the center of the coastal village.",
-            "hr": "Povijesna crkva u centru obalnog mjesta."
+            "hr": "Povijesna crkva u središtu primorskog sela."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Sveti Jurajban egy kis parti arborétum is vár.",
             "ro": "În Sveti Juraj există un mic arboretum la malul mării.",
             "en": "In Sveti Juraj, there's a small coastal arboretum.",
-            "hr": "U Svetom Jurju postoji mali obalni arboretum."
+            "hr": "U Svetom Jurju postoji mali primorski arboretum."
           }
         }
       ],
@@ -117,7 +117,7 @@
         "hu": "Sveti Juraj a Velebit tengerparti kapuja. Sétád a történelmi faluközponton át vezet a Szent György és a Szent Fülöp és Jakab templomokhoz. Délután az információs központban mindent megtudhatsz a hegy élővilágáról, mielőtt a napot a kavicsos strandon zárnád.",
         "ro": "Sveti Juraj este poarta de la mare spre Velebit. Plimbarea vă poartă prin centrul istoric către bisericile Sf. Gheorghe și Sf. Filip și Iacob. După-amiaza aflați totul despre flora și fauna muntelui la centrul info, înainte de a încheia ziua relaxat pe plaja cu pietriș.",
         "en": "Sveti Juraj is the coastal gateway to Velebit. Your walk takes you through the historic village center to the churches of St. George and St. Philip and James. In the afternoon, learn all about the mountain's flora and fauna at the info center before ending the day relaxed on the pebble beach.",
-        "hr": "Sveti Juraj je obalna vrata Velebita. Šetnja vas vodi kroz povijesnu jezgru mjesta do crkava sv. Jurja i sv. Filipa i Jakova. Poslijepodne u info centru naučite sve o flori i fauni planine prije nego što opušteno završite dan na šljunčanoj plaži."
+        "hr": "Sveti Juraj je primorska vrata prema Velebitu. Šetnja vodi kroz povijesno središte sela do crkava sv. Jurja i sv. Filipa i Jakova. Poslijepodne u info-centru saznajte sve o biljnom i životinjskom svijetu planine, a dan završite opuštanjem na šljunčanoj plaži."
       },
       "gastro_picks": {
         "de": [
@@ -248,8 +248,8 @@
         "hr": [
           "Voda je ovdje hladnija zbog podvodnih izvora.",
           "Ponesite obuću za vodu za šljunčanu plažu.",
-          "Parking u centru je ograničen tijekom ljeta.",
-          "U Svetom Jurju često puše bura."
+          "Parkiranje je ograničeno u centru tijekom ljeta.",
+          "Sveti Juraj je često vjetrovit (Bura)."
         ]
       },
       "variants": {
@@ -258,7 +258,8 @@
             "de": "Sveti Juraj ist das Tor zum Velebit am Meer. Ihr Spaziergang führt Sie durch den historischen Ortskern zu den Kirchen St. Georg und St. Philipp und Jakob. Nachmittags erfahren Sie im Infozentrum alles über die Flora und Fauna des Berges, bevor Sie den Tag entspannt am Kiesstrand ausklingen lassen.",
             "hu": "Sveti Juraj a Velebit tengerparti kapuja. Sétád a történelmi faluközponton át vezet a Szent György és a Szent Fülöp és Jakab templomokhoz. Délután az információs központban mindent megtudhatsz a hegy élővilágáról, mielőtt a napot a kavicsos strandon zárnád.",
             "ro": "Sveti Juraj este poarta de la mare spre Velebit. Plimbarea vă poartă prin centrul istoric către bisericile Sf. Gheorghe și Sf. Filip și Iacob. După-amiaza aflați totul despre flora și fauna muntelui la centrul info, înainte de a încheia ziua relaxat pe plaja cu pietriș.",
-            "en": "Sveti Juraj is the coastal gateway to Velebit. Your walk takes you through the historic village center to the churches of St. George and St. Philip and James. In the afternoon, learn all about the mountain's flora and fauna at the info center before ending the day relaxed on the pebble beach."
+            "en": "Sveti Juraj is the coastal gateway to Velebit. Your walk takes you through the historic village center to the churches of St. George and St. Philip and James. In the afternoon, learn all about the mountain's flora and fauna at the info center before ending the day relaxed on the pebble beach.",
+            "hr": "Sveti Juraj je primorska vrata prema Velebitu. Šetnja vodi kroz povijesno središte sela do crkava sv. Jurja i sv. Filipa i Jakova. Poslijepodne u info-centru saznajte sve o biljnom i životinjskom svijetu planine, a dan završite opuštanjem na šljunčanoj plaži."
           },
           "stops": [
             {
@@ -267,7 +268,8 @@
                 "de": "Historische Kirche im Zentrum des Küstenortes.",
                 "hu": "Történelmi templom a parti település központjában.",
                 "ro": "Biserică istorică în centrul localității de coastă.",
-                "en": "Historic church in the center of the coastal village."
+                "en": "Historic church in the center of the coastal village.",
+                "hr": "Povijesna crkva u središtu primorskog sela."
               }
             },
             {
@@ -276,7 +278,8 @@
                 "de": "Alte Steinkirche mit Blick auf das Meer.",
                 "hu": "Régi kőtemplom kilátással a tengerre.",
                 "ro": "Biserică veche de piatră cu vedere la mare.",
-                "en": "Old stone church with sea views."
+                "en": "Old stone church with sea views.",
+                "hr": "Stara kamena crkva s pogledom na more."
               }
             },
             {
@@ -285,7 +288,8 @@
                 "de": "Interaktive Ausstellung über den Nationalpark.",
                 "hu": "Interaktív kiállítás a nemzeti parkról.",
                 "ro": "Expoziție interactivă despre parcul național.",
-                "en": "Interactive exhibition about the national park."
+                "en": "Interactive exhibition about the national park.",
+                "hr": "Interaktivna izložba o nacionalnom parku."
               }
             },
             {
@@ -294,7 +298,8 @@
                 "de": "Kiesstrand mit kristallklarem, kühlem Wasser.",
                 "hu": "Kavicsos strand kristálytiszta, hűvös vízzel.",
                 "ro": "Plajă cu pietriș și apă cristalină, răcoroasă.",
-                "en": "Pebble beach with crystal clear, cool water."
+                "en": "Pebble beach with crystal clear, cool water.",
+                "hr": "Šljunčana plaža s kristalno čistom, hladnom vodom."
               }
             },
             {
@@ -303,7 +308,8 @@
                 "de": "In Sveti Juraj gibt es ein kleines Arboretum am Meer.",
                 "hu": "Sveti Jurajban egy kis parti arborétum is vár.",
                 "ro": "În Sveti Juraj există un mic arboretum la malul mării.",
-                "en": "In Sveti Juraj, there's a small coastal arboretum."
+                "en": "In Sveti Juraj, there's a small coastal arboretum.",
+                "hr": "U Svetom Jurju postoji mali primorski arboretum."
               }
             }
           ],
@@ -413,6 +419,12 @@
               "Bring water shoes for the pebble beach.",
               "Parking is limited in the center during summer.",
               "Sveti Juraj is often windy (Bura)."
+            ],
+            "hr": [
+              "Voda je ovdje hladnija zbog podvodnih izvora.",
+              "Ponesite obuću za vodu za šljunčanu plažu.",
+              "Parkiranje je ograničeno u centru tijekom ljeta.",
+              "Sveti Juraj je često vjetrovit (Bura)."
             ]
           }
         },
@@ -422,7 +434,7 @@
             "hu": "Kezdje esős reggelét a történelmi templomok meglátogatásával, ahol menedéket találhat az időjárás elől. Délben az Észak-Velebit Látogatóközpontban ismerkedhet a természettel, miközben kint zuhog. Délután egy esernyős séta a parton drámai kilátást nyújt. A napot a ködbe burkolózó botanikus kertben fejezheti be.",
             "ro": "Începeți dimineața ploioasă vizitând bisericile istorice, care oferă adăpost împotriva vremii. La prânz, la Centrul de Informare Velebitul de Nord puteți afla mai multe despre natură în timp ce afară plouă. După-amiaza, o plimbare pe plajă cu umbrela oferă o priveliște dramatică. Încheiați ziua în grădina botanică învăluită în ceață.",
             "en": "Start your rainy morning by visiting the historic churches, which offer shelter from the weather. At noon, you can learn about nature at the Northern Velebit Info Center while it rains outside. In the afternoon, a walk on the beach with an umbrella offers a dramatic view. End your day in the foggy botanical garden.",
-            "hr": "Započnite kišno jutro posjetom povijesnim crkvama koje nude zaklon. U podne u info centru Sjevernog Velebita naučite o prirodi dok vani pada kiša. Poslijepodne, šetnja plažom s kišobranom nudi dramatičan pogled. Završite dan u maglovitom botaničkom vrtu."
+            "hr": "Počnite kišno jutro posjetom povijesnih crkava koje nude zaklon od lošeg vremena. U podne, dok vani pada kiša, u Sjeveroistočnom velebitskom info-centru možete saznati nešto o prirodi. Poslijepodne šetnja plažom s kišobranom pruža dramatičan pogled. Dan završite u maglovitom botaničkom vrtu."
           },
           "stops": [
             {
@@ -432,7 +444,7 @@
                 "hu": "Tökéletes első menedék egy erős reggeli zápor esetén.",
                 "ro": "Adăpostul perfect pentru o ploaie puternică de dimineață.",
                 "en": "Perfect first shelter during a heavy morning shower.",
-                "hr": "Savršen prvi zaklon tijekom jakog jutarnjeg pljuska."
+                "hr": "Savršeno prvo sklonište tijekom jakog jutarnjeg pljuska."
               }
             },
             {
@@ -442,7 +454,7 @@
                 "hu": "Csodálja meg a belső teret szárazon.",
                 "ro": "Admirați interiorul stând la uscat.",
                 "en": "Admire the interior while staying dry.",
-                "hr": "Divite se unutrašnjosti dok ostajete suhi."
+                "hr": "Divite se interijeru dok ostajete suhi."
               }
             },
             {
@@ -452,7 +464,7 @@
                 "hu": "Töltsön itt több időt, amíg alábbhagy az eső.",
                 "ro": "Petreceți mai mult timp aici până se oprește ploaia.",
                 "en": "Spend some extra time here until the rain stops.",
-                "hr": "Ovdje provedite malo više vremena dok kiša ne prestane."
+                "hr": "Provedite ovdje dodatno vrijeme dok kiša ne stane."
               }
             },
             {
@@ -462,7 +474,7 @@
                 "hu": "Vigyázzon a csúszós kövekkel nedves időben.",
                 "ro": "Atenție la pietrele alunecoase pe ploaie.",
                 "en": "Be careful with slippery stones when wet.",
-                "hr": "Budite oprezni s mokrim kamenjem jer je sklisko."
+                "hr": "Pazite na skliske kamenje kad su mokra."
               }
             },
             {
@@ -472,7 +484,7 @@
                 "hu": "A növények gyönyörűen ragyognak egy esőzés után.",
                 "ro": "Plantele strălucesc frumos după o ploaie.",
                 "en": "The plants glow beautifully after a downpour.",
-                "hr": "Biljke prekrasno sjaje nakon pljuska."
+                "hr": "Biljke lijepo sjaje nakon pljuska."
               }
             }
           ],
@@ -502,10 +514,10 @@
               "You can easily spend an hour in the Info Center if it rains heavily."
             ],
             "hr": [
-              "Vodootporna obuća je neophodna za neravne staze.",
+              "Vodootporna obuća je bitna zbog neravnih staza.",
               "Ponesite čvrst kišobran zbog vjetra na obali.",
-              "Crkve su savršena mjesta za izbjegavanje jakih pljuskova.",
-              "U info centru možete lako provesti sat vremena ako pada jaka kiša."
+              "Crkve su idealna mjesta za izbjegavanje jakih pljuskova.",
+              "U info-centru lako možete provesti sat vremena ako jako pada kiša."
             ]
           }
         },
@@ -515,7 +527,7 @@
             "hu": "A hideg téli reggel a békés Szent György templomnál indul. Dél körül a Látogatóközpontban melegedhet fel és ismerheti meg a Velebit régiót. Délután egy rövid, frissítő tengerparti séta élénkíti az érzékeket még sötétedés előtt. Zárásként a télen különleges, csendes hangulatot árasztó botanikus kert várja.",
             "ro": "Dimineața rece de iarnă începe la liniștita Biserică Sf. Gheorghe. În jurul prânzului vă încălziți la Centrul de Informare și cunoașteți regiunea Velebit. O plimbare scurtă și revigorantă pe plajă după-amiaza vă trezește simțurile înainte de a se întuneca. La final, vă așteaptă grădina botanică, care oferă iarna o atmosferă specială, tăcută.",
             "en": "The cold winter morning begins at the peaceful St. George's Church. Around noon, warm up in the Info Center and learn about the Velebit region. A short, refreshing beach walk in the afternoon enlivens the senses before it gets dark. Finally, the botanical garden awaits, offering a very special, quiet atmosphere in winter.",
-            "hr": "Hladno zimsko jutro počinje kod mirne crkve sv. Jurja. Oko podneva se zagrijte u info centru i naučite o velebitskom kraju. Kratka, osvježavajuća šetnja plažom poslijepodne budi osjetila prije nego što padne mrak. Na kraju vas čeka botanički vrt koji zimi nudi poseban, tihi ugođaj."
+            "hr": "Hladno zimsko jutro počinje u mirnoj crkvi sv. Jurja. Oko podneva ugrijte se u info-centru i saznajte više o području Velebita. Kratka, osvježavajuća šetnja plažom poslijepodne razbudi osjetila prije mraka. Na kraju vas očekuje botanički vrt koji nudi vrlo posebnu, tihu atmosferu zimi."
           },
           "stops": [
             {
@@ -525,7 +537,7 @@
                 "hu": "Reggel itt különösen csendes és gyakran jéghideg van.",
                 "ro": "Dimineața este deosebit de liniștit și adesea înghețat aici.",
                 "en": "Mornings here are especially quiet and often freezing cold.",
-                "hr": "Jutra su ovdje posebno tiha i često ledeno hladna."
+                "hr": "Jutra su ovdje posebno mirna i često ledeno hladna."
               }
             },
             {
@@ -535,7 +547,7 @@
                 "hu": "Védett hely a téli szél elől.",
                 "ro": "Un loc protejat departe de briza de iarnă.",
                 "en": "A sheltered spot away from the winter breeze.",
-                "hr": "Zaklonjeno mjesto podalje od zimskog povjetarca."
+                "hr": "Zaštićeno mjesto udaljeno od zimskog povjetarca."
               }
             },
             {
@@ -545,7 +557,7 @@
                 "hu": "Melegedjen fel itt alaposan.",
                 "ro": "Încălziți-vă bine aici.",
                 "en": "Warm up well here.",
-                "hr": "Ovdje se dobro ugrijte."
+                "hr": "Dobro se ovdje ugrijte."
               }
             },
             {
@@ -565,7 +577,7 @@
                 "hu": "Hó esetén a kert téli csodavilággá változik.",
                 "ro": "Când ninge, grădina se transformă într-o minune de iarnă.",
                 "en": "When it snows, the garden turns into a winter wonderland.",
-                "hr": "Kad padne snijeg, vrt se pretvara u zimsku bajku."
+                "hr": "Kad pada snijeg, vrt se pretvara u zimsku čaroliju."
               }
             }
           ],
@@ -595,10 +607,10 @@
               "Hot drinks in a thermos are ideal for breaks."
             ],
             "hr": [
-              "Odjenite se slojevito jer bura može biti vrlo hladna.",
-              "Dani su kratki, planirajte posjet botaničkom vrtu prije 16:00 sati.",
+              "Nosite tople slojeve jer Bura može biti vrlo hladna.",
+              "Dani su kratki, planirajte posjet botaničkom vrtu prije 16:00.",
               "Neke staze mogu biti skliske ili zaleđene.",
-              "Topli napitci u termosu idealni su za pauze."
+              "Topli napici u termosci idealni su za odmore."
             ]
           }
         }
@@ -628,7 +640,7 @@
             "hu": "Indítsd a túrát a tengerparti út mentén.",
             "ro": "Începeți tura de-a lungul drumului de coastă.",
             "en": "Start your tour along the coastal road.",
-            "hr": "Započnite turu uz obalnu cestu."
+            "hr": "Započnite svoju turu duž obalne ceste."
           }
         },
         {
@@ -647,7 +659,7 @@
             "hu": "Az Adria egyik legszebb fjordja, roncs is látható.",
             "ro": "Unul dintre cele mai frumoase fjorduri, epavă vizibilă.",
             "en": "One of the Adriatic's most beautiful fjords, shipwreck visible.",
-            "hr": "Jedan od najljepših jadranskih fjordova, vidljiva olupina broda."
+            "hr": "Jedan od najljepših fjordova Jadrana, vidljiv brodolom."
           }
         },
         {
@@ -666,7 +678,7 @@
             "hu": "Központi találkozóhely a visszaút után.",
             "ro": "Punct central de întâlnire după drumul de întors.",
             "en": "Central meeting point after the ride back.",
-            "hr": "Središnje mjesto susreta nakon povratka."
+            "hr": "Središnje mjesto okupljanja nakon povratka vožnje."
           }
         },
         {
@@ -685,7 +697,7 @@
             "hu": "Ideális hűsölésre a déli hőségben.",
             "ro": "Ideal pentru răcorire în timpul amiezii.",
             "en": "Ideal for cooling down during the midday heat.",
-            "hr": "Idealno za rashlađivanje tijekom podnevne vrućine."
+            "hr": "Idealno za osvježenje tijekom sredine dana."
           }
         },
         {
@@ -704,7 +716,7 @@
             "hu": "Az út egy része tapasztalt bringásoknak járható.",
             "ro": "O parte a drumului e accesibilă bicicliștilor experimentați.",
             "en": "Part of the trail is accessible to experienced cyclists.",
-            "hr": "Dio staze dostupan je iskusnim biciklistima."
+            "hr": "Dio staze dostupan iskusnim biciklistima."
           }
         }
       ],
@@ -713,7 +725,7 @@
         "hu": "Kerékpárral átélheted a drámai tengerpartot és a Velebit lábait. A Zavratnica-öbölbe tett út kötelező, ahol a kristálytiszta vízben egy elsüllyedt hajót is láthatsz. A fárasztó parti túra után visszatérsz Sveti Jurajba, meglátogatod az információs központot, majd a Premužić-úton szippantasz a hegyi levegőbe.",
         "ro": "Cu bicicleta experimentați coasta dramatică și poalele Velebitului. Drumul spre golful Zavratnica este obligatoriu, unde puteți vedea o epavă în apa cristalină. După tura solicitantă de coastă, reveniți în Sveti Juraj, vizitați centrul info și simțiți aerul de munte pe drumul Premužić.",
         "en": "By bike, you experience the dramatic coast and the foothills of Velebit. The trip to Zavratnica Bay is a must, where you can see a sunken ship in crystal clear water. After the strenuous coastal tour, return to Sveti Juraj, visit the info center, and get a taste of mountain air on the Premužić path.",
-        "hr": "Biciklom ćete doživjeti dramatičnu obalu i podnožje Velebita. Izlet do uvale Zavratnica je obavezan, gdje u kristalno čistom moru možete vidjeti potopljeni brod. Nakon naporne obalne ture, vratite se u Sveti Juraj, posjetite info centar i osjetite miris planinskog zraka na Premužićevoj stazi."
+        "hr": "Biciklom doživljavate dramatičnu obalu i podnožje Velebita. Izlet do uvale Zavratnica je obavezan, gdje možete vidjeti potopljeni brod u kristalno čistoj vodi. Nakon naporne obalne ture vratite se u Sveti Juraj, posjetite info-centar i osjetite planinski zrak na Premužićevoj stazi."
       },
       "gastro_picks": {
         "de": [
@@ -842,10 +854,10 @@
           "A mountain bike is necessary for Velebit paths."
         ],
         "hr": [
-          "Obalna cesta ima gust promet, vozite oprezno.",
-          "Ulaz u Zavratnicu se naplaćuje.",
+          "Obalna cesta je prometna, vozite pažljivo.",
+          "Pristup Zavratnici naplaćuje se simboličnom pristojbom.",
           "Ponesite dovoljno vode, ima malo hlada.",
-          "Za velebitske staze neophodan je brdski bicikl."
+          "Za staze na Velebitu potreban je brdski bicikl."
         ]
       },
       "variants": {
@@ -854,7 +866,8 @@
             "de": "Mit dem Fahrrad erleben Sie die dramatische Küste und die Ausläufer des Velebit. Die Fahrt zur Bucht Zavratnica ist ein Muss, wo Sie im kristallklaren Wasser ein versunkenes Schiff sehen können. Nach der anstrengenden Küstentour kehren Sie nach Sveti Juraj zurück, besuchen das Infozentrum und schnuppern am Premužić-Weg Höhenluft.",
             "hu": "Kerékpárral átélheted a drámai tengerpartot és a Velebit lábait. A Zavratnica-öbölbe tett út kötelező, ahol a kristálytiszta vízben egy elsüllyedt hajót is láthatsz. A fárasztó parti túra után visszatérsz Sveti Jurajba, meglátogatod az információs központot, majd a Premužić-úton szippantasz a hegyi levegőbe.",
             "ro": "Cu bicicleta experimentați coasta dramatică și poalele Velebitului. Drumul spre golful Zavratnica este obligatoriu, unde puteți vedea o epavă în apa cristalină. După tura solicitantă de coastă, reveniți în Sveti Juraj, vizitați centrul info și simțiți aerul de munte pe drumul Premužić.",
-            "en": "By bike, you experience the dramatic coast and the foothills of Velebit. The trip to Zavratnica Bay is a must, where you can see a sunken ship in crystal clear water. After the strenuous coastal tour, return to Sveti Juraj, visit the info center, and get a taste of mountain air on the Premužić path."
+            "en": "By bike, you experience the dramatic coast and the foothills of Velebit. The trip to Zavratnica Bay is a must, where you can see a sunken ship in crystal clear water. After the strenuous coastal tour, return to Sveti Juraj, visit the info center, and get a taste of mountain air on the Premužić path.",
+            "hr": "Biciklom doživljavate dramatičnu obalu i podnožje Velebita. Izlet do uvale Zavratnica je obavezan, gdje možete vidjeti potopljeni brod u kristalno čistoj vodi. Nakon naporne obalne ture vratite se u Sveti Juraj, posjetite info-centar i osjetite planinski zrak na Premužićevoj stazi."
           },
           "stops": [
             {
@@ -863,7 +876,8 @@
                 "de": "Starten Sie Ihre Tour entlang der Küstenstraße.",
                 "hu": "Indítsd a túrát a tengerparti út mentén.",
                 "ro": "Începeți tura de-a lungul drumului de coastă.",
-                "en": "Start your tour along the coastal road."
+                "en": "Start your tour along the coastal road.",
+                "hr": "Započnite svoju turu duž obalne ceste."
               }
             },
             {
@@ -872,7 +886,8 @@
                 "de": "Einer der schönsten Fjorde der Adria, Schiffswrack sichtbar.",
                 "hu": "Az Adria egyik legszebb fjordja, roncs is látható.",
                 "ro": "Unul dintre cele mai frumoase fjorduri, epavă vizibilă.",
-                "en": "One of the Adriatic's most beautiful fjords, shipwreck visible."
+                "en": "One of the Adriatic's most beautiful fjords, shipwreck visible.",
+                "hr": "Jedan od najljepših fjordova Jadrana, vidljiv brodolom."
               }
             },
             {
@@ -881,7 +896,8 @@
                 "de": "Zentraler Treffpunkt nach der Rückfahrt.",
                 "hu": "Központi találkozóhely a visszaút után.",
                 "ro": "Punct central de întâlnire după drumul de întors.",
-                "en": "Central meeting point after the ride back."
+                "en": "Central meeting point after the ride back.",
+                "hr": "Središnje mjesto okupljanja nakon povratka vožnje."
               }
             },
             {
@@ -890,7 +906,8 @@
                 "de": "Ideal zur Abkühlung in der Mittagshitze.",
                 "hu": "Ideális hűsölésre a déli hőségben.",
                 "ro": "Ideal pentru răcorire în timpul amiezii.",
-                "en": "Ideal for cooling down during the midday heat."
+                "en": "Ideal for cooling down during the midday heat.",
+                "hr": "Idealno za osvježenje tijekom sredine dana."
               }
             },
             {
@@ -899,7 +916,8 @@
                 "de": "Ein Teil des Weges ist für erfahrene Radfahrer zugänglich.",
                 "hu": "Az út egy része tapasztalt bringásoknak járható.",
                 "ro": "O parte a drumului e accesibilă bicicliștilor experimentați.",
-                "en": "Part of the trail is accessible to experienced cyclists."
+                "en": "Part of the trail is accessible to experienced cyclists.",
+                "hr": "Dio staze dostupan iskusnim biciklistima."
               }
             }
           ],
@@ -1009,6 +1027,12 @@
               "Access to Zavratnica costs a small fee.",
               "Take plenty of water, there is little shade.",
               "A mountain bike is necessary for Velebit paths."
+            ],
+            "hr": [
+              "Obalna cesta je prometna, vozite pažljivo.",
+              "Pristup Zavratnici naplaćuje se simboličnom pristojbom.",
+              "Ponesite dovoljno vode, ima malo hlada.",
+              "Za staze na Velebitu potreban je brdski bicikl."
             ]
           }
         },
@@ -1018,7 +1042,7 @@
             "hu": "Az eső ellenére a strandon kezd, jól beöltözve esőruhába. Délelőtt óvatosan elteker a Zavratnica-öbölhöz, melynek színei esőben is érvényesülnek. Délben a templom és a Látogatóközpont száraz pihenőt kínál. Délután a Premužić-ösvényhez teker, ahol mélyen lógnak a felhők.",
             "ro": "În ciuda ploii, începeți pe plajă, bine îmbrăcat în haine de ploaie. Dimineața pedalați cu grijă spre golful Zavratnica, ale cărui culori se văd și în ploaie. La prânz, biserica și centrul de informare oferă pauze uscate. După-amiaza pedalați spre poteca Premužić, unde norii atârnă jos.",
             "en": "Despite the rain, you start at the beach, well wrapped in rain gear. In the morning, you cycle carefully to the Zavratnica bay, whose colors also shine in the rain. At noon, the church and info center offer dry breaks. In the afternoon, you ride to the Premužić trail, where the clouds hang low.",
-            "hr": "Unatoč kiši, krećete s plaže dobro zamotani u kišnu opremu. Ujutro oprezno vozite do uvale Zavratnica čije boje sjaje i na kiši. U podne crkva i info centar nude suhe pauze. Poslijepodne se vozite do Premužićeve staze gdje su oblaci niski."
+            "hr": "Unatoč kiši, započinjete na plaži dobro upakirani u kišnu opremu. Ujutro pažljivo biciklirate do uvale Zavratnica čije boje sjaje i na kiši. U podne crkva i info-centar nude suhe pauze. Poslijepodne vozite do Premužićeve staze gdje oblaci vise nisko."
           },
           "stops": [
             {
@@ -1028,7 +1052,7 @@
                 "hu": "Nedves, de friss kezdet a napnak.",
                 "ro": "Un început de zi ud, dar proaspăt.",
                 "en": "A wet but fresh start to the day.",
-                "hr": "Mokri, ali svježi početak dana."
+                "hr": "Mokra, ali svježa početak dana."
               }
             },
             {
@@ -1038,7 +1062,7 @@
                 "hu": "Az út csúszós lehet, tekerjen óvatosan.",
                 "ro": "Drumul poate fi alunecos, mergeți cu grijă.",
                 "en": "The path can be slippery, ride carefully.",
-                "hr": "Staza može biti skliska, vozite oprezno."
+                "hr": "Staza može biti skliska, vozite pažljivo."
               }
             },
             {
@@ -1048,7 +1072,7 @@
                 "hu": "Rövid, száraz pihenő a fellélegzéshez.",
                 "ro": "O scurtă pauză uscată pentru a respira.",
                 "en": "Short, dry break to catch your breath.",
-                "hr": "Kratka, suha pauza za predah."
+                "hr": "Kratka, suha pauza za uloviti dah."
               }
             },
             {
@@ -1068,7 +1092,7 @@
                 "hu": "Heves esőben inkább forduljon vissza vagy rövidítsen.",
                 "ro": "Pe ploaie torențială mai bine vă întoarceți sau scurtați.",
                 "en": "In heavy rain, it's better to turn back or cut it short.",
-                "hr": "Po jakoj kiši bolje je okrenuti se ili skratiti put."
+                "hr": "U jakoj kiši bolje je okrenuti se natrag ili skratiti trasu."
               }
             }
           ],
@@ -1098,10 +1122,10 @@
               "Pack spare clothes in waterproof bags."
             ],
             "hr": [
-              "Kabanica je obavezna za biciklističku turu po kiši.",
+              "Dobra kabanica obavezna je za biciklističku turu po kiši.",
               "Pazite na lokve i mokro lišće na cesti.",
-              "Put kočenja je duži, vozite vrlo defenzivno.",
-              "Spakirajte rezervnu odjeću u vodootporne torbe."
+              "Udaljenosti kočenja su dulje, vozite vrlo defenzivno.",
+              "Spakirajte rezervnu odjeću u vodootporne vreće."
             ]
           }
         },
@@ -1111,7 +1135,7 @@
             "hu": "Egy fagyos reggel friss tengeri levegővel indul a strandon. A Zavratnica-öbölbe vezető bicikliút felmelegít, miközben a téli nap megcsillan a tengeren. Délután a templomban és a Látogatóközpontban keres egy kis meleget, mielőtt nekivágna az utolsó szakasznak a Premužić-ösvény felé, hogy élvezze a téli fényeket.",
             "ro": "O dimineață geroasă începe cu aer proaspăt de mare pe plajă. Turul cu bicicleta spre golful Zavratnica vă încălzește, în timp ce soarele de iarnă face marea să strălucească. După-amiaza căutați puțină căldură în biserică și centrul de informare, înainte de a aborda ultima etapă spre poteca Premužić, pentru a vă bucura de lumina iernii.",
             "en": "A frosty morning begins with fresh sea air at the beach. The bike ride to the Zavratnica bay warms you up while the winter sun makes the sea sparkle. In the afternoon, seek some warmth in the church and info center before tackling the final stage to the Premužić trail to enjoy the winter light.",
-            "hr": "Frosty morning begins with fresh sea air at the beach. Frosty morning begins with fresh sea air at the beach. Ledeno jutro počinje svježim morskim zrakom na plaži. Vožnja biciklom do uvale Zavratnica će vas ugrijati dok zimsko sunce ljeska more. Poslijepodne potražite toplinu u crkvi i info centru prije zadnje etape do Premužićeve staze kako biste uživali u zimskom svjetlu."
+            "hr": "Mrazno jutro započinje svježim morskim zrakom na plaži. Biciklistička vožnja do uvale Zavratnica ugrijat će vas dok zimsko sunce čini more blistavim. Poslijepodne potražite toplinu u crkvi i info-centru prije nego što krenete na završni dio do Premužićeve staze i uživate u zimskom svjetlu."
           },
           "stops": [
             {
@@ -1121,7 +1145,7 @@
                 "hu": "Viseljen meleg kesztyűt a hideg menetszél ellen.",
                 "ro": "Purtați mănuși călduroase pentru vântul rece de pe drum.",
                 "en": "Wear warm gloves for the cold headwind.",
-                "hr": "Nosite tople rukavice zbog hladnog čeonog vjetra."
+                "hr": "Nosite tople rukavice zbog hladnog bočnog vjetra."
               }
             },
             {
@@ -1131,7 +1155,7 @@
                 "hu": "Az alacsonyan járó téli nap remek fotótémákat kínál itt.",
                 "ro": "Soarele de iarnă oferă motive foto grozave aici.",
                 "en": "The low winter sun provides great photo opportunities here.",
-                "hr": "Nisko zimsko sunce ovdje pruža sjajne prilike za fotografiranje."
+                "hr": "Nisko zimsko sunce pruža izvrsne fotografske prilike ovdje."
               }
             },
             {
@@ -1141,7 +1165,7 @@
                 "hu": "Jó hely arra, hogy az út után felmelegítse az ujjait.",
                 "ro": "Bun pentru a vă încălzi degetele după plimbare.",
                 "en": "Good place to briefly warm your fingers after the ride.",
-                "hr": "Dobro mjesto za kratko zagrijavanje prstiju nakon vožnje."
+                "hr": "Dobar mjesto za kratko ugrijavanje prstiju nakon vožnje."
               }
             },
             {
@@ -1151,7 +1175,7 @@
                 "hu": "Használja ki a fűtést, hogy új erőre kapjon.",
                 "ro": "Folosiți încălzirea pentru a vă reîncărca bateriile.",
                 "en": "Use the heating to recharge your batteries.",
-                "hr": "Iskoristite grijanje za punjenje baterija."
+                "hr": "Iskoristite grijanje za nadoknadu energije."
               }
             },
             {
@@ -1191,10 +1215,10 @@
               "Take sufficient lighting as it gets dark early."
             ],
             "hr": [
-              "Termo biciklistička odjeća neophodna je na velebitskim temperaturama.",
-              "Bura može biti jaka, prilagodite tempo.",
-              "Pazite na zaleđene dijelove u sjenovitim kutovima.",
-              "Ponesite dovoljno rasvjete jer rano pada mrak."
+              "Termalna biciklistička odjeća je bitna pri niskim temperaturama na Velebitu.",
+              "Bora može biti jaka, prilagodite tempo.",
+              "Pazite na zaleđene površine u sjenovitim kutovima.",
+              "Ponesite dovoljno rasvjete jer se brzo smrkava."
             ]
           }
         }
@@ -1224,7 +1248,7 @@
             "hu": "Kérj tippeket a Zavižan felé vezető úthoz.",
             "ro": "Cereți sfaturi pentru drumul spre Zavižan.",
             "en": "Get tips for the drive to Zavižan here.",
-            "hr": "Ovdje potražite savjete za vožnju do Zavižana."
+            "hr": "Savjete za vožnju do Zavižana pronađite ovdje."
           }
         },
         {
@@ -1243,7 +1267,7 @@
             "hu": "Horvátország legmagasabb meteorológiai állomása, pazar kilátás.",
             "ro": "Cea mai înaltă stație meteo din Croația, vedere spectaculoasă.",
             "en": "Highest weather station in Croatia, spectacular view.",
-            "hr": "Najviša meteorološka stanica u Hrvatskoj, spektakularan pogled."
+            "hr": "Najviša meteorološka postaja u Hrvatskoj, spektakularan pogled."
           }
         },
         {
@@ -1262,7 +1286,7 @@
             "hu": "A Velebit egyedülálló flórája egy természetes mélyedésben.",
             "ro": "Flora unică a Velebitului într-o depresiune naturală.",
             "en": "Unique Velebit flora in a natural sinkhole.",
-            "hr": "Jedinstvena velebitska flora u prirodnoj ponikvi."
+            "hr": "Jedinstvena velebitska flora u prirodnoj kraškoj dolini."
           }
         },
         {
@@ -1300,7 +1324,7 @@
             "hu": "A jablanaci parkolótól 15 perc gyalog.",
             "ro": "Accesibil în 15 min de la parcarea din Jablanac.",
             "en": "Accessible in 15 min from Jablanac parking.",
-            "hr": "Dostupno za 15 minuta hoda s parkinga u Jablancu."
+            "hr": "Pristupačno za 15 min od parkirališta u Jablanacu."
           }
         },
         {
@@ -1319,7 +1343,7 @@
             "hu": "Utolsó csobbanás a hazaindulás előtt.",
             "ro": "Ultima răcorire înainte de plecare.",
             "en": "Last dip before heading home.",
-            "hr": "Zadnje kupanje prije povratka kući."
+            "hr": "Posljednje kupanje prije povratka kući."
           }
         }
       ],
@@ -1328,7 +1352,7 @@
         "hu": "Az autó lehetővé teszi a felemelkedést nulláról 1600 méterre. A Sveti Juraj-i infó után felhajtasz a Zavižanhoz, ahol hűvös szellő és alpesi flóra vár. A Premužić-út szelíd túrázást kínál csúcsokkal. Késő délután visszatérsz a partra, és meglátogatod a fjordszerű Zavratnica-öblöt.",
         "ro": "Mașina vă permite urcarea de la zero la 1600 metri. După centrul info din Sveti Juraj, urcați la Zavižan, unde vă așteaptă briza rece și flora alpină. Drumul Premužić oferă drumeții ușoare cu vedere la vârfuri. După-amiaza târziu reveniți la coastă pentru a vizita golful Zavratnica.",
         "en": "The car allows you to ascend from zero to 1600 meters. After the info center in Sveti Juraj, drive up to Zavižan, where a cool breeze and alpine flora await. The Premužić path offers gentle hiking with peak views. In the late afternoon, return to the coast to visit the fjord-like Zavratnica Bay.",
-        "hr": "Automobil vam omogućuje uspon s nule na 1600 metara nadmorske visine. Nakon info centra u Svetom Jurju, vozite do Zavižana gdje vas čekaju svježi povjetarac i alpska flora. Premužićeva staza nudi lagano pješačenje uz poglede na vrhove. Kasno poslijepodne vratite se na obalu i posjetite uvalu Zavratnica."
+        "hr": "Autom možete krenuti od nulte nadmorske visine do 1600 metara. Nakon info-centra u Svetom Jurju, vozite do Zavižana, gdje vas čeka svježi povjetarac i alpska flora. Staza Premužić nudi lagano pješačenje s pogledima na vrhove. Kasno poslijepodne vratite se na obalu i posjetite fjordsku uvalu Zavratnicu."
       },
       "gastro_picks": {
         "de": [
@@ -1457,10 +1481,10 @@
           "Drive carefully in case of fog."
         ],
         "hr": [
-          "Cesta do Zavižana je dijelom strma i makadamska.",
-          "Gore je često 10-15 stupnjeva hladnije nego na moru.",
-          "Ulaznica za nacionalni park plaća se po osobi.",
-          "Vozite oprezno u slučaju magle."
+          "Cesta do Zavižana je djelomično strma i makadamska.",
+          "Gore je često 10–15 stupnjeva hladnije nego na moru.",
+          "Naknada za ulaz u nacionalni park naplaćuje se po osobi.",
+          "Vozite pažljivo u slučaju magle."
         ]
       },
       "variants": {
@@ -1469,7 +1493,8 @@
             "de": "Das Auto erlaubt Ihnen den Aufstieg von Null auf 1600 Meter. Nach dem Infozentrum in Sveti Juraj fahren Sie hoch zum Zavižan, wo Sie eine kühle Brise und Alpengarten-Flora erwarten. Der Premužić-Weg bietet sanfte Wanderungen mit Gipfelblick. Am späten Nachmittag kehren Sie an die Küste zurück und besuchen die fjordähnliche Bucht Zavratnica.",
             "hu": "Az autó lehetővé teszi a felemelkedést nulláról 1600 méterre. A Sveti Juraj-i infó után felhajtasz a Zavižanhoz, ahol hűvös szellő és alpesi flóra vár. A Premužić-út szelíd túrázást kínál csúcsokkal. Késő délután visszatérsz a partra, és meglátogatod a fjordszerű Zavratnica-öblöt.",
             "ro": "Mașina vă permite urcarea de la zero la 1600 metri. După centrul info din Sveti Juraj, urcați la Zavižan, unde vă așteaptă briza rece și flora alpină. Drumul Premužić oferă drumeții ușoare cu vedere la vârfuri. După-amiaza târziu reveniți la coastă pentru a vizita golful Zavratnica.",
-            "en": "The car allows you to ascend from zero to 1600 meters. After the info center in Sveti Juraj, drive up to Zavižan, where a cool breeze and alpine flora await. The Premužić path offers gentle hiking with peak views. In the late afternoon, return to the coast to visit the fjord-like Zavratnica Bay."
+            "en": "The car allows you to ascend from zero to 1600 meters. After the info center in Sveti Juraj, drive up to Zavižan, where a cool breeze and alpine flora await. The Premužić path offers gentle hiking with peak views. In the late afternoon, return to the coast to visit the fjord-like Zavratnica Bay.",
+            "hr": "Autom možete krenuti od nulte nadmorske visine do 1600 metara. Nakon info-centra u Svetom Jurju, vozite do Zavižana, gdje vas čeka svježi povjetarac i alpska flora. Staza Premužić nudi lagano pješačenje s pogledima na vrhove. Kasno poslijepodne vratite se na obalu i posjetite fjordsku uvalu Zavratnicu."
           },
           "stops": [
             {
@@ -1478,7 +1503,8 @@
                 "de": "Holen Sie sich hier Tipps für die Fahrt zum Zavižan.",
                 "hu": "Kérj tippeket a Zavižan felé vezető úthoz.",
                 "ro": "Cereți sfaturi pentru drumul spre Zavižan.",
-                "en": "Get tips for the drive to Zavižan here."
+                "en": "Get tips for the drive to Zavižan here.",
+                "hr": "Savjete za vožnju do Zavižana pronađite ovdje."
               }
             },
             {
@@ -1487,7 +1513,8 @@
                 "de": "Höchste Wetterstation Kroatiens, spektakulärer Blick.",
                 "hu": "Horvátország legmagasabb meteorológiai állomása, pazar kilátás.",
                 "ro": "Cea mai înaltă stație meteo din Croația, vedere spectaculoasă.",
-                "en": "Highest weather station in Croatia, spectacular view."
+                "en": "Highest weather station in Croatia, spectacular view.",
+                "hr": "Najviša meteorološka postaja u Hrvatskoj, spektakularan pogled."
               }
             },
             {
@@ -1496,7 +1523,8 @@
                 "de": "Einzigartige Flora des Velebit in einer natürlichen Senke.",
                 "hu": "A Velebit egyedülálló flórája egy természetes mélyedésben.",
                 "ro": "Flora unică a Velebitului într-o depresiune naturală.",
-                "en": "Unique Velebit flora in a natural sinkhole."
+                "en": "Unique Velebit flora in a natural sinkhole.",
+                "hr": "Jedinstvena velebitska flora u prirodnoj kraškoj dolini."
               }
             },
             {
@@ -1505,7 +1533,8 @@
                 "de": "Gehen Sie ein kurzes Stück dieses Meisterwerks.",
                 "hu": "Sétálj egy rövid szakaszt ezen a mérnöki remekművön.",
                 "ro": "Parcurgeți o scurtă porțiune din această capodoperă.",
-                "en": "Walk a short section of this engineering masterpiece."
+                "en": "Walk a short section of this engineering masterpiece.",
+                "hr": "Prošećite kratkim dijelom ovog inženjerskog remek-djela."
               }
             },
             {
@@ -1514,7 +1543,8 @@
                 "de": "Vom Parkplatz in Jablanac in 15 Min zu Fuß erreichbar.",
                 "hu": "A jablanaci parkolótól 15 perc gyalog.",
                 "ro": "Accesibil în 15 min de la parcarea din Jablanac.",
-                "en": "Accessible in 15 min from Jablanac parking."
+                "en": "Accessible in 15 min from Jablanac parking.",
+                "hr": "Pristupačno za 15 min od parkirališta u Jablanacu."
               }
             },
             {
@@ -1523,7 +1553,8 @@
                 "de": "Letzte Abkühlung vor der Heimreise.",
                 "hu": "Utolsó csobbanás a hazaindulás előtt.",
                 "ro": "Ultima răcorire înainte de plecare.",
-                "en": "Last dip before heading home."
+                "en": "Last dip before heading home.",
+                "hr": "Posljednje kupanje prije povratka kući."
               }
             }
           ],
@@ -1633,6 +1664,12 @@
               "It's often 10-15 degrees cooler up there than at the sea.",
               "The national park entry fee is per person.",
               "Drive carefully in case of fog."
+            ],
+            "hr": [
+              "Cesta do Zavižana je djelomično strma i makadamska.",
+              "Gore je često 10–15 stupnjeva hladnije nego na moru.",
+              "Naknada za ulaz u nacionalni park naplaćuje se po osobi.",
+              "Vozite pažljivo u slučaju magle."
             ]
           }
         },
@@ -1642,7 +1679,7 @@
             "hu": "Kényelmesen és szárazon indul autóval a Látogatóközpontba. A Zavižan meteorológiai állomáshoz vezető út esőben is drámai hangulatot áraszt. A botanikus kert után a Premužić-ösvényhez és a Zavratnica-öbölhöz hajt. A nap biztonságban, a tengerparton ér véget, ahonnan az autóból figyelheti a vad hullámokat.",
             "ro": "Începeți confortabil și uscat cu mașina spre Centrul de Informare. Călătoria către stația meteo Zavižan oferă o atmosferă dramatică în ploaie. După o oprire la grădina botanică, conduceți spre poteca Premužić și golful Zavratnica. Ziua se termină în siguranță pe plajă, de unde puteți urmări valurile sălbatice din mașină.",
             "en": "Start comfortably and dry by car to the Info Center. The drive to the Zavižan weather station offers a dramatic mood in the rain. After a stop at the botanical garden, drive to the Premužić trail and Zavratnica bay. The day ends safely at the beach, where you can watch the wild waves from the car.",
-            "hr": "Započnite udobno i suho automobilom do info centra. Vožnja do meteorološke stanice Zavižan nudi dramatičan ugođaj na kiši. Nakon zaustavljanja u botaničkom vrtu, odvezite se do Premužićeve staze i uvale Zavratnica. Dan sigurno završava na plaži gdje iz automobila možete promatrati divlje valove."
+            "hr": "Udobno i suho započnite automobilom do Info centra. Vožnja do meteorološke postaje Zavižan nudi dramatičan ugođaj po kiši. Nakon zaustavljanja u botaničkom vrtu, nastavite prema stazi Premužić i uvali Zavratnica. Dan završava sigurno na plaži, odakle iz automobila možete promatrati divlje valove."
           },
           "stops": [
             {
@@ -1652,7 +1689,7 @@
                 "hu": "Parkoljon közel a bejárathoz, hogy ne ázzon el.",
                 "ro": "Parcați aproape de intrare pentru a nu vă uda.",
                 "en": "Park close to the entrance to avoid getting wet.",
-                "hr": "Parkirajte blizu ulaza kako biste izbjegali kišu."
+                "hr": "Parkirajte blizu ulaza kako biste izbjegli mokrenje."
               }
             },
             {
@@ -1662,7 +1699,7 @@
                 "hu": "Itt fent gyakran zordabb az idő. Vigyen meleg ruhát.",
                 "ro": "Vremea este adesea mai aspră aici sus. Luați haine groase.",
                 "en": "The weather is often harsher up here. Take warm clothes.",
-                "hr": "Vrijeme je ovdje često surovije. Ponesite toplu odjeću."
+                "hr": "Gore je često surovije vrijeme. Ponesite toplu odjeću."
               }
             },
             {
@@ -1672,7 +1709,7 @@
                 "hu": "Csak egy rövid, esernyős sétára ajánlott.",
                 "ro": "Recomandat doar pentru o scurtă plimbare cu umbrela.",
                 "en": "Recommended only for a short walk with an umbrella.",
-                "hr": "Preporučuje se samo za kratku šetnju s kišobranom."
+                "hr": "Preporučuje se samo za kratak obilazak s kišobranom."
               }
             },
             {
@@ -1682,7 +1719,7 @@
                 "hu": "Heves esőben csak az ösvény elejét fedezze fel.",
                 "ro": "În caz de ploaie abundentă explorați doar începutul traseului.",
                 "en": "In heavy rain, only explore the beginning of the trail.",
-                "hr": "Po jakoj kiši istražite samo početak staze."
+                "hr": "Po jakoj kiši istražujte samo početak staze."
               }
             },
             {
@@ -1692,7 +1729,7 @@
                 "hu": "Vigyázat a parkolótól való leereszkedésnél, csúszós lehet.",
                 "ro": "Atenție la coborârea din parcare, poate fi alunecos.",
                 "en": "Careful descending from the parking lot, it can be slippery.",
-                "hr": "Oprezno pri spuštanju s parkinga, može biti sklisko."
+                "hr": "Pažljivo spuštanje s parkirališta, može biti sklisko."
               }
             },
             {
@@ -1732,9 +1769,9 @@
               "Plan more time for the routes."
             ],
             "hr": [
-              "U planinama vozite izuzetno polako tijekom jake kiše.",
+              "Vozite izuzetno polako po planinama tijekom jake kiše.",
               "Planinske ceste mogu biti nepredvidive kad su mokre.",
-              "Kišobran u autu vrijedi zlata.",
+              "Kišobran u autu vrijedi kao zlato.",
               "Planirajte više vremena za rute."
             ]
           }
@@ -1745,7 +1782,7 @@
             "hu": "A téli autózás először a Látogatóközpont védett melegébe vezet. Fent a Zavižan állomásnál gyakran lenyűgöző hótakaró fogadja. A botanikus kert és a Premužić-ösvény téli nyugalomban pihen, mielőtt naplementekor elérné Sveti Juraj fagyos partjait.",
             "ro": "Călătoria de iarnă vă duce mai întâi în căldura protejată a Centrului de Informare. Sus, la stația meteo Zavižan, vă așteaptă adesea un peisaj înzăpezit impresionant. Grădina botanică și poteca Premužić se arată în liniște hibernală, înainte de a ajunge la coasta înghețată din Sveti Juraj la apus.",
             "en": "The winter drive first takes you into the protected warmth of the Info Center. Up at the Zavižan weather station, an impressive snowscape often awaits. The botanical garden and the Premužić trail appear in winter calm before you reach the icy coast of Sveti Juraj at sunset.",
-            "hr": "Zimska vožnja prvo vas vodi u zaštićenu toplinu info centra. Gore na meteorološkoj stanici Zavižan često vas čeka impresivan snježni krajolik. Botanički vrt i Premužićeva staza odišu zimskim mirom prije nego što uz zalazak sunca stignete do zaleđene obale Svetog Jurja."
+            "hr": "Zimska vožnja prvo vas uvodi u zaštićenu toplinu Info centra. Gore, na meteorološkoj postaji Zavižan, često vas dočeka dojmljiva snježna panorama. Botanički vrt i staza Premužić pojavljuju se u zimskoj idili prije nego što stignete do ledene obale Svetog Jurja pri zalasku sunca."
           },
           "stops": [
             {
@@ -1755,7 +1792,7 @@
                 "hu": "Itt érdeklődjön a fenti útviszonyokról.",
                 "ro": "Aflați aici despre condițiile de drum de sus.",
                 "en": "Find out about the road conditions up top here.",
-                "hr": "Ovdje se informirajte o stanju cesta na vrhu."
+                "hr": "Saznajte ovdje o stanju ceste gore."
               }
             },
             {
@@ -1765,7 +1802,7 @@
                 "hu": "Hó esetén gyakran csak téli gumival vagy hólánccal elérhető.",
                 "ro": "Pe zăpadă adesea accesibil doar cu anvelope de iarnă.",
                 "en": "In snow often only accessible with winter tires or chains.",
-                "hr": "Po snijegu često dostupno samo sa zimskim gumama ili lancima."
+                "hr": "U snijegu često pristupačno samo s zimskim gumama ili lancima."
               }
             },
             {
@@ -1775,7 +1812,7 @@
                 "hu": "Mély hóban - varázslatos látvány az útról.",
                 "ro": "Acoperit de zăpadă – o priveliște magică de pe drum.",
                 "en": "Deep in snow – a magical sight from the path.",
-                "hr": "Duboko u snijegu – čaroban prizor sa staze."
+                "hr": "Dubok snijeg – čaroban prizor s puta."
               }
             },
             {
@@ -1785,7 +1822,7 @@
                 "hu": "Télen csak felszerelt, gyakorlott túrázóknak járható.",
                 "ro": "Iarna accesibil doar pentru drumeți experimentați cu echipament.",
                 "en": "In winter only accessible for experienced hikers with equipment.",
-                "hr": "Zimi dostupno samo iskusnim planinarima s opremom."
+                "hr": "Zimi pristupačno samo iskusnim planinarima s opremom."
               }
             },
             {
@@ -1795,7 +1832,7 @@
                 "hu": "A partot a bóra szél eljegesítheti.",
                 "ro": "Coasta poate fi înghețată de vântul Bora.",
                 "en": "The coast can be iced over by the Bora wind.",
-                "hr": "Obala može biti zaleđena zbog bure."
+                "hr": "Obalu može zalijediti bura."
               }
             },
             {
@@ -1805,7 +1842,7 @@
                 "hu": "Szép hely a korai naplemente megtekintésére.",
                 "ro": "Un loc frumos pentru a experimenta apusul devreme.",
                 "en": "A beautiful place to experience the early sunset.",
-                "hr": "Prekrasno mjesto za doživljaj ranog zalaska sunca."
+                "hr": "Prekrasno mjesto za doživjeti rani zalazak sunca."
               }
             }
           ],
@@ -1835,10 +1872,10 @@
               "Drive with extra care in strong Bora winds."
             ],
             "hr": [
-              "Zimske gume su apsolutno obavezne u planinskim regijama.",
-              "Unaprijed se informirajte o prohodnosti ceste do Zavižana.",
-              "U autu držite strugalicu za led i tople deke.",
-              "Vozite s posebnim oprezom pri jakoj buri."
+              "Zimske gume su u planinskim krajevima obavezne.",
+              "Rano provjerite zatvaranja zbog snijega prema Zavižanu.",
+              "Držite strugač leda i tople deke u autu.",
+              "Vozite s dodatnom pažnjom pri jakim udarima bure."
             ]
           }
         }
@@ -1868,7 +1905,7 @@
             "hu": "Buszmegálló a Senj felé vezető főúton.",
             "ro": "Stație de autobuz pe drumul principal spre Senj.",
             "en": "Bus stop on the main road to Senj.",
-            "hr": "Autobusna stanica na glavnoj cesti za Senj."
+            "hr": "Autobusna stanica na glavnoj cesti prema Senju."
           }
         },
         {
@@ -1887,7 +1924,7 @@
             "hu": "A faluból gyalogosan könnyen elérhető.",
             "ro": "Ușor accesibil pe jos din sat.",
             "en": "Easily accessible on foot from the village.",
-            "hr": "Lako dostupno pješice iz mjesta."
+            "hr": "Lako dostupno pješice iz sela."
           }
         },
         {
@@ -1906,7 +1943,7 @@
             "hu": "Közeli strand a tömegközlekedéssel érkezőknek.",
             "ro": "Plajă apropiată pentru vizitatorii cu transport public.",
             "en": "Nearby beach for transit-oriented visitors.",
-            "hr": "Obližnja plaža za posjetitelje koji koriste javni prijevoz."
+            "hr": "Obližnja plaža za putnike u tranzitu."
           }
         },
         {
@@ -1925,7 +1962,7 @@
             "hu": "Rövid látogatás a busz indulása előtt.",
             "ro": "Scurtă vizită înainte de plecarea autobuzului.",
             "en": "Short visit before the bus departure.",
-            "hr": "Kratak posjet prije polaska autobusa."
+            "hr": "Kratki posjet prije polaska autobusa."
           }
         }
       ],
@@ -1934,7 +1971,7 @@
         "hu": "A távolsági busszal a tengerparti úton érheted el Sveti Jurajt. A nap a településre, a modern információs központra és a strandolásra összpontosít. Átélheted a tengeri hangulat és a hatalmas Velebit-hegység közelségének keverékét, mindezt autó nélkül.",
         "ro": "Cu autobuzul de cursă lungă ajungeți în Sveti Juraj pe drumul de coastă. Ziua se concentrează pe localitate, centrul info modern și plajă. Experimentați amestecul de farmec maritim și prezența munților Velebit în fundal, totul accesibil fără vehicul propriu.",
         "en": "With the long-distance bus, you reach Sveti Juraj on the coastal road. The day focuses on the village itself, the modern info center, and the beach. You experience the mix of maritime flair and the presence of the mighty Velebit mountains in the background, all accessible without a private vehicle.",
-        "hr": "Međugradskim autobusom dolazite u Sveti Juraj obalnom cestom. Dan je usmjeren na samo mjesto, moderan info centar i plažu. Doživjet ćete spoj primorskog ugođaja i prisutnost moćnog Velebita u pozadini, a sve je dostupno bez privatnog vozila."
+        "hr": "Dugolinijski autobus dovede vas do Svetog Jurja obalnom cestom. Dan je usmjeren na samo selo, moderan info centar i plažu. Doživljavate mješavinu pomorskog ugođaja i prisutnosti moćnog Velebita u pozadini, sve dostupno bez vlastitog vozila."
       },
       "gastro_picks": {
         "de": [
@@ -2063,9 +2100,9 @@
           "Buy tickets on the bus."
         ],
         "hr": [
-          "Autobusi redovito voze prema Senju i Zadru.",
+          "Autobusi voze redovito prema Senju i Zadru.",
           "Stanica nije natkrivena, potražite hlad.",
-          "Vozni redovi su izvješeni na kiosku.",
+          "Red vožnje objavljen je na kiosku.",
           "Karte kupite u autobusu."
         ]
       },
@@ -2075,7 +2112,8 @@
             "de": "Mit dem Fernbus erreichen Sie Sveti Juraj an der Küstenstraße. Der Tag konzentriert sich auf den Ort selbst, das moderne Infozentrum und den Strand. Sie erleben die Mischung aus maritimem Flair und der Präsenz des mächtigen Velebit-Gebirges im Hintergrund, alles ohne eigenes Fahrzeug erreichbar.",
             "hu": "A távolsági busszal a tengerparti úton érheted el Sveti Jurajt. A nap a településre, a modern információs központra és a strandolásra összpontosít. Átélheted a tengeri hangulat és a hatalmas Velebit-hegység közelségének keverékét, mindezt autó nélkül.",
             "ro": "Cu autobuzul de cursă lungă ajungeți în Sveti Juraj pe drumul de coastă. Ziua se concentrează pe localitate, centrul info modern și plajă. Experimentați amestecul de farmec maritim și prezența munților Velebit în fundal, totul accesibil fără vehicul propriu.",
-            "en": "With the long-distance bus, you reach Sveti Juraj on the coastal road. The day focuses on the village itself, the modern info center, and the beach. You experience the mix of maritime flair and the presence of the mighty Velebit mountains in the background, all accessible without a private vehicle."
+            "en": "With the long-distance bus, you reach Sveti Juraj on the coastal road. The day focuses on the village itself, the modern info center, and the beach. You experience the mix of maritime flair and the presence of the mighty Velebit mountains in the background, all accessible without a private vehicle.",
+            "hr": "Dugolinijski autobus dovede vas do Svetog Jurja obalnom cestom. Dan je usmjeren na samo selo, moderan info centar i plažu. Doživljavate mješavinu pomorskog ugođaja i prisutnosti moćnog Velebita u pozadini, sve dostupno bez vlastitog vozila."
           },
           "stops": [
             {
@@ -2084,7 +2122,8 @@
                 "de": "Bushaltestelle an der Hauptstraße nach Senj.",
                 "hu": "Buszmegálló a Senj felé vezető főúton.",
                 "ro": "Stație de autobuz pe drumul principal spre Senj.",
-                "en": "Bus stop on the main road to Senj."
+                "en": "Bus stop on the main road to Senj.",
+                "hr": "Autobusna stanica na glavnoj cesti prema Senju."
               }
             },
             {
@@ -2093,7 +2132,8 @@
                 "de": "Vom Dorf aus leicht zu Fuß erreichbar.",
                 "hu": "A faluból gyalogosan könnyen elérhető.",
                 "ro": "Ușor accesibil pe jos din sat.",
-                "en": "Easily accessible on foot from the village."
+                "en": "Easily accessible on foot from the village.",
+                "hr": "Lako dostupno pješice iz sela."
               }
             },
             {
@@ -2102,7 +2142,8 @@
                 "de": "Nahegelegener Strand für transit-orientierte Besucher.",
                 "hu": "Közeli strand a tömegközlekedéssel érkezőknek.",
                 "ro": "Plajă apropiată pentru vizitatorii cu transport public.",
-                "en": "Nearby beach for transit-oriented visitors."
+                "en": "Nearby beach for transit-oriented visitors.",
+                "hr": "Obližnja plaža za putnike u tranzitu."
               }
             },
             {
@@ -2111,7 +2152,8 @@
                 "de": "Kurzer Besuch vor der Busabfahrt.",
                 "hu": "Rövid látogatás a busz indulása előtt.",
                 "ro": "Scurtă vizită înainte de plecarea autobuzului.",
-                "en": "Short visit before the bus departure."
+                "en": "Short visit before the bus departure.",
+                "hr": "Kratki posjet prije polaska autobusa."
               }
             }
           ],
@@ -2221,6 +2263,12 @@
               "The stop is not covered, look for shade.",
               "Schedules are posted at the kiosk.",
               "Buy tickets on the bus."
+            ],
+            "hr": [
+              "Autobusi voze redovito prema Senju i Zadru.",
+              "Stanica nije natkrivena, potražite hlad.",
+              "Red vožnje objavljen je na kiosku.",
+              "Karte kupite u autobusu."
             ]
           }
         },
@@ -2230,7 +2278,7 @@
             "hu": "A tömegközlekedéses túra esőben a Szent György templomnál indul. Ezután a csapadékos délelőttöt szárazon tölti a Látogatóközpontban. Délután egy közeli tengerparti kávézóban pihenhet meg. A második templom békés és száraz lezárást nyújt a nedves napnak.",
             "ro": "Turul cu transportul public începe pe ploaie la Biserica Sf. Gheorghe. Apoi petreceți dimineața ploioasă uscat în Centrul de Informare. După-amiaza vă așezați la o cafenea din apropiere de pe plajă. A doua biserică oferă un final pașnic și uscat al zilei umede.",
             "en": "The public transport tour starts in the rain at St. George's Church. Afterwards, spend the rainy morning dry in the Info Center. In the afternoon, settle down in a nearby beach cafe. The second church offers a peaceful and dry end to the wet day.",
-            "hr": "Tura javnim prijevozom počinje po kiši kod crkve sv. Jurja. Nakon toga, provedite kišno jutro na suhom u info centru. Poslijepodne se smjestite u obližnjem kafiću uz plažu. Druga crkva nudi miran i suh kraj mokrog dana."
+            "hr": "Javni prijevoz započinje po kiši kod crkve sv. Jurja. Nakon toga, kišno jutro provedite suho u Info centru. Poslijepodne se smjestite u obližnji kafić na plaži. Druga crkva nudi miran i suh završetak mokrog dana."
           },
           "stops": [
             {
@@ -2240,7 +2288,7 @@
                 "hu": "A buszra várva a tornácon is áthidalhatja az időt.",
                 "ro": "Puteți aștepta autobuzul în verandă.",
                 "en": "You can wait for the bus in the porch.",
-                "hr": "Autobus možete čekati u trijemu crkve."
+                "hr": "Možete čekati autobus pod trijemom."
               }
             },
             {
@@ -2250,7 +2298,7 @@
                 "hu": "Tökéletes egy hosszabb esőszünetre.",
                 "ro": "Perfect pentru o pauză lungă de ploaie.",
                 "en": "Perfect for a long rain break.",
-                "hr": "Savršeno za dužu pauzu od kiše."
+                "hr": "Savršeno za dugo zadržavanje zbog kiše."
               }
             },
             {
@@ -2300,10 +2348,10 @@
               "Plan buffer times for possible delays."
             ],
             "hr": [
-              "Pažljivo provjerite vozni red, može varirati po lošem vremenu.",
-              "Stanice često nemaju krov, kišobran je važan.",
-              "Odjenite se slojevito, u autobusima je često sparno.",
-              "Planirajte dodatno vrijeme za moguća kašnjenja."
+              "Pažljivo provjerite vozne redove, mogu varirati u lošem vremenu.",
+              "Stanice često nemaju krov, važan je kišobran.",
+              "Obucite se slojevito, u autobusima je često vlažno.",
+              "Planirajte rezervno vrijeme zbog mogućih kašnjenja."
             ]
           }
         },
@@ -2313,7 +2361,7 @@
             "hu": "Ne várakozzon a hidegben: induljon pontosan a Szent György templomtól. A Látogatóközpont délelőtt jól jön egy kis felmelegedésre. A téli tengerparti séta frissítően rövid, mielőtt a napot a Szent Fülöp és Jakab templomban zárná, miközben kint besötétedik.",
             "ro": "Nu așteptați în frig: începeți la timp la Biserica Sf. Gheorghe. Centrul de Informare oferă dimineața o pauză binevenită pentru încălzire. Plimbarea de iarnă pe plajă este revigorant de scurtă, înainte de a încheia ziua la Biserica Sf. Filip și Iacob, în timp ce afară se întunecă.",
             "en": "Don't wait in the cold: start on time at St. George's Church. The Info Center offers a welcome warm-up break in the morning. The winter beach walk is refreshingly short before you end the day at St. Philip and James Church as it gets dark outside.",
-            "hr": "Nemojte čekati na hladnoći: krenite na vrijeme kod crkve sv. Jurja. Info centar nudi dobrodošlu pauzu za zagrijavanje ujutro. Zimska šetnja plažom osvježavajuće je kratka prije nego što završite dan kod crkve sv. Filipa i Jakova dok vani pada mrak."
+            "hr": "Ne čekajte vani na hladnoći: krenite na vrijeme kod crkve sv. Jurja. Info centar nudi dobrodošli zagrijavanje ujutro. Zimska šetnja plažom je osvježavajuće kratka prije nego dan završite kod crkve sv. Filipa i Jakova kad se vani smrači."
           },
           "stops": [
             {
@@ -2323,7 +2371,7 @@
                 "hu": "Legyen pontos, hogy ne fagyjonkodjon kint.",
                 "ro": "Fiți punctual pentru a nu îngheța afară.",
                 "en": "Be on time to avoid freezing outside.",
-                "hr": "Dođite na vrijeme kako biste izbjegli smrzavanje vani."
+                "hr": "Budite točni kako ne biste zaleđeni čekali vani."
               }
             },
             {
@@ -2333,7 +2381,7 @@
                 "hu": "Jól fűtött, tökéletes a csatlakozásra várva.",
                 "ro": "Bine încălzit, perfect pentru a aștepta conexiunea.",
                 "en": "Well heated, perfect for waiting for the connection.",
-                "hr": "Dobro grijano, savršeno za čekanje veze."
+                "hr": "Dobar grijani prostor, savršen za čekanje veze."
               }
             },
             {
@@ -2343,7 +2391,7 @@
                 "hu": "Rövid megálló a jeges tengernél.",
                 "ro": "Oprire scurtă la marea înghețată.",
                 "en": "Short stop at the icy sea.",
-                "hr": "Kratko zaustavljanje uz zaleđeno more."
+                "hr": "Kratko zaustavljanje kraj ledenog mora."
               }
             },
             {
@@ -2353,7 +2401,7 @@
                 "hu": "Szép hely, amikor korán leszáll az alkonyat.",
                 "ro": "Un loc frumos când se întunecă devreme.",
                 "en": "A beautiful place when dusk falls early.",
-                "hr": "Lijepo mjesto kad se rano spusti sumrak."
+                "hr": "Prekrasno mjesto kad se brzo spusti sumrak."
               }
             }
           ],
@@ -2383,10 +2431,10 @@
               "The sun sets early, finish your tour by 4:30 PM."
             ],
             "hr": [
-              "Zimski vozni redovi na obali su često znatno reducirani.",
-              "Boravite u zavjetrini zgrada.",
-              "Termosica s čajem zasladit će vrijeme čekanja.",
-              "Sunce rano zalazi, završite turu do 16:30."
+              "Zimski vozni redovi na obali često su znatno smanjeni.",
+              "Ostanite u zaklonu zgrada.",
+              "Termos s čajem uljepšat će vrijeme čekanja.",
+              "Sunce zalazi rano, završite turu do 16:30."
             ]
           }
         }
@@ -2408,19 +2456,22 @@
       "de": "Kroatisch ist Amtssprache; in Küstenorten wird oft Deutsch und Italienisch verstanden. 'Hvala' = Danke.",
       "hu": "A horvát a hivatalos nyelv; a parton sokan értenek németül és olaszul. 'Hvala' = köszönöm.",
       "ro": "Croata e limba oficială; pe coastă mulți înțeleg germana și italiana. 'Hvala' = mulțumesc.",
-      "en": "Croatian is official; coastal staff often speak German and Italian. 'Hvala' means thanks."
+      "en": "Croatian is official; coastal staff often speak German and Italian. 'Hvala' means thanks.",
+      "hr": "Hrvatski je službeni; obalno osoblje često govori njemački i talijanski. 'Hvala' znači thanks."
     },
     "best_time_to_visit": {
       "de": "Mai-Juni und September für Wandern; Juli-August heiß, aber gut zum Baden. Bura-Wind im Winter meiden.",
       "hu": "Május-június és szeptember túrázásra ideális; július-augusztus forró, de fürdésre jó. Télen a bura szél kerülendő.",
       "ro": "Mai-iunie și septembrie pentru drumeții; iulie-august cald, bun pentru înot. Evită vântul bura iarna.",
-      "en": "May-June and September best for hiking; July-August hot but good for swimming. Avoid bura wind in winter."
+      "en": "May-June and September best for hiking; July-August hot but good for swimming. Avoid bura wind in winter.",
+      "hr": "Svibanj–lipanj i rujan najbolji za planinarenje; srpanj–kolovoz vrući, ali dobar za kupanje. Izbjegavajte buru zimi."
     },
     "neighborhood_warnings": {
       "de": "Bura-Fallwind kann plötzlich Magistrale (D8) sperren. Auf Velebit-Wegen festes Schuhwerk und Wasser nötig.",
       "hu": "A bura széllökés hirtelen lezárhatja a parti utat (D8). Velebit ösvényeken kemény bakancs és víz kell.",
       "ro": "Vântul bura poate închide brusc drumul de coastă (D8). Pe potecile Velebit ai nevoie de bocanci și apă.",
-      "en": "Bura wind can suddenly close the coastal road (D8). Sturdy boots and water needed on Velebit trails."
+      "en": "Bura wind can suddenly close the coastal road (D8). Sturdy boots and water needed on Velebit trails.",
+      "hr": "Bura može iznenada zatvoriti obalnu cestu (D8). Potrebne su čvrste čizme i voda na stazama Velebita."
     }
   }
 }

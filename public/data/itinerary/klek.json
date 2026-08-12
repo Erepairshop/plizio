@@ -21,7 +21,8 @@
             "de": "Nonković-Turm",
             "hu": "Nonković-torony",
             "ro": "Turnul Nonković",
-            "en": "Nonković Tower"
+            "en": "Nonković Tower",
+            "hr": "Kula Nonković"
           },
           "coords": [
             17.515,
@@ -45,7 +46,8 @@
             "de": "Kirche St. Peter und Paul",
             "hu": "Szent Péter és Pál templom",
             "ro": "Biserica Sf. Petru și Pavel",
-            "en": "Church of St. Peter and Paul"
+            "en": "Church of St. Peter and Paul",
+            "hr": "Crkva sv. Petra i Pavla"
           },
           "coords": [
             17.5145,
@@ -61,7 +63,7 @@
             "hu": "A település bájos főtemploma.",
             "ro": "Biserica principală fermecătoare a satului.",
             "en": "The charming main church of the village.",
-            "hr": "Šarmantna glavna crkva u mjestu."
+            "hr": "Šarmantna župna crkva mjesta."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Galerie Stećak",
             "hu": "Stećak Galéria",
             "ro": "Galeria Stećak",
-            "en": "Stećak Gallery"
+            "en": "Stećak Gallery",
+            "hr": "Galerija Stećak"
           },
           "coords": [
             17.516,
@@ -93,7 +96,8 @@
             "de": "Hauptstrand Klek",
             "hu": "Klek főstrand",
             "ro": "Plaja principală Klek",
-            "en": "Klek Main Beach"
+            "en": "Klek Main Beach",
+            "hr": "Glavna plaža Klek"
           },
           "coords": [
             17.513,
@@ -109,7 +113,7 @@
             "hu": "Kavicsos strand nagyon tiszta vízzel.",
             "ro": "Plajă cu pietriș și apă foarte curată.",
             "en": "Pebble beach with very clean water.",
-            "hr": "Šljunčana plaža s vrlo čistim morem."
+            "hr": "Šljunčana plaža s vrlo čistom vodom."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Hafen von Klek",
             "hu": "Klek kikötője",
             "ro": "Portul Klek",
-            "en": "Port of Klek"
+            "en": "Port of Klek",
+            "hr": "Luka Klek"
           },
           "coords": [
             17.5138,
@@ -133,7 +138,7 @@
             "hu": "Figyelje meg a halászhajókat.",
             "ro": "Urmăriți bărcile de pescuit.",
             "en": "Watch the fishing boats.",
-            "hr": "Promatrajte ribarske brodice."
+            "hr": "Gledajte ribarske brodove."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Kapelle St. Liberan",
             "hu": "Szent Liberan kápolna",
             "ro": "Capela Sf. Liberan",
-            "en": "St. Liberan Chapel"
+            "en": "St. Liberan Chapel",
+            "hr": "Kapela sv. Liberana"
           },
           "coords": [
             17.511,
@@ -157,7 +163,7 @@
             "hu": "Kis kápolna az öböl végén.",
             "ro": "Capelă mică la capătul golfului.",
             "en": "Small chapel at the end of the bay.",
-            "hr": "Mala kapelica na kraju uvale."
+            "hr": "Mala kapela na kraju uvale."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Klekben a védőtornyok és a modern művészet keverékét fedezzük fel. A séta a Nonković-toronytól a bájos Szent Péter és Pál templomhoz, majd a Stećak Galériához vezet.\nDélben a sekély vizéről ismert főstrandon pihenünk. A késő délutánt a kikötőben és a festői Szent Liberan kápolnánál töltjük, élvezve az Adria nyugalmát.",
         "ro": "În Klek descoperiți un amestec de turnuri de apărare și artă modernă. Plimbarea duce de la Turnul Nonković la biserica Sf. Petru și Pavel și mai departe la Galeria Stećak.\nLa prânz vă relaxați pe plaja principală, cunoscută pentru apa sa puțin adâncă. După-amiaza târziu o petreceți în port și la capela pitorească Sf. Liberan, savurând liniștea Adriaticii.",
         "en": "In Klek, discover a mix of defensive towers and modern art. The walk leads from the Nonković Tower to the charming Peter and Paul Church and on to the Stećak Gallery.\nAt noon, relax at the main beach, known for its shallow water. Spend the late afternoon at the port and the picturesque St. Liberan chapel, enjoying the peace of the Adriatic.",
-        "hr": "U Kleku otkrijte spoj obrambenih kula i moderne umjetnosti. Šetnja vodi od kule Nonković do šarmantne crkve sv. Petra i Pavla te dalje do galerije Stećak.\nU podne se opustite na glavnoj plaži, poznatoj po plitkom moru. Kasno poslijepodne provedite u luci i kod slikovite kapelice sv. Liberana, uživajući u miru Jadrana."
+        "hr": "U Kleku otkrijte mješavinu obrambenih kula i moderne umjetnosti. Šetnja vodi od Nonkovićeve kule do šarmantne crkve sv. Petra i Pavla i dalje do galerije Stećak.\nU podne se opustite na glavnoj plaži, poznatoj po plitkom moru. Kasno poslijepodne provedite u luci i pitoresknoj kapeli sv. Liberana, uživajući u miru Jadrana."
       },
       "gastro_picks": {
         "de": [
@@ -297,7 +303,8 @@
             "de": "In Klek entdecken Sie eine Mischung aus Wehrtürmen und moderner Kunst. Der Spaziergang führt vom Nonković-Turm zur charmanten Peter-und-Paul-Kirche und weiter zur Galerie Stećak.\nMittags entspannen Sie am Hauptstrand, der für sein seichtes Wasser bekannt ist. Den späten Nachmittag verbringen Sie am Hafen und bei der malerischen St. Liberan Kapelle, wo Sie die Ruhe der Adria genießen.",
             "hu": "Klekben a védőtornyok és a modern művészet keverékét fedezzük fel. A séta a Nonković-toronytól a bájos Szent Péter és Pál templomhoz, majd a Stećak Galériához vezet.\nDélben a sekély vizéről ismert főstrandon pihenünk. A késő délutánt a kikötőben és a festői Szent Liberan kápolnánál töltjük, élvezve az Adria nyugalmát.",
             "ro": "În Klek descoperiți un amestec de turnuri de apărare și artă modernă. Plimbarea duce de la Turnul Nonković la biserica Sf. Petru și Pavel și mai departe la Galeria Stećak.\nLa prânz vă relaxați pe plaja principală, cunoscută pentru apa sa puțin adâncă. După-amiaza târziu o petreceți în port și la capela pitorească Sf. Liberan, savurând liniștea Adriaticii.",
-            "en": "In Klek, discover a mix of defensive towers and modern art. The walk leads from the Nonković Tower to the charming Peter and Paul Church and on to the Stećak Gallery.\nAt noon, relax at the main beach, known for its shallow water. Spend the late afternoon at the port and the picturesque St. Liberan chapel, enjoying the peace of the Adriatic."
+            "en": "In Klek, discover a mix of defensive towers and modern art. The walk leads from the Nonković Tower to the charming Peter and Paul Church and on to the Stećak Gallery.\nAt noon, relax at the main beach, known for its shallow water. Spend the late afternoon at the port and the picturesque St. Liberan chapel, enjoying the peace of the Adriatic.",
+            "hr": "U Kleku otkrijte mješavinu obrambenih kula i moderne umjetnosti. Šetnja vodi od Nonkovićeve kule do šarmantne crkve sv. Petra i Pavla i dalje do galerije Stećak.\nU podne se opustite na glavnoj plaži, poznatoj po plitkom moru. Kasno poslijepodne provedite u luci i pitoresknoj kapeli sv. Liberana, uživajući u miru Jadrana."
           },
           "stops": [
             {
@@ -305,13 +312,15 @@
                 "de": "Nonković-Turm",
                 "hu": "Nonković-torony",
                 "ro": "Turnul Nonković",
-                "en": "Nonković Tower"
+                "en": "Nonković Tower",
+                "hr": "Kula Nonković"
               },
               "tip_5lang": {
                 "de": "Ein Wehrturm aus der Zeit der Venezianer.",
                 "hu": "Védőtorony a velencei időkből.",
                 "ro": "Un turn de apărare din epoca venețiană.",
-                "en": "A defensive tower from the Venetian era."
+                "en": "A defensive tower from the Venetian era.",
+                "hr": "Obrambena kula iz mletačkog doba."
               }
             },
             {
@@ -319,13 +328,15 @@
                 "de": "Kirche St. Peter und Paul",
                 "hu": "Szent Péter és Pál templom",
                 "ro": "Biserica Sf. Petru și Pavel",
-                "en": "Church of St. Peter and Paul"
+                "en": "Church of St. Peter and Paul",
+                "hr": "Crkva sv. Petra i Pavla"
               },
               "tip_5lang": {
                 "de": "Die charmante Hauptkirche des Ortes.",
                 "hu": "A település bájos főtemploma.",
                 "ro": "Biserica principală fermecătoare a satului.",
-                "en": "The charming main church of the village."
+                "en": "The charming main church of the village.",
+                "hr": "Šarmantna glavna crkva sela."
               }
             },
             {
@@ -333,13 +344,15 @@
                 "de": "Galerie Stećak",
                 "hu": "Stećak Galéria",
                 "ro": "Galeria Stećak",
-                "en": "Stećak Gallery"
+                "en": "Stećak Gallery",
+                "hr": "Galerija Stećak"
               },
               "tip_5lang": {
                 "de": "Zeitgenössische Kunst in historischem Ambiente.",
                 "hu": "Kortárs művészet történelmi környezetben.",
                 "ro": "Artă contemporană într-un cadru istoric.",
-                "en": "Contemporary art in a historic setting."
+                "en": "Contemporary art in a historic setting.",
+                "hr": "Suvremena umjetnost u povijesnom ambijentu."
               }
             },
             {
@@ -347,13 +360,15 @@
                 "de": "Hauptstrand Klek",
                 "hu": "Klek főstrand",
                 "ro": "Plaja principală Klek",
-                "en": "Klek Main Beach"
+                "en": "Klek Main Beach",
+                "hr": "Glavna plaža Klek"
               },
               "tip_5lang": {
                 "de": "Kiesstrand mit sehr sauberem Wasser.",
                 "hu": "Kavicsos strand nagyon tiszta vízzel.",
                 "ro": "Plajă cu pietriș și apă foarte curată.",
-                "en": "Pebble beach with very clean water."
+                "en": "Pebble beach with very clean water.",
+                "hr": "Šljunčana plaža s vrlo čistom vodom."
               }
             },
             {
@@ -361,13 +376,15 @@
                 "de": "Hafen von Klek",
                 "hu": "Klek kikötője",
                 "ro": "Portul Klek",
-                "en": "Port of Klek"
+                "en": "Port of Klek",
+                "hr": "Luka Klek"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Fischerboote.",
                 "hu": "Figyelje meg a halászhajókat.",
                 "ro": "Urmăriți bărcile de pescuit.",
-                "en": "Watch the fishing boats."
+                "en": "Watch the fishing boats.",
+                "hr": "Promatrajte ribarske brodove."
               }
             },
             {
@@ -375,13 +392,15 @@
                 "de": "Kapelle St. Liberan",
                 "hu": "Szent Liberan kápolna",
                 "ro": "Capela Sf. Liberan",
-                "en": "St. Liberan Chapel"
+                "en": "St. Liberan Chapel",
+                "hr": "Kapela sv. Liberana"
               },
               "tip_5lang": {
                 "de": "Kleine Kapelle am Ende der Bucht.",
                 "hu": "Kis kápolna az öböl végén.",
                 "ro": "Capelă mică la capătul golfului.",
-                "en": "Small chapel at the end of the bay."
+                "en": "Small chapel at the end of the bay.",
+                "hr": "Mala kapela na kraju uvale."
               }
             }
           ],
@@ -483,6 +502,10 @@
             "en": [
               "The beach is ideal for small children.",
               "Visit the gallery for a special souvenir."
+            ],
+            "hr": [
+              "Plaža je idealna za malu djecu.",
+              "Posjetite galeriju za poseban suvenir."
             ]
           }
         },
@@ -492,7 +515,7 @@
             "hu": "Kezdje a napot a Nonković-toronynál, ahol a vastag falak menedéket nyújtanak az adriai eső elől. Később látogasson el a Szent Péter és Pál templomba egy csendes elmélyülésre.\r\n\r\nDélben a Stećak Galéria a legjobb választás, hogy fedél alatt maradva ismerje meg a középkori sírkövek titkait.\r\n\r\nDélután a Klek strand és a kikötő ködbe burkolózó látványa különleges hangulatot áraszt az esernyő alól szemlélve.\r\n\r\nA napot a Szent Liberan kápolnánál zárja, ahol a tenger szürke hullámai felett lassan sötétedni kezd.",
             "ro": "Începeți ziua la Turnul Nonković, ale cărui ziduri groase oferă adăpost împotriva ploii dalmate. Mai târziu, vizitați Biserica Sf. Petru și Pavel pentru un moment de liniște.\r\n\r\nLa prânz, explorați Galeria Stećak, locul ideal pentru a rămâne la adăpost în timp ce admirați arta medievală.\r\n\r\nDupă-amiaza pe plaja Klek este fascinantă chiar și în ploaie, când marea este acoperită de ceață. Priviți bărcile din port protejați de umbrelă.\r\n\r\nÎncheiați turul la Capela Sf. Liberan, în timp ce lumina dispare printre norii cenușii.",
             "en": "Start your day at the Nonković Tower, where thick walls provide shelter from the Dalmatian rain. Later, visit the Church of St. Peter and Paul for a quiet moment.\r\n\r\nAt noon, explore the Stećak Gallery, the perfect indoor spot to stay dry while admiring medieval art.\r\n\r\nAn afternoon at Klek beach is atmospheric even in the rain as mist rolls over the sea. Watch the boats in the port from under your umbrella.\r\n\r\nEnd the tour at St. Liberan Chapel as the light fades into the grey clouds.",
-            "hr": "Započnite dan kod kule Nonković, čiji debeli zidovi pružaju zaklon od dalmatinske kiše. Kasnije posjetite crkvu sv. Petra i Pavla za trenutak mira.\r\n\r\nU podne istražite galeriju Stećak, savršeno zatvoreno mjesto gdje ćete ostati suhi dok se divite srednjovjekovnoj umjetnosti.\r\n\r\nPoslijepodne na plaži Klek je atmosfersko čak i po kiši dok se magla valja nad morem. Promatrajte brodove u luci ispod kišobrana.\r\n\r\nZavršite turu kod kapelice sv. Liberana dok svjetlost nestaje u sivim oblacima."
+            "hr": "Započnite dan na Kuli Nonković, gdje debele zidove pružaju zaklon od dalmatinske kiše. Kasnije posjetite Crkvu sv. Petra i Pavla za miran trenutak.\r\n\r\nU podne istražite Galeriju Stećak, savršeno mjesto unutra da ostanete suhi dok divite srednjovjekovnoj umjetnosti.\r\n\r\nPopodne na plaži Klek je atmosferično čak i po kiši kad se izmaglica spušta nad morem. Promatrajte brodove u luci ispod svog kišobrana.\r\n\r\nZavršite obilazak u Kapeli sv. Liberana dok svjetlo bledi u sivim oblacima."
           },
           "stops": [
             {
@@ -502,7 +525,7 @@
                 "hu": "Keressen menedéket a bejárat masszív kőívei alatt.",
                 "ro": "Căutați adăpost sub arcadele masive de piatră de la intrare.",
                 "en": "Seek shelter under the massive stone arches at the entrance.",
-                "hr": "Potražite zaklon pod masivnim kamenim lukovima na ulazu."
+                "hr": "Potražite zaklon ispod masivnih kamenih svodova na ulazu."
               }
             },
             {
@@ -512,7 +535,7 @@
                 "hu": "Csendes, száraz menedék a hevesebb záporok idejére.",
                 "ro": "Un refugiu liniștit și uscat în timpul averselor puternice.",
                 "en": "A quiet, dry retreat during heavy rain showers.",
-                "hr": "Mirno i suho utočište tijekom jakih pljuskova."
+                "hr": "Tihi, suhi utočište tijekom jakih pljuskova."
               }
             },
             {
@@ -522,7 +545,7 @@
                 "hu": "Ideális fedett program; szánjon időt a részletek megfigyelésére.",
                 "ro": "Activitate ideală în interior; acordați timp detaliilor.",
                 "en": "Ideal indoor activity; take your time with the details.",
-                "hr": "Idealna aktivnost u zatvorenom; odvojite vrijeme za detalje."
+                "hr": "Idealna aktivnost unutra; posvetite vrijeme detaljima."
               }
             },
             {
@@ -532,7 +555,7 @@
                 "hu": "A sétány kávézói fedett teraszokat kínálnak kilátással a tengerre.",
                 "ro": "Cafenelele de pe faleză oferă locuri acoperite cu vedere la mare.",
                 "en": "Promenade cafes offer covered seating with sea views.",
-                "hr": "Kafići na šetnici nude natkrivena mjesta s pogledom na more."
+                "hr": "Kafići na šetnici nude natkriveno sjedenje s pogledom na more."
               }
             },
             {
@@ -542,7 +565,7 @@
                 "hu": "Vigyázzon a vizes, csúszós kövekre a rakparton.",
                 "ro": "Atenție la pietrele ude și alunecoase de pe chei.",
                 "en": "Be careful on the wet, slippery stone pavements on the quay.",
-                "hr": "Budite oprezni na mokrim, skliskim kamenim pločama na rivi."
+                "hr": "Pazite na mokre, klizave kamene ploče na rivi."
               }
             },
             {
@@ -552,7 +575,7 @@
                 "hu": "Kis beugró található itt, tökéletes egy rövid vihar átvészelésére.",
                 "ro": "Există un mic adăpost, perfect pentru o furtună scurtă.",
                 "en": "Small shelter available, perfect for a short storm.",
-                "hr": "Dostupno malo sklonište, savršeno za kratko nevrijeme."
+                "hr": "Dostupan je mali zaklon, savršen za kratku oluju."
               }
             }
           ],
@@ -582,8 +605,8 @@
               "Plan breaks in the covered cafes along the promenade."
             ],
             "hr": [
-              "Nosite nepromočivu obuću zbog skliskih ulica.",
-              "Kišobrani mogu biti nepraktični na obalnom vjetru; izaberite kabanicu.",
+              "Nosite vodootpornu obuću zbog klizavih ulica.",
+              "Kišobrani mogu biti nepraktični na obalnim vjetrovima; odaberite kabanicu.",
               "Galerija Stećak je najbolje mjesto tijekom dugotrajnih pljuskova.",
               "Planirajte pauze u natkrivenim kafićima duž šetnice."
             ]
@@ -595,7 +618,7 @@
             "hu": "Élvezze a tiszta téli levegőt a Nonković-toronynál a nyári tömeg nélkül. Látogasson el a Szent Péter és Pál templomba egy csendes elmélyülésre.\r\n\r\nDélben a Stećak Galéria betekintést nyújt a történelembe, a hűvös idő pedig csak fokozza a középkori emlékek misztikus hangulatát.\r\n\r\nEgy séta az üres Klek strandon felfrissítő élmény. Figyelje a korai naplementét a Pelješac-híd felett a kikötőből.\r\n\r\nA napot a Szent Liberan kápolnánál zárja, miközben a téli szürkület lilára festi a horizontot.",
             "ro": "Bucurați-vă de aerul curat de iarnă la Turnul Nonković, fără mulțimile de vară. Vizitați Biserica Sf. Petru și Pavel pentru un moment de reflecție.\r\n\r\nLa prânz, Galeria Stećak oferă o incursiune în istorie, temperaturile scăzute sporind atmosfera mistică.\r\n\r\nO plimbare pe plaja pustie din Klek este revigorantă. Admirați apusul timpuriu peste podul Pelješac din port.\r\n\r\nÎncheiați ziua la Capela Sf. Liberan, în timp ce amurgul de iarnă colorează orizontul în nuanțe de violet.",
             "en": "Enjoy the crisp winter air at the Nonković Tower without the summer crowds. Visit the Church of St. Peter and Paul for a moment of reflection.\r\n\r\nAt noon, the Stećak Gallery offers a dive into history, with the cool temperatures enhancing the mystical atmosphere.\r\n\r\nA walk on the empty Klek beach is refreshing. Watch the early sunset over the Pelješac bridge from the port.\r\n\r\nEnd the day at St. Liberan Chapel as the winter twilight paints the horizon in violet.",
-            "hr": "Uživajte u svježem zimskom zraku kod kule Nonković bez ljetnih gužvi. Posjetite crkvu sv. Petra i Pavla za trenutak razmišljanja.\r\n\r\nU podne, galerija Stećak nudi uron u povijest, dok niske temperature pojačavaju mističnu atmosferu.\r\n\r\nŠetnja praznom plažom Klek osvježava. Promatrajte rani zalazak sunca iznad Pelješkog mosta iz luke.\r\n\r\nZavršite dan kod kapelice sv. Liberana dok zimski sumrak boji horizont u ljubičasto."
+            "hr": "Uživajte u svježem zimskom zraku na Kuli Nonković bez ljetnih gužvi. Posjetite Crkvu sv. Petra i Pavla za trenutak razmišljanja.\r\n\r\nU podne Galerija Stećak nudi uron u povijest, a niže temperature pojačavaju mističnu atmosferu.\r\n\r\nŠetnja praznom plažom Klek osvježava. Promatrajte rani zalazak sunca preko Pelješkog mosta iz luke.\r\n\r\nZavršite dan u Kapeli sv. Liberana dok zimski sumrak bojom ljubičaste otkriva obzorje."
           },
           "stops": [
             {
@@ -605,7 +628,7 @@
                 "hu": "Réteges öltözködés javasolt, mert a toronynál fújhat a szél.",
                 "ro": "Îmbrăcămintea groasă este esențială, deoarece vântul poate fi rece la turn.",
                 "en": "Warm clothing is essential as the wind can be chilly at the tower.",
-                "hr": "Topla odjeća je neophodna jer vjetar kod kule može biti hladan."
+                "hr": "Topla odjeća je nužna jer vjetar može biti hladan kod kule."
               }
             },
             {
@@ -615,7 +638,7 @@
                 "hu": "A vastag falak jól tartják a benti hőt.",
                 "ro": "Zidurile groase izolează bine împotriva frigului.",
                 "en": "The thick walls keep the cold out effectively.",
-                "hr": "Debeli zidovi učinkovito zadržavaju hladnoću vani."
+                "hr": "Debeli zidovi učinkovito drže hladnoću van."
               }
             },
             {
@@ -625,7 +648,7 @@
                 "hu": "Ellenőrizze a téli nyitvatartást indulás előtt.",
                 "ro": "Verificați programul de iarnă în prealabil.",
                 "en": "Check winter opening hours in advance.",
-                "hr": "Unaprijed provjerite zimsko radno vrijeme."
+                "hr": "Provjerite zimska radna vremena unaprijed."
               }
             },
             {
@@ -635,7 +658,7 @@
                 "hu": "Tökéletes egy gyors sétához, hogy mozgásban maradjon.",
                 "ro": "Perfect pentru o plimbare rapidă pentru a vă menține cald.",
                 "en": "Perfect for a brisk walk to keep warm.",
-                "hr": "Savršeno za brzu šetnju kako biste se ugrijali."
+                "hr": "Savršeno za energičnu šetnju kako biste se ugrijali."
               }
             },
             {
@@ -645,7 +668,7 @@
                 "hu": "A legjobb hely a naplemente megtekintésére 16:30 körül.",
                 "ro": "Cel mai bun loc pentru a vedea apusul în jurul orei 16:30.",
                 "en": "Best spot to watch the sunset around 4:30 PM.",
-                "hr": "Najbolje mjesto za promatranje zalaska sunca oko 16:30."
+                "hr": "Najbolje mjesto za promatranje zalaska oko 16:30."
               }
             },
             {
@@ -655,7 +678,7 @@
                 "hu": "A késő délutáni aranyló fények ideálisak fotózáshoz.",
                 "ro": "Lumina aurie de după-amiază târziu este ideală pentru fotografii.",
                 "en": "The golden late afternoon light is ideal for photos.",
-                "hr": "Zlatna kasnoposlijepodnevna svjetlost idealna je za fotografije."
+                "hr": "Zlatno kasno poslijepodnevno svjetlo idealno je za fotografije."
               }
             }
           ],
@@ -685,9 +708,9 @@
               "Enjoy the peace of a location without summer crowds."
             ],
             "hr": [
-              "Sunce zimi zalazi već oko 16:30.",
+              "Sunce zalazi već oko 16:30 zimi.",
               "Neki restorani mogu biti sezonski zatvoreni.",
-              "Nosite jakne otporne na vjetar za obalno područje.",
+              "Nosite vjetrootporne jakne za obalno područje.",
               "Uživajte u miru lokacije bez ljetnih gužvi."
             ]
           }
@@ -707,7 +730,8 @@
             "de": "Hafen von Klek",
             "hu": "Klek kikötője",
             "ro": "Portul Klek",
-            "en": "Port of Klek"
+            "en": "Port of Klek",
+            "hr": "Luka Klek"
           },
           "coords": [
             17.5138,
@@ -723,7 +747,7 @@
             "hu": "Kezdje a túrát a víznél.",
             "ro": "Începeți turul lângă apă.",
             "en": "Start your tour by the water.",
-            "hr": "Započnite turu uz more."
+            "hr": "Započnite obilazak uz vodu."
           }
         },
         {
@@ -731,7 +755,8 @@
             "de": "Nonković-Turm",
             "hu": "Nonković-torony",
             "ro": "Turnul Nonković",
-            "en": "Nonković Tower"
+            "en": "Nonković Tower",
+            "hr": "Kula Nonković"
           },
           "coords": [
             17.515,
@@ -747,7 +772,7 @@
             "hu": "A falu jelképe.",
             "ro": "Simbolul satului.",
             "en": "Landmark of the village.",
-            "hr": "Simbol mjesta."
+            "hr": "Znamenitost sela."
           }
         },
         {
@@ -755,7 +780,8 @@
             "de": "Galerie Stećak",
             "hu": "Stećak Galéria",
             "ro": "Galeria Stećak",
-            "en": "Stećak Gallery"
+            "en": "Stećak Gallery",
+            "hr": "Galerija Stećak"
           },
           "coords": [
             17.516,
@@ -779,7 +805,8 @@
             "de": "Kapelle St. Liberan",
             "hu": "Szent Liberan kápolna",
             "ro": "Capela Sf. Liberan",
-            "en": "St. Liberan Chapel"
+            "en": "St. Liberan Chapel",
+            "hr": "Kapela sv. Liberana"
           },
           "coords": [
             17.511,
@@ -795,7 +822,7 @@
             "hu": "Szép kerékpárút az öböl mentén.",
             "ro": "Pistă de biciclete frumoasă pe malul golfului.",
             "en": "Beautiful bike path along the bay.",
-            "hr": "Lijepa biciklistička staza uz uvalu."
+            "hr": "Prekrasna biciklistička staza uz uvalu."
           }
         },
         {
@@ -803,7 +830,8 @@
             "de": "Hauptstrand Klek",
             "hu": "Klek főstrand",
             "ro": "Plaja principală Klek",
-            "en": "Klek Main Beach"
+            "en": "Klek Main Beach",
+            "hr": "Glavna plaža Klek"
           },
           "coords": [
             17.513,
@@ -828,7 +856,7 @@
         "hu": "Fedezze fel Klek sík félszigetét kényelmesen kerékpárral. Az út a kikötő mellett halad el olyan kulturális látnivalókhoz, mint a torony és a galéria.\nEzt követően a távoli Szent Liberan kápolnához tekerünk, folyamatos kilátással az Adriára. A túra egy jól megérdemelt fürdőzéssel zárul Klek élénk főstrandján.",
         "ro": "Explorați peninsula plată Klek confortabil cu bicicleta. Drumul trece pe lângă port către punctele culturale, cum ar fi turnul și galeria.\nUlterior, pedalați spre capela izolată Sf. Liberan, având mereu Adria în vedere. Excursia se încheie cu o pauză de înot binemeritată pe plaja principală animată din Klek.",
         "en": "Explore the flat Klek peninsula comfortably by bike. The path leads past the harbor to cultural highlights like the tower and the gallery.\nAfterwards, cycle to the remote St. Liberan chapel, always keeping the Adriatic in view. The trip ends with a well-deserved swim break at Klek's lively main beach.",
-        "hr": "Istražite ravni poluotok Klek udobno biciklom. Staza vodi pored luke do kulturnih znamenitosti poput kule i galerije.\nNakon toga, odvezite se do udaljene kapelice sv. Liberana, stalno držeći Jadran u vidiku. Izlet završava zasluženom pauzom za kupanje na živahnoj glavnoj plaži Kleka."
+        "hr": "Istražite ravnu poluotok Klek udobno biciklom. Staza vodi pored luke do kulturnih znamenitosti poput kule i galerije.\nNakon toga, vozite do udaljene Kapele sv. Liberana, uvijek držeći Jadran na vidiku. Put završava zasluženim kupanjem na živahnoj glavnoj plaži Klek."
       },
       "gastro_picks": {
         "de": [
@@ -949,7 +977,7 @@
           "Watch out for pedestrians on the promenade."
         ],
         "hr": [
-          "Staze su uglavnom ravne i lake.",
+          "Staze su većinom ravne i lagane.",
           "Pazite na pješake na šetnici."
         ]
       },
@@ -959,7 +987,8 @@
             "de": "Erkunden Sie die flache Halbinsel Klek bequem mit dem Rad. Der Weg führt am Hafen vorbei zu den kulturellen Highlights wie dem Turm und der Galerie.\nAnschließend radeln Sie zur abgelegenen St. Liberan Kapelle, wobei Sie stets die Adria im Blick haben. Der Ausflug endet mit einer wohlverdienten Badepause am lebhaften Hauptstrand von Klek.",
             "hu": "Fedezze fel Klek sík félszigetét kényelmesen kerékpárral. Az út a kikötő mellett halad el olyan kulturális látnivalókhoz, mint a torony és a galéria.\nEzt követően a távoli Szent Liberan kápolnához tekerünk, folyamatos kilátással az Adriára. A túra egy jól megérdemelt fürdőzéssel zárul Klek élénk főstrandján.",
             "ro": "Explorați peninsula plată Klek confortabil cu bicicleta. Drumul trece pe lângă port către punctele culturale, cum ar fi turnul și galeria.\nUlterior, pedalați spre capela izolată Sf. Liberan, având mereu Adria în vedere. Excursia se încheie cu o pauză de înot binemeritată pe plaja principală animată din Klek.",
-            "en": "Explore the flat Klek peninsula comfortably by bike. The path leads past the harbor to cultural highlights like the tower and the gallery.\nAfterwards, cycle to the remote St. Liberan chapel, always keeping the Adriatic in view. The trip ends with a well-deserved swim break at Klek's lively main beach."
+            "en": "Explore the flat Klek peninsula comfortably by bike. The path leads past the harbor to cultural highlights like the tower and the gallery.\nAfterwards, cycle to the remote St. Liberan chapel, always keeping the Adriatic in view. The trip ends with a well-deserved swim break at Klek's lively main beach.",
+            "hr": "Istražite ravnu poluotok Klek udobno biciklom. Staza vodi pored luke do kulturnih znamenitosti poput kule i galerije.\nNakon toga, vozite do udaljene Kapele sv. Liberana, uvijek držeći Jadran na vidiku. Put završava zasluženim kupanjem na živahnoj glavnoj plaži Klek."
           },
           "stops": [
             {
@@ -967,13 +996,15 @@
                 "de": "Hafen von Klek",
                 "hu": "Klek kikötője",
                 "ro": "Portul Klek",
-                "en": "Port of Klek"
+                "en": "Port of Klek",
+                "hr": "Luka Klek"
               },
               "tip_5lang": {
                 "de": "Starten Sie Ihre Tour am Wasser.",
                 "hu": "Kezdje a túrát a víznél.",
                 "ro": "Începeți turul lângă apă.",
-                "en": "Start your tour by the water."
+                "en": "Start your tour by the water.",
+                "hr": "Započnite obilazak uz vodu."
               }
             },
             {
@@ -981,13 +1012,15 @@
                 "de": "Nonković-Turm",
                 "hu": "Nonković-torony",
                 "ro": "Turnul Nonković",
-                "en": "Nonković Tower"
+                "en": "Nonković Tower",
+                "hr": "Kula Nonković"
               },
               "tip_5lang": {
                 "de": "Wahrzeichen des Dorfes.",
                 "hu": "A falu jelképe.",
                 "ro": "Simbolul satului.",
-                "en": "Landmark of the village."
+                "en": "Landmark of the village.",
+                "hr": "Znamenitost sela."
               }
             },
             {
@@ -995,13 +1028,15 @@
                 "de": "Galerie Stećak",
                 "hu": "Stećak Galéria",
                 "ro": "Galeria Stećak",
-                "en": "Stećak Gallery"
+                "en": "Stećak Gallery",
+                "hr": "Galerija Stećak"
               },
               "tip_5lang": {
                 "de": "Kurze Pause für Kunstliebhaber.",
                 "hu": "Rövid szünet a művészetkedvelőknek.",
                 "ro": "Scurtă pauză pentru iubitorii de artă.",
-                "en": "Short break for art lovers."
+                "en": "Short break for art lovers.",
+                "hr": "Kratka pauza za ljubitelje umjetnosti."
               }
             },
             {
@@ -1009,13 +1044,15 @@
                 "de": "Kapelle St. Liberan",
                 "hu": "Szent Liberan kápolna",
                 "ro": "Capela Sf. Liberan",
-                "en": "St. Liberan Chapel"
+                "en": "St. Liberan Chapel",
+                "hr": "Kapela sv. Liberana"
               },
               "tip_5lang": {
                 "de": "Schöner Radweg entlang der Bucht.",
                 "hu": "Szép kerékpárút az öböl mentén.",
                 "ro": "Pistă de biciclete frumoasă pe malul golfului.",
-                "en": "Beautiful bike path along the bay."
+                "en": "Beautiful bike path along the bay.",
+                "hr": "Prekrasna biciklistička staza uz uvalu."
               }
             },
             {
@@ -1023,13 +1060,15 @@
                 "de": "Hauptstrand Klek",
                 "hu": "Klek főstrand",
                 "ro": "Plaja principală Klek",
-                "en": "Klek Main Beach"
+                "en": "Klek Main Beach",
+                "hr": "Glavna plaža Klek"
               },
               "tip_5lang": {
                 "de": "Belohnung nach der Fahrt.",
                 "hu": "Jutalom a tekerés után.",
                 "ro": "Răsplată după plimbare.",
-                "en": "Reward after the ride."
+                "en": "Reward after the ride.",
+                "hr": "Nagrada nakon vožnje."
               }
             }
           ],
@@ -1131,6 +1170,10 @@
             "en": [
               "The paths are mostly flat and easy.",
               "Watch out for pedestrians on the promenade."
+            ],
+            "hr": [
+              "Staze su većinom ravne i lagane.",
+              "Pazite na pješake na šetnici."
             ]
           }
         },
@@ -1140,7 +1183,7 @@
             "hu": "Induljon óvatosan a kikötőből, és tekerjen a Nonković-toronyhoz, miközben az eső fényesre festi a köveket.\r\n\r\nDélben a Stećak Galéria nyújt menedéket, ahol megpihenhet és szárazon töltheti az időt.\r\n\r\nDélután a Szent Liberan kápolna felé vegye az irányt. A tengerparti út esőben is látványos, de ügyeljen a tócsákra.\r\n\r\nA napot a Klek strandon zárja, ahol a hullámverés felerősödik a borús égbolt alatt.",
             "ro": "Porniți cu atenție din port și pedalați spre Turnul Nonković, în timp ce ploaia face pietrele să strălucească.\r\n\r\nLa prânz, Galeria Stećak oferă o pauză binemeritată la uscat pentru a vă lăsa bicicletele pentru scurt timp.\r\n\r\nDupă-amiaza, îndreptați-vă spre Capela Sf. Liberan. Drumul de coastă este dramatic pe ploaie, dar fiți atenți la bălți.\r\n\r\nÎncheiați turul la plaja Klek, unde sunetul valurilor pare mai puternic sub cerul înnorat.",
             "en": "Start carefully at the port and cycle to the Nonković Tower as the rain makes the stones glisten.\r\n\r\nAt noon, the Stećak Gallery provides a welcome dry break to park your bikes for a while.\r\n\r\nIn the afternoon, head towards St. Liberan Chapel. The coastal path is dramatic in the rain, but watch out for puddles.\r\n\r\nEnd the tour at Klek beach, where the surf sounds louder under the cloudy sky.",
-            "hr": "Krenite oprezno iz luke i vozite do kule Nonković dok kiša čini kamenje sjajnim.\r\n\r\nU podne, galerija Stećak pruža dobrodošlu suhu pauzu za parkiranje bicikala na neko vrijeme.\r\n\r\nPoslijepodne se uputite prema kapelici sv. Liberana. Obalna staza je dramatična po kiši, ali pazite na lokve.\r\n\r\nZavršite turu na plaži Klek, gdje se zvuk valova čuje jače pod oblačnim nebom."
+            "hr": "Krenite oprezno iz luke i vozite do Kule Nonković dok kiša čini kamenje sjajnim.\r\n\r\nU podne Galerija Stećak pruža dobrodošlu suhu pauzu za parkiranje bicikala na neko vrijeme.\r\n\r\nPopodne krenite prema Kapeli sv. Liberana. Obalna staza je dramatična po kiši, ali pazite na lokve.\r\n\r\nZavršite turu na plaži Klek, gdje zvuk valova pod oblačnim nebom zvuči glasnije."
           },
           "stops": [
             {
@@ -1150,7 +1193,7 @@
                 "hu": "Kerülje az éles kanyarokat a vizes rakparton.",
                 "ro": "Evitați virajele bruște pe cheiul ud.",
                 "en": "Avoid sharp turns on the wet quay.",
-                "hr": "Izbjegavajte oštra skretanja na mokroj rivi."
+                "hr": "Izbjegavajte oštre zavoje na mokroj rivi."
               }
             },
             {
@@ -1160,7 +1203,7 @@
                 "hu": "Támassza le a biciklit a fal kiszögellése alá.",
                 "ro": "Parcați bicicleta sub proeminența zidului.",
                 "en": "Park your bike under the wall overhang.",
-                "hr": "Parkirajte bicikl ispod izbočine zida."
+                "hr": "Parkirajte bicikl pod nadstrešnicom zida."
               }
             },
             {
@@ -1190,7 +1233,7 @@
                 "hu": "Hajtson lassan a csúszós parti sétányon.",
                 "ro": "Mergeți încet pe faleza alunecoasă.",
                 "en": "Ride slowly on the slippery waterfront promenade.",
-                "hr": "Vozite polako po skliskoj obalnoj šetnici."
+                "hr": "Vozite polako po klizavoj šetnici uz more."
               }
             }
           ],
@@ -1220,10 +1263,10 @@
               "Front and rear lights are mandatory in low visibility."
             ],
             "hr": [
-              "Čuvajte se skliskih oznaka na asfaltu.",
+              "Pazite na klizave prometne oznake na asfaltu.",
               "Koristite blatobrane kako biste izbjegli prskanje.",
               "Ponesite suhu krpu za sjedalo.",
-              "Prednja i stražnja svjetla su obavezna pri slaboj vidljivosti."
+              "Prednja i stražnja svjetla obavezna su pri slaboj vidljivosti."
             ]
           }
         },
@@ -1233,7 +1276,7 @@
             "hu": "Fedezze fel a kikötőt kora reggel, amikor a dér belepi a csónakokat. Tekerjen tovább a Nonković-toronyhoz.\r\n\r\nDélben a Stećak Galéria pihenőt nyújt a menetszél elől, miközben Dalmácia történelmét kutatja.\r\n\r\nDélután az út a Szent Liberan kápolnához vezet. A tiszta téli levegő messzi kilátást enged az Adriára.\r\n\r\nA napot a Klek strandon zárja, mielőtt túl hideg lenne. A tél csendje itt a legérezhetőbb.",
             "ro": "Explorați portul dis-de-dimineață, când bruma acoperă bărcile. Pedalați mai departe spre Turnul Nonković.\r\n\r\nLa prânz, Galeria Stećak oferă o pauză de la vântul rece în timp ce descoperiți istoria Dalmației.\r\n\r\nDupă-amiaza, drumul duce spre Capela Sf. Liberan. Aerul curat de iarnă oferă o vizibilitate excelentă asupra Adriaticii.\r\n\r\nÎncheiați ziua la plaja Klek înainte de a se face prea frig. Liniștea iernii este cea mai intensă aici.",
             "en": "Explore the port early in the morning when frost covers the boats. Cycle on to the Nonković Tower.\r\n\r\nAt noon, the Stećak Gallery offers a break from the cool wind while you discover Dalmatia's history.\r\n\r\nIn the afternoon, the ride leads to St. Liberan Chapel. The clear winter air allows for distant views over the Adriatic.\r\n\r\nEnd the day at Klek beach before it gets too cold. The silence of winter is most intense here.",
-            "hr": "Istražite luku rano ujutro dok mraz prekriva brodice. Nastavite biciklom do kule Nonković.\r\n\r\nU podne, galerija Stećak nudi odmak od hladnog vjetra dok otkrivate povijest Dalmacije.\r\n\r\nPoslijepodne vožnja vodi do kapelice sv. Liberana. Čist zimski zrak omogućuje daleke vidike preko Jadrana.\r\n\r\nZavršite dan na plaži Klek prije nego što postane prehladno. Tišina zime ovdje je najintenzivnija."
+            "hr": "Istražite luku rano ujutro kad mraz pokriva brodove. Vozite prema Kuli Nonković.\r\n\r\nU podne Galerija Stećak nudi predah od hladnog vjetra dok otkrivate dalmatinsku povijest.\r\n\r\nPopodne vožnja vodi do Kapele sv. Liberana. Bistri zimski zrak omogućuje udaljene poglede preko Jadrana.\r\n\r\nZavršite dan na plaži Klek prije nego što postane prehladno. Tišina zime ovdje je najintenzivnija."
           },
           "stops": [
             {
@@ -1243,7 +1286,7 @@
                 "hu": "Vigyázzon a reggeli jegesedésre a köveken.",
                 "ro": "Atenție la polei pe suprafețele de piatră dimineața.",
                 "en": "Beware of morning frost on the stone surfaces.",
-                "hr": "Čuvajte se jutarnjeg mraza na kamenim površinama."
+                "hr": "Pazite na jutarnji mraz na kamenim površinama."
               }
             },
             {
@@ -1253,7 +1296,7 @@
                 "hu": "A megállók közötti tekeréshez ajánlott a kesztyű.",
                 "ro": "Mănușile sunt recomandate pentru deplasarea între stații.",
                 "en": "Gloves are advisable for the ride between stops.",
-                "hr": "Rukavice su preporučljive za vožnju između postaja."
+                "hr": "Rukavice su preporučljive za vožnju između stanica."
               }
             },
             {
@@ -1263,7 +1306,7 @@
                 "hu": "Jó hely a kezek felmelegítésére.",
                 "ro": "Un loc bun pentru a vă încălzi mâinile.",
                 "en": "A good place to warm up your hands.",
-                "hr": "Dobro mjesto za zagrijavanje ruku."
+                "hr": "Dobar je mjesto za ugrijati ruke."
               }
             },
             {
@@ -1283,7 +1326,7 @@
                 "hu": "A szél itt télen nagyon metsző lehet.",
                 "ro": "Vântul poate fi foarte tăios aici în timpul iernii.",
                 "en": "The wind can be very biting here in winter.",
-                "hr": "Vjetar ovdje zimi može biti vrlo oštar."
+                "hr": "Vjetar može ovdje vrlo oštro hladiti zimi."
               }
             }
           ],
@@ -1313,10 +1356,10 @@
               "Plan the tour to return before dark."
             ],
             "hr": [
-              "Nosite odjeću otpornu na vjetar kako biste smanjili pothlađivanje.",
+              "Nosite vjetrootpornu odjeću kako biste smanjili osjećaj hladnoće.",
               "Provjerite tlak u gumama, jer može pasti na hladnoći.",
               "Ponesite termosicu s toplim čajem.",
-              "Planirajte turu tako da se vratite prije mraka."
+              "Planirajte povratak prije mraka."
             ]
           }
         }
@@ -1335,7 +1378,8 @@
             "de": "Nonković-Turm",
             "hu": "Nonković-torony",
             "ro": "Turnul Nonković",
-            "en": "Nonković Tower"
+            "en": "Nonković Tower",
+            "hr": "Kula Nonković"
           },
           "coords": [
             17.515,
@@ -1351,7 +1395,7 @@
             "hu": "Parkolás a falu bejáratánál ajánlott.",
             "ro": "Parcare recomandată la intrarea în sat.",
             "en": "Parking recommended at the village entrance.",
-            "hr": "Preporučuje se parkiranje na ulazu u mjesto."
+            "hr": "Preporučeno parkiranje na ulazu u selo."
           }
         },
         {
@@ -1359,7 +1403,8 @@
             "de": "Festung Smrdan grad",
             "hu": "Smrdan grad erőd",
             "ro": "Cetatea Smrdan grad",
-            "en": "Smrdan grad Fortress"
+            "en": "Smrdan grad Fortress",
+            "hr": "Tvrđava Smrdan grad"
           },
           "coords": [
             17.525,
@@ -1375,7 +1420,7 @@
             "hu": "Egy régi város romjai Klek felett.",
             "ro": "Ruinele unui oraș vechi deasupra Klek.",
             "en": "Ruins of an old town above Klek.",
-            "hr": "Ruševine starog grada iznad Kleka."
+            "hr": "Rujevine starog grada iznad Kleka."
           }
         },
         {
@@ -1383,7 +1428,8 @@
             "de": "Aussichtspunkt Smrdan grad",
             "hu": "Smrdan grad kilátópont",
             "ro": "Punct panoramic Smrdan grad",
-            "en": "Smrdan grad Viewpoint"
+            "en": "Smrdan grad Viewpoint",
+            "hr": "Vidikovac Smrdan grad"
           },
           "coords": [
             17.5245,
@@ -1407,7 +1453,8 @@
             "de": "Hauptstrand Klek",
             "hu": "Klek főstrand",
             "ro": "Plaja principală Klek",
-            "en": "Klek Main Beach"
+            "en": "Klek Main Beach",
+            "hr": "Glavna plaža Klek"
           },
           "coords": [
             17.513,
@@ -1431,7 +1478,8 @@
             "de": "Galerie Stećak",
             "hu": "Stećak Galéria",
             "ro": "Galeria Stećak",
-            "en": "Stećak Gallery"
+            "en": "Stećak Gallery",
+            "hr": "Galerija Stećak"
           },
           "coords": [
             17.516,
@@ -1447,7 +1495,7 @@
             "hu": "Egy kulturális pihenő.",
             "ro": "O oprire culturală.",
             "en": "A cultural stopover.",
-            "hr": "Kulturna postaja."
+            "hr": "Kulturalna usputna stanica."
           }
         },
         {
@@ -1455,7 +1503,8 @@
             "de": "Kapelle St. Liberan",
             "hu": "Szent Liberan kápolna",
             "ro": "Capela Sf. Liberan",
-            "en": "St. Liberan Chapel"
+            "en": "St. Liberan Chapel",
+            "hr": "Kapela sv. Liberana"
           },
           "coords": [
             17.511,
@@ -1480,7 +1529,7 @@
         "hu": "Autóval elérjük Smrdan grad lenyűgöző romjait magasan Klek felett, ahonnan páratlan panoráma nyílik. Előtte megtekintjük a történelmi központot a Nonković-toronnyal.\nA délutánt pihenéssel töltjük a főstrandon, vagy meglátogatjuk a Stećak Galériát. A nap nyugodtan zárul a Szent Liberan kápolnánál, amely kocsival jól megközelíthető.",
         "ro": "Cu mașina ajungeți la ruinele impresionante ale Smrdan grad deasupra Klek, de unde vă bucurați de o panoramă inegalabilă. Înainte, vizitați centrul istoric cu Turnul Nonković.\nDupă-amiaza o petreceți relaxat pe plaja principală sau vizitând Galeria Stećak. Ziua se încheie liniștit la capela Sf. Liberan, ușor accesibilă cu mașina.",
         "en": "By car, reach the impressive ruins of Smrdan grad high above Klek, from where you can enjoy an incomparable panorama. Before that, visit the historic center with the Nonković Tower.\nSpend the afternoon relaxing at the main beach or visiting the Stećak Gallery. The day ends quietly at the St. Liberan chapel, which is easily accessible by car.",
-        "hr": "Automobilom dođite do impresivnih ruševina Smrdan grada visoko iznad Kleka, odakle možete uživati u neusporedivoj panorami. Prije toga posjetite povijesnu jezgru s kulom Nonković.\nPoslijepodne provedite opuštajući se na glavnoj plaži ili posjećujući galeriju Stećak. Dan završava mirno kod kapelice sv. Liberana, koja je lako dostupna automobilom."
+        "hr": "Autom dođite do impresivnih ruševina Smrdan grada visoko iznad Kleka, odakle se pruža neusporediv panorama. Prije toga posjetite povijesno središte s Kula Nonković.\nPopodne se opustite na glavnoj plaži ili posjetite Galeriju Stećak. Dan završava mirno kod kapele sv. Liberana, koja je lako dostupna automobilom."
       },
       "gastro_picks": {
         "de": [
@@ -1601,8 +1650,8 @@
           "Use the shade under the tamarisk trees at the beach."
         ],
         "hr": [
-          "Cesta do Smrdan grada je strma i uska.",
-          "Iskoristite hlad ispod stabala tamarisa na plaži."
+          "Put do Smrdan grada je strm i uzak.",
+          "Iskoristite hladovinu pod tamariskama na plaži."
         ]
       },
       "variants": {
@@ -1611,7 +1660,8 @@
             "de": "Mit dem Auto erreichen Sie die beeindruckenden Ruinen von Smrdan grad hoch über Klek, von wo aus Sie ein unvergleichliches Panorama genießen. Zuvor besichtigen Sie das historische Zentrum mit dem Nonković-Turm.\nDen Nachmittag verbringen Sie entspannt am Hauptstrand oder besuchen die Galerie Stećak. Der Tag endet ruhig an der St. Liberan Kapelle, die mit dem Wagen gut erreichbar ist.",
             "hu": "Autóval elérjük Smrdan grad lenyűgöző romjait magasan Klek felett, ahonnan páratlan panoráma nyílik. Előtte megtekintjük a történelmi központot a Nonković-toronnyal.\nA délutánt pihenéssel töltjük a főstrandon, vagy meglátogatjuk a Stećak Galériát. A nap nyugodtan zárul a Szent Liberan kápolnánál, amely kocsival jól megközelíthető.",
             "ro": "Cu mașina ajungeți la ruinele impresionante ale Smrdan grad deasupra Klek, de unde vă bucurați de o panoramă inegalabilă. Înainte, vizitați centrul istoric cu Turnul Nonković.\nDupă-amiaza o petreceți relaxat pe plaja principală sau vizitând Galeria Stećak. Ziua se încheie liniștit la capela Sf. Liberan, ușor accesibilă cu mașina.",
-            "en": "By car, reach the impressive ruins of Smrdan grad high above Klek, from where you can enjoy an incomparable panorama. Before that, visit the historic center with the Nonković Tower.\nSpend the afternoon relaxing at the main beach or visiting the Stećak Gallery. The day ends quietly at the St. Liberan chapel, which is easily accessible by car."
+            "en": "By car, reach the impressive ruins of Smrdan grad high above Klek, from where you can enjoy an incomparable panorama. Before that, visit the historic center with the Nonković Tower.\nSpend the afternoon relaxing at the main beach or visiting the Stećak Gallery. The day ends quietly at the St. Liberan chapel, which is easily accessible by car.",
+            "hr": "Autom dođite do impresivnih ruševina Smrdan grada visoko iznad Kleka, odakle se pruža neusporediv panorama. Prije toga posjetite povijesno središte s Kula Nonković.\nPopodne se opustite na glavnoj plaži ili posjetite Galeriju Stećak. Dan završava mirno kod kapele sv. Liberana, koja je lako dostupna automobilom."
           },
           "stops": [
             {
@@ -1619,13 +1669,15 @@
                 "de": "Nonković-Turm",
                 "hu": "Nonković-torony",
                 "ro": "Turnul Nonković",
-                "en": "Nonković Tower"
+                "en": "Nonković Tower",
+                "hr": "Kula Nonković"
               },
               "tip_5lang": {
                 "de": "Parken am Dorfeingang empfohlen.",
                 "hu": "Parkolás a falu bejáratánál ajánlott.",
                 "ro": "Parcare recomandată la intrarea în sat.",
-                "en": "Parking recommended at the village entrance."
+                "en": "Parking recommended at the village entrance.",
+                "hr": "Preporučeno parkiranje na ulazu u selo."
               }
             },
             {
@@ -1633,13 +1685,15 @@
                 "de": "Festung Smrdan grad",
                 "hu": "Smrdan grad erőd",
                 "ro": "Cetatea Smrdan grad",
-                "en": "Smrdan grad Fortress"
+                "en": "Smrdan grad Fortress",
+                "hr": "Tvrđava Smrdan grad"
               },
               "tip_5lang": {
                 "de": "Ruinen einer alten Stadt oberhalb von Klek.",
                 "hu": "Egy régi város romjai Klek felett.",
                 "ro": "Ruinele unui oraș vechi deasupra Klek.",
-                "en": "Ruins of an old town above Klek."
+                "en": "Ruins of an old town above Klek.",
+                "hr": "Ruševine starog grada iznad Kleka."
               }
             },
             {
@@ -1647,13 +1701,15 @@
                 "de": "Aussichtspunkt Smrdan grad",
                 "hu": "Smrdan grad kilátópont",
                 "ro": "Punct panoramic Smrdan grad",
-                "en": "Smrdan grad Viewpoint"
+                "en": "Smrdan grad Viewpoint",
+                "hr": "Vidikovac Smrdan grad"
               },
               "tip_5lang": {
                 "de": "Spektakulärer Blick auf die Halbinsel Pelješac.",
                 "hu": "Látványos kilátás a Pelješac-félszigetre.",
                 "ro": "Vedere spectaculoasă spre peninsula Pelješac.",
-                "en": "Spectacular view of the Pelješac peninsula."
+                "en": "Spectacular view of the Pelješac peninsula.",
+                "hr": "Spektakularan pogled na poluotok Pelješac."
               }
             },
             {
@@ -1661,13 +1717,15 @@
                 "de": "Hauptstrand Klek",
                 "hu": "Klek főstrand",
                 "ro": "Plaja principală Klek",
-                "en": "Klek Main Beach"
+                "en": "Klek Main Beach",
+                "hr": "Glavna plaža Klek"
               },
               "tip_5lang": {
                 "de": "Einfaches Parken am großen Platz.",
                 "hu": "Könnyű parkolás a nagy téren.",
                 "ro": "Parcare ușoară în piața mare.",
-                "en": "Easy parking at the large square."
+                "en": "Easy parking at the large square.",
+                "hr": "Lako parkiranje na velikom trgu."
               }
             },
             {
@@ -1675,13 +1733,15 @@
                 "de": "Galerie Stećak",
                 "hu": "Stećak Galéria",
                 "ro": "Galeria Stećak",
-                "en": "Stećak Gallery"
+                "en": "Stećak Gallery",
+                "hr": "Galerija Stećak"
               },
               "tip_5lang": {
                 "de": "Ein kultureller Zwischenstopp.",
                 "hu": "Egy kulturális pihenő.",
                 "ro": "O oprire culturală.",
-                "en": "A cultural stopover."
+                "en": "A cultural stopover.",
+                "hr": "Kulturalna usputna stanica."
               }
             },
             {
@@ -1689,13 +1749,15 @@
                 "de": "Kapelle St. Liberan",
                 "hu": "Szent Liberan kápolna",
                 "ro": "Capela Sf. Liberan",
-                "en": "St. Liberan Chapel"
+                "en": "St. Liberan Chapel",
+                "hr": "Kapela sv. Liberana"
               },
               "tip_5lang": {
                 "de": "Abschluss des Tages am Wasser.",
                 "hu": "A nap zárása a víznél.",
                 "ro": "Încheierea zilei lângă apă.",
-                "en": "Ending the day by the water."
+                "en": "Ending the day by the water.",
+                "hr": "Završetak dana uz more."
               }
             }
           ],
@@ -1797,6 +1859,10 @@
             "en": [
               "The road to Smrdan grad is steep and narrow.",
               "Use the shade under the tamarisk trees at the beach."
+            ],
+            "hr": [
+              "Put do Smrdan grada je strm i uzak.",
+              "Iskoristite hladovinu pod tamariskama na plaži."
             ]
           }
         },
@@ -1806,7 +1872,7 @@
             "hu": "Hajtson a Nonković-toronyhoz, élvezve az autó kényelmét a záporok idején. Folytassa az utat a Smrdan grad erőd felé.\r\n\r\nDélben a Smrdan grad kilátópont drámai képet fest a szürke tengerről, mielőtt leereszkedne a Klek strandra.\r\n\r\nDélután a Stećak Galéria tökéletes fedett úti cél. Parkoljon le a Szent Liberan kápolna közelében.\r\n\r\nZárja a napot kényelmesen, miközben az eső kopog a szélvédőn.",
             "ro": "Conduceți spre Turnul Nonković, bucurându-vă de confortul mașinii în timpul averselor. Continuați spre Cetatea Smrdan grad.\r\n\r\nLa prânz, punctul de belvedere Smrdan grad oferă o vedere dramatică asupra mării cenușii, înainte de a coborî spre plaja Klek.\r\n\r\nDupă-amiaza, Galeria Stećak este refugiul perfect la uscat. Parcați în apropierea Capelei Sf. Liberan.\r\n\r\nÎncheiați călătoria relaxat, în timp ce ploaia bate în parbriz.",
             "en": "Drive to Nonković Tower, enjoying the comfort of your car during the showers. Continue to the Smrdan grad Fortress.\r\n\r\nAt noon, the Smrdan grad viewpoint offers a dramatic view of the grey sea before heading down to Klek beach.\r\n\r\nIn the afternoon, the Stećak Gallery is a perfect dry retreat. Park near the St. Liberan Chapel.\r\n\r\nEnd the drive comfortably while the rain drums against the windows.",
-            "hr": "Odvezite se do kule Nonković, uživajući u udobnosti automobila tijekom pljuskova. Nastavite do tvrđave Smrdan grad.\r\n\r\nU podne, vidikovac Smrdan grad nudi dramatičan pogled na sivo more prije spuštanja do plaže Klek.\r\n\r\nIn the afternoon, galerija Stećak je savršeno suho utočište. Parkirajte blizu kapelice sv. Liberana.\r\n\r\nZavršite vožnju udobno dok kiša bubnja po prozorima."
+            "hr": "Vozite do Kule Nonković i uživajte u udobnosti automobila tijekom pljuskova. Nastavite do tvrđave Smrdan grad.\r\n\r\nU podne vidikovac Smrdan grad nudi dramatičan pogled na sivo more prije spuštanja do kleške plaže.\r\n\r\nPopodne je Galerija Stećak savršeno suho utočište. Parkirajte blizu kapele sv. Liberana.\r\n\r\nZavršite vožnju udobno dok kiša bubnja po prozorima."
           },
           "stops": [
             {
@@ -1816,7 +1882,7 @@
                 "hu": "Parkolóhelyek közvetlenül a közelben találhatók.",
                 "ro": "Locuri de parcare sunt disponibile în imediata apropiere.",
                 "en": "Parking spaces are available directly nearby.",
-                "hr": "Parkirna mjesta su dostupna neposredno u blizini."
+                "hr": "Parkirna mjesta dostupna su odmah u blizini."
               }
             },
             {
@@ -1826,7 +1892,7 @@
                 "hu": "A felvezető út esőben csúszós lehet; vezessen óvatosan.",
                 "ro": "Urcarea poate fi alunecoasă pe ploaie; conduceți cu atenție.",
                 "en": "The ascent can be slippery in the rain; drive carefully.",
-                "hr": "Uspon može biti sklizak po kiši; vozite oprezno."
+                "hr": "Uspon može biti klizav po kiši; vozite pažljivo."
               }
             },
             {
@@ -1836,7 +1902,7 @@
                 "hu": "A kilátásért maradjon nyugodtan az autóban.",
                 "ro": "Rămâneți în mașină pentru a admira priveliștea.",
                 "en": "Stay in the car to enjoy the view.",
-                "hr": "Ostanite u automobilu i uživajte u pogledu."
+                "hr": "Ostanite u automobilu kako biste uživali u pogledu."
               }
             },
             {
@@ -1846,7 +1912,7 @@
                 "hu": "Parkoljon közel a sétányhoz, hogy lerövidítse a gyalogutat.",
                 "ro": "Parcați aproape de faleză pentru a sccurta drumul pe jos.",
                 "en": "Park close to the promenade to shorten the walk.",
-                "hr": "Parkirajte blizu šetnice kako biste skratili hodanje."
+                "hr": "Parkirajte blizu rive kako biste skratili šetnju."
               }
             },
             {
@@ -1856,7 +1922,7 @@
                 "hu": "Jó megálló, hogy rövid időre pihentesse az ablaktörlőket.",
                 "ro": "Oprire bună pentru a lăsa ștergătoarele să se odihnească puțin.",
                 "en": "Good stop to give the wipers a short break.",
-                "hr": "Dobra postaja za kratki odmor brisača."
+                "hr": "Dobra stanica da obrišete brisače na kratko."
               }
             },
             {
@@ -1866,7 +1932,7 @@
                 "hu": "Az út ide keskeny; nedves időben dupla figyelmet igényel.",
                 "ro": "Drumul de acces este îngust; atenție sporită pe carosabil umed.",
                 "en": "The access road is narrow; pay double attention when wet.",
-                "hr": "Pristupna cesta je uska; obratite dvostruku pažnju kad je mokro."
+                "hr": "Pristupni put je uzak; dvostruko pazite kad je mokro."
               }
             }
           ],
@@ -1896,10 +1962,10 @@
               "Keep windows slightly open to prevent fogging."
             ],
             "hr": [
-              "Izbjegavajte neasfaltirane rubove cesta tijekom jake kiše.",
-              "Provjerite stanje metlica brisača.",
-              "Pazite na opasnost od odrona na padinama tijekom nevremena.",
-              "Držite prozore malo otvorenima kako biste spriječili magljenje."
+              "Izbjegavajte makadamske bankine za vrijeme jakog pljuska.",
+              "Provjerite stanje brisača vjetrobrana.",
+              "Pazite na opasnost od odrona na kosinama tijekom nevremena.",
+              "Držite prozore malo otvorene kako biste spriječili zamagljivanje."
             ]
           }
         },
@@ -1909,7 +1975,7 @@
             "hu": "Kezdje a napot a Nonković-toronynál, majd élvezze a tiszta kilátást a Smrdan grad erődtől.\r\n\r\nDélben a Smrdan grad kilátópont lenyűgöző panorámát nyújt a téli tengerpartra.\r\n\r\nDélután látogassa meg a Stećak Galériát, majd hajtson tovább a Szent Liberan kápolnához a lágyuló fényekben.\r\n\r\nZárja a túrát a Klek strandon. Az autó fűtése jól esik majd a rövid séták után.",
             "ro": "Începeți la Turnul Nonković și bucurați-vă de vizibilitatea clară de la Cetatea Smrdan grad.\r\n\r\nLa prânz, punctul de belvedere Smrdan grad oferă o panoramă impresionantă a coastei pe timp de iarnă.\r\n\r\nDupă-amiaza, vizitați Galeria Stećak înainte de a merge la Capela Sf. Liberan, în timp ce lumina devine mai blândă.\r\n\r\nÎncheiați turul la plaja Klek. Încălzirea din mașină vă va oferi confort după scurte plimbări.",
             "en": "Start at the Nonković Tower and enjoy the clear view from Smrdan grad Fortress.\r\n\r\nAt noon, the Smrdan grad viewpoint offers an impressive panorama of the winter coast.\r\n\r\nIn the afternoon, visit the Stećak Gallery before driving to St. Liberan Chapel as the light softens.\r\n\r\nEnd your tour at Klek beach. The car heater will provide cozy warmth after your short walks.",
-            "hr": "Započnite kod kule Nonković i uživajte u čistom pogledu s tvrđave Smrdan grad.\r\n\r\nU podne, vidikovac Smrdan grad nudi impresivnu panoramu zimske obale.\r\n\r\nPoslijepodne posjetite galeriju Stećak prije vožnje do kapelice sv. Liberana dok svjetlost omekšava.\r\n\r\nZavršite turu na plaži Klek. Grijanje u automobilu pružit će ugodnu toplinu nakon vaših kratkih šetnji."
+            "hr": "Krenite od Kule Nonković i uživajte u jasnom pogledu s tvrđave Smrdan grad.\r\n\r\nU podne vidikovac Smrdan grad nudi impresivnu panoramu zimske obale.\r\n\r\nPopodne posjetite Galeriju Stećak prije vožnje do kapele sv. Liberana dok se svjetlo omekšava.\r\n\r\nZavršite obilazak na kleškoj plaži. Grijač u automobilu pružit će ugodnu toplinu nakon kratkih šetnji."
           },
           "stops": [
             {
@@ -1919,7 +1985,7 @@
                 "hu": "A parkolás télen teljesen stresszmentes.",
                 "ro": "Parcarea este posibilă fără stres în timpul iernii.",
                 "en": "Parking is stress-free in winter.",
-                "hr": "Parkiranje je zimi bez stresa."
+                "hr": "Parkiranje je bez stresa zimi."
               }
             },
             {
@@ -1929,7 +1995,7 @@
                 "hu": "A felvezető útról télen gyakran jobb a távoli kilátás.",
                 "ro": "Drumul de urcare oferă adesea o vizibilitate mai bună iarna.",
                 "en": "The ascent often offers better distant views in winter.",
-                "hr": "Uspon zimi često nudi bolje daleke vidike."
+                "hr": "Uspon često nudi bolje udaljene poglede zimi."
               }
             },
             {
@@ -1939,7 +2005,7 @@
                 "hu": "Vigyázzon az erős szélre az ajtónyitáskor.",
                 "ro": "Atenție la vântul puternic când deschideți ușile mașinii.",
                 "en": "Watch out for strong winds when opening car doors.",
-                "hr": "Pazite na jake udare vjetra pri otvaranju vrata automobila."
+                "hr": "Pazite na jake udare vjetra prilikom otvaranja vrata automobila."
               }
             },
             {
@@ -1949,7 +2015,7 @@
                 "hu": "Használja az üres parkolót közvetlenül a tengerparton.",
                 "ro": "Folosiți parcarea goală direct lângă mare.",
                 "en": "Use the empty parking lot directly by the sea.",
-                "hr": "Koristite prazno parkiralište izravno uz more."
+                "hr": "Iskoristite prazno parkiralište odmah uz more."
               }
             },
             {
@@ -1959,7 +2025,7 @@
                 "hu": "Remek hely, hogy rövid időre kijöjjön a hidegről.",
                 "ro": "Un loc plăcut pentru a ieși puțin din frig.",
                 "en": "A nice place to get out of the cold for a bit.",
-                "hr": "Lijepo mjesto za kratki bijeg od hladnoće."
+                "hr": "Lijepo mjesto da se nakratko maknete od hladnoće."
               }
             },
             {
@@ -1969,7 +2035,7 @@
                 "hu": "A keskeny út télen alig forgalmas.",
                 "ro": "Drumul îngust este puțin circulat iarna.",
                 "en": "The narrow road is lightly trafficked in winter.",
-                "hr": "Uska cesta je zimi slabo prometna."
+                "hr": "Užan put je zimi slabo prometovan."
               }
             }
           ],
@@ -1999,10 +2065,10 @@
               "Roads can be slippery in the early morning."
             ],
             "hr": [
-              "Ne zaboravite antifriz za pranje vjetrobranskog stakla.",
-              "Provjerite performanse akumulatora vašeg vozila.",
-              "Ponesite deke za duži boravak na vidikovcima.",
-              "Ceste mogu biti skliske rano ujutro."
+              "Ne zaboravite antifriz za tekućinu prskalica vjetrobrana.",
+              "Provjerite performanse akumulatora vozila.",
+              "Ponesite deke za duže zadržavanje na vidikovcima.",
+              "Ceste mogu biti klizave rano ujutro."
             ]
           }
         }
@@ -2021,7 +2087,8 @@
             "de": "Bushaltestelle Klek (Magistrale)",
             "hu": "Klek buszmegálló (Magisztrálé)",
             "ro": "Stație de autobuz Klek (Magistrală)",
-            "en": "Klek Bus Stop (Magistral)"
+            "en": "Klek Bus Stop (Magistral)",
+            "hr": "Stajalište Klek (Magistrala)"
           },
           "coords": [
             17.516,
@@ -2037,7 +2104,7 @@
             "hu": "Megálló a D8-as főúton.",
             "ro": "Oprire pe drumul principal D8.",
             "en": "Stop on the main road D8.",
-            "hr": "Stanica na glavnoj cesti D8."
+            "hr": "Staje na glavnoj cesti D8."
           }
         },
         {
@@ -2045,7 +2112,8 @@
             "de": "Nonković-Turm",
             "hu": "Nonković-torony",
             "ro": "Turnul Nonković",
-            "en": "Nonković Tower"
+            "en": "Nonković Tower",
+            "hr": "Kula Nonković"
           },
           "coords": [
             17.515,
@@ -2061,7 +2129,7 @@
             "hu": "Rövid lemenet a tengerhez.",
             "ro": "Scurtă coborâre spre mare.",
             "en": "Short descent to the sea.",
-            "hr": "Kratki silazak do mora."
+            "hr": "Kratko spuštanje do mora."
           }
         },
         {
@@ -2069,7 +2137,8 @@
             "de": "Galerie Stećak",
             "hu": "Stećak Galéria",
             "ro": "Galeria Stećak",
-            "en": "Stećak Gallery"
+            "en": "Stećak Gallery",
+            "hr": "Galerija Stećak"
           },
           "coords": [
             17.516,
@@ -2085,7 +2154,7 @@
             "hu": "Ideális a déli hőségben.",
             "ro": "Ideal pentru canicula de la prânz.",
             "en": "Ideal for the midday heat.",
-            "hr": "Idealno za podnevne vrućine."
+            "hr": "Idealno za podnevnu vrućinu."
           }
         },
         {
@@ -2093,7 +2162,8 @@
             "de": "Hafen von Klek",
             "hu": "Klek kikötője",
             "ro": "Portul Klek",
-            "en": "Port of Klek"
+            "en": "Port of Klek",
+            "hr": "Luka Klek"
           },
           "coords": [
             17.5138,
@@ -2109,7 +2179,7 @@
             "hu": "Ebéd a kikötő közelében.",
             "ro": "Prânz în apropierea portului.",
             "en": "Lunch near the port.",
-            "hr": "Ručak u blizini luke."
+            "hr": "Ručak blizu luke."
           }
         },
         {
@@ -2117,7 +2187,8 @@
             "de": "Hauptstrand Klek",
             "hu": "Klek főstrand",
             "ro": "Plaja principală Klek",
-            "en": "Klek Main Beach"
+            "en": "Klek Main Beach",
+            "hr": "Glavna plaža Klek"
           },
           "coords": [
             17.513,
@@ -2133,7 +2204,7 @@
             "hu": "Pihenés az indulásig.",
             "ro": "Relaxare până la plecare.",
             "en": "Relaxation until departure.",
-            "hr": "Opuštanje do polaska."
+            "hr": "Odmor do polaska."
           }
         }
       ],
@@ -2142,7 +2213,7 @@
         "hu": "Klek közvetlenül az Adria-főút mentén fekszik, és távolsági buszokkal jól megközelíthető. A megállótól gyorsan elérjük a Nonković-tornyot és a bájos faluközpontot.\nA Stećak Galéria meglátogatása után élvezze a helyi ebédet a kikötőben. A délután a strandé, mielőtt ismét felszállna a Dubrovnik vagy Split felé tartó buszra.",
         "ro": "Klek este situat direct pe Magistrala Adriatică și are conexiuni bune cu autocarul. De la stație ajungeți rapid la Turnul Nonković și în centrul fermecător al satului.\nDupă o vizită la Galeria Stećak, savurați un prânz local în port. După-amiaza aparține plajei, înainte de a lua din nou autobuzul spre Dubrovnik sau Split.",
         "en": "Klek is located directly on the Adriatic Highway and is well-connected by long-distance buses. From the stop, you quickly reach the Nonković Tower and the charming village center.\nAfter a visit to the Stećak Gallery, enjoy a local lunch at the harbor. The afternoon belongs to the beach before you take the bus towards Dubrovnik or Split again.",
-        "hr": "Klek se nalazi izravno na Jadranskoj magistrali i dobro je povezan međugradskim autobusima. S postaje brzo dolazite do kule Nonković i šarmantnog centra mjesta.\nNakon posjeta galeriji Stećak, uživajte u lokalnom ručku u luci. Poslijepodne pripada plaži prije nego što ponovno sjednete na autobus prema Dubrovniku ili Splitu."
+        "hr": "Klek se nalazi izravno uz Jadransku magistralu i dobro je povezan međugradskim autobusima. Sa stajališta brzo stižete do Kule Nonković i šarmantnog središta sela.\nNakon posjeta Galeriji Stećak, uživajte u lokalnom ručku u luci. Popodne je rezervirano za plažu prije nego što ponovno uhvatite autobus prema Dubrovniku ili Splitu."
       },
       "gastro_picks": {
         "de": [
@@ -2263,8 +2334,8 @@
           "The stop is right at the bend."
         ],
         "hr": [
-          "Na vrijeme dajte znak vozaču autobusa.",
-          "Stanica je točno na zavoju."
+          "Na vrijeme signalizirajte vozaču autobusa.",
+          "Stajalište je upravo na zavoju."
         ]
       },
       "variants": {
@@ -2273,7 +2344,8 @@
             "de": "Klek liegt direkt an der Adria-Magistrale und ist mit Fernbussen gut vernetzt. Von der Haltestelle gelangen Sie schnell zum Nonković-Turm und in den charmanten Dorfkern.\nNach einem Besuch der Galerie Stećak genießen Sie ein lokales Mittagessen am Hafen. Der Nachmittag gehört dem Strand, bevor Sie wieder den Bus in Richtung Dubrovnik oder Split nehmen.",
             "hu": "Klek közvetlenül az Adria-főút mentén fekszik, és távolsági buszokkal jól megközelíthető. A megállótól gyorsan elérjük a Nonković-tornyot és a bájos faluközpontot.\nA Stećak Galéria meglátogatása után élvezze a helyi ebédet a kikötőben. A délután a strandé, mielőtt ismét felszállna a Dubrovnik vagy Split felé tartó buszra.",
             "ro": "Klek este situat direct pe Magistrala Adriatică și are conexiuni bune cu autocarul. De la stație ajungeți rapid la Turnul Nonković și în centrul fermecător al satului.\nDupă o vizită la Galeria Stećak, savurați un prânz local în port. După-amiaza aparține plajei, înainte de a lua din nou autobuzul spre Dubrovnik sau Split.",
-            "en": "Klek is located directly on the Adriatic Highway and is well-connected by long-distance buses. From the stop, you quickly reach the Nonković Tower and the charming village center.\nAfter a visit to the Stećak Gallery, enjoy a local lunch at the harbor. The afternoon belongs to the beach before you take the bus towards Dubrovnik or Split again."
+            "en": "Klek is located directly on the Adriatic Highway and is well-connected by long-distance buses. From the stop, you quickly reach the Nonković Tower and the charming village center.\nAfter a visit to the Stećak Gallery, enjoy a local lunch at the harbor. The afternoon belongs to the beach before you take the bus towards Dubrovnik or Split again.",
+            "hr": "Klek se nalazi izravno uz Jadransku magistralu i dobro je povezan međugradskim autobusima. Sa stajališta brzo stižete do Kule Nonković i šarmantnog središta sela.\nNakon posjeta Galeriji Stećak, uživajte u lokalnom ručku u luci. Popodne je rezervirano za plažu prije nego što ponovno uhvatite autobus prema Dubrovniku ili Splitu."
           },
           "stops": [
             {
@@ -2281,13 +2353,15 @@
                 "de": "Bushaltestelle Klek (Magistrale)",
                 "hu": "Klek buszmegálló (Magisztrálé)",
                 "ro": "Stație de autobuz Klek (Magistrală)",
-                "en": "Klek Bus Stop (Magistral)"
+                "en": "Klek Bus Stop (Magistral)",
+                "hr": "Stajalište Klek (Magistrala)"
               },
               "tip_5lang": {
                 "de": "Halt an der Hauptstraße D8.",
                 "hu": "Megálló a D8-as főúton.",
                 "ro": "Oprire pe drumul principal D8.",
-                "en": "Stop on the main road D8."
+                "en": "Stop on the main road D8.",
+                "hr": "Staje na glavnoj cesti D8."
               }
             },
             {
@@ -2295,13 +2369,15 @@
                 "de": "Nonković-Turm",
                 "hu": "Nonković-torony",
                 "ro": "Turnul Nonković",
-                "en": "Nonković Tower"
+                "en": "Nonković Tower",
+                "hr": "Kula Nonković"
               },
               "tip_5lang": {
                 "de": "Kurzer Abstieg zum Meer.",
                 "hu": "Rövid lemenet a tengerhez.",
                 "ro": "Scurtă coborâre spre mare.",
-                "en": "Short descent to the sea."
+                "en": "Short descent to the sea.",
+                "hr": "Kratko spuštanje do mora."
               }
             },
             {
@@ -2309,13 +2385,15 @@
                 "de": "Galerie Stećak",
                 "hu": "Stećak Galéria",
                 "ro": "Galeria Stećak",
-                "en": "Stećak Gallery"
+                "en": "Stećak Gallery",
+                "hr": "Galerija Stećak"
               },
               "tip_5lang": {
                 "de": "Ideal für die Mittagshitze.",
                 "hu": "Ideális a déli hőségben.",
                 "ro": "Ideal pentru canicula de la prânz.",
-                "en": "Ideal for the midday heat."
+                "en": "Ideal for the midday heat.",
+                "hr": "Idealno za podnevnu vrućinu."
               }
             },
             {
@@ -2323,13 +2401,15 @@
                 "de": "Hafen von Klek",
                 "hu": "Klek kikötője",
                 "ro": "Portul Klek",
-                "en": "Port of Klek"
+                "en": "Port of Klek",
+                "hr": "Luka Klek"
               },
               "tip_5lang": {
                 "de": "Mittagessen in Hafennähe.",
                 "hu": "Ebéd a kikötő közelében.",
                 "ro": "Prânz în apropierea portului.",
-                "en": "Lunch near the port."
+                "en": "Lunch near the port.",
+                "hr": "Ručak blizu luke."
               }
             },
             {
@@ -2337,13 +2417,15 @@
                 "de": "Hauptstrand Klek",
                 "hu": "Klek főstrand",
                 "ro": "Plaja principală Klek",
-                "en": "Klek Main Beach"
+                "en": "Klek Main Beach",
+                "hr": "Glavna plaža Klek"
               },
               "tip_5lang": {
                 "de": "Entspannung bis zur Abfahrt.",
                 "hu": "Pihenés az indulásig.",
                 "ro": "Relaxare până la plecare.",
-                "en": "Relaxation until departure."
+                "en": "Relaxation until departure.",
+                "hr": "Odmor do polaska."
               }
             }
           ],
@@ -2445,6 +2527,10 @@
             "en": [
               "Signal the bus driver in time.",
               "The stop is right at the bend."
+            ],
+            "hr": [
+              "Na vrijeme signalizirajte vozaču autobusa.",
+              "Stajalište je upravo na zavoju."
             ]
           }
         },
@@ -2454,7 +2540,7 @@
             "hu": "Érkezzen a kleki buszmegállóba, és használja a várót első menedékként. Sétáljon át a Nonković-toronyhoz.\r\n\r\nDélben a Stećak Galéria tökéletes menekülést kínál az eső elől, miközben a következő buszra vagy a folytatásra vár.\r\n\r\nDélután fedezze fel a kikötőt. A megállók közelsége megkönnyíti a közlekedést esőben is.\r\n\r\nZárja a napot a Klek strandon, mielőtt felszállna a visszaútra tartó buszra.",
             "ro": "Sosiți în stația de autobuz Klek și folosiți adăpostul stației ca refugiu. Mergeți spre Turnul Nonković.\r\n\r\nLa prânz, Galeria Stećak oferă o evadare din calea ploii în timp ce așteptați următorul autobuz.\r\n\r\nDupă-amiaza, explorați portul. Proximitatea stațiilor face deplasarea pe ploaie mai ușoară.\r\n\r\nÎncheiați ziua la plaja Klek înainte de a lua autobuzul pentru întoarcere.",
             "en": "Arrive at the Klek bus stop and use the shelter as your first refuge. Walk to the Nonković Tower.\r\n\r\nAt noon, the Stećak Gallery offers a perfect escape from the rain while you wait for your next connection.\r\n\r\nIn the afternoon, explore the port. The proximity of the stops makes commuting in the rain easier.\r\n\r\nEnd the day at Klek beach before taking the bus back.",
-            "hr": "Dođite na autobusnu stanicu Klek i iskoristite nadstrešnicu kao svoje prvo utočište. Prošećite do kule Nonković.\r\n\r\nU podne, galerija Stećak nudi savršen bijeg od kiše dok čekate sljedeću vezu.\r\n\r\nPoslijepodne istražite luku. Blizina postaja olakšava kretanje po kiši.\r\n\r\nZavršite dan na plaži Klek prije povratka autobusom."
+            "hr": "Stignite na stajalište Klek i koristite zaklon kao prvo utočište. Prošećite do Kule Nonković.\r\n\r\nU podne Galerija Stećak nudi savršen bijeg od kiše dok čekate sljedeće povezivanje.\r\n\r\nPopodne istražite luku. Blizina stajališta olakšava kretanje po kiši.\r\n\r\nZavršite dan na kleškoj plaži prije povratka autobusom."
           },
           "stops": [
             {
@@ -2464,7 +2550,7 @@
                 "hu": "A buszváró megbízható védelmet nyújt a szél és eső ellen.",
                 "ro": "Adăpostul stației oferă o protecție solidă împotriva vântului și ploii.",
                 "en": "The bus shelter offers solid protection from wind and rain.",
-                "hr": "Nadstrešnica nudi solidnu zaštitu od vjetra i kiše."
+                "hr": "Zastakljeni zaklon pruža solidnu zaštitu od vjetra i kiše."
               }
             },
             {
@@ -2474,7 +2560,7 @@
                 "hu": "Csak egy rövid séta a főúttól.",
                 "ro": "La doar o scurtă plimbare de drumul principal.",
                 "en": "Just a short walk from the main road.",
-                "hr": "Just a short walk from the main road."
+                "hr": "Samo kratka šetnja od magistrale."
               }
             },
             {
@@ -2484,7 +2570,7 @@
                 "hu": "Ideális hely a várakozási idő szárazon való eltöltésére.",
                 "ro": "Loc ideal pentru a petrece timpul de așteptare la uscat.",
                 "en": "Ideal place to spend the waiting time in the dry.",
-                "hr": "Idealno mjesto za provođenje vremena čekanja na suhom."
+                "hr": "Idealno mjesto za suho čekanje."
               }
             },
             {
@@ -2494,7 +2580,7 @@
                 "hu": "A közeli kávézókban gyakran tudnak a buszok késéséről.",
                 "ro": "Cafenelele din apropiere au adesea informații despre întârzieri.",
                 "en": "Nearby cafes often have info about bus delays.",
-                "hr": "Obližnji kafići često imaju informacije o kašnjenju autobusa."
+                "hr": "Obližnji kafići često imaju informacije o zakašnjenjima autobusa."
               }
             },
             {
@@ -2504,7 +2590,7 @@
                 "hu": "Figyelje a menetrendet, hogy ne kelljen az esőben várakoznia.",
                 "ro": "Urmăriți orarul pentru a nu aștepta în ploaie.",
                 "en": "Keep an eye on the schedule app to avoid waiting in the rain.",
-                "hr": "Pratite aplikaciju s voznim redom kako biste izbjegli čekanje na kiši."
+                "hr": "Pratite raspored u aplikaciji kako biste izbjegli čekanje na kiši."
               }
             }
           ],
@@ -2534,10 +2620,10 @@
               "Shelters on the main road can be drafty."
             ],
             "hr": [
-              "Koristite aplikacije 'Arriva' ili 'Promet' za podatke u stvarnom vremenu.",
-              "Pripremite točan iznos novca za vozača autobusa.",
-              "Vozni redovi mogu malo varirati tijekom nevremena.",
-              "Nadstrešnice na glavnoj cesti mogu biti na propuhu."
+              "Koristite aplikaciju 'Arriva' ili 'Promet' za podatke u stvarnom vremenu.",
+              "Imajte spreman točan iznos za konduktera/autobusnog vozača.",
+              "Rasporedi se mogu lagano mijenjati za vrijeme oluja.",
+              "Zakloni na magistrali mogu biti propusni za vjetar."
             ]
           }
         },
@@ -2547,7 +2633,7 @@
             "hu": "Érkezzen Klekbe busszal, és szippantson a friss téli levegőbe a főúti megállónál. Látogasson el a Nonković-toronyhoz.\r\n\r\nDélben a Stećak Galéria kulturális kikapcsolódást nyújt a csendes, turistáktól mentes környezetben.\r\n\r\nDélután sétáljon le a kikötőbe. A téli menetrend ritkább járatokat jelent, kalkuláljon ezzel.\r\n\r\nZárja a napot a Klek strandon, és élvezze a békés hangulatot az esti busz érkezéséig.",
             "ro": "Ajungeți în Klek cu autobuzul și respirați aerul proaspăt de iarnă în stația de pe magistrală. Vizitați Turnul Nonković.\r\n\r\nLa prânz, Galeria Stećak oferă o pauză culturală într-un mediu liniștit, fără turiști.\r\n\r\nDupă-amiaza, plimbați-vă spre port. Mersul autobuzelor de iarnă are frecvențe reduse, planificați din timp.\r\n\r\nÎncheiați ziua la plaja Klek și bucurați-vă de atmosfera pașnică până la sosirea autobuzului de seară.",
             "en": "Reach Klek by bus and breathe in the fresh winter air at the Magistral stop. Visit the Nonković Tower.\r\n\r\nAt noon, the Stećak Gallery offers a cultural break in a quiet, tourist-free environment.\r\n\r\nIn the afternoon, stroll to the port. The winter schedule has fewer frequencies, so plan accordingly.\r\n\r\nEnd the day at Klek beach and enjoy the peaceful atmosphere until the evening bus arrives.",
-            "hr": "Dođite u Klek autobusom i udahnite svjež zimski zrak na stanici na Magistrali. Posjetite kulu Nonković.\r\n\r\nU podne, galerija Stećak nudi kulturni odmor u mirnom okruženju bez turista.\r\n\r\nPoslijepodne prošećite do luke. Zimski vozni red ima manje polazaka, pa planirajte u skladu s tim.\r\n\r\nZavršite dan na plaži Klek i uživajte u mirnoj atmosferi do dolaska večernjeg autobusa."
+            "hr": "Stignite u Klek autobusom i udahnite svježi zimski zrak na stajalištu Magistrala. Posjetite Kulu Nonković.\r\n\r\nU podne Galerija Stećak pruža kulturnu pauzu u mirnom, turistički nespoznatom okruženju.\r\n\r\nPopodne prošećite do luke. Zimski raspored ima manje polazaka, pa planirajte unaprijed.\r\n\r\nZavršite dan na kleškoj plaži i uživajte u mirnoj atmosferi do dolaska večernjeg autobusa."
           },
           "stops": [
             {
@@ -2557,7 +2643,7 @@
                 "hu": "Viseljen sapkát, mert az út mentén szeles lehet az idő.",
                 "ro": "Purtați o căciulă, deoarece poate fi vânt de-a lungul drumului.",
                 "en": "Wear a hat as it can be windy along the road.",
-                "hr": "Nosite kapu jer uz cestu može biti vjetrovito."
+                "hr": "Nosite kapu jer može biti vjetrovito uz cestu."
               }
             },
             {
@@ -2577,7 +2663,7 @@
                 "hu": "Jó hely, hogy rövid időre elmeneküljön a hideg elől.",
                 "ro": "Un loc bun pentru a scăpa scurt de frig.",
                 "en": "A good place to briefly escape the cold.",
-                "hr": "Dobro mjesto za kratki bijeg od hladnoće."
+                "hr": "Dobar izbor za kratki bijeg od hladnoće."
               }
             },
             {
@@ -2587,7 +2673,7 @@
                 "hu": "A kávézók télen gyakran csak korlátozottan vannak nyitva.",
                 "ro": "Cafenelele au adesea program limitat în timpul iernii.",
                 "en": "Cafes often have limited opening hours in winter.",
-                "hr": "Kafići zimi često imaju ograničeno radno vrijeme."
+                "hr": "Kafići često imaju ograničeno radno vrijeme zimi."
               }
             },
             {
@@ -2627,9 +2713,9 @@
               "Buy tickets online in advance if possible."
             ],
             "hr": [
-              "Unaprijed provjerite zimski vozni red na internetu.",
-              "Autobusi zimi mogu biti točniji bez ljetnih gužvi.",
-              "Nosite reflektirajuću opremu za čekanje u mraku.",
+              "Provjerite zimski raspored online unaprijed.",
+              "Autobusi mogu biti točniji zimi bez ljetnih gužvi.",
+              "Nosite reflektirajuću opremu dok čekate u mraku.",
               "Kupite karte online unaprijed ako je moguće."
             ]
           }
@@ -2644,7 +2730,8 @@
         "de": "Visit Neum (Nachbarort BiH)",
         "hu": "Visit Neum (szomszédos BiH üdülőhely)",
         "ro": "Visit Neum (staţiune vecină BiH)",
-        "en": "Visit Neum (neighbouring BiH resort)"
+        "en": "Visit Neum (neighbouring BiH resort)",
+        "hr": "Posjetite Neum (susjedno odmaralište u BiH)"
       }
     },
     "national_tourism": {
@@ -2653,7 +2740,8 @@
         "de": "Kroatische Zentrale für Tourismus",
         "hu": "Horvát Idegenforgalmi Hivatal",
         "ro": "Oficiul Naţional de Turism al Croaţiei",
-        "en": "Croatian National Tourist Board"
+        "en": "Croatian National Tourist Board",
+        "hr": "Hrvatska turistička zajednica"
       }
     },
     "weather": {
@@ -2662,7 +2750,8 @@
         "de": "DHMZ Wetterdienst Kroatien",
         "hu": "DHMZ horvát meteorológiai szolgálat",
         "ro": "Serviciul meteo croat DHMZ",
-        "en": "DHMZ Croatian Meteorological Service"
+        "en": "DHMZ Croatian Meteorological Service",
+        "hr": "DHMZ Hrvatska meteorološka služba"
       }
     },
     "roads": {
@@ -2671,7 +2760,8 @@
         "de": "HAK Verkehrsinfo Kroatien",
         "hu": "HAK horvát közlekedési info",
         "ro": "HAK info trafic Croaţia",
-        "en": "HAK Croatian road information"
+        "en": "HAK Croatian road information",
+        "hr": "HAK Hrvatski autoklub – informacije o cestama"
       }
     },
     "airport": {
@@ -2680,7 +2770,8 @@
         "de": "Flughafen Dubrovnik (DBV)",
         "hu": "Dubrovnik repülőtér (DBV)",
         "ro": "Aeroportul Dubrovnik (DBV)",
-        "en": "Dubrovnik Airport (DBV)"
+        "en": "Dubrovnik Airport (DBV)",
+        "hr": "Zračna luka Dubrovnik (DBV)"
       }
     },
     "_city_name": "Klek",
@@ -2690,7 +2781,8 @@
         "de": "Visit Dubrovnik (Tourismusverband Region)",
         "hu": "Visit Dubrovnik (regionális turisztikai iroda)",
         "ro": "Visit Dubrovnik (consiliul turistic regional)",
-        "en": "Visit Dubrovnik (regional tourist board)"
+        "en": "Visit Dubrovnik (regional tourist board)",
+        "hr": "Visit Dubrovnik (županijska turistička zajednica)"
       }
     }
   }

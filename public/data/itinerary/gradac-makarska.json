@@ -21,7 +21,8 @@
             "de": "Lapidarium von Gradac",
             "hu": "Gradaci Lapidárium",
             "ro": "Lapidariul din Gradac",
-            "en": "Gradac Lapidarium"
+            "en": "Gradac Lapidarium",
+            "hr": "Gradac Lapidarium"
           },
           "coords": [
             17.3415,
@@ -36,14 +37,15 @@
             "de": "Kleine Sammlung römischer Funde aus der Region.",
             "hu": "A régió római kori leleteinek kis gyűjteménye.",
             "ro": "Mică colecție de artefacte romane din regiune.",
-            "en": "Small collection of Roman finds from the region."
+            "en": "Small collection of Roman finds from the region.",
+            "hr": "Mala zbirka rimskih nalaza iz regije."
           },
           "tip_5lang": {
             "de": "Klingeln Sie am Eingang, der Kurator öffnet auf Anfrage auch außerhalb der Zeiten.",
             "hu": "Csengessen a bejáratnál, a kurátor nyitvatartáson kívül is megnyitja kérésre.",
             "ro": "Sunați la intrare, custodele deschide la cerere și în afara orelor.",
             "en": "Ring the bell at the entrance — the curator often opens on request, off-hours too.",
-            "hr": "Pozvonite na zvono na ulazu — kustos često otvara na zahtjev, čak i izvan radnog vremena."
+            "hr": "Zazvonite na vrata na ulazu — kustos često otvara na zahtjev i izvan radnog vremena."
           }
         },
         {
@@ -51,7 +53,8 @@
             "de": "Kirche des Hl. Michael",
             "hu": "Szent Mihály templom",
             "ro": "Biserica Sfântul Mihail",
-            "en": "Church of St. Michael"
+            "en": "Church of St. Michael",
+            "hr": "Crkva sv. Mihovila"
           },
           "coords": [
             17.3422,
@@ -66,14 +69,15 @@
             "de": "Die Kirche liegt auf einer kleinen Anhöhe.",
             "hu": "A templom egy kis dombon található.",
             "ro": "Biserica este situată pe o mică colină.",
-            "en": "The church is located on a small hill."
+            "en": "The church is located on a small hill.",
+            "hr": "Crkva se nalazi na malom brežuljku."
           },
           "tip_5lang": {
             "de": "Die geschnitzte Holzkanzel im Inneren stammt aus dem 18. Jahrhundert.",
             "hu": "A belső faragott fa szószék a 18. századból származik.",
             "ro": "Amvonul sculptat din lemn din interior datează din secolul al XVIII-lea.",
             "en": "The carved wooden pulpit inside dates back to the eighteenth century.",
-            "hr": "Rezbarena drvena propovjedaonica u unutrašnjosti potječe iz osamnaestog stoljeća."
+            "hr": "Izrezbareni drveni propovjedaonica iznutra potječe iz osamnaestog stoljeća."
           }
         },
         {
@@ -81,7 +85,8 @@
             "de": "Gradina Festung",
             "hu": "Gradina erőd",
             "ro": "Cetatea Gradina",
-            "en": "Gradina Fortress"
+            "en": "Gradina Fortress",
+            "hr": "Tvrđava Gradina"
           },
           "coords": [
             17.3435,
@@ -96,14 +101,15 @@
             "de": "Überreste aus der Zeit des Kampfes gegen die Türken.",
             "hu": "Maradványok a törökellenes harcok idejéből.",
             "ro": "Rămășițe din timpul luptelor împotriva turcilor.",
-            "en": "Remains from the time of the struggle against the Turks."
+            "en": "Remains from the time of the struggle against the Turks.",
+            "hr": "Ostaci iz doba borbe protiv Turaka."
           },
           "tip_5lang": {
             "de": "Tragen Sie feste Schuhe — der Aufstieg zur Festung ist steinig und uneben.",
             "hu": "Vegyen erős cipőt, az erődhöz vezető út köves és egyenetlen.",
             "ro": "Purtați încălțăminte fermă, urcușul către cetate este pietros și inegal.",
             "en": "Wear sturdy shoes — the climb to the fortress is rocky and uneven.",
-            "hr": "Nosite čvrstu obuću — uspon do utvrde je kamenit i neravan."
+            "hr": "Nosite čvrste cipele — uspon do tvrđave je kamenit i neravan."
           }
         },
         {
@@ -111,7 +117,8 @@
             "de": "Uferpromenade",
             "hu": "Tengerparti sétány",
             "ro": "Faleza",
-            "en": "Waterfront Promenade"
+            "en": "Waterfront Promenade",
+            "hr": "Riva"
           },
           "coords": [
             17.3405,
@@ -126,14 +133,15 @@
             "de": "Zahlreiche Cafés laden zur Mittagspause ein.",
             "hu": "Számos kávézó hívogat egy ebédszünetre.",
             "ro": "Numeroase cafenele vă invită la o pauză de prânz.",
-            "en": "Numerous cafes invite you for a lunch break."
+            "en": "Numerous cafes invite you for a lunch break.",
+            "hr": "Brojni kafići pozivaju na pauzu za ručak."
           },
           "tip_5lang": {
             "de": "Am östlichen Ende gibt es einen kostenlosen Trinkbrunnen, ideal zum Auffüllen.",
             "hu": "A keleti végén ingyenes ivókút található, jó hely a kulacs feltöltésére.",
             "ro": "La capătul estic se află o fântână gratuită, ideală pentru a umple sticla.",
             "en": "At the eastern end there's a free drinking fountain — handy to refill your bottle.",
-            "hr": "Na istočnom kraju nalazi se besplatna česma s pitkom vodom — praktično za punjenje boce."
+            "hr": "Na istočnom kraju nalazi se javni česma — zgodno za dopunjavanje boce."
           }
         },
         {
@@ -141,7 +149,8 @@
             "de": "Gornja Vala Strand",
             "hu": "Gornja Vala strand",
             "ro": "Plaja Gornja Vala",
-            "en": "Gornja Vala Beach"
+            "en": "Gornja Vala Beach",
+            "hr": "Plaža Gornja Vala"
           },
           "coords": [
             17.3355,
@@ -156,14 +165,15 @@
             "de": "Einer der längsten und schönsten Strände der Riviera.",
             "hu": "A Riviéra egyik leghosszabb és legszebb strandja.",
             "ro": "Una dintre cele mai lungi și frumoase plaje de pe rivieră.",
-            "en": "One of the longest and most beautiful beaches on the Riviera."
+            "en": "One of the longest and most beautiful beaches on the Riviera.",
+            "hr": "Jedna od najdužih i najljepših plaža na Rivijeri."
           },
           "tip_5lang": {
             "de": "Bringen Sie Badeschuhe mit, der Kiesel ist hier ungewöhnlich scharfkantig.",
             "hu": "Hozzon strandcipőt, az itteni kavics szokatlanul éles szélű.",
             "ro": "Aduceți încălțăminte de apă, pietrișul este aici neobișnuit de tăios.",
             "en": "Bring water shoes — the pebbles here are unusually sharp underfoot.",
-            "hr": "Ponesite obuću za vodu — šljunak je ovdje neobično oštar pod nogama."
+            "hr": "Ponesite obuću za vodu — oblutci su ovdje neobično oštri pod nogama."
           }
         },
         {
@@ -171,7 +181,8 @@
             "de": "Aussichtspunkt Sveti Paško",
             "hu": "Sveti Paško kilátó",
             "ro": "Punct de belvedere Sveti Paško",
-            "en": "Sveti Paško Viewpoint"
+            "en": "Sveti Paško Viewpoint",
+            "hr": "Vidikovac Sveti Paško"
           },
           "coords": [
             17.3485,
@@ -186,14 +197,15 @@
             "de": "Steiler Aufstieg, aber der Blick lohnt sich.",
             "hu": "Meredek emelkedő, de a kilátás megéri.",
             "ro": "Urcare abruptă, dar priveliștea merită.",
-            "en": "Steep climb, but the view is worth it."
+            "en": "Steep climb, but the view is worth it.",
+            "hr": "Strm uspon, ali pogled se isplati."
           },
           "tip_5lang": {
             "de": "Bei klarem Wetter sieht man von hier bis zur Halbinsel Pelješac.",
             "hu": "Tiszta időben innen egészen a Pelješac-félszigetig ellát.",
             "ro": "Pe vreme senină, de aici se vede până la peninsula Pelješac.",
             "en": "On clear days you can see all the way to the Pelješac peninsula from here.",
-            "hr": "Za vedrih dana s ovog se mjesta vidi sve do poluotoka Pelješca."
+            "hr": "U vedrim danima s ovdje možete vidjeti sve do poluotoka Pelješac."
           }
         }
       ],
@@ -202,7 +214,7 @@
         "hu": "Fedezzük fel Gradac gazdag történelmét a Makarska Riviéra déli végén. A délelőtt a régészeté és a régi Gradina erődé. Délben élvezzük a pezsgő életet a kilométer hosszú tengerparti sétányon. A délután a pihenésé a Gornja Vala strandon, mielőtt felkapaszkodnánk a Sveti Paško kilátóhoz.",
         "ro": "Descoperiți istoria bogată a localității Gradac, la capătul sudic al Rivierei Makarska. Dimineața este dedicată arheologiei și vechii cetăți Gradina. La prânz vă bucurați de animația de pe faleza lungă de kilometri. După-amiaza este dedicată relaxării pe plaja Gornja Vala, înainte de a urca la punctul de belvedere Sveti Paško.",
         "en": "Discover the rich history of Gradac at the southern end of the Makarska Riviera. The morning is dedicated to archaeology and the old Gradina fortress. At noon, enjoy the lively atmosphere on the kilometer-long waterfront promenade. The afternoon is all about relaxation at Gornja Vala Beach, before climbing up to the Sveti Paško viewpoint.",
-        "hr": "Otkrijte bogatu povijest Gradca na samom jugu Makarske rivijere. Jutro je posvećeno arheologiji i staroj utvrdi Gradina. U podne uživajte u živahnoj atmosferi na kilometar dugoj šetnici uz more. Poslijepodne je rezervirano za opuštanje na plaži Gornja Vala, prije uspona na vidikovac Sveti Paško."
+        "hr": "Otkrijte bogatu povijest Gradca na južnom kraju Makarske rivijere. Jutro je posvećeno arheologiji i staroj tvrđavi Gradina. U podne uživajte u živahnoj atmosferi kilometar duge rive. Poslijepodne je za opuštanje na plaži Gornja Vala, prije uspona na vidikovac Sveti Paško."
       },
       "gastro_picks": {
         "de": [
@@ -396,10 +408,10 @@
           "Parking in the center is often difficult, use hotel parking lots."
         ],
         "hr": [
-          "Gradac je idealno polazište za izlete u Mostar ili Dubrovnik.",
-          "Plaža Gornja Vala ima sitni šljunak, ali se i dalje preporučuje obuća za vodu.",
-          "Ljeti se održavaju brojne ribarske večeri uz glazbu.",
-          "Parkiranje u centru često je otežano, koristite hotelska parkirališta."
+          "Gradac je idealna polazna točka za izlete do Mostara ili Dubrovnika.",
+          "Plaža Gornja Vala ima sitne oblutke, ali obuća za vodu je ipak preporučljiva.",
+          "Ljeti se održava mnogo ribarskih večeri uz glazbu.",
+          "Parkiranje u centru je često teško, koristite hotelske parkirališta."
         ]
       },
       "variants": {
@@ -408,7 +420,8 @@
             "de": "Entdecken Sie die reiche Geschichte von Gradac am südlichen Ende der Makarska Riviera. Der Vormittag gehört der Archäologie und der alten Festung Gradina. Mittags genießen Sie das lebhafte Treiben auf der kilometerlangen Uferpromenade. Der Nachmittag steht im Zeichen der Entspannung am Gornja Vala Strand, bevor Sie zum Aussichtspunkt Sveti Paško aufsteigen.",
             "hu": "Fedezzük fel Gradac gazdag történelmét a Makarska Riviéra déli végén. A délelőtt a régészeté és a régi Gradina erődé. Délben élvezzük a pezsgő életet a kilométer hosszú tengerparti sétányon. A délután a pihenésé a Gornja Vala strandon, mielőtt felkapaszkodnánk a Sveti Paško kilátóhoz.",
             "ro": "Descoperiți istoria bogată a localității Gradac, la capătul sudic al Rivierei Makarska. Dimineața este dedicată arheologiei și vechii cetăți Gradina. La prânz vă bucurați de animația de pe faleza lungă de kilometri. După-amiaza este dedicată relaxării pe plaja Gornja Vala, înainte de a urca la punctul de belvedere Sveti Paško.",
-            "en": "Discover the rich history of Gradac at the southern end of the Makarska Riviera. The morning is dedicated to archaeology and the old Gradina fortress. At noon, enjoy the lively atmosphere on the kilometer-long waterfront promenade. The afternoon is all about relaxation at Gornja Vala Beach, before climbing up to the Sveti Paško viewpoint."
+            "en": "Discover the rich history of Gradac at the southern end of the Makarska Riviera. The morning is dedicated to archaeology and the old Gradina fortress. At noon, enjoy the lively atmosphere on the kilometer-long waterfront promenade. The afternoon is all about relaxation at Gornja Vala Beach, before climbing up to the Sveti Paško viewpoint.",
+            "hr": "Otkrijte bogatu povijest Gradca na južnom kraju Makarske rivijere. Jutro je posvećeno arheologiji i staroj tvrđavi Gradina. U podne uživajte u živahnoj atmosferi kilometar duge rive. Poslijepodne je za opuštanje na plaži Gornja Vala, prije uspona na vidikovac Sveti Paško."
           },
           "stops": [
             {
@@ -416,7 +429,8 @@
                 "de": "Lapidarium von Gradac",
                 "hu": "Gradaci Lapidárium",
                 "ro": "Lapidariul din Gradac",
-                "en": "Gradac Lapidarium"
+                "en": "Gradac Lapidarium",
+                "hr": "Gradac Lapidarium"
               },
               "tip_5lang": null
             },
@@ -425,7 +439,8 @@
                 "de": "Kirche des Hl. Michael",
                 "hu": "Szent Mihály templom",
                 "ro": "Biserica Sfântul Mihail",
-                "en": "Church of St. Michael"
+                "en": "Church of St. Michael",
+                "hr": "Crkva sv. Mihovila"
               },
               "tip_5lang": null
             },
@@ -434,7 +449,8 @@
                 "de": "Gradina Festung",
                 "hu": "Gradina erőd",
                 "ro": "Cetatea Gradina",
-                "en": "Gradina Fortress"
+                "en": "Gradina Fortress",
+                "hr": "Tvrđava Gradina"
               },
               "tip_5lang": null
             },
@@ -443,7 +459,8 @@
                 "de": "Uferpromenade",
                 "hu": "Tengerparti sétány",
                 "ro": "Faleza",
-                "en": "Waterfront Promenade"
+                "en": "Waterfront Promenade",
+                "hr": "Riva"
               },
               "tip_5lang": null
             },
@@ -452,7 +469,8 @@
                 "de": "Gornja Vala Strand",
                 "hu": "Gornja Vala strand",
                 "ro": "Plaja Gornja Vala",
-                "en": "Gornja Vala Beach"
+                "en": "Gornja Vala Beach",
+                "hr": "Plaža Gornja Vala"
               },
               "tip_5lang": null
             },
@@ -461,7 +479,8 @@
                 "de": "Aussichtspunkt Sveti Paško",
                 "hu": "Sveti Paško kilátó",
                 "ro": "Punct de belvedere Sveti Paško",
-                "en": "Sveti Paško Viewpoint"
+                "en": "Sveti Paško Viewpoint",
+                "hr": "Vidikovac Sveti Paško"
               },
               "tip_5lang": null
             }
@@ -624,6 +643,12 @@
               "Gornja Vala Beach has fine pebbles, but water shoes are still advisable.",
               "In summer, there are many fisherman's evenings with music.",
               "Parking in the center is often difficult, use hotel parking lots."
+            ],
+            "hr": [
+              "Gradac je idealna polazna točka za izlete do Mostara ili Dubrovnika.",
+              "Plaža Gornja Vala ima sitne oblutke, ali obuća za vodu je ipak preporučljiva.",
+              "Ljeti se održava mnogo ribarskih večeri uz glazbu.",
+              "Parkiranje u centru je često teško, koristite hotelske parkirališta."
             ]
           }
         },
@@ -633,7 +658,7 @@
             "hu": "Kezdje az esős délelőttöt a Lapidariumban és a Szent Mihály-templomban, amelyek védelmet nyújtanak az elemektől. Délben látogasson el a Gradina-erődhöz, ahol a nedves kövek különleges hangulatot árasztanak. Délután tegyen egy sétát ernyővel a tengerparti sétányon és a Gornja Vala strandon, figyelve a hullámzó tengert. Az estét a Sveti Paško kilátónál zárja, ahol az esőfelhők drámai látványt nyújtanak az Adria felett.",
             "ro": "Începeți dimineața ploioasă la Lapidarium și Biserica Sf. Mihail, care oferă adăpost uscat. La prânz, mergeți la Cetatea Gradina, unde piatra veche strălucește sub ploaie. După-amiaza, plimbați-vă cu umbrela pe faleză și pe plaja Gornja Vala pentru a admira marea agitată. Încheiați seara la punctul de belvedere Sveti Paško, urmărind norii care se mișcă rapid deasupra Adriaticii.",
             "en": "Start your rainy morning at the Lapidarium and St. Michael's Church, offering dry refuge. At noon, head to Gradina Fortress, where the old stones glisten in the rain. In the afternoon, take an umbrella stroll along the promenade and Gornja Vala beach to watch the moody sea. End the evening at the Sveti Paško viewpoint, as the rain clouds create a dramatic scene over the Adriatic.",
-            "hr": "Započnite kišno jutro u Lapidariju i crkvi sv. Mihovila koji nude suho utočište. U podne se uputite prema utvrdi Gradina, gdje staro kamenje blista na kiši. Poslijepodne prošećite s kišobranom uz rivu i plažu Gornja Vala promatrajući uzburkano more. Večer završite na vidikovcu Sveti Paško, dok kišni oblaci stvaraju dramatičan prizor nad Jadranom."
+            "hr": "Započnite kišno jutro u Lapidariju i crkvi sv. Mihovila, koje nude suhi zaklon. U podne uputite se prema tvrđavi Gradina, gdje stari kameni zidovi sjaje na kiši. Poslijepodne napravite šetnju s kišobranom duž rive i plaže Gornja Vala kako biste promatrali tmurno more. Završite večer na vidikovcu Sveti Paško, dok oblaci kiše stvaraju dramatičan prizor nad Jadranom."
           },
           "stops": [
             {
@@ -642,7 +667,8 @@
                 "de": "Perfekter Ort, um dem ersten Regenschauer des Tages trocken zu entkommen.",
                 "hu": "Tökéletes hely, hogy szárazon megússza a nap első záporát.",
                 "ro": "Locul perfect pentru a scăpa de prima ploaie a zilei.",
-                "en": "Perfect place to escape the first downpour of the day while staying dry."
+                "en": "Perfect place to escape the first downpour of the day while staying dry.",
+                "hr": "Savršeno mjesto za izbjegavanje prve dnevne pljuske dok ostajete suhi."
               }
             },
             {
@@ -651,7 +677,8 @@
                 "de": "Nutzen Sie die Stille im Inneren, während draußen der Regen auf das Dach prasselt.",
                 "hu": "Élvezze a benti csendet, miközben kint az eső kopog a tetőn.",
                 "ro": "Bucurați-vă de liniștea din interior în timp ce ploaia bate în acoperiș.",
-                "en": "Enjoy the interior silence while the rain patters on the roof outside."
+                "en": "Enjoy the interior silence while the rain patters on the roof outside.",
+                "hr": "Uživajte u tišini unutrašnjosti dok kiša udarajući po krovu svira vani."
               }
             },
             {
@@ -660,7 +687,8 @@
                 "de": "Vorsicht auf den nassen Steinen; sie können beim Aufstieg rutschig sein.",
                 "hu": "Vigyázzon a nedves köveken; felfelé menet csúszósak lehetnek.",
                 "ro": "Atenție pe pietrele ude; pot fi alunecoase în timpul urcării.",
-                "en": "Be careful on the wet stones; they can be slippery during the ascent."
+                "en": "Be careful on the wet stones; they can be slippery during the ascent.",
+                "hr": "Budite oprezni na mokrim kamenima; tijekom uspona mogu biti klizavi."
               }
             },
             {
@@ -669,7 +697,8 @@
                 "de": "Ein stabiler Windschirm ist hier aufgrund der Meeresbrise unerlässlich.",
                 "hu": "Egy stabil, szélálló esernyő elengedhetetlen a tengeri szellő miatt.",
                 "ro": "O umbrelă rezistentă la vânt este esențială aici din cauza brizelor marine.",
-                "en": "A sturdy windproof umbrella is essential here due to the sea breezes."
+                "en": "A sturdy windproof umbrella is essential here due to the sea breezes.",
+                "hr": "Ovdje je bitan čvrst vjetrootporni kišobran zbog morskih povjetaraca."
               }
             },
             {
@@ -678,7 +707,8 @@
                 "de": "Beobachten Sie die Wellen von einem der überdachten Cafés am Strandrand.",
                 "hu": "Figyelje a hullámokat a strand szélén található fedett kávézók egyikéből.",
                 "ro": "Observați valurile de la una dintre cafenelele acoperite de la marginea plajei.",
-                "en": "Watch the waves from one of the covered cafes at the edge of the beach."
+                "en": "Watch the waves from one of the covered cafes at the edge of the beach.",
+                "hr": "Promatrajte valove iz jednog od natkrivenih kafića na rubu plaže."
               }
             },
             {
@@ -687,7 +717,8 @@
                 "de": "Die Sicht auf die stürmische Adria ist bei Regen besonders dramatisch.",
                 "hu": "A viharos Adria látványa esőben különösen drámai a kilátóból.",
                 "ro": "Vederea asupra Adriaticii furtunoase este deosebit de dramatică pe ploaie.",
-                "en": "The view of the stormy Adriatic is particularly dramatic in the rain."
+                "en": "The view of the stormy Adriatic is particularly dramatic in the rain.",
+                "hr": "Pogled na burni Jadran posebno je dramatičan po kiši."
               }
             }
           ],
@@ -717,10 +748,10 @@
               "Check the wind forecast, as rain is often accompanied by strong Jugo wind."
             ],
             "hr": [
-              "Nosite vodootpornu obuću za pješačenje po popločanim stazama.",
-              "Kafići na rivi nude ugodno utočište tijekom jakih pljuskova.",
-              "Stavite mobitel u vodootpornu masku za fotografiranje.",
-              "Provjerite prognozu vjetra jer kišu često prati jako jugo."
+              "Nosite vodootpornu planinarsku obuću za popločane staze.",
+              "Kafići na rivi nude ugodne zaklone tijekom jakih pljuskova.",
+              "Stavite telefon u vodootporno kućište za fotografiranje.",
+              "Provjerite prognozu vjetra, jer kišu često prati snažni jugo."
             ]
           }
         },
@@ -730,7 +761,7 @@
             "hu": "Fedezze fel a hűvös téli reggelen a Lapidariumot és a Szent Mihály-templomot a szokásos tömeg nélkül. Délben a Gradina-erőd tiszta téli levegője fantasztikus távlatokat nyit. Délután sétáljon tempósan a sétányon a magányos Gornja Vala strandig, ahol csak a hullámok zúgása hallatszik. Mivel a nap 16:30 körül nyugszik, érjen fel időben a Sveti Paško kilátóhoz a hideg, bíborvörös alkonyi fényekért.",
             "ro": "Explorați în dimineața răcoroasă de iarnă Lapidarium și Biserica Sf. Mihail, fără mulțimile obișnuite. La prânz, Cetatea Gradina oferă o vizibilitate fantastică datorită aerului curat. După-amiaza, plimbați-vă alert pe faleză până la plaja pustie Gornja Vala, unde se aude doar sunetul valurilor. Deoarece soarele apune în jur de 16:30, ajungeți la Sveti Paško la timp pentru lumina purpurie a înserării.",
             "en": "Explore the Lapidarium and St. Michael's Church on a crisp winter morning without the usual crowds. At noon, Gradina Fortress offers fantastic distant views through the clear winter air. In the afternoon, walk briskly along the promenade to the lonely Gornja Vala beach, where only the waves can be heard. Since the sun sets around 16:30, reach the Sveti Paško viewpoint in time for the cold, purple twilight.",
-            "hr": "Istražite Lapidarij i crkvu sv. Mihovila u svježe zimsko jutro bez uobičajene gužve. U podne utvrda Gradina nudi fantastične daleke poglede kroz čisti zimski zrak. Poslijepodne žustro prošećite rivom do osamljene plaže Gornja Vala, gdje se čuju samo valovi. Budući da sunce zalazi oko 16:30, na vidikovac Sveti Paško dođite na vrijeme za hladni, ljubičasti sumrak."
+            "hr": "Istražite Lapidarij i crkvu sv. Mihovila u svježem zimskom jutru bez uobičajenih gužvi. U podne tvrđava Gradina nudi fantastične udaljene vidike kroz bistar zimski zrak. Poslijepodne brzo prošetajte rivom do usamljene plaže Gornja Vala, gdje se čuje samo šum valova. Budući da sunce zalazi oko 16:30, stigite na vidikovac Sveti Paško na vrijeme za hladan, ljubičasti sumrak."
           },
           "stops": [
             {
@@ -739,7 +770,8 @@
                 "de": "Genießen Sie die Ruhe; im Winter haben Sie die Exponate fast für sich.",
                 "hu": "Élvezze a nyugalmat; télen szinte egyedül nézheti meg a kiállítási tárgyakat.",
                 "ro": "Bucurați-vă de liniște; iarna aveți exponatele aproape doar pentru dumneavoastră.",
-                "en": "Enjoy the peace; in winter you'll have the exhibits almost to yourself."
+                "en": "Enjoy the peace; in winter you'll have the exhibits almost to yourself.",
+                "hr": "Uživajte u miru; zimi ćete izložbe imati gotovo za sebe."
               }
             },
             {
@@ -748,7 +780,8 @@
                 "de": "Ein friedlicher Rückzugsort, der im Winter besonders andächtig wirkt.",
                 "hu": "Békés menedékhely, amely télen különösen áhítatosnak tűnik.",
                 "ro": "Un refugiu liniștit care pare deosebit de evlavios în timpul iernii.",
-                "en": "A peaceful retreat that feels particularly solemn in winter."
+                "en": "A peaceful retreat that feels particularly solemn in winter.",
+                "hr": "Mirno utočište koje zimi djeluje posebno dostojanstveno."
               }
             },
             {
@@ -757,7 +790,8 @@
                 "de": "Ziehen Sie sich warm an, der Wind auf den Mauern kann im Winter schneidend sein.",
                 "hu": "Öltözzön melegen, az erőd falain a szél télen metsző lehet.",
                 "ro": "Îmbrăcați-vă gros, vântul de pe ziduri poate fi tăios în timpul iernii.",
-                "en": "Dress warmly, as the wind on the fortress walls can be biting in winter."
+                "en": "Dress warmly, as the wind on the fortress walls can be biting in winter.",
+                "hr": "Obucite se toplo, jer vjetar na zidinama tvrđave može zaboljeti zimi."
               }
             },
             {
@@ -766,7 +800,8 @@
                 "de": "Perfekt für einen erfrischenden Spaziergang in der kräftigen Wintersonne.",
                 "hu": "Tökéletes egy frissítő sétához az erős téli napsütésben.",
                 "ro": "Perfect pentru o plimbare revigorantă sub soarele puternic de iarnă.",
-                "en": "Perfect for a refreshing walk in the strong winter sun."
+                "en": "Perfect for a refreshing walk in the strong winter sun.",
+                "hr": "Savršeno za osvježavajuću šetnju na jakom zimskom suncu."
               }
             },
             {
@@ -775,7 +810,8 @@
                 "de": "Keine Badegäste, dafür eine meditative Stille am weitläufigen Kiesstrand.",
                 "hu": "Nincsenek fürdőzők, helyette meditatív csend várja a kavicsos strandon.",
                 "ro": "Fără turiști la scăldat, ci o liniște meditativă pe plaja cu pietriș.",
-                "en": "No swimmers, instead a meditative silence on the expansive pebble beach."
+                "en": "No swimmers, instead a meditative silence on the expansive pebble beach.",
+                "hr": "Nema kupača, umjesto toga meditativna tišina na prostranoj šljunčanoj plaži."
               }
             },
             {
@@ -784,7 +820,8 @@
                 "de": "Planen Sie den Aufstieg für 16:00 Uhr, um den frühen Sonnenuntergang zu sehen.",
                 "hu": "Tervezze a feljutást 16:00-ra, hogy láthassa a korai naplementét.",
                 "ro": "Planificați urcarea pentru ora 16:00 pentru a vedea apusul devreme.",
-                "en": "Plan the ascent for 16:00 to catch the early winter sunset."
+                "en": "Plan the ascent for 16:00 to catch the early winter sunset.",
+                "hr": "Planirajte uspon za 16:00 kako biste uhvatili raniji zimski zalazak sunca."
               }
             }
           ],
@@ -814,10 +851,10 @@
               "Take advantage of clear days for the best visibility of the entire year."
             ],
             "hr": [
-              "Odjenite se slojevito: sunce vas grije, ali je u hladu vrlo hladno.",
-              "Pripazite na buru; može otežati hodanje na izloženim dijelovima.",
-              "Većina turističkih štandova je zatvorena, pa ponesite termosicu s toplim napitkom.",
-              "Iskoristite vedre dane za najbolju vidljivost u cijeloj godini."
+              "Obucite se u slojevima: sunce vas zagrije, ali hladovina je vrlo hladna.",
+              "Pazite na buru; može otežati hodanje na izloženim dijelovima.",
+              "Većina turističkih kioska je zatvorena, pa ponesite termosicu s toplim napitkom.",
+              "Iskoristite bistre dane za najbolju vidljivost u godini."
             ]
           }
         }
@@ -844,19 +881,22 @@
       "de": "Tourist-Info-Buero und Hotels sprechen Deutsch, kleine Konobas oft nur Kroatisch oder einfaches Englisch.",
       "hu": "Az idegenforgalmi iroda es a szallodak beszelnek nemetul, kis konobakban gyakran csak horvatul vagy alap angolul.",
       "ro": "Biroul de turism si hotelurile vorbesc germana si engleza, in konobele mici doar croata sau engleza simpla.",
-      "en": "Tourist office and hotels speak German and English, small konobas often Croatian only or basic English."
+      "en": "Tourist office and hotels speak German and English, small konobas often Croatian only or basic English.",
+      "hr": "Turistički ured i hoteli govore njemački i engleski, male konobe često samo hrvatski ili osnovni engleski."
     },
     "best_time": {
       "de": "Juni und September: warmes Meer (rund 190 Badetage), weniger voll als Juli/August.",
       "hu": "Junius es szeptember: meleg tenger (kb. 190 furdonap), kevesbe zsufolt mint julius-augusztus.",
       "ro": "Iunie si septembrie: mare calda (cca. 190 zile de baie), mai putin aglomerat decat iulie-august.",
-      "en": "June and September: warm sea (about 190 swimming days), less crowded than July-August."
+      "en": "June and September: warm sea (about 190 swimming days), less crowded than July-August.",
+      "hr": "Lipanj i rujan: toplo more (oko 190 dana za kupanje), manje gužve nego u srpnju i kolovozu."
     },
     "neighborhood_warnings": {
       "de": "Kieselstrand, Badeschuhe empfohlen; D8-Kuestenstrasse nachts schmal und kurvig.",
       "hu": "Kavicsos strand, furdocipo ajanlott; a D8 parti ut ejjel keskeny es kanyargos.",
       "ro": "Plaja cu pietris, papuci de baie recomandati; soseaua D8 ingusta si in serpentine noaptea.",
-      "en": "Pebble beach, water shoes recommended; D8 coastal road narrow and winding at night."
+      "en": "Pebble beach, water shoes recommended; D8 coastal road narrow and winding at night.",
+      "hr": "Šljunčana plaža, preporučene vodene cipele; obalna cesta D8 uska i vijugava noću."
     },
     "transit_official": null
   }

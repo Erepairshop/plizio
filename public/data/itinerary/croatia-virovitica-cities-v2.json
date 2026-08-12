@@ -21,7 +21,8 @@
             "de": "Theater",
             "hu": "Színház",
             "ro": "Teatru",
-            "en": "Theater"
+            "en": "Theater",
+            "hr": "Kazalište"
           },
           "coords": [
             17.382628,
@@ -36,7 +37,8 @@
             "de": "Bewundern Sie die Architektur dieses lokalen Kulturzentrums, das für seine Aufführungen bekannt ist, und prüfen Sie vorab den aktuellen Spielplan.",
             "hu": "Csodálja meg e helyi kulturális központ építészetét, amely remek előadásairól ismert, és érdemes előre tájékozódni az aktuális műsorról a bejáratnál.",
             "ro": "Admirați arhitectura acestui centru cultural local, renumit pentru spectacolele sale captivante, și verificați din timp programul evenimentelor viitoare.",
-            "en": "Admire the striking architecture of this local cultural hub known for engaging performances, and check the schedule early for any upcoming shows."
+            "en": "Admire the striking architecture of this local cultural hub known for engaging performances, and check the schedule early for any upcoming shows.",
+            "hr": "Divite se upečatljivoj arhitekturi ovog lokalnog kulturnog središta poznatog po angažiranim predstavama i rano provjerite raspored za nadolazeće izvedbe."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Stadtmusik Virovitica",
             "hu": "Városi Zenei Pavilon",
             "ro": "Muzica Orașului Virovitica",
-            "en": "City Music Virovitica"
+            "en": "City Music Virovitica",
+            "hr": "Gradska glazba Virovitica"
           },
           "coords": [
             17.383198,
@@ -59,7 +62,8 @@
             "de": "Erleben Sie die musikalische Tradition der Stadt in diesem historischen Pavillon, wo Sie am besten nachmittags den probenden Musikern lauschen können.",
             "hu": "Élvezze a város zenei hagyományait ebben a történelmi pavilonban, ahol a legérdemesebb hallgatni az itt próbáló tehetséges helyi zenészeket.",
             "ro": "Experimentați tradiția muzicală a orașului în acest pavilion istoric, cel mai bine vizitat pentru a asculta muzicienii locali la repetiții acustice.",
-            "en": "Experience the musical tradition of the city at this historic pavilion, which is best visited in the afternoon to catch local musicians rehearsing."
+            "en": "Experience the musical tradition of the city at this historic pavilion, which is best visited in the afternoon to catch local musicians rehearsing.",
+            "hr": "Iskusite glazbenu tradiciju grada u ovom povijesnom paviljonu, koji je najbolje posjetiti popodne da biste uhvatili vježbe lokalnih glazbenika."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stadtmuseum Virovitica",
             "hu": "Viroviticai Városi Múzeum",
             "ro": "Muzeul Orașului Virovitica",
-            "en": "Virovitica City Museum"
+            "en": "Virovitica City Museum",
+            "hr": "Gradski muzej Virovitica"
           },
           "coords": [
             17.385673,
@@ -82,7 +87,8 @@
             "de": "Entdecken Sie im prachtvollen Schloss Pejačević die faszinierende Geschichte der Stadt, und achten Sie besonders auf die kunstvoll verzierten Holzmöbel.",
             "hu": "Fedezze fel a gyönyörű Pejačević-kastélyban a város lenyűgöző történelmét, és fordítson különös figyelmet a gazdagon díszített fafaragásokra.",
             "ro": "Descoperiți istoria fascinantă a orașului în splendidul Castel Pejačević, acordând o atenție deosebită mobilierului din lemn bogat ornamentat.",
-            "en": "Discover the city's fascinating history within the splendid Pejačević Castle, paying special attention to the beautifully ornate wooden furniture exhibits."
+            "en": "Discover the city's fascinating history within the splendid Pejačević Castle, paying special attention to the beautifully ornate wooden furniture exhibits.",
+            "hr": "Otkrijte fascinantnu povijest grada u raskošnom dvorcu Pejačević, posebno obratite pozornost na prekrasno ukrašeni drveni namještaj."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Spielplatz Suvara",
             "hu": "Suvara Játszótér",
             "ro": "Loc de joacă Suvara",
-            "en": "Suvara Playground"
+            "en": "Suvara Playground",
+            "hr": "Igralište Suvara"
           },
           "coords": [
             17.393217,
@@ -105,7 +112,8 @@
             "de": "Lassen Sie die Kinder auf diesem lebhaften Spielplatz im Osten der Stadt toben, wo bequeme Bänke im Schatten perfekte Plätze für eine kurze Pause bieten.",
             "hu": "Hagyja, hogy a gyerekek kikapcsolódjanak ezen a keleti fekvésű játszótéren, ahol a kényelmes, árnyékos padok tökéletesek egy rövid pihenőre.",
             "ro": "Lăsați copiii să se joace pe acest loc de joacă animat din estul orașului, unde băncile confortabile la umbră oferă locuri perfecte pentru odihnă.",
-            "en": "Let the kids burn off energy at this lively eastern playground, where comfortable shaded benches offer parents a perfect spot for a quick rest."
+            "en": "Let the kids burn off energy at this lively eastern playground, where comfortable shaded benches offer parents a perfect spot for a quick rest.",
+            "hr": "Neka djeca istroše energiju na ovom živahnom istočnom igralištu, gdje udobne klupe u hladu nude roditeljima savršeno mjesto za kratki odmor."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Spielplatz Südblock",
             "hu": "Déli Blokk Játszótér",
             "ro": "Loc de joacă Blocul de Sud",
-            "en": "South Block Playground"
+            "en": "South Block Playground",
+            "hr": "Igralište Južni blok"
           },
           "coords": [
             17.380878,
@@ -128,7 +137,8 @@
             "de": "Dieser familienfreundliche Park bietet viel Platz für Freiluftaktivitäten, bringen Sie also unbedingt Snacks für ein kleines Picknick auf dem Rasen mit.",
             "hu": "Ez a családbarát park rengeteg teret kínál a szabadtéri tevékenységekhez, ezért mindenképpen hozzon magával rágcsálnivalót egy kellemes piknikhez.",
             "ro": "Acest parc prietenos cu familiile oferă mult spațiu pentru activități în aer liber, așa că asigurați-vă că aduceți gustări pentru un picnic pe iarbă.",
-            "en": "This family-friendly park offers ample space for outdoor activities, so be sure to bring some snacks for a relaxing afternoon picnic on the green grass."
+            "en": "This family-friendly park offers ample space for outdoor activities, so be sure to bring some snacks for a relaxing afternoon picnic on the green grass.",
+            "hr": "Ovaj park prilagođen obiteljima nudi dovoljno prostora za aktivnosti na otvorenom, pa ponesite grickalice za opušteni popodnevni piknik na zelenoj travi."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Tag mit einem kulturellen Einblick im Theater der Stadt, umgeben von historischem Flair. Mittags lockt das beeindruckende Stadtmuseum im Schloss Pejačević mit faszinierenden Ausstellungen. Nachmittags können sich Familien auf den charmanten Spielplätzen im Osten entspannen. Am Abend bietet der Južni blok den perfekten Ausklang unter freiem Himmel.",
         "hu": "Kezdje a napot egy kulturális merítkezéssel a városi színháznál, ahol megcsodálhatja a történelmi hangulatot. Délben a Pejačević-kastélyban található Városi Múzeum lenyűgöző kiállításai várják. Délután a keleti városrész hangulatos játszóterein kapcsolódhat ki a család. Este a Južni blokk nyugodt zöldje tökéletes a nap méltó lezárásához.",
         "ro": "Începeți ziua cu o imersiune culturală la teatrul orașului, bucurându-vă de atmosfera istorică. La prânz, uimitorul Muzeu al Orașului din Castelul Pejačević vă atrage cu expoziții fascinante. După-amiaza, familiile se pot relaxa în parcurile de joacă fermecătoare din est. Seara, parcul Južni blok oferă un final perfect în aer liber.",
-        "en": "Start your day with a cultural dive at the city's theater, soaking in the charming historical atmosphere. By midday, the stunning City Museum housed in Pejačević Castle beckons with fascinating exhibits. In the afternoon, families can enjoy relaxing moments at the lively eastern playgrounds. Evening falls beautifully over the Južni blok park."
+        "en": "Start your day with a cultural dive at the city's theater, soaking in the charming historical atmosphere. By midday, the stunning City Museum housed in Pejačević Castle beckons with fascinating exhibits. In the afternoon, families can enjoy relaxing moments at the lively eastern playgrounds. Evening falls beautifully over the Južni blok park.",
+        "hr": "Započnite dan kulturološkim uronom u gradskom kazalištu i upijte šarm povijesne atmosfere. U podne vas očekuje zadivljujući Gradski muzej u dvorcu Pejačević s zanimljivim izložbama. Popodne obitelji mogu uživati na živahnim istočnim igralištima. Večer se prekrasno spušta nad parkom Južni blok."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den Morgen im trockenen Theater. Mittags bietet das Stadtmuseum Schutz vor den Güssen. Nachmittags sind die Spielplätze nass, also Vorsicht vor Pfützen. Am Abend ziehen Sie sich in ein warmes Café zurück, während der Regen draußen an die Scheiben peitscht.",
             "hu": "Kezdje a reggelt a színház száraz belső terében. Délben a városi múzeum nyújt tökéletes menedéket a záporok elől. Délután a játszóterek vizesek, ügyeljen a tócsákra a séta közben. Este keressen egy meleg kávézót, miközben az eső odakint kopog az ablakokon.",
             "ro": "Începeți dimineața în interiorul uscat al teatrului. La prânz, muzeul orașului oferă adăpostul perfect împotriva averselor. După-amiaza, locurile de joacă sunt ude, deci atenție la bălți. Seara, retrageți-vă într-o cafenea caldă în timp ce ploaia bate în geamuri.",
-            "en": "Start the morning in the dry theater interior. At noon, the city museum provides perfect shelter from the downpours. In the afternoon, the playgrounds are wet, so watch out for puddles while walking. In the evening, retreat to a warm cafe while the rain taps on the windows."
+            "en": "Start the morning in the dry theater interior. At noon, the city museum provides perfect shelter from the downpours. In the afternoon, the playgrounds are wet, so watch out for puddles while walking. In the evening, retreat to a warm cafe while the rain taps on the windows.",
+            "hr": "Jutro započnite u suhom kazališnom interijeru. U podne Gradski muzej pruža savršen zaklon od pljuskova. Popodne su igrališta mokra, pa pripazite na lokve dok hodate. Uvečer se sklonite u topao kafić dok kiša kuca o prozore."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Theater",
                 "hu": "Színház",
                 "ro": "Teatru",
-                "en": "Theater"
+                "en": "Theater",
+                "hr": "Kazalište"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die Architektur im Trockenen; ein stabiler Regenschirm ist für den kurzen Weg zum Eingang trotz der Nähe zum Zentrum absolut notwendig.",
                 "hu": "Élvezze az építészetet a száraz belső térben; egy masszív esernyő elengedhetetlen a bejárathoz vezető rövid úton a városközpont közelsége ellenére is.",
                 "ro": "Bucurați-vă de arhitectură la adăpost; o umbrelă rezistentă este absolut necesară pentru drumul scurt până la intrare, chiar dacă sunteți aproape de centru.",
-                "en": "Enjoy the architecture in the dry interior; a sturdy umbrella is absolutely necessary for the short walk to the entrance despite being close to the center."
+                "en": "Enjoy the architecture in the dry interior; a sturdy umbrella is absolutely necessary for the short walk to the entrance despite being close to the center.",
+                "hr": "Uživajte u arhitekturi u suhom interijeru; iako je ulaz blizu centra, za kratku šetnju do ulaza neophodan je čvrst kišobran."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Stadtmusik Virovitica",
                 "hu": "Városi Zenei Pavilon",
                 "ro": "Muzica Orașului Virovitica",
-                "en": "City Music Virovitica"
+                "en": "City Music Virovitica",
+                "hr": "Gradska glazba Virovitica"
               },
               "tip_5lang": {
                 "de": "Der Pavillon bietet zwar ein Dach, aber bei Wind weht der Regen seitlich hinein; tragen Sie wasserfeste Schuhe für die nassen Wege im Parkgelände.",
                 "hu": "A pavilon tetőt nyújt, de szeles időben az eső oldalról is beverhet; viseljen vízálló cipőt a park területén található vizes ösvények miatt.",
                 "ro": "Pavilionul oferă un acoperiș, dar vântul poate sufla ploaia lateral; purtați încălțăminte impermeabilă pentru aleile ude din zona parcului.",
-                "en": "The pavilion offers a roof, but wind can blow rain in from the side; wear waterproof shoes for the wet paths within the park area."
+                "en": "The pavilion offers a roof, but wind can blow rain in from the side; wear waterproof shoes for the wet paths within the park area.",
+                "hr": "Paviljon nudi krov, ali vjetar može puhati kišu sa strane; nosite vodootpornu obuću za mokre putove unutar parka."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Stadtmuseum Virovitica",
                 "hu": "Viroviticai Városi Múzeum",
                 "ro": "Muzeul Orașului Virovitica",
-                "en": "Virovitica City Museum"
+                "en": "Virovitica City Museum",
+                "hr": "Gradski muzej Virovitica"
               },
               "tip_5lang": {
                 "de": "Dieses Schloss ist der ideale Ort, um Stunden im Trockenen zu verbringen; nutzen Sie die Garderobe, um Ihre nasse Regenjacke bequem abzugeben.",
                 "hu": "Ez a kastély ideális hely, hogy órákat töltsön el szárazon; használja a ruhatárat, hogy kényelmesen letehesse a vizes esőkabátját a látogatás előtt.",
                 "ro": "Acest castel este locul ideal pentru a petrece ore întregi la uscat; folosiți garderoba pentru a vă lăsa confortabil pelerina de ploaie udă.",
-                "en": "This castle is the ideal place to spend hours in the dry; use the cloakroom to conveniently leave your wet raincoat before the visit."
+                "en": "This castle is the ideal place to spend hours in the dry; use the cloakroom to conveniently leave your wet raincoat before the visit.",
+                "hr": "Ovaj dvorac je idealno mjesto za višesatni boravak u suhom; iskoristite garderobu da praktično ostavite mokri kišni ogrtač prije razgledavanja."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Spielplatz Suvara",
                 "hu": "Suvara Játszótér",
                 "ro": "Loc de joacă Suvara",
-                "en": "Suvara Playground"
+                "en": "Suvara Playground",
+                "hr": "Igralište Suvara"
               },
               "tip_5lang": {
                 "de": "Die Geräte können rutschig sein, daher ist Vorsicht beim Klettern geboten; suchen Sie unter den Bäumen kurz Schutz, falls der Schauer stärker wird.",
                 "hu": "A játékok csúszósak lehetnek, ezért legyen óvatos a mászáskor; keressen rövid menedéket a fák alatt, ha a zápor hirtelen felerősödne.",
                 "ro": "Echipamentele pot fi alunecoase, deci aveți grijă când urcați; căutați adăpost scurt sub copaci dacă aversa devine mai puternică.",
-                "en": "The equipment can be slippery, so be careful when climbing; seek brief shelter under the trees if the shower becomes stronger."
+                "en": "The equipment can be slippery, so be careful when climbing; seek brief shelter under the trees if the shower becomes stronger.",
+                "hr": "Sprave mogu biti klizave, pa budite oprezni pri penjanju; potražite kratki zaklon pod drvećem ako pojača pljusak."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Spielplatz Südblock",
                 "hu": "Déli Blokk Játszótér",
                 "ro": "Loc de joacă Blocul de Sud",
-                "en": "South Block Playground"
+                "en": "South Block Playground",
+                "hr": "Igralište Južni blok"
               },
               "tip_5lang": {
                 "de": "Pfützen auf den Wegen erfordern wasserdichtes Schuhwerk; beenden Sie die Tour hier zügig und wärmen Sie sich anschließend in einer nahegelegenen Konditorei auf.",
                 "hu": "Az utakon lévő tócsák vízálló lábbelit igényelnek; fejezze be itt gyorsan a túrát, majd melegedjen fel egy közeli cukrászdában.",
                 "ro": "Bălțile de pe alei necesită încălțăminte impermeabilă; terminați turul rapid aici și apoi încălziți-vă într-o cofetărie din apropiere.",
-                "en": "Puddles on the paths require waterproof footwear; finish the tour quickly here and then warm up in a nearby pastry shop."
+                "en": "Puddles on the paths require waterproof footwear; finish the tour quickly here and then warm up in a nearby pastry shop.",
+                "hr": "Lokve na stazama zahtijevaju vodootpornu obuću; brzo završite obilazak ovdje i zatim se ugrijte u obližnjoj pekarnici."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Starten Sie am frostigen Morgen im beheizten Theater. Mittags wärmen Sie sich in den Ausstellungsräumen des Schlosses auf. Nachmittags ist die Luft klar und kalt, perfekt für einen kurzen Spaziergang vor dem Sonnenuntergang um 17:00 Uhr. Der Abend klingt gemütlich bei warmem Licht aus.",
             "hu": "Kezdje a fagyos reggelt a fűtött színházban. Délben melegedjen fel a kastély kiállítótermeiben. Délután a levegő tiszta és hideg, tökéletes egy rövid sétához a korai, 17:00-s naplemente előtt. Az este meghitt hangulatban, meleg fények mellett ér véget.",
             "ro": "Începeți dimineața geroasă în teatrul încălzit. La prânz, încălziți-vă în sălile de expoziție ale castelului. După-amiaza aerul este curat și rece, perfect pentru o scurtă plimbare înainte de apusul de la ora 17:00. Seara se încheie confortabil sub lumini calde.",
-            "en": "Start the frosty morning in the heated theater. At noon, warm up in the castle's exhibition rooms. In the afternoon, the air is clear and cold, perfect for a short walk before the early sunset at 17:00. The evening concludes cozily under warm lights."
+            "en": "Start the frosty morning in the heated theater. At noon, warm up in the castle's exhibition rooms. In the afternoon, the air is clear and cold, perfect for a short walk before the early sunset at 17:00. The evening concludes cozily under warm lights.",
+            "hr": "Počnite mrazno jutro u zagrijanom kazalištu. U podne se ugrijte u izložbenim prostorijama dvorca. Popodne je zrak bistar i hladan, idealan za kratku šetnju prije ranog zalaska sunca u 17:00. Večer se ugodno završava pod toplim svjetlima."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Theater",
                 "hu": "Színház",
                 "ro": "Teatru",
-                "en": "Theater"
+                "en": "Theater",
+                "hr": "Kazalište"
               },
               "tip_5lang": {
                 "de": "Die Innentemperatur ist sehr angenehm; achten Sie beim Verlassen auf den kalten Wind und ziehen Sie Schal und Mütze fest an, bevor Sie ins Freie gehen.",
                 "hu": "A belső hőmérséklet nagyon kellemes; kilépéskor ügyeljen a hideg szélre, és szorosan vegye fel a sálat és sapkát, mielőtt a szabadba indulna.",
                 "ro": "Temperatura interioară este foarte plăcută; la plecare, aveți grijă la vântul rece și puneți-vă bine fularul și căciula înainte de a ieși afară.",
-                "en": "The interior temperature is very pleasant; when leaving, watch out for the cold wind and put on your scarf and hat tightly before heading out."
+                "en": "The interior temperature is very pleasant; when leaving, watch out for the cold wind and put on your scarf and hat tightly before heading out.",
+                "hr": "Temperatura u interijeru je vrlo ugodna; pri izlasku pripazite na hladan vjetar i čvrsto stavite šal i kapu prije nego što krenete van."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Stadtmusik Virovitica",
                 "hu": "Városi Zenei Pavilon",
                 "ro": "Muzica Orașului Virovitica",
-                "en": "City Music Virovitica"
+                "en": "City Music Virovitica",
+                "hr": "Gradska glazba Virovitica"
               },
               "tip_5lang": {
                 "de": "Der Pavillon sieht im Winterfrost malerisch aus; ein heißes Getränk in der Thermoskanne macht den Aufenthalt im Freien wesentlich angenehmer.",
                 "hu": "A pavilon festien mutat a téli fagyban; egy termoszban hozott forró ital sokkal élvezetesebbé teszi a szabadban töltött időt.",
                 "ro": "Pavilionul arată pitoresc în gerul iernii; o băutură fierbinte adusă într-un termos face șederea în aer liber mult mai plăcută.",
-                "en": "The pavilion looks picturesque in the winter frost; a hot drink brought in a thermos makes the time outdoors much more enjoyable."
+                "en": "The pavilion looks picturesque in the winter frost; a hot drink brought in a thermos makes the time outdoors much more enjoyable.",
+                "hr": "Paviljon izgleda slikovito u zimskom mrazu; topli napitak u termosici čini boravak na otvorenom mnogo ugodnijim."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Stadtmuseum Virovitica",
                 "hu": "Viroviticai Városi Múzeum",
                 "ro": "Muzeul Orașului Virovitica",
-                "en": "Virovitica City Museum"
+                "en": "Virovitica City Museum",
+                "hr": "Gradski muzej Virovitica"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie die Mittagshitze der Heizung im Schloss; bewundern Sie den schneebedeckten Schlosspark durch die großen, alten Fenster der Prunkräume.",
                 "hu": "Használja ki a kastély fűtésének melegét délidőben; csodálja meg a hófedte kastélyparkot a dísztermek hatalmas, patinás ablakain keresztül.",
                 "ro": "Profită de căldura caloriferelor din castel la prânz; admiră parcul castelului acoperit de zăpadă prin ferestrele mari și vechi ale sălilor de gală.",
-                "en": "Take advantage of the warmth of the castle's heating at noon; admire the snow-covered castle park through the large, old windows of the state rooms."
+                "en": "Take advantage of the warmth of the castle's heating at noon; admire the snow-covered castle park through the large, old windows of the state rooms.",
+                "hr": "Iskoristite grijanje dvorca u podne; divite se snijegom pokrivenom dvorčanskom parku kroz velika stara okna reprezentativnih prostorija."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Spielplatz Suvara",
                 "hu": "Suvara Játszótér",
                 "ro": "Loc de joacă Suvara",
-                "en": "Suvara Playground"
+                "en": "Suvara Playground",
+                "hr": "Igralište Suvara"
               },
               "tip_5lang": {
                 "de": "Bewegung hält warm, aber Vorsicht vor vereisten Stellen am Boden; planen Sie den Besuch so, dass Sie vor dem schnellen Temperaturabfall bei Dämmerung fertig sind.",
                 "hu": "A mozgás melegen tart, de vigyázzon a talajon lévő jeges foltokra; tervezze úgy a látogatást, hogy a szürkületi hirtelen lehűlés előtt végezzenek.",
                 "ro": "Mișcarea vă ține de cald, dar atenție la porțiunile înghețate de pe jos; planificați vizita astfel încât să terminați înainte de scăderea bruscă a temperaturii.",
-                "en": "Movement keeps you warm, but watch out for icy spots on the ground; plan the visit to finish before the sudden temperature drop at dusk."
+                "en": "Movement keeps you warm, but watch out for icy spots on the ground; plan the visit to finish before the sudden temperature drop at dusk.",
+                "hr": "Kretanje vas grije, ali pripazite na zaleđene dijelove tla; isplanirajte posjet da završi prije naglog pada temperature u sumrak."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Spielplatz Südblock",
                 "hu": "Déli Blokk Játszótér",
                 "ro": "Loc de joacă Blocul de Sud",
-                "en": "South Block Playground"
+                "en": "South Block Playground",
+                "hr": "Igralište Južni blok"
               },
               "tip_5lang": {
                 "de": "Gegen 16:30 Uhr beginnt es dunkel zu werden; dicke Handschuhe sind beim Spielen an den kalten Metallgeräten absolut unerlässlich für die Kinder.",
                 "hu": "16:30 körül már sötétedni kezd; a vastag kesztyű használata a hideg fém játékokon abszolút nélkülözhetetlen a gyerekek számára.",
                 "ro": "În jurul orei 16:30 începe să se întunece; mănușile groase sunt absolut indispensabile pentru copii când se joacă pe aparatele metalice reci.",
-                "en": "Around 16:30 it starts to get dark; thick gloves are absolutely indispensable for children when playing on the cold metal equipment."
+                "en": "Around 16:30 it starts to get dark; thick gloves are absolutely indispensable for children when playing on the cold metal equipment.",
+                "hr": "Oko 16:30 počinje se smrkavati; debele rukavice su apsolutno neophodne za djecu kad se igraju na hladnoj metalnoj opremi."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Stadtmuseum Virovitica",
             "hu": "Viroviticai Városi Múzeum",
             "ro": "Muzeul Orașului Virovitica",
-            "en": "Virovitica City Museum"
+            "en": "Virovitica City Museum",
+            "hr": "Gradski muzej Virovitica"
           },
           "coords": [
             17.385673,
@@ -329,7 +363,8 @@
             "de": "Entdecken Sie im prachtvollen Schloss Pejačević die faszinierende Geschichte der Stadt, und achten Sie besonders auf die kunstvoll verzierten Holzmöbel.",
             "hu": "Fedezze fel a gyönyörű Pejačević-kastélyban a város lenyűgöző történelmét, és fordítson különös figyelmet a gazdagon díszített fafaragásokra.",
             "ro": "Descoperiți istoria fascinantă a orașului în splendidul Castel Pejačević, acordând o atenție deosebită mobilierului din lemn bogat ornamentat.",
-            "en": "Discover the city's fascinating history within the splendid Pejačević Castle, paying special attention to the beautifully ornate wooden furniture exhibits."
+            "en": "Discover the city's fascinating history within the splendid Pejačević Castle, paying special attention to the beautifully ornate wooden furniture exhibits.",
+            "hr": "Otkrijte fascinantnu povijest grada u raskošnom dvorcu Pejačević, posebno obratite pozornost na prekrasno ukrašeni drveni namještaj."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Theater",
             "hu": "Színház",
             "ro": "Teatru",
-            "en": "Theater"
+            "en": "Theater",
+            "hr": "Kazalište"
           },
           "coords": [
             17.382628,
@@ -352,7 +388,8 @@
             "de": "Bewundern Sie die Architektur dieses lokalen Kulturzentrums, das für seine Aufführungen bekannt ist, und prüfen Sie vorab den aktuellen Spielplan.",
             "hu": "Csodálja meg e helyi kulturális központ építészetét, amely remek előadásairól ismert, és érdemes előre tájékozódni az aktuális műsorról a bejáratnál.",
             "ro": "Admirați arhitectura acestui centru cultural local, renumit pentru spectacolele sale captivante, și verificați din timp programul evenimentelor viitoare.",
-            "en": "Admire the striking architecture of this local cultural hub known for engaging performances, and check the schedule early for any upcoming shows."
+            "en": "Admire the striking architecture of this local cultural hub known for engaging performances, and check the schedule early for any upcoming shows.",
+            "hr": "Divite se upečatljivoj arhitekturi ovog lokalnog kulturnog središta poznatog po angažiranim predstavama i rano provjerite raspored za nadolazeće izvedbe."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "1. Teich",
             "hu": "1. tó",
             "ro": "Iazul 1",
-            "en": "1st Pond"
+            "en": "1st Pond",
+            "hr": "1. jezero"
           },
           "coords": [
             17.331073,
@@ -375,7 +413,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre am ersten der Virovitica-Teiche, wo Sie mit einem Fernglas hervorragend verschiedene Wasservögel beobachten können.",
             "hu": "Élvezze a nyugalmat a viroviticai tavak legelső tavánál, ahová érdemes távcsövet hozni, hogy jobban megfigyelhesse a különféle helyi vízimadarakat.",
             "ro": "Bucurați-vă de atmosfera liniștită la primul dintre iazurile Virovitica, unde aducerea unui binoclu vă va ajuta să observați diverse păsări de apă.",
-            "en": "Enjoy the tranquil atmosphere at the first of the Virovitica ponds, where bringing binoculars will greatly enhance your local waterbird watching experience."
+            "en": "Enjoy the tranquil atmosphere at the first of the Virovitica ponds, where bringing binoculars will greatly enhance your local waterbird watching experience.",
+            "hr": "Uživajte u mirnoj atmosferi prvog od virovitičkih jezera; dalekozor će znatno poboljšati vaša opažanja vodenih ptica."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "3. Teich",
             "hu": "3. tó",
             "ro": "Iazul 3",
-            "en": "3rd Pond"
+            "en": "3rd Pond",
+            "hr": "3. jezero"
           },
           "coords": [
             17.324322,
@@ -398,7 +438,8 @@
             "de": "Spazieren Sie an den von Bäumen gesäumten Ufern dieses malerischen Teichs entlang und halten Sie Ausschau nach kleinen Fischen im kristallklaren Wasser.",
             "hu": "Sétáljon végig e festői tó fás partjain, és figyelje meg a kristálytiszta, nyugodt vízben úszkáló apró halakat a kora délutáni napfényben.",
             "ro": "Plimbați-vă de-a lungul malurilor împădurite ale acestui iaz pitoresc și căutați peștii mici care înoată în apele cristaline în lumina după-amiezii.",
-            "en": "Stroll along the tree-lined shores of this picturesque pond, keeping an eye out for small fish swimming gracefully in the crystal-clear shallow waters."
+            "en": "Stroll along the tree-lined shores of this picturesque pond, keeping an eye out for small fish swimming gracefully in the crystal-clear shallow waters.",
+            "hr": "Prošećite uz šumske obale ovog slikovitog jezera i pripazite na male ribice koje graciozno plivaju u bistrim plitkim vodama."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "4. Teich",
             "hu": "4. tó",
             "ro": "Iazul 4",
-            "en": "4th Pond"
+            "en": "4th Pond",
+            "hr": "4. jezero"
           },
           "coords": [
             17.32221,
@@ -421,7 +463,8 @@
             "de": "Dieser idyllische See ist ein Paradies für Naturliebhaber; bringen Sie Ihre Kamera mit, um die wunderschönen Spiegelungen des Waldes auf dem Wasser einzufangen.",
             "hu": "Ez az idilli tó igazi paradicsom a természet szerelmeseinek; feltétlenül hozza magával fényképezőgépét, hogy megörökítse az erdő gyönyörű tükröződését.",
             "ro": "Acest lac idilic este un paradis pentru iubitorii de natură; aduceți-vă camera pentru a surprinde reflexiile frumoase ale pădurii pe suprafața apei.",
-            "en": "This idyllic lake is a paradise for nature lovers; remember to bring your camera to capture the stunning forest reflections on the still water surface."
+            "en": "This idyllic lake is a paradise for nature lovers; remember to bring your camera to capture the stunning forest reflections on the still water surface.",
+            "hr": "Ovo idilično jezero je raj za ljubitelje prirode; ne zaboravite fotoaparat da zabilježite zadivljujuće odbljeske šume na mirnoj površini vode."
           }
         }
       ],
@@ -429,7 +472,8 @@
         "de": "Der Morgen startet lehrreich im Stadtmuseum, wo die Geschichte Viroviticas lebendig wird. Nach einem kurzen Halt am Theater radeln Sie mittags zu den idyllischen Seen südlich der Stadt. Der Nachmittag wird an den ersten Teichen mit Naturbeobachtungen verbracht. Abends entspannen Sie sich am vierten See und genießen die spiegelglatte Wasseroberfläche.",
         "hu": "A reggel a Városi Múzeum felfedezésével indul, ahol Virovitica történelme megelevenedik. A színháznál tett rövid megálló után délben a várostól délre fekvő tavak felé kerékpározunk. A délutánt a természet megfigyelésével töltjük az első tavak partján. Este a negyedik tó nyugodt vizében gyönyörködhetünk a friss levegőn.",
         "ro": "Dimineața începe educativ la Muzeul Orașului, unde istoria prinde viață. După o scurtă oprire la teatru, la prânz pedalați spre lacurile idilice de la sud de oraș. După-amiaza este petrecută explorând natura și observând păsările la primele iazuri. Seara vă relaxați la al patrulea iaz, bucurându-vă de reflexiile apei liniștite.",
-        "en": "The morning begins culturally at the City Museum, where local history comes to vibrant life. After a brief architectural stop at the theater, midday involves biking down to the idyllic southern ponds. The afternoon is spent enjoying nature and birdwatching around the first few lakes. Evening brings deep relaxation by the calm waters of the fourth pond."
+        "en": "The morning begins culturally at the City Museum, where local history comes to vibrant life. After a brief architectural stop at the theater, midday involves biking down to the idyllic southern ponds. The afternoon is spent enjoying nature and birdwatching around the first few lakes. Evening brings deep relaxation by the calm waters of the fourth pond.",
+        "hr": "Jutro započinje kulturno u Gradskom muzeju, gdje lokalna povijest oživljava. Nakon kratke arhitektonske stanice u kazalištu, u podne se spuštate biciklom prema idiličnim južnim jezerima. Popodne provodite u prirodi i promatranju ptica oko prvih jezera. Večer donosi duboko opuštanje uz mirne vode četvrtog jezera."
       },
       "variants": {
         "rainy": {
@@ -437,7 +481,8 @@
             "de": "Radeln Sie vorsichtig durch den Vormittagsregen. Das Museum und Theater bieten zwischendurch trockene Pausen. Die Fahrt zu den Teichen erfordert volle Regenmontur, da der Wind dort zunimmt. Der Tag endet mit einer spritzigen Rückfahrt durch die Pfützen der Stadt.",
             "hu": "Tekerjen óvatosan a délelőtti esőben. A múzeum és a színház száraz szüneteket kínálnak közben. A tavakhoz vezető út teljes esőfelszerelést igényel, mivel ott felerősödik a szél. A nap egy fröcskölős visszautat tartogat a városi tócsákon át.",
             "ro": "Pedalați cu atenție prin ploaia de dimineață. Muzeul și teatrul oferă pauze uscate între timp. Drumul către iazuri necesită echipament complet de ploaie, deoarece vântul se intensifică acolo. Ziua se încheie cu o întoarcere plină de stropi prin bălțile orașului.",
-            "en": "Cycle carefully through the morning rain. The museum and theater offer dry breaks in between. The ride to the ponds requires full rain gear as the wind picks up there. The day ends with a splashy ride back through the city's puddles."
+            "en": "Cycle carefully through the morning rain. The museum and theater offer dry breaks in between. The ride to the ponds requires full rain gear as the wind picks up there. The day ends with a splashy ride back through the city's puddles.",
+            "hr": "Ciklirajte pažljivo kroz jutarnju kišu. Muzej i kazalište nude suhe pauze između. Vožnja do jezera zahtijeva punu kišnu opremu jer se tamo pojačava vjetar. Dan završava prskanjem pri povratku kroz gradske lokve."
           },
           "stops": [
             {
@@ -445,13 +490,15 @@
                 "de": "Stadtmuseum Virovitica",
                 "hu": "Viroviticai Városi Múzeum",
                 "ro": "Muzeul Orașului Virovitica",
-                "en": "Virovitica City Museum"
+                "en": "Virovitica City Museum",
+                "hr": "Gradski muzej Virovitica"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Fahrrad unter dem Vordach ab, falls möglich; nutzen Sie den Besuch, um die Regenkleidung abtropfen zu lassen und sich für die Weiterfahrt zu sammeln.",
                 "hu": "Parkolja le a kerékpárját az előtető alatt, ha lehetséges; használja ki a látogatást, hogy lecsepegtesse az esőruhát és felkészüljön a folytatásra.",
                 "ro": "Parcați bicicleta sub copertină, dacă este posibil; profitați de vizită pentru a lăsa hainele de ploaie să se scurgă și pentru a vă aduna forțele.",
-                "en": "Park your bike under the canopy if possible; use the visit to let your rain gear drip dry and gather yourself for the onward journey."
+                "en": "Park your bike under the canopy if possible; use the visit to let your rain gear drip dry and gather yourself for the onward journey.",
+                "hr": "Parkirajte bicikl pod nadstrešnicom ako je moguće; iskoristite posjet da vaša kišna oprema ocijedi i da se pripremite za nastavak puta."
               }
             },
             {
@@ -459,13 +506,15 @@
                 "de": "Theater",
                 "hu": "Színház",
                 "ro": "Teatru",
-                "en": "Theater"
+                "en": "Theater",
+                "hr": "Kazalište"
               },
               "tip_5lang": {
                 "de": "Vorsicht beim Absteigen auf nassem Kopfsteinpflaster; die kurze Pause im Foyer schützt Sie vor dem schlimmsten Guss, bevor es Richtung Natur geht.",
                 "hu": "Vigyázzon a leszálláskor a vizes macskakövön; a rövid szünet az előcsarnokban megvédi a leghevesebb záportól, mielőtt a természet felé indulna.",
                 "ro": "Atenție la coborârea de pe bicicletă pe pavajul ud; pauza scurtă în foier vă protejează de cea mai grea aversă înainte de a pleca spre natură.",
-                "en": "Be careful when dismounting on wet cobblestones; the short break in the foyer protects you from the worst downpour before heading towards nature."
+                "en": "Be careful when dismounting on wet cobblestones; the short break in the foyer protects you from the worst downpour before heading towards nature.",
+                "hr": "Budite oprezni pri silasku s bicikla na mokrim kaldrmiranim površinama; kratka pauza u predvorju štiti vas od najjačeg pljuska prije kretanja prema prirodi."
               }
             },
             {
@@ -473,13 +522,15 @@
                 "de": "1. Teich",
                 "hu": "1. tó",
                 "ro": "Iazul 1",
-                "en": "1st Pond"
+                "en": "1st Pond",
+                "hr": "1. jezero"
               },
               "tip_5lang": {
                 "de": "Die Uferwege können sehr schlammig sein, reduzieren Sie Ihr Tempo deutlich; genießen Sie die mystische Stimmung des Regens auf der Wasseroberfläche nur kurz.",
                 "hu": "A parti utak nagyon sárosak lehetnek, jelentősen csökkentse a sebességét; élvezze a vízfelszínen kopogó eső misztikus hangulatát csak rövid ideig.",
                 "ro": "Potecile de pe mal pot fi foarte noroioase, reduceți semnificativ viteza; bucurați-vă de atmosfera mistică a ploii pe suprafața apei doar pentru scurt timp.",
-                "en": "The shore paths can be very muddy, significantly reduce your speed; enjoy the mystical mood of the rain on the water surface only briefly."
+                "en": "The shore paths can be very muddy, significantly reduce your speed; enjoy the mystical mood of the rain on the water surface only briefly.",
+                "hr": "Staze uz obalu mogu biti vrlo blatne, znatno smanjite brzinu; uživajte u mističnom raspoloženju kiše na površini vode samo kratko."
               }
             },
             {
@@ -487,13 +538,15 @@
                 "de": "3. Teich",
                 "hu": "3. tó",
                 "ro": "Iazul 3",
-                "en": "3rd Pond"
+                "en": "3rd Pond",
+                "hr": "3. jezero"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf tiefere Pfützen, die die Sicht auf Schlaglöcher versperren; wasserfeste Überschuhe verhindern, dass Ihre Füße bei der Fahrt im nassen Gras auskühlen.",
                 "hu": "Ügyeljen a mélyebb tócsákra, amelyek elrejtik az úthibákat; a vízálló kamásli megakadályozza, hogy a lábai ázzanak a vizes fűben való tekerés közben.",
                 "ro": "Atenție la bălțile mai adânci care ascund gropile; husele impermeabile pentru încălțăminte previn udarea picioarelor în timpul pedalatului prin iarba udă.",
-                "en": "Watch out for deeper puddles that hide potholes; waterproof shoe covers prevent your feet from getting soaked while riding through wet grass."
+                "en": "Watch out for deeper puddles that hide potholes; waterproof shoe covers prevent your feet from getting soaked while riding through wet grass.",
+                "hr": "Pazite na dublje lokve koje skrivaju udarne rupe; vodootporni navlakači za obuću sprječavaju namakanje nogu dok vozite kroz mokru travu."
               }
             },
             {
@@ -501,13 +554,15 @@
                 "de": "4. Teich",
                 "hu": "4. tó",
                 "ro": "Iazul 4",
-                "en": "4th Pond"
+                "en": "4th Pond",
+                "hr": "4. jezero"
               },
               "tip_5lang": {
                 "de": "Der Rückweg in die Stadt ist bei Regen anstrengender, planen Sie genug Zeit ein; prüfen Sie Ihre Bremsen, da diese bei Nässe eine längere Reaktionszeit haben.",
                 "hu": "A városba visszavezető út esőben fárasztóbb, tervezzen elég időt rá; ellenőrizze a fékeket, mivel nedves időben hosszabb a féktávolság.",
                 "ro": "Drumul de întoarcere în oraș este mai obositor pe ploaie, planificați-vă timp suficient; verificați frânele, deoarece acestea au o distanță de frânare mai mare.",
-                "en": "The way back to the city is more tiring in the rain, plan enough time for it; check your brakes, as they have a longer braking distance in wet weather."
+                "en": "The way back to the city is more tiring in the rain, plan enough time for it; check your brakes, as they have a longer braking distance in wet weather.",
+                "hr": "Povratak u grad je umorniji po kiši, planirajte dovoljno vremena; provjerite kočnice, jer imaju dulji put za zaustavljanje na mokrom vremenu."
               }
             }
           ]
@@ -517,7 +572,8 @@
             "de": "Ein knackig kalter Start am Schlossmuseum weckt die Lebensgeister. Nach einem Kulturstopp im Theater geht es gut eingepackt zu den Teichen. Genießen Sie die raue Winterlandschaft und das frühe Abendlicht am Wasser. Kehren Sie vor der Dunkelheit um 17:00 Uhr sicher in die Stadt zurück.",
             "hu": "Egy ropogósan hideg kezdés a kastélymúzeumnál felébreszti az érzékeket. A színházi kulturális megálló után jól felöltözve induljon a tavakhoz. Élvezze a zord téli tájat és a korai esti fényeket a víznél. Térjen vissza biztonságban a városba a 17:00-s sötétedés előtt.",
             "ro": "Un început crocant de rece la muzeul castelului vă trezește simțurile. După o oprire culturală la teatru, mergeți bine înfofoliți spre iazuri. Bucurați-vă de peisajul aspru de iarnă și de lumina serii devreme la apă. Întoarceți-vă în siguranță în oraș înainte de întunericul de la ora 17:00.",
-            "en": "A crisp cold start at the castle museum wakes up the senses. After a cultural stop at the theater, head to the ponds well-wrapped. Enjoy the rugged winter landscape and the early evening light by the water. Return safely to the city before the darkness at 17:00."
+            "en": "A crisp cold start at the castle museum wakes up the senses. After a cultural stop at the theater, head to the ponds well-wrapped. Enjoy the rugged winter landscape and the early evening light by the water. Return safely to the city before the darkness at 17:00.",
+            "hr": "Oštar hladan početak u dvorcu-muzeju razbudi osjetila. Nakon kulturne stanice u kazalištu, krenite prema jezerima dobro umotani. Uživajte u grubom zimskoj krajoliku i ranom večernjem svjetlu uz vodu. Vratite se sigurno u grad prije mraka u 17:00."
           },
           "stops": [
             {
@@ -525,13 +581,15 @@
                 "de": "Stadtmuseum Virovitica",
                 "hu": "Viroviticai Városi Múzeum",
                 "ro": "Muzeul Orașului Virovitica",
-                "en": "Virovitica City Museum"
+                "en": "Virovitica City Museum",
+                "hr": "Gradski muzej Virovitica"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre Hände an den Heizkörpern im Museum auf, bevor Sie die Griffe Ihres Fahrrads anfassen; die dicke Winterjacke sollte während der Besichtigung gelüftet werden.",
                 "hu": "Melegítse fel a kezeit a múzeum fűtőtesteinél, mielőtt megfogná a kerékpár kormányát; a vastag télikabátot érdemes szellőztetni a látogatás alatt.",
                 "ro": "Încălziți-vă mâinile la caloriferele din muzeu înainte de a pune mâna pe ghidonul bicicletei; jacheta groasă de iarnă ar trebui lăsată la aerisit în timpul vizitei.",
-                "en": "Warm your hands at the museum radiators before touching your bike handlebars; your thick winter jacket should be aired out during the visit."
+                "en": "Warm your hands at the museum radiators before touching your bike handlebars; your thick winter jacket should be aired out during the visit.",
+                "hr": "Ugrijte ruke na muzejskim radijatorima prije dodirivanja biciklističkih upravljača; vaša debele zimska jakna trebala bi se provjetriti tijekom posjeta."
               }
             },
             {
@@ -539,13 +597,15 @@
                 "de": "Theater",
                 "hu": "Színház",
                 "ro": "Teatru",
-                "en": "Theater"
+                "en": "Theater",
+                "hr": "Kazalište"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf Rutschgefahr durch überfrierende Nässe vor dem Gebäude; die Pause im Warmen ist wichtig, um die Körpertemperatur vor der Fahrt zum Stadtrand stabil zu halten.",
                 "hu": "Ügyeljen a felfagyások miatti csúszásveszélyre az épület előtt; a meleg szünet fontos a testhőmérséklet megőrzéséhez a város szélére való kitekerés előtt.",
                 "ro": "Atenție la riscul de alunecare din cauza înghețului din fața clădirii; pauza la căldură este importantă pentru a menține temperatura corpului înainte de drum.",
-                "en": "Watch out for slipping hazards due to freezing wetness in front of the building; the warm break is important to maintain body temperature before the ride."
+                "en": "Watch out for slipping hazards due to freezing wetness in front of the building; the warm break is important to maintain body temperature before the ride.",
+                "hr": "Pazite na opasnost od klizanja zbog zaleđene vlage ispred zgrade; topla pauza važna je za održavanje tjelesne temperature prije vožnje."
               }
             },
             {
@@ -553,13 +613,15 @@
                 "de": "1. Teich",
                 "hu": "1. tó",
                 "ro": "Iazul 1",
-                "en": "1st Pond"
+                "en": "1st Pond",
+                "hr": "1. jezero"
               },
               "tip_5lang": {
                 "de": "Der Wind am Wasser ist im Winter schneidend kalt, tragen Sie eine winddichte Schicht; die Wege können hart gefroren sein, was das Radfahren holprig aber sauber macht.",
                 "hu": "A víznél a szél télen metszően hideg, viseljen szélálló réteget; az utak keményre fagyhatnak, ami a biciklizést zötyögőssé, de tisztává teszi.",
                 "ro": "Vântul de la apă este tăios de rece iarna, purtați un strat rezistent la vânt; aleile pot fi înghețate bocnă, ceea ce face pedalatul hopuros, dar curat.",
-                "en": "The wind by the water is cuttingly cold in winter, wear a windproof layer; the paths can be frozen hard, making cycling bumpy but clean."
+                "en": "The wind by the water is cuttingly cold in winter, wear a windproof layer; the paths can be frozen hard, making cycling bumpy but clean.",
+                "hr": "Vjetar uz vodu zimi je oštro hladan, nosite windproof sloj; staze mogu biti zaleđene i čine bicikliranje neravnim ali čistim."
               }
             },
             {
@@ -567,13 +629,15 @@
                 "de": "3. Teich",
                 "hu": "3. tó",
                 "ro": "Iazul 3",
-                "en": "3rd Pond"
+                "en": "3rd Pond",
+                "hr": "3. jezero"
               },
               "tip_5lang": {
                 "de": "Trinken Sie regelmäßig warmen Tee aus Ihrer Thermoskanne, um nicht auszukühlen; die tiefstehende Wintersonne kann blenden, eine Sonnenbrille hilft auch bei Kälte.",
                 "hu": "Igyon rendszeresen meleg teát a termoszából, hogy ne hűljön ki; az alacsonyan járó téli nap elvakíthat, a napszemüveg hidegben is hasznos segítség.",
                 "ro": "Beți regulat ceai cald din termos pentru a nu vă răci; soarele de iarnă care stă jos vă poate orbi, ochelarii de soare sunt utili și pe timp de frig.",
-                "en": "Drink warm tea from your thermos regularly to avoid cooling down; the low winter sun can dazzle you, sunglasses are helpful even in the cold."
+                "en": "Drink warm tea from your thermos regularly to avoid cooling down; the low winter sun can dazzle you, sunglasses are helpful even in the cold.",
+                "hr": "Redovito pijte topao čaj iz termosice kako se ne biste prehladili; nisko zimsko sunce može zaslijepiti, pa su sunčane naočale korisne čak i na hladnoći."
               }
             },
             {
@@ -581,13 +645,15 @@
                 "de": "4. Teich",
                 "hu": "4. tó",
                 "ro": "Iazul 4",
-                "en": "4th Pond"
+                "en": "4th Pond",
+                "hr": "4. jezero"
               },
               "tip_5lang": {
                 "de": "Sorgen Sie für eine funktionierende Beleuchtung am Fahrrad, da die Dämmerung sehr früh einsetzt; die Rückfahrt in die Stadt sollte zügig erfolgen, um in Bewegung zu bleiben.",
                 "hu": "Gondoskodjon a működő kerékpárvilágításról, mivel a szürkület nagyon korán beköszönt; a városba visszavezető utat tegye meg tempósan, hogy mozgásban maradjon.",
                 "ro": "Asigurați-vă că aveți lumini funcționale la bicicletă, deoarece amurgul vine foarte devreme; întoarcerea în oraș trebuie făcută rapid pentru a rămâne în mișcare.",
-                "en": "Ensure you have working bike lights as dusk sets in very early; the return trip to the city should be done briskly to stay in motion."
+                "en": "Ensure you have working bike lights as dusk sets in very early; the return trip to the city should be done briskly to stay in motion.",
+                "hr": "Osigurajte da imate ispravno radna svjetla na biciklu jer se sumrak spušta vrlo rano; povratak u grad obavite brzo da ostanete u pokretu."
               }
             }
           ]
@@ -607,7 +673,8 @@
             "de": "Stadtmuseum Virovitica",
             "hu": "Viroviticai Városi Múzeum",
             "ro": "Muzeul Orașului Virovitica",
-            "en": "Virovitica City Museum"
+            "en": "Virovitica City Museum",
+            "hr": "Gradski muzej Virovitica"
           },
           "coords": [
             17.385673,
@@ -622,7 +689,8 @@
             "de": "Entdecken Sie im prachtvollen Schloss Pejačević die faszinierende Geschichte der Stadt, und achten Sie besonders auf die kunstvoll verzierten Holzmöbel.",
             "hu": "Fedezze fel a gyönyörű Pejačević-kastélyban a város lenyűgöző történelmét, és fordítson különös figyelmet a gazdagon díszített fafaragásokra.",
             "ro": "Descoperiți istoria fascinantă a orașului în splendidul Castel Pejačević, acordând o atenție deosebită mobilierului din lemn bogat ornamentat.",
-            "en": "Discover the city's fascinating history within the splendid Pejačević Castle, paying special attention to the beautifully ornate wooden furniture exhibits."
+            "en": "Discover the city's fascinating history within the splendid Pejačević Castle, paying special attention to the beautifully ornate wooden furniture exhibits.",
+            "hr": "Otkrijte fascinantnu povijest grada u raskošnom dvorcu Pejačević, posebno obratite pozornost na prekrasno ukrašeni drveni namještaj."
           }
         },
         {
@@ -630,7 +698,8 @@
             "de": "Spielplatz Suvara",
             "hu": "Suvara Játszótér",
             "ro": "Loc de joacă Suvara",
-            "en": "Suvara Playground"
+            "en": "Suvara Playground",
+            "hr": "Igralište Suvara"
           },
           "coords": [
             17.393217,
@@ -645,7 +714,8 @@
             "de": "Lassen Sie die Kinder auf diesem lebhaften Spielplatz im Osten der Stadt toben, wo bequeme Bänke im Schatten perfekte Plätze für eine kurze Pause bieten.",
             "hu": "Hagyja, hogy a gyerekek kikapcsolódjanak ezen a keleti fekvésű játszótéren, ahol a kényelmes, árnyékos padok tökéletesek egy rövid pihenőre.",
             "ro": "Lăsați copiii să se joace pe acest loc de joacă animat din estul orașului, unde băncile confortabile la umbră oferă locuri perfecte pentru odihnă.",
-            "en": "Let the kids burn off energy at this lively eastern playground, where comfortable shaded benches offer parents a perfect spot for a quick rest."
+            "en": "Let the kids burn off energy at this lively eastern playground, where comfortable shaded benches offer parents a perfect spot for a quick rest.",
+            "hr": "Neka djeca istroše energiju na ovom živahnom istočnom igralištu, gdje udobne klupe u hladu nude roditeljima savršeno mjesto za kratki odmor."
           }
         },
         {
@@ -653,7 +723,8 @@
             "de": "1. Teich",
             "hu": "1. tó",
             "ro": "Iazul 1",
-            "en": "1st Pond"
+            "en": "1st Pond",
+            "hr": "1. jezero"
           },
           "coords": [
             17.331073,
@@ -668,7 +739,8 @@
             "de": "Genießen Sie die ruhige Atmosphäre am ersten der Virovitica-Teiche, wo Sie mit einem Fernglas hervorragend verschiedene Wasservögel beobachten können.",
             "hu": "Élvezze a nyugalmat a viroviticai tavak legelső tavánál, ahová érdemes távcsövet hozni, hogy jobban megfigyelhesse a különféle helyi vízimadarakat.",
             "ro": "Bucurați-vă de atmosfera liniștită la primul dintre iazurile Virovitica, unde aducerea unui binoclu vă va ajuta să observați diverse păsări de apă.",
-            "en": "Enjoy the tranquil atmosphere at the first of the Virovitica ponds, where bringing binoculars will greatly enhance your local waterbird watching experience."
+            "en": "Enjoy the tranquil atmosphere at the first of the Virovitica ponds, where bringing binoculars will greatly enhance your local waterbird watching experience.",
+            "hr": "Uživajte u mirnoj atmosferi prvog od virovitičkih jezera; dalekozor će znatno poboljšati vaša opažanja vodenih ptica."
           }
         },
         {
@@ -676,7 +748,8 @@
             "de": "4. Teich",
             "hu": "4. tó",
             "ro": "Iazul 4",
-            "en": "4th Pond"
+            "en": "4th Pond",
+            "hr": "4. ribnjak"
           },
           "coords": [
             17.32221,
@@ -691,7 +764,8 @@
             "de": "Dieser idyllische See ist ein Paradies für Naturliebhaber; bringen Sie Ihre Kamera mit, um die wunderschönen Spiegelungen des Waldes auf dem Wasser einzufangen.",
             "hu": "Ez az idilli tó igazi paradicsom a természet szerelmeseinek; feltétlenül hozza magával fényképezőgépét, hogy megörökítse az erdő gyönyörű tükröződését.",
             "ro": "Acest lac idilic este un paradis pentru iubitorii de natură; aduceți-vă camera pentru a surprinde reflexiile frumoase ale pădurii pe suprafața apei.",
-            "en": "This idyllic lake is a paradise for nature lovers; remember to bring your camera to capture the stunning forest reflections on the still water surface."
+            "en": "This idyllic lake is a paradise for nature lovers; remember to bring your camera to capture the stunning forest reflections on the still water surface.",
+            "hr": "Ovo idilično jezero je raj za ljubitelje prirode; ne zaboravite fotoaparat za snimanje zapanjujućih odbljesaka šume na mirnoj površini vode."
           }
         },
         {
@@ -699,7 +773,8 @@
             "de": "7. Teich",
             "hu": "7. tó",
             "ro": "Iazul 7",
-            "en": "7th Pond"
+            "en": "7th Pond",
+            "hr": "7. ribnjak"
           },
           "coords": [
             17.31043,
@@ -714,7 +789,8 @@
             "de": "Entfliehen Sie dem Trubel an diesem abgelegenen Angelteich, wo festes Schuhwerk empfohlen wird, um die unberührten, naturnahen Pfade zu erkunden.",
             "hu": "Meneküljön el a nyüzsgés elől ehhez a távoli horgásztóhoz, ahol mindenképpen strapabíró lábbeli viselése javasolt az érintetlen ösvények felfedezéséhez.",
             "ro": "Scăpați de agitație la acest iaz de pescuit izolat, unde încălțămintea robustă este recomandată pentru a explora potecile neatinse din jurul apei.",
-            "en": "Escape the hustle and bustle at this secluded fishing pond, where wearing sturdy footwear is highly recommended to explore the pristine surrounding trails."
+            "en": "Escape the hustle and bustle at this secluded fishing pond, where wearing sturdy footwear is highly recommended to explore the pristine surrounding trails.",
+            "hr": "Pobjegnite od vreve na ovom osamljenom ribnjaku; preporučuje se čvrsta obuća za istraživanje netaknutih staza u okolici."
           }
         },
         {
@@ -722,7 +798,8 @@
             "de": "9. Teich",
             "hu": "9. tó",
             "ro": "Iazul 9",
-            "en": "9th Pond"
+            "en": "9th Pond",
+            "hr": "9. ribnjak"
           },
           "coords": [
             17.308536,
@@ -737,7 +814,8 @@
             "de": "Bewundern Sie die unberührte Natur am letzten Teich dieser wunderschönen Kette, der sich perfekt für einen meditativen Moment bei Sonnenuntergang eignet.",
             "hu": "Csodálja meg az érintetlen természetet e csodálatos tórendszer utolsó tavánál, amely tökéletes helyszínt biztosít egy meditatív pillanathoz naplementekor.",
             "ro": "Admirați natura neatinsă la ultimul iaz din acest lanț frumos, care este absolut perfect pentru un moment de meditație la liniștitul apus de soare.",
-            "en": "Admire the unspoiled nature at the very last pond in this beautiful chain, making it the absolute perfect spot for a meditative moment at sunset."
+            "en": "Admire the unspoiled nature at the very last pond in this beautiful chain, making it the absolute perfect spot for a meditative moment at sunset.",
+            "hr": "Uživajte u netaknutoj prirodi na posljednjem ribnjaku u ovom prekrasnom nizu — idealno mjesto za meditativni trenutak pri zalasku sunca."
           }
         }
       ],
@@ -745,7 +823,8 @@
         "de": "Ihre Autotour beginnt am prächtigen Stadtmuseum im Herzen von Virovitica. Gegen Mittag fahren Sie bequem in die Natur hinaus zu den weitläufigen Fischteichen der Region. Der Nachmittag bietet eine malerische Fahrt vom ersten zum siebten See, umgeben von dichten Wäldern. Am Abend erreichen Sie den neunten Teich, ideal für einen ruhigen Abschluss.",
         "hu": "Az autós túra a viroviticai Városi Múzeum lenyűgöző épületénél kezdődik a központban. Dél körül kényelmesen kigördülünk a természetbe, a régió kiterjedt halastavai felé. A délután egy festői utazást kínál az elsőtől a hetedik tóig, sűrű erdőkkel körülvéve. Este elérjük a kilencedik tavat, amely békés befejezése a napnak.",
         "ro": "Turul cu mașina începe la magnificul Muzeu al Orașului din inima localității Virovitica. Spre prânz, conduceți confortabil în natură către marile iazuri piscicole ale regiunii. După-amiaza oferă o plimbare pitorească de la primul la al șaptelea lac, înconjurați de păduri. Seara ajungeți la al nouălea iaz, ideal pentru un final liniștit.",
-        "en": "Your driving tour kicks off at the magnificent City Museum right in the heart of Virovitica. Around midday, enjoy a comfortable drive out into nature towards the region's expansive fishing ponds. The afternoon features a scenic route from the first to the seventh lake, surrounded by woods. Evening finds you at the ninth pond for a peaceful finale."
+        "en": "Your driving tour kicks off at the magnificent City Museum right in the heart of Virovitica. Around midday, enjoy a comfortable drive out into nature towards the region's expansive fishing ponds. The afternoon features a scenic route from the first to the seventh lake, surrounded by woods. Evening finds you at the ninth pond for a peaceful finale.",
+        "hr": "Vaša vožnja započinje u veličanstvenom Gradskom muzeju u samom srcu Virovitice. Oko podneva uživajte u ugodnoj vožnji prirodom prema prostranim ribnjacima regije. Popodne slijedi slikovita ruta od prvog do sedmog jezera, okružena šumom. Večer vas vodi do devetog ribnjaka za miran završetak dana."
       },
       "variants": {
         "rainy": {
@@ -753,7 +832,8 @@
             "de": "Nutzen Sie das Auto als mobilen Unterschlupf zwischen den Sehenswürdigkeiten. Vormittags steht Kultur im Trockenen an, während Sie mittags die Spielplätze bei kurzen Regenpausen besuchen. Die Fahrt zu den Teichen bietet tolle Ausblicke aus dem Autofenster, ohne nass zu werden. Der Tag endet sicher und trocken.",
             "hu": "Használja az autót mobil menedékként a látnivalók között. Délelőtt kulturális program várja szárazon, délben pedig használja ki a rövid esőszüneteket a játszótereknél. A tavakhoz vezető út nagyszerű kilátást nyújt az autó ablakából, anélkül, hogy megázna. A nap biztonságban és szárazon ér véget.",
             "ro": "Folosiți mașina ca adăpost mobil între obiective. Dimineața este dedicată culturii la uscat, iar la prânz profitați de scurtele pauze de ploaie la locurile de joacă. Drumul spre iazuri oferă priveliști superbe de la fereastra mașinii fără a vă uda. Ziua se încheie în siguranță și la uscat.",
-            "en": "Use the car as a mobile shelter between sights. The morning is for indoor culture, while at noon you can take advantage of short rain breaks at the playgrounds. The drive to the ponds offers great views from the car window without getting wet. The day ends safely and dry."
+            "en": "Use the car as a mobile shelter between sights. The morning is for indoor culture, while at noon you can take advantage of short rain breaks at the playgrounds. The drive to the ponds offers great views from the car window without getting wet. The day ends safely and dry.",
+            "hr": "Iskoristite automobil kao pokrivalo između znamenitosti. Jutro je za unutarnju kulturu, a u podne možete iskoristiti kratke prestanke kiše na igralištima. Vožnja do ribnjaka nudi lijepe poglede kroz prozor auta bez da se smočite. Dan završava sigurno i suho."
           },
           "stops": [
             {
@@ -761,13 +841,15 @@
                 "de": "Stadtmuseum Virovitica",
                 "hu": "Viroviticai Városi Múzeum",
                 "ro": "Muzeul Orașului Virovitica",
-                "en": "Virovitica City Museum"
+                "en": "Virovitica City Museum",
+                "hr": "Gradski muzej Virovitica"
               },
               "tip_5lang": {
                 "de": "Parken Sie so nah wie möglich am Schlosseingang, um den Regenweg zu minimieren; lassen Sie nasse Schirme im Auto zurück, um die Museumsräume trocken zu halten.",
                 "hu": "Parkoljon a lehető legközelebb a kastély bejáratához, hogy minimálisra csökkentse az esőben megtett utat; hagyja a vizes ernyőket az autóban a látogatás idejére.",
                 "ro": "Parcați cât mai aproape de intrarea în castel pentru a minimiza drumul prin ploaie; lăsați umbrelele ude în mașină pentru a menține muzeul uscat.",
-                "en": "Park as close as possible to the castle entrance to minimize the walk in the rain; leave wet umbrellas in the car to keep the museum rooms dry."
+                "en": "Park as close as possible to the castle entrance to minimize the walk in the rain; leave wet umbrellas in the car to keep the museum rooms dry.",
+                "hr": "Parkirajte što bliže ulazu u dvorac kako biste smanjili hod po kiši; mokre kišobrane ostavite u autu kako bi muzejske prostorije ostale suhe."
               }
             },
             {
@@ -775,13 +857,15 @@
                 "de": "Spielplatz Suvara",
                 "hu": "Suvara Játszótér",
                 "ro": "Loc de joacă Suvara",
-                "en": "Suvara Playground"
+                "en": "Suvara Playground",
+                "hr": "Igralište Suvara"
               },
               "tip_5lang": {
                 "de": "Warten Sie eine Regenpause im Auto ab, bevor Sie die Kinder kurz springen lassen; Handtücher im Kofferraum sind goldwert, um nasse Hosen nach dem Spielen abzutrocknen.",
                 "hu": "Várjon meg egy esőszünetet az autóban, mielőtt hagyná a gyerekeket kicsit szaladgálni; a csomagtartóban lévő törölközők aranyat érnek a vizes nadrágok megszárításához.",
                 "ro": "Așteptați o pauză de ploaie în mașină înainte de a lăsa copiii să alerge puțin; prosoapele din portbagaj sunt de neprețuit pentru a usca pantalonii uzi după joacă.",
-                "en": "Wait for a rain break in the car before letting the kids run around briefly; towels in the trunk are worth their weight in gold for drying wet pants after playing."
+                "en": "Wait for a rain break in the car before letting the kids run around briefly; towels in the trunk are worth their weight in gold for drying wet pants after playing.",
+                "hr": "Pričekajte prestanak kiše u autu prije nego što djeca nakratko potrče; ručnici u prtljažniku vrijede zlata za sušenje mokrih hlača nakon igre."
               }
             },
             {
@@ -789,13 +873,15 @@
                 "de": "1. Teich",
                 "hu": "1. tó",
                 "ro": "Iazul 1",
-                "en": "1st Pond"
+                "en": "1st Pond",
+                "hr": "1. ribnjak"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den Blick auf den Teich direkt vom Parkplatz aus, falls es zu stark regnet; die Zufahrtsstraßen können bei Nässe rutschig sein, fahren Sie vorsichtig.",
                 "hu": "Élvezze a kilátást a tóra közvetlenül a parkolóból, ha túl erősen esne; a bekötőutak nedves időben csúszósak lehetnek, vezessen óvatosan.",
                 "ro": "Bucurați-vă de vederea spre iaz direct din parcare dacă plouă prea tare; drumurile de acces pot fi alunecoase pe timp de ploaie, conduceți cu atenție.",
-                "en": "Enjoy the view of the pond directly from the parking lot if it's raining too hard; the access roads can be slippery when wet, drive carefully."
+                "en": "Enjoy the view of the pond directly from the parking lot if it's raining too hard; the access roads can be slippery when wet, drive carefully.",
+                "hr": "Uživajte u pogledu na ribnjak iz samog parkirališta ako prejako pada kiša; pristupne ceste mogu biti skliske kad su mokre, vozite pažljivo."
               }
             },
             {
@@ -803,13 +889,15 @@
                 "de": "4. Teich",
                 "hu": "4. tó",
                 "ro": "Iazul 4",
-                "en": "4th Pond"
+                "en": "4th Pond",
+                "hr": "4. ribnjak"
               },
               "tip_5lang": {
                 "de": "Ein kurzes Aussteigen für ein Foto lohnt sich, aber halten Sie die Autotüren nicht zu lange offen; die feuchte Luft beschlägt sonst schnell die Scheiben von innen.",
                 "hu": "Egy rövid kiszállás egy fotóért megéri, de ne tartsa túl sokáig nyitva az autó ajtaját; a párás levegő miatt gyorsan bepárásodhatnak az ablakok belülről.",
                 "ro": "O scurtă coborâre pentru o fotografie merită, dar nu țineți ușile mașinii deschise prea mult; aerul umed va aburi rapid geamurile pe interior.",
-                "en": "A short hop out for a photo is worth it, but don't keep the car doors open too long; the humid air will quickly fog up the windows from the inside."
+                "en": "A short hop out for a photo is worth it, but don't keep the car doors open too long; the humid air will quickly fog up the windows from the inside.",
+                "hr": "Kratki iskok za fotografiju se isplati, ali nemojte predugo držati vrata auta otvorena; vlažan zrak će brzo zamagliti prozore iznutra."
               }
             },
             {
@@ -817,13 +905,15 @@
                 "de": "7. Teich",
                 "hu": "7. tó",
                 "ro": "Iazul 7",
-                "en": "7th Pond"
+                "en": "7th Pond",
+                "hr": "7. ribnjak"
               },
               "tip_5lang": {
                 "de": "Achten Sie beim Parken auf weichen Untergrund, um nicht im Schlamm steckenzubleiben; nutzen Sie die Sitzheizung, um sich nach dem kurzen Fotostopp wieder aufzuwärmen.",
                 "hu": "Parkoláskor ügyeljen a puha talajra, nehogy elakadjon a sárban; használja az ülésfűtést, hogy a rövid fotómegálló után gyorsan újra felmelegedjen.",
                 "ro": "Aveți grijă la terenul moale când parcați pentru a nu rămâne blocați în noroi; folosiți încălzirea în scaune pentru a vă reîncălzi rapid după scurta oprire foto.",
-                "en": "Watch out for soft ground when parking to avoid getting stuck in the mud; use the seat heating to quickly warm up again after the short photo stop."
+                "en": "Watch out for soft ground when parking to avoid getting stuck in the mud; use the seat heating to quickly warm up again after the short photo stop.",
+                "hr": "Pazite na mekano tlo prilikom parkiranja kako ne biste zapeli u blatu; upotrijebite grijače sjedala da se brzo ugrijete nakon kratkog fotografskog stajanja."
               }
             },
             {
@@ -831,13 +921,15 @@
                 "de": "9. Teich",
                 "hu": "9. tó",
                 "ro": "Iazul 9",
-                "en": "9th Pond"
+                "en": "9th Pond",
+                "hr": "9. ribnjak"
               },
               "tip_5lang": {
                 "de": "Der neunte Teich wirkt im Regen besonders ruhig und verlassen; schalten Sie das Abblendlicht ein, da die Sichtverhältnisse auf den schmalen Wegen oft schlecht sind.",
                 "hu": "A kilencedik tó esőben különösen nyugodtnak és elhagyatottnak tűnik; kapcsolja be a tompított fényszórót, mivel a látási viszonyok a keskeny utakon gyakran rosszak.",
                 "ro": "Al nouălea iaz pare deosebit de liniștit și pustiu pe ploaie; aprindeți faza scurtă, deoarece vizibilitatea pe drumurile înguste este adesea redusă.",
-                "en": "The ninth pond looks particularly calm and deserted in the rain; turn on your low beam headlights as visibility on the narrow roads is often poor."
+                "en": "The ninth pond looks particularly calm and deserted in the rain; turn on your low beam headlights as visibility on the narrow roads is often poor.",
+                "hr": "Deveti ribnjak izgleda posebno mirno i pusto po kiši; uključite kratka svjetla jer je vidljivost na uskim cestama često loša."
               }
             }
           ]
@@ -847,7 +939,8 @@
             "de": "Nutzen Sie den Komfort Ihres Autos für eine winterliche Tour. Vormittags besuchen Sie das warme Museum und das Theater. Mittags bieten die Spielplätze frische Luft, bevor es zu den gefrorenen Teichen geht. Genießen Sie die winterliche Stille am Wasser und kehren Sie vor dem Sonnenuntergang um 17:00 Uhr zurück.",
             "hu": "Használja autója kényelmét egy téli túrához. Délelőtt látogassa meg a meleg múzeumot és a színházat. Délben a játszóterek friss levegőt kínálnak, mielőtt a befagyott tavakhoz indulna. Élvezze a téli csendet a víznél, és térjen vissza az 17:00-s naplemente előtt.",
             "ro": "Folosiți confortul mașinii pentru un tur de iarnă. Dimineața vizitați muzeul cald și teatrul. La prânz, locurile de joacă oferă aer curat înainte de a pleca spre iazurile înghețate. Bucurați-vă de liniștea iernii la apă și întoarceți-vă înainte de apusul de la ora 17:00.",
-            "en": "Use your car's comfort for a winter tour. In the morning, visit the warm museum and the theater. At noon, the playgrounds offer fresh air before heading to the frozen ponds. Enjoy the winter silence by the water and return before the sunset at 17:00."
+            "en": "Use your car's comfort for a winter tour. In the morning, visit the warm museum and the theater. At noon, the playgrounds offer fresh air before heading to the frozen ponds. Enjoy the winter silence by the water and return before the sunset at 17:00.",
+            "hr": "Iskoristite udobnost automobila za zimsku turu. Ujutro posjetite topao muzej i kazalište. U podne igrališta nude svjež zrak prije nego što krenete prema zaleđenim ribnjacima. Uživajte u zimskoj tišini uz vodu i vratite se prije zalaska sunca u 17:00."
           },
           "stops": [
             {
@@ -855,13 +948,15 @@
                 "de": "Stadtmuseum Virovitica",
                 "hu": "Viroviticai Városi Múzeum",
                 "ro": "Muzeul Orașului Virovitica",
-                "en": "Virovitica City Museum"
+                "en": "Virovitica City Museum",
+                "hr": "Gradski muzej Virovitica"
               },
               "tip_5lang": {
                 "de": "Die Heizung im Schloss läuft auf Hochtouren, lassen Sie Ihre dicken Mäntel im Auto, um die Ausstellung leichter zu erkunden; prüfen Sie den Reifendruck bei Kälte.",
                 "hu": "A kastély fűtése teljes gőzzel üzemel, hagyja a vastag kabátokat az autóban a könnyebb nézelődéshez; ellenőrizze a guminyomást a nagy hidegben.",
                 "ro": "Încălzirea în castel este la maximum, lăsați hainele groase în mașină pentru a explora expoziția mai ușor; verificați presiunea în pneuri pe timp de ger.",
-                "en": "The heating in the castle is in full swing, leave your thick coats in the car to explore the exhibition more easily; check tire pressure in the cold."
+                "en": "The heating in the castle is in full swing, leave your thick coats in the car to explore the exhibition more easily; check tire pressure in the cold.",
+                "hr": "Grijanje u dvorcu radi punom snagom, ostavite debele kapute u autu radi lakšeg razgledavanja izložbe; provjerite tlak u gumama na hladnoći."
               }
             },
             {
@@ -869,13 +964,15 @@
                 "de": "Spielplatz Suvara",
                 "hu": "Suvara Játszótér",
                 "ro": "Loc de joacă Suvara",
-                "en": "Suvara Playground"
+                "en": "Suvara Playground",
+                "hr": "Igralište Suvara"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie kurz draußen sind; achten Sie auf Frost auf den Spielgeräten, die Metallteile können extrem kalt sein.",
                 "hu": "Ne járassa feleslegesen a motort, amíg kint tartózkodnak; ügyeljen a játékokon lévő zúzmarára, a fém részek rendkívül hidegek lehetnek.",
                 "ro": "Nu lăsați motorul pornit inutil cât timp sunteți afară; aveți grijă la chiciura de pe aparatele de joacă, părțile metalice pot fi extrem de reci.",
-                "en": "Don't leave the engine running unnecessarily while you're outside; watch out for frost on the playground equipment, metal parts can be extremely cold."
+                "en": "Don't leave the engine running unnecessarily while you're outside; watch out for frost on the playground equipment, metal parts can be extremely cold.",
+                "hr": "Ne ostavljajte motor nepotrebno upaljen dok ste vani; pazite na poledicu na spravama, metalni dijelovi mogu biti izuzetno hladni."
               }
             },
             {
@@ -883,13 +980,15 @@
                 "de": "1. Teich",
                 "hu": "1. tó",
                 "ro": "Iazul 1",
-                "en": "1st Pond"
+                "en": "1st Pond",
+                "hr": "1. ribnjak"
               },
               "tip_5lang": {
                 "de": "Die Parkplätze können glatt sein, treten Sie vorsichtig aus dem Wagen; genießen Sie den Blick auf das vielleicht gefrorene Wasser bei laufender Autoheizung.",
                 "hu": "A parkolók jegesek lehetnek, óvatosan szálljon ki a kocsiból; élvezze a kilátást az esetleg befagyott vízre a járó autófűtés mellett.",
                 "ro": "Parcările pot fi alunecoase, coborâți cu atenție din mașină; bucurați-vă de vederea spre apa eventual înghețată în timp ce merge încălzirea în mașină.",
-                "en": "Parking lots can be icy, step out of the car carefully; enjoy the view of the possibly frozen water with the car heater running."
+                "en": "Parking lots can be icy, step out of the car carefully; enjoy the view of the possibly frozen water with the car heater running.",
+                "hr": "Parkirališta mogu biti poledena, pažljivo izlazite iz auta; uživajte u pogledu na moguće zaleđenu vodu uz upaleni grijač u autu."
               }
             },
             {
@@ -897,13 +996,15 @@
                 "de": "4. Teich",
                 "hu": "4. tó",
                 "ro": "Iazul 4",
-                "en": "4th Pond"
+                "en": "4th Pond",
+                "hr": "4. ribnjak"
               },
               "tip_5lang": {
                 "de": "Die Wege zwischen den Teichen sind im Winter oft einsam, führen Sie ein Handy für Notfälle mit; die tiefstehende Sonne kann die Sicht beim Fahren stark beeinträchtigen.",
                 "hu": "A tavak közötti utak télen gyakran magányosak, legyen Önöknél feltöltött telefon; az alacsonyan lévő nap erősen zavarhatja a kilátást vezetés közben.",
                 "ro": "Drumurile dintre iazuri sunt adesea pustii iarna, aveți la voi un telefon încărcat; soarele care stă jos poate afecta serios vizibilitatea în timp ce conduceți.",
-                "en": "The roads between the ponds are often lonely in winter, carry a charged phone; the low sun can seriously impair visibility while driving."
+                "en": "The roads between the ponds are often lonely in winter, carry a charged phone; the low sun can seriously impair visibility while driving.",
+                "hr": "Ceste između ribnjaka zimi su često puste, nosite napunjeni telefon; nisko sunce može ozbiljno smanjiti vidljivost tijekom vožnje."
               }
             },
             {
@@ -911,13 +1012,15 @@
                 "de": "7. Teich",
                 "hu": "7. tó",
                 "ro": "Iazul 7",
-                "en": "7th Pond"
+                "en": "7th Pond",
+                "hr": "7. ribnjak"
               },
               "tip_5lang": {
                 "de": "Nutzen Sie den kurzen Stopp für ein Winterfoto, aber ziehen Sie sich für die wenigen Minuten draußen komplett an; Schneereste auf der Fahrbahn erfordern Winterreifen.",
                 "hu": "Használja ki a rövid megállót egy téli fotóra, de öltözzön fel teljesen arra a pár percre is; az úttesten lévő hómaradványok téli gumit igényelnek.",
                 "ro": "Profitați de scurta oprire pentru o poză de iarnă, dar îmbrăcați-vă complet chiar și pentru acele câteva minute; resturile de zăpadă de pe drum necesită anvelope de iarnă.",
-                "en": "Take advantage of the short stop for a winter photo, but dress fully even for those few minutes; snow residue on the road requires winter tires."
+                "en": "Take advantage of the short stop for a winter photo, but dress fully even for those few minutes; snow residue on the road requires winter tires.",
+                "hr": "Iskoristite kratko zaustavljanje za zimsku fotografiju, ali se u potpunosti obucite čak i za tih nekoliko minuta; ostaci snijega na cesti zahtijevaju zimske gume."
               }
             },
             {
@@ -925,13 +1028,15 @@
                 "de": "9. Teich",
                 "hu": "9. tó",
                 "ro": "Iazul 9",
-                "en": "9th Pond"
+                "en": "9th Pond",
+                "hr": "9. ribnjak"
               },
               "tip_5lang": {
                 "de": "Es wird bereits dunkel, schalten Sie die Scheinwerfer rechtzeitig ein; die Rückfahrt in die Stadt führt durch Waldstücke, achten Sie auf Wildwechsel bei Dämmerung.",
                 "hu": "Már sötétedik, kapcsolja be időben a fényszórókat; a városba visszavezető út erdős részeken át vezet, ügyeljen a vadakra a szürkületben.",
                 "ro": "Se întunecă deja, aprindeți farurile la timp; drumul de întoarcere în oraș trece prin zone împădurite, aveți grijă la animalele sălbatice la amurg.",
-                "en": "It's already getting dark, turn on your headlights in time; the return trip to the city leads through wooded areas, watch out for wildlife at dusk."
+                "en": "It's already getting dark, turn on your headlights in time; the return trip to the city leads through wooded areas, watch out for wildlife at dusk.",
+                "hr": "Već se smrkava, na vrijeme uključite svjetla; povratak u grad vodi kroz šumske predjele, pazite na divljač pri sumraku."
               }
             }
           ]

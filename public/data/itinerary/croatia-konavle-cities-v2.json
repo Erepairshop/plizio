@@ -32,7 +32,7 @@
             "hu": "Sétáljon végig a Rat-félsziget hangulatos sikátorain.",
             "ro": "Plimbați-vă pe străduțele înguste ale peninsulei Rat.",
             "en": "Stroll through the narrow stone alleys of the Rat peninsula.",
-            "hr": "Prošećite uskim kamenim uličicama poluotoka Rat."
+            "hr": "Prošeći uskim kamenim uličicama poluotoka Rat."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Csodálja meg a templom belső értékes oltárképeit.",
             "ro": "Admirați picturile valoroase de pe altarul din interior.",
             "en": "Admire the precious altarpieces inside the church.",
-            "hr": "Divite se dragocjenim oltarnim palama u crkvi."
+            "hr": "Divi se dragocjenim oltarima unutar crkve."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Tökéletes hely egy eszpresszóhoz a türkizkék víz partján.",
             "ro": "Locul perfect pentru un espresso lângă apa turcoaz.",
             "en": "Perfect spot for an espresso right by the turquoise water.",
-            "hr": "Savršeno mjesto za espresso tik uz tirkizno more."
+            "hr": "Savršeno mjesto za espresso uz tirkiznu vodu."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Kóstolja meg a friss halat vagy a fekete rizottót.",
             "ro": "Încercați peștele proaspăt sau risottoul negru.",
             "en": "Try fresh fish or the traditional black risotto.",
-            "hr": "Kušajte svježu ribu ili tradicionalni crni rižoto."
+            "hr": "Probaj svježu ribu ili tradicionalni crni rižot."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Kristálytiszta víz és árnyas fenyőfák a parton.",
             "ro": "Apă limpede și umbră sub pinii de pe mal.",
             "en": "Crystal clear water and shade under the pine trees.",
-            "hr": "Kristalno čisto more i hlad ispod borova."
+            "hr": "Kristalno čista voda i hladovina pod borovima."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Élvezze az adriai panorámát a nap végén.",
             "ro": "Bucurați-vă de panorama Adriaticii la finalul zilei.",
             "en": "Enjoy the Adriatic panorama as you end your walk.",
-            "hr": "Uživajte u jadranskoj panorami dok završavate šetnju."
+            "hr": "Uživaj u jadranskoj panorami na kraju svoje šetnje."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "Fedezze fel az elegáns Cavtatot gyalogosan. A reggel a történelmi óvárosban és a Szent Miklós templomnál indul. A parti sétányon tett pihentető séta után autentikus ebéd következik. A délutánt a strandon töltheti, majd a napot egy csodás panorámával zárhatja.",
         "ro": "Descoperiți elegantul Cavtat la pas. Dimineața începe în centrul istoric și la biserica Sf. Nicolae. După o plimbare relaxantă pe faleză, urmează un prânz autentic. După-amiaza este dedicată plajei, iar ziua se încheie cu o vedere panoramică superbă.",
         "en": "Explore elegant Cavtat on foot. Your morning starts in the historical center and at St. Nicholas Church. After a relaxing stroll along the Riva, enjoy an authentic lunch. Spend the afternoon by the sea before concluding your day with a breathtaking panorama.",
-        "hr": "Istražite elegantni Cavtat pješice. Vaše jutro počinje u povijesnoj jezgri i kod crkve sv. Nikole. Nakon opuštajuće šetnje Rivom, uživajte u autentičnom ručku. Provedite poslijepodne uz more prije nego što dan završite uz panoramu koja oduzima dah."
+        "hr": "Istraži elegantni Cavtat pješice. Jutro započinje u povijesnom centru i kod crkve Sv. Nikole. Nakon opuštajuće šetnje Rivom, uživaj u autentičnom ručku. Poslijepodne provedemo uz more prije nego što dan završi zapanjujućom panoramom."
       },
       "gastro_picks": {
         "de": [
@@ -261,9 +261,9 @@
           "The waterfront promenade is quietest in the morning."
         ],
         "hr": [
-          "Nosite udobnu obuću za kamene ulice.",
-          "Ne zaboravite kupaći kostim; more je kristalno čisto.",
-          "Šetnica uz more je najmirnija ujutro."
+          "Nosite udobnu obuću za popločane ulice.",
+          "Ne zaboravi kupaći kostim; voda je kristalno čista.",
+          "Obalna šetnica najmirnija je ujutro."
         ]
       },
       "variants": {
@@ -273,7 +273,7 @@
             "hu": "A reggel Cavtat óvárosának védett árkádjai alatt indul. Délben a Szent Miklós-templom csendes békéjében bújunk el az eső elől, majd egy hosszú, kényelmes ebédet fogyasztunk el egy konobában. Délután esernyővel sétálunk a Riva mentén, figyelve a szürke Adria hullámait. Az este egy forró ital mellett telik, miközben a ködös Dubrovnik sziluettjét nézzük.",
             "ro": "Dimineața începe sub arcadele protectoare ale centrului vechi din Cavtat. La prânz găsim refugiu în atmosfera caldă a bisericii Sf. Nicolae, urmată de un prânz prelungit într-o tavernă locală. După-amiaza ne plimbăm cu umbrela pe faleză, unde marea gri se lovește dramatic de țărm. Seara se încheie cu o băutură caldă, admirând silueta cețoasă a Dubrovnikului.",
             "en": "Morning starts under the protective stone arches of Cavtat's old town. At noon, we find shelter in the peaceful St. Nicholas Church, followed by a long, cozy lunch in a local konoba. In the afternoon, we stroll with umbrellas along the Riva, watching the grey Adriatic waves crash. The evening concludes with a warm drink while viewing the misty silhouette of Dubrovnik.",
-            "hr": "Jutro počinje pod zaštitnim kamenim lukovima starog grada Cavtata. U podne tražimo zaklon u mirnoj crkvi sv. Nikole, nakon čega slijedi dugi, ugodni ručak u lokalnoj konobi. Poslijepodne šećemo s kišobranima uz Rivu, promatrajući kako se sivi jadranski valovi razbijaju. Večer završava uz topli napitak uz pogled na maglovitu siluetu Dubrovnika."
+            "hr": "Jutro počinje pod zaštitnim kamenim lukovima starog grada Cavtata. U podne nalazimo zaklon u mirnoj crkvi Sv. Nikole, nakon čega slijedi dugi, ugodni ručak u lokalnoj konobi. Poslijepodne šetamo s kišobranima Rivom, promatrajući sive jadranske valove. Večer završava toplim napitkom uz pogled na maglovitu siluetu Dubrovnika."
           },
           "stops": [
             {
@@ -283,7 +283,7 @@
                 "hu": "Használja a szűk utcákat szélvédelemként.",
                 "ro": "Folosiți străzile înguste pentru protecție contra vântului.",
                 "en": "Use the narrow streets for wind protection.",
-                "hr": "Koristite uske ulice za zaštitu od vjetra."
+                "hr": "Koristi uske ulice kao zaštitu od vjetra."
               }
             },
             {
@@ -293,7 +293,7 @@
                 "hu": "Tökéletes hely, hogy szárazon maradjunk.",
                 "ro": "Un loc perfect pentru a rămâne uscat.",
                 "en": "A perfect place to stay dry.",
-                "hr": "Savršeno mjesto za ostati suh."
+                "hr": "Savršeno mjesto da ostaneš suh."
               }
             },
             {
@@ -303,7 +303,7 @@
                 "hu": "Vigyázat, a kövek vizesen csúszósak.",
                 "ro": "Atenție, pietrele sunt alunecoase când sunt ude.",
                 "en": "Careful, the stones are slippery when wet.",
-                "hr": "Oprez, kamenje je klizavo kad je mokro."
+                "hr": "Pazi, kamenje je sklisko kad je mokro."
               }
             },
             {
@@ -313,7 +313,7 @@
                 "hu": "Kóstoljon meg egy melengető dalmát levest.",
                 "ro": "Încercați o supă dalmațiană caldă.",
                 "en": "Try a warming Dalmatian soup.",
-                "hr": "Kušajte toplu dalmatinsku juhu."
+                "hr": "Probaj okrepljujuću dalmatinsku juhu."
               }
             },
             {
@@ -323,7 +323,7 @@
                 "hu": "A kávézók fedett ülőhelyeket kínálnak.",
                 "ro": "Cafenelele oferă locuri acoperite.",
                 "en": "The cafes offer covered seating.",
-                "hr": "Kafići nude natkrivena sjedala."
+                "hr": "Kafići nude natkriveni prostor za sjedenje."
               }
             },
             {
@@ -333,7 +333,7 @@
                 "hu": "A tenger esőben misztikus látványt nyújt.",
                 "ro": "Marea arată mistic pe ploaie.",
                 "en": "The sea looks mystical in the rain.",
-                "hr": "More izgleda mistično na kiši."
+                "hr": "More izgleda mistično po kiši."
               }
             }
           ],
@@ -363,10 +363,10 @@
               "A sturdy umbrella is essential due to the wind."
             ],
             "hr": [
-              "Nosite vodootpornu obuću za kamene ulice.",
-              "U slučaju jake kiše, potražite zaklon u galeriji Bukovac.",
-              "Kafići na Rivi imaju nadstrešnice za zaklon.",
-              "Čvrsti kišobran je neophodan zbog vjetra."
+              "Nosite vodootpornu obuću za popločane ulice.",
+              "Po jakoj kiši potraži zaklon u Galeriji Bukovac.",
+              "Kafići na Rivi imaju tende za zaklon.",
+              "Čvrst kišobran je nužan zbog vjetra."
             ]
           }
         },
@@ -376,7 +376,7 @@
             "hu": "A tiszta téli reggel ragyogóvá teszi az óváros fehér köveit. Délben az alacsonyan járó nap melegít minket a parton, mielőtt egy tartalmas ebédre indulnánk. A délután a tengerpart csendjéé, a nyári tömeg nélkül. Mivel a nap már 16:30 körül nyugszik, korán élvezzük az aranyló fényeket a kilátóponton.",
             "ro": "O dimineață senină de iarnă face ca piatra albă a orașului să strălucească. La prânz, soarele blând ne încălzește pe faleză înainte de un prânz consistent. După-amiaza aparține liniștii țărmului, fără mulțimile de vară. Deoarece soarele apune deja în jur de 16:30, ne bucurăm devreme de lumina aurie la punctul de observație.",
             "en": "A crisp winter morning makes the white stone of the old town glow. At noon, the low sun warms us on the promenade before we head for a hearty lunch. The afternoon belongs to the silence of the coast, free from summer crowds. Since the sun sets around 4:30 PM, we enjoy the golden light at the viewpoint early.",
-            "hr": "Svježe zimsko jutro čini bijeli kamen starog grada blistavim. U podne nas grije nisko sunce na šetnici prije nego što krenemo na obilan ručak. Poslijepodne pripada tišini obale, bez ljetnih gužvi. Budući da sunce zalazi oko 16:30, rano uživamo u zlatnoj svjetlosti na vidikovcu."
+            "hr": "Hladno zimsko jutro čini da bijeli kamen starog grada izbija sjajem. U podne nas nisko sunce grije na šetnici prije nego što krenemo na obilni ručak. Poslijepodne pripada tišini obale, oslobođene ljetnih gužvi. Budući da sunce zalazi oko 16:30, uživamo u zlatnom svjetlu na vidikovcu rano."
           },
           "stops": [
             {
@@ -416,7 +416,7 @@
                 "hu": "Kérdezzen rá a szezonális vadételekre.",
                 "ro": "Întrebați de preparatele sezoniere din vânat.",
                 "en": "Ask for seasonal game dishes.",
-                "hr": "Pitajte za sezonska jela od divljači."
+                "hr": "Zatraži sezonska jela od divljači."
               }
             },
             {
@@ -426,7 +426,7 @@
                 "hu": "Élvezze a tengerparti egyedüllétet.",
                 "ro": "Bucurați-vă de singurătatea de la malul mării.",
                 "en": "Enjoy the solitude by the sea.",
-                "hr": "Uživajte u samoći uz more."
+                "hr": "Uživaj u samoći uz more."
               }
             },
             {
@@ -466,10 +466,10 @@
               "A hot tea at the harbor is great after the walk."
             ],
             "hr": [
-              "Slojevita odjeća štiti od morskog vjetra.",
-              "Mnoge suvenirnice su zatvorene zimi.",
+              "Višeslojna odjeća štiti od morskog vjetra.",
+              "Mnoge prodavaonice suvenira zimi su zatvorene.",
               "Zrak je izuzetno čist za dalekosežne poglede.",
-              "Vrući čaj u luci godi nakon šetnje."
+              "Topli čaj u luci je odličan nakon šetnje."
             ]
           }
         }
@@ -499,7 +499,7 @@
             "hu": "Kiindulópont a tengerparti tekeréshez.",
             "ro": "Punctul de plecare pentru tura pe coastă.",
             "en": "The starting point for your coastal ride.",
-            "hr": "Početna točka vaše vožnje uz obalu."
+            "hr": "Polazište tvoje obalne vožnje."
           }
         },
         {
@@ -518,7 +518,7 @@
             "hu": "Tolja a biciklit az óváros szűk utcáin.",
             "ro": "Mergeți pe lângă bicicletă în centrul vechi.",
             "en": "Walk your bike through the old town alleys.",
-            "hr": "Gurajte bicikl kroz uličice starog grada."
+            "hr": "Prođi bicikl pješice kroz uličice starog grada."
           }
         },
         {
@@ -537,7 +537,7 @@
             "hu": "Szép kerékpárút a tengerparti fenyvesek árnyékában.",
             "ro": "Traseu frumos prin pini, la umbră, pe malul mării.",
             "en": "Scenic path under the shade of pines by the sea.",
-            "hr": "Slikovita staza u hladu borova uz more."
+            "hr": "Scenski put ispod hlada borova uz more."
           }
         },
         {
@@ -556,7 +556,7 @@
             "hu": "Könnyű mediterrán ételek aktív kerékpárosoknak.",
             "ro": "Mâncare mediteraneană ușoară pentru bicicliști.",
             "en": "Light Mediterranean fare for active cyclists.",
-            "hr": "Lagana mediteranska hrana za aktivne bicikliste."
+            "hr": "Lagana mediteranska jela za aktivne bicikliste."
           }
         },
         {
@@ -575,7 +575,7 @@
             "hu": "Frissítő csobbanás a lassan mélyülő kavicsos strandon.",
             "ro": "O baie răcoritoare la plaja cu pietriș.",
             "en": "A refreshing dip at the pebbly beach.",
-            "hr": "Osvježavajuće kupanje na šljunčanoj plaži."
+            "hr": "Osvježavajući skok u šljunčano more."
           }
         },
         {
@@ -603,7 +603,7 @@
         "hu": "Ez a kerékpártúra Cavtat festői tengerparti útjain vezet végig. A kikötői rajt után felfedezheti az óvárost, majd a Tiha-öböl felé tekerhet. Ebéd és a Žal strandon tett fürdőzés után pont a legszebb fényekben ér vissza a félsziget csúcsához.",
         "ro": "Acest tur cu bicicleta vă poartă pe drumurile de coastă pitorești din Cavtat. După plecarea din port, explorați orașul vechi și pedalați spre golful Tiha. După prânz și o baie lungă la plaja Žal, reveniți la capătul peninsulei pentru lumina apusului.",
         "en": "This bike tour takes you along Cavtat's scenic coastal paths. Starting from the harbor, explore the old town before cycling toward Tiha Bay. After lunch and a long swimming break at Žal beach, return to the cape just in time for the golden hour.",
-        "hr": "Ova biciklistička tura vodi vas uz slikovite obalne staze Cavtata. Krenite iz luke, istražite stari grad, a zatim biciklirajte prema uvali Tiha. Nakon ručka i duge pauze za kupanje na plaži Žal, vratite se na rt baš na vrijeme za zlatni sat."
+        "hr": "Ova biciklistička tura vodi te uz slikovite obalne staze Cavtata. Polazeći iz luke, istraži stari grad prije vožnje prema Tihoj uvali. Nakon ručka i duge pauze za kupanje na plaži Žal, vrati se na rt baš na vrijeme za zlatni sat."
       },
       "gastro_picks": {
         "de": [
@@ -728,9 +728,9 @@
           "Watch out for pedestrians on the promenade."
         ],
         "hr": [
-          "Unajmite e-bicikl ako planirate istraživati brda.",
-          "Nosite puno vode; na ruti ima malo hlada.",
-          "Pazite na pješake na šetnici."
+          "Iznajmi e-bicikl ako planiraš istraživati brežuljke.",
+          "Ponesi dovoljno vode; na ruti je malo hlada.",
+          "Pazi na pješake na šetnici."
         ]
       },
       "variants": {
@@ -740,7 +740,7 @@
             "hu": "Frissítő túra a nedves partmenti erdőben. Délelőtt óvatosan kerekezünk a Riva mentén, kikerülve a tócsákat. Délben egy tengerparti étteremben száradunk meg, miközben az eső az ablakon kopog. Délután a Tiha-félsziget szilárd útjain haladunk, ahol a nedves fenyők illata különösen intenzív, majd biztonságban befejezzük a túrát.",
             "ro": "O tură revigorantă prin pădurea umedă de coastă. Dimineața pedalăm cu grijă pe faleză, evitând bălțile. La prânz ne uscăm la o masă caldă lângă mare, în timp ce ploaia bate în geam. După-amiaza ne poartă pe drumuri asfaltate prin Tiha, unde mirosul pinilor uzi este intens, înainte de a încheia tura în siguranță.",
             "en": "A refreshing tour through the damp coastal forest. In the morning, we cycle carefully along the Riva, dodging puddles. At noon, we dry off during a hearty meal by the sea as rain taps on the windows. The afternoon leads us on paved paths through Tiha, where the scent of wet pines is especially intense, before safely ending the tour.",
-            "hr": "Osvježavajuća tura kroz vlažnu obalnu šumu. Ujutro pažljivo bicikliramo uz Rivu, izbjegavajući lokve. U podne se sušimo uz obilan obrok uz more dok kiša lupka po prozorima. Poslijepodne nas vodi asfaltiranim stazama kroz Tihu, gdje je miris mokrih borova posebno intenzivan, prije sigurnog završetka ture."
+            "hr": "Osvježavajuća tura kroz vlažnu obalnu šumu. Ujutro pažljivo vozimo Rivom, izbjegavajući lokve. U podne se sušimo tijekom obilnog obroka uz more dok kiša kuca o prozore. Poslijepodne vodi nas po asfaltiranim stazama kroz Tihu, gdje miris mokrih borova posebno intenzivno miriše, prije sigurnog završetka ture."
           },
           "stops": [
             {
@@ -750,7 +750,7 @@
                 "hu": "Végezzen fékpróbát a nedves talajon.",
                 "ro": "Efectuați teste de frânare pe sol umed.",
                 "en": "Perform brake tests on wet ground.",
-                "hr": "Testirajte kočnice na mokroj podlozi."
+                "hr": "Testiraj kočnice na mokroj podlozi."
               }
             },
             {
@@ -760,7 +760,7 @@
                 "hu": "Az óvárosban inkább tolja a biciklit.",
                 "ro": "Mai bine împingeți bicicleta în centrul vechi.",
                 "en": "Better to push the bike in the old town.",
-                "hr": "Bolje je gurati bicikl u starom gradu."
+                "hr": "Bolje je gurnuti bicikl kroz stari grad."
               }
             },
             {
@@ -770,7 +770,7 @@
                 "hu": "Vigyázat a csúszós fenyőtűkkel.",
                 "ro": "Atenție la acele de pin alunecoase.",
                 "en": "Watch out for slippery pine needles.",
-                "hr": "Pazite na klizave borove iglice."
+                "hr": "Pazi na klizave borove iglice."
               }
             },
             {
@@ -780,7 +780,7 @@
                 "hu": "Parkolja a biciklit előtető alá.",
                 "ro": "Parcați bicicleta sub un acoperiș.",
                 "en": "Park the bike under an awning.",
-                "hr": "Parkirajte bicikl ispod nadstrešnice."
+                "hr": "Parkiraj bicikl pod nadstrešnicom."
               }
             },
             {
@@ -790,7 +790,7 @@
                 "hu": "Rövid megálló, ma nincs fürdés.",
                 "ro": "Oprire scurtă, fără baie astăzi.",
                 "en": "Short stop, no swimming today.",
-                "hr": "Kratko zaustavljanje, danas nema kupanja."
+                "hr": "Kratka stanka, danas nema kupanja."
               }
             },
             {
@@ -800,7 +800,7 @@
                 "hu": "Figyelje a drámai felhőalakzatokat.",
                 "ro": "Observați formațiunile dramatice de nori.",
                 "en": "Observe the dramatic cloud formations.",
-                "hr": "Promatrajte dramatične formacije oblaka."
+                "hr": "Promatraj dramatične oblake."
               }
             }
           ],
@@ -830,9 +830,9 @@
               "Wear bright clothing for better visibility."
             ],
             "hr": [
-              "Potpuna oprema za kišu je neophodna.",
-              "Malo smanjite tlak u gumama za bolje prianjanje.",
-              "Izbjegavajte neasfaltirane šumske staze (opasnost od blata).",
+              "Potpuna kišna oprema je obavezna.",
+              "Smanji tlak u gumama malo za bolje prianjanje.",
+              "Izbjegavaj neasfaltirane šumske putove (rizik od blata).",
               "Nosite svijetlu odjeću za bolju vidljivost."
             ]
           }
@@ -843,7 +843,7 @@
             "hu": "Friss téli nap a nyeregben. A délelőtt a Riván élénkítően hűvös, a levegő kristálytiszta. Délben egy tengerre néző teraszon élvezzük a napsütést, termoruhába bugyolálva. Délután Tiha csendes természetében kerekezünk, élvezve a magányt, mielőtt pontosan a korai naplementére a fokhoz érnénk. A hideget kárpótolja a lélegzetelállító kilátás.",
             "ro": "O zi răcoroasă de iarnă în șa. Dimineața pe faleză este revigorant de rece, aerul fiind de cristal. La prânz ne bucurăm de soare pe o terasă cu vedere la mare, bine echipați. După-amiaza pedalăm prin natura liniștită din Tiha, bucurându-ne de singurătate înainte de a ajunge la capăt la apus. Frigul este răsplătit de panorama uimitoare.",
             "en": "A fresh winter day in the saddle. The morning on the Riva is bracingly cool, the air crystal clear. At noon, we enjoy the sun on a terrace with sea views, well wrapped in thermal gear. In the afternoon, we cycle through the quiet nature of Tiha, enjoying the solitude before reaching the cape right for the early sunset. The cold is rewarded by the stunning view.",
-            "hr": "Svjež zimski dan u sedlu. Jutro na Rivi je okrepljujuće hladno, zrak kristalno čist. U podne uživamo u suncu na terasi s pogledom na more, dobro umotani u termo opremu. Poslijepodne bicikliramo kroz tihu prirodu Tihe, uživajući u samoći prije dolaska na rt točno na rani zalazak sunca. Hladnoća je nagrađena zadivljujućim pogledom."
+            "hr": "Svježi zimski dan u sedlu. Jutro na Rivi prilično je hladno, zrak kristalno čist. U podne uživamo na terasi s pogledom na more, dobro umotani u termalnu opremu. Popodne vozimo kroz mirnu prirodu Tihe, uživajući u samoći prije nego što stižemo na rt upravo za raniji zalazak sunca. Hladnoća je nagrađena zadivljujućim pogledom."
           },
           "stops": [
             {
@@ -853,7 +853,7 @@
                 "hu": "Viseljen kesztyűt a menetszél ellen.",
                 "ro": "Purtați mănuși împotriva vântului.",
                 "en": "Wear gloves against the wind chill.",
-                "hr": "Nosite rukavice protiv hladnog vjetra."
+                "hr": "Nosite rukavice protiv smrzavajućeg vjetra."
               }
             },
             {
@@ -863,7 +863,7 @@
                 "hu": "Az év legnyugodtabb időszaka itt.",
                 "ro": "Cea mai liniștită perioadă a anului.",
                 "en": "The quietest time of the year here.",
-                "hr": "Najmirnije doba godine ovdje."
+                "hr": "Najtiše doba godine ovdje."
               }
             },
             {
@@ -903,7 +903,7 @@
                 "hu": "Ellenőrizze a lámpákat a hazaúthoz.",
                 "ro": "Verificați luminile pentru drumul de întoarcere.",
                 "en": "Check bike lights for the ride back.",
-                "hr": "Provjerite svjetla na biciklu za povratak."
+                "hr": "Provjeri svjetla na biciklu za povratak."
               }
             }
           ],
@@ -933,10 +933,10 @@
               "Stay hydrated even when it's cold."
             ],
             "hr": [
-              "Odjeća otporna na vjetar važnija je od debele izolacije.",
-              "Pazite na zasjenjena područja s preostalom vlagom.",
-              "Dani su kratki, krenite prije 10:00 sati.",
-              "Hidrirajte se čak i kad je hladno."
+              "Vjetrootporna odjeća važnija je od debele izolacije.",
+              "Pazi na sjenovita mjesta s ostatnom vlagom.",
+              "Dani su kratki, kreni prije 10:00.",
+              "Ostani hidriran i kad je hladno."
             ]
           }
         }
@@ -966,7 +966,7 @@
             "hu": "Parkoljon a bejáratnál, és fedezze fel a szűk utcákat.",
             "ro": "Parcați la intrare și explorați străduțele vechi.",
             "en": "Park at the entrance and explore the historic alleys.",
-            "hr": "Parkirajte na ulazu i istražite povijesne uličice."
+            "hr": "Parkiraj na ulazu i istraži povijesne uličice."
           }
         },
         {
@@ -1004,7 +1004,7 @@
             "hu": "Meredek lépcsők vezetnek az egyik legszebb strandra.",
             "ro": "Scări abrupte duc spre una dintre cele mai frumoase plaje.",
             "en": "Steep stairs lead down to one of the most stunning beaches.",
-            "hr": "Strme stepenice vode do jedne od najljepših plaža."
+            "hr": "Strme stepenice vode dolje do jedne od najljepših plaža."
           }
         },
         {
@@ -1042,7 +1042,7 @@
             "hu": "Pisztráng vagy báránysült közvetlenül a folyóparton.",
             "ro": "Păstrăv sau miel fript chiar pe malul râului.",
             "en": "Enjoy trout or roast lamb right by the riverbank.",
-            "hr": "Uživajte u pastrvi ili janjetini pod pekom na samoj obali rijeke."
+            "hr": "Uživaj u pastrvi ili pečenom jagnjetu uz obalu rijeke."
           }
         },
         {
@@ -1061,7 +1061,7 @@
             "hu": "Impozáns erőd kilátással az egész völgyre.",
             "ro": "Cetate impunătoare cu vedere peste întreaga vale.",
             "en": "Imposing fortress with a view over the entire valley.",
-            "hr": "Impozantna utvrda s pogledom na cijelu dolinu."
+            "hr": "Impozantna tvrđava s pogledom na cijelu dolinu."
           }
         },
         {
@@ -1089,7 +1089,7 @@
         "hu": "Autóval Konavle legjavát láthatja: a patinás Cavtattól a rejtett Pasjača strandig és a hatalmas Sokol Grad erődig. Élvezze az utazást a szőlőskertek és olajfaligetek között, megállva egy hűsítő ebédre a Luta-folyó partján.",
         "ro": "Cu mașina veți experimenta tot ce e mai bun în Konavle: de la elegantul Cavtat la plaja ascunsă Pasjača și fortăreața masivă Sokol Grad. Bucurați-vă de drumul printre podgorii și livezi de măslini, cu o pauză de prânz răcoritoare pe malul râului Luta.",
         "en": "By car, experience the very best of Konavle: from sophisticated Cavtat to the hidden Pasjača beach and the mighty Sokol Grad fortress. Enjoy the drive through vineyards and olive groves, including a refreshing lunch by the Luta River.",
-        "hr": "Automobilom doživite ono najbolje od Konavala: od otmjenog Cavtata do skrivene plaže Pasjača i moćne tvrđave Sokol grad. Uživajte u vožnji kroz vinograde i maslinike, uključujući osvježavajući ručak uz rijeku Ljutu."
+        "hr": "Autom doživite najbolje iz Konavala: od profinjenog Cavtata do skrivene plaže Pasjača i moćne utvrde Sokol Grad. Uživajte u vožnji kroz vinograde i maslinike, uključujući osvježavajući ručak uz rijeku Lutu."
       },
       "gastro_picks": {
         "de": [
@@ -1214,9 +1214,9 @@
           "Sturdy shoes are recommended for the descent to Pasjača."
         ],
         "hr": [
-          "Ceste su uske, stoga vozite oprezno.",
+          "Ceste su uske, vozite oprezno.",
           "Parkiranje u Cavtatu može biti izazovno tijekom ljeta.",
-          "Preporučuje se čvrsta obuća za silazak do Pasjače."
+          "Preporučuje se čvrsta obuća za spuštanje do Pasjače."
         ]
       },
       "variants": {
@@ -1226,7 +1226,7 @@
             "hu": "Kényelmes autózás az esős Konavle-völgyben. Délelőtt Cavtatot fedezzük fel, az autó megvéd az esőtől. Délben a Pasjača-strandhoz hajtunk, ahol fentről csodáljuk a vad hullámzást. A délután a Luta-folyónál látványos, mert esőben hatalmasra duzzad a víz. A napot a Sokol Grad erődben zárjuk, amely a ködben szinte misztikusnak tűnik.",
             "ro": "O plimbare relaxantă prin valea Konavle ploioasă. Dimineața explorăm Cavtat, mașina oferindu-ne adăpost. La prânz mergem la plaja Pasjača pentru a admira valurile mari de sus. După-amiaza la râul Luta este spectaculoasă, debitul crescând datorită ploii. Încheiem ziua la cetatea Sokol Grad, care pare mistică în ceață.",
             "en": "A comfortable drive through the rainy Konavle valley. In the morning we explore Cavtat, staying dry in the car. At noon, we head to Pasjača beach to admire the rough surf from above. The afternoon at the Luta river is spectacular, as the water swells with the rain. We end the day at Sokol Grad fortress, which looks almost mystical in the mist.",
-            "hr": "Ugodna vožnja kroz kišnu konavosku dolinu. Ujutro istražujemo Cavtat, ostajući suhi u autu. U podne idemo na plažu Pasjača kako bismo se divili uzburkanom moru odozgo. Poslijepodne uz rijeku Ljutu je spektakularno, jer nabuja od kiše. Dan završavamo u tvrđavi Sokol grad, koja u magli izgleda gotovo mistično."
+            "hr": "Udobna vožnja kroz kišno Konavle. Ujutro istražujemo Cavtat, ostajući suhi u autu. U podne krećemo prema plaži Pasjača da odozgo promatramo razbuktalo more. Popodne uz rijeku Lutu spektakularno je, jer voda buja zbog kiše. Dan završavamo na utvrdi Sokol Grad, koja u magli izgleda gotovo mistično."
           },
           "stops": [
             {
@@ -1236,7 +1236,7 @@
                 "hu": "Szabad parkolók közelebb találhatók a központhoz.",
                 "ro": "Locuri de parcare libere mai aproape de centru.",
                 "en": "Parking spaces are available closer to the center.",
-                "hr": "Parkirna mjesta su dostupna bliže centru."
+                "hr": "Parkirna mjesta dostupna su bliže centru."
               }
             },
             {
@@ -1256,7 +1256,7 @@
                 "hu": "Vigyázat a meredek lépcsőkön.",
                 "ro": "Atenție pe treptele abrupte.",
                 "en": "Careful on the steep steps.",
-                "hr": "Oprez na strmim stepenicama."
+                "hr": "Pazite na strme stepenice."
               }
             },
             {
@@ -1266,7 +1266,7 @@
                 "hu": "A vízesés most hangosabb.",
                 "ro": "Cascada este mai zgomotoasă acum.",
                 "en": "The waterfall is louder now.",
-                "hr": "Slap je sada glasniji."
+                "hr": "Vodopad je sada glasniji."
               }
             },
             {
@@ -1276,7 +1276,7 @@
                 "hu": "Hagyományos ételek a kandalló mellett.",
                 "ro": "Mâncare tradițională lângă șemineu.",
                 "en": "Traditional food by the fireplace.",
-                "hr": "Tradicionalna hrana uz ognjište."
+                "hr": "Tradicionalna hrana kraj kamina."
               }
             },
             {
@@ -1286,7 +1286,7 @@
                 "hu": "Vigyázat a csúszós kőfelületeken.",
                 "ro": "Atenție pe suprafețele de piatră.",
                 "en": "Careful on slippery stone surfaces.",
-                "hr": "Oprez na klizavim kamenim površinama."
+                "hr": "Pazite na skliske kamene površine."
               }
             },
             {
@@ -1296,7 +1296,7 @@
                 "hu": "A felhők alacsonyan szállnak a völgyben.",
                 "ro": "Norii stau jos în vale.",
                 "en": "The clouds hang low in the valley.",
-                "hr": "Oblaci nisko vise u dolini."
+                "hr": "Oblaci vise nisko u dolini."
               }
             }
           ],
@@ -1326,10 +1326,10 @@
               "Visit the oil mills as they are covered."
             ],
             "hr": [
-              "Vozite oprezno na uskim, mokrim cestama.",
-              "Koristite auto kao bazu za presvlačenje.",
-              "Vidljivost u planinama može biti ograničena.",
-              "Posjetite mlinice za ulje jer su natkrivene."
+              "Vozite pažljivo po uskim, mokrim cestama.",
+              "Iskoristite auto kao bazu za presvlačenje.",
+              "Vidljivost može biti ograničena u planinama.",
+              "Posjetite uljare jer su pokrivene."
             ]
           }
         },
@@ -1339,7 +1339,7 @@
             "hu": "Panorámás autózás a téli Konavle-ban. Délelőtt hőség nélkül élvezzük Cavtatot, ami tökéletes a városnézéshez. Délben a Pasjača-strandnál a kék tenger és a fehér sziklák kontrasztjában gyönyörködünk. A Luta-források meglátogatása után egy helyi ebéddel melegszünk fel. A Sokol Grad erőd délután látványos kilátást nyújt az alvó völgyre, mielőtt a nap a kilátóponton véget érne.",
             "ro": "O plimbare panoramică prin Konavle iarna. Dimineața experimentăm Cavtat fără căldură, perfect pentru vizitare. La prânz admirăm marea albastră în contrast cu stâncile albe la Pasjača. După vizitarea izvoarelor Luta, ne încălzim cu un prânz local. Cetatea Sokol Grad oferă după-amiaza o priveliște spectaculoasă asupra văii, înainte ca ziua să se încheie.",
             "en": "A scenic drive through winter Konavle. In the morning, we experience Cavtat without the heat, perfect for sightseeing. At noon, we enjoy the clear views at Pasjača beach, where the blue sea contrasts with white cliffs. After visiting the Luta springs, we warm up with local food. Sokol Grad fortress offers a spectacular view over the sleeping valley in the afternoon.",
-            "hr": "Slikovita vožnja kroz zimske Konavle. Ujutro doživljavamo Cavtat bez vrućine, savršeno za razgledavanje. U podne uživamo u bistrim vidicima na plaži Pasjača, gdje se plavo more ističe uz bijele litice. Nakon posjeta izvorima Ljute, grijemo se uz domaću hranu. Tvrđava Sokol grad nudi spektakularan pogled na usnulu dolinu poslijepodne."
+            "hr": "Scenska vožnja kroz zimska Konavla. Ujutro doživljavamo Cavtat bez vrućine, idealan za razgledavanje. U podne uživamo u jasnim pogledima na plaži Pasjača, gdje plavo more kontrastira s bijelim liticama. Nakon posjeta izvorima Lute, ugrijemo se domaćom hranom. Utvrda Sokol Grad poslijepodne nudi spektakularan pogled preko uspavane doline."
           },
           "stops": [
             {
@@ -1349,7 +1349,7 @@
                 "hu": "Nagyon nyugodt parkolás lehetséges.",
                 "ro": "Parcare foarte relaxată disponibilă.",
                 "en": "Very relaxed parking available.",
-                "hr": "Dostupan vrlo opušten parking."
+                "hr": "Vrlo opušteno parkiranje dostupno."
               }
             },
             {
@@ -1359,7 +1359,7 @@
                 "hu": "Gyakran ünnepi díszben van.",
                 "ro": "Adesea decorată festiv.",
                 "en": "Often festively decorated.",
-                "hr": "Često blagdanski ukrašena."
+                "hr": "Često svečano uređeno."
               }
             },
             {
@@ -1389,7 +1389,7 @@
                 "hu": "Kóstolja meg a helyi bort.",
                 "ro": "Încercați vinul local.",
                 "en": "Try the local wine.",
-                "hr": "Kušajte lokalno vino."
+                "hr": "Isprobajte lokalno vino."
               }
             },
             {
@@ -1399,7 +1399,7 @@
                 "hu": "Hideg szél fúj a bástyákon.",
                 "ro": "Vânt rece pe metereze.",
                 "en": "Cold wind on the battlements.",
-                "hr": "Hladan vjetar na zidinama."
+                "hr": "Hladan vjetar na obrambenim zidinama."
               }
             },
             {
@@ -1440,9 +1440,9 @@
             ],
             "hr": [
               "Pazite na divlje životinje koje prelaze cestu.",
-              "Planinske ceste mogu biti klizave u hladu.",
-              "Natočite gorivo na vrijeme, u dolini je manje postaja.",
-              "Sokol grad se zimi zatvara ranije."
+              "Planinske ceste mogu biti skliske u sjeni.",
+              "Napunite gorivo na vrijeme, manje je postaja u dolini.",
+              "Sokol Grad zimi zatvara ranije."
             ]
           }
         }
@@ -1472,7 +1472,7 @@
             "hu": "Központi érkezési pont a helyi busszal.",
             "ro": "Punctul central de sosire cu autobuzul local.",
             "en": "Central arrival point by local bus.",
-            "hr": "Središnja točka dolaska lokalnim autobusom."
+            "hr": "Središnje mjesto dolaska lokalnim busom."
           }
         },
         {
@@ -1491,7 +1491,7 @@
             "hu": "Könnyen elérhető gyalog a buszállomástól.",
             "ro": "Ușor accesibil pe jos de la autogară.",
             "en": "Easily accessible on foot from the bus station.",
-            "hr": "Lako dostupno pješice s autobusnog kolodvora."
+            "hr": "Jednostavno dostupno pješice od autobusnog kolodvora."
           }
         },
         {
@@ -1529,7 +1529,7 @@
             "hu": "Elérhető kishajóval vagy gyalogosan.",
             "ro": "Accesibil cu barca sau pe jos.",
             "en": "Accessible by shuttle boat or a nice walk.",
-            "hr": "Dostupno brodskom linijom ili lijepom šetnjom."
+            "hr": "Dostupno shuttle brodom ili lijepom šetnjom."
           }
         },
         {
@@ -1548,7 +1548,7 @@
             "hu": "Utolsó megálló a buszos hazautazás előtt.",
             "ro": "Ultima oprire înainte de plecarea cu autobuzul.",
             "en": "Final stop before heading back by bus.",
-            "hr": "Zadnja postaja prije povratka autobusom."
+            "hr": "Zadnja stanica prije povratka autobusom."
           }
         }
       ],
@@ -1557,7 +1557,7 @@
         "hu": "A 10-es számú helyi busszal kényelmesen elérheti Cavtatot Dubrovnikból. Ez a nap a városi látnivalókra koncentrál, kiegészítve egy jó ebéddel a kikötőben és pihenéssel a Žal strandon a délutáni visszautazás előtt.",
         "ro": "Cu autobuzul public (linia 10) ajungeți ușor în Cavtat din Dubrovnik. Această zi se concentrează pe atracțiile din oraș, combinate cu o masă bună în port și relaxare la plaja Žal, înainte de plecarea spre casă.",
         "en": "Take the local bus (Line 10) for a comfortable trip to Cavtat from Dubrovnik. This day focuses on the town's highlights, combining sightseeing with harbor dining and a relaxing time at Žal beach before your afternoon departure.",
-        "hr": "Uzmite lokalni autobus (linija 10) za ugodno putovanje do Cavtata iz Dubrovnika. Ovaj dan je posvećen gradskim znamenitostima, kombinirajući razgledavanje s večerom u luci i opuštanjem na plaži Žal prije poslijepodnevnog polaska."
+        "hr": "Uzmite lokalni autobus (linija 10) za udobnu vožnju do Cavtata iz Dubrovnika. Ovaj dan usredotočen je na gradske znamenitosti, kombinirajući razgledavanje s obrokom u luci i opuštanjem na plaži Žal prije popodnevnog polaska."
       },
       "gastro_picks": {
         "de": [
@@ -1682,8 +1682,8 @@
           "Buy bus tickets from the driver or at a kiosk."
         ],
         "hr": [
-          "Unaprijed provjerite vozni red autobusne linije 10.",
-          "Brodovi za Dubrovnik redovito polaze iz luke.",
+          "Provjerite red vožnje za liniju 10 unaprijed.",
+          "Brodovi za Dubrovnik polaze redovito iz luke.",
           "Kupite autobusne karte kod vozača ili na kiosku."
         ]
       },
@@ -1694,7 +1694,7 @@
             "hu": "Busszal szárazon Cavtatban. Délelőtt a menetidőt használjuk az eső elkerülésére, a záporok között fedezzük fel az óvárost. Délben hosszú ebédet tartunk a kikötőben, miközben a következő buszra várunk. A Žal-strandnál tett látogatás rövid, de a kávézók jó menedéket nyújtanak. A napot egy kávé mellett zárjuk a Riván, kényelmesen, bentről figyelve az időjárást.",
             "ro": "Cu autobuzul prin Cavtat, la adăpost de ploaie. Dimineața folosim timpul de călătorie pentru a scăpa de ploaie. La prânz savurăm o masă lungă în port în timp ce așteptăm autobuzul. După-amiaza la plaja Žal este scurtă, dar cafenelele oferă protecție. Încheiem ziua cu o cafea pe faleză, observând ploaia de la fereastră.",
             "en": "Staying dry in Cavtat by bus. In the morning, we use transit times to escape the rain, exploring the old town between showers. At noon, we enjoy a long meal at the harbor while waiting for the next bus. The afternoon at Žal beach is brief, but cafes provide good shelter. We end the day with a coffee at the Riva, watching the weather comfortably from inside.",
-            "hr": "Boravak u Cavtatu bez močenja uz pomoć autobusa. Ujutro koristimo vremena vožnje kako bismo pobjegli od kiše, istražujući stari grad između pljuskova. U podne uživamo u dugom obroku u luci dok čekamo sljedeći autobus. Poslijepodne na plaži Žal je kratko, ali kafići pružaju dobar zaklon. Dan završavamo uz kavu na Rivi, udobno promatrajući vrijeme iznutra."
+            "hr": "Ostati suhim u Cavtatu autobusom. Ujutro koristimo vrijeme prijelaza da pobjegnemo od kiše, istražujući staru gradsku jezgru između pljuskova. U podne uživamo u dugom obroku u luci dok čekamo sljedeći autobus. Popodne je na plaži Žal kratko, ali kafići pružaju dobar zaklon. Dan završavamo kavom na Rivi, gledajući vrijeme ugodno iznutra."
           },
           "stops": [
             {
@@ -1724,7 +1724,7 @@
                 "hu": "Figyelje a buszmenetrendet.",
                 "ro": "Urmăriți programul autobuzelor.",
                 "en": "Keep an eye on the bus schedule.",
-                "hr": "Pratite vozni red autobusa."
+                "hr": "Pazite na vozni red autobusa."
               }
             },
             {
@@ -1734,7 +1734,7 @@
                 "hu": "Használja a fedett strandbárt.",
                 "ro": "Folosiți barul de plajă acoperit.",
                 "en": "Use the covered beach bar.",
-                "hr": "Koristite natkriveni bar na plaži."
+                "hr": "Iskoristite natkriveni beach bar."
               }
             },
             {
@@ -1776,8 +1776,8 @@
             "hr": [
               "Provjerite vozni red linije 10 za Dubrovnik.",
               "Pripremite gotovinu za kartu kod vozača.",
-              "Autobusi mogu biti puniji tijekom kiše.",
-              "Koristite aplikaciju Libertas za vrijeme dolaska autobusa uživo."
+              "Autobusi mogu biti gušći tijekom kiše.",
+              "Koristite Libertas aplikaciju za vremenski ažurirane polaske autobusa."
             ]
           }
         },
@@ -1787,7 +1787,7 @@
             "hu": "Nyugodt buszos kirándulás délre. Délelőtt élvezzük a pihentető utazást a nyári hőség nélkül. Cavtat az autentikus arcát mutatja. Délben a nap melegít minket a kikötői ebédnél, majd délután egy csendes sétát teszünk a Žal-strandhoz. A záró kávészünet a Riván tökéletes alkalom a helyi téli élet megfigyelésére, mielőtt felszállnánk a meleg buszra hazafelé.",
             "ro": "O excursie liniștită cu autobuzul spre sud. Dimineața ne bucurăm de călătoria relaxantă fără căldura verii. Cavtat își arată latura autentică. La prânz soarele ne încălzește la masă în port, iar după-amiaza facem o plimbare spre plaja Žal. Pauza de cafea de pe faleză este ocazia perfectă de a observa viața locală, înainte de a lua autobuzul înapoi.",
             "en": "A quiet bus trip to the south. In the morning, we enjoy the relaxed ride without the summer heat. Cavtat shows its authentic side. At noon, the sun warms us during a meal at the harbor, followed by a quiet stroll to Žal beach. The final coffee break at the Riva is the perfect chance to observe local winter life before taking the warm bus back.",
-            "hr": "Mirno putovanje autobusom na jug. Ujutro uživamo u opuštenoj vožnji bez ljetnih vrućina. Cavtat pokazuje svoju autentičnu stranu. U podne nas sunce grije tijekom obroka u luci, nakon čega slijedi mirna šetnja do plaže Žal. Završna pauza za kavu na Rivi savršena je prilika za promatranje lokalnog zimskog života prije povratka toplim autobusom."
+            "hr": "Tihi autobusni izlet prema jugu. Ujutro uživamo u opuštenoj vožnji bez ljetne vrućine. Cavtat pokazuje svoju autentičnu stranu. U podne nas sunce grije tijekom obroka u luci, nakon čega slijedi mirna šetnja do plaže Žal. Završna pauza za kavu na Rivi savršena je prilika za promatranje lokalnog zimskog života prije povratka u toplom autobusu."
           },
           "stops": [
             {
@@ -1797,7 +1797,7 @@
                 "hu": "Kevesebb busz a téli menetrendben.",
                 "ro": "Mai puține autobuze în programul de iarnă.",
                 "en": "Fewer buses in the winter schedule.",
-                "hr": "Manje autobusa u zimskom voznom redu."
+                "hr": "Manje autobusa u zimskom redu vožnje."
               }
             },
             {
@@ -1807,7 +1807,7 @@
                 "hu": "Élvezze a meghitt csendet.",
                 "ro": "Bucurați-vă de liniștea deplină.",
                 "en": "Enjoy the peaceful silence.",
-                "hr": "Uživajte u spokojnoj tišini."
+                "hr": "Uživajte u mirnoj tišini."
               }
             },
             {
@@ -1817,7 +1817,7 @@
                 "hu": "A helyiek itt találkoznak.",
                 "ro": "Localnicii se întâlnesc aici.",
                 "en": "Locals gather here.",
-                "hr": "Ovdje se okupljaju mještani."
+                "hr": "Mještani se ovdje okupljaju."
               }
             },
             {
@@ -1837,7 +1837,7 @@
                 "hu": "Gyakran kínálnak meleg takarót.",
                 "ro": "Adesea se oferă pături calde.",
                 "en": "Warm blankets are often provided.",
-                "hr": "Često su na raspolaganju tople deke."
+                "hr": "Topli pokrivači se često pružaju."
               }
             }
           ],
@@ -1868,9 +1868,9 @@
             ],
             "hr": [
               "Zimski vozni red počinje u studenom.",
-              "Nedjeljom vozi znatno manje autobusa.",
-              "Vožnja nudi prekrasne vidike na obalu.",
-              "Nosite jaknu, u autobusu može biti propuha."
+              "Značajno manje autobusa vozi nedjeljom.",
+              "Voznja nudi odlične obalne poglede.",
+              "Obucite jaknu, može biti prohladno u autobusu."
             ]
           }
         }

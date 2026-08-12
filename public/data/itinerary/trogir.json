@@ -21,7 +21,8 @@
             "de": "Kathedrale von Trogir",
             "hu": "Trogiri székesegyház",
             "ro": "Catedrala din Trogir",
-            "en": "Trogir Cathedral"
+            "en": "Trogir Cathedral",
+            "hr": "Trogirska katedrala"
           },
           "coords": [
             16.2514,
@@ -45,7 +46,8 @@
             "de": "Hauptplatz (Trg Ivana Pavla II)",
             "hu": "Főtér",
             "ro": "Piața Centrală",
-            "en": "Main Square"
+            "en": "Main Square",
+            "hr": "Glavni trg"
           },
           "coords": [
             16.2512,
@@ -61,7 +63,7 @@
             "hu": "Az óratorony és a loggia tökéletes fotótémák.",
             "ro": "Turnul cu ceas și loggia sunt motive perfecte pentru fotografii.",
             "en": "The clock tower and loggia are perfect photo motifs.",
-            "hr": "Toranj sa satom i loža savršeni su motivi za fotografiranje."
+            "hr": "Zvonik i loggia savršeni su motivi za fotografije."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Festung Kamerlengo",
             "hu": "Kamerlengo vár",
             "ro": "Cetatea Kamerlengo",
-            "en": "Kamerlengo Castle"
+            "en": "Kamerlengo Castle",
+            "hr": "Tvrđava Kamerlengo"
           },
           "coords": [
             16.2485,
@@ -85,7 +88,7 @@
             "hu": "Másszon fel a falakra a csatornára nyíló kilátásért.",
             "ro": "Urcați pe ziduri pentru o vedere asupra canalului.",
             "en": "Climb the walls for a view over the canal.",
-            "hr": "Popnite se na zidine za pogled na kanal."
+            "hr": "Popnite se na zidine za pogled preko kanala."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Restaurant Don Dino (Mittagessen)",
             "hu": "Don Dino étterem (Ebéd)",
             "ro": "Restaurant Don Dino (Prânz)",
-            "en": "Don Dino Restaurant (Lunch)"
+            "en": "Don Dino Restaurant (Lunch)",
+            "hr": "Restoran Don Dino (Ručak)"
           },
           "coords": [
             16.2505,
@@ -117,7 +121,8 @@
             "de": "Uferpromenade (Riva)",
             "hu": "Parti sétány",
             "ro": "Faleză (Riva)",
-            "en": "Waterfront (Riva)"
+            "en": "Waterfront (Riva)",
+            "hr": "Riva"
           },
           "coords": [
             16.2495,
@@ -133,7 +138,7 @@
             "hu": "A legjobb hely nézelődésre és a pálmafás hangulathoz.",
             "ro": "Cel mai bun loc pentru a privi oamenii și pentru atmosfera cu palmieri.",
             "en": "The best place for people-watching and palm-tree vibes.",
-            "hr": "Najbolje mjesto za promatranje ljudi i uživanje u ambijentu s palmama."
+            "hr": "Najbolje mjesto za promatranje ljudi i palmove vibracije."
           }
         }
       ],
@@ -142,7 +147,7 @@
         "hu": "Fedezze fel Trogirt, a kis szigeten fekvő „múzeumvárost”. Kezdje a pompás székesegyháznál, majd barangoljon a szűk, középkori utcákon a központi tér felé.\n\nA lenyűgöző Kamerlengo vár meglátogatása után élvezze az első osztályú tengeri gyümölcsöket az egyik rejtett udvarban. A Riva ezután pihentető sétára csábít a pálmafák alatt.\n\nEgy nap Trogirban olyan, mintha időutazáson venne részt, kombinálva a kikötőben álló jachtok luxus hangulatával. Kicsi, kompakt és történelemmel teli.",
         "ro": "Descoperiți Trogir, „orașul-muzeu” situat pe o mică insulă. Începeți la catedrala magnifică și hoinăriți pe străduțele înguste medievale către piața centrală.\n\nDupă vizitarea impunătoarei cetăți Kamerlengo, savurați fructe de mare de primă clasă într-una dintre curțile interioare ascunse. Riva vă invită apoi la o plimbare relaxantă sub palmieri.\n\nO zi în Trogir se simte ca o călătorie în timp, combinată cu atmosfera luxoasă a iahturilor din port. Mic, compact și plin de istorie.",
         "en": "Discover Trogir, the 'museum city' located on a small island. Start at the magnificent cathedral and wander through the narrow medieval streets towards the central square.\n\nAfter visiting the imposing Kamerlengo Castle, enjoy top-class seafood in one of the hidden courtyards. The Riva then invites you for a relaxing stroll under palm trees.\n\nA day in Trogir feels like a time travel, combined with the luxurious flair of the yachts in the harbor. Small, compact, and full of history.",
-        "hr": "Otkrijte Trogir, 'grad-muzej' smješten na malom otoku. Započnite kod veličanstvene katedrale i lutajte uskim srednjovjekovnim ulicama prema glavnom trgu.\n\nNakon posjeta impozantnom kaštelu Kamerlengo, uživajte u vrhunskim plodovima mora u jednom od skrivenih dvorišta. Riva vas potom poziva na opuštajuću šetnju pod palmama.\n\nDan u Trogiru djeluje poput putovanja kroz vrijeme, u kombinaciji s luksuznim sjajem jahti u luci. Malen, kompaktan i prepun povijesti."
+        "hr": "Otkrijte Trogir, 'muzejski grad' smješten na malom otoku. Započnite kod veličanstvene katedrale i lutajte uskim srednjovjekovnim ulicama prema glavnom trgu.\n\nNakon posjeta impozantnoj tvrđavi Kamerlengo, uživajte u vrhunskim plodovima mora u jednom od skrivenih dvorišta. Riva vas potom poziva na opuštenu šetnju pod palmama.\n\nDan u Trogiru doživljaj je putovanja kroz vrijeme, pomiješan s luksuznim šarmom jahti u luci. Mali, kompaktan i pun povijesti."
       },
       "gastro_picks": {
         "de": [
@@ -267,9 +272,9 @@
           "In high season, it's quietest in the morning."
         ],
         "hr": [
-          "Cijela stara jezgra je pješačka zona, što šetnju čini vrlo ugodnom.",
-          "Potražite skrivene grbove na zidovima palača.",
-          "U jeku sezone najmirnije je ujutro."
+          "Cijeli stari grad je zona bez automobila, što čini šetnju vrlo ugodnom.",
+          "Pazite na skrivene grbove na palačnim zidovima.",
+          "U visokoj sezoni najmirnije je ujutro."
         ]
       },
       "variants": {
@@ -279,7 +284,7 @@
             "hu": "A reggel a Szárazföldi kapunál indul, ahol a vizes mészkő tükrözi az esőcseppeket. Gyors menedéket találunk a Városi Múzeumban, miközben Trogir múltját ismerjük meg.\n\nDélben a Cipiko-palota és a Székesegyház belső terei nyújtanak oltalmat. Az eső kopogása a tetőn különleges, meghitt hangulatot áraszt a falak között.\n\nDélután a Városi Loggia árkádjai alatt pihenünk, majd a hercegi palota felé vesszük az irányt. A szűk utcák jól védenek a széltől.\n\nAz este a Kamerlengo várnál ér minket. A ködös Adria és a szürke égbolt drámai, történelmi keretbe foglalja a középkori várfalakat.",
             "ro": "Dimineața începe la Poarta de pe uscat, unde calcarul ud reflectă picăturile de ploaie. Ne adăpostim rapid în Muzeul Orașului pentru o lecție de istorie.\n\nLa prânz, Palatul Cipiko și Catedrala oferă refugiul perfect. Sunetul ploii pe acoperișul vechi creează o atmosferă solemnă în interiorul răcoros.\n\nDupă-amiaza ne plimbăm sub arcadele Loggiei și vizităm Palatul Comunal. Străzile înguste ale centrului vechi ne protejează natural de rafalele de vânt.\n\nSeara se încheie la Fortăreața Kamerlengo. Cerul gri deasupra Adriaticii oferă zidurilor vechi o aură dramatică și plină de mister.",
             "en": "The morning starts at the Land Gate, where wet limestone reflects the raindrops. A quick dash to the City Museum provides shelter and historical context.\n\nAt noon, we find refuge in the Cipiko Palace and the Cathedral. The sound of rain on the ancient roof creates a solemn and intimate atmosphere inside.\n\nIn the afternoon, we stay dry under the City Loggia and visit the Rector's Palace. The narrow alleys of the old town offer natural protection from the elements.\n\nThe day ends at Kamerlengo Fortress. The misty Adriatic and grey skies give the stone walls a dramatic and powerful historical presence.",
-            "hr": "Jutro počinje kod Kopnenih vrata, gdje mokri vapnenac reflektira kapi kiše. Kratki bijeg u Muzej grada pruža zaklon i povijesni kontekst.\n\nU podne pronalazimo utočište u palači Cipiko i katedrali. Zvuk kiše na drevnom krovu stvara svečanu i intimnu atmosferu u unutrašnjosti.\n\nPoslijepodne ostajemo suhi pod Gradskom ložom i posjećujemo Knežev dvor. Uske uličice staroga grada nude prirodnu zaštitu od vremenskih nepogoda.\n\nDan završava kod tvrđave Kamerlengo. Magloviti Jadran i sivo nebo daju kamenim zidovima dramatičnu i moćnu povijesnu prisutnost."
+            "hr": "Jutro počinje na Kopnenim vratima, gdje mokri vapnenac odbija kapljice kiše. Brzi posjet Gradskom muzeju pruža zaklon i povijesni kontekst.\n\nU podne nalazimo utočište u palači Čipiko i katedrali. Zvuk kiše po starom krovu stvara svečanu i intimnu atmosferu unutra.\n\nPoslijepodne ostajemo suhi ispod gradske loggie i posjećujemo Kneževu palaču. Uske uličice starog grada nude prirodnu zaštitu od nepogode.\n\nDan završava u tvrđavi Kamerlengo. Maglovito Jadransko more i sivo nebo daju kamenom zidu dramatičan i snažan povijesni izraz."
           },
           "stops": [
             {
@@ -289,7 +294,7 @@
                 "hu": "Vigyázat, a kapu alatti kövezet esőben nagyon csúszik.",
                 "ro": "Atenție la pavajul alunecos de la intrarea în oraș.",
                 "en": "Careful on the slippery cobblestones under the gate.",
-                "hr": "Oprezno na skliskom popločanju ispod vrata."
+                "hr": "Pazite na klizave kaldrme ispod vrata."
               }
             },
             {
@@ -299,7 +304,7 @@
                 "hu": "Ideális hely az első zápor átvészelésére a falak között.",
                 "ro": "Locul perfect pentru a aștepta trecerea primei ploi.",
                 "en": "The perfect spot to wait out the first rain shower indoors.",
-                "hr": "Savršeno mjesto za čekanje da prođe prvi pljusak u zatvorenom."
+                "hr": "Savršeno mjesto za pričekati prvi pljusak unutra."
               }
             },
             {
@@ -309,7 +314,7 @@
                 "hu": "Csodálja meg a gótikus ablakokat a fedett udvarról.",
                 "ro": "Admirați ferestrele gotice din curtea interioară ferită de ploaie.",
                 "en": "Admire the Gothic windows from the sheltered courtyard.",
-                "hr": "Divite se gotičkim prozorima iz natkrivenog dvorišta."
+                "hr": "Divite se gotičkim prozorima iz zaštićenog dvorišta."
               }
             },
             {
@@ -319,7 +324,7 @@
                 "hu": "A Radovan-portál az előtető alatt esőben is jól fotózható.",
                 "ro": "Portalul lui Radovan este bine protejat sub baldachin.",
                 "en": "Radovan's portal is well protected under the porch canopy.",
-                "hr": "Radovanov portal dobro je zaštićen pod nadstrešnicom trijema."
+                "hr": "Radovanov portal dobro je zaštićen ispod nadstrešnice."
               }
             },
             {
@@ -339,7 +344,7 @@
                 "hu": "Használja ki a belső termeket a részletes felfedezéshez.",
                 "ro": "Folosiți interiorul palatului pentru o vizită prelungită.",
                 "en": "Take advantage of the interior rooms for a detailed tour.",
-                "hr": "Iskoristite unutarnje prostorije za detaljan obilazak."
+                "hr": "Iskoristite unutarnje prostorije za detaljnu razgled."
               }
             },
             {
@@ -349,7 +354,7 @@
                 "hu": "Csendes, száraz menedék az óváros szélén.",
                 "ro": "Un refugiu liniștit și uscat la marginea centrului vechi.",
                 "en": "A quiet, dry retreat at the edge of the old town.",
-                "hr": "Tiho, suho utočište na rubu staroga grada."
+                "hr": "Tih, suhi zaklon na rubu starog grada."
               }
             },
             {
@@ -359,7 +364,7 @@
                 "hu": "A toronyba való felkapaszkodás vizes időben nem ajánlott.",
                 "ro": "Urcarea în turnuri nu este recomandată pe timp de ploaie.",
                 "en": "Climbing the towers is not recommended when steps are wet.",
-                "hr": "Penjanje na tornjeve se ne preporučuje kada su stepenice mokre."
+                "hr": "Penjanje na tornjeve nije preporučljivo kad su stepenice mokre."
               }
             }
           ],
@@ -389,10 +394,10 @@
               "An umbrella is often more practical than a poncho in narrow alleys."
             ],
             "hr": [
-              "Nosite obuću s dobrim prianjanjem; polirani kamen postaje sklizak poput leda kad je mokar.",
-              "Gradska loža najbolje je besplatno natkriveno mjesto na glavnom trgu.",
-              "Planirajte posjete muzejima za razdoblja jačih pljuskova.",
-              "Kišobran je često praktičniji od kabanice u uskim uličicama."
+              "Nosite cipele s dobrim prijanjanjem; polirani kamen postaje poput leda kad je mokar.",
+              "Gradska loggia najbolje je besplatno zaštićeno mjesto na glavnom trgu.",
+              "Rasporedite posjete muzejima za periode jakih pljuskova.",
+              "Kišobran je često praktičniji od ponča u uskim uličicama."
             ]
           }
         },
@@ -402,7 +407,7 @@
             "hu": "A hűvös téli reggel a Szárazföldi kapunál Trogir legcsendesebb arcát mutatja. A Városi Múzeumban melegedünk fel a történelem nyomai között.\n\nDélben a főtéren, a Cipiko-palota mellett élvezzük a téli napsütést. A Székesegyház ilyenkor méltóságteljes és zavartalan nyugalmat áraszt.\n\nDélután a kihalt utcákon sétálunk a Városi Loggia felé. A tiszta téli levegőben a kőfaragások minden apró részlete élesen kirajzolódik.\n\nA nap korán ér véget a Kamerlengo várnál. A 16:30 körüli naplemente lágy, arany fénybe vonja az egész várost és az öblöt.",
             "ro": "O dimineață răcoroasă de iarnă la Poarta de pe uscat ne arată Trogirul în cea mai liniștită formă. Ne încălzim la Muzeul Orașului explorând trecutul.\n\nLa prânz ne bucurăm de soarele palid în piața centrală, lângă Palatul Cipiko. Catedrala emană o liniște demnă, departe de mulțimile de turiști.\n\nDupă-amiaza ne plimbăm pe străzile pustii spre Loggia orașului. Aerul curat de iarnă face ca detaliile pietrei sculptate să fie extrem de clare.\n\nZiua se încheie devreme la Fortăreața Kamerlengo. Apusul de la ora 16:30 scaldă orașul într-o lumină aurie și blândă de iarnă.",
             "en": "A chilly winter morning at the Land Gate shows Trogir at its quietest. We warm up inside the City Museum while exploring local history.\n\nAt noon, we enjoy the low winter sun in the main square by the Cipiko Palace. The Cathedral exudes a dignified and undisturbed peace.\n\nIn the afternoon, we stroll through the empty alleys toward the City Loggia. The crisp winter air makes every detail of the stonework stand out sharply.\n\nThe day ends early at Kamerlengo Fortress. As the sun sets around 16:30, it bathes the city in a soft, golden winter glow.",
-            "hr": "Hladno zimsko jutro kod Kopnenih vrata prikazuje Trogir u njegovom najmirnijem izdanju. Grijemo se u Muzeju grada dok istražujemo lokalnu povijest.\n\nU podne uživamo u slabom zimskom suncu na glavnom trgu pokraj palače Cipiko. Katedrala odiše dostojanstvenim i neometanim mirom.\n\nPoslijepodne šetamo praznim uličicama prema Gradskoj loži. Oštar zimski zrak čini svaki detalj klesanog kamena jasno vidljivim.\n\nDan završava rano kod tvrđave Kamerlengo. Dok sunce zalazi oko 16:30, grad kupa u mekom, zlatnom zimskom sjaju."
+            "hr": "Hladno zimsko jutro na Kopnenim vratima pokazuje Trogir u najmirnijem izdanju. Zagrijavamo se u Gradskom muzeju istražujući lokalnu povijest.\n\nU podne uživamo u niskom zimskom suncu na glavnom trgu kraj palače Čipiko. Katedrala odiše dostojanstvenim i neporemećenim mirom.\n\nPoslijepodne šećemo praznim uličicama prema Gradskoj loggii. Oštar zimski zrak čini svaki detalj kamenog rada posebno izraženim.\n\nDan se rano završava u tvrđavi Kamerlengo. Kako sunce zalazi oko 16:30, obasjava grad mekanim, zlatnim zimskim sjajem."
           },
           "stops": [
             {
@@ -432,7 +437,7 @@
                 "hu": "A homlokzat különösen szépen mutat a lapos téli fényben.",
                 "ro": "Fațada strălucește spectaculos în lumina joasă a iernii.",
                 "en": "The facade looks particularly beautiful in the low winter sun.",
-                "hr": "Fasada izgleda posebno lijepo na niskom zimskom suncu."
+                "hr": "Fasada izgleda posebno lijepo u niskom zimskom suncu."
               }
             },
             {
@@ -442,7 +447,7 @@
                 "hu": "Öltözzön fel, a templom belseje télen elég hűvös maradhat.",
                 "ro": "Păstrați haina pe dvs., interiorul bisericii este destul de rece.",
                 "en": "Keep your coat on, the interior of the church is quite chilly.",
-                "hr": "Ne skidajte kaput, unutrašnjost crkve je prilično hladna."
+                "hr": "Držite kaput na sebi, unutrašnjost crkve je prilično hladna."
               }
             },
             {
@@ -452,7 +457,7 @@
                 "hu": "Tökéletes, szélvédett pont egy fotóhoz a főtéren.",
                 "ro": "Locul perfect pentru o fotografie ferită de vânt în piață.",
                 "en": "A perfect, wind-sheltered spot for a photo in the square.",
-                "hr": "Savršeno mjesto zaklonjeno od vjetra za fotografiju na trgu."
+                "hr": "Savršeno, zaštićeno od vjetra mjesto za fotografiju na trgu."
               }
             },
             {
@@ -462,7 +467,7 @@
                 "hu": "Ellenőrizze a téli nyitvatartást, gyakran korábban zárnak.",
                 "ro": "Verificați programul de iarnă, acesta poate fi mai scurt.",
                 "en": "Check winter opening hours as they may be shorter than usual.",
-                "hr": "Provjerite zimsko radno vrijeme jer može biti kraće nego inače."
+                "hr": "Provjerite zimska radna vremena jer mogu biti kraća nego obično."
               }
             },
             {
@@ -482,7 +487,7 @@
                 "hu": "Vigyázat, a falak tetején gyakran erős Bura szél fúj.",
                 "ro": "Atenție, în vârful zidurilor suflă adesea un vânt Bura puternic.",
                 "en": "Be careful, a strong Bura wind often blows atop the walls.",
-                "hr": "Budite oprezni, na vrhu zidina često puše jaka bura."
+                "hr": "Budite oprezni, jak vjetar Bura često puše po zidinama."
               }
             }
           ],
@@ -513,9 +518,9 @@
             ],
             "hr": [
               "Odjenite se slojevito; obalni vjetar može biti vrlo oštar.",
-              "Zalazak sunca je oko 16:30, pa planirajte završiti obilazak ranije.",
-              "Mnogi kafići na rivi mogu biti zatvoreni tijekom zimske sezone.",
-              "Bura može učiniti da se osjećate mnogo hladnije od stvarne temperature."
+              "Zalazak sunca je oko 16:30, pa planirajte završiti razgled ranije.",
+              "Mnogi kafići na Rivi mogu biti zatvoreni tijekom zimske sezone.",
+              "Bura može učiniti da se osjeća mnogo hladnije nego što pokazuje temperatura."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Altstadtplatz",
             "hu": "Óváros tér",
             "ro": "Piața Orașului Vechi",
-            "en": "Old Town Square"
+            "en": "Old Town Square",
+            "hr": "Trg staroga grada"
           },
           "coords": [
             13.9665,
@@ -45,7 +46,8 @@
             "de": "Vela vrata (Großes Tor)",
             "hu": "Vela vrata (Nagy kapu)",
             "ro": "Vela vrata (Poarta Mare)",
-            "en": "Vela vrata (Big Gate)"
+            "en": "Vela vrata (Big Gate)",
+            "hr": "Vela vrata (Velika vrata)"
           },
           "coords": [
             13.966,
@@ -61,7 +63,7 @@
             "hu": "Figyelje meg a kőbe vésett címert.",
             "ro": "Observați stema sculptată în piatră.",
             "en": "Notice the coat of arms in stone.",
-            "hr": "Uočite grbove u kamenu."
+            "hr": "Uočite grb u kamenu."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Heimatmuseum Buzet",
             "hu": "Buzeti Helytörténeti Múzeum",
             "ro": "Muzeul de Istorie Locală",
-            "en": "Buzet Heritage Museum"
+            "en": "Buzet Heritage Museum",
+            "hr": "Buzetski muzej baštine"
           },
           "coords": [
             13.9668,
@@ -93,7 +96,8 @@
             "de": "Pfarrkirche Maria Himmelfahrt",
             "hu": "Mária Mennybemenetele plébániatemplom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Parish Church of the Assumption"
+            "en": "Parish Church of the Assumption",
+            "hr": "Župna crkva Uznesenja"
           },
           "coords": [
             13.9672,
@@ -117,7 +121,8 @@
             "de": "Fonticus-Palast",
             "hu": "Fonticus-palota",
             "ro": "Palatul Fonticus",
-            "en": "Fonticus Palace"
+            "en": "Fonticus Palace",
+            "hr": "Palača Fonticus"
           },
           "coords": [
             13.9666,
@@ -133,7 +138,7 @@
             "hu": "Nézze meg az aktuális kiállításokat.",
             "ro": "Verificați expozițiile de artă actuale.",
             "en": "Check the current art exhibitions.",
-            "hr": "Pogledajte trenutne umjetničke izložbe."
+            "hr": "Provjerite aktualne umjetničke izložbe."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Aussichtspunkt ins Mirna-Tal",
             "hu": "Kilátó a Mirna-völgyre",
             "ro": "Belvedere Valea Mirnei",
-            "en": "Mirna Valley Viewpoint"
+            "en": "Mirna Valley Viewpoint",
+            "hr": "Vidikovac Mirne doline"
           },
           "coords": [
             13.9675,
@@ -157,7 +163,7 @@
             "hu": "Tökéletes hely a völgy fotózásához.",
             "ro": "Loc perfect pentru poze cu valea.",
             "en": "Perfect spot for valley photos.",
-            "hr": "Savršeno mjesto za fotografiranje doline."
+            "hr": "Savršeno mjesto za fotografije doline."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Kezdje a reggelt Buzet történelmi főterén, a 'szarvasgomba városának' szívében. Csodálja meg az építészetet és a monumentális velencei városkaput, a Vela vratát.\n\nDélután merüljön el Isztria történelmében a Helytörténeti Múzeumban, majd látogasson el a pompás barokk plébániatemplomba és a művészeti galériaként működő Fonticus-palotába.\n\nÉlvezze a késő délutánt a panorámás kilátóponton, ahonnan belátni az egész Mirna-völgyet, a híres szarvasgomba-lelőhelyek otthonát.\n\nZárja a napot egy helyi konobában, ahol házi tésztát és friss szarvasgombát kóstolhat, miközben a nap lebukik Észak-Isztria dombjai mögött.",
         "ro": "Începeți dimineața în piața istorică din centrul vechi al orașului Buzet, inima 'orașului trufelor'. Admirați arhitectura și marea poartă venețiană Vela vrata.\n\nDupă-amiaza, pătrundeți în istoria Istriei la Muzeul local, înainte de a vizita splendida biserică parohială barocă și Palatul Fonticus, acum galerie de artă.\n\nBucurați-vă de amiaza târzie la punctul de belvedere asupra Văii Mirna, locul unde încep faimoasele păduri de trufe.\n\nÎncheiați ziua într-o konoba locală cu paste de casă și trufe proaspete, în timp ce soarele apune peste colinele din nordul Istriei.",
         "en": "Start your morning at the historic Old Town Square of Buzet, the heart of the 'City of Truffles'. Admire the architecture and the grand Venetian town gate, Vela vrata.\n\nIn the afternoon, dive deep into Istrian history at the Heritage Museum before visiting the magnificent baroque Parish Church and the ornate Fonticus Palace.\n\nEnjoy the late afternoon at the panoramic viewpoint overlooking the vast Mirna Valley, home to the famous truffle forests.\n\nEnd your day in a local konoba with homemade pasta and fresh truffles as the sun sets over the hills of Northern Istria.",
-        "hr": "Započnite jutro na povijesnom Trgu u Starom gradu Buzetu, srcu 'Grada tartufa'. Divite se arhitekturi i velikim venecijanskim gradskim vratima, Velim vratima.\n\nPoslijepodne uronite duboko u istarsku povijest u Zavičajnom muzeju prije posjeta veličanstvenoj baroknoj župnoj crkvi i raskošnoj palači Fonticus.\n\nUživajte u kasnom poslijepodnevu na panoramskom vidikovcu s kojeg se pruža pogled na prostranu dolinu Mirne, dom poznatih šuma tartufa.\n\nZavršite dan u lokalnoj konobi uz domaću tjesteninu i svježe tartufe dok sunce zalazi nad brežuljcima sjeverne Istre."
+        "hr": "Započnite jutro na povijesnom Trgu staroga grada Buzeta, srcu 'Grada tartufa'. Divite se arhitekturi i grandioznim venecijanskim gradskim vratima, Vela vrata.\n\nPoslijepodne se upustite u istarsku povijest u Muzeju baštine prije posjeta veličanstvenoj baroknoj župnoj crkvi i ukrašenoj palači Fonticus.\n\nU kasno poslijepodne uživajte na panoramskom vidikovcu s pogledom na prostranu Mirnu dolinu, dom slavnih tartufskih šuma.\n\nZavršite dan u lokalnoj konobi s domaćom tjesteninom i svježim tartufima dok sunce zalazi nad brežuljcima sjeverne Istre."
       },
       "gastro_picks": {
         "de": [
@@ -380,10 +386,10 @@
           "It is recommended to book a table in old town konobas in advance."
         ],
         "hr": [
-          "Stari grad se nalazi na brdu, nosite udobnu obuću za hodanje.",
-          "Parkirajte u podnožju brda i prošećite do utvrde.",
-          "Najbolja sezona za svježe tartufe je jesen.",
-          "Preporučuje se unaprijed rezervirati stol u konobama u Starom gradu."
+          "Stari grad je na vrhu brda, nosite udobnu obuću za hodanje.",
+          "Parkirajte pri dnu brda i prošećite do utvrde.",
+          "Najbolja sezona za svježe tartufe je u jesen.",
+          "Preporučuje se unaprijed rezervirati stol u konobama u starom gradu."
         ]
       },
       "variants": {
@@ -392,7 +398,8 @@
             "de": "Beginnen Sie Ihren Morgen auf dem historischen Altstadtplatz von Buzet, dem Herz der 'Stadt der Trüffel'. Bewundern Sie die Architektur und das große venezianische Stadttor Vela vrata.\n\nNachmittags tauchen Sie im Heimatmuseum tief in die Geschichte Istriens ein, bevor Sie die prächtige barocke Pfarrkirche Maria Himmelfahrt und den kunstvollen Fonticus-Palast besichtigen.\n\nGenießen Sie den späten Nachmittag am Panorama-Aussichtspunkt mit Blick auf das weite Mirna-Tal, wo die berühmten Trüffelwälder beginnen.\n\nLassen Sie den Tag in einer lokalen Konoba mit hausgemachten Nudeln und frischen Trüffeln ausklingen, während die Sonne über den Hügeln Nordistriens untergeht.",
             "hu": "Kezdje a reggelt Buzet történelmi főterén, a 'szarvasgomba városának' szívében. Csodálja meg az építészetet és a monumentális velencei városkaput, a Vela vratát.\n\nDélután merüljön el Isztria történelmében a Helytörténeti Múzeumban, majd látogasson el a pompás barokk plébániatemplomba és a művészeti galériaként működő Fonticus-palotába.\n\nÉlvezze a késő délutánt a panorámás kilátóponton, ahonnan belátni az egész Mirna-völgyet, a híres szarvasgomba-lelőhelyek otthonát.\n\nZárja a napot egy helyi konobában, ahol házi tésztát és friss szarvasgombát kóstolhat, miközben a nap lebukik Észak-Isztria dombjai mögött.",
             "ro": "Începeți dimineața în piața istorică din centrul vechi al orașului Buzet, inima 'orașului trufelor'. Admirați arhitectura și marea poartă venețiană Vela vrata.\n\nDupă-amiaza, pătrundeți în istoria Istriei la Muzeul local, înainte de a vizita splendida biserică parohială barocă și Palatul Fonticus, acum galerie de artă.\n\nBucurați-vă de amiaza târzie la punctul de belvedere asupra Văii Mirna, locul unde încep faimoasele păduri de trufe.\n\nÎncheiați ziua într-o konoba locală cu paste de casă și trufe proaspete, în timp ce soarele apune peste colinele din nordul Istriei.",
-            "en": "Start your morning at the historic Old Town Square of Buzet, the heart of the 'City of Truffles'. Admire the architecture and the grand Venetian town gate, Vela vrata.\n\nIn the afternoon, dive deep into Istrian history at the Heritage Museum before visiting the magnificent baroque Parish Church and the ornate Fonticus Palace.\n\nEnjoy the late afternoon at the panoramic viewpoint overlooking the vast Mirna Valley, home to the famous truffle forests.\n\nEnd your day in a local konoba with homemade pasta and fresh truffles as the sun sets over the hills of Northern Istria."
+            "en": "Start your morning at the historic Old Town Square of Buzet, the heart of the 'City of Truffles'. Admire the architecture and the grand Venetian town gate, Vela vrata.\n\nIn the afternoon, dive deep into Istrian history at the Heritage Museum before visiting the magnificent baroque Parish Church and the ornate Fonticus Palace.\n\nEnjoy the late afternoon at the panoramic viewpoint overlooking the vast Mirna Valley, home to the famous truffle forests.\n\nEnd your day in a local konoba with homemade pasta and fresh truffles as the sun sets over the hills of Northern Istria.",
+            "hr": "Započnite jutro na povijesnom Trgu staroga grada Buzeta, srcu 'Grada tartufa'. Divite se arhitekturi i grandioznim venecijanskim gradskim vratima, Vela vrata.\n\nPoslijepodne se upustite u istarsku povijest u Muzeju baštine prije posjeta veličanstvenoj baroknoj župnoj crkvi i ukrašenoj palači Fonticus.\n\nU kasno poslijepodne uživajte na panoramskom vidikovcu s pogledom na prostranu Mirnu dolinu, dom slavnih tartufskih šuma.\n\nZavršite dan u lokalnoj konobi s domaćom tjesteninom i svježim tartufima dok sunce zalazi nad brežuljcima sjeverne Istre."
           },
           "stops": [
             {
@@ -400,13 +407,15 @@
                 "de": "Altstadtplatz",
                 "hu": "Óváros tér",
                 "ro": "Piața Orașului Vechi",
-                "en": "Old Town Square"
+                "en": "Old Town Square",
+                "hr": "Trg staroga grada"
               },
               "tip_5lang": {
                 "de": "Trinken Sie einen Kaffee am Brunnen.",
                 "hu": "Igyon egy kávét a szökőkút mellett.",
                 "ro": "Beți o cafea lângă fântână.",
-                "en": "Have a coffee by the fountain."
+                "en": "Have a coffee by the fountain.",
+                "hr": "Popijte kavu uz fontanu."
               }
             },
             {
@@ -414,13 +423,15 @@
                 "de": "Vela vrata (Großes Tor)",
                 "hu": "Vela vrata (Nagy kapu)",
                 "ro": "Vela vrata (Poarta Mare)",
-                "en": "Vela vrata (Big Gate)"
+                "en": "Vela vrata (Big Gate)",
+                "hr": "Vela vrata (Velika vrata)"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf das steinerne Wappen.",
                 "hu": "Figyelje meg a kőbe vésett címert.",
                 "ro": "Observați stema sculptată în piatră.",
-                "en": "Notice the coat of arms in stone."
+                "en": "Notice the coat of arms in stone.",
+                "hr": "Uočite grb u kamenu."
               }
             },
             {
@@ -428,13 +439,15 @@
                 "de": "Heimatmuseum Buzet",
                 "hu": "Buzeti Helytörténeti Múzeum",
                 "ro": "Muzeul de Istorie Locală",
-                "en": "Buzet Heritage Museum"
+                "en": "Buzet Heritage Museum",
+                "hr": "Buzetski muzej baštine"
               },
               "tip_5lang": {
                 "de": "Besuchen Sie die alte Schmiede.",
                 "hu": "Nézze meg a régi kovácsműhelyt.",
                 "ro": "Vizitați vechea fierărie.",
-                "en": "Visit the old blacksmith shop."
+                "en": "Visit the old blacksmith shop.",
+                "hr": "Posjetite staru kovačnicu."
               }
             },
             {
@@ -442,13 +455,15 @@
                 "de": "Pfarrkirche Maria Himmelfahrt",
                 "hu": "Mária Mennybemenetele plébániatemplom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Parish Church of the Assumption"
+                "en": "Parish Church of the Assumption",
+                "hr": "Župna crkva Uznesenja"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Barockaltäre.",
                 "hu": "Csodálja meg a barokk oltárokat.",
                 "ro": "Admirați altarele baroce.",
-                "en": "Admire the baroque altars."
+                "en": "Admire the baroque altars.",
+                "hr": "Divite se baroknim oltarima."
               }
             },
             {
@@ -456,13 +471,15 @@
                 "de": "Fonticus-Palast",
                 "hu": "Fonticus-palota",
                 "ro": "Palatul Fonticus",
-                "en": "Fonticus Palace"
+                "en": "Fonticus Palace",
+                "hr": "Palača Fonticus"
               },
               "tip_5lang": {
                 "de": "Prüfen Sie die aktuellen Kunstausstellungen.",
                 "hu": "Nézze meg az aktuális kiállításokat.",
                 "ro": "Verificați expozițiile de artă actuale.",
-                "en": "Check the current art exhibitions."
+                "en": "Check the current art exhibitions.",
+                "hr": "Provjerite aktualne umjetničke izložbe."
               }
             },
             {
@@ -470,13 +487,15 @@
                 "de": "Aussichtspunkt ins Mirna-Tal",
                 "hu": "Kilátó a Mirna-völgyre",
                 "ro": "Belvedere Valea Mirnei",
-                "en": "Mirna Valley Viewpoint"
+                "en": "Mirna Valley Viewpoint",
+                "hr": "Vidikovac Mirne doline"
               },
               "tip_5lang": {
                 "de": "Perfekter Ort für Fotos vom Tal.",
                 "hu": "Tökéletes hely a völgy fotózásához.",
                 "ro": "Loc perfect pentru poze cu valea.",
-                "en": "Perfect spot for valley photos."
+                "en": "Perfect spot for valley photos.",
+                "hr": "Savršeno mjesto za fotografije doline."
               }
             }
           ],
@@ -654,6 +673,12 @@
               "Park at the bottom of the hill and walk up to the fortress.",
               "The best season for fresh truffles is in the autumn.",
               "It is recommended to book a table in old town konobas in advance."
+            ],
+            "hr": [
+              "Stari grad je na vrhu brda, nosite udobnu obuću za hodanje.",
+              "Parkirajte pri dnu brda i prošećite do utvrde.",
+              "Najbolja sezona za svježe tartufe je u jesen.",
+              "Preporučuje se unaprijed rezervirati stol u konobama u starom gradu."
             ]
           }
         },
@@ -663,7 +688,7 @@
             "hu": "Reggel köd borítja a főteret, a vizes macskakövek misztikus csillogást kapnak. Délben a múzeum nyújt száraz menedéket a helyi történelem emlékei között. Délután a palota ablakaiból figyeljük a felhős Mirna-völgyet. Este a szakadó eső kopogását hallgatjuk egy hangulatos óvárosi konoba mélyén, egy pohár helyi vörösbor mellett.",
             "ro": "Dimineața, ceața învăluie piața centrală, iar pavajul ud strălucește mistic. La prânz, muzeul oferă un refugiu uscat printre artefactele istoriei locale. După-amiaza, admirăm valea Mirna acoperită de nori de la ferestrele palatului. Seara, ascultăm sunetul ploii într-o tavernă primitoare din orașul vechi, cu un pahar de vin roșu.",
             "en": "Morning mist blankets the main square, giving the wet cobblestones a mystical glow. At noon, the museum provides a dry sanctuary filled with local heritage. In the afternoon, we watch the cloud-covered Mirna Valley from the palace's shelter. Evening is spent listening to the rain in a cozy old town tavern over a glass of local red wine.",
-            "hr": "Jutarnja magla prekriva glavni trg, dajući mokrom kamenju mističan sjaj. U podne, muzej pruža suho utočište ispunjeno lokalnom baštinom. Poslijepodne promatramo dolinu Mirne prekrivenu oblacima iz zaklona palače. Večer provodimo slušajući kišu u ugodnoj konobi u Starom gradu uz čašu lokalnog crnog vina."
+            "hr": "Jutarnja izmaglica prekriva glavni trg dajući mokrim kaldrmama mističan sjaj. U podne muzej pruža suho utočište ispunjeno lokalnom baštinom. Poslijepodne promatramo oblacima prekrivenu Mirnu dolinu s zaklona palače. Večer provodimo slušajući kišu u ugodnoj starogradskoj konobi uz čašu lokalnog crnog vina."
           },
           "stops": [
             {
@@ -673,7 +698,7 @@
                 "hu": "A kövek vizesen nagyon csúsznak; óvatosan lépkedjünk a téren.",
                 "ro": "Pietrele sunt foarte alunecoase când sunt ude; mergeți cu grijă.",
                 "en": "The stones are very slippery when wet; walk carefully across the square.",
-                "hr": "Kamenje je vrlo sklizavo kad je mokro; pažljivo hodajte trgom."
+                "hr": "Kamenje je vrlo sklisko kad je mokro; hodajte pažljivo preko trga."
               }
             },
             {
@@ -683,7 +708,7 @@
                 "hu": "A masszív kőkapu rövid menedéket nyújt a hirtelen zápor elől.",
                 "ro": "Poarta masivă de piatră oferă un adăpost temporar împotriva ploii.",
                 "en": "The massive stone gate provides brief shelter from sudden showers.",
-                "hr": "Masivna kamena vrata pružaju kratak zaklon od iznenadnih pljuskova."
+                "hr": "Masivna kamena vrata pružaju kratkotrajni zaklon od iznenadnih pljuskova."
               }
             },
             {
@@ -693,7 +718,7 @@
                 "hu": "Tökéletes helyszín a szakadó eső átvészelésére a szárazban.",
                 "ro": "Locul perfect pentru a aștepta oprirea ploii la adăpost.",
                 "en": "The perfect location to wait out the heaviest rain indoors.",
-                "hr": "Savršeno mjesto za čekanje da najjača kiša prođe u zatvorenom."
+                "hr": "Savršeno mjesto za pričekati najjaču kišu unutra."
               }
             },
             {
@@ -703,7 +728,7 @@
                 "hu": "Csodálja meg az akusztikát, miközben kint kopog az eső.",
                 "ro": "Admirați acustica în timp ce ploaia bate în geamurile bisericii.",
                 "en": "Admire the acoustics while the rain drums on the church exterior.",
-                "hr": "Divite se akustici dok kiša bubnja po vanjskom dijelu crkve."
+                "hr": "Divite se akustici dok kiša bubnji po vanjštini crkve."
               }
             },
             {
@@ -713,7 +738,7 @@
                 "hu": "A belső terek védelmet és izgalmas történelmi részleteket kínálnak.",
                 "ro": "Interioarele oferă protecție și detalii istorice fascinante.",
                 "en": "Interior spaces offer protection and fascinating historical details.",
-                "hr": "Unutarnji prostori nude zaštitu i fascinantne povijesne detalje."
+                "hr": "Unutarnji prostori nude zaštitu i zanimljive povijesne detalje."
               }
             },
             {
@@ -723,7 +748,7 @@
                 "hu": "A völgyben gomolygó köd drámai és fotogén látványt nyújt.",
                 "ro": "Ceața din vale creează o atmosferă dramatică și fotogenică.",
                 "en": "Mist in the valley creates a dramatic and photogenic atmosphere.",
-                "hr": "Magla u dolini stvara dramatičnu i fotogeničnu atmosferu."
+                "hr": "Maglica u dolini stvara dramatičnu i fotogeničnu atmosferu."
               }
             }
           ],
@@ -757,11 +782,11 @@
               "Truffle dishes in local restaurants are perfect for boosting spirits on grey days."
             ],
             "hr": [
-              "Nosite obuću s dobrim prianjanjem jer pločnik u Starom gradu postaje izuzetno sklizak.",
-              "Tempirajte posjet muzeju kada je kiša najjača.",
-              "Neki kafići na glavnom trgu imaju natkrivene vanjske prostore za sjedenje.",
-              "Kišobrani su nepraktični u uskim, vjetrovitim ulicama; kabanice su bolji izbor.",
-              "Jela od tartufa u lokalnim restoranima savršena su za podizanje raspoloženja u sivim danima."
+              "Nosite obuću s dobrim držanjem jer popločje starog grada postaje iznimno sklisko.",
+              "Vrijeme posjet muzeju uskladite s najjačom kišom.",
+              "Neki kafići na glavnom trgu imaju natkrivene vanjske sjedeće prostore.",
+              "Kišobrani su nepraktični u uskim, vjetrovitim ulicama; bolji su kišni ogrtači.",
+              "Jela s tartufima u lokalnim restoranima idealna su za podizanje raspoloženja na sivim danima."
             ]
           }
         },
@@ -771,7 +796,7 @@
             "hu": "Deres reggel a főtéren, a levegő friss és metszően tiszta. Délben a múzeum falai között melegszünk fel Isztria történelmét kutatva. Délután az alacsonyan járó téli nap aranyló, hideg fénybe vonja a Mirna-völgyet. Este korán behúzódunk egy fűtött konobába, hogy megkóstoljuk a szezon híres fehér szarvasgombáját.",
             "ro": "O dimineață geroasă în piața centrală, cu un aer proaspăt și tăios. La prânz, ne încălzim între zidurile muzeului explorând istoria Istriei. După-amiaza, soarele palid de iarnă scaldă valea Mirna într-o lumină aurie și rece. Seara, ne retragem devreme într-o tavernă încălzită pentru a gusta trufele albe de sezon.",
             "en": "A frosty morning on the main square with air that is crisp and bitingly clear. At noon, we warm up inside the museum while exploring Istrian history. In the afternoon, the low winter sun bathes the Mirna Valley in cold, golden light. We head early to a heated tavern in the evening to sample the famous seasonal white truffles.",
-            "hr": "Ledeno jutro na glavnom trgu uz zrak koji je oštar i kristalno čist. U podne se grijemo u muzeju istražujući istarsku povijest. Poslijepodne nisko zimsko sunce obasjava dolinu Mirne hladnim, zlatnim svjetlom. Navečer rano odlazimo u grijanu konobu kako bismo probali poznate sezonske bijele tartufe."
+            "hr": "Frosty jutro na glavnom trgu s zrakom koji je oštar i proziran. U podne se grijemo u muzeju istražujući istarsku povijest. Poslijepodne nisko zimsko sunce obasjava dolinu Mirne hladnim, zlatnim svjetlom. Večer provodimo ranije u zagrijanoj konobi kušajući poznate sezonske bijele tartufe."
           },
           "stops": [
             {
@@ -781,7 +806,7 @@
                 "hu": "Az árnyékos részeken jegesedés fordulhat elő a köveken.",
                 "ro": "În zonele umbrite se poate forma polei pe pietre.",
                 "en": "Ice may form on the stones in shaded areas of the square.",
-                "hr": "Moguće je stvaranje leda na kamenju u zasjenjenim dijelovima trga."
+                "hr": "Na sjenovitim dijelovima trga na kamenju se može stvoriti led."
               }
             },
             {
@@ -791,7 +816,7 @@
                 "hu": "A szél gyakran erősen átfúj a kőboltozat alatt.",
                 "ro": "Vântul suflă adesea cu putere prin arcada de piatră.",
                 "en": "The wind often whistles strongly through the stone archway.",
-                "hr": "Vjetar često snažno fijuče kroz kameni prolaz."
+                "hr": "Vjetar često zviždi snažno kroz kamenu arkadu."
               }
             },
             {
@@ -801,7 +826,7 @@
                 "hu": "Jól fűtött helyszín, ideális a felmelegedéshez a séták között.",
                 "ro": "Un loc bine încălzit, ideal pentru a vă dezmorți între opriri.",
                 "en": "A well-heated venue, ideal for warming up between stops.",
-                "hr": "Dobro grijano mjesto, idealno za zagrijavanje između postaja."
+                "hr": "Dobro zagrijan prostor, idealan za zagrijavanje između stanica."
               }
             },
             {
@@ -821,7 +846,7 @@
                 "hu": "Élvezze a csendet; télen alig találkozni itt turistákkal.",
                 "ro": "Bucurați-vă de liniște; iarna sunt foarte puțini turiști aici.",
                 "en": "Enjoy the silence; there are very few tourists here in winter.",
-                "hr": "Uživajte u tišini; zimi je ovdje vrlo malo turista."
+                "hr": "Uživajte u tišini; zimi ovdje ima vrlo malo turista."
               }
             },
             {
@@ -831,7 +856,7 @@
                 "hu": "A látótávolság a tiszta téli napokon a legjobb.",
                 "ro": "Vizibilitatea este adesea maximă în zilele senine de iarnă.",
                 "en": "Visibility is often at its best on clear winter days.",
-                "hr": "Vidljivost je često najbolja tijekom vedrih zimskih dana."
+                "hr": "Vidljivost je često najbolja u bistrim zimskim danima."
               }
             }
           ],
@@ -865,11 +890,11 @@
               "Try a hot 'Biska' (mistletoe brandy) to warm yourself up."
             ],
             "hr": [
-              "Slojevita odjeća je neophodna za zaštitu od hladne bure.",
-              "Zalazak sunca je oko 16:30; posjetite vidikovac na vrijeme.",
-              "Zima je vrhunac sezone bijelih tartufa; kulinarski doživljaj koji se ne propušta.",
-              "Neke manje trgovine mogu imati skraćeno radno vrijeme tijekom zime.",
-              "Probajte toplu 'Bisku' (rakiju od imele) kako biste se zagrijali."
+              "Slojevita odjeća je neophodna za zaštitu od hladnog bure.",
+              "Zalazak sunca je oko 16:30; posjetite vidikovac pravovremeno.",
+              "Zima je sezona vrhunca za bijele tartufe; kulinarski must-do.",
+              "Neke manje trgovine mogu imati smanjeno radno vrijeme tijekom zime.",
+              "Probajte topao 'Bisku' (jutranja / božićna rakija od imela) da se zagrijete."
             ]
           }
         }
@@ -888,7 +913,8 @@
             "de": "Altstadtplatz",
             "hu": "Óváros tér",
             "ro": "Piața Orașului Vechi",
-            "en": "Old Town Square"
+            "en": "Old Town Square",
+            "hr": "Trg Starog Grada"
           },
           "coords": [
             13.9665,
@@ -904,7 +930,7 @@
             "hu": "A túra kiindulópontja.",
             "ro": "Punctul de plecare.",
             "en": "Starting point of the tour.",
-            "hr": "Početna točka tura."
+            "hr": "Polazna točka ture."
           }
         },
         {
@@ -912,7 +938,8 @@
             "de": "Kirche des Heiligen Georg",
             "hu": "Szent György templom",
             "ro": "Biserica Sfântul Gheorghe",
-            "en": "Church of Saint George"
+            "en": "Church of Saint George",
+            "hr": "Crkva sv. Jurja"
           },
           "coords": [
             13.9678,
@@ -928,7 +955,7 @@
             "hu": "Szép kilátás a templomfal mellől.",
             "ro": "Vedere frumoasă de lângă zidul bisericii.",
             "en": "Nice view from the church wall.",
-            "hr": "Lijep pogled sa zidina crkve."
+            "hr": "Lijep pogled s crkvenog zida."
           }
         },
         {
@@ -936,7 +963,8 @@
             "de": "Mala vrata (Kleines Tor)",
             "hu": "Mala vrata (Kis kapu)",
             "ro": "Poarta Mică",
-            "en": "Small Gate"
+            "en": "Small Gate",
+            "hr": "Mala Vrata"
           },
           "coords": [
             13.9685,
@@ -952,7 +980,7 @@
             "hu": "Kevésbé turisztikai, mint a nagy kapu.",
             "ro": "Mai puțin turistică decât poarta mare.",
             "en": "Less touristy than the big gate.",
-            "hr": "Manje turistički od Velikih vrata."
+            "hr": "Manje turistička od velikih vrata."
           }
         },
         {
@@ -960,7 +988,8 @@
             "de": "Mirna-Uferweg",
             "hu": "Mirna-parti út",
             "ro": "Drumul de pe malul Mirnei",
-            "en": "Mirna Riverside Path"
+            "en": "Mirna Riverside Path",
+            "hr": "Staza uz Mirnu"
           },
           "coords": [
             13.975,
@@ -984,7 +1013,8 @@
             "de": "Brauerei Favorit (Buzet)",
             "hu": "Favorit sörfőzde",
             "ro": "Fabrica de bere Favorit",
-            "en": "Favorit Brewery"
+            "en": "Favorit Brewery",
+            "hr": "Pivovara Favorit"
           },
           "coords": [
             13.961,
@@ -1008,7 +1038,8 @@
             "de": "Aussichtspunkt ins Mirna-Tal",
             "hu": "Kilátó a Mirna-völgyre",
             "ro": "Belvedere Valea Mirnei",
-            "en": "Mirna Valley Viewpoint"
+            "en": "Mirna Valley Viewpoint",
+            "hr": "Vidikovac nad dolinom Mirne"
           },
           "coords": [
             13.9675,
@@ -1024,7 +1055,7 @@
             "hu": "Utolsó emelkedő pazar jutalommal.",
             "ro": "Ultima urcare cu o recompensă pe măsură.",
             "en": "Final climb with a great reward.",
-            "hr": "Završni uspon s izvrsnom nagradom."
+            "hr": "Zadnje penjanje s velikom nagradom."
           }
         }
       ],
@@ -1033,7 +1064,7 @@
         "hu": "Fedezze fel Buzetet két keréken! Kezdje az óvárosban, majd guruljon le a Mirna folyóhoz, ahol sík utakon tekerhet a zöld tájban.\n\nLátogasson el a kevésbé ismert sarkokhoz, mint a Kis kapu és a Szent György templom, mielőtt megismerné a helyi sörfőzési hagyományokat a buzeti gyárban.\n\nA nap ötvözi a völgyben végzett sportos aktivitást a középkori erődváros kulturális bájával.\n\nÉlvezze a gurulást a Buzetet körülvevő szőlőültetvények és olajfaligetek között.",
         "ro": "Descoperiți Buzet pe două roți! Începeți în centrul vechi și coborâți spre râul Mirna, unde vă puteți bucura de drumuri plate prin peisajul verde.\n\nVizitați locuri mai puțin cunoscute, precum Poarta Mică și Biserica Sf. Gheorghe, înainte de a descoperi tradiția locală a berii la fabrica din Buzet.\n\nZiua combină activitatea sportivă din vale cu farmecul cultural al orașului cetate medieval de pe deal.\n\nBucurați-vă de coborârea printre podgoriile și livezile de măslini care înconjoară orașul.",
         "en": "Discover Buzet on two wheels! Start in the old town and roll down to the Mirna River, where you can enjoy flat paths through the green landscape.\n\nVisit lesser-known corners like the Small Gate and St. George's Church before learning about the local brewing tradition at the Buzet brewery.\n\nThe day combines sporty activity in the valley with the cultural charm of the medieval fortress town on the hill.\n\nEnjoy riding through the vineyards and olive groves surrounding Buzet.",
-        "hr": "Otkrijte Buzet na dva kotača! Krenite iz Starog grada i spustite se do rijeke Mirne, gdje možete uživati u ravnim stazama kroz zeleni krajolik.\n\nPosjetite manje poznate kutke poput Malih vrata i crkve svetog Jurja prije nego što naučite o lokalnoj tradiciji pivarstva u buzetskoj pivovari.\n\nDan kombinira sportsku aktivnost u dolini s kulturnim šarmom srednjovjekovne utvrde na brdu.\n\nUživajte u vožnji kroz vinograde i maslinike koji okružuju Buzet."
+        "hr": "Otkrijte Buzet na dva kotača! Početak je u starom gradu, a spuštate se do rijeke Mirne gdje možete uživati u ravnim stazama kroz zelen krajolik.\n\nPosjetite manje poznate kutke poput Malih Vrata i crkve sv. Jurja prije nego što upoznate lokalnu pivarsku tradiciju u pivovari Favorit.\n\nDan spaja sportske aktivnosti u dolini s kulturnim šarmom srednjovjekovnog utvrđenog grada na brežuljku.\n\nUživajte u vožnji kroz vinograde i maslinike oko Buzeta."
       },
       "gastro_picks": {
         "de": [
@@ -1178,9 +1209,9 @@
           "Take enough water, it gets very hot in the summer."
         ],
         "hr": [
-          "Uspon do Starog grada je strm, sasvim je u redu gurati bicikl.",
-          "Staze u dolini Mirne uglavnom su s malo prometa.",
-          "Ponesite dovoljno vode, ljeti postaje jako vruće."
+          "Uspon do starog grada je strm, guranje bicikla je u redu.",
+          "Staze u dolini Mirne uglavnom imaju malo prometa.",
+          "Ponesite dovoljno vode, ljeti zna biti vrlo vruće."
         ]
       },
       "variants": {
@@ -1189,7 +1220,8 @@
             "de": "Entdecken Sie Buzet auf zwei Rädern! Starten Sie in der Altstadt und rollen Sie hinunter zum Fluss Mirna, wo Sie flache Wege durch die grüne Landschaft genießen können.\n\nBesuchen Sie die weniger bekannten Ecken wie das Kleine Tor und die St. Georgs Kirche, bevor Sie die lokale Brautradition in der Buzeter Brauerei kennenlernen.\n\nDer Tag kombiniert sportliche Aktivität im Tal mit dem kulturellen Charme der mittelalterlichen Festungsstadt auf dem Hügel.\n\nGenießen Sie die Abfahrt durch die Weinberge und Olivenhaine, die Buzet umgeben.",
             "hu": "Fedezze fel Buzetet két keréken! Kezdje az óvárosban, majd guruljon le a Mirna folyóhoz, ahol sík utakon tekerhet a zöld tájban.\n\nLátogasson el a kevésbé ismert sarkokhoz, mint a Kis kapu és a Szent György templom, mielőtt megismerné a helyi sörfőzési hagyományokat a buzeti gyárban.\n\nA nap ötvözi a völgyben végzett sportos aktivitást a középkori erődváros kulturális bájával.\n\nÉlvezze a gurulást a Buzetet körülvevő szőlőültetvények és olajfaligetek között.",
             "ro": "Descoperiți Buzet pe două roți! Începeți în centrul vechi și coborâți spre râul Mirna, unde vă puteți bucura de drumuri plate prin peisajul verde.\n\nVizitați locuri mai puțin cunoscute, precum Poarta Mică și Biserica Sf. Gheorghe, înainte de a descoperi tradiția locală a berii la fabrica din Buzet.\n\nZiua combină activitatea sportivă din vale cu farmecul cultural al orașului cetate medieval de pe deal.\n\nBucurați-vă de coborârea printre podgoriile și livezile de măslini care înconjoară orașul.",
-            "en": "Discover Buzet on two wheels! Start in the old town and roll down to the Mirna River, where you can enjoy flat paths through the green landscape.\n\nVisit lesser-known corners like the Small Gate and St. George's Church before learning about the local brewing tradition at the Buzet brewery.\n\nThe day combines sporty activity in the valley with the cultural charm of the medieval fortress town on the hill.\n\nEnjoy riding through the vineyards and olive groves surrounding Buzet."
+            "en": "Discover Buzet on two wheels! Start in the old town and roll down to the Mirna River, where you can enjoy flat paths through the green landscape.\n\nVisit lesser-known corners like the Small Gate and St. George's Church before learning about the local brewing tradition at the Buzet brewery.\n\nThe day combines sporty activity in the valley with the cultural charm of the medieval fortress town on the hill.\n\nEnjoy riding through the vineyards and olive groves surrounding Buzet.",
+            "hr": "Otkrijte Buzet na dva kotača! Početak je u starom gradu, a spuštate se do rijeke Mirne gdje možete uživati u ravnim stazama kroz zelen krajolik.\n\nPosjetite manje poznate kutke poput Malih Vrata i crkve sv. Jurja prije nego što upoznate lokalnu pivarsku tradiciju u pivovari Favorit.\n\nDan spaja sportske aktivnosti u dolini s kulturnim šarmom srednjovjekovnog utvrđenog grada na brežuljku.\n\nUživajte u vožnji kroz vinograde i maslinike oko Buzeta."
           },
           "stops": [
             {
@@ -1197,13 +1229,15 @@
                 "de": "Altstadtplatz",
                 "hu": "Óváros tér",
                 "ro": "Piața Orașului Vechi",
-                "en": "Old Town Square"
+                "en": "Old Town Square",
+                "hr": "Trg Starog Grada"
               },
               "tip_5lang": {
                 "de": "Startpunkt der Tour.",
                 "hu": "A túra kiindulópontja.",
                 "ro": "Punctul de plecare.",
-                "en": "Starting point of the tour."
+                "en": "Starting point of the tour.",
+                "hr": "Polazna točka ture."
               }
             },
             {
@@ -1211,13 +1245,15 @@
                 "de": "Kirche des Heiligen Georg",
                 "hu": "Szent György templom",
                 "ro": "Biserica Sfântul Gheorghe",
-                "en": "Church of Saint George"
+                "en": "Church of Saint George",
+                "hr": "Crkva sv. Jurja"
               },
               "tip_5lang": {
                 "de": "Schöne Aussicht von der Kirchenmauer.",
                 "hu": "Szép kilátás a templomfal mellől.",
                 "ro": "Vedere frumoasă de lângă zidul bisericii.",
-                "en": "Nice view from the church wall."
+                "en": "Nice view from the church wall.",
+                "hr": "Lijep pogled s crkvenog zida."
               }
             },
             {
@@ -1225,13 +1261,15 @@
                 "de": "Mala vrata (Kleines Tor)",
                 "hu": "Mala vrata (Kis kapu)",
                 "ro": "Poarta Mică",
-                "en": "Small Gate"
+                "en": "Small Gate",
+                "hr": "Mala Vrata"
               },
               "tip_5lang": {
                 "de": "Weniger touristisch als das große Tor.",
                 "hu": "Kevésbé turisztikai, mint a nagy kapu.",
                 "ro": "Mai puțin turistică decât poarta mare.",
-                "en": "Less touristy than the big gate."
+                "en": "Less touristy than the big gate.",
+                "hr": "Manje turistička od velikih vrata."
               }
             },
             {
@@ -1239,13 +1277,15 @@
                 "de": "Mirna-Uferweg",
                 "hu": "Mirna-parti út",
                 "ro": "Drumul de pe malul Mirnei",
-                "en": "Mirna Riverside Path"
+                "en": "Mirna Riverside Path",
+                "hr": "Staza uz Mirnu"
               },
               "tip_5lang": {
                 "de": "Flacher Weg entlang des Flusses.",
                 "hu": "Lapos út a folyó mentén.",
                 "ro": "Drum plat de-a lungul râului.",
-                "en": "Flat path along the river."
+                "en": "Flat path along the river.",
+                "hr": "Ravna staza uz rijeku."
               }
             },
             {
@@ -1253,13 +1293,15 @@
                 "de": "Brauerei Favorit (Buzet)",
                 "hu": "Favorit sörfőzde",
                 "ro": "Fabrica de bere Favorit",
-                "en": "Favorit Brewery"
+                "en": "Favorit Brewery",
+                "hr": "Pivovara Favorit"
               },
               "tip_5lang": {
                 "de": "Erfrischen Sie sich mit einem lokalen Bier.",
                 "hu": "Frissüljön fel egy helyi sörrel.",
                 "ro": "Răcoriți-vă cu o bere locală.",
-                "en": "Refresh yourself with a local beer."
+                "en": "Refresh yourself with a local beer.",
+                "hr": "Osvježite se lokalnim pivom."
               }
             },
             {
@@ -1267,13 +1309,15 @@
                 "de": "Aussichtspunkt ins Mirna-Tal",
                 "hu": "Kilátó a Mirna-völgyre",
                 "ro": "Belvedere Valea Mirnei",
-                "en": "Mirna Valley Viewpoint"
+                "en": "Mirna Valley Viewpoint",
+                "hr": "Vidikovac nad dolinom Mirne"
               },
               "tip_5lang": {
                 "de": "Letzter Anstieg mit toller Belohnung.",
                 "hu": "Utolsó emelkedő pazar jutalommal.",
                 "ro": "Ultima urcare cu o recompensă pe măsură.",
-                "en": "Final climb with a great reward."
+                "en": "Final climb with a great reward.",
+                "hr": "Zadnje penjanje s velikom nagradom."
               }
             }
           ],
@@ -1395,6 +1439,11 @@
               "The climb to the old town is steep, pushing your bike is fine.",
               "The paths in the Mirna Valley are mostly low-traffic.",
               "Take enough water, it gets very hot in the summer."
+            ],
+            "hr": [
+              "Uspon do starog grada je strm, guranje bicikla je u redu.",
+              "Staze u dolini Mirne uglavnom imaju malo prometa.",
+              "Ponesite dovoljno vode, ljeti zna biti vrlo vruće."
             ]
           }
         },
@@ -1404,7 +1453,7 @@
             "hu": "A nap nedves tekeréssel indul a főtérre, a gumi halkan zúg a vizes kövön. Délben a Szent György templom falai között várunk ki egy záport. Délután a Mirna-parti úton küzdünk meg a sárral és a tócsákkal. Este a sörgyárban melegszünk fel egy korsó sör és egy tál bőséges étel mellett.",
             "ro": "Ziua începe cu o pedalare umedă spre piața centrală, cauciucurile foșnind pe piatră. La prânz, ne adăpostim în biserica Sf. Gheorghe de o ploaie rapidă. După-amiaza, drumul de-a lungul râului Mirna ne poartă prin noroi și bălți. Seara, ne încălzim la berărie cu o bere rece și mâncare consistentă.",
             "en": "The day starts with a damp ride to the main square, tires humming on the wet stone. At noon, we shelter inside St. George's Church from a heavy shower. In the afternoon, the riverside path along the Mirna takes us through mud and puddles. We warm up in the evening at the brewery with a cold beer and hearty food.",
-            "hr": "Dan počinje vlažnom vožnjom do glavnog trga, uz brujanje guma po mokrom kamenu. U podne se sklanjamo u crkvu svetog Jurja od jakog pljuska. Poslijepodne nas staza uz rijeku Mirnu vodi kroz blato i lokve. Navečer se grijemo u pivovari uz hladno pivo i krepku hranu."
+            "hr": "Dan započinje vlažnom vožnjom do glavnog trga, gume zuje po mokrom kamenu. U podne se sklanjamo u crkvu sv. Jurja zbog jakog pljuska. Poslijepodne nas riverside staza duž Mirne vodi kroz blato i lokve. Večer se grijemo u pivovari uz hladno pivo i obilnu hranu."
           },
           "stops": [
             {
@@ -1414,7 +1463,7 @@
                 "hu": "Vigyázzunk a fékezéssel a vizes macskakövön.",
                 "ro": "Atenție la frânare pe pavajul umed din piață.",
                 "en": "Be careful when braking on the wet cobblestones in the square.",
-                "hr": "Budite oprezni pri kočenju na mokrom kamenju na trgu."
+                "hr": "Pazite pri kočenju na mokrim kaldrmama na trgu."
               }
             },
             {
@@ -1424,7 +1473,7 @@
                 "hu": "Használjuk az előteret a bicikli rövid idejű tárolására.",
                 "ro": "Folosiți pridvorul pentru a adăposti bicicleta scurt timp.",
                 "en": "Use the porch area to briefly shelter your bike from the rain.",
-                "hr": "Koristite trijem kako biste nakratko sklonili bicikl od kiše."
+                "hr": "Iskoristite natkrivenu verandu da nakratko zaštitite bicikl od kiše."
               }
             },
             {
@@ -1434,7 +1483,7 @@
                 "hu": "Szűk kanyar a kapu után; vizesen rendkívül csúszós.",
                 "ro": "Curbă strânsă după poartă; extrem de alunecoasă pe ploaie.",
                 "en": "Narrow turn after the gate; extremely slippery when wet.",
-                "hr": "Oštro skretanje nakon vrata; izuzetno sklizavo kad je mokro."
+                "hr": "Uzan zavoj nakon vrata; iznimno sklizak kad je mokro."
               }
             },
             {
@@ -1444,7 +1493,7 @@
                 "hu": "A földút sáros lehet; a sárvédő használata javasolt.",
                 "ro": "Drumul de pământ poate fi noroios; se recomandă aripi la bicicletă.",
                 "en": "The dirt path can be muddy; fenders are highly recommended.",
-                "hr": "Zemljana staza može biti blatnjava; blatobrani se toplo preporučuju."
+                "hr": "Makadamska staza može biti blatna; blatobrani su toplo preporučljivi."
               }
             },
             {
@@ -1454,7 +1503,7 @@
                 "hu": "Biztonságos biciklitároló van; bent meleg és száraz az idő.",
                 "ro": "Parcare sigură pentru biciclete; interiorul este cald și uscat.",
                 "en": "Secure bike parking available; it is warm and dry inside.",
-                "hr": "Dostupan siguran parking za bicikle; unutra je toplo i suho."
+                "hr": "Dostupno je sigurno parkiralište za bicikle; unutra je toplo i suho."
               }
             },
             {
@@ -1464,7 +1513,7 @@
                 "hu": "A felhők mélyen ülnek a völgyben; misztikus hangulat garantált.",
                 "ro": "Norii coboară jos în vale; atmosferă mistică garantată.",
                 "en": "Clouds hang low in the valley; a mystical atmosphere is guaranteed.",
-                "hr": "Oblaci nisko vise u dolini; mistična atmosfera je zajamčena."
+                "hr": "Oblaci vise nisko u dolini; mistična atmosfera je zajamčena."
               }
             }
           ],
@@ -1498,11 +1547,11 @@
               "A hot bath after the tour helps prevent catching a cold."
             ],
             "hr": [
-              "Kompletna kišna oprema i vodonepropusne torbe su obavezni za ovu vožnju.",
-              "Izbjegavajte lokve jer mogu skrivati duboke rupe na stazi.",
-              "Disk kočnice su znatno pouzdanije od klasičnih kočnica po mokrom vremenu.",
-              "Staza uz Mirnu može biti djelomično poplavljena tijekom jake kiše.",
-              "Topla kupka nakon tura pomaže u sprječavanju prehlade."
+              "Puna kišna oprema i vodootporne torbe su obavezne za ovu vožnju.",
+              "Izbjegavajte lokve jer mogu skrivati duboke rupe na putu.",
+              "Disk-kočnice su značajno pouzdanije od obručnih kočnica po mokrom vremenu.",
+              "Staza uz rijeku Mirnu može biti djelomično poplavljena tijekom jake kiše.",
+              "Topla kupka nakon ture pomaže spriječiti prehladu."
             ]
           }
         },
@@ -1512,7 +1561,7 @@
             "hu": "Jéghideg indulás a főtéren, a menetszél marja az arcunkat. Délben a templomba húzódunk be, hogy rövid időre meneküljünk a szél elől. Délután a kopár Mirna-völgyön suhanunk át, ahol a dér fehérre festette a füvet. Este a sörgyár melegére és egy tápláló vacsorára vágyunk a fagyos tekerés után.",
             "ro": "Pornire înghețată din piață, vântul tăios ne pișcă obrajii. La prânz ne adăpostim în biserică pentru a scăpa scurt timp de vânt. După-amiaza pedalăm prin valea Mirna golașă, unde bruma a albit iarba. Seara, tânjim după căldura berăriei și o cină hrănitoare după tura geroasă.",
             "en": "An ice-cold start at the main square, the wind biting at our faces. At noon, we duck into the church to escape the wind for a short while. In the afternoon, we glide through the barren Mirna Valley, where frost has painted the grass white. We look forward to the brewery's warmth and a nourishing meal after the freezing ride.",
-            "hr": "Ledeni početak na glavnom trgu, vjetar nas grize za lice. U podne ulazimo u crkvu kako bismo nakratko pobjegli od vjetra. Poslijepodne klizimo kroz ogoljelu dolinu Mirne, gdje je mraz obojio travu u bijelo. Radujemo se toplini pivovare i hranjivom obroku nakon ledene vožnje."
+            "hr": "Ledena početna vožnja na glavnom trgu, vjetar grize u lica. U podne se sklanjamo u crkvu da nakratko pobjegnemo od vjetra. Poslijepodne klizimo kroz pustu dolinu Mirne gdje je mraz obojao travu u bijelo. Veselimo se toplini pivovare i okrepljujućem obroku nakon ledene vožnje."
           },
           "stops": [
             {
@@ -1522,7 +1571,7 @@
                 "hu": "A kesztyű elengedhetetlen az óvárosból induló lejtőkön.",
                 "ro": "Mănușile sunt indispensabile la coborârile din orașul vechi.",
                 "en": "Gloves are essential for the descents from the old town.",
-                "hr": "Rukavice su neophodne za spustove iz Starog grada."
+                "hr": "Rukavice su obavezne za spusteve iz starog grada."
               }
             },
             {
@@ -1532,7 +1581,7 @@
                 "hu": "Szélvédett rész a bejáratnál egy rövid ivószünethez.",
                 "ro": "Zonă ferită de vânt la intrare pentru o scurtă pauză de hidratare.",
                 "en": "Wind-sheltered area at the entrance for a quick hydration break.",
-                "hr": "Područje zaštićeno od vjetra na ulazu za brzu pauzu za hidrataciju."
+                "hr": "Zaštićeno od vjetra mjesto pri ulazu za kratki predah i hidrataciju."
               }
             },
             {
@@ -1552,7 +1601,7 @@
                 "hu": "Az út többnyire keményre fagyott és jól járható, de hideg.",
                 "ro": "Drumul este de obicei înghețat bocnă și ușor de parcurs, dar rece.",
                 "en": "The path is usually frozen solid and easy to ride, but very cold.",
-                "hr": "Staza je obično čvrsto zaleđena i laka za vožnju, ali vrlo hladna."
+                "hr": "Staza je obično smrznuta i laka za vožnju, ali vrlo hladna."
               }
             },
             {
@@ -1562,7 +1611,7 @@
                 "hu": "Ideális helyszín, hogy újra érezzük átfagyott ujjainkat.",
                 "ro": "Locul ideal pentru a vă recăpăta simțul în degetele înghețate.",
                 "en": "Ideal place to regain feeling in your frozen fingers.",
-                "hr": "Idealno mjesto za povratak osjeta u promrzle prste."
+                "hr": "Idealno mjesto da povratite osjećaj u smrznutim prstima."
               }
             },
             {
@@ -1572,7 +1621,7 @@
                 "hu": "Elég egy rövid megálló; fent a szél télen rendkívül erős.",
                 "ro": "O oprire scurtă e suficientă; vântul de sus este extrem iarna.",
                 "en": "A short stop is enough; the wind up here is extreme in winter.",
-                "hr": "Kratko zaustavljanje je dovoljno; vjetar je ovdje gore zimi ekstreman."
+                "hr": "Kratka pauza je dovoljna; vjetar je ovdje zimi ekstreman."
               }
             }
           ],
@@ -1606,10 +1655,10 @@
               "Apply a rich protective cream to exposed skin on your face."
             ],
             "hr": [
-              "Nosite odjeću otpornu na vjetar, posebno za dionice nizbrdo.",
-              "Topli čaj u termosici važniji je od obične vode.",
-              "Baterije e-bicikala prazne se znatno brže na niskim temperaturama.",
-              "Planirajte povratak s tura prije mraka koji pada oko 17:00 sati.",
+              "Nosite odjeću otpornu na vjetar, posebno za spustove.",
+              "Topli čaj u termosi važniji je od obične vode.",
+              "Baterije e-bicikala znatno brže se prazne na niskim temperaturama.",
+              "Isplanirajte turu da se vratite prije nego što padne mrak oko 17:00.",
               "Nanesite bogatu zaštitnu kremu na izloženu kožu lica."
             ]
           }
@@ -1629,7 +1678,8 @@
             "de": "Altstadt von Buzet",
             "hu": "Buzeti óváros",
             "ro": "Orașul vechi Buzet",
-            "en": "Buzet Old Town"
+            "en": "Buzet Old Town",
+            "hr": "Stari Grad Buzet"
           },
           "coords": [
             13.9665,
@@ -1653,7 +1703,8 @@
             "de": "Kotli (Alte Mühle & Wasserfälle)",
             "hu": "Kotli (Régi malom és vízesések)",
             "ro": "Kotli (Moara veche și cascadele)",
-            "en": "Kotli (Old Mill & Waterfalls)"
+            "en": "Kotli (Old Mill & Waterfalls)",
+            "hr": "Kotli (Stari mlin i vodopadi)"
           },
           "coords": [
             14.02,
@@ -1669,7 +1720,7 @@
             "hu": "Fürödjön meg a természetes sziklamedencékben.",
             "ro": "Faceți o baie în bazinele naturale din stâncă.",
             "en": "Take a swim in the natural rock pools.",
-            "hr": "Zaplivajte u prirodnim kamenim bazenima."
+            "hr": "Odradite kupanje u prirodnim bazenima isklesanim u stijeni."
           }
         },
         {
@@ -1677,7 +1728,8 @@
             "de": "Roč (Mittelalterliches Dorf)",
             "hu": "Roč (Középkori falu)",
             "ro": "Roč (Sat medieval)",
-            "en": "Roč (Medieval Village)"
+            "en": "Roč (Medieval Village)",
+            "hr": "Roč (Srednjovjekovno selo)"
           },
           "coords": [
             14.048,
@@ -1701,7 +1753,8 @@
             "de": "Hum (Kleinste Stadt der Welt)",
             "hu": "Hum (A világ legkisebb városa)",
             "ro": "Hum (Cel mai mic oraș din lume)",
-            "en": "Hum (World's Smallest Town)"
+            "en": "Hum (World's Smallest Town)",
+            "hr": "Hum (Najmanji grad na svijetu)"
           },
           "coords": [
             14.049,
@@ -1717,7 +1770,7 @@
             "hu": "Kóstolja meg a 'Biska' fagyöngypálinkát.",
             "ro": "Gustați rachiul de vâsc 'Biska'.",
             "en": "Try the mistletoe brandy 'Biska'.",
-            "hr": "Probajte rakiju od imele - Bisku."
+            "hr": "Probajte rakiju od imele 'Biska'."
           }
         },
         {
@@ -1725,7 +1778,8 @@
             "de": "Aussichtspunkt ins Mirna-Tal",
             "hu": "Kilátó a Mirna-völgyre",
             "ro": "Belvedere Valea Mirnei",
-            "en": "Mirna Valley Viewpoint"
+            "en": "Mirna Valley Viewpoint",
+            "hr": "Vidikovac doline Mirne"
           },
           "coords": [
             13.9675,
@@ -1741,7 +1795,7 @@
             "hu": "A túra lezárása naplementekor.",
             "ro": "Încheierea turului la apus.",
             "en": "End the tour at sunset.",
-            "hr": "Završite turu uz zalazak sunca."
+            "hr": "Završi turu u zalazak sunca."
           }
         }
       ],
@@ -1750,7 +1804,7 @@
         "hu": "Ez az autós túra Buzetből az isztriai hátország rejtett ékszereihez vezet. A buzeti óvárosi séta után hajtson el a festői Kotli faluba, ahol a Mirna folyó türkizkék medencéket vájt a sziklába.\n\nLátogasson el Ročba, a fontos történelmi központba, majd hajtson végig a Glagolita sugárúton a legendás Humig, a világ legkisebb városáig.\n\nAz útvonal látványos kilátást nyújt a dombvidékre, és sűrű erdőkön vezet keresztül, ahol Isztria legértékesebb szarvasgombái teremnek.\n\nTökéletes nap a természet kedvelőinek és a történelem rajongóinak, akik többet szeretnének látni a tengerpartnál.",
         "ro": "Acest tur auto vă duce din Buzet spre bijuteriile ascunse ale interiorului Istriei. După o plimbare prin centrul vechi din Buzet, conduceți spre satul idilic Kotli, unde râul Mirna a săpat bazine turcoaz în stâncă.\n\nVizitați Roč, un centru istoric important, și conduceți pe Aleea Glagoliticilor până la legendarul Hum, cel mai mic oraș din lume.\n\nTraseul oferă vederi spectaculoase asupra colinelor și trece prin păduri dese, unde cresc cele mai valoroase trufe din Istria.\n\nO zi perfectă pentru iubitorii de natură și istorie care doresc să vadă mai mult decât zona de coastă.",
         "en": "This car tour takes you from Buzet to the hidden gems of the Istrian hinterland. After a stroll through Buzet's old town, drive to the idyllic village of Kotli, where the Mirna River has carved turquoise pools into the rock.\n\nVisit Roč, an important historical center, and drive along the Glagolitic Alley to the legendary Hum, the world's smallest town.\n\nThe route offers spectacular views of the hilly landscape and leads through dense forests where Istria's most valuable truffles grow.\n\nA perfect day for nature lovers and history buffs who want to see more than just the coast.",
-        "hr": "Ova tura automobilom vodi vas od Buzeta do skrivenih dragulja istarske unutrašnjosti. Nakon šetnje Starim gradom Buzetom, odvezite se do idiličnog sela Kotli, gdje je rijeka Mirna u stijeni isklesala tirkizne bazene.\n\nPosjetite Roč, važno povijesno središte, i provozajte se Alejom glagoljaša do legendarnog Huma, najmanjeg grada na svijetu.\n\nRuta nudi spektakularne poglede na brežuljkasti krajolik i vodi kroz guste šume u kojima rastu najvrjedniji istarski tartufi.\n\nSavršen dan za ljubitelje prirode i povijesti koji žele vidjeti više od same obale."
+        "hr": "Ova auto tura vodi od Buzeta do skrivenih dragulja istarskog zaleđa. Nakon šetnje starim gradom Buzeta, vozite do idiličnog sela Kotli, gdje je rijeka Mirna isklesala tirkizne bazene u stijeni.\n\nPosjetite Roč, važan povijesni centar, i vozite se duž Glagoljaške aleje do legendarne Huma, najmanjeg grada na svijetu.\n\nRuta nudi spektakularne poglede na brdoviti krajolik i vodi kroz guste šume gdje rastu najvrjednije istarske tartufe.\n\nSavršen dan za ljubitelje prirode i povijesti koji žele vidjeti više od same obale."
       },
       "gastro_picks": {
         "de": [
@@ -1895,9 +1949,9 @@
           "Kotli can dry up in mid-summer, best visited in spring."
         ],
         "hr": [
-          "Ceste do Kotla i Huma su uske, vozite oprezno.",
-          "U Humu je dostupan ograničen broj parkirnih mjesta kod gradskih vrata.",
-          "Kotli mogu presušiti usred ljeta, najbolje ih je posjetiti u proljeće."
+          "Ceste prema Kotlima i Humu su uske, vozite oprezno.",
+          "U Humu je parkiranje ograničeno kod gradskih vrata.",
+          "Kotli mogu presahnuti sredinom ljeta, najbolje ih je posjetiti u proljeće."
         ]
       },
       "variants": {
@@ -1906,7 +1960,8 @@
             "de": "Diese Autotour führt Sie von Buzet zu den versteckten Juwelen des istrischen Hinterlandes. Nach einem Spaziergang durch die Buzeter Altstadt fahren Sie zum idyllischen Dorf Kotli, wo der Fluss Mirna türkisfarbene Becken in den Fels gegraben hat.\n\nBesuchen Sie Roč, ein wichtiges historisches Zentrum, und fahren Sie entlang der Allee der Glagoliten zum legendären Hum, der kleinsten Stadt der Welt.\n\nDie Route bietet spektakuläre Ausblicke auf die Hügellandschaft und führt durch dichte Wälder, in denen die wertvollsten Trüffel Istriens wachsen.\n\nEin perfekter Tag für Naturliebhaber und Geschichtsinteressierte, die mehr als nur die Küste sehen wollen.",
             "hu": "Ez az autós túra Buzetből az isztriai hátország rejtett ékszereihez vezet. A buzeti óvárosi séta után hajtson el a festői Kotli faluba, ahol a Mirna folyó türkizkék medencéket vájt a sziklába.\n\nLátogasson el Ročba, a fontos történelmi központba, majd hajtson végig a Glagolita sugárúton a legendás Humig, a világ legkisebb városáig.\n\nAz útvonal látványos kilátást nyújt a dombvidékre, és sűrű erdőkön vezet keresztül, ahol Isztria legértékesebb szarvasgombái teremnek.\n\nTökéletes nap a természet kedvelőinek és a történelem rajongóinak, akik többet szeretnének látni a tengerpartnál.",
             "ro": "Acest tur auto vă duce din Buzet spre bijuteriile ascunse ale interiorului Istriei. După o plimbare prin centrul vechi din Buzet, conduceți spre satul idilic Kotli, unde râul Mirna a săpat bazine turcoaz în stâncă.\n\nVizitați Roč, un centru istoric important, și conduceți pe Aleea Glagoliticilor până la legendarul Hum, cel mai mic oraș din lume.\n\nTraseul oferă vederi spectaculoase asupra colinelor și trece prin păduri dese, unde cresc cele mai valoroase trufe din Istria.\n\nO zi perfectă pentru iubitorii de natură și istorie care doresc să vadă mai mult decât zona de coastă.",
-            "en": "This car tour takes you from Buzet to the hidden gems of the Istrian hinterland. After a stroll through Buzet's old town, drive to the idyllic village of Kotli, where the Mirna River has carved turquoise pools into the rock.\n\nVisit Roč, an important historical center, and drive along the Glagolitic Alley to the legendary Hum, the world's smallest town.\n\nThe route offers spectacular views of the hilly landscape and leads through dense forests where Istria's most valuable truffles grow.\n\nA perfect day for nature lovers and history buffs who want to see more than just the coast."
+            "en": "This car tour takes you from Buzet to the hidden gems of the Istrian hinterland. After a stroll through Buzet's old town, drive to the idyllic village of Kotli, where the Mirna River has carved turquoise pools into the rock.\n\nVisit Roč, an important historical center, and drive along the Glagolitic Alley to the legendary Hum, the world's smallest town.\n\nThe route offers spectacular views of the hilly landscape and leads through dense forests where Istria's most valuable truffles grow.\n\nA perfect day for nature lovers and history buffs who want to see more than just the coast.",
+            "hr": "Ova auto tura vodi od Buzeta do skrivenih dragulja istarskog zaleđa. Nakon šetnje starim gradom Buzeta, vozite do idiličnog sela Kotli, gdje je rijeka Mirna isklesala tirkizne bazene u stijeni.\n\nPosjetite Roč, važan povijesni centar, i vozite se duž Glagoljaške aleje do legendarne Huma, najmanjeg grada na svijetu.\n\nRuta nudi spektakularne poglede na brdoviti krajolik i vodi kroz guste šume gdje rastu najvrjednije istarske tartufe.\n\nSavršen dan za ljubitelje prirode i povijesti koji žele vidjeti više od same obale."
           },
           "stops": [
             {
@@ -1914,13 +1969,15 @@
                 "de": "Altstadt von Buzet",
                 "hu": "Buzeti óváros",
                 "ro": "Orașul vechi Buzet",
-                "en": "Buzet Old Town"
+                "en": "Buzet Old Town",
+                "hr": "Stari grad Buzet"
               },
               "tip_5lang": {
                 "de": "Parken Sie am großen Parkplatz unterhalb.",
                 "hu": "Parkoljon a vár alatti nagy parkolóban.",
                 "ro": "Parcați în parcarea mare de sub cetate.",
-                "en": "Park at the large parking lot below."
+                "en": "Park at the large parking lot below.",
+                "hr": "Parkirajte na velikom parkiralištu dolje."
               }
             },
             {
@@ -1928,13 +1985,15 @@
                 "de": "Kotli (Alte Mühle & Wasserfälle)",
                 "hu": "Kotli (Régi malom és vízesések)",
                 "ro": "Kotli (Moara veche și cascadele)",
-                "en": "Kotli (Old Mill & Waterfalls)"
+                "en": "Kotli (Old Mill & Waterfalls)",
+                "hr": "Kotli (Stari mlin i slapovi)"
               },
               "tip_5lang": {
                 "de": "Baden Sie in den natürlichen Felsbecken.",
                 "hu": "Fürödjön meg a természetes sziklamedencékben.",
                 "ro": "Faceți o baie în bazinele naturale din stâncă.",
-                "en": "Take a swim in the natural rock pools."
+                "en": "Take a swim in the natural rock pools.",
+                "hr": "Iskupajte se u prirodnim kamenim bazenima."
               }
             },
             {
@@ -1942,13 +2001,15 @@
                 "de": "Roč (Mittelalterliches Dorf)",
                 "hu": "Roč (Középkori falu)",
                 "ro": "Roč (Sat medieval)",
-                "en": "Roč (Medieval Village)"
+                "en": "Roč (Medieval Village)",
+                "hr": "Roč (Srednjovjekovno selo)"
               },
               "tip_5lang": {
                 "de": "Zentrum der glagolitischen Schrift.",
                 "hu": "A glagolita írásbeliség központja.",
                 "ro": "Centrul scrierii glagolitice.",
-                "en": "Center of Glagolitic literacy."
+                "en": "Center of Glagolitic literacy.",
+                "hr": "Centar glagoljske pismenosti."
               }
             },
             {
@@ -1956,13 +2017,15 @@
                 "de": "Hum (Kleinste Stadt der Welt)",
                 "hu": "Hum (A világ legkisebb városa)",
                 "ro": "Hum (Cel mai mic oraș din lume)",
-                "en": "Hum (World's Smallest Town)"
+                "en": "Hum (World's Smallest Town)",
+                "hr": "Hum (Najmanji grad na svijetu)"
               },
               "tip_5lang": {
                 "de": "Probieren Sie den Mistelschnaps 'Biska'.",
                 "hu": "Kóstolja meg a 'Biska' fagyöngypálinkát.",
                 "ro": "Gustați rachiul de vâsc 'Biska'.",
-                "en": "Try the mistletoe brandy 'Biska'."
+                "en": "Try the mistletoe brandy 'Biska'.",
+                "hr": "Probajte rakiju od imele 'Biska'."
               }
             },
             {
@@ -1970,13 +2033,15 @@
                 "de": "Aussichtspunkt ins Mirna-Tal",
                 "hu": "Kilátó a Mirna-völgyre",
                 "ro": "Belvedere Valea Mirnei",
-                "en": "Mirna Valley Viewpoint"
+                "en": "Mirna Valley Viewpoint",
+                "hr": "Vidikovac doline Mirne"
               },
               "tip_5lang": {
                 "de": "Abschluss der Tour bei Sonnenuntergang.",
                 "hu": "A túra lezárása naplementekor.",
                 "ro": "Încheierea turului la apus.",
-                "en": "End the tour at sunset."
+                "en": "End the tour at sunset.",
+                "hr": "Završi turu u zalazak sunca."
               }
             }
           ],
@@ -2098,6 +2163,11 @@
               "The roads to Kotli and Hum are narrow, drive carefully.",
               "In Hum, there is limited parking available at the city gate.",
               "Kotli can dry up in mid-summer, best visited in spring."
+            ],
+            "hr": [
+              "Ceste prema Kotlima i Humu su uske, vozite oprezno.",
+              "U Humu je parkiranje ograničeno kod gradskih vrata.",
+              "Kotli mogu presahnuti sredinom ljeta, najbolje ih je posjetiti u proljeće."
             ]
           }
         },
@@ -2107,7 +2177,7 @@
             "hu": "Esős reggel Buzetben; az ablaktörlők ütemesen járnak. Délben érkezünk Kotliba, ahol a vízesések az eső után különösen impozánsan zúgnak. Délután Roč és Hum középkori utcáit fedezzük fel esernyők alatt. Este az autó biztonságából és melegéből csodáljuk a ködös völgy panorámáját.",
             "ro": "O dimineață ploioasă în Buzet; ștergătoarele lucrează ritmic. La prânz ajungem în Kotli, unde cascadele vuiesc impunător după ploaie. După-amiaza explorăm străzile medievale din Roč și Hum sub protecția umbrelelor. Seara, admirăm panorama văii cețoase din siguranța și căldura mașinii.",
             "en": "A rainy morning in Buzet with windshield wipers working in rhythm. At noon, we reach Kotli where the waterfalls roar impressively after the rain. In the afternoon, we explore the medieval streets of Roč and Hum under the shelter of umbrellas. In the evening, we enjoy the misty valley view from the safety and dryness of the car.",
-            "hr": "Kišno jutro u Buzetu uz ritmičan rad brisača. U podne stižemo u Kotle gdje slapovi impresivno huče nakon kiše. Poslijepodne istražujemo srednjovjekovne ulice Roča i Huma pod okriljem kišobrana. Navečer uživamo u pogledu na maglovitu dolinu iz sigurnosti i suhoće automobila."
+            "hr": "Kišno jutro u Buzetu s brisačima koji rade u ritmu. U podne stižemo u Kotle gdje slapovi nakon kiše impozantno bruje. Poslijepodne istražujemo srednjovjekovne ulice Roča i Huma pod skloništem kišobrana. Uvečer uživamo u maglovitom pogledu na dolinu iz sigurnosti i suhosti automobila."
           },
           "stops": [
             {
@@ -2117,7 +2187,7 @@
                 "hu": "Parkoljunk közel a központhoz, hogy rövid legyen a séta az esőben.",
                 "ro": "Parcați aproape de centru pentru a scurta mersul pe jos prin ploaie.",
                 "en": "Park close to the center to keep the walk in the rain short.",
-                "hr": "Parkirajte blizu centra kako bi šetnja po kiši bila što kraća."
+                "hr": "Parkirajte blizu centra da skratite šetnju po kiši."
               }
             },
             {
@@ -2127,7 +2197,7 @@
                 "hu": "A vízeséseknél a kövek esőben életveszélyesen csúszósak.",
                 "ro": "Pietrele de lângă cascade sunt extrem de periculoase pe ploaie.",
                 "en": "The stones near the waterfalls are dangerously slippery when it rains.",
-                "hr": "Kamenje u blizini slapova opasno je sklizavo kad pada kiša."
+                "hr": "Kamenje uz slapove postaje opasno klizavo kad pada kiša."
               }
             },
             {
@@ -2147,7 +2217,7 @@
                 "hu": "A humi múzeum és konoba tökéletes esős napokra.",
                 "ro": "Muzeul și taverna din Hum sunt perfecte pentru zilele ploioase.",
                 "en": "The museum and tavern in Hum are perfect for rainy days.",
-                "hr": "Muzej i konoba u Humu savršeni su za kišne dane."
+                "hr": "Muzej i konoba u Humu idealni su za kišne dane."
               }
             },
             {
@@ -2157,7 +2227,7 @@
                 "hu": "A száraz autóból a kilátás esőben is fantasztikus.",
                 "ro": "Priveliștea din mașina uscată este fantastică chiar și pe ploaie.",
                 "en": "The view from the dry car is fantastic even in the rain.",
-                "hr": "Pogled iz suhog automobila fantastičan je čak i po kiši."
+                "hr": "Pogled iz suhog auta je fantastičan i po kiši."
               }
             }
           ],
@@ -2191,11 +2261,11 @@
               "Use the seat heaters to warm up quickly after your walks."
             ],
             "hr": [
-              "Budite oprezni na uskim cestama do Kotla; pazite na akvaplaning.",
-              "Uvijek držite kišobran nadohvat ruke u automobilu.",
-              "Nakon jake kiše, slapovi u Kotlima su pravi spektakl.",
-              "Parkirališta u Humu mogu postati blatnjava na kiši.",
-              "Koristite grijače sjedala kako biste se brzo zagrijali nakon šetnje."
+              "Budite oprezni na uskim cestama prema Kotlima; pazite na akvaplaning.",
+              "Uvijek imajte kišobran pri ruci u autu.",
+              "Nakon obilne kiše slapovi u Kotlima pravi su spektakl.",
+              "Parkirališta u Humu mogu postati blatna po kiši.",
+              "Upotrijebite grijače sjedala da se brzo ugrijete nakon šetnji."
             ]
           }
         },
@@ -2205,7 +2275,7 @@
             "hu": "Tiszta, hideg téli reggel; jeget kaparunk a szélvédőről. Délben a jeges Kotlit csodáljuk meg, ahol a víz szinte megállni látszik. Délután Roč és Hum utcáin olyan mágikus csend honol, amit csak a tél adhat. Este a Mirna-völgy feletti naplementét az autó kényelméből nézzük végig.",
             "ro": "O dimineață de iarnă senină și rece; curățăm gheața de pe parbriz. La prânz admirăm Kotli înghețat, unde apa pare aproape încremenită. După-amiaza, în Roč și Hum domnește o liniște magică pe care doar iarna o poate oferi. Seara, privim apusul peste valea Mirna din confortul mașinii.",
             "en": "A clear, cold winter morning as we scrape ice from the windshield. At noon, we admire frozen Kotli where the water seems almost to stand still. In the afternoon, a magical silence that only winter provides reigns in Roč and Hum. In the evening, we watch the sunset over the Mirna Valley comfortably from the car.",
-            "hr": "Vedro i hladno zimsko jutro dok stružemo led s vjetrobranskog stakla. U podne se divimo zaleđenim Kotlima gdje se čini da voda gotovo stoji. Poslijepodne u Roču i Humu vlada čarobna tišina koju pruža samo zima. Navečer udobno iz automobila promatramo zalazak sunca nad dolinom Mirne."
+            "hr": "Bistro, hladno zimsko jutro dok stružemo led s vjetrobranskog stakla. U podne divimo se zaleđenim Kotlima gdje voda gotovo stoji. Poslijepodne vlada čarobna tišina koju samo zima pruža u Roču i Humu. Uvečer gledamo zalazak sunca nad dolinom Mirne udobno iz automobila."
           },
           "stops": [
             {
@@ -2215,7 +2285,7 @@
                 "hu": "Vigyázzunk a meredek macskaköves utakon fagy idején.",
                 "ro": "Atenție la condus pe pavajul abrupt în condiții de îngheț.",
                 "en": "Be careful driving on steep cobblestones during frost.",
-                "hr": "Budite oprezni pri vožnji po strmom kamenju tijekom mraza."
+                "hr": "Budite oprezni pri vožnji po strmim kaldrmama tijekom mraza."
               }
             },
             {
@@ -2225,7 +2295,7 @@
                 "hu": "Jegesedés várható az erdei, árnyékos bekötőutakon.",
                 "ro": "Risc de polei pe drumurile de acces umbrite din pădure.",
                 "en": "Risk of black ice on the shaded access roads in the forest.",
-                "hr": "Opasnost od poledice na zasjenjenim pristupnim cestama u šumi."
+                "hr": "Rizik od poledice na zasjenjenim pristupnim cestama u šumi."
               }
             },
             {
@@ -2235,7 +2305,7 @@
                 "hu": "Élvezze a magányt; télen a falu szinte csak az öné.",
                 "ro": "Bucurați-vă de singurătate; iarna satul este aproape doar al vostru.",
                 "en": "Enjoy the solitude; in winter, the village belongs almost entirely to you.",
-                "hr": "Uživajte u samoći; zimi selo pripada gotovo isključivo vama."
+                "hr": "Uživajte u samoći; zimi selo pripada gotovo samo vama."
               }
             },
             {
@@ -2245,7 +2315,7 @@
                 "hu": "Kóstolja meg a házi Biska pálinkát a hideg ellen.",
                 "ro": "Gustați țuica de casă Biska împotriva frigului.",
                 "en": "Try the homemade Biska brandy to ward off the cold.",
-                "hr": "Probajte domaću Bisku kako biste odtjerali hladnoću."
+                "hr": "Probajte domaću Bisku da otjerate hladnoću."
               }
             },
             {
@@ -2289,11 +2359,11 @@
               "Most parking areas are free in winter or much easier to find a spot."
             ],
             "hr": [
-              "Zimske gume su obavezne za vožnju po brežuljcima središnje Istre.",
-              "Pazite na inje i led u šumovitim zavojima.",
-              "Provjerite razinu antifriza u tekućini za pranje stakla.",
-              "Posjetite Kotle za danjeg svjetla; neosvijetljene ceste su opasne.",
-              "Većina parkirališta je zimi besplatna ili je puno lakše pronaći mjesto."
+              "Zimske gume obvezne su za vožnju po brežuljcima središnje Istre.",
+              "Pazite na rime i led u šumovitim zavojima.",
+              "Provjerite razinu antifriza u tekućini za pranje vjetrobrana.",
+              "Posjetite Kotle tijekom dana; neosvijetljene ceste su opasne noću.",
+              "Većina parkirališta zimi je besplatna ili je lakše naći mjesto."
             ]
           }
         }
@@ -2312,7 +2382,8 @@
             "de": "Bushaltestelle Buzet (Unten)",
             "hu": "Buzeti buszmegálló (Alsó)",
             "ro": "Stația de autobuz Buzet (Jos)",
-            "en": "Buzet Bus Station (Bottom)"
+            "en": "Buzet Bus Station (Bottom)",
+            "hr": "Autobusni kolodvor Buzet (Dolje)"
           },
           "coords": [
             13.963,
@@ -2336,7 +2407,8 @@
             "de": "Altstadtplatz",
             "hu": "Óváros tér",
             "ro": "Piața Orașului Vechi",
-            "en": "Old Town Square"
+            "en": "Old Town Square",
+            "hr": "Trg Starog Grada"
           },
           "coords": [
             13.9665,
@@ -2352,7 +2424,7 @@
             "hu": "A helyi járat rendszertelen, a taxi gyakran jobb.",
             "ro": "Microbuzul local e neregulat, taxiul e adesea mai bun.",
             "en": "The local shuttle is irregular, a taxi is often better.",
-            "hr": "Lokalni prijevoz je neredovit, taksi je često bolji."
+            "hr": "Lokalni shuttle je neredovit, taksi je često bolji izbor."
           }
         },
         {
@@ -2360,7 +2432,8 @@
             "de": "Heimatmuseum Buzet",
             "hu": "Buzeti Helytörténeti Múzeum",
             "ro": "Muzeul de Istorie Locală",
-            "en": "Buzet Heritage Museum"
+            "en": "Buzet Heritage Museum",
+            "hr": "Buzetski muzej baštine"
           },
           "coords": [
             13.9668,
@@ -2384,7 +2457,8 @@
             "de": "Aussichtspunkt ins Mirna-Tal",
             "hu": "Kilátó a Mirna-völgyre",
             "ro": "Belvedere Valea Mirnei",
-            "en": "Mirna Valley Viewpoint"
+            "en": "Mirna Valley Viewpoint",
+            "hr": "Vidikovac doline Mirne"
           },
           "coords": [
             13.9675,
@@ -2400,7 +2474,7 @@
             "hu": "Kilátás a szarvasgomba-erdőre felülről.",
             "ro": "Vedere asupra pădurii de trufe de sus.",
             "en": "View of the truffle forest from above.",
-            "hr": "Pogled na šumu tartufa odozgo."
+            "hr": "Pogled na tartufsku šumu iz zraka."
           }
         },
         {
@@ -2408,7 +2482,8 @@
             "de": "Fonticus-Palast",
             "hu": "Fonticus-palota",
             "ro": "Palatul Fonticus",
-            "en": "Fonticus Palace"
+            "en": "Fonticus Palace",
+            "hr": "Palača Fonticus"
           },
           "coords": [
             13.9666,
@@ -2424,7 +2499,7 @@
             "hu": "A város kulturális központja.",
             "ro": "Centrul cultural al orașului.",
             "en": "The city's cultural center.",
-            "hr": "Gradsko kulturno središte."
+            "hr": "Kultura središte grada."
           }
         }
       ],
@@ -2433,7 +2508,7 @@
         "hu": "Buzet felfedezése tömegközlekedéssel némi tervezést igényel, de hiteles élményekkel jutalmaz. A város modern részén található központi buszmegállóból vezet az út fel a középkori erődbe.\n\nLátogasson el a díjnyertes múzeumba, és sétáljon a szűk utcákon, amelyek nyáron is kellemesen hűvösek maradnak.\n\nA nap a történelemről és a gasztronómiáról szól, amely az óváros minden sarkában érezhető.\n\nKényelmes módja annak, hogy parkolási gondok nélkül élvezze a 'szarvasgomba városa' hangulatát.",
         "ro": "Explorarea orașului Buzet cu transportul public necesită puțină planificare, dar oferă experiențe autentice. De la autogara centrală din partea modernă a orașului, drumul duce sus spre cetatea medievală.\n\nVizitați muzeul premiat și plimbați-vă pe străzile înguste, care rămân plăcut răcoroase vara.\n\nZiua este dedicată istoriei și gastronomiei, prezente la fiecare pas în orașul vechi.\n\nO modalitate relaxată de a savura atmosfera 'orașului trufelor' fără grija parcării.",
         "en": "Exploring Buzet by public transport requires some planning but rewards you with authentic impressions. From the central bus station in the modern part of town, the path leads up to the medieval fortress.\n\nVisit the award-winning museum and stroll through the narrow streets that remain pleasantly cool in summer.\n\nThe day is focused on history and gastronomy, which can be felt on every corner of the old town.\n\nA relaxed way to enjoy the atmosphere of the 'City of Truffles' without worrying about parking.",
-        "hr": "Istraživanje Buzeta javnim prijevozom zahtijeva malo planiranja, ali vas nagrađuje autentičnim dojmovima. Od središnjeg autobusnog kolodvora u modernom dijelu grada, put vodi do srednjovjekovne utvrde.\n\nPosjetite nagrađivani muzej i prošećite uskim ulicama koje ljeti ostaju ugodno svježe.\n\nDan je usredotočen na povijest i gastronomiju, koji se osjećaju na svakom uglu Starog grada.\n\nOpušten način za uživanje u atmosferi 'Grada tartufa' bez brige o parkiranju."
+        "hr": "Istraživanje Buzeta javnim prijevozom zahtijeva malo planiranja, ali vraća autentične dojmove. Iz središnjeg autobusnog kolodvora u modernom dijelu grada put vodi prema srednjovjekovnoj fortifikaciji.\n\nPosjetite nagrađivani muzej i prošećite uskim ulicama koje ljeti ostaju ugodno hladne.\n\nDan je usmjeren na povijest i gastronomiju, što se osjeti na svakom kutu starog grada.\n\nOpustljiv način da uživate u atmosferi 'Grada tartufa' bez brige o parkiranju."
       },
       "gastro_picks": {
         "de": [
@@ -2558,9 +2633,9 @@
           "Check the schedule for the Istrian railway in the valley."
         ],
         "hr": [
-          "Autobusne linije za Rijeku ili Pulu su češće od lokalnih gradskih autobusa.",
-          "Koristite lokalne taksije za kratki, strmi put do Starog grada.",
-          "Provjerite vozni red istarske željeznice u dolini."
+          "Autobusne veze za Rijeku ili Pulu češće su nego gradske linije.",
+          "Koristite lokalne taksije za kratak, strmi uspon do starog grada.",
+          "Provjerite vozni red istarske pruge u dolini."
         ]
       },
       "variants": {
@@ -2569,7 +2644,8 @@
             "de": "Buzet mit öffentlichen Verkehrsmitteln zu erkunden, erfordert etwas Planung, belohnt aber mit authentischen Eindrücken. Von der zentralen Bushaltestelle im modernen Teil der Stadt geht es hinauf in die mittelalterliche Festung.\n\nBesuchen Sie das preisgekrönte Museum und schlendern Sie durch die engen Gassen, die im Sommer angenehm kühl bleiben.\n\nDer Tag steht ganz im Zeichen der Geschichte und der Gastronomie, die in der Altstadt an jeder Ecke spürbar ist.\n\nEin entspannter Weg, um die Atmosphäre der 'Stadt der Trüffel' ohne Parkplatzsuche zu genießen.",
             "hu": "Buzet felfedezése tömegközlekedéssel némi tervezést igényel, de hiteles élményekkel jutalmaz. A város modern részén található központi buszmegállóból vezet az út fel a középkori erődbe.\n\nLátogasson el a díjnyertes múzeumba, és sétáljon a szűk utcákon, amelyek nyáron is kellemesen hűvösek maradnak.\n\nA nap a történelemről és a gasztronómiáról szól, amely az óváros minden sarkában érezhető.\n\nKényelmes módja annak, hogy parkolási gondok nélkül élvezze a 'szarvasgomba városa' hangulatát.",
             "ro": "Explorarea orașului Buzet cu transportul public necesită puțină planificare, dar oferă experiențe autentice. De la autogara centrală din partea modernă a orașului, drumul duce sus spre cetatea medievală.\n\nVizitați muzeul premiat și plimbați-vă pe străzile înguste, care rămân plăcut răcoroase vara.\n\nZiua este dedicată istoriei și gastronomiei, prezente la fiecare pas în orașul vechi.\n\nO modalitate relaxată de a savura atmosfera 'orașului trufelor' fără grija parcării.",
-            "en": "Exploring Buzet by public transport requires some planning but rewards you with authentic impressions. From the central bus station in the modern part of town, the path leads up to the medieval fortress.\n\nVisit the award-winning museum and stroll through the narrow streets that remain pleasantly cool in summer.\n\nThe day is focused on history and gastronomy, which can be felt on every corner of the old town.\n\nA relaxed way to enjoy the atmosphere of the 'City of Truffles' without worrying about parking."
+            "en": "Exploring Buzet by public transport requires some planning but rewards you with authentic impressions. From the central bus station in the modern part of town, the path leads up to the medieval fortress.\n\nVisit the award-winning museum and stroll through the narrow streets that remain pleasantly cool in summer.\n\nThe day is focused on history and gastronomy, which can be felt on every corner of the old town.\n\nA relaxed way to enjoy the atmosphere of the 'City of Truffles' without worrying about parking.",
+            "hr": "Istraživanje Buzeta javnim prijevozom zahtijeva malo planiranja, ali vraća autentične dojmove. Iz središnjeg autobusnog kolodvora u modernom dijelu grada put vodi prema srednjovjekovnoj fortifikaciji.\n\nPosjetite nagrađivani muzej i prošećite uskim ulicama koje ljeti ostaju ugodno hladne.\n\nDan je usmjeren na povijest i gastronomiju, što se osjeti na svakom kutu starog grada.\n\nOpustljiv način da uživate u atmosferi 'Grada tartufa' bez brige o parkiranju."
           },
           "stops": [
             {
@@ -2577,13 +2653,15 @@
                 "de": "Bushaltestelle Buzet (Unten)",
                 "hu": "Buzeti buszmegálló (Alsó)",
                 "ro": "Stația de autobuz Buzet (Jos)",
-                "en": "Buzet Bus Station (Bottom)"
+                "en": "Buzet Bus Station (Bottom)",
+                "hr": "Autobusni kolodvor Buzet (Dolje)"
               },
               "tip_5lang": {
                 "de": "Sammelpunkt für regionale Busse.",
                 "hu": "Regionális buszok gyűjtőpontja.",
                 "ro": "Punct de legătură pentru autobuze regionale.",
-                "en": "Hub for regional buses."
+                "en": "Hub for regional buses.",
+                "hr": "Čvorište za regionalne autobuse."
               }
             },
             {
@@ -2591,13 +2669,15 @@
                 "de": "Altstadtplatz",
                 "hu": "Óváros tér",
                 "ro": "Piața Orașului Vechi",
-                "en": "Old Town Square"
+                "en": "Old Town Square",
+                "hr": "Trg Starog Grada"
               },
               "tip_5lang": {
                 "de": "Der lokale Shuttle fährt unregelmäßig, Taxi ist oft besser.",
                 "hu": "A helyi járat rendszertelen, a taxi gyakran jobb.",
                 "ro": "Microbuzul local e neregulat, taxiul e adesea mai bun.",
-                "en": "The local shuttle is irregular, a taxi is often better."
+                "en": "The local shuttle is irregular, a taxi is often better.",
+                "hr": "Lokalni shuttle je neredovit, taksi je često bolji izbor."
               }
             },
             {
@@ -2605,13 +2685,15 @@
                 "de": "Heimatmuseum Buzet",
                 "hu": "Buzeti Helytörténeti Múzeum",
                 "ro": "Muzeul de Istorie Locală",
-                "en": "Buzet Heritage Museum"
+                "en": "Buzet Heritage Museum",
+                "hr": "Buzetski muzej baštine"
               },
               "tip_5lang": {
                 "de": "Hervorragende Sammlung in einem alten Palast.",
                 "hu": "Kiváló gyűjtemény egy régi palotában.",
                 "ro": "Colecție excelentă într-un palat vechi.",
-                "en": "Excellent collection in an old palace."
+                "en": "Excellent collection in an old palace.",
+                "hr": "Izvrsna zbirka u staroj palači."
               }
             },
             {
@@ -2619,13 +2701,15 @@
                 "de": "Aussichtspunkt ins Mirna-Tal",
                 "hu": "Kilátó a Mirna-völgyre",
                 "ro": "Belvedere Valea Mirnei",
-                "en": "Mirna Valley Viewpoint"
+                "en": "Mirna Valley Viewpoint",
+                "hr": "Vidikovac doline Mirne"
               },
               "tip_5lang": {
                 "de": "Blick auf den Trüffelwald von oben.",
                 "hu": "Kilátás a szarvasgomba-erdőre felülről.",
                 "ro": "Vedere asupra pădurii de trufe de sus.",
-                "en": "View of the truffle forest from above."
+                "en": "View of the truffle forest from above.",
+                "hr": "Pogled na tartufsku šumu iz zraka."
               }
             },
             {
@@ -2633,13 +2717,15 @@
                 "de": "Fonticus-Palast",
                 "hu": "Fonticus-palota",
                 "ro": "Palatul Fonticus",
-                "en": "Fonticus Palace"
+                "en": "Fonticus Palace",
+                "hr": "Palača Fonticus"
               },
               "tip_5lang": {
                 "de": "Kulturzentrum der Stadt.",
                 "hu": "A város kulturális központja.",
                 "ro": "Centrul cultural al orașului.",
-                "en": "The city's cultural center."
+                "en": "The city's cultural center.",
+                "hr": "Kultura središte grada."
               }
             }
           ],
@@ -2745,6 +2831,11 @@
               "Bus connections to Rijeka or Pula are more frequent than local town buses.",
               "Use local taxis for the short, steep trip to the old town.",
               "Check the schedule for the Istrian railway in the valley."
+            ],
+            "hr": [
+              "Autobusne veze za Rijeku ili Pulu češće su nego gradske linije.",
+              "Koristite lokalne taksije za kratak, strmi uspon do starog grada.",
+              "Provjerite vozni red istarske pruge u dolini."
             ]
           }
         },
@@ -2754,7 +2845,7 @@
             "hu": "A völgyi buszállomáson kezdünk, miközben nagy cseppek dobognak a tetőn. Délben a szakadó eső elől az óvárosi néprajzi múzeumba menekülünk. Délután a Mirna-völgy látványát egy fedett helyről élvezzük a kilátónál. Este visszatérünk a Fonticus-palotához, mielőtt felszállunk a völgybe tartó buszra.",
             "ro": "Începem la autogara din vale, în timp ce picături mari bat în acoperiș. La prânz ne refugiem de ploaie în muzeul de istorie din orașul vechi. După-amiaza admirăm valea Mirna dintr-un loc acoperit la punctul de belvedere. Seara revenim la palatul Fonticus înainte de a lua autobuzul înapoi spre vale.",
             "en": "We start at the bus station in the valley while heavy drops drum on the roof. At noon, we escape the rain into the heritage museum in the old town. In the afternoon, we enjoy the Mirna Valley view from a sheltered spot at the viewpoint. Evening finds us back at the Fonticus Palace before taking the bus down to the valley.",
-            "hr": "Krećemo s autobusnog kolodvora u dolini dok teške kapi bubnjaju po krovu. U podne bježimo od kiše u Zavičajni muzej u Starom gradu. Poslijepodne uživamo u pogledu na dolinu Mirne iz natkrivenog mjesta na vidikovcu. Večer nas ponovno nalazi kod palače Fonticus prije povratka autobusom u dolinu."
+            "hr": "Krećemo s kolodvora u dolini dok teške kapi bubnjaju po krovu. U podne bježimo od kiše u muzej baštine u starom gradu. Poslijepodne uživamo u pogledu na dolinu Mirne s zaštićenog mjesta na vidikovcu. Uvečer se nalazimo ponovno kod palače Fonticus prije nego što autobus spusti dolje u dolinu."
           },
           "stops": [
             {
@@ -2764,7 +2855,7 @@
                 "hu": "Várjunk az épületben, amíg megérkezik az óvárosi busz.",
                 "ro": "Așteptați în clădire până la sosirea autobuzului spre orașul vechi.",
                 "en": "Wait inside the building until the bus to the old town arrives.",
-                "hr": "Čekajte unutar zgrade dok ne dođe autobus za Stari grad."
+                "hr": "Pričekajte unutar zgrade dok ne stigne autobus za stari grad."
               }
             },
             {
@@ -2774,7 +2865,7 @@
                 "hu": "Az itteni buszmegálló alig nyújt védelmet az eső ellen.",
                 "ro": "Stația de autobuz de aici oferă puțină protecție împotriva ploii.",
                 "en": "The bus stop up here offers very little protection from the rain.",
-                "hr": "Autobusna stanica ovdje gore nudi vrlo malo zaštite od kiše."
+                "hr": "Autobusno stajalište gore nudi vrlo malo zaštite od kiše."
               }
             },
             {
@@ -2784,7 +2875,7 @@
                 "hu": "Tökéletes helyszín egy hosszú, száraz szünethez.",
                 "ro": "Locul perfect pentru o pauză prelungită la adăpost.",
                 "en": "The perfect location for an extended break in the dry.",
-                "hr": "Savršeno mjesto za dužu pauzu na suhom."
+                "hr": "Savršena lokacija za produženi predah u suhom."
               }
             },
             {
@@ -2794,7 +2885,7 @@
                 "hu": "Keressünk menedéket a közeli épület előteteje alatt.",
                 "ro": "Căutați adăpost sub streașina clădirii din apropiere.",
                 "en": "Look for shelter under the overhang of the nearby building.",
-                "hr": "Potražite zaklon ispod nadstrešnice obližnje zgrade."
+                "hr": "Potražite sklonište pod nadstrešnicom obližnje zgrade."
               }
             },
             {
@@ -2804,7 +2895,7 @@
                 "hu": "Használjuk a belső udvart időjárástól védett várakozóhelynek.",
                 "ro": "Folosiți curtea interioară ca zonă de așteptare protejată.",
                 "en": "Use the inner courtyard as a weather-protected waiting area.",
-                "hr": "Koristite unutarnje dvorište kao prostor za čekanje zaštićen od vremenskih prilika."
+                "hr": "Iskoristite unutarnje dvorište kao čekalište zaštićeno od vremena."
               }
             }
           ],
@@ -2838,11 +2929,11 @@
               "Check the timetable online to minimize waiting time outdoors."
             ],
             "hr": [
-              "Autobusne veze između doline i Starog grada mogu biti rjeđe po kiši.",
-              "Taksi je dobra alternativa ako je vozni red autobusa nepovoljan.",
-              "Planirajte duži boravak u muzeju kako biste pričekali da prođu pljuskovi.",
-              "Udaljenosti između postaja su kratke, ali su staze strme i mokre.",
-              "Provjerite vozni red online kako biste minimalizirali čekanje na otvorenom."
+              "Autobusne veze između doline i starog grada mogu biti rjeđe po kiši.",
+              "Taksi je dobra alternativa ako je raspored autobusa nepraktičan.",
+              "Planirajte duže boravke u muzeju da pričekate prestanak pljuskova.",
+              "Udaljenosti između stajališta su male, ali putovi su strmi i mokri.",
+              "Provjerite raspored online kako biste smanjili čekanje na otvorenom."
             ]
           }
         },
@@ -2852,7 +2943,7 @@
             "hu": "Fagyos kezdés a ködös völgyi buszállomáson. Délben a múzeumban melegszünk fel, miközben a téli napnak kint alig van ereje. Délután a jeges Mirna-völgy felett nézünk szét, majd a Fonticus-palotában merülünk el a múltban. Este az utolsó busszal térünk vissza a völgybe, az óváros fényei mögöttünk ragyognak.",
             "ro": "Început geros la autogara din valea cețoasă. La prânz ne încălzim în muzeu, în timp ce soarele de iarnă are puțină putere afară. După-amiaza privim peste valea înghețată a Mirnei, apoi explorăm istoria la palatul Fonticus. Seara luăm ultimul autobuz spre vale, luminile orașului vechi strălucind în urmă.",
             "en": "A frosty start at the bus station in the misty valley. At noon, we warm up in the museum while the winter sun outside has little strength. In the afternoon, we look out over the icy Mirna Valley before diving into history at the Fonticus Palace. In the evening, we take the last bus to the valley as the old town lights glow behind us.",
-            "hr": "Ledeni početak na autobusnom kolodvoru u maglovitoj dolini. U podne se grijemo u muzeju dok zimsko sunce vani ima malo snage. Poslijepodne gledamo preko zaleđene doline Mirne prije nego što uronimo u povijest u palači Fonticus. Navečer idemo zadnjim autobusom u dolinu dok svjetla Starog grada svijetle iza nas."
+            "hr": "Mrazno jutro na kolodvoru u maglovitoj dolini. U podne se grijemo u muzeju dok zimsko sunce izvana ima malo snage. Poslijepodne promatramo zaleđenu dolinu Mirne prije nego što zaronimo u povijest palače Fonticus. Uvečer uzimamo posljednji autobus do doline dok svjetla starog grada sjaje iza nas."
           },
           "stops": [
             {
@@ -2872,7 +2963,7 @@
                 "hu": "Öltözzünk melegen; a megálló nagyon kitett helyen van.",
                 "ro": "Îmbrăcați-vă gros; stația este într-un loc foarte expus.",
                 "en": "Dress warmly; the bus stop is in a very exposed location.",
-                "hr": "Obucite se toplo; autobusna stanica je na vrlo izloženom mjestu."
+                "hr": "Obucite se toplo; autobusno stajalište je na vrlo izloženom mjestu."
               }
             },
             {
@@ -2882,7 +2973,7 @@
                 "hu": "Ideális helyszín, hogy a következő buszig a melegben várjunk.",
                 "ro": "Locul ideal pentru a aștepta următorul autobuz la căldură.",
                 "en": "Ideal place to wait for the next bus while staying warm.",
-                "hr": "Idealno mjesto za čekanje sljedećeg autobusa na toplom."
+                "hr": "Idealno mjesto za čekanje idućeg autobusa uz toplinu."
               }
             },
             {
@@ -2892,7 +2983,7 @@
                 "hu": "Tiszta időben télen ellátni egészen az Alpokig.",
                 "ro": "Pe timp senin, iarna se pot vedea Alpii în depărtare.",
                 "en": "On clear winter days, you can see all the way to the Alps.",
-                "hr": "Tijekom vedrih zimskih dana možete vidjeti sve do Alpa."
+                "hr": "U bistrim zimskim danima vidi se sve do Alpa."
               }
             },
             {
@@ -2902,7 +2993,7 @@
                 "hu": "A vastag falak kint tartják a hideget; kellemes megálló.",
                 "ro": "Zidurile groase țin frigul afară; o oprire plăcută.",
                 "en": "The thick walls keep the cold out; a pleasant stop.",
-                "hr": "Debeli zidovi drže hladnoću vani; ugodna postaja."
+                "hr": "Debeli zidovi drže hladnoću van; ugodna stanica."
               }
             }
           ],
@@ -2936,11 +3027,11 @@
               "Use waiting times for a quick hot espresso in a nearby bar."
             ],
             "hr": [
-              "Vozni redovi mogu biti reducirani zimi; provjerite vremena unaprijed.",
-              "Autobusi su obično dobro grijani; savršeno za kratki predah.",
-              "Pripazite na zadnji autobus jer su taksiji rjeđi zimi.",
-              "Pješačka staza od stanice do muzeja može biti zaleđena.",
-              "Iskoristite vrijeme čekanja za kratki topli espresso u obližnjem baru."
+              "Rasporedi mogu biti smanjeni zimi; provjerite polaske unaprijed.",
+              "Autobusi su obično dobro grijani; savršeno za kratku pauzu.",
+              "Pazite na posljednji autobus jer su taksiji rjeđi zimi.",
+              "Pješačka staza od stajališta do muzeja može biti poledjela.",
+              "Iskoristite vrijeme čekanja za brzi, vrući espresso u obližnjem baru."
             ]
           }
         }
@@ -2969,19 +3060,22 @@
       "de": "Buzet liegt im zweisprachigen Istrien (Kroatisch, Italienisch). In Trueffel-Restaurants und beim Tourismusbuero wird gut Englisch und Italienisch gesprochen, oft auch Deutsch.",
       "hu": "Buzet a ketnyelvu Isztriaban van (horvat, olasz). A szarvasgomba-eteremben es a turisztikai irodaban jol beszelnek angolul es olaszul, gyakran nemetul is.",
       "ro": "Buzet se afla in Istria bilingva (croata, italiana). In restaurantele cu trufe si la biroul de turism se vorbeste engleza si italiana, deseori si germana.",
-      "en": "Buzet is in bilingual Istria (Croatian, Italian). Truffle restaurants and the tourist office speak good English and Italian, often German too."
+      "en": "Buzet is in bilingual Istria (Croatian, Italian). Truffle restaurants and the tourist office speak good English and Italian, often German too.",
+      "hr": "Buzet je u dvojezičnoj Istri (hrvatski, talijanski). Restorani s tartufima i turistička ured govore dobar engleski i talijanski, često i njemački."
     },
     "best_time_to_visit": {
       "de": "September bis November fuer die weisse Trueffelsaison, mit dem 'Subotina' Trueffelfest im September. Fruehling fuer Wandern und Radfahren im Mirna-Tal, Sommer warm aber ruhiger als die Kueste.",
       "hu": "Szeptembertol novemberig a feher szarvasgomba szezon, szeptemberben a 'Subotina' szarvasgomba fesztival. Tavasszal turazas, kerekparozas a Mirna volgyben, nyaron meleg de a partnal nyugalmasabb.",
       "ro": "Septembrie-noiembrie pentru sezonul trufei albe, cu festivalul 'Subotina' in septembrie. Primavara pentru drumetii si bicicleta in valea Mirna, vara este calda dar mai linistita decat coasta.",
-      "en": "September to November for white truffle season, with the 'Subotina' truffle fair in September. Spring is great for hiking and cycling in the Mirna valley; summer is warm but quieter than the coast."
+      "en": "September to November for white truffle season, with the 'Subotina' truffle fair in September. Spring is great for hiking and cycling in the Mirna valley; summer is warm but quieter than the coast.",
+      "hr": "Rujan do studenog za sezonu bijelog tartufa, s tržnicom tartufa 'Subotina' u rujnu. Proljeće je izvrsno za pješačenje i biciklizam u dolini Mirne; ljeto je toplo, ali mirnije nego na obali."
     },
     "neighborhood_warnings": {
       "de": "Altstadt auf einem Huegel mit steilen, glatten Pflastersteinen, festes Schuhwerk noetig. Innerhalb der Mauern kein Verkehr; Parkplaetze nur unten am Berg. Im Sommer Vorsicht vor Trueffel-Touren-Abzocke, nur lizensierte Anbieter buchen.",
       "hu": "Az ovaros dombon van, mereddek, sikos macskakovekkel, kemeny talpu cipo kell. A falakon belul nincs auto-forgalom; parkolok csak a hegy laban. Nyaron vigyazz a szarvasgomba-tura atveresekkel, csak engedelyezett szolgaltatot foglalj.",
       "ro": "Orasul vechi pe deal, cu pavaj abrupt si alunecos, e nevoie de incaltaminte solida. In zidurile cetatii nu circula masini, parcari doar la baza dealului. Vara, atentie la 'tururi de trufe' frauduloase, rezerva doar furnizori autorizati.",
-      "en": "Old town sits on a hill with steep, slippery cobbles, wear sturdy shoes. No traffic inside the walls; parking only at the foot of the hill. In summer, beware of unlicensed truffle-tour scams; book only authorised operators."
+      "en": "Old town sits on a hill with steep, slippery cobbles, wear sturdy shoes. No traffic inside the walls; parking only at the foot of the hill. In summer, beware of unlicensed truffle-tour scams; book only authorised operators.",
+      "hr": "Stari grad smješten je na brdu sa strmim, skliskim kaldrmama, nosite čvrstu obuću. Promet ne prolazi unutar zidina; parkiranje je samo u podnožju brda. Ljeti pripazite na neregistrirane ture za tartufe; rezervirajte samo ovlaštene operatere."
     },
     "_verified": [
       "https://www.tz-buzet.hr/en/",

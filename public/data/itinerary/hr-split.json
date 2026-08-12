@@ -21,7 +21,8 @@
             "de": "Diokletianpalast",
             "hu": "Diocletianus-palota",
             "ro": "Palatul lui Dioclețian",
-            "en": "Diocletian's Palace"
+            "en": "Diocletian's Palace",
+            "hr": "Dioklecijanova palača"
           },
           "coords": [
             16.4402,
@@ -36,7 +37,8 @@
             "de": "UNESCO-Weltkulturerbe, das Herz der Stadt.",
             "hu": "UNESCO világörökség, a város lüktető szíve.",
             "ro": "Patrimoniu UNESCO, inima orașului.",
-            "en": "UNESCO World Heritage site, the heart of the city."
+            "en": "UNESCO World Heritage site, the heart of the city.",
+            "hr": "UNESCO-ov spomenik svjetske baštine, srce grada."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Peristyl",
             "hu": "Perisztilum",
             "ro": "Peristil",
-            "en": "Peristyle"
+            "en": "Peristyle",
+            "hr": "Peristil"
           },
           "coords": [
             16.4405,
@@ -59,7 +62,8 @@
             "de": "Der zentrale Platz des Palastes mit ägyptischer Sphinx.",
             "hu": "A palota központi tere egy egyiptomi szfinxszel.",
             "ro": "Piața centrală a palatului cu sfinx egiptean.",
-            "en": "The central square of the palace with an Egyptian sphinx."
+            "en": "The central square of the palace with an Egyptian sphinx.",
+            "hr": "Središnji trg palače s egipatskim sfinxom."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Kathedrale des Hl. Domnius",
             "hu": "Szent Dujam-székesegyház",
             "ro": "Catedrala Sfântul Domnius",
-            "en": "Cathedral of St. Domnius"
+            "en": "Cathedral of St. Domnius",
+            "hr": "Katedrala sv. Duje"
           },
           "coords": [
             16.4408,
@@ -82,7 +87,8 @@
             "de": "Besteigen Sie den Glockenturm für die Aussicht.",
             "hu": "Másszon fel a harangtoronyba a kilátásért.",
             "ro": "Urcați în clopotniță pentru priveliște.",
-            "en": "Climb the bell tower for the view."
+            "en": "Climb the bell tower for the view.",
+            "hr": "Popnite se na zvonik za pogled."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Riva Promenade",
             "hu": "Riva sétány",
             "ro": "Promenada Riva",
-            "en": "Riva Promenade"
+            "en": "Riva Promenade",
+            "hr": "Riva"
           },
           "coords": [
             16.4385,
@@ -105,7 +112,8 @@
             "de": "Sehen und gesehen werden am Hafen.",
             "hu": "Látni és látszani a kikötőben.",
             "ro": "A vedea și a fi văzut la port.",
-            "en": "See and be seen at the harbor front."
+            "en": "See and be seen at the harbor front.",
+            "hr": "Vidite i budite viđeni na gradskoj rivi."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Pazar Markt",
             "hu": "Pazar piac",
             "ro": "Piața Pazar",
-            "en": "Pazar Market"
+            "en": "Pazar Market",
+            "hr": "Pazar"
           },
           "coords": [
             16.4422,
@@ -128,7 +137,8 @@
             "de": "Traditioneller Markt mit lokalen Produkten.",
             "hu": "Hagyományos piac helyi termékekkel.",
             "ro": "Piață tradițională cu produse locale.",
-            "en": "Traditional market with local products."
+            "en": "Traditional market with local products.",
+            "hr": "Tradicionalna tržnica s lokalnim proizvodima."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Statue von Gregor von Nin",
             "hu": "Nini Gergely szobra",
             "ro": "Statuia lui Grigore din Nin",
-            "en": "Gregory of Nin Statue"
+            "en": "Gregory of Nin Statue",
+            "hr": "Kip Grgura Ninskog"
           },
           "coords": [
             16.4402,
@@ -151,7 +162,8 @@
             "de": "Reiben Sie den goldenen Zeh für Glück.",
             "hu": "Dörzsölje meg az arany lábujjat a szerencséért.",
             "ro": "Frecați degetul de aur pentru noroc.",
-            "en": "Rub the golden toe for good luck."
+            "en": "Rub the golden toe for good luck.",
+            "hr": "Protrljajte zlatni prst za sreću."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Marjan Hügel (Aussichtspunkt)",
             "hu": "Marjan-domb kilátó",
             "ro": "Belvederea Marjan",
-            "en": "Marjan Hill Viewpoint"
+            "en": "Marjan Hill Viewpoint",
+            "hr": "Vidikovac na brdu Marjan"
           },
           "coords": [
             16.4302,
@@ -174,7 +187,8 @@
             "de": "Panorama über die Stadt und die Inseln.",
             "hu": "Panoráma a városra és a szigetekre.",
             "ro": "Panoramă asupra orașului și insulelor.",
-            "en": "Panorama over the city and the islands."
+            "en": "Panorama over the city and the islands.",
+            "hr": "Panorama grada i otoka."
           }
         },
         {
@@ -182,7 +196,8 @@
             "de": "Varoš Viertel",
             "hu": "Varoš negyed",
             "ro": "Cartierul Varoš",
-            "en": "Varoš District"
+            "en": "Varoš District",
+            "hr": "Varoš"
           },
           "coords": [
             16.4332,
@@ -197,7 +212,8 @@
             "de": "Enge Gassen des alten Arbeiterviertels.",
             "hu": "A régi munkásnegyed szűk utcái.",
             "ro": "Străzi înguste ale vechiului cartier muncitoresc.",
-            "en": "Narrow streets of the old working-class district."
+            "en": "Narrow streets of the old working-class district.",
+            "hr": "Uzne ulice stare radničke četvrti."
           }
         }
       ],
@@ -205,7 +221,8 @@
         "de": "Tauchen Sie ein in die römische Geschichte im Diokletianpalast und dem Peristyl. Nach dem Besuch der Kathedrale genießen Sie die Atmosphäre auf der Riva. Entdecken Sie lokale Köstlichkeiten auf dem Pazar-Markt und holen Sie sich eine Portion Glück bei Gregor von Nin. Beenden Sie den Tag mit einer Wanderung auf den Marjan-Hügel.",
         "hu": "Merüljön el a római történelemben a Diocletianus-palotában és a Perisztilumon. A katedrális látogatása után élvezze a Riva hangulatát. Fedezze fel a helyi finomságokat a Pazar piacon, és kérjen egy adag szerencsét Nini Gergelytől. Zárja a napot egy sétával a Marjan-dombra.",
         "ro": "Cufundați-vă în istoria romană în Palatul lui Dioclețian și Peristil. După vizitarea catedralei, bucurați-vă de atmosfera de pe Riva. Descoperiți delicii locale în piața Pazar și cereți puțin noroc de la Grigore din Nin. Încheiați ziua cu o plimbare pe dealul Marjan.",
-        "en": "Immerse yourself in Roman history at Diocletian's Palace and the Peristyle. After visiting the Cathedral, enjoy the atmosphere on the Riva. Discover local delicacies at the Pazar Market and get some luck from Gregory of Nin. End the day with a walk up Marjan Hill."
+        "en": "Immerse yourself in Roman history at Diocletian's Palace and the Peristyle. After visiting the Cathedral, enjoy the atmosphere on the Riva. Discover local delicacies at the Pazar Market and get some luck from Gregory of Nin. End the day with a walk up Marjan Hill.",
+        "hr": "Uronite u rimsku povijest u Dioklecijanovoj palači i Peristilu. Nakon posjeta Katedrali, uživajte u atmosferi na Rivi. Otkrijte lokalne delicije na Pazar tržnici i potražite sreću kod Grgura Ninskog. Dan završite šetnjom na brdo Marjan."
       },
       "gastro_picks": {
         "de": [
@@ -305,6 +322,10 @@
         "en": [
           "The palace basements are pleasantly cool in summer.",
           "Avoid the Riva during the hottest midday hours."
+        ],
+        "hr": [
+          "Podrumi palače su ugodno hladni ljeti.",
+          "Izbjegavajte Rivu tijekom najtoplijih sati u podne."
         ]
       }
     },
@@ -321,7 +342,8 @@
             "de": "Marjan Parkwald Eingang",
             "hu": "Marjan parkerdő bejárat",
             "ro": "Intrarea în parcul Marjan",
-            "en": "Marjan Forest Park Entrance"
+            "en": "Marjan Forest Park Entrance",
+            "hr": "Ulaz u Park-šumu Marjan"
           },
           "coords": [
             16.4258,
@@ -336,7 +358,8 @@
             "de": "Mieten Sie Ihr Fahrrad direkt am Eingang.",
             "hu": "Béreljen kerékpárt közvetlenül a bejáratnál.",
             "ro": "Închiriați bicicleta direct la intrare.",
-            "en": "Rent your bike right at the entrance."
+            "en": "Rent your bike right at the entrance.",
+            "hr": "Iznajmite bicikl odmah na ulazu."
           }
         },
         {
@@ -344,7 +367,8 @@
             "de": "Bene Strand",
             "hu": "Bene strand",
             "ro": "Plaja Bene",
-            "en": "Bene Beach"
+            "en": "Bene Beach",
+            "hr": "Plaža Bene"
           },
           "coords": [
             16.4022,
@@ -359,7 +383,8 @@
             "de": "Sportzentrum mit schattigen Plätzen.",
             "hu": "Sportközpont árnyas pihenőhelyekkel.",
             "ro": "Centru sportiv cu locuri umbrite.",
-            "en": "Sports center with shaded areas."
+            "en": "Sports center with shaded areas.",
+            "hr": "Sportski centar sa sjenovitim zonama."
           }
         },
         {
@@ -367,7 +392,8 @@
             "de": "Kasjuni Strand",
             "hu": "Kasjuni strand",
             "ro": "Plaja Kasjuni",
-            "en": "Kasjuni Beach"
+            "en": "Kasjuni Beach",
+            "hr": "Plaža Kašjuni"
           },
           "coords": [
             16.4052,
@@ -382,7 +408,8 @@
             "de": "Schöne Bucht mit einer coolen Beach Bar.",
             "hu": "Gyönyörű öböl menő beach bárral.",
             "ro": "Golf frumos cu un beach bar cool.",
-            "en": "Beautiful bay with a cool beach bar."
+            "en": "Beautiful bay with a cool beach bar.",
+            "hr": "Prekrasna uvala s cool beach barom."
           }
         },
         {
@@ -390,7 +417,8 @@
             "de": "Meštrović Galerie",
             "hu": "Meštrović Galéria",
             "ro": "Galeria Meštrović",
-            "en": "Meštrović Gallery"
+            "en": "Meštrović Gallery",
+            "hr": "Galerija Meštrović"
           },
           "coords": [
             16.4217,
@@ -405,7 +433,8 @@
             "de": "Werke des berühmtesten kroatischen Bildhauers.",
             "hu": "A leghíresebb horvát szobrász alkotásai.",
             "ro": "Operele celui mai faimos sculptor croat.",
-            "en": "Works by the most famous Croatian sculptor."
+            "en": "Works by the most famous Croatian sculptor.",
+            "hr": "Djela najpoznatijeg hrvatskog kipara."
           }
         },
         {
@@ -413,7 +442,8 @@
             "de": "Bačvice Strand",
             "hu": "Bačvice strand",
             "ro": "Plaja Bačvice",
-            "en": "Bačvice Beach"
+            "en": "Bačvice Beach",
+            "hr": "Plaža Bačvice"
           },
           "coords": [
             16.4485,
@@ -428,7 +458,8 @@
             "de": "Hier wird das lokale Spiel Picigin gespielt.",
             "hu": "Itt játsszák a helyi Picigin játékot.",
             "ro": "Aici se joacă jocul local Picigin.",
-            "en": "The local game of Picigin is played here."
+            "en": "The local game of Picigin is played here.",
+            "hr": "Ovdje se igra lokalna igra picigin."
           }
         }
       ],
@@ -436,7 +467,8 @@
         "de": "Erkunden Sie die grüne Lunge von Split, den Marjan-Hügel, mit dem Rad. Besuchen Sie verschiedene Strände entlang der Halbinsel und machen Sie einen kulturellen Stopp in der Meštrović-Galerie. Beenden Sie den Tag am berühmten Sandstrand Bačvice.",
         "hu": "Fedezze fel Split zöld tüdejét, a Marjan-dombot kerékpárral. Látogasson el a félsziget különböző strandjaira, és tegyen egy kulturális megállót a Meštrović Galériában. Zárja a napot a híres homokos Bačvice strandon.",
         "ro": "Explorați plămânul verde al Splitului, dealul Marjan, cu bicicleta. Vizitați diverse plaje de-a lungul peninsulei și faceți o oprire culturală la Galeria Meštrović. Încheiați ziua pe faimoasa plajă de nisip Bačvice.",
-        "en": "Explore Split's green lung, Marjan Hill, by bike. Visit various beaches along the peninsula and make a cultural stop at the Meštrović Gallery. End the day at the famous sandy Bačvice Beach."
+        "en": "Explore Split's green lung, Marjan Hill, by bike. Visit various beaches along the peninsula and make a cultural stop at the Meštrović Gallery. End the day at the famous sandy Bačvice Beach.",
+        "hr": "Istražite splitsko zeleno plućo, brdo Marjan, biciklom. Posjetite razne plaže na poluotoku i napravite kulturnu stanku u Galeriji Meštrović. Dan završite na poznatoj pješčanoj plaži Bačvice."
       },
       "gastro_picks": {
         "de": [
@@ -536,6 +568,10 @@
         "en": [
           "Cycling around Marjan is mostly flat.",
           "Watch out for pedestrians on the coastal road."
+        ],
+        "hr": [
+          "Vožnja oko Marjana je uglavnom ravna.",
+          "Pazite na pješake na obalnoj cesti."
         ]
       }
     },
@@ -552,7 +588,8 @@
             "de": "Klis Festung",
             "hu": "Klisszai vár",
             "ro": "Cetatea Klis",
-            "en": "Klis Fortress"
+            "en": "Klis Fortress",
+            "hr": "Tvrđava Klis"
           },
           "coords": [
             16.5239,
@@ -567,7 +604,8 @@
             "de": "Ein Muss für Game of Thrones Fans (Meereen).",
             "hu": "Kötelező a Trónok harca rajongóknak (Meereen).",
             "ro": "Obligatoriu pentru fanii Game of Thrones (Meereen).",
-            "en": "A must-visit for Game of Thrones fans (Meereen)."
+            "en": "A must-visit for Game of Thrones fans (Meereen).",
+            "hr": "Obavezno za fanove Igre prijestolja (Meereen)."
           }
         },
         {
@@ -575,7 +613,8 @@
             "de": "Salona Ruinen",
             "hu": "Salona romjai",
             "ro": "Ruinele Salona",
-            "en": "Salona Ruins"
+            "en": "Salona Ruins",
+            "hr": "Ruinе Salone"
           },
           "coords": [
             16.4839,
@@ -590,7 +629,8 @@
             "de": "Die Hauptstadt der römischen Provinz Dalmatien.",
             "hu": "A római Dalmácia provincia egykori fővárosa.",
             "ro": "Capitala provinciei romane Dalmația.",
-            "en": "The capital of the Roman province of Dalmatia."
+            "en": "The capital of the Roman province of Dalmatia.",
+            "hr": "Glavni grad rimske provincije Dalmacije."
           }
         },
         {
@@ -598,7 +638,8 @@
             "de": "Trogir Altstadt",
             "hu": "Trogir óvárosa",
             "ro": "Orașul vechi Trogir",
-            "en": "Trogir Old Town"
+            "en": "Trogir Old Town",
+            "hr": "Stari grad Trogir"
           },
           "coords": [
             16.2514,
@@ -613,7 +654,8 @@
             "de": "UNESCO-geschützte Museumsstadt auf einer Insel.",
             "hu": "UNESCO-védettségű múzeumváros egy szigeten.",
             "ro": "Oraș-muzeu protejat UNESCO pe o insulă.",
-            "en": "UNESCO-protected museum city on an island."
+            "en": "UNESCO-protected museum city on an island.",
+            "hr": "UNESCO-ov grad-muzej na otoku."
           }
         },
         {
@@ -621,7 +663,8 @@
             "de": "Kathedrale von Trogir",
             "hu": "Trogiri székesegyház",
             "ro": "Catedrala din Trogir",
-            "en": "Trogir Cathedral"
+            "en": "Trogir Cathedral",
+            "hr": "Katedrala u Trogiru"
           },
           "coords": [
             16.2511,
@@ -636,7 +679,8 @@
             "de": "Bewundern Sie das Portal von Meister Radovan.",
             "hu": "Csodálja meg Radovan mester kapuját.",
             "ro": "Admirați portalul maestrului Radovan.",
-            "en": "Admire the portal by Master Radovan."
+            "en": "Admire the portal by Master Radovan.",
+            "hr": "Divite se portalu majstora Radovana."
           }
         },
         {
@@ -644,7 +688,8 @@
             "de": "Kamerlengo Festung",
             "hu": "Kamerlengo erőd",
             "ro": "Cetatea Kamerlengo",
-            "en": "Kamerlengo Fortress"
+            "en": "Kamerlengo Fortress",
+            "hr": "Tvrđava Kamerlengo"
           },
           "coords": [
             16.2486,
@@ -659,7 +704,8 @@
             "de": "Venezianische Festung am Ende der Promenade.",
             "hu": "Velencei erőd a sétány végén.",
             "ro": "Cetate venețiană la capătul falezei.",
-            "en": "Venetian fortress at the end of the promenade."
+            "en": "Venetian fortress at the end of the promenade.",
+            "hr": "Mletačka tvrđava na kraju šetnice."
           }
         }
       ],
@@ -667,7 +713,8 @@
         "de": "Entdecken Sie die Umgebung von Split mit dem Auto. Besuchen Sie die beeindruckende Festung Klis und die antiken Ruinen von Salona. Den Nachmittag verbringen Sie in der UNESCO-Stadt Trogir, wo Sie durch die mittelalterlichen Gassen schlendern und die prächtige Kathedrale besuchen.",
         "hu": "Fedezze fel Split környékét autóval. Látogassa meg a lenyűgöző klisszai várat és Salona ókori romjait. A délutánt töltse az UNESCO világörökség részét képező Trogirban, ahol középkori utcákon sétálhat és megcsodálhatja a katedrálist.",
         "ro": "Descoperiți împrejurimile Splitului cu mașina. Vizitați impresionanta cetate Klis și ruinele antice din Salona. Petreceți după-amiaza în orașul UNESCO Trogir, unde vă puteți plimba pe străzile medievale și puteți vizita catedrala splendidă.",
-        "en": "Discover Split's surroundings by car. Visit the impressive Klis Fortress and the ancient ruins of Salona. Spend the afternoon in the UNESCO-listed city of Trogir, strolling through medieval streets and visiting the magnificent cathedral."
+        "en": "Discover Split's surroundings by car. Visit the impressive Klis Fortress and the ancient ruins of Salona. Spend the afternoon in the UNESCO-listed city of Trogir, strolling through medieval streets and visiting the magnificent cathedral.",
+        "hr": "Otkrijte splitsku okolinu automobilom. Posjetite impresivnu tvrđavu Klis i antičke ruševine Salone. Poslijepodne provedite u UNESCO-ovom gradu Trogiru, šećući srednjovjekovnim ulicama i posjetivši veličanstvenu katedralu."
       },
       "gastro_picks": {
         "de": [
@@ -767,6 +814,10 @@
         "en": [
           "Parking in Trogir is easier in the large lots before the island bridge.",
           "Klis has little shade, bring a sun hat."
+        ],
+        "hr": [
+          "Parkiranje u Trogiru je lakše na velikim parkiralištima prije mosta za otok.",
+          "U Klisu je malo hlada, ponesite šešir za sunce."
         ]
       }
     },
@@ -783,7 +834,8 @@
             "de": "Bahnhof Split (Hafen)",
             "hu": "Split vasútállomás (Kikötő)",
             "ro": "Gara Split (Port)",
-            "en": "Split Railway Station (Harbor)"
+            "en": "Split Railway Station (Harbor)",
+            "hr": "Željeznički kolodvor Split (Luka)"
           },
           "coords": [
             16.4435,
@@ -798,7 +850,8 @@
             "de": "Zentrum für Züge, Busse und Fähren.",
             "hu": "Vonatok, buszok és kompok csomópontja.",
             "ro": "Centru pentru trenuri, autobuze și feriboturi.",
-            "en": "Hub for trains, buses, and ferries."
+            "en": "Hub for trains, buses, and ferries.",
+            "hr": "Čvorište za vlakove, autobuse i trajekte."
           }
         },
         {
@@ -806,7 +859,8 @@
             "de": "Volksplatz (Pjaca)",
             "hu": "Nép tere (Pjaca)",
             "ro": "Piața Poporului (Pjaca)",
-            "en": "People's Square (Pjaca)"
+            "en": "People's Square (Pjaca)",
+            "hr": "Narodni trg (Pjaca)"
           },
           "coords": [
             16.4392,
@@ -821,7 +875,8 @@
             "de": "Das Rathaus und eine alte Stadtuhr.",
             "hu": "A városháza és egy régi óratorony.",
             "ro": "Primăria și un ceas vechi al orașului.",
-            "en": "The town hall and an old city clock."
+            "en": "The town hall and an old city clock.",
+            "hr": "Gradska vijećnica i stari gradski sat."
           }
         },
         {
@@ -829,7 +884,8 @@
             "de": "Archäologisches Museum",
             "hu": "Régészeti Múzeum",
             "ro": "Muzeul de Arheologie",
-            "en": "Archaeological Museum"
+            "en": "Archaeological Museum",
+            "hr": "Arheološki muzej"
           },
           "coords": [
             16.4352,
@@ -844,7 +900,8 @@
             "de": "Das älteste Museum Kroatiens.",
             "hu": "Horvátország legrégebbi múzeuma.",
             "ro": "Cel mai vechi muzeu din Croația.",
-            "en": "The oldest museum in Croatia."
+            "en": "The oldest museum in Croatia.",
+            "hr": "Najstariji muzej u Hrvatskoj."
           }
         },
         {
@@ -852,7 +909,8 @@
             "de": "Poljud Stadion",
             "hu": "Poljud stadion",
             "ro": "Stadionul Poljud",
-            "en": "Poljud Stadium"
+            "en": "Poljud Stadium",
+            "hr": "Stadion Poljud"
           },
           "coords": [
             16.4319,
@@ -867,7 +925,8 @@
             "de": "Heimat von Hajduk Split, ein architektonisches Juwel.",
             "hu": "A Hajduk Split otthona, építészeti remekmű.",
             "ro": "Casa echipei Hajduk Split, o bijuterie arhitecturală.",
-            "en": "Home of Hajduk Split, an architectural gem."
+            "en": "Home of Hajduk Split, an architectural gem.",
+            "hr": "Dom Hajduka Split, arhitektonsko remek-djelo."
           }
         },
         {
@@ -875,7 +934,8 @@
             "de": "Žnjan Strand",
             "hu": "Žnjan strand",
             "ro": "Plaja Žnjan",
-            "en": "Žnjan Beach"
+            "en": "Žnjan Beach",
+            "hr": "Plaža Žnjan"
           },
           "coords": [
             16.4802,
@@ -890,7 +950,8 @@
             "de": "Buslinie 7 oder 8 vom Zentrum.",
             "hu": "7-es vagy 8-as busz a központból.",
             "ro": "Linia 7 sau 8 din centru.",
-            "en": "Bus line 7 or 8 from the center."
+            "en": "Bus line 7 or 8 from the center.",
+            "hr": "Autobus linije 7 ili 8 iz centra."
           }
         }
       ],
@@ -898,7 +959,8 @@
         "de": "Nutzen Sie den öffentlichen Nahverkehr, um weniger bekannte Teile von Split zu sehen. Starten Sie am Hafen, besuchen Sie den Pjaca-Platz und das älteste Museum des Landes. Sehen Sie das Poljud-Stadion und entspannen Sie am weitläufigen Žnjan-Strand.",
         "hu": "Használja a tömegközlekedést Split kevésbé ismert részeinek felfedezéséhez. Kezdjen a kikötőben, látogassa meg a Pjaca teret és az ország legrégebbi múzeumát. Nézze meg a Poljud stadiont, és lazítson a tágas Žnjan strandon.",
         "ro": "Utilizați transportul public pentru a vedea părți mai puțin cunoscute ale Splitului. Începeți la port, vizitați piața Pjaca și cel mai vechi muzeu din țară. Vedeți stadionul Poljud și relaxați-vă pe plaja întinsă Žnjan.",
-        "en": "Use public transport to see lesser-known parts of Split. Start at the harbor, visit Pjaca Square and the country's oldest museum. See the Poljud Stadium and relax at the spacious Žnjan Beach."
+        "en": "Use public transport to see lesser-known parts of Split. Start at the harbor, visit Pjaca Square and the country's oldest museum. See the Poljud Stadium and relax at the spacious Žnjan Beach.",
+        "hr": "Koristite javni prijevoz kako biste vidjeli manje poznate dijelove Splita. Počnite u luci, posjetite Pjacu i najstariji muzej u zemlji. Pogledajte stadion Poljud i opustite se na prostranom Žnjanu."
       },
       "gastro_picks": {
         "de": [
@@ -998,6 +1060,10 @@
         "en": [
           "Tickets can be bought from the driver or at kiosks.",
           "Download the 'Split City Bus' app for schedules."
+        ],
+        "hr": [
+          "Karte se mogu kupiti kod vozača ili u kioscima.",
+          "Preuzmite aplikaciju 'Split City Bus' za vozne redove."
         ]
       }
     }

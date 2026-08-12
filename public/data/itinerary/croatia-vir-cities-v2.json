@@ -31,7 +31,8 @@
             "de": "Bewundern Sie die schlichte dalmatinische Architektur im Ortskern.",
             "hu": "Csodálja meg a központban található letisztult dalmát építészetet.",
             "ro": "Admirați arhitectura dalmată simplă din centrul localității.",
-            "en": "Admire the simple Dalmatian architecture in the town center."
+            "en": "Admire the simple Dalmatian architecture in the town center.",
+            "hr": "Divite se jednostavnoj dalmatinskoj arhitekturi u središtu grada."
           }
         },
         {
@@ -49,7 +50,8 @@
             "de": "Genießen Sie einen Kaffee mit Blick auf die Fischerboote.",
             "hu": "Élvezzen egy kávét a halászhajókra nyíló kilátással.",
             "ro": "Savurați o cafea cu vedere la bărcile de pescuit.",
-            "en": "Enjoy a coffee with a view of the fishing boats."
+            "en": "Enjoy a coffee with a view of the fishing boats.",
+            "hr": "Uživajte u kavi s pogledom na ribarske brodice."
           }
         },
         {
@@ -67,7 +69,8 @@
             "de": "Der Hauptstrand der Insel mit flachem Wasser und Kies.",
             "hu": "A sziget fő strandja sekély vízzel és kavicsos parttal.",
             "ro": "Plaja principală a insulei, cu apă puțin adâncă și pietriș.",
-            "en": "The island's main beach with shallow water and pebbles."
+            "en": "The island's main beach with shallow water and pebbles.",
+            "hr": "Glavna plaža otoka s plitkom vodom i šljunkom."
           }
         },
         {
@@ -85,7 +88,8 @@
             "de": "Probieren Sie frischen Fisch oder Oktopussalat.",
             "hu": "Kóstoljon friss halat vagy polipsalátát.",
             "ro": "Încercați pește proaspăt sau salată de caracatiță.",
-            "en": "Try fresh fish or octopus salad."
+            "en": "Try fresh fish or octopus salad.",
+            "hr": "Isprobajte svježu ribu ili salatu od hobotnice."
           }
         },
         {
@@ -104,7 +108,8 @@
             "de": "Historische venezianische Festung direkt am Meer.",
             "hu": "Történelmi velencei erőd közvetlenül a tengerparton.",
             "ro": "Fortăreață venețiană istorică chiar pe malul mării.",
-            "en": "Historical Venetian fortress right on the seaside."
+            "en": "Historical Venetian fortress right on the seaside.",
+            "hr": "Povijesna venecijanska utvrda tik uz more."
           }
         },
         {
@@ -122,7 +127,8 @@
             "de": "Bekannt für den Heilschlamm und die ruhige Lage im Pinienwald.",
             "hu": "Gyógyiszapjáról és a fenyőerdő melletti nyugalmáról ismert.",
             "ro": "Cunoscută pentru nămolul terapeutic și liniștea de lângă pădurea de pini.",
-            "en": "Known for its healing mud and tranquility by the pine forest."
+            "en": "Known for its healing mud and tranquility by the pine forest.",
+            "hr": "Poznata po ljekovitom blatu i miru kraj borove šume."
           }
         },
         {
@@ -140,7 +146,8 @@
             "de": "Der perfekte Ort, um den Tag bei einem Eis ausklingen zu lassen.",
             "hu": "Tökéletes hely a nap lezárására egy fagylalt mellett.",
             "ro": "Locul perfect pentru a încheia ziua cu o înghețată.",
-            "en": "Perfect spot to end the day with a gelato."
+            "en": "Perfect spot to end the day with a gelato.",
+            "hr": "Savršeno mjesto za završetak dana uz sladoled."
           }
         }
       ],
@@ -149,7 +156,7 @@
         "hu": "A napot Vir történelmi központjában, a Szent György-templomnál kezdjük, majd egy kellemes kávé következik a kikötőben. A délelőttöt a nyüzsgő Jadro strandon töltjük, mielőtt egy helyi konobában megkóstolnánk a dalmát konyhát. Délután felfedezzük a lenyűgöző velencei Kaštelina erődöt, végül a gyógyiszapjáról híres Sapavac strandon pihenünk. A napot egy festői naplemente zárja a tengerparti sétányon.",
         "ro": "Ziua începe în centrul istoric din Vir, la Biserica Sf. Gheorghe, urmată de o cafea relaxantă în port. Petreceți dimineața pe plaja animată Jadro, înainte de a savura bucătăria dalmată într-o konoba locală. După-amiaza explorăm impresionanta fortăreață venețiană Kaštelina și ne relaxăm pe plaja Sapavac, faimoasă pentru nămolul terapeutic. Ziua se încheie cu un apus pitoresc pe faleză.",
         "en": "Your day starts in Vir's historical center at St. George's Church, followed by a cozy coffee at the harbor. Spend the morning at the lively Jadro beach before enjoying Dalmatian cuisine in a local konoba. In the afternoon, explore the impressive Venetian Kaštelina fortress and relax at Sapavac beach, famous for its healing mud. The day ends with a picturesque sunset on the waterfront promenade.",
-        "hr": "Vaš dan počinje u povijesnoj jezgri Vira kod crkve sv. Jurja, nakon čega slijedi ugodna kava u luci. Provedite jutro na živahnoj plaži Jadro prije nego što uživate u dalmatinskoj kuhinji u lokalnoj konobi. Poslijepodne istražite impresivnu mletačku utvrdu Kaštelina i opustite se na plaži Sapavac, poznatoj po ljekovitom blatu. Dan završava slikovitim zalaskom sunca na obalnoj šetnici."
+        "hr": "Vaš dan počinje u povijesnom središtu Vira kod crkve sv. Jurja, nakon čega slijedi ugodna kava u luci. Provedite jutro na živahnoj plaži Jadro prije nego uživate u dalmatinskoj kuhinji u lokalnoj konobi. Poslijepodne istražite impresivnu venecijansku utvrdu Kaštelinu i opustite se na plaži Sapavac, poznatoj po ljekovitom blatu. Dan završava slikovitim zalaskom sunca na šetnici uz obalu."
       },
       "gastro_picks": {
         "de": [
@@ -321,7 +328,7 @@
         "hr": [
           "Nosite udobne sandale za šljunčane plaže.",
           "Posjetite tržnicu rano ujutro za najbolji izbor.",
-          "Utvrda je izvrsno mjesto za fotografiranje u kasnim poslijepodnevnim satima."
+          "Utvrda je odlično mjesto za fotografiranje kasnim poslijepodnevom."
         ]
       },
       "variants": {
@@ -331,7 +338,7 @@
             "hu": "A reggel misztikus hangulatban indul a Szent György-templomnál, miközben az eső halkan kopog a régi köveken. Egy bőséges reggeli a kikötőben tökéletes menedéket nyújt a záporok elől.\n\nDélben egy helyi konoba szívélyes légkörét élvezzük, ahol a dalmát specialitások illata feledteti a kinti borús időt.\n\nDélután a Kaštelina vár romjait fedezzük fel esernyők alatt, ami drámai hangulatot kölcsönöz a történelmi helyszínnek.\n\nAz este a Riván tett sétával zárul, ahol a város fényei megcsillannak a kövezeten lévő pocsolyákban.",
             "ro": "Dimineața începe mistic la Biserica Sf. Gheorghe, în timp ce ploaia bate ușor în pietrele vechi. Un mic dejun copios în port oferă adăpostul perfect împotriva averselor.\n\nLa prânz, ne bucurăm de atmosfera caldă a unei konoba locale, unde parfumul specialităților dalmate ne face să uităm de vremea mohorâtă de afară.\n\nDupă-amiaza explorăm ruinele cetății Kaštelina sub protecția umbrelelor, ceea ce oferă o notă dramatică cadrului istoric.\n\nSeara se încheie cu o plimbare pe Riva, unde luminile orașului se oglindesc în bălțile de pe pavaj.",
             "en": "The morning begins mystically at St. George's Church while gentle rain drums on the old stones. A hearty breakfast at the harbor provides the perfect shelter from the showers.\n\nAt noon, we enjoy the warm atmosphere of a local konoba, where the scent of Dalmatian specialties makes us forget the gloomy weather outside.\n\nIn the afternoon, we explore the ruins of Kaštelina fortress under the protection of umbrellas, adding a dramatic touch to the historical setting.\n\nYour evening ends with a stroll along the Riva, where the city lights reflect in the puddles on the pavement.",
-            "hr": "Jutro počinje mistično kod crkve sv. Jurja dok lagana kiša bubnja po starom kamenu. Obilan doručak u luci pruža savršeno utočište od pljuskova.\n\nU podne uživamo u toploj atmosferi lokalne konobe, gdje nas miris dalmatinskih specijaliteta tjera da zaboravimo tmurno vrijeme vani.\n\nPoslijepodne istražujemo ruševine utvrde Kaštelina pod zaštitom kišobrana, što povijesnom ambijentu daje dramatičnu notu.\n\nVaša večer završava šetnjom uz Rivu, gdje se gradska svjetla ogledaju u lokvama na pločniku."
+            "hr": "Jutro počinje mistično u crkvi sv. Jurja dok lagana kiša bubnja po starim kamenim pločama. Obilan doručak u luci pruža savršen zaklon od pljuskova.\n\nU podne uživamo u toploj atmosferi lokalne konobe, gdje miris dalmatinskih specijaliteta tjera tmurno vrijeme izvan.\n\nPoslijepodne istražujemo ruševine Kašteline pod zaštitom kišobrana, što povijesnom ambijentu daje dramatičnu notu.\n\nVečer završavate šetnjom Rivom, gdje gradska svjetla odsjajaju u lokvama na pločniku."
           },
           "stops": [
             {
@@ -341,7 +348,7 @@
                 "hu": "A templom csendes és száraz menedéket nyújt a nézelődéshez.",
                 "ro": "Biserica oferă un refugiu liniștit și uscat pentru vizitare.",
                 "en": "The church offers a quiet, dry retreat for sightseeing.",
-                "hr": "Crkva nudi mirno i suho utočište za razgledavanje."
+                "hr": "Crkva nudi miran, suh zaklon za razgledavanje."
               }
             },
             {
@@ -355,7 +362,7 @@
                 "hu": "Keressen belső asztalt, ahonnan rálátni a halászhajókra.",
                 "ro": "Căutați un loc în interior cu vedere la bărcile de pescuit.",
                 "en": "Find an indoor seat with a view of the fishing boats.",
-                "hr": "Pronađite mjesto u zatvorenom s pogledom na ribarske brodice."
+                "hr": "Pronađite unutarnje mjesto s pogledom na ribarske brodice."
               }
             },
             {
@@ -365,7 +372,7 @@
                 "hu": "A strand ilyenkor üres, ideális egy frissítő esős sétához.",
                 "ro": "Plaja este goală, ideală pentru o scurtă plimbare revigorantă prin ploaie.",
                 "en": "The beach is empty, ideal for a short, refreshing rain walk.",
-                "hr": "Plaža je prazna, idealna za kratku, osvježavajuću šetnju po kiši."
+                "hr": "Plaža je prazna, idealna za kratku osvježavajuću šetnju po kiši."
               }
             },
             {
@@ -375,7 +382,7 @@
                 "hu": "Kóstoljon meleg pekát, ami kiváló a hűvösebb esős időben.",
                 "ro": "Încercați o peka caldă, perfectă pe vreme ploioasă și răcoroasă.",
                 "en": "Try a warm peka, perfect for cooler rainy weather.",
-                "hr": "Probajte toplu peku, savršenu za hladnije kišno vrijeme."
+                "hr": "Probajte toplu pečenu peka, savršenu za hladnije kišno vrijeme."
               }
             },
             {
@@ -385,7 +392,7 @@
                 "hu": "Vigyázat, a romok kövei nedvesen csúszóssá válhatnak.",
                 "ro": "Atenție la pietrele alunecoase ale ruinelor când sunt ude.",
                 "en": "Be careful on the slippery stones of the ruins when wet.",
-                "hr": "Budite oprezni na skliskom kamenju ruševina kada je mokro."
+                "hr": "Budite oprezni na klizavim kamenjima ruševina kad su mokri."
               }
             },
             {
@@ -395,7 +402,7 @@
                 "hu": "A gyógyiszap esőben különösen puha és hangulatos.",
                 "ro": "Nămolul curativ este deosebit de moale și atmosferic pe ploaie.",
                 "en": "The healing mud is especially soft and atmospheric in the rain.",
-                "hr": "Ljekovito blato je posebno mekano i atmosferečno na kiši."
+                "hr": "Ljekovito blato posebno je mekano i atmosfersko na kiši."
               }
             },
             {
@@ -405,7 +412,7 @@
                 "hu": "Az eső utáni felhőjáték gyakran látványos fotótémát kínál.",
                 "ro": "Jocul norilor după ploaie oferă adesea motive fotografice spectaculoase.",
                 "en": "The cloud formations after rain often offer spectacular photo opportunities.",
-                "hr": "Formacije oblaka nakon kiše često nude spektakularne prilike za fotografiranje."
+                "hr": "Oblaci nakon kiše često nude spektakularne fotografske prizore."
               }
             }
           ],
@@ -439,11 +446,11 @@
               "Enjoy the peace, as Vir is much less crowded in the rain."
             ],
             "hr": [
-              "Čvrst kišobran je neophodan zbog obalnih vjetrova.",
-              "Nosite vodootpornu obuću jer se u uskim ulicama stvaraju lokve.",
+              "Čvrst kišobran je ključan zbog obalnih vjetrova.",
+              "Nosite vodootporne cipele jer se po uskim ulicama stvaraju lokve.",
               "Mnoge konobe imaju natkrivene terase s grijačima.",
-              "Obližnji muzeji nude dobre alternative u zatvorenom prostoru.",
-              "Uživajte u miru, jer je Vir puno manje krcat na kiši."
+              "Obližnji muzeji nude dobre alternativne zatvorene aktivnosti.",
+              "Uživajte u miru, Vir je po kiši puno manje posjećen."
             ]
           }
         },
@@ -453,7 +460,7 @@
             "hu": "A téli reggel Viren tiszta, és gyakran az erős bóra szél jellemzi. A Szent György-templom büszkén áll a hűvös levegőben.\n\nEbédre egy tartalmas leves melegíti fel a testet az egész évben nyitva tartó konobák egyikében.\n\nA délután szélvédett sétára csábít a Kaštelina vár felé, ahol az Adria mélykék színe ragyog a téli napsütésben.\n\nMivel a nap már 16:30 körül nyugszik, a kora estét egy forró ital mellett élvezzük a központ egyik barátságos kávézójában.",
             "ro": "Dimineața de iarnă pe Vir este senină și adesea marcată de vântul puternic Bura. Biserica Sf. Gheorghe stă mândră în aerul răcoros.\n\nPentru prânz, o supă consistentă încălzește corpul într-una dintre puținele konobe deschise tot anul.\n\nDupă-amiaza invită la o plimbare ferită de vânt spre cetatea Kaštelina, unde Adriatica strălucește în albastru profund sub soarele de iarnă.\n\nDeoarece soarele apune deja în jurul orei 16:30, ne bucurăm de seara devreme cu o băutură caldă într-o cafenea primitoare din centru.",
             "en": "The winter morning on Vir is clear and often marked by the strong Bura wind. St. George's Church stands proud in the cool air.\n\nFor lunch, a hearty soup warms the body in one of the few konobas open year-round.\n\nThe afternoon invites a wind-sheltered stroll to Kaštelina fortress, where the Adriatic shines in deep blue under the winter sun.\n\nAs the sun sets around 4:30 PM, we enjoy the early evening with a hot drink in a cozy café in the center.",
-            "hr": "Zimsko jutro na Viru je vedro i često obilježeno jakom burom. Crkva sv. Jurja ponosno stoji na hladnom zraku.\n\nZa ručak, krepka juha grije tijelo u jednoj od rijetkih konoba otvorenih tijekom cijele godine.\n\nPoslijepodne poziva na šetnju zaštićenu od vjetra do utvrde Kaštelina, gdje Jadran pod zimskim suncem sja u dubokoj plavoj boji.\n\nDok sunce zalazi oko 16:30, uživamo u ranoj večeri uz topli napitak u ugodnom kafiću u centru."
+            "hr": "Zimsko jutro na Viru je bistro i često obilježeno jakom burom. Crkva sv. Jurja ponosno stoji u svježem zraku.\n\nZa ručak, gusta juha grije tijelo u jednoj od rijetkih konoba otvorenih tijekom cijele godine.\n\nPoslijepodne poziva na šetnju zaštićenu od vjetra do utvrde Kaštelina, gdje Jadran blista u dubokoj plavoj boji pod zimskim suncem.\n\nKako sunce zalazi oko 16:30, uživamo u ranoj večeri uz topli napitak u ugodnom kafiću u centru."
           },
           "stops": [
             {
@@ -473,7 +480,7 @@
                 "hu": "Élvezzen egy forró kávét, miközben a vad téli tengert figyeli.",
                 "ro": "Savurați o cafea fierbinte în timp ce observați marea agitată de iarnă.",
                 "en": "Enjoy a hot coffee while watching the rough winter sea.",
-                "hr": "Uživajte u toploj kavi dok promatrate nemirno zimsko more."
+                "hr": "Uživajte u vrućoj kavi gledajući nemirno zimsko more."
               }
             },
             {
@@ -483,7 +490,7 @@
                 "hu": "Ideális egy tempós sétához a tiszta téli levegőn.",
                 "ro": "Ideal pentru o plimbare rapidă în aerul curat de iarnă.",
                 "en": "Ideal for a brisk walk in the clear winter air.",
-                "hr": "Idealno za brzu šetnju na čistom zimskom zraku."
+                "hr": "Idealno za živahnu šetnju u bistrom zimskom zraku."
               }
             },
             {
@@ -503,7 +510,7 @@
                 "hu": "A mélykék tenger télen különösen éles kontrasztot alkot a romokkal.",
                 "ro": "Marea albastru închis oferă iarna un contrast deosebit de clar cu ruinele.",
                 "en": "The deep blue sea offers a particularly sharp contrast to the ruins in winter.",
-                "hr": "Duboko plavo more nudi posebno oštar kontrast ruševinama zimi."
+                "hr": "Duboko plavo more pruža posebno oštar kontrast ruševinama zimi."
               }
             },
             {
@@ -513,7 +520,7 @@
                 "hu": "Magányos hely az elmélkedésre és nyugalomra a holtszezonban.",
                 "ro": "Un loc singuratic pentru reflecție și liniște în extrasezon.",
                 "en": "A lonely place for reflection and peace in the off-season.",
-                "hr": "Osamljeno mjesto za razmišljanje i mir izvan sezone."
+                "hr": "Usamljeno mjesto za razmišljanje i mir izvan sezone."
               }
             },
             {
@@ -523,7 +530,7 @@
                 "hu": "Figyelem: télen a naplemente sokkal korábban van.",
                 "ro": "Atenție: apusul are loc mult mai devreme iarna.",
                 "en": "Note: The sunset occurs much earlier in winter.",
-                "hr": "Napomena: Zalazak sunca zimi nastupa mnogo ranije."
+                "hr": "Napomena: zalazak sunca događa se puno ranije zimi."
               }
             }
           ],
@@ -557,11 +564,11 @@
               "Clear visibility allows for far-reaching views to the Velebit mountains."
             ],
             "hr": [
-              "Topla odjeća otporna na vjetar je obavezna zbog bure.",
-              "Unaprijed provjerite koji su restorani otvoreni tijekom zime.",
-              "Iskoristite svijetle podnevne sate za aktivnosti na otvorenom.",
+              "Topla, vjetrootporna odjeća je obavezna zbog bure.",
+              "Provjerite unaprijed koje su restorane otvorene zimi.",
+              "Iskoristite svijetle dnevne sate za aktivnosti na otvorenom.",
               "Posjet obližnjem Zadru nudi više kulturne raznolikosti zimi.",
-              "Čista vidljivost omogućuje dalekosežne poglede na planinu Velebit."
+              "Jasna vidljivost omogućuje široke poglede prema planinama Velebit."
             ]
           }
         }
@@ -590,7 +597,8 @@
             "de": "Die Brücke bietet einen tollen Blick auf das Festland und die Insel.",
             "hu": "A híd nagyszerű kilátást nyújt a szárazföldre és a szigetre.",
             "ro": "Podul oferă o vedere minunată asupra continentului și a insulei.",
-            "en": "The bridge offers a great view of the mainland and the island."
+            "en": "The bridge offers a great view of the mainland and the island.",
+            "hr": "Most nudi izvrstan pogled na kopno i otok."
           }
         },
         {
@@ -608,7 +616,8 @@
             "de": "Genießen Sie den Wind und die Aussicht auf die Adria.",
             "hu": "Élvezze a szelet és az Adriai-tenger látványát.",
             "ro": "Bucurați-vă de vânt și de vederea spre Marea Adriatică.",
-            "en": "Enjoy the wind and the view of the Adriatic Sea."
+            "en": "Enjoy the wind and the view of the Adriatic Sea.",
+            "hr": "Uživajte u vjetru i pogledu na Jadransko more."
           }
         },
         {
@@ -626,7 +635,8 @@
             "de": "Kleiner Stopp im Herzen von Vir.",
             "hu": "Rövid megálló Vir szívében.",
             "ro": "Scurtă oprire în inima localității Vir.",
-            "en": "Brief stop in the heart of Vir."
+            "en": "Brief stop in the heart of Vir.",
+            "hr": "Kratak zastoj u srcu Vira."
           }
         },
         {
@@ -644,7 +654,8 @@
             "de": "Perfekt für ein schnelles Bad.",
             "hu": "Tökéletes egy gyors fürdőzéshez.",
             "ro": "Perfect pentru o baie rapidă.",
-            "en": "Perfect for a quick swim."
+            "en": "Perfect for a quick swim.",
+            "hr": "Savršeno za brzinski kupanje."
           }
         },
         {
@@ -662,7 +673,8 @@
             "de": "Stärken Sie sich mit Grillgerichten.",
             "hu": "Frissüljön fel grillételekkel.",
             "ro": "Reîncărcați-vă cu preparate la grătar.",
-            "en": "Recharge with grilled dishes."
+            "en": "Recharge with grilled dishes.",
+            "hr": "Napunite energiju uz jela s roštilja."
           }
         },
         {
@@ -680,7 +692,8 @@
             "de": "Parken Sie Ihr Rad und erkunden Sie die Ruinen.",
             "hu": "Parkolja le a bringát és fedezze fel a romokat.",
             "ro": "Parcați bicicleta și explorați ruinele.",
-            "en": "Park your bike and explore the ruins."
+            "en": "Park your bike and explore the ruins.",
+            "hr": "Ostavite bicikl i istražite ruševine."
           }
         },
         {
@@ -698,7 +711,8 @@
             "de": "Entspannung vor der Rückfahrt.",
             "hu": "Pihenés a visszaút előtt.",
             "ro": "Relaxare înainte de drumul de întoarcere.",
-            "en": "Relaxation before the ride back."
+            "en": "Relaxation before the ride back.",
+            "hr": "Odmor prije povratka vožnje."
           }
         }
       ],
@@ -707,7 +721,7 @@
         "hu": "Ez a kerékpártúra a szigeten vezet keresztül, kezdve a lenyűgöző Viri híddal. A part menti tekerés után érjük el a központot a Szent György-templommal és a Jadro stranddal. Egy bőséges ebéd után a történelmi Kaštelina erődhöz biciklizünk, majd a túrát a nyugodt Sapavac strandon zárjuk, mielőtt visszatérnénk a kiindulópontra.",
         "ro": "Acest tur cu bicicleta vă poartă peste insulă, începând de la impresionantul pod Vir. După o plimbare de-a lungul coastei, ajungeți în centru la Biserica Sf. Gheorghe și plaja Jadro. După un prânz consistent, pedalați spre fortăreața istorică Kaštelina și încheiați turul pe plaja liniștită Sapavac, înainte de a reveni la punctul de plecare.",
         "en": "This bike tour takes you across the island, starting at the impressive Vir Bridge. After a ride along the coast, you reach the center with St. George's Church and Jadro beach. After a hearty lunch, cycle to the historical Kaštelina fortress and end the tour at the quiet Sapavac beach before heading back to the starting point.",
-        "hr": "Ova biciklistička tura vodi vas preko otoka, počevši od impresivnog Virskog mosta. Nakon vožnje uz obalu, stižete do centra s crkvom sv. Jurja i plažom Jadro. Nakon krepkog ručka, odvezite se biciklom do povijesne utvrde Kaštelina i završite turu na mirnoj plaži Sapavac prije povratka na polaznu točku."
+        "hr": "Ova biciklistička tura vodi vas preko otoka, počevši od impozantnog mosta Vir. Nakon vožnje uz obalu stižete do centra sa crkvom sv. Jurja i plažom Jadro. Nakon obilnog ručka vozite do povijesne utvrde Kaštelina i završite turu na mirnoj plaži Sapavac prije povratka na polazište."
       },
       "gastro_picks": {
         "de": [
@@ -828,8 +842,8 @@
           "Take enough water, as there is little shade on the coastal paths."
         ],
         "hr": [
-          "Pripazite na vjetar koji na otoku može biti jak.",
-          "Ponesite dovoljno vode, jer na obalnim stazama ima malo hlada."
+          "Vodite računa o vjetru, koji na otoku može biti jak.",
+          "Ponesite dovoljno vode, jer je malo hlada na obalnim stazama."
         ]
       },
       "variants": {
@@ -839,7 +853,7 @@
             "hu": "Az esős bringázás a Vir-hídon koncentrációt igényel, de egyedülálló kilátást nyújt a háborgó tengerre.\n\nA templomnál tett megálló után a központban egy kiadós ebéd közben száradunk meg.\n\nDélután szilárd burkolatú utakon tekerünk a Kaštelina várhoz, ügyesen kerülgetve a pocsolyákat.\n\nA túrát korán befejezzük, és a biciklik leadása után egy forró teával melegszünk fel.",
             "ro": "O tură cu bicicleta pe ploaie peste podul Virski necesită concentrare, dar oferă o perspectivă unică asupra mării agitate.\n\nDupă o oprire la biserică, găsim refugiu la un prânz copios în centru pentru a ne usca hainele.\n\nDupă-amiaza ne conduce pe drumuri pavate spre cetatea Kaštelina, evitând cu iscusință bălțile.\n\nÎncheiem turul devreme și ne încălzim cu un ceai fierbinte după ce returnăm bicicletele.",
             "en": "A rainy bike ride over the Vir bridge requires concentration but offers a unique perspective on the raging sea.\n\nAfter a stop at the church, we find refuge during a long lunch in the center to dry our clothes.\n\nThe afternoon takes us along paved paths to Kaštelina fortress, skillfully dodging puddles.\n\nWe end the tour early and warm up with a hot tea after returning the bikes.",
-            "hr": "Kišna vožnja biciklom preko Virskog mosta zahtijeva koncentraciju, ali nudi jedinstvenu perspektivu na uzburkano more.\n\nNakon zaustavljanja kod crkve, nalazimo utočište tijekom dugog ručka u centru kako bismo osušili odjeću.\n\nPoslijepodne nas vodi asfaltiranim stazama do utvrde Kaštelina, vješto izbjegavajući lokve.\n\nTuru završavamo ranije i grijemo se uz topli čaj nakon vraćanja bicikala."
+            "hr": "Kišna biciklistička vožnja preko mosta Vir zahtijeva koncentraciju, ali pruža jedinstvenu perspektivu na razjareno more.\n\nNakon zaustavljanja kod crkve, pronađemo zaklon tijekom dugog ručka u centru kako bismo osušili odjeću.\n\nPoslijepodne nas vodi uređenim putem do utvrde Kaštelina, vješto izbjegavajući lokve.\n\nTuru završavamo ranije i zatopljavamo se toplim čajem nakon vraćanja bicikala."
           },
           "stops": [
             {
@@ -849,7 +863,7 @@
                 "hu": "Vigyázat az oldalszéllel a hídon; tekerjen lassan.",
                 "ro": "Atenție la vântul lateral pe pod; conduceți încet.",
                 "en": "Be careful with side winds on the bridge; ride slowly.",
-                "hr": "Budite oprezni s bočnim vjetrovima na mostu; vozite polako."
+                "hr": "Pazite na bočni vjetar na mostu; vozite polako."
               }
             },
             {
@@ -859,7 +873,7 @@
                 "hu": "Rövid megálló egy előtető alatt az esőkabát megigazítására.",
                 "ro": "Scurtă oprire sub un acoperiș pentru a ajusta jacheta de ploaie.",
                 "en": "Short stop under a ledge to adjust your rain jacket.",
-                "hr": "Kratko zaustavljanje ispod nadstrešnice radi podešavanja kišne jakne."
+                "hr": "Kratko zaustavljanje pod strehom za podešavanje kabanice."
               }
             },
             {
@@ -869,7 +883,7 @@
                 "hu": "Használja az előteret a biciklik biztonságos leállításához.",
                 "ro": "Folosiți curtea pentru a parca bicicletele în siguranță.",
                 "en": "Use the forecourt to safely park the bikes.",
-                "hr": "Koristite predprostor za sigurno parkiranje bicikala."
+                "hr": "Iskoristite predprostor za sigurno parkiranje bicikala."
               }
             },
             {
@@ -879,7 +893,7 @@
                 "hu": "Kerülje a homokos szakaszokat, amelyek most sárosak lehetnek.",
                 "ro": "Evitați secțiunile cu nisip, care pot fi acum noroioase.",
                 "en": "Avoid sandy sections, which might be muddy now.",
-                "hr": "Izbjegavajte pješčane dijelove koji bi sada mogli biti blatni."
+                "hr": "Izbjegavajte pješčane dionice koje bi sada mogle biti blatne."
               }
             },
             {
@@ -889,7 +903,7 @@
                 "hu": "Válasszon olyan éttermet, ahol rálát a biciklitárolóra.",
                 "ro": "Alegeți un restaurant cu suporturi de biciclete la vedere.",
                 "en": "Choose a restaurant with bike racks within sight.",
-                "hr": "Odaberite restoran s stalcima za bicikle na vidiku."
+                "hr": "Odaberite restoran s nosačima za bicikle na vidiku."
               }
             },
             {
@@ -899,7 +913,7 @@
                 "hu": "A talaj itt csúszós; a legjobb, ha leszáll a bicikliről.",
                 "ro": "Terenul este alunecos aici; cel mai bine este să coborâți.",
                 "en": "The ground is slippery here; it's best to dismount.",
-                "hr": "Tlo je ovdje sklisko; najbolje je sići s bicikla."
+                "hr": "Tlo je sklisko ovdje; najbolje je sići s bicikla."
               }
             },
             {
@@ -943,11 +957,11 @@
               "Ride extra carefully in curves due to the risk of slipping."
             ],
             "hr": [
-              "Nosite punu opremu za kišu, uključujući navlake za cipele.",
-              "Izbjegavajte makadamske staze jer omekšaju na kiši.",
-              "Provjerite kočnice jer se učinkovitost kočenja smanjuje na mokrom.",
-              "Koristite glavne ceste jer imaju bolju odvodnju.",
-              "Vozite posebno oprezno u zavojima zbog opasnosti od klizanja."
+              "Nosite kompletnu kišnu opremu, uključujući navlake za cipele.",
+              "Izbjegavajte makadam jer se u kiši otapa.",
+              "Provjerite kočnice, jer se učinak kočenja smanjuje na mokrom.",
+              "Koristite glavne ceste jer imaju bolji odvod vode.",
+              "Vozite dodatno oprezno u zavoju zbog rizika od proklizavanja."
             ]
           }
         },
@@ -957,7 +971,7 @@
             "hu": "A téli bringázás Viren sportos kihívás a bóra szél ellen. A hídon való átkelés lélegzetelállító.\n\nA tiszta levegő fantasztikus távoli kilátást biztosít a parti utak mentén, még ha a hőmérséklet alacsony is.\n\nDélben egy központi konoba melegét keressük, hogy feltöltsük az energiatartalékokat a visszaútra.\n\nA túrát délután fejezzük be, mielőtt a hideg a naplemente után érezhetően fokozódna.",
             "ro": "O tură cu bicicleta iarna pe Vir este o provocare sportivă împotriva vântului Bura. Traversarea podului este uluitoare.\n\nAerul curat oferă vederi panoramice fantastice de-a lungul drumurilor de coastă, chiar dacă temperaturile sunt scăzute.\n\nLa prânz, căutăm căldura unei konoba din centru pentru a ne reîncărca rezervele de energie pentru drumul de întoarcere.\n\nÎncheiem turul după-amiaza, înainte ca frigul să crească simțitor după apusul soarelui.",
             "en": "A winter bike ride on Vir is a sporting challenge against the Bura wind. Crossing the bridge is breathtaking.\n\nThe clear air provides fantastic long-distance views along the coastal paths, even if the temperatures are low.\n\nAt noon, we seek the warmth of a konoba in the center to replenish energy reserves for the ride back.\n\nWe end the tour in the afternoon before the cold increases significantly after sunset.",
-            "hr": "Zimska vožnja biciklom na Viru sportski je izazov protiv bure. Prijelaz preko mosta oduzima dah.\n\nČist zrak pruža fantastične vidike duž obalnih staza, čak i ako su temperature niske.\n\nU podne tražimo toplinu konobe u centru kako bismo obnovili zalihe energije za povratnu vožnju.\n\nTuru završavamo poslijepodne prije nego što hladnoća značajno poraste nakon zalaska sunca."
+            "hr": "Zimska biciklistička vožnja po Viru je sportski izazov protiv vjetra bure. Prijeći most je zapanjujuće.\n\nBistar zrak pruža fantastične daleke poglede uz obalne staze, iako su temperature niske.\n\nU podne tražimo toplinu konobe u centru kako bismo nadopunili energetske zalihe za povratak.\n\nTuru završavamo poslijepodne prije nego što hladnoća znatno poraste nakon zalaska sunca."
           },
           "stops": [
             {
@@ -967,7 +981,7 @@
                 "hu": "Figyelem: erős bóra esetén a híd le lehet zárva a kétkerekűek előtt.",
                 "ro": "Atenție: în caz de Bura puternică, podul poate fi închis pentru vehicule pe două roți.",
                 "en": "Note: During strong Bura, the bridge may be closed to two-wheelers.",
-                "hr": "Napomena: Tijekom jake bure, most može biti zatvoren za dvokotače."
+                "hr": "Napomena: tijekom jake bure most može biti zatvoren za dvokotače."
               }
             },
             {
@@ -977,7 +991,7 @@
                 "hu": "Tartson rövid szünetet, hogy ne hűljön ki.",
                 "ro": "Țineți pauzele scurte pentru a nu vă răci.",
                 "en": "Keep breaks short to avoid getting too cold.",
-                "hr": "Kratko pauzirajte kako se ne biste previše ohladili."
+                "hr": "Držite stanke kratkim kako ne biste prehlađeni."
               }
             },
             {
@@ -987,7 +1001,7 @@
                 "hu": "Védett hely egy gyors energiát adó szelet elfogyasztásához.",
                 "ro": "Un loc protejat pentru o scurtă pauză de gustare.",
                 "en": "A sheltered spot for a quick snack break.",
-                "hr": "Zaklonjeno mjesto za brzu pauzu uz međuobrok."
+                "hr": "Zaštićeno mjesto za brzu pauzu za užinu."
               }
             },
             {
@@ -997,7 +1011,7 @@
                 "hu": "A téli napsütés a vízen gyönyörű, de hideg.",
                 "ro": "Soarele de iarnă pe apă este frumos, dar rece.",
                 "en": "The winter sun on the water is beautiful but cold.",
-                "hr": "Zimsko sunce na vodi je prekrasno, ali hladno."
+                "hr": "Zimsko sunce na vodi je lijepo, ali hladno."
               }
             },
             {
@@ -1007,7 +1021,7 @@
                 "hu": "Hosszabbítsa meg a szünetet, hogy átmelegedjenek az ízületei.",
                 "ro": "Prelungiți pauza pentru a vă încălzi articulațiile.",
                 "en": "Extend your break to warm up your joints.",
-                "hr": "Produžite pauzu kako biste zagrijali zglobove."
+                "hr": "Produljite pauzu da ugrijete zglobove."
               }
             },
             {
@@ -1017,7 +1031,7 @@
                 "hu": "Élvezze a kilátást a kristálytiszta téli tenger felett.",
                 "ro": "Bucurați-vă de vederea panoramică peste marea cristalină de iarnă.",
                 "en": "Enjoy the wide view over the crystal-clear winter sea.",
-                "hr": "Uživajte u širokom pogledu na kristalno čisto zimsko more."
+                "hr": "Uživajte u širokom pogledu preko kristalno čistog zimskog mora."
               }
             },
             {
@@ -1027,7 +1041,7 @@
                 "hu": "Biztosítsa jól a biciklit az esetleges széllökések ellen.",
                 "ro": "Asigurați bine bicicleta împotriva eventualelor rafale de vânt.",
                 "en": "Secure your bike well against potential wind gusts.",
-                "hr": "Dobro osigurajte bicikl protiv mogućih naleta vjetra."
+                "hr": "Dobro učvrstite bicikl protiv mogućih naleta vjetra."
               }
             }
           ],
@@ -1061,11 +1075,11 @@
               "The Bura often blows from the northeast; plan your route accordingly."
             ],
             "hr": [
-              "Koristite princip slojevitog odijevanja s vanjskim slojem otpornim na vjetar.",
-              "Ne zaboravite piti dovoljno vode čak i na hladnoći.",
-              "Tople rukavice i zaštita za uši su neophodni.",
+              "Koristite princip slojevitog odijevanja s vjetrootpornim vanjskim slojem.",
+              "Ne zaboravite dovoljno piti vode čak i na hladnoći.",
+              "Tople rukavice i zaštita za uši su obavezni.",
               "Dani su kratki; planirajte povratak prije 16:00.",
-              "Bura često puše sa sjeveroistoka; planirajte svoju rutu u skladu s tim."
+              "Bura često puše s sjeveroistočne strane; planirajte rutu u skladu s time."
             ]
           }
         }
@@ -1094,7 +1108,8 @@
             "de": "Kurzer Fotostopp bei der Einfahrt auf die Insel.",
             "hu": "Rövid fotómegálló a szigetre való behajtáskor.",
             "ro": "Scurtă oprire pentru fotografii la intrarea pe insulă.",
-            "en": "Short photo stop upon entering the island."
+            "en": "Short photo stop upon entering the island.",
+            "hr": "Kratka fotostanka pri ulasku na otok."
           }
         },
         {
@@ -1112,7 +1127,8 @@
             "de": "Parken Sie im Zentrum und spazieren Sie zur Kirche.",
             "hu": "Parkoljon a központban és sétáljon el a templomhoz.",
             "ro": "Parcați în centru și mergeți pe jos la biserică.",
-            "en": "Park in the center and walk to the church."
+            "en": "Park in the center and walk to the church.",
+            "hr": "Parkirajte u centru i prošećite do crkve."
           }
         },
         {
@@ -1130,7 +1146,8 @@
             "de": "Der belebteste Strand mit vielen Parkmöglichkeiten in der Nähe.",
             "hu": "A legnépszerűbb strand sok közeli parkolóhellyel.",
             "ro": "Cea mai populară plajă, cu multe locuri de parcare în apropiere.",
-            "en": "The most popular beach with plenty of parking nearby."
+            "en": "The most popular beach with plenty of parking nearby.",
+            "hr": "Najpopularnija plaža s dosta parkirnih mjesta u blizini."
           }
         },
         {
@@ -1148,7 +1165,8 @@
             "de": "Dalmatinische Fischgerichte sind hier ein Muss.",
             "hu": "A dalmát halételek itt kötelezőek.",
             "ro": "Preparatele dalmate din pește sunt un must aici.",
-            "en": "Dalmatian fish dishes are a must here."
+            "en": "Dalmatian fish dishes are a must here.",
+            "hr": "Dalmatinska riblja jela ovdje su obavezna."
           }
         },
         {
@@ -1166,7 +1184,8 @@
             "de": "Die Ruine ist gut mit dem Auto erreichbar.",
             "hu": "A rom könnyen megközelíthető autóval.",
             "ro": "Ruina este ușor accesibilă cu mașina.",
-            "en": "The ruin is easily accessible by car."
+            "en": "The ruin is easily accessible by car.",
+            "hr": "Ruževina je lako pristupačna automobilom."
           }
         },
         {
@@ -1184,7 +1203,8 @@
             "de": "Entspannen Sie im Heilschlamm vor der Abfahrt.",
             "hu": "Lazítson a gyógyiszapban az indulás előtt.",
             "ro": "Relaxați-vă în nămolul terapeutic înainte de plecare.",
-            "en": "Relax in the healing mud before departure."
+            "en": "Relax in the healing mud before departure.",
+            "hr": "Opustite se u ljekovitom blatu prije polaska."
           }
         }
       ],
@@ -1193,7 +1213,7 @@
         "hu": "Ez az autós túra Vir legfontosabb látnivalóit ötvözi maximális kényelemmel. A hídnál kezdünk, majd a központba hajtunk a Szent György-templomhoz. A délelőtt a Jadro strandé, amit egy fenséges ebéd követ. Délután a Kaštelina erődöt és a Sapavac strandot látogatjuk meg az elutazás előtt.",
         "ro": "Acest tur cu mașina combină punctele forte din Vir cu un confort maxim. Începeți la pod și conduceți spre centru la Biserica Sf. Gheorghe. Dimineața este dedicată plajei Jadro, urmată de un prânz delicios. După-amiaza vizitați fortăreața Kaštelina și plaja Sapavac înainte de plecare.",
         "en": "This car tour combines Vir's highlights with maximum comfort. Start at the bridge and drive to the center for St. George's Church. The morning is dedicated to Jadro beach, followed by a delicious lunch. In the afternoon, visit the Kaštelina fortress and Sapavac beach before departing.",
-        "hr": "Ova tura automobilom kombinira najzanimljivije dijelove Vira uz maksimalnu udobnost. Počnite kod mosta i odvezite se do centra do crkve sv. Jurja. Jutro je posvećeno plaži Jadro, nakon čega slijedi ukusan ručak. Poslijepodne posjetite utvrdu Kaštelina i plažu Sapavac prije polaska."
+        "hr": "Ova auto tura spaja vrhunce Vira uz maksimalnu udobnost. Počnite na mostu i vozite do centra za crkvu sv. Jurja. Jutro je posvećeno plaži Jadro, a zatim slijedi ukusan ručak. Poslijepodne posjetite utvrdu Kaštelina i plažu Sapavac prije polaska."
       },
       "gastro_picks": {
         "de": [
@@ -1314,8 +1334,8 @@
           "The road to the bridge is often congested during rush hour."
         ],
         "hr": [
-          "Pronalaženje parkinga u centru može biti teško tijekom sezone.",
-          "Cesta prema mostu često je zakrčena tijekom prometnih špica."
+          "Pronalaženje parkiranja u centru može biti teško tijekom visoke sezone.",
+          "Cesta prema mostu često je zagušena tijekom prometne špice."
         ]
       },
       "variants": {
@@ -1325,7 +1345,7 @@
             "hu": "Autóval kényelmesen és szárazon fedezzük fel Virt. A hídon való átkelés esőben is remek kilátást nyújt.\n\nKözvetlenül a központban parkolunk a templomlátogatáshoz és az ebédhez, így csak rövid ideig kell a szabadban lennünk.\n\nDélután a Kaštelina várhoz hajtunk, ahol az autóból figyeljük az esőt, amíg nem adódik egy szünet a fotózáshoz.\n\nA napot egy tengerre néző étteremben zárjuk, miközben az eső veri az ablaküveget.",
             "ro": "Explorăm Vir confortabil și uscați cu mașina. Traversarea podului oferă vederi minunate chiar și pe ploaie.\n\nParcăm direct în centru pentru vizitarea bisericii și prânz, având astfel doar drumuri scurte de parcurs afară.\n\nDupă-amiaza ne conduce la cetatea Kaštelina, unde observăm ploaia din mașină până când apare o pauză pentru fotografii.\n\nÎncheiem ziua într-un restaurant cu vedere la mare, în timp ce ploaia bate în geamuri.",
             "en": "We explore Vir comfortably and dryly by car. Crossing the bridge offers great views even in the rain.\n\nWe park right in the center for the church visit and lunch, keeping our time outdoors to a minimum.\n\nThe afternoon takes us to Kaštelina fortress, where we watch the rain from the car until a break allows for photos.\n\nWe end the day in a restaurant with a sea view while the rain lashes against the windowpanes.",
-            "hr": "Vir istražujemo udobno i suho automobilom. Prelazak mosta nudi sjajne vidike čak i po kiši.\n\nParkiramo u samom centru radi posjeta crkvi i ručka, svodeći boravak na otvorenom na minimum.\n\nPoslijepodne nas vodi do utvrde Kaštelina, gdje promatramo kišu iz automobila dok nam pauza ne omogući fotografiranje.\n\nDan završavamo u restoranu s pogledom na more dok kiša šiba po prozorskim oknima."
+            "hr": "Ugodno i suho istražujemo Vir automobilom. Prijelaz mostom nudi odlične poglede čak i po kiši.\n\nParkiramo odmah u centru za posjet crkvi i ručak, minimalizirajući vrijeme provedeno na otvorenom.\n\nPoslijepodne nas vodi do utvrde Kaštelina, gdje promatramo kišu iz automobila dok pauza ne dopusti fotografiranje.\n\nDan završavamo u restoranu s pogledom na more dok kiša lupa o prozore."
           },
           "stops": [
             {
@@ -1335,7 +1355,7 @@
                 "hu": "Vigyázat az aquaplaning veszéllyel a híd úttestén.",
                 "ro": "Atenție la riscul de acvaplanare pe carosabilul podului.",
                 "en": "Be careful of aquaplaning risk on the bridge roadway.",
-                "hr": "Pazite na rizik od akvaplaninga na kolniku mosta."
+                "hr": "Pazite na opasnost od akvaplaninga na kolniku mosta."
               }
             },
             {
@@ -1365,7 +1385,7 @@
                 "hu": "Keressen olyan helyet, ahol közvetlenül az ajtó előtt van parkoló.",
                 "ro": "Căutați un local cu parcare chiar în fața ușii.",
                 "en": "Find a place with parking right in front of the door.",
-                "hr": "Pronađite mjesto s parkingom točno ispred vrata."
+                "hr": "Pronađite mjesto s parkiranjem neposredno pred ulazom."
               }
             },
             {
@@ -1375,7 +1395,7 @@
                 "hu": "Parkoljon biztonságosan szilárd talajon, hogy ne akadjon el.",
                 "ro": "Parcați în siguranță pe teren consolidat pentru a nu rămâne blocat.",
                 "en": "Park safely on firm ground to avoid getting stuck.",
-                "hr": "Parkirajte sigurno na čvrstoj podlozi kako biste izbjegli zaglavljivanje."
+                "hr": "Parkirajte sigurno na čvrstom tlu kako ne biste zapeli."
               }
             },
             {
@@ -1385,7 +1405,7 @@
                 "hu": "Rövid megálló egy hangulatos fotóhoz a vezetőülésből.",
                 "ro": "O scurtă oprire pentru o fotografie de atmosferă de pe scaunul șoferului.",
                 "en": "A short stop for an atmospheric photo from the driver's seat.",
-                "hr": "Kratko zaustavljanje za atmosferečnu fotografiju s vozačevog sjedala."
+                "hr": "Kratko zaustavljanje za atmosferičnu fotografiju iz vozačevog sjedala."
               }
             }
           ],
@@ -1419,10 +1439,10 @@
               "Take the opportunity for a drive around the entire island."
             ],
             "hr": [
-              "Pazite na dublje lokve koje mogu skrivati udarne rupe.",
-              "Pronalaženje parkinga u centru često je lakše na kiši.",
-              "Koristite klima uređaj kako biste spriječili zamagljivanje stakala.",
-              "Neke pristupne ceste plažama mogu biti vrlo blatne na kiši.",
+              "Pazite na dublje lokve koje mogu skrivati rupe na cesti.",
+              "Pronalaženje parkiranja u centru često je lakše po kiši.",
+              "Upotrijebite klima-uređaj da spriječite zamagljivanje prozora.",
+              "Neke pristupne ceste do plaža mogu biti vrlo blatne u kiši.",
               "Iskoristite priliku za vožnju oko cijelog otoka."
             ]
           }
@@ -1433,7 +1453,7 @@
             "hu": "A téli autózás Viren pihentető, mivel a sziget ilyenkor nagyon csendes. A hídról tiszta kilátás nyílik a Velebit csúcsaira.\n\nParkolási gondok nélkül fedezzük fel a látnivalókat, és élvezzük az éttermek fűtött belső tereit.\n\nA délután a Kaštelinához vezet, ahol teljes mértékben kiélvezzük a hely magányát a téli napsütésben.\n\nA sötétség korai beállta előtt visszatérünk a szárazföldre, vagy a kellemesen meleg autóban élvezzük az estét.",
             "ro": "O plimbare cu mașina iarna pe Vir este relaxantă, deoarece insula este acum foarte liniștită. Podul oferă o vedere clară spre vârfurile Velebit.\n\nExplorăm atracțiile fără grija parcării și ne bucurăm de interioarele încălzite ale restaurantelor.\n\nDupă-amiaza ne duce la Kaštelina, unde profităm din plin de singurătatea locului sub soarele de iarnă.\n\nÎnainte de lăsarea timpurie a întunericului, ne întoarcem pe continent sau ne bucurăm de seară în mașina caldă.",
             "en": "A winter drive on Vir is relaxing as the island is very quiet now. The bridge offers clear views of the Velebit peaks.\n\nWe explore the sights without parking worries and enjoy the heated interiors of the restaurants.\n\nThe afternoon takes us to Kaštelina, where we fully enjoy the solitude of the place in the winter sun.\n\nBefore the early onset of darkness, we return to the mainland or enjoy the evening in the cozy warm car.",
-            "hr": "Zimska vožnja na Viru je opuštajuća jer je otok sada vrlo tih. Most nudi čiste poglede na vrhove Velebita.\n\nIstražujemo znamenitosti bez brige o parkiranju i uživamo u grijanim interijerima restorana.\n\nPoslijepodne nas vodi do Kašteline, gdje u potpunosti uživamo u osami mjesta na zimskom suncu.\n\nPrije ranog mraka, vraćamo se na kopno ili uživamo u večeri u ugodnom toplom automobilu."
+            "hr": "Zimska vožnja po Viru je opuštajuća jer je otok sada vrlo miran. Most pruža jasne poglede na vrhove Velebita.\n\nIstražujemo znamenitosti bez brige oko parkiranja i uživamo u grijanim unutrašnjostima restorana.\n\nPoslijepodne odlazimo do Kašteline, gdje u potpunosti uživamo u samoći mjesta na zimskom suncu.\n\nPrije ranog pada mraka vraćamo se na kopno ili uživamo u večeri u ugodnom toplom automobilu."
           },
           "stops": [
             {
@@ -1443,7 +1463,7 @@
                 "hu": "Vigyázat az erős széllökésekkel (bóra) a hídon való átkeléskor.",
                 "ro": "Atenție la rafalele puternice de vânt (Bura) când traversați podul.",
                 "en": "Beware of strong wind gusts (Bura) when crossing the bridge.",
-                "hr": "Čuvajte se jakih naleta vjetra (bure) pri prelasku mosta."
+                "hr": "Čuvajte se jakih naleta vjetra (bura) pri prijelazu mosta."
               }
             },
             {
@@ -1453,7 +1473,7 @@
                 "hu": "Az autó közvetlenül mellette parkolható, ideális hidegben.",
                 "ro": "Mașina poate fi parcată chiar lângă, ideal pe timp de frig.",
                 "en": "The car can be parked right next door, ideal in the cold.",
-                "hr": "Automobil se može parkirati odmah pored, idealno na hladnoći."
+                "hr": "Automobil se može parkirati odmah do ulaza, idealno na hladnoći."
               }
             },
             {
@@ -1463,7 +1483,7 @@
                 "hu": "Az üres parkolók télen remek kilátást nyújtanak közvetlenül az autóból.",
                 "ro": "Parcările goale oferă iarna o vedere excelentă direct din mașină.",
                 "en": "The empty parking lots offer a great view directly from the car in winter.",
-                "hr": "Prazna parkirališta nude sjajan pogled izravno iz automobila zimi."
+                "hr": "Prazna parkirališta nude odličan pogled izravno iz auta zimi."
               }
             },
             {
@@ -1483,7 +1503,7 @@
                 "hu": "Az autótól a romokig vezető rövid út minimalizálja a hidegben töltött időt.",
                 "ro": "Drumurile scurte de la mașină la ruine minimizează timpul petrecut în frig.",
                 "en": "Short paths from the car to the ruins minimize time spent in the cold.",
-                "hr": "Kratki putovi od automobila do ruševina minimiziraju vrijeme na hladnoći."
+                "hr": "Kratke staze od auta do ruševina minimiziraju vrijeme provedeno na hladnoći."
               }
             },
             {
@@ -1493,7 +1513,7 @@
                 "hu": "Magányos megálló a téli Adriára nyíló kilátásért.",
                 "ro": "O oprire solitară pentru o vedere asupra Adriaticii de iarnă.",
                 "en": "A solitary stop for a view of the winter Adriatic.",
-                "hr": "Osamljeno stajalište za pogled na zimski Jadran."
+                "hr": "Usamljeno zaustavljanje za pogled na zimsko Jadransko more."
               }
             }
           ],
@@ -1527,11 +1547,11 @@
               "Parking fees are often not charged in winter."
             ],
             "hr": [
-              "Provjerite izvješće o vjetru; most se zatvara tijekom ekstremne bure.",
-              "Preporučljivo je sredstvo protiv smrzavanja stakala čak i u Dalmaciji.",
-              "Ceste su zimi gotovo prazne, idealne za opuštenu vožnju.",
+              "Provjerite izvještaj o vjetru; most je zatvoren tijekom ekstremne bure.",
+              "Protivsmrzavajuća tekućina za tekućinu za pranje vjetrobrana preporučljiva je čak i u Dalmaciji.",
+              "Ceste su gotovo prazne zimi, idealne za opuštenu vožnju.",
               "Posjetite i svjetionik na zapadnom kraju otoka.",
-              "Parking se zimi često ne naplaćuje."
+              "Parkiranje se zimi često ne naplaćuje."
             ]
           }
         }
@@ -1560,7 +1580,8 @@
             "de": "Zentraler Ankunftspunkt für Busse aus Zadar.",
             "hu": "Központi érkezési pont a zadari buszok számára.",
             "ro": "Punct central de sosire pentru autobuzele din Zadar.",
-            "en": "Central arrival point for buses from Zadar."
+            "en": "Central arrival point for buses from Zadar.",
+            "hr": "Središnje mjesto dolaska za autobuse iz Zadra."
           }
         },
         {
@@ -1578,7 +1599,8 @@
             "de": "Nur ein kurzer Spaziergang von der Haltestelle.",
             "hu": "Csak egy rövid séta a megállótól.",
             "ro": "Doar o scurtă plimbare de la stație.",
-            "en": "Just a short walk from the stop."
+            "en": "Just a short walk from the stop.",
+            "hr": "Samo kratka šetnja od stajališta."
           }
         },
         {
@@ -1596,7 +1618,8 @@
             "de": "Vom Zentrum aus leicht zu Fuß erreichbar.",
             "hu": "A központból gyalogosan is könnyen elérhető.",
             "ro": "Ușor accesibil pe jos din centru.",
-            "en": "Easily accessible on foot from the center."
+            "en": "Easily accessible on foot from the center.",
+            "hr": "Jednostavno pješački dostupno iz centra."
           }
         },
         {
@@ -1614,7 +1637,8 @@
             "de": "Genießen Sie lokale Spezialitäten im Ortskern.",
             "hu": "Élvezze a helyi különlegességeket a városközpontban.",
             "ro": "Bucurați-vă de specialități locale în centrul localității.",
-            "en": "Enjoy local specialties in the town center."
+            "en": "Enjoy local specialties in the town center.",
+            "hr": "Uživajte u lokalnim specijalitetima u središtu mjesta."
           }
         },
         {
@@ -1632,7 +1656,8 @@
             "de": "Ein schöner Spaziergang entlang der Küste führt hierher.",
             "hu": "Egy szép tengerparti séta vezet ide.",
             "ro": "O plimbare frumoasă pe malul mării duce aici.",
-            "en": "A beautiful seaside walk leads here."
+            "en": "A beautiful seaside walk leads here.",
+            "hr": "Prekrasna šetnica uz more vodi ovamo."
           }
         },
         {
@@ -1650,7 +1675,8 @@
             "de": "Perfekt zum Entspannen vor dem letzten Bus.",
             "hu": "Tökéletes a kikapcsolódásra az utolsó busz előtt.",
             "ro": "Perfect pentru relaxare înainte de ultimul autobuz.",
-            "en": "Perfect for relaxing before the last bus."
+            "en": "Perfect for relaxing before the last bus.",
+            "hr": "Savršeno za opuštanje prije posljednjeg autobusa."
           }
         }
       ],
@@ -1659,7 +1685,7 @@
         "hu": "Ideális a Zadar felől érkezőknek: ez a terv a központi buszmegállót használja bázisként. Felfedezzük a Szent György-templomot, a délutánt pedig a Jadro strandon töltjük. A központi ebéd után elgyalogolunk a Kaštelina erődhöz és élvezzük a Sapavac strandot, mielőtt visszatérnénk a megállóhoz.",
         "ro": "Ideal pentru vizitatorii din Zadar: acest plan folosește stația centrală de autobuz ca bază. Explorați Biserica Sf. Gheorghe și petreceți amiaza pe plaja Jadro. După un prânz în centru, mergeți pe jos la fortăreața Kaštelina și bucurați-vă de plaja Sapavac înainte de a reveni la stație.",
         "en": "Ideal for visitors from Zadar: this plan uses the central bus stop as a base. Explore St. George's Church and spend midday at Jadro beach. After a lunch in the center, walk to the Kaštelina fortress and enjoy Sapavac beach before returning to the stop on time.",
-        "hr": "Idealno za posjetitelje iz Zadra: ovaj plan koristi središnju autobusnu stanicu kao bazu. Istražite crkvu sv. Jurja i provedite podne na plaži Jadro. Nakon ručka u centru, prošećite do utvrde Kaštelina i uživajte u plaži Sapavac prije pravovremenog povratka na stanicu."
+        "hr": "Idealno za posjetitelje iz Zadra: ovaj plan koristi središnje autobusno stajalište kao bazu. Istražite crkvu sv. Jurja i provedite podne na plaži Jadro. Nakon ručka u centru prošećite do utvrde Kaštelina i uživajte na plaži Sapavac prije povratka na stajalište na vrijeme."
       },
       "gastro_picks": {
         "de": [
@@ -1780,8 +1806,8 @@
           "Buy return tickets directly from the driver."
         ],
         "hr": [
-          "Prethodno provjerite aktualni vozni red autobusa na internetu.",
-          "Kupite povratne karte izravno kod vozača."
+          "Provjerite aktualni autobusni raspored online unaprijed.",
+          "Kupite povratne karte izravno od vozača."
         ]
       },
       "variants": {
@@ -1791,7 +1817,7 @@
             "hu": "A busszal való utazás Virre esőben is kényelmes átjutást biztosít a hídon. A központi megálló jó kiindulópont.\n\nA megállók és a látnivalók közötti rövid futások minimalizálják az esővel való érintkezést.\n\nDélben egy konobában melegszünk fel, miközben a következő buszcsatlakozásra várunk.\n\nA délutánt rugalmasan alakítjuk, szigorúan szem előtt tartva a menetrendet, hogy elkerüljük a kinti várakozást.",
             "ro": "Călătoria cu autobuzul spre Vir oferă un acces confortabil peste pod chiar și pe ploaie. Stația din centru este un punct bun de plecare.\n\nScurtele reprize de mers între stații și atracții minimizează contactul cu ploaia.\n\nLa prânz ne încălzim într-o konoba în timp ce așteptăm următoarea conexiune de autobuz.\n\nDupă-amiaza este organizată flexibil, urmărind cu atenție orarul pentru a evita așteptările inutile afară.",
             "en": "Traveling by bus to Vir provides a comfortable approach over the bridge even in the rain. The center stop is a good starting point.\n\nShort sprints between the stops and the sights minimize contact with the rain.\n\nAt noon, we warm up in a konoba while waiting for the next bus connection.\n\nThe afternoon is kept flexible, keeping a close eye on the schedules to avoid unnecessary waiting outdoors.",
-            "hr": "Putovanje autobusom na Vir omogućuje udoban dolazak preko mosta čak i po kiši. Stanica u centru dobra je polazna točka.\n\nKratki sprintevi između stanica i znamenitosti minimiziraju kontakt s kišom.\n\nU podne se grijemo u konobi dok čekamo sljedeću autobusnu liniju.\n\nPoslijepodne ostaje fleksibilno, uz pažljivo praćenje voznog reda kako bismo izbjegli nepotrebno čekanje na otvorenom."
+            "hr": "Putovanje autobusom do Vira pruža udoban pristup preko mosta čak i po kiši. Stajalište u centru je dobar početak.\n\nKratki sprintovi između stanica i znamenitosti minimiziraju kontakt s kišom.\n\nU podne se grijemo u konobi čekajući sljedeće autobusno povezivanje.\n\nPoslijepodne držimo fleksibilno, pazeći na rasporede kako bismo izbjegli nepotrebno čekanje na otvorenom."
           },
           "stops": [
             {
@@ -1801,7 +1827,7 @@
                 "hu": "Keressen menedéket a váróterem teteje alatt.",
                 "ro": "Căutați adăpost sub acoperișul stației.",
                 "en": "Seek shelter under the roof of the bus stop.",
-                "hr": "Potražite zaklon pod krovom autobusne stanice."
+                "hr": "Potražite zaklon pod nadstrešnicom autobusnog stajališta."
               }
             },
             {
@@ -1811,7 +1837,7 @@
                 "hu": "Csak egy rövid séta a buszmegállótól.",
                 "ro": "La doar o scurtă plimbare de stația de autobuz.",
                 "en": "Just a short walk away from the bus stop.",
-                "hr": "Samo kratka šetnja od autobusne stanice."
+                "hr": "Samo kratka šetnja od stajališta."
               }
             },
             {
@@ -1821,7 +1847,7 @@
                 "hu": "Egy rövid, vizes kitérő a tengeri kilátásért.",
                 "ro": "O scurtă abatere udă pentru o vedere la mare.",
                 "en": "A short, wet detour for a view of the sea.",
-                "hr": "Kratki, mokri obilazak za pogled na more."
+                "hr": "Kratka, mokra detour za pogled na more."
               }
             },
             {
@@ -1831,7 +1857,7 @@
                 "hu": "Válasszon egy helyet a megálló közvetlen közelében.",
                 "ro": "Alegeți un local în imediata apropiere a stației.",
                 "en": "Choose a place in the immediate vicinity of the stop.",
-                "hr": "Odaberite mjesto u neposrednoj blizini stanice."
+                "hr": "Odaberite mjesto u neposrednoj blizini stajališta."
               }
             },
             {
@@ -1841,7 +1867,7 @@
                 "hu": "Tervezze meg időben a visszautat a megállóhoz.",
                 "ro": "Planificați din timp drumul de întoarcere la stație.",
                 "en": "Plan your way back to the stop in good time.",
-                "hr": "Planirajte povratak na stanicu na vrijeme."
+                "hr": "Planirajte povratak do stajališta na vrijeme."
               }
             },
             {
@@ -1851,7 +1877,7 @@
                 "hu": "Ellenőrizze, tud-e helyi taxit hívni a visszaúthoz.",
                 "ro": "Verificați dacă puteți chema un taxi local pentru întoarcere.",
                 "en": "Check if you can call a local taxi for the way back.",
-                "hr": "Provjerite možete li pozvati lokalni taksi za povratak."
+                "hr": "Provjerite možete li nazvati lokalni taksi za povratak."
               }
             }
           ],
@@ -1885,11 +1911,11 @@
               "Some stops have little shelter; personal protection is important."
             ],
             "hr": [
-              "Nosite odjeću koja se brzo suši, čak i u autobusu.",
-              "Koristite aplikaciju 'Arriva' za informacije o autobusima u stvarnom vremenu.",
-              "Pripremite sitan novac za kartu kod vozača.",
-              "Autobusi mogu malo kasniti na kiši zbog prometa.",
-              "Neke stanice imaju malo zaklona; osobna zaštita je važna."
+              "Nosite odjeću koja se brzo suši čak i u autobusu.",
+              "Upotrijebite aplikaciju 'Arriva' za informacije o autobusima u stvarnom vremenu.",
+              "Imate sitniš spreman za kartu kod vozača.",
+              "Autobusi mogu kasniti u kiši zbog prometa.",
+              "Neka stajališta imaju malo zaklona; osobna zaštita je važna."
             ]
           }
         },
@@ -1899,7 +1925,7 @@
             "hu": "A téli buszos utazás Virre nyugodt, és pihentető érkezést biztosít a kopár parti tájon keresztül.\n\nA központba érkezve a kávézókban várakozunk, hogy elkerüljük a bóra szél hidegét.\n\nA látnivalók tempós meglátogatását a tiszta téli levegő és a tömeg hiánya jutalmazza.\n\nGondosan tervezzük meg a visszautat, mivel télen a buszok ritkábban járnak.",
             "ro": "Călătoria cu autobuzul spre Vir iarna este liniștită și oferă o sosire relaxată prin peisajul de coastă arid.\n\nAjunși în centru, folosim timpul de așteptare în cafenele pentru a evita frigul vântului Bura.\n\nO vizitare rapidă a atracțiilor este răsplătită de aerul curat de iarnă și de lipsa mulțimilor.\n\nPlanificăm cu atenție călătoria de întoarcere, deoarece frecvența autobuzelor este semnificativ redusă iarna.",
             "en": "The bus trip to Vir in winter is quiet and offers a relaxed arrival through the barren coastal landscape.\n\nArriving in the center, we spend wait times in cafés to escape the cold of the Bura wind.\n\nA brisk visit to the sights is rewarded by the clear winter air and the lack of crowds.\n\nWe plan the return trip carefully, as the frequency of buses is significantly reduced in winter.",
-            "hr": "Vožnja autobusom na Vir zimi je mirna i nudi opušten dolazak kroz ogoljeli obalni krajolik.\n\nPo dolasku u centar, vrijeme čekanja provodimo u kafićima kako bismo pobjegli od hladne bure.\n\nBrzi posjet znamenitostima nagrađen je čistim zimskim zrakom i nedostatkom gužve.\n\nPažljivo planiramo povratak, jer je učestalost autobusa zimi značajno smanjena."
+            "hr": "Vožnja autobusom do Vira zimi je mirna i nudi opušten dolazak kroz pustu obalnu krajinu.\n\nPo dolasku u centar vrijeme čekanja provodimo u kafićima kako bismo izbjegli hladnoću bure.\n\nKratki posjet znamenitostima nagrađuje jasnim zimskim zrakom i manjkom gužvi.\n\nPovratak planiramo pažljivo, jer je frekvencija autobusa zimi znatno smanjena."
           },
           "stops": [
             {
@@ -1909,7 +1935,7 @@
                 "hu": "Ellenőrizze a téli menetrendet közvetlenül a megállóban.",
                 "ro": "Verificați orarul de iarnă direct în stație.",
                 "en": "Check the winter schedule directly at the stop.",
-                "hr": "Provjerite zimski vozni red izravno na stanici."
+                "hr": "Provjerite zimski vozni red izravno na stajalištu."
               }
             },
             {
@@ -1919,7 +1945,7 @@
                 "hu": "Egy rövid séta, hogy átmozgassa a lábait az utazás után.",
                 "ro": "O scurtă plimbare pentru a vă dezmorți picioarele după drum.",
                 "en": "A short walk to warm up your legs after the ride.",
-                "hr": "Kratka šetnja za zagrijavanje nogu nakon vožnje."
+                "hr": "Kratka šetnja da se ugriju noge nakon vožnje."
               }
             },
             {
@@ -1939,7 +1965,7 @@
                 "hu": "Használja a helyet meleg bázisként.",
                 "ro": "Folosiți localul ca bază caldă de așteptare.",
                 "en": "Use the restaurant as a warm base.",
-                "hr": "Koristite restoran kao toplu bazu."
+                "hr": "Iskoristite restoran kao topao oslonac."
               }
             },
             {
@@ -1949,7 +1975,7 @@
                 "hu": "A tiszta látási viszonyok remek fotókat engednek a buszszünetekben.",
                 "ro": "Vizibilitatea clară permite fotografii superbe în pauzele dintre autobuze.",
                 "en": "Clear visibility allows for great long-distance photos during bus breaks.",
-                "hr": "Čista vidljivost omogućuje sjajne fotografije tijekom pauza između autobusa."
+                "hr": "Jasna vidljivost omogućuje izvrsne fotografije na daljinu tijekom pauza autobusa."
               }
             },
             {
@@ -1959,7 +1985,7 @@
                 "hu": "Tartsa szem előtt az utolsó busz indulási idejét.",
                 "ro": "Aveți în vedere ora ultimului autobuz.",
                 "en": "Keep an eye on the time for the last bus.",
-                "hr": "Pazite na vrijeme zadnjeg autobusa."
+                "hr": "Pazite na vrijeme zbog zadnjeg autobusa."
               }
             }
           ],
@@ -1993,11 +2019,11 @@
               "Stay informed about any weather-related cancellations."
             ],
             "hr": [
-              "Napomena: Zimi vozi znatno manje autobusa nego ljeti.",
-              "Čekajte unutar kafića umjesto na propuhu autobusne stanice.",
-              "Putovanje od Zadra do Vira zimi traje oko 45-60 minuta.",
-              "Ako je moguće, kupite karte unaprijed putem interneta.",
-              "Budite informirani o mogućim otkazivanjima linija zbog vremenskih uvjeta."
+              "Napomena: Zimi prometuje znatno manje autobusa nego ljeti.",
+              "Čekajte unutra u kafiću umjesto na propuhu na stajalištu.",
+              "Put od Zadra do Vira zimi traje oko 45–60 minuta.",
+              "Kupite karte online unaprijed ako je moguće.",
+              "Budite informirani o eventualnim otkazima zbog vremenskih uvjeta."
             ]
           }
         }

@@ -32,7 +32,7 @@
             "hu": "Csodálja meg a főtér klasszicista homlokzatát.",
             "ro": "Admirați fațada neoclasică din piața principală.",
             "en": "Admire the neoclassical facade on the main square.",
-            "hr": "Divite se neoklasicističkom pročelju na glavnom trgu."
+            "hr": "Divite se neoklasičnoj fasadi na glavnom trgu."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Nézze meg a Vela Spila barlang őskori leleteit.",
             "ro": "Vedeți descoperirile preistorice din peștera Vela Spila.",
             "en": "See prehistoric finds from the Vela Spila cave.",
-            "hr": "Razgledajte prapovijesne nalaze iz špilje Vela spila."
+            "hr": "Pogledajte prapovijesne nalaze iz špilje Vela Spila."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Élvezze a halászhajók látványát az öbölben.",
             "ro": "Bucurați-vă de vederea bărcii de pescuit din golf.",
             "en": "Enjoy the view of the fishing boats in the bay.",
-            "hr": "Uživajte u pogledu na ribarske brodice u zaljevu."
+            "hr": "Uživajte u pogledu na ribarske brodove u uvali."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Kóstolja meg a pekát vagy a friss halat olívaolajjal.",
             "ro": "Încercați peka sau pește proaspăt cu ulei de măsline.",
             "en": "Try peka or fresh fish with local olive oil.",
-            "hr": "Probajte peku ili svježu ribu s lokalnim maslinovim uljem."
+            "hr": "Probajte peku ili svježu ribu s domaćim maslinovim uljem."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Kristálytiszta víz csábít a máltai úszásra.",
             "ro": "Apa cristalină vă invită la o baie răcoritoare.",
             "en": "Crystal clear water invites you for a refreshing swim.",
-            "hr": "Kristalno čisto more poziva na osvježavajuće kupanje."
+            "hr": "Kristalno čista voda poziva na osvježavajući kupanje."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "A tökéletes lezárás a hosszú öböl legmélyebb pontján.",
             "ro": "Finalul perfect în cel mai adânc punct al golfului lung.",
             "en": "The perfect ending at the deepest point of the long bay.",
-            "hr": "Savršen završetak na najdubljoj točki dugog zaljeva."
+            "hr": "Savršen završetak na najdubljoj točki duge uvale."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "Kezdje a napot Vela Luka történelmi szívében a Szent József-templommal és a Kulturális Központtal, ahol felfedezheti Korčula-sziget gazdag múltját. Egy kellemes séta a Ristán elvezeti Önt egy autentikus ebédre egy helyi konobába, ahol tengeri ételeket kóstolhat.\n\nDélután túrázzon fel a lenyűgöző Vela Spila barlanghoz, amely az emberiség egyik legfontosabb őskori lelőhelye. Ezután pihenjen meg egy közeli kavicsos strandon, és élvezze az Adria azúr kék vizét. A napot egy romantikus naplemente zárja közvetlenül a nyüzsgő kikötő partján.",
         "ro": "Începeți ziua în inima istorică a localității Vela Luka, vizitând Biserica Sfântul Iosif și Centrul Cultural, unde veți descoperi istoria insulei Korčula. O plimbare de-a lungul Rivei vă va conduce la un prânz autentic într-o konoba locală, cu specialități mediteraneene.\n\nDupă-amiaza, urcați până la impresionanta peșteră Vela Spila, un leagăn al civilizației. Apoi, relaxați-vă pe o plajă de prundis din apropiere și bucurați-vă de apele azurii ale Adriaticii. Ziua se încheie cu un apus romantic chiar pe malul portului plin de viață.",
         "en": "Start your day in the historical heart of Vela Luka with a visit to St. Joseph's Church and the Cultural Center, where you will discover the rich past of Korčula island. A pleasant stroll along the Riva leads you to an authentic lunch in a local konoba.\n\nIn the afternoon, hike up to the impressive Vela Spila cave, a cradle of prehistoric civilization. Afterwards, relax at a nearby pebble beach and enjoy the azure waters of the Adriatic. The day concludes with a romantic sunset right by the bustling harbor.",
-        "hr": "Započnite dan u povijesnom srcu Vele Luke posjetom crkvi sv. Josipa i Centru za kulturu, gdje ćete otkriti bogatu prošlost otoka Korčule. Ugodna šetnja Rivom vodi vas do autentičnog ručka u lokalnoj konobi.\n\nPoslijepodne se popnite do impresivne špilje Vela spila, kolijevke prapovijesne civilizacije. Nakon toga se opustite na obližnjoj šljunčanoj plaži i uživajte u azurnom moru Jadrana. Dan završava romantičnim zalaskom sunca tik uz živahnu luku."
+        "hr": "Započnite dan u povijesnom srcu Vele Luke posjetom crkvi sv. Josipa i Kulturnom centru, gdje ćete otkriti bogatu prošlost otoka Korčule. Ugodna šetnja rivom vodi do autentičnog ručka u lokalnoj konobi.\n\nPopodne se popnite do impresivne špilje Vela Spila, kolijevke prapovijesne civilizacije. Nakon toga opustite se na obližnjoj šljunčanoj plaži i uživajte u azurnom moru Jadrana. Dan završava romantičnim zalaskom sunca uz živahnu luku."
       },
       "gastro_picks": {
         "de": [
@@ -325,9 +325,9 @@
           "The town center is flat, but the path to the cave is steep."
         ],
         "hr": [
-          "Nosite udobnu obuću za uspon do špilje Vela spila.",
-          "Vela Luka je poznata po klapskom pjevanju; potražite večernje nastupe.",
-          "Centar mjesta je ravan, ali je staza do špilje strma."
+          "Nosite udobnu obuću za uspon do Vele Spile.",
+          "Vela Luka je poznata po zborskoj glazbi; potražite večernje nastupe.",
+          "Centar grada je ravan, ali put do špilje je strm."
         ]
       },
       "variants": {
@@ -337,7 +337,7 @@
             "hu": "A reggel a Szent József-templom belső nyugalmával indul, védve a szemerkélő esőtől. Délben a Kulturális Központ kiállításai és világhírű mozaikjai nyújtanak száraz menedéket a Riva mellett. Délután egy hangulatos konobában élvezzük a helyi ízeket, amíg kint dobol az eső az ablakon. Az estét a Vela Spila hatalmas barlangjában zárjuk, amely természetes tetőként óv meg minket a kikötő felett, egyedülálló hangulatot árasztva.",
             "ro": "Dimineața începe liniștit în Biserica Sfântul Iosif, un refugiu ideal împotriva ploii. La prânz, Centrul Cultural oferă adăpost uscat și o incursiune în istoria insulei prin mozaicurile sale. După-amiaza ne plimbăm cu umbrela pe faleză spre o tavernă primitoare pentru un prânz prelungit. Încheiem ziua în uriașa peșteră Vela Spila, care ne protejează de intemperii ca un acoperiș natural deasupra portului.",
             "en": "The morning starts peacefully in St. Joseph's Church, a perfect retreat from the drizzle. At noon, the Culture Center provides a dry shelter and deep insights into the island's history through its mosaics. In the afternoon, we stroll with an umbrella along the Riva to a cozy konoba for a long, hearty lunch. We conclude the day in the massive Vela Spila cave, which protects us from the elements like a natural roof high above the harbor.",
-            "hr": "Jutro počinje mirno u crkvi sv. Josipa, savršenom utočištu od kiše. U podne, Centar za kulturu pruža suho sklonište i dubok uvid u povijest otoka kroz mozaike. Poslijepodne šetamo s kišobranom uz Rivu do ugodne konobe na dugi, krepki ručak. Dan završavamo u masivnoj špilji Vela spila, koja nas štiti od vremenskih nepogoda poput prirodnog krova visoko iznad luke."
+            "hr": "Jutro započinje mirno u crkvi sv. Josipa, savršenoj oazi od rosulje. U podne Kulturni centar pruža suhi zaklon i dubok uvid u povijest otoka kroz svoje mozaike. Popodne šetamo s kišobranom rivom do ugodne konobe za dug i srdačan ručak. Dan završavamo u masivnoj Veloj Spili, koja nas štiti od vremenskih neprilika poput prirodnog krova visoko iznad luke."
           },
           "stops": [
             {
@@ -347,7 +347,7 @@
                 "hu": "Élvezze a belső csendet, amíg kint esik az eső.",
                 "ro": "Bucurați-vă de liniștea din interior în timp ce afară plouă.",
                 "en": "Enjoy the inner silence while it rains outside.",
-                "hr": "Uživajte u unutarnjoj tišini dok vani pada kiša."
+                "hr": "Uživajte u unutarnjem tišini dok vani pada kiša."
               }
             },
             {
@@ -367,7 +367,7 @@
                 "hu": "Vigyázzon a vizesen csúszós kőlapokra a parton.",
                 "ro": "Atenție la plăcile de piatră alunecoase când sunt ude.",
                 "en": "Be careful on the stone slabs, which are slippery when wet.",
-                "hr": "Budite oprezni na kamenim pločama koje su skliske kad su mokre."
+                "hr": "Pazite na kamene ploče koje su skliske kad su mokre."
               }
             },
             {
@@ -377,7 +377,7 @@
                 "hu": "Válasszon ablak melletti asztalt a kikötői eső látványához.",
                 "ro": "Alegeți o masă la fereastră pentru a vedea ploaia în port.",
                 "en": "Choose a window seat to watch the rain over the harbor.",
-                "hr": "Odaberite mjesto uz prozor kako biste promatrali kišu nad lukom."
+                "hr": "Izaberite mjesto uz prozor za promatranje kiše nad lukom."
               }
             },
             {
@@ -387,7 +387,7 @@
                 "hu": "A barlang belül száraz, de a felfelé vezető út csúszhat.",
                 "ro": "Peștera rămâne uscată, dar urcarea poate fi alunecoasă.",
                 "en": "The cave stays dry inside, but the path up can be slippery.",
-                "hr": "Špilja ostaje suha iznutra, ali staza prema gore može biti skliska."
+                "hr": "Unutra u špilji ostaje suho, ali put prema gore može biti sklizak."
               }
             },
             {
@@ -397,7 +397,7 @@
                 "hu": "Keressen menedéket a fenyők alatt vagy egy parti bárban.",
                 "ro": "Căutați adăpost sub pini sau într-un bar de pe plajă.",
                 "en": "Seek shelter under the pines or in a beach bar.",
-                "hr": "Potražite zaklon ispod borova ili u baru na plaži."
+                "hr": "Potražite zaklon pod borovima ili u beach baru."
               }
             },
             {
@@ -407,7 +407,7 @@
                 "hu": "A drámai égbolt visszatükröződik a vizes aszfalton.",
                 "ro": "Cerul dramatic se reflectă în asfaltul ud.",
                 "en": "The dramatic sky reflects on the wet pavement.",
-                "hr": "Dramatično nebo odražava se na mokrom pločniku."
+                "hr": "Dramatično nebo ogleda se na mokrom pločniku."
               }
             }
           ],
@@ -437,10 +437,10 @@
               "Vela Spila offers natural protection from the rain."
             ],
             "hr": [
-              "Ponesite čvrst kišobran jer je vjetar u luci često jak.",
-              "Kamene ploče na Rivi su izuzetno skliske na kiši.",
-              "Centar za kulturu je najbolje mjesto tijekom dugotrajnih pljuskova.",
-              "Vela spila nudi prirodnu zaštitu od kiše."
+              "Ponesite čvrst kišobran, jer je vjetar u luci često jak.",
+              "Kamenite ploče na rivi su izuzetno skliske po kiši.",
+              "Kulturni centar je najbolje mjesto tijekom dugih pljuskova.",
+              "Vela Spila nudi prirodnu zaštitu od kiše."
             ]
           }
         },
@@ -450,7 +450,7 @@
             "hu": "A friss téli reggel a Szent József-templomnál indul a csendes városközpontban. Délben a Kulturális Központban melegszünk fel, miközben a tiszta téli levegő fantasztikus kilátást enged a tengerre. A Riva egyik konobájában elköltött tartalmas ebéd után felsétálunk a Vela Spilához, ahol a barlang mélyén gyakran enyhébb az idő, mint kint. A nap korán zárul egy sétával az üres strandon, mielőtt a téli nap már fél öt körül eltűnik a dombok mögött.",
             "ro": "Dimineața proaspătă de iarnă începe la Biserica Sfântul Iosif, în centrul liniștit. La prânz ne încălzim în Centrul Cultural, în timp ce aerul curat oferă o vedere fantastică spre mare. După un prânz consistent pe faleză, urcăm la Vela Spila, unde în adâncul peșterii este adesea mai blând decât afară. Ziua se încheie devreme cu o plimbare pe plaja pustie, înainte ca soarele de iarnă să dispară după dealuri în jurul orei 16:30.",
             "en": "The crisp winter morning begins at St. Joseph's Church in the quiet town center. At noon, we warm up in the Culture Center, while the clear winter air offers a fantastic view of the sea. After a hearty lunch at the Riva, we hike up to Vela Spila, where the cave's depths are often milder than outside. The day ends early with a walk on the empty beach before the winter sun disappears behind the hills around 4:30 PM.",
-            "hr": "Svježe zimsko jutro počinje u crkvi sv. Josipa u mirnom centru mjesta. U podne se grijemo u Centru za kulturu, dok čisti zimski zrak nudi fantastičan pogled na more. Nakon krepkog ručka na Rivi, penjemo se do Vele spile, gdje je u dubinama špilje često toplije nego vani. Dan rano završava šetnjom praznom plažom prije nego što zimsko sunce nestane iza brda oko 16:30."
+            "hr": "Kiselo, svježe zimsko jutro počinje u crkvi sv. Josipa u mirnom gradskom središtu. U podne se ugrijemo u Kulturnom centru, dok bistar zimski zrak pruža fantastičan pogled na more. Nakon obilnog ručka na rivi, penjemo se do Vele Spile, gdje su dubine špilje često blaže nego vani. Dan završava rano šetnjom po praznoj plaži prije nego što zimsko sunce nestane iza brežuljaka oko 16:30."
           },
           "stops": [
             {
@@ -460,7 +460,7 @@
                 "hu": "Látogassa meg a templomot reggel, amikor a legnaposabb.",
                 "ro": "Vizitați biserica dimineața, când este cel mai mult soare.",
                 "en": "Visit the church in the morning when it's sunniest.",
-                "hr": "Posjetite crkvu ujutro kada je najsunčanije."
+                "hr": "Posjetite crkvu ujutro kad je najsunčanije."
               }
             },
             {
@@ -470,7 +470,7 @@
                 "hu": "Jól fűtött hely a téli hideg elöli menekülésre.",
                 "ro": "Un loc bine încălzit pentru a scăpa de frigul iernii.",
                 "en": "A well-heated place to escape the winter chill.",
-                "hr": "Dobro zagrijano mjesto za bijeg od zimske hladnoće."
+                "hr": "Dobro grijano mjesto za bijeg od zimskog mraza."
               }
             },
             {
@@ -480,7 +480,7 @@
                 "hu": "Élvezze a nyugodt hangulatot a nyári tömeg nélkül.",
                 "ro": "Bucurați-vă de atmosfera liniștită fără masele de turiști.",
                 "en": "Enjoy the quiet atmosphere without the summer crowds.",
-                "hr": "Uživajte u mirnoj atmosferi bez ljetnih gužvi."
+                "hr": "Uživajte u tihoj atmosferi bez ljetnih gužvi."
               }
             },
             {
@@ -500,7 +500,7 @@
                 "hu": "A barlang télen viszonylag állandó hőmérsékletet tart.",
                 "ro": "Peștera menține o temperatură relativ constantă iarna.",
                 "en": "The cave maintains a relatively constant temperature in winter.",
-                "hr": "Špilja održava relativno konstantnu temperaturu zimi."
+                "hr": "Špilja održava relativno stalnu temperaturu zimi."
               }
             },
             {
@@ -520,7 +520,7 @@
                 "hu": "Figyelem: a naplemente már 16:30 körül bekövetkezik.",
                 "ro": "Atenție: apusul are loc deja în jurul orei 16:30.",
                 "en": "Note: sunset happens early, around 4:30 PM.",
-                "hr": "Napomena: zalazak sunca je rano, oko 16:30."
+                "hr": "Napomena: zalazak sunca događa se rano, oko 16:30."
               }
             }
           ],
@@ -550,10 +550,10 @@
               "Enjoy the crystal-clear views that only winter provides."
             ],
             "hr": [
-              "Odjenite se slojevito jer bura može biti vrlo hladna.",
-              "Većina barova na plaži je zatvorena, ali kafići u luci rade.",
-              "Planirajte aktivnosti na otvorenom prije 16:00 sati.",
-              "Uživajte u kristalno čistim vidicima koje pruža samo zima."
+              "Nosite slojevitu odjeću, jer bura može biti vrlo hladna.",
+              "Većina beach barova je zatvorena, ali kafići u luci ostaju otvoreni.",
+              "Planirajte aktivnosti na otvorenom prije 16:00.",
+              "Uživajte u kristalno jasnim pogledima koje pruža samo zima."
             ]
           }
         }
@@ -602,7 +602,7 @@
             "hu": "Parkolja le a kerékpárokat a barlang bejáratánál.",
             "ro": "Parcați bicicletele la intrarea în peșteră.",
             "en": "Park your bikes at the cave entrance.",
-            "hr": "Parkirajte bicikle na ulazu u špilju."
+            "hr": "Ostavite bicikle na ulazu u špilju."
           }
         },
         {
@@ -621,7 +621,7 @@
             "hu": "Egy hűvös megálló a déli időszakban.",
             "ro": "O oprire răcoroasă la prânz.",
             "en": "A cool stop during the midday heat.",
-            "hr": "Hladno stajalište tijekom podnevne vrućine."
+            "hr": "Hladna stanica tijekom sredine dana."
           }
         },
         {
@@ -640,7 +640,7 @@
             "hu": "Frissüljön fel a folytatás előtt.",
             "ro": "Reîncărcați-vă bateriile pentru drum.",
             "en": "Refuel for the rest of the ride.",
-            "hr": "Napunite baterije za ostatak vožnje."
+            "hr": "Napunite energiju za ostatak vožnje."
           }
         },
         {
@@ -659,7 +659,7 @@
             "hu": "Lapos, gyönyörű útvonal a tenger mentén.",
             "ro": "Traseu plat și frumos de-a lungul mării.",
             "en": "Flat, beautiful route along the sea.",
-            "hr": "Ravna, lijepa ruta uz more."
+            "hr": "Ravna, prekrasna ruta uz more."
           }
         },
         {
@@ -687,7 +687,7 @@
         "hu": "Ez a kerékpártúra ötvözi a sportos kihívást a természeti élményekkel. A Hum-hegyre való feljutás verhetetlen kilátást kínál. Ezután lejtmenet következik a Vela Spila régészeti lelőhelyhez, mielőtt a kikötőben ebédelne. A délután a lapos part menti úté a Gradina-öbölig, amely ideális egy frissítő fürdőzéshez.",
         "ro": "Acest tur cu bicicleta combină provocarea sportivă cu experiența naturii. Urcarea pe muntele Hum vă oferă o vedere imbatabilă. Apoi urmează coborârea spre situl arheologic Vela Spila, înainte de prânzul în port. După-amiaza este dedicată drumului de coastă plat către golful Gradina, ideal pentru o baie răcoritoare.",
         "en": "This bike tour combines athletic challenge with natural experience. The climb to Mount Hum offers an unbeatable view. Then it's downhill to the Vela Spila archaeological site before having lunch at the harbor. The afternoon is spent on the flat coastal road to Gradina bay, ideal for a refreshing swim.",
-        "hr": "Ova biciklistička tura kombinira sportski izazov s doživljajem prirode. Uspon na brdo Hum nudi nenadmašan pogled. Zatim slijedi spust do arheološkog nalazišta Vela spila prije ručka u luci. Poslijepodne je rezervirano za ravnu obalnu cestu do uvale Gradina, idealnu za osvježavajuće kupanje."
+        "hr": "Ova biciklistička tura spaja atletski izazov s prirodnim doživljajem. Uspon na Hum nudi neusporediv pogled. Nakon toga slijedi spust do arheološkog nalazišta Vela Spila prije ručka u luci. Popodne je predviđeno za ravnu obalnu cestu do uvale Gradina, idealnu za osvježavajuće kupanje."
       },
       "gastro_picks": {
         "de": [
@@ -809,7 +809,7 @@
         ],
         "hr": [
           "Ponesite dovoljno vode za uspon na Hum.",
-          "Obalna cesta ima malo prometa i sigurna je."
+          "Obalna cesta ima nizak promet i sigurnija je."
         ]
       },
       "variants": {
@@ -819,7 +819,7 @@
             "hu": "Az eső ellenére reggel feltekerünk a Hum-hegyre, ahol a vizes aszfalt teljes koncentrációt igényel. Délben a Vela Spila száraz pihenőhelyet nyújt a kerékpárosoknak magasan az öböl felett. Egy rövid legurulás után a Szent József-templomban melegszünk fel, majd egy tartalmas ebéd a kikötőben ad új energiát. A délutánt a Gradina-öböl felé vezető úton töltjük, ahol a tenger felcsapó permete összeolvad az esővel.",
             "ro": "În ciuda ploii, urcăm dimineața pe dealul Hum, unde asfaltul ud necesită concentrare maximă. La prânz, Vela Spila oferă un loc de odihnă uscat pentru bicicliști, sus deasupra golfului. După o coborâre scurtă, ne încălzim în Biserica Sfântul Iosif din centru, urmată de un prânz consistent în port. După-amiaza o petrecem pe drumul spre golful Gradina, unde stropii mării se contopesc cu ploaia.",
             "en": "Despite the rain, we climb Hum Hill in the morning, where the wet asphalt requires full concentration. At noon, Vela Spila offers a dry resting spot for cyclists high above the bay. After a quick descent, we warm up in St. Joseph's Church in the center, followed by a hearty lunch in the harbor. We spend the afternoon riding toward Gradina Bay, where the sea spray merges with the rain.",
-            "hr": "Unatoč kiši, ujutro se penjemo na brdo Hum, gdje mokri asfalt zahtijeva punu koncentraciju. U podne, Vela spila nudi suho mjesto za odmor biciklista visoko iznad zaljeva. Nakon brzog spusta, grijemo se u crkvi sv. Josipa u centru, nakon čega slijedi krepki ručak u luci. Poslijepodne vozimo prema uvali Gradina, gdje se morska pjena spaja s kišom."
+            "hr": "Unatoč kiši, penjemo se jutrom na Hum, gdje mokri asfalt zahtijeva punu koncentraciju. U podne Vela Spila nudi suho mjesto za odmor za bicikliste visoko iznad uvale. Nakon brzog spusta, ugrijemo se u crkvi sv. Josipa u centru, a zatim slijedi srdačan ručak u luci. Popodne vozimo prema uvali Gradina, gdje se morska prskanja stapaju s kišom."
           },
           "stops": [
             {
@@ -829,7 +829,7 @@
                 "hu": "Vigyázzon a lejtőn a vizes utakon.",
                 "ro": "Atenție la coborâre pe drumurile ude.",
                 "en": "Be careful during the descent on wet roads.",
-                "hr": "Budite oprezni tijekom spusta po mokrim cestama."
+                "hr": "Budite oprezni pri spustu po mokrim cestama."
               }
             },
             {
@@ -849,7 +849,7 @@
                 "hu": "Rövid pihenő szárazon a város szívében.",
                 "ro": "Scurtă pauză la uscat în inima localității.",
                 "en": "Short dry break in the heart of the town.",
-                "hr": "Kratka suha pauza u srcu mjesta."
+                "hr": "Kratka suha pauza u srcu grada."
               }
             },
             {
@@ -869,7 +869,7 @@
                 "hu": "Ügyeljen a tócsákra és a saras szakaszokra az út szélén.",
                 "ro": "Atenție la bălți și porțiunile noroioase de pe marginea drumului.",
                 "en": "Watch out for puddles and muddy sections by the roadside.",
-                "hr": "Pazite na lokve i blatnjave dijelove uz cestu."
+                "hr": "Pazite na lokve i blatne dionice uz cestu."
               }
             },
             {
@@ -879,7 +879,7 @@
                 "hu": "Egy forró tea most talán jobb, mint a fagylalt.",
                 "ro": "Un ceai fierbinte ar putea fi mai bun decât înghețata acum.",
                 "en": "A hot tea might be better than gelato right now.",
-                "hr": "Vrući čaj bi sada mogao biti bolji od sladoleda."
+                "hr": "Topli čaj možda je sada bolji od gelata."
               }
             }
           ],
@@ -909,10 +909,10 @@
               "The descent from Hum can be tricky in the rain."
             ],
             "hr": [
-              "Koristite vodootporne torbe za opremu.",
-              "Lagano smanjite tlak u gumama za bolje prianjanje na mokrim cestama.",
-              "Nosite svijetlu ili reflektirajuću odjeću pri lošoj vidljivljivosti.",
-              "Spust s Huma može biti opasan po kiši."
+              "Koristite vodootporne vreće za opremu.",
+              "Smanjite tlak u gumama nešto za bolji zahvat na mokroj cesti.",
+              "Nosite svijetlu ili reflektirajuću odjeću pri smanjenoj vidljivosti.",
+              "Spust s Huma može biti nezgodan po kiši."
             ]
           }
         },
@@ -922,7 +922,7 @@
             "hu": "Egy tiszta téli reggelen a Hum felé vesszük az irányt, ahol a hűvös szellő kárpótol az erőfeszítésért. Délben érjük el a Vela Spilát, melynek hatalmas bejárata a téli fényben különösen lenyűgöző. A Szent József-templomnál tett megálló után melengető ebédet fogyasztunk a kikötőben. A csendes tekerés a Gradina-öbölhöz meditatív nyugalmat áraszt télen, mielőtt a korai naplementére visszatérünk egy forró italra.",
             "ro": "Într-o dimineață senină de iarnă, pedalăm spre Hum, unde briza rece răsplătește efortul. La prânz ajungem la Vela Spila, a cărei deschidere monumentală pare deosebit de impresionantă în lumina iernii. După o oprire la Biserica Sfântul Iosif, ne bucurăm de un prânz cald în zona portului. Călătoria liniștită spre golful Gradina oferă o tăcere meditativă iarna, înainte de a ne întoarce în port pentru o băutură caldă la apus.",
             "en": "On a clear winter morning, we cycle to Hum, where the cool breeze rewards the effort. At noon, we reach Vela Spila, whose monumental entrance looks particularly impressive in the winter light. After a stop at St. Joseph's Church, we enjoy a warming lunch in the harbor area. The quiet ride to Gradina Bay offers meditative silence in winter, before returning to the harbor for a hot drink at the early sunset.",
-            "hr": "U vedro zimsko jutro bicikliramo na Hum, gdje hladan povjetarac nagrađuje trud. U podne dolazimo do Vele spile, čiji monumentalni ulaz izgleda posebno impresivno na zimskom svjetlu. Nakon zaustavljanja kod crkve sv. Josipa, uživamo u toplom ručku u području luke. Mirna vožnja do uvale Gradina nudi meditativnu tišinu zimi, prije povratka u luku na topli napitak uz rani zalazak sunca."
+            "hr": "U bistru zimsko jutro vožnja do Huma nagrađuje svježim povjetarcem. U podne stižemo do Vele Spile, čiji monumentalni ulaz posebno impresionira u zimskom svjetlu. Nakon stanke u crkvi sv. Josipa uživamo u toplom ručku u lučkom području. Tiha vožnja do uvale Gradina nudi meditativnu samoću zime prije povratka u luku na topao napitak pri ranom zalasku sunca."
           },
           "stops": [
             {
@@ -932,7 +932,7 @@
                 "hu": "Szélálló ruházat elengedhetetlen a csúcson.",
                 "ro": "Hainele rezistente la vânt sunt esențiale pe vârf.",
                 "en": "Windbreaker clothing is essential for the summit.",
-                "hr": "Vjetrovka je neophodna za vrh."
+                "hr": "Vjetrovka je nužna za vrh."
               }
             },
             {
@@ -942,7 +942,7 @@
                 "hu": "A téli fény mélyen bevilágít a barlangba.",
                 "ro": "Lumina iernii pătrunde adânc în peșteră.",
                 "en": "Winter light reaches deep into the cave.",
-                "hr": "Zimsko svjetlo dopire duboko u špilju."
+                "hr": "Zimsko svjetlo prodire duboko u špilju."
               }
             },
             {
@@ -952,7 +952,7 @@
                 "hu": "Csendes pillanat a téli nyugalmú városban.",
                 "ro": "Moment de liniște în localitatea tăcută de iarnă.",
                 "en": "Quiet moment in the winter-still town.",
-                "hr": "Mirni trenutak u zimski tihom mjestu."
+                "hr": "Miran trenutak u zimom utihnulom gradu."
               }
             },
             {
@@ -962,7 +962,7 @@
                 "hu": "Részesítse előnyben a napos helyeket a felmelegedéshez.",
                 "ro": "Preferați locurile la soare pentru a vă încălzi.",
                 "en": "Prefer sunny spots to warm up.",
-                "hr": "Birajte sunčana mjesta za zagrijavanje."
+                "hr": "Preferirajte sunčana mjesta za zagrijavanje."
               }
             },
             {
@@ -982,7 +982,7 @@
                 "hu": "Néhány fagyizó zárva van, próbálja ki a forró csokoládét.",
                 "ro": "Unele gelaterii sunt închise, încercați ciocolată caldă.",
                 "en": "Some gelaterias are closed; try hot chocolate instead.",
-                "hr": "Neke slastičarnice su zatvorene; probajte toplu čokoladu."
+                "hr": "Neke slastičarnice su zatvorene; umjesto toga probajte vruću čokoladu."
               }
             }
           ],
@@ -1012,10 +1012,10 @@
               "Check your bike lights for the early evening."
             ],
             "hr": [
-              "Temperatura zraka naglo pada nakon zalaska sunca.",
-              "Pazite na buru; bočni vjetrovi mogu biti vrlo jaki.",
-              "Otočne ceste zimi su često prekrivene vlažnim lišćem.",
-              "Provjerite svjetla na biciklu za ranu večer."
+              "Zrak naglo hladi nakon zalaska sunca.",
+              "Čuvajte se bure; bočni vjetrovi mogu biti vrlo jaki.",
+              "Otokodne ceste često su prekrivene vlažnim lišćem zimi.",
+              "Provjerite svjetla na biciklu za rani sumrak."
             ]
           }
         }
@@ -1064,7 +1064,7 @@
             "hu": "Gyalog a parkolótól.",
             "ro": "Pe jos de la parcare.",
             "en": "On foot from the parking.",
-            "hr": "Pješice s parkinga."
+            "hr": "Pješice iz parkirališta."
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "hu": "Parkoló közvetlenül a barlang előtt.",
             "ro": "Parcare chiar în fața peșterii.",
             "en": "Parking right in front of the cave.",
-            "hr": "Parking odmah ispred špilje."
+            "hr": "Parkiranje odmah ispred špilje."
           }
         },
         {
@@ -1159,7 +1159,7 @@
             "hu": "Utolsó pillantás az öbölre.",
             "ro": "Ultima privire asupra golfului.",
             "en": "Last look at the bay.",
-            "hr": "Posljednji pogled na zaljev."
+            "hr": "Posljednji pogled na uvalu."
           }
         }
       ],
@@ -1168,7 +1168,7 @@
         "hu": "Autóval könnyedén elérheti Vela Luka legtávolabbi kincseit is. Kezdje a központban kultúrával és történelemmel. Ezután hajtson a Vela Spila barlanghoz, majd fel a Hum kilátóhoz az adriai panorámáért. A délutánt egy hajókirándulás koronázza meg a Proizd-szigetre, amely egy kristálytiszta vizű természeti ékszer, mielőtt az estét a Ristán zárná.",
         "ro": "Cu mașina puteți ajunge cu ușurință la cele mai îndepărtate comori din Vela Luka. Începeți în centru cu cultură și istorie. Apoi mergeți la peștera Vela Spila și urcați la punctul de belvedere Hum pentru o panoramă asupra Adriaticii. După-amiaza este încununată de o excursie cu barca pe insula Proizd, o bijuterie naturală cu apă cristalină, înainte de a încheia seara pe Riva.",
         "en": "By car, you can easily reach the most distant treasures of Vela Luka. Start in the center with culture and history. Then drive to the Vela Spila cave and up to the Hum viewpoint for a panorama over the Adriatic. The afternoon is crowned by a boat trip to Proizd island, a natural jewel with crystal clear water, before ending the evening on the Riva.",
-        "hr": "Automobilom možete lako dosegnuti najudaljenija blaga Vele Luke. Započnite u centru s kulturom i poviješću. Zatim se odvezite do špilje Vela spila i gore do vidikovca Hum za panoramu nad Jadranom. Poslijepodne je okrunjeno izletom brodom na otok Proizd, prirodni dragulj s kristalno čistim morem, prije završetka večeri na Rivi."
+        "hr": "Autom možete lako doći do najudaljenijih dragulja Vele Luke. Počnite u centru s kulturom i poviješću. Zatim vozite do Vele Spile i dalje do vidikovca Hum za panoramu nad Jadranom. Popodnevni izlet brodom na otok Proizd, prirodni dragulj s kristalno čistom vodom, kruni večer prije završetka na Rivi."
       },
       "gastro_picks": {
         "de": [
@@ -1289,7 +1289,7 @@
           "Check the boat schedule to Proizd at the harbor."
         ],
         "hr": [
-          "Cesta do brda Hum je uska, vozite oprezno.",
+          "Cesta prema Humu je uska, vozite oprezno.",
           "Provjerite raspored brodova za Proizd u luci."
         ]
       },
@@ -1300,7 +1300,7 @@
             "hu": "Autóval ma esőbiztosan fedezzük fel Vela Lukát. Reggel közvetlenül a Kulturális Központnál parkolunk, és száraz lábbal nézzük meg a sziget kincseit. A Szent József-templomnál tett rövid megálló után a Vela Spilához hajtunk, melynek bejárata felhőszakadáskor is védelmet nyújt. A kilátás a Humról ma felhőkbe burkolózó és misztikus. Egy kiadós ebéd egy konobában segít átvészelni a legnagyobb esőt, mielőtt a napot egy panoráma-autózással zárjuk a Riva mentén.",
             "ro": "Cu mașina explorăm astăzi Vela Luka protejați de ploaie. Dimineața parcăm direct la Centrul Cultural și vizităm exponatele fără a ne uda. După o scurtă oprire la Biserica Sfântul Iosif, conducem spre Vela Spila, a cărei intrare oferă protecție chiar și pe furtună. Vederea de pe Hum este astăzi învăluită în nori și mistică. Un prânz bogat la o tavernă ne ajută să trecem de cea mai puternică ploaie, înainte de a încheia ziua cu o plimbare panoramică pe faleză.",
             "en": "By car, we explore Vela Luka rainproof today. In the morning, we park right at the Culture Center and visit the island's treasures without getting wet. After a short stop at St. Joseph's Church, we drive to Vela Spila, whose entrance provides shelter even during downpours. The view from Hum is cloudy and mystical today. A long lunch in a konoba helps bridge the heaviest rain before we finish the day with a panoramic drive along the Riva.",
-            "hr": "Automobilom danas istražujemo Velu Luku zaštićeni od kiše. Ujutro parkiramo odmah kod Centra za kulturu i posjećujemo otočna blaga bez močenja. Nakon kratkog zaustavljanja kod crkve sv. Josipa, vozimo se do Vele spile, čiji ulaz pruža zaklon čak i tijekom pljuskova. Pogled s Huma danas je oblačan i mističan. Dugi ručak u konobi pomaže premostiti najjaču kišu prije nego što dan završimo panoramskom vožnjom uz Rivu."
+            "hr": "Autom danas otkrivamo Vela Luku štiteći se od kiše. Ujutro parkiramo odmah kod Kulturnog centra i posjećujemo otočne dragocjenosti bez mokrenja. Nakon kratkog zadržavanja kod crkve sv. Josipa vozimo do Vele Spile, čiji ulaz pruža zaklon i tijekom pljuskova. Pogled s Huma danas je oblačan i mističan. Dug ručak u konobi pomaže premostiti najjaču kišu prije nego što dan završimo panoramskom vožnjom uz Rivu."
           },
           "stops": [
             {
@@ -1310,7 +1310,7 @@
                 "hu": "Parkoljon közel a bejárathoz, hogy szárazon jusson be.",
                 "ro": "Parcați aproape de intrare pentru a ajunge uscat în clădire.",
                 "en": "Park close to the entrance to get inside dry.",
-                "hr": "Parkirajte blizu ulaza kako biste ušli suhi."
+                "hr": "Parkirajte blizu ulaza da biste ušli suhi."
               }
             },
             {
@@ -1360,7 +1360,7 @@
                 "hu": "Ellenőrizze, hogy járnak-e a hajók erős szélben.",
                 "ro": "Verificați dacă bărcile circulă pe vânt puternic.",
                 "en": "Check if boats are running during strong winds.",
-                "hr": "Provjerite plove li brodovi tijekom jakog vjetra."
+                "hr": "Provjerite rade li brodovi tijekom jakih vjetrova."
               }
             },
             {
@@ -1370,7 +1370,7 @@
                 "hu": "Egy lassú autózás a part mentén ma kényelmesebb.",
                 "ro": "O plimbare lentă cu mașina pe mal este mai confortabilă astăzi.",
                 "en": "A slow drive along the coast is more comfortable today.",
-                "hr": "Polagana vožnja uz obalu danas je ugodnija."
+                "hr": "Spora vožnja uz obalu danas je udobnija."
               }
             }
           ],
@@ -1401,8 +1401,8 @@
             ],
             "hr": [
               "Vidljivost na planinskim cestama može biti ograničena po kiši.",
-              "Koristite parkirališta u luci za kratke pješačke udaljenosti.",
-              "Telefonski provjerite status brodova za Proizd.",
+              "Koristite lučka parkirališta zbog kratkih pješačkih udaljenosti.",
+              "Provjerite status broda za Proizd telefonom.",
               "Ne ostavljajte mokre kišobrane na sjedalima automobila."
             ]
           }
@@ -1413,7 +1413,7 @@
             "hu": "Egy tiszta téli reggelen az autót használjuk a kényelmes túrához. A fűtött Kulturális Központnál kezdünk, majd a Szent József-templom következik. A Vela Spilához vezető út a téli fényben remek fotótémákat kínál. A Humon élvezzük a távoli kilátást, amit csak a hideg téli levegő tesz lehetővé. A kikötői meleg ebéd után a napot egy tengerparti autózással zárjuk, miközben a nap korán nyugszik, mi pedig az autó melegében pihenünk.",
             "ro": "Într-o dimineață senină de iarnă, folosim mașina pentru un tur confortabil. Începem la Centrul Cultural încălzit, urmat de Biserica Sfântul Iosif. Drumul spre Vela Spila oferă motive foto excelente în lumina iernii. Pe Hum ne bucurăm de vizibilitatea la distanță, permisă doar de aerul rece de iarnă. După un prânz cald în port, încheiem ziua cu o plimbare cu mașina pe coastă, în timp ce soarele apune devreme iar noi stăm la căldură.",
             "en": "On a clear winter morning, we use the car for a comfortable tour. We start at the heated Culture Center, followed by St. Joseph's Church. The drive to Vela Spila offers great photo opportunities in the winter light. On Hum, we enjoy the long-distance views that only cold winter air allows. After a warm lunch in the harbor, we end the day with a coastal drive as the sun sets early and we stay cozy in the car.",
-            "hr": "U vedro zimsko jutro koristimo automobil za ugodnu turu. Počinjemo u grijanom Centru za kulturu, nakon čega slijedi crkva sv. Josipa. Vožnja do Vele spile nudi sjajne prilike za fotografiranje na zimskom svjetlu. Na Humu uživamo u dalekim vidicima koje dopušta samo hladni zimski zrak. Nakon toplog ručka u luci, dan završavamo obalnom vožnjom dok sunce rano zalazi, a mi ostajemo u toplom automobilu."
+            "hr": "U bistru zimsko jutro koristimo auto za ugodnu turu. Počinjemo u zagrijanom Kulturnom centru, potom u crkvi sv. Josipa. Vožnja do Vele Spile nudi sjajne foto-prilike u zimskom svjetlu. Na Humu uživamo u dalekim pogledima koje samo hladni zimski zrak omogućuje. Nakon toplog ručka u luci dan završavamo vožnjom uz obalu dok se sunce rano spušta i ostajemo ugodni u autu."
           },
           "stops": [
             {
@@ -1423,7 +1423,7 @@
                 "hu": "Télen bőségesen áll rendelkezésre parkolóhely.",
                 "ro": "Parcările sunt din abundență în timpul iernii.",
                 "en": "Parking spaces are abundant during winter.",
-                "hr": "Parkirnih mjesta ima u izobilju tijekom zime."
+                "hr": "Parkirnih mjesta zimi ima u izobilju."
               }
             },
             {
@@ -1433,7 +1433,7 @@
                 "hu": "A templom gyakran hűvösebb, mint az autó, ne vegye le a kabátot.",
                 "ro": "Biserica este adesea mai rece decât mașina, păstrați haina pe dvs.",
                 "en": "The church is often cooler than the car; keep your jacket on.",
-                "hr": "Crkva je često hladnija od automobila; ne skidajte jaknu."
+                "hr": "Crkva je često hladnija od auta; zadržite jaknu na sebi."
               }
             },
             {
@@ -1443,7 +1443,7 @@
                 "hu": "Használja ki az alacsonyan járó téli nap fényeit.",
                 "ro": "Profitați de lumina soarelui de iarnă care stă jos.",
                 "en": "Take advantage of the low winter sun light.",
-                "hr": "Iskoristite nisko zimsko sunce za svjetlost."
+                "hr": "Iskoristite nisko zimsko sunčevo svjetlo."
               }
             },
             {
@@ -1453,7 +1453,7 @@
                 "hu": "Télen gyakran ellátni egészen Olaszországig.",
                 "ro": "Vizibilitatea până în Italia este adesea posibilă iarna.",
                 "en": "Views as far as Italy are often possible in winter.",
-                "hr": "Zimi su često mogući pogledi sve do Italije."
+                "hr": "Pogledi čak do Italije često su mogući zimi."
               }
             },
             {
@@ -1463,7 +1463,7 @@
                 "hu": "Kérjen asztalt a kályha vagy fűtőtest közelében.",
                 "ro": "Cereți o masă lângă sobă sau calorifer.",
                 "en": "Ask for a table near the heater or stove.",
-                "hr": "Tražite stol blizu grijača ili peći."
+                "hr": "Zatražite stol blizu grijača ili peći."
               }
             },
             {
@@ -1473,7 +1473,7 @@
                 "hu": "A hajóforgalom télen erősen korlátozott.",
                 "ro": "Circulația bărcilor este foarte limitată iarna.",
                 "en": "Boat service is very limited in winter.",
-                "hr": "Brodski prijevoz je vrlo ograničen zimi."
+                "hr": "Brodarska usluga zimi je vrlo ograničena."
               }
             },
             {
@@ -1483,7 +1483,7 @@
                 "hu": "Élvezze a kivilágított Rivát kora este.",
                 "ro": "Bucurați-vă de faleza iluminată seara devreme.",
                 "en": "Enjoy the illuminated Riva in the early evening.",
-                "hr": "Uživajte u osvijetljenoj Rivi u ranoj večeri."
+                "hr": "Uživajte u osvijetljenoj Rivi u ranom večernjem času."
               }
             }
           ],
@@ -1513,9 +1513,9 @@
               "Watch out for wildlife crossing the roads more often in winter."
             ],
             "hr": [
-              "Otočne ceste ujutro mogu biti skliske.",
-              "Vidljivost je zimi često mnogo jasnija nego ljeti.",
-              "Koristite grijanje u automobilu za udobnost između postaja.",
+              "Otočne ceste mogu biti skliske ujutro.",
+              "Vidljivost je često mnogo jasnija zimi nego ljeti.",
+              "Koristite grijač u autu da ostanete udobni između stajanja.",
               "Pazite na divljač koja zimi češće prelazi ceste."
             ]
           }
@@ -1546,7 +1546,7 @@
             "hu": "Központi találkozóhely.",
             "ro": "Punct de întâlnire central.",
             "en": "Central meeting point.",
-            "hr": "Središnje mjesto sastajanja."
+            "hr": "Središnje mjesto susreta."
           }
         },
         {
@@ -1565,7 +1565,7 @@
             "hu": "Múzeum a városközpontban.",
             "ro": "Muzeu în centrul orașului.",
             "en": "Museum in the city center.",
-            "hr": "Muzej u centru grada."
+            "hr": "Muzej u središtu grada."
           }
         },
         {
@@ -1584,7 +1584,7 @@
             "hu": "A komp rendszeresen jár.",
             "ro": "Feribotul circulă regulat.",
             "en": "The boat runs regularly.",
-            "hr": "Brod vozi redovito."
+            "hr": "Brodovi voze redovito."
           }
         },
         {
@@ -1603,7 +1603,7 @@
             "hu": "A Bili Boci strand kötelező látnivaló.",
             "ro": "Plaja Bili Boci este o necesitate.",
             "en": "Bili Boci beach is a must-see.",
-            "hr": "Plaža Bili Boci je nezaobilazna postaja."
+            "hr": "Plaža Bili Boci je nezaobilazna."
           }
         },
         {
@@ -1650,7 +1650,7 @@
         "hu": "Használja a helyi hajójáratokat a fénypontok felfedezéséhez. A központban töltött kulturális délelőtt után a taxihajó elviszi Önt a Proizd-szigetre, a régió sztárjára. Élvezze ott a délutánt a fehér strandon, mielőtt visszatérne a szárazföldre egy késői ebédre és a Vela Spila barlang megtekintésére.",
         "ro": "Utilizați transferurile locale cu barca pentru a vedea cele mai importante atracții. După o dimineață culturală în centru, barca taxi vă va duce pe insula Proizd, vedeta regiunii. Bucurați-vă de după-amiaza pe plaja albă, înainte de a reveni pe continent pentru un prânz târziu și o vizită la peștera Vela Spila.",
         "en": "Use the local boat transfers to experience the highlights. After a cultural morning in the center, the taxi boat takes you to Proizd island, the star of the region. Enjoy the afternoon there on the white beach before returning to the mainland for a late meal and a visit to the Vela Spila cave.",
-        "hr": "Koristite lokalne brodske transfere kako biste doživjeli vrhunce ponude. Nakon kulturnog jutra u centru, taxi brod vas vodi na otok Proizd, zvijezdu regije. Uživajte u poslijepodnevu na bijeloj plaži prije povratka na kopno na kasni obrok i posjet špilji Vela spila."
+        "hr": "Iskoristite lokalne brodske transfere za doživljaj glavnih atrakcija. Nakon kulturnog jutra u centru, taxi-brod vodi vas na otok Proizd, zvijezdu regije. Uživajte popodne na bijeloj plaži prije povratka kopnu na kasni obrok i posjet Veloj Spili."
       },
       "gastro_picks": {
         "de": [
@@ -1771,8 +1771,8 @@
           "Most sights in the town are easily reachable on foot."
         ],
         "hr": [
-          "Taxi brodovi za Proizd voze svakih sat vremena tijekom sezone.",
-          "Većina znamenitosti u mjestu lako je dostupna pješice."
+          "Taxi-brodovi za Proizd voze svaki sat tijekom sezone.",
+          "Većina znamenitosti u gradu lako je dostupna pješice."
         ]
       },
       "variants": {
@@ -1782,7 +1782,7 @@
             "hu": "A helyi közlekedéssel és hajókkal ma rugalmasan fedezzük fel Vela Lukát. A reggelt szárazon töltjük a Szent József-templomban és a Kulturális Központban. A Proizd felé tartó hajó esőben zárt utasteret kínál, ahonnan figyelhetjük a morajló tengert. Egy késői ebéd a Riván felmelegít minket, mielőtt busszal vagy taxival a Vela Spilához indulunk, ahol a barlang megvéd az esti esőtől.",
             "ro": "Cu transportul local și bărcile explorăm astăzi Vela Luka în mod flexibil. Dimineața o petrecem la uscat în Biserica Sfântul Iosif și în Centrul Cultural. Barca spre Proizd oferă un interior protejat pe ploaie, de unde putem observa marea agitată. Un prânz târziu pe faleză ne încălzește înainte de a merge cu autobuzul sau taxiul spre Vela Spila, unde peștera ne protejează de ploaia de seară.",
             "en": "With local transport and boats, we explore Vela Luka flexibly today. We spend the morning dry in St. Joseph's Church and the Culture Center. The boat to Proizd offers a sheltered interior during rain, from where we can watch the rough sea. A late lunch at the Riva warms us up before taking a bus or taxi to the climb for Vela Spila, where the cave shields us from the evening rain.",
-            "hr": "Lokalnim prijevozom i brodovima danas fleksibilno istražujemo Velu Luku. Jutro provodimo na suhom u crkvi sv. Josipa i Centru za kulturu. Brod za Proizd nudi natkrivenu unutrašnjost tijekom kiše, odakle možemo promatrati nemirno more. Kasni ručak na Rivi će nas zagrijati prije nego što autobusom ili taksijem krenemo prema usponu za Velu spilu, gdje nas špilja štiti od večernje kiše."
+            "hr": "S lokalnim prijevozom i brodovima danas fleksibilno istražujemo Vela Luku. Jutro provodimo zaštićeni u crkvi sv. Josipa i Kulturnom centru. Brod za Proizd nudi natkriveni interijer tijekom kiše, iz kojeg možemo promatrati razburkano more. Kasni ručak na Rivi nas grije prije nego što autobusom ili taksijem odemo prema usponu za Vela Spila, gdje špilja štiti od večernje kiše."
           },
           "stops": [
             {
@@ -1792,7 +1792,7 @@
                 "hu": "A buszmegállók a közvetlen közelben vannak.",
                 "ro": "Stațiile de autobuz sunt în imediata apropiere.",
                 "en": "Bus stops are located in the immediate vicinity.",
-                "hr": "Autobusne stanice nalaze se u neposrednoj blizini."
+                "hr": "Autobusna stajališta nalaze se u neposrednoj blizini."
               }
             },
             {
@@ -1812,7 +1812,7 @@
                 "hu": "A fedélzet alatti helyek esőben nagyon népszerűek.",
                 "ro": "Locurile de sub punte sunt foarte căutate pe ploaie.",
                 "en": "Seats below deck are very popular during rain.",
-                "hr": "Sjedala ispod palube su vrlo popularna tijekom kiše."
+                "hr": "Sjedala ispod palube vrlo su popularna tijekom kiše."
               }
             },
             {
@@ -1822,7 +1822,7 @@
                 "hu": "Keresse fel a sziget egyetlen éttermét menedékért.",
                 "ro": "Căutați singurul restaurant de pe insulă pentru adăpost.",
                 "en": "Seek shelter in the island's only restaurant.",
-                "hr": "Potražite zaklon u jedinom restoranu na otoku."
+                "hr": "Potražite zaklon u jedinom otočnom restoranu."
               }
             },
             {
@@ -1832,7 +1832,7 @@
                 "hu": "Az éttermek csak egy rövid ugrásra vannak a kikötőtől.",
                 "ro": "Restaurantele sunt la doar un pas de debarcader.",
                 "en": "Restaurants are just a short hop from the pier.",
-                "hr": "Restorani su na samo par koraka od pristaništa."
+                "hr": "Restorani su na kratkoj udaljenosti od mola."
               }
             },
             {
@@ -1842,7 +1842,7 @@
                 "hu": "A taxi jó alternatíva a gyaloglás helyett erős esőben.",
                 "ro": "Taxisunt o alternativă bună la mersul pe jos în caz de ploaie puternică.",
                 "en": "Taxis are a good alternative to walking during heavy rain.",
-                "hr": "Taksiji su dobra alternativa hodanju tijekom jake kiše."
+                "hr": "Taksi je dobra alternativa hodanju tijekom jake kiše."
               }
             }
           ],
@@ -1872,9 +1872,9 @@
               "Use local apps for real-time updates."
             ],
             "hr": [
-              "Pažljivo provjerite raspored jer može doći do kašnjenja na kiši.",
-              "Nosite vodootpornu obuću za šetnju između postaja.",
-              "Trajekti imaju grijanu unutrašnjost.",
+              "Pažljivo provjerite raspored, jer zbog kiše mogu biti kašnjenja.",
+              "Nosite vodootpornu obuću za šetnju između stanica.",
+              "Trajekti imaju grijane interijere.",
               "Koristite lokalne aplikacije za ažuriranja u stvarnom vremenu."
             ]
           }
@@ -1885,7 +1885,7 @@
             "hu": "A téli nap Vela Lukában busszal indul a városközpontban. A Szent József-templom és a Kulturális Központ meglátogatása után a kikötő téli nyugalmát élvezzük. Mivel a Proizd-hajó ritkábban jár, több időt töltünk a városban egy hosszú ebéd kíséretében. Délután a helyi közlekedés közelebb visz minket a Vela Spilához, ahol szinte egyedül fedezhetjük fel az őskori lelőhelyet, mielőtt a meleg busszal visszatérünk.",
             "ro": "Ziua de iarnă în Vela Luka începe cu autobuzul în centrul localității. După vizitarea Bisericii Sfântul Iosif și a Centrului Cultural, ne bucurăm de liniștea iernii în port. Deoarece barca spre Proizd circulă mai rar, petrecem mai mult timp în oraș cu un prânz lung. După-amiaza, transportul local ne duce mai aproape de Vela Spila, unde putem explora situl preistoric aproape singuri, înainte de a ne întoarce cu autobuzul cald.",
             "en": "The winter day in Vela Luka begins with a bus in the town center. After visiting St. Joseph's Church and the Culture Center, we enjoy the winter tranquility in the harbor. Since the Proizd boat runs less frequently, we spend more time in town with a long lunch. In the afternoon, local transport brings us closer to Vela Spila, where we can explore the prehistoric site almost alone before returning on the warm bus.",
-            "hr": "Zimski dan u Veloj Luci počinje autobusom u centru mjesta. Nakon posjeta crkvi sv. Josipa i Centru za kulturu, uživamo u zimskom miru u luci. Budući da brod za Proizd vozi rjeđe, provodimo više vremena u mjestu uz dugi ručak. Poslijepodne nas lokalni prijevoz približava Veloj spili, gdje možemo istražiti prapovijesno nalazište gotovo sami prije povratka toplim autobusom."
+            "hr": "Zimski dan u Vela Luci počinje autobusom u centru grada. Nakon posjeta crkvi sv. Josipa i Kulturnom centru, uživamo u zimskoj tišini u luci. Budući da brod za Proizd vozi rjeđe, više vremena provodimo u gradu uz dug ručak. Poslijepodne nas lokalni prijevoz dovodi bliže Veloj Spili, gdje možemo istražiti prapovijesno nalazište gotovo sami prije povratka toplim autobusom."
           },
           "stops": [
             {
@@ -1895,7 +1895,7 @@
                 "hu": "A buszok télen ritkított menetrend szerint járnak.",
                 "ro": "Autobuzele circulă după un program redus iarna.",
                 "en": "Buses run on a reduced schedule during winter.",
-                "hr": "Autobusi voze po reduciranom rasporedu tijekom zime."
+                "hr": "Autobusi voze po skraćenom rasporedu tijekom zime."
               }
             },
             {
@@ -1905,7 +1905,7 @@
                 "hu": "Használja a múzeumot meleg várakozóhelyként.",
                 "ro": "Folosiți muzeul ca zonă de așteptare caldă.",
                 "en": "Use the museum as a warm waiting area.",
-                "hr": "Koristite muzej kao toplo mjesto za čekanje."
+                "hr": "Iskoristite muzej kao toplu čekaonicu."
               }
             },
             {
@@ -1915,7 +1915,7 @@
                 "hu": "Télen kevés vagy egyetlen kirándulóhajó sem közlekedik.",
                 "ro": "Iarna circulă puține bărci de excursie sau deloc.",
                 "en": "Few or no excursion boats run during winter.",
-                "hr": "Tijekom zime vozi malo ili nimalo izletničkih brodova."
+                "hr": "Malo ili nimalo izletničkih brodova vozi zimi."
               }
             },
             {
@@ -1935,7 +1935,7 @@
                 "hu": "A kikötői éttermek a közösségi élet központjai télen.",
                 "ro": "Restaurantele din port sunt centrul vieții sociale iarna.",
                 "en": "Harbor restaurants are the social hub in winter.",
-                "hr": "Restorani u luci su društveno središte zimi."
+                "hr": "Lučki restorani su društveni centar zimi."
               }
             },
             {
@@ -1945,7 +1945,7 @@
                 "hu": "Ügyeljen rá, hogy elérje az utolsó buszt visszafelé.",
                 "ro": "Asigurați-vă că prindeți ultimul autobuz de întoarcere.",
                 "en": "Make sure to catch the last bus back.",
-                "hr": "Obavezno uhvatite posljednji autobus za povratak."
+                "hr": "Obavezno uhvatite posljednji autobus natrag."
               }
             }
           ],
@@ -1975,10 +1975,10 @@
               "Ask locals about current schedule changes."
             ],
             "hr": [
-              "Zimski raspored se značajno razlikuje od ljetnog.",
-              "Autobusi su zimi često najpouzdanija veza.",
+              "Zimski raspored znatno se razlikuje od ljetnog.",
+              "Autobusi su često najpouzdanija veza zimi.",
               "Riva je najbolje mjesto za čekanje prijevoza zimi.",
-              "Pitajte lokalno stanovništvo o trenutnim promjenama u rasporedu."
+              "Pitajte mještane za aktualne promjene rasporeda."
             ]
           }
         }

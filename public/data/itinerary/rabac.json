@@ -21,7 +21,8 @@
             "de": "Hafen von Rabac",
             "hu": "Rabaci kikötő",
             "ro": "Portul Rabac",
-            "en": "Rabac Port"
+            "en": "Rabac Port",
+            "hr": "Luka Rabac"
           },
           "coords": [
             14.1595,
@@ -37,7 +38,7 @@
             "hu": "Figyelje a halászhajókat egy kávé mellett.",
             "ro": "Urmăriți bărcile de pescuit la o cafea.",
             "en": "Watch the fishing boats over a coffee.",
-            "hr": "Promatrajte ribarske brodice uz kavu."
+            "hr": "Promatrajte ribarske brodove uz kavu."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Kirche St. Andreas",
             "hu": "Szent András templom",
             "ro": "Biserica Sf. Andrei",
-            "en": "St. Andrew Church"
+            "en": "St. Andrew Church",
+            "hr": "Crkva sv. Andrije"
           },
           "coords": [
             14.161,
@@ -61,7 +63,7 @@
             "hu": "A település legrégebbi temploma közvetlenül a parton.",
             "ro": "Cea mai veche biserică din localitate, chiar pe mal.",
             "en": "The oldest church in town right on the shore.",
-            "hr": "Najstarija crkva u gradu, smještena tik uz obalu."
+            "hr": "Najstarija crkva u gradu, odmah uz obalu."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Lungomare Promenade",
             "hu": "Lungomare sétány",
             "ro": "Promenada Lungomare",
-            "en": "Lungomare Promenade"
+            "en": "Lungomare Promenade",
+            "hr": "Lungomare šetnica"
           },
           "coords": [
             14.168,
@@ -85,7 +88,7 @@
             "hu": "Élvezze a fenyőfák árnyékát.",
             "ro": "Bucurați-vă de umbra pinilor.",
             "en": "Enjoy the shade of the pine trees.",
-            "hr": "Uživajte u hladu borova."
+            "hr": "Uživajte u hladovini borova."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Strand Girandella",
             "hu": "Girandella strand",
             "ro": "Plaja Girandella",
-            "en": "Girandella Beach"
+            "en": "Girandella Beach",
+            "hr": "Plaža Girandella"
           },
           "coords": [
             14.173,
@@ -117,7 +121,8 @@
             "de": "Sentonina staza Wasserfall",
             "hu": "Sentonina staza vízesés",
             "ro": "Cascada Sentonina staza",
-            "en": "Sentonina staza Waterfall"
+            "en": "Sentonina staza Waterfall",
+            "hr": "Vodopad Sentonina staza"
           },
           "coords": [
             14.148,
@@ -133,7 +138,7 @@
             "hu": "Egy kicsi, rejtett vízesés az erdőben.",
             "ro": "O mică cascadă ascunsă în pădure.",
             "en": "A small hidden waterfall in the forest.",
-            "hr": "Mali skriveni slap u šumi."
+            "hr": "Mali skriveni vodopad u šumi."
           }
         }
       ],
@@ -142,7 +147,7 @@
         "hu": "Rabac Kelet-Isztria gyöngyszeme. Kezdje a napot a nyüzsgő kikötőben, majd sétáljon el a történelmi Szent András templomhoz. A Lungomare sétány árnyas fenyők alatt vezet a régió legszebb strandjaihoz.\n\nEgy kiadós fürdőzés után a Girandella strandon, a Sentonina staza túraútvonal frissítő kikapcsolódást nyújt a természetben kis vízeséseivel és varázslatos tavaival.",
         "ro": "Rabac este bijuteria Istriei de Est. Începeți ziua în portul plin de viață și mergeți la biserica istorică Sf. Andrei. Promenada Lungomare vă conduce pe sub pini umbroși către cele mai frumoase plaje din regiune.\n\nDupă o oprire prelungită pentru baie la plaja Girandella, poteca Sentonina staza oferă o schimbare revigorantă în natură, cu micile sale cascade și lacuri magice.",
         "en": "Rabac is the pearl of Eastern Istria. Start your day at the lively harbor and walk to the historical St. Andrew's church. The Lungomare promenade leads you under shady pines to the region's most beautiful beaches.\n\nAfter a relaxing swim at Girandella beach, the Sentonina staza trail offers a refreshing natural escape with its small waterfalls and magical lakes.",
-        "hr": "Rabac je biser istočne Istre. Započnite dan u živahnoj luci i prošećite do povijesne crkve sv. Andrije. Šetnica Lungomare vodi vas ispod sjenovitih borova do najljepših plaža u regiji.\n\nNakon opuštajućeg kupanja na plaži Girandella, Sentonina staza nudi osvježavajući bijeg u prirodu sa svojim malim slapovima i čarobnim jezerima."
+        "hr": "Rabac je biser istočne Istre. Počnite dan u živahnoj luci i prošetajte do povijesne crkve sv. Andrije. Lungomare šetnica vodi vas pod hladajućim borovima do najljepših plaža u regiji.\n\nNakon opuštajućeg kupanja na plaži Girandella, staza Sentonina nudi osvježavajući bijeg u prirodu s malim vodopadima i čarobnim jezerima."
       },
       "gastro_picks": {
         "de": [
@@ -237,10 +242,10 @@
           "Arrive early to secure a parking spot at the harbor."
         ],
         "hr": [
-          "Preporučuje se obuća za more zbog šljunka i morskih ježinaca.",
-          "Šetnica je vrlo živahna u večernjim satima.",
-          "Za Sentoninu stazu potrebna je čvrsta obuća.",
-          "Dođite ranije kako biste osigurali parkirno mjesto u luci."
+          "Preporučuju se vodene cipele zbog šljunka i ježinaca.",
+          "Šetnica je navečer vrlo živa.",
+          "Za stazu Sentonina potrebne su čvrste cipele.",
+          "Dođite rano kako biste osigurali mjesto za parkiranje u luci."
         ]
       },
       "variants": {
@@ -250,7 +255,7 @@
             "hu": "Reggel a ködös kikötőben kezdünk. Délben a Szent András-templom nyújt menedéket az eső elől. Délután a sétány kihalt, de a viharos tenger látványa lenyűgöző. Este az eső misztikus, kísérteties hangulatot kölcsönöz a Teleferika romjainak a szürkületben.",
             "ro": "Dimineața începe în portul învăluit în ceață. La prânz, biserica Sf. Andrei oferă un adăpost uscat. După-amiaza, faleza este pustie, dar marea agitată oferă un spectacol grandios. Seara, ploaia transformă ruinele Teleferika într-un loc mistic și plin de mister.",
             "en": "Start the morning at the misty harbor. At noon, St. Andrew's Church provides a dry refuge. In the afternoon, the promenade is empty, but the stormy Adriatic looks impressive. By evening, the rain adds a mystical, almost ghostly atmosphere to the Teleferika ruins.",
-            "hr": "Započnite jutro u maglovitoj luci. U podne crkva sv. Andrije pruža suho utočište. Poslijepodne je šetnica prazna, ali olujni Jadran izgleda impresivno. Do večeri kiša dodaje mističnu, gotovo sablasnu atmosferu ruševinama Teleferike."
+            "hr": "Počnite jutro na maglovitoj luci. U podne crkva sv. Andrije pruža suhi zaklon. Poslijepodne je šetnica prazna, ali burni Jadran izgleda impresivno. Uvečer kiša daje mističnu, gotovo sablasnu atmosferu ruinama Teleferike."
           },
           "stops": [
             {
@@ -260,7 +265,7 @@
                 "hu": "Erősen fogja az esernyőt, a kikötőben gyakran fúj a szél.",
                 "ro": "Țineți umbrela bine, vântul suflă tare în port.",
                 "en": "Hold your umbrella tight, it's often windy at the harbor.",
-                "hr": "Čvrsto držite kišobran, u luci je često vjetrovito."
+                "hr": "Čvrsto držite kišobran, često je vjetrovito u luci."
               }
             },
             {
@@ -270,7 +275,7 @@
                 "hu": "Kiváló hely egy rövid pihenőre, amíg eláll az eső.",
                 "ro": "Un loc bun pentru a sta la adăpost și a vă reculege.",
                 "en": "A great place to dry off for a bit and find peace.",
-                "hr": "Sjajno mjesto za kratko sušenje i pronalazak mira."
+                "hr": "Odlično mjesto za malo osušiti se i pronaći mir."
               }
             },
             {
@@ -280,7 +285,7 @@
                 "hu": "Vigyázzon a vizes köveken, könnyen megcsúszhat!",
                 "ro": "Atenție pe pietrele ude, pericol de alunecare!",
                 "en": "Watch your step on the wet stones, they can be slippery.",
-                "hr": "Pazite na korak na mokrom kamenju, može biti klizavo."
+                "hr": "Pazite na mokre kamene, mogu biti klizavi."
               }
             },
             {
@@ -290,7 +295,7 @@
                 "hu": "Élvezze a háborgó tenger látványát egy fedett teraszról.",
                 "ro": "Admirați marea învolburată de sub un acoperiș fix.",
                 "en": "Enjoy the roaring sea from under a solid roof.",
-                "hr": "Uživajte u hučanju mora pod čvrstim krovom."
+                "hr": "Uživajte u bučnom moru iz pod čvrste nadstrešnice."
               }
             },
             {
@@ -310,7 +315,7 @@
                 "hu": "Zárt cipő ajánlott, az ösvény sáros lehet.",
                 "ro": "Încălțăminte solidă necesară, poteca poate fi noroioasă.",
                 "en": "Sturdy shoes needed, the path can be muddy.",
-                "hr": "Potrebna je čvrsta obuća, staza može biti blatnjava."
+                "hr": "Potrebne su čvrste cipele, staza može biti blatnjava."
               }
             }
           ],
@@ -344,11 +349,11 @@
               "Watch out for salt water spray on the promenade."
             ],
             "hr": [
-              "Nosite nepropusnu jaknu umjesto kišobrana.",
-              "Lučki zid nudi sjajne prilike za fotografiranje kad su valovi visoki.",
-              "Iskoristite posjet crkvi kao predah od kiše.",
-              "Ugostiteljski objekti uz luku savršeni su za zagrijavanje.",
-              "Pazite na prskanje morske soli na šetnici."
+              "Nosite vjetrootpornu kabanicu umjesto kišobrana.",
+              "Luka se zid pruža odlične fotomotivе kad su valovi visoki.",
+              "Iskoristite posjet crkvi kao pauzu od kiše.",
+              "Riverske/lučke konobe idealne su za zagrijavanje.",
+              "Pazite na prskanje slane vode na šetnici."
             ]
           }
         },
@@ -358,7 +363,7 @@
             "hu": "Friss téli reggel a csendes kikötőben. Délben az alacsonyan járó nap sugarai melengetik a templom falát. Délután a strandok kristálytiszta téli fényben tündökölnek, messze a nyári tömegtől. Az estét a helyiek által kedvelt kávézókban zárjuk, ahogy korán sötétedik.",
             "ro": "O dimineață răcoroasă de iarnă în portul liniștit. La prânz, soarele blând încălzește zidurile bisericii. După-amiaza, plajele strălucesc într-o lumină clară, departe de agitația verii. Seara se încheie în cafenelele din centru, pe măsură ce se înserează devreme.",
             "en": "A crisp winter morning at the quiet harbor. At noon, the low sun warms the church walls. In the afternoon, the beaches glow in clear winter light, far from the summer crowds. The evening ends in the lively cafes of the town center as darkness falls early.",
-            "hr": "Vedro zimsko jutro u tihoj luci. U podne nisko sunce grije zidove crkve. Poslijepodne plaže sjaje na čistom zimskom svjetlu, daleko od ljetnih gužvi. Večer završava u živahnim kafićima u centru grada dok mrak rano pada."
+            "hr": "Oštro zimsko jutro u tihoj luci. U podne nisko sunce grije zidove crkve. Poslijepodne plaže blistaju u jasnom zimskom svjetlu, daleko od ljetnih gužvi. Večer završava u živahnim kafićima centra grada dok se rano spušta tama."
           },
           "stops": [
             {
@@ -368,7 +373,7 @@
                 "hu": "Élvezze a kávét úgy, mint a helyiek, a téli napfényben.",
                 "ro": "Savurați o cafea la soare, exact ca localnicii.",
                 "en": "Enjoy a coffee in the sun just like the locals do.",
-                "hr": "Uživajte u kavi na suncu baš kao i mještani."
+                "hr": "Uživajte u kavi na suncu kao i mještani."
               }
             },
             {
@@ -378,7 +383,7 @@
                 "hu": "Gyakran csak misék idején van nyitva, nézze meg kívülről.",
                 "ro": "Deschisă des doar pentru slujbe, admirați fațada.",
                 "en": "Often open only for services, admire the facade.",
-                "hr": "Često otvorena samo za bogoslužje, divite se pročelju."
+                "hr": "Često otvorena samo za mise, divite se pročelju."
               }
             },
             {
@@ -388,7 +393,7 @@
                 "hu": "Tökéletes tempós sétához a hűvös időben.",
                 "ro": "Ideală pentru o plimbare energică pe temperaturi scăzute.",
                 "en": "Perfect for brisk walking in the cool temperatures.",
-                "hr": "Savršeno za brzu šetnju na hladnim temperaturama."
+                "hr": "Savršeno za brze šetnje u svježim temperaturama."
               }
             },
             {
@@ -398,7 +403,7 @@
                 "hu": "A téli magány itt megfizethetetlen élmény.",
                 "ro": "Liniștea de aici pe timp de iarnă este de neprețuit.",
                 "en": "The solitude here in winter is priceless.",
-                "hr": "Samoća ovdje zimi je neprocjenjiva."
+                "hr": "Solituda ovdje zimi je neprocjenjiva."
               }
             },
             {
@@ -408,7 +413,7 @@
                 "hu": "Ideális hely naplementés fotókhoz 16:30 körül.",
                 "ro": "Loc ideal pentru fotografii la apus, în jur de 16:30.",
                 "en": "Ideal spot for sunset photos around 4:30 PM.",
-                "hr": "Idealno mjesto za fotografije zalaska sunca oko 16:30."
+                "hr": "Idealno mjesto za zalazak sunca oko 16:30."
               }
             },
             {
@@ -418,7 +423,7 @@
                 "hu": "Élvezze a tiszta kilátást a szemközti Cres-szigetre.",
                 "ro": "Bucurați-vă de vizibilitatea clară spre insula Cres.",
                 "en": "Enjoy the clear views towards Cres Island.",
-                "hr": "Uživajte u čistom pogledu prema otoku Cresu."
+                "hr": "Uživajte u jasnom pogledu prema otoku Cres."
               }
             }
           ],
@@ -452,9 +457,9 @@
               "Bring warm drinks in a thermos for the walk."
             ],
             "hr": [
-              "Obucite se slojevito kako biste se zaštitili od hladnog vjetra.",
-              "Zimi sunce rano nestaje iza brda.",
-              "Mnogi barovi na plaži su zatvoreni, potražite mjesta u centru.",
+              "Obucite se u slojevima zbog hladnog vjetra.",
+              "Zimi sunce rano nestaje iza brežuljaka.",
+              "Mnogi beach barovi su zatvoreni, potražite mjesta u centru.",
               "Zrak je zimi izuzetno čist i zdrav.",
               "Ponesite tople napitke u termosici za šetnju."
             ]

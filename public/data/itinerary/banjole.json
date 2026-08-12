@@ -21,7 +21,8 @@
             "de": "Fischereihafen Paltana",
             "hu": "Paltana halászkikötő",
             "ro": "Portul de pescuit Paltana",
-            "en": "Paltana Fishing Port"
+            "en": "Paltana Fishing Port",
+            "hr": "Ribarska luka Paltana"
           },
           "coords": [
             13.8705,
@@ -37,7 +38,7 @@
             "hu": "A halászbárkák általában 6–8 óra közt kötnek ki – érkezzen korán a friss fogáshoz a rakparton.",
             "ro": "Bărcile de pescuit vin la mal între 6 și 8 dimineața – veniți devreme pentru captura proaspătă.",
             "en": "Fishing boats dock between 6 and 8 AM – arrive early to see the catch unloaded on the quay.",
-            "hr": "Ribarski brodovi pristaju između 6 i 8 ujutro – dođite rano da vidite istovar ulova na gatu."
+            "hr": "Ribarski čamci pristaju između 6 i 8 sati – dođite rano da vidite iskrcaj ulova na rivi."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Kirche Muttergottes vom Meer",
             "hu": "Tengeri Boldogasszony templom",
             "ro": "Biserica Maicii Domnului de pe Mare",
-            "en": "Church of Our Lady of the Sea"
+            "en": "Church of Our Lady of the Sea",
+            "hr": "Crkva Gospe od Mora"
           },
           "coords": [
             13.8745,
@@ -61,7 +63,7 @@
             "hu": "Román stílusú, 15. századi templom; az oldalbejárat velencei kőfaragványokat mutat.",
             "ro": "Biserică romanică din sec. XV; portalul lateral prezintă sculptură în piatră venețiană.",
             "en": "Romanesque church from the 15th century; the side portal features Venetian stone carving.",
-            "hr": "Romanička crkva iz 15. stoljeća; bočni portal krasi venecijanski klesani kamen."
+            "hr": "Romanika iz 15. stoljeća; bočni portal krase venecijanski kameni rezbarije."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Bucht Portić",
             "hu": "Portić-öböl",
             "ro": "Golful Portić",
-            "en": "Portić Bay"
+            "en": "Portić Bay",
+            "hr": "Uvala Portić"
           },
           "coords": [
             13.865,
@@ -85,7 +88,7 @@
             "hu": "Sekély, csendes víz – tökéletes sziklaközti snorkelezésre, belépőjegy nélkül.",
             "ro": "Apă puțin adâncă și liniștită – ideală pentru snorkeling printre stânci, fără taxă.",
             "en": "Shallow, calm water – ideal for snorkelling among the rocks, no entry fee.",
-            "hr": "Plitka, mirna voda – idealna za ronjenje među stijenama, nema naplate ulaza."
+            "hr": "Plitka, mirna voda – idealna za ronjenje među stijenama, nema ulaznice."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Strand Centinera",
             "hu": "Centinera strand",
             "ro": "Plaja Centinera",
-            "en": "Centinera Beach"
+            "en": "Centinera Beach",
+            "hr": "Plaža Centinera"
           },
           "coords": [
             13.855,
@@ -109,7 +113,7 @@
             "hu": "Nincs liegestuhl-szolgáltatás, nincs belépő – hozzon törölközőt; a büfé csak nyáron üzemel.",
             "ro": "Fără șezlonguri, fără taxă – aduceți prosop propriu; chioșcul funcționează doar vara.",
             "en": "No lounger service, no entry fee – bring your own towel; the kiosk is only open in summer.",
-            "hr": "Nema usluge ležaljki, nema naplate ulaza – ponesite svoj ručnik; kiosk radi samo ljeti."
+            "hr": "Nema usluge ležaljki, nema ulaznice – ponesite vlastiti ručnik; kiosk radi samo ljeti."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Naturlehrpfad Bumbište",
             "hu": "Bumbište tanösvény",
             "ro": "Traseul educativ Bumbište",
-            "en": "Bumbište Nature Trail"
+            "en": "Bumbište Nature Trail",
+            "hr": "Staza prirode Bumbište"
           },
           "coords": [
             13.845,
@@ -133,7 +138,7 @@
             "hu": "Derült időben innen látható Cres szigete – legjobb fény naplementekor, kb. 19 órakor.",
             "ro": "Pe vreme senină se vede insula Cres – cea mai bună lumină la apus, în jurul orei 19.",
             "en": "On clear days you can see Cres island from here – best light at sunset around 7 PM.",
-            "hr": "Za vedrih dana odavde se vidi otok Cres – najbolje svjetlo je pri zalasku sunca oko 19 sati."
+            "hr": "U vedrim danima s ovdje možete vidjeti otok Cres – najbolja svjetlost oko zalaska sunca, otprilike u 19:00."
           }
         }
       ],
@@ -142,7 +147,7 @@
         "hu": "Banjole a nyugalom és a halászati hagyományok otthona. Reggelünket a Paltana kikötőben kezdjük, megfigyelve a napi fogást hozó bárkákat. A Tengeri Boldogasszony templom megtekintése után a Portić-öböl kristálytiszta vizét csodáljuk meg. Délután a Centinera strandon pihenünk a fenyők árnyékában, majd a napot a Bumbište félsziget vadregényes tanösvényén, a tenger sós illatával fejezzük be.",
         "ro": "Banjole este un paradis pentru cei care caută atmosfera autentică a unui sat de pescari. Începem dimineața în portul pitoresc Paltana, unde tradiția pescuitului este încă vie. După o vizită la fermecătoarea biserică a Maicii Domnului de pe Mare, ne plimbăm spre Golful Portić. După-amiaza este dedicată relaxării pe plaja Centinera, sub pini. Încheiem ziua cu o plimbare pe peninsula Bumbište.",
         "en": "Banjole is a paradise for those seeking an authentic fishing village feel. We start the morning in the picturesque Paltana harbor, where fishing traditions are still very much alive. After visiting the charming Church of Our Lady of the Sea, we stroll to Portić Bay. The afternoon is spent relaxing at Centinera Beach under the pines. We finish the day with a scenic walk on the Bumbište peninsula.",
-        "hr": "Banjole su raj za one koji traže autentični ugođaj ribarskog sela. Jutro započinjemo u slikovitoj lučici Paltana, gdje je ribarska tradicija i dalje vrlo živa. Nakon posjeta šarmantnoj crkvi Majke Božje od Mora, šetamo do uvale Portić. Poslijepodne provodimo opuštajući se na plaži Centinera pod borovima. Dan završavamo slikovitom šetnjom poluotokom Bumbište."
+        "hr": "Banjole su raj za one koji traže autentičan ribarski ugođaj. Jutro započinjemo u slikovitoj luci Paltana, gdje su ribarske tradicije još žive. Nakon posjeta šarmantnoj Crkvi Gospe od Mora, prošetamo do uvale Portić. Poslijepodne provodimo opuštajući se na plaži Centinera pod borovima. Dan završavamo razglednom šetnjom poluotokom Bumbište."
       },
       "gastro_picks": {
         "de": [
@@ -344,12 +349,12 @@
           "In July–August Batelina is fully booked – reserve dinner at least 2 days in advance."
         ],
         "hr": [
-          "Banjole su prilično brdovite – neophodna je obuća s dobrim prianjanjem, japanke nisu prikladne.",
+          "Banjole su vrlo brdovite – potrebne su cipele s dobrim prianjanjem, japanke nisu prikladne.",
           "Konoba Batelina nema jelovnik; pitajte što je danas svježe i nazovite unaprijed za rezervaciju.",
-          "U selu nema bankomata – unaprijed podignite gotovinu u Puli, najbliži aparat je udaljen oko 4 km.",
+          "U selu nema bankomata – podignite gotovinu unaprijed u Puli, najbliži aparat je oko 4 km udaljen.",
           "Plaža Centinera nema spasioca – plivajte samo u mirnim uvjetima.",
-          "Seoski parking je besplatan, ali ograničen – dođite rano ili parkirajte na gatu Paltana.",
-          "U srpnju i kolovozu Batelina je potpuno popunjena – rezervirajte večeru barem 2 dana unaprijed."
+          "Parkiranje u selu je besplatno, ali ograničeno – dođite rano ili parkirajte na rivi Paltana.",
+          "U srpnju–kolovozu Batelina je potpuno rezervirana – rezervirajte večeru najmanje 2 dana unaprijed."
         ]
       },
       "variants": {
@@ -358,7 +363,8 @@
             "de": "Banjole ist ein Paradies für alle, die das authentische Fischerdorf-Gefühl suchen. Wir starten am Morgen im malerischen Hafen Paltana, wo die Fischereitradition noch lebendig ist. Nach einem Besuch der charmanten Kirche Muttergottes vom Meer schlendern wir zur Bucht Portić. Der Nachmittag gehört der Entspannung am Strand Centinera unter Pinien. Den Tag lassen wir mit einem Spaziergang auf der Halbinsel Bumbište ausklingen.",
             "hu": "Banjole a nyugalom és a halászati hagyományok otthona. Reggelünket a Paltana kikötőben kezdjük, megfigyelve a napi fogást hozó bárkákat. A Tengeri Boldogasszony templom megtekintése után a Portić-öböl kristálytiszta vizét csodáljuk meg. Délután a Centinera strandon pihenünk a fenyők árnyékában, majd a napot a Bumbište félsziget vadregényes tanösvényén, a tenger sós illatával fejezzük be.",
             "ro": "Banjole este un paradis pentru cei care caută atmosfera autentică a unui sat de pescari. Începem dimineața în portul pitoresc Paltana, unde tradiția pescuitului este încă vie. După o vizită la fermecătoarea biserică a Maicii Domnului de pe Mare, ne plimbăm spre Golful Portić. După-amiaza este dedicată relaxării pe plaja Centinera, sub pini. Încheiem ziua cu o plimbare pe peninsula Bumbište.",
-            "en": "Banjole is a paradise for those seeking an authentic fishing village feel. We start the morning in the picturesque Paltana harbor, where fishing traditions are still very much alive. After visiting the charming Church of Our Lady of the Sea, we stroll to Portić Bay. The afternoon is spent relaxing at Centinera Beach under the pines. We finish the day with a scenic walk on the Bumbište peninsula."
+            "en": "Banjole is a paradise for those seeking an authentic fishing village feel. We start the morning in the picturesque Paltana harbor, where fishing traditions are still very much alive. After visiting the charming Church of Our Lady of the Sea, we stroll to Portić Bay. The afternoon is spent relaxing at Centinera Beach under the pines. We finish the day with a scenic walk on the Bumbište peninsula.",
+            "hr": "Banjole su raj za one koji traže autentičan ribarski ugođaj. Jutro započinjemo u slikovitoj luci Paltana, gdje su ribarske tradicije još žive. Nakon posjeta šarmantnoj Crkvi Gospe od Mora, prošetamo do uvale Portić. Poslijepodne provodimo opuštajući se na plaži Centinera pod borovima. Dan završavamo razglednom šetnjom poluotokom Bumbište."
           },
           "stops": [
             {
@@ -366,13 +372,15 @@
                 "de": "Fischereihafen Paltana",
                 "hu": "Paltana halászkikötő",
                 "ro": "Portul de pescuit Paltana",
-                "en": "Paltana Fishing Port"
+                "en": "Paltana Fishing Port",
+                "hr": "Ribarska luka Paltana"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie die Fischer beim Einholen der Netze.",
                 "hu": "Nézze meg a halászokat hálójavítás közben.",
                 "ro": "Urmăriți pescarii care își repară plasele.",
-                "en": "Watch the fishermen repairing their nets."
+                "en": "Watch the fishermen repairing their nets.",
+                "hr": "Pogledajte ribare kako popravljaju mreže."
               }
             },
             {
@@ -380,13 +388,15 @@
                 "de": "Kirche Muttergottes vom Meer",
                 "hu": "Tengeri Boldogasszony templom",
                 "ro": "Biserica Maicii Domnului de pe Mare",
-                "en": "Church of Our Lady of the Sea"
+                "en": "Church of Our Lady of the Sea",
+                "hr": "Crkva Gospe od Mora"
               },
               "tip_5lang": {
                 "de": "Ein Ort der Ruhe direkt über der Küste.",
                 "hu": "A nyugalom szigete közvetlenül a part felett.",
                 "ro": "Un loc de liniște chiar deasupra coastei.",
-                "en": "A place of peace right above the coast."
+                "en": "A place of peace right above the coast.",
+                "hr": "Mjesto mira odmah iznad obale."
               }
             },
             {
@@ -394,13 +404,15 @@
                 "de": "Bucht Portić",
                 "hu": "Portić-öböl",
                 "ro": "Golful Portić",
-                "en": "Portić Bay"
+                "en": "Portić Bay",
+                "hr": "Uvala Portić"
               },
               "tip_5lang": {
                 "de": "Perfekt für ein spätes Frühstück am Wasser.",
                 "hu": "Tökéletes hely egy kései reggelihez a víznél.",
                 "ro": "Perfect pentru un mic dejun târziu lângă apă.",
-                "en": "Perfect for a late breakfast by the water."
+                "en": "Perfect for a late breakfast by the water.",
+                "hr": "Savršeno za kasni doručak uz vodu."
               }
             },
             {
@@ -408,13 +420,15 @@
                 "de": "Strand Centinera",
                 "hu": "Centinera strand",
                 "ro": "Plaja Centinera",
-                "en": "Centinera Beach"
+                "en": "Centinera Beach",
+                "hr": "Plaža Centinera"
               },
               "tip_5lang": {
                 "de": "Schatten spendende Pinien säumen den Kiesstrand.",
                 "hu": "Árnyas fenyők szegélyezik a kavicsos partot.",
                 "ro": "Pinii umbroși mărginesc plaja cu pietriș.",
-                "en": "Shady pines line the pebble beach."
+                "en": "Shady pines line the pebble beach.",
+                "hr": "Sjenoviti borovi obrubljuju šljunčanu plažu."
               }
             },
             {
@@ -422,13 +436,15 @@
                 "de": "Naturlehrpfad Bumbište",
                 "hu": "Bumbište tanösvény",
                 "ro": "Traseul educativ Bumbište",
-                "en": "Bumbište Nature Trail"
+                "en": "Bumbište Nature Trail",
+                "hr": "Staza prirode Bumbište"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den weiten Blick auf das offene Meer.",
                 "hu": "Élvezze a tágas kilátást a nyílt tengerre.",
                 "ro": "Bucurați-vă de priveliștea largă spre largul mării.",
-                "en": "Enjoy the wide view of the open sea."
+                "en": "Enjoy the wide view of the open sea.",
+                "hr": "Uživajte u širokom pogledu na otvoreno more."
               }
             }
           ],
@@ -530,6 +546,10 @@
             "en": [
               "Banjole is quite hilly, so wear sturdy walking shoes.",
               "The local restaurants are among the best fish eateries in Istria."
+            ],
+            "hr": [
+              "Banjole su prilično brdovite, zato nosite čvrste cipele za hodanje.",
+              "Lokalni restorani spadaju među najbolje riblje lokacije u Istri."
             ]
           }
         },
@@ -539,7 +559,7 @@
             "hu": "Kezdje a sétát esernyővel a Paltana halászkikötőnél. A Tengeri Miasszonyunk templom kiváló menedék a záporok elől. Délben élvezze a drámai tengeri kilátást a Portić-öbölnél. Délután a Centinera strand szeles, vad arcát mutatja, majd a Bumbište ösvényen zárja a borongós, de frissítő napot.",
             "ro": "Începeți plimbarea la portul Paltana sub umbrelă. Biserica Maicii Domnului oferă un refugiu excelent de ploaie. La prânz, admirați priveliștea dramatică a mării la Golful Portić. După-amiaza, plaja Centinera oferă un peisaj sălbatic și vântos, înainte de a explora traseul Bumbište pe ploaie măruntă.",
             "en": "Start your walk at Paltana fishing port with an umbrella. The Church of Our Lady of the Sea is a great dry refuge. At noon, enjoy the dramatic sea views at Portić Bay. In the afternoon, Centinera Beach shows its wild, windy side before you explore the Bumbište trail in the light rain.",
-            "hr": "Započnite šetnju u ribarskoj luci Paltana s kišobranom. Crkva Majke Božje od Mora odlično je suho utočište. U podne uživajte u dramatičnom pogledu na more u uvali Portić. Poslijepodne plaža Centinera pokazuje svoju divlju, vjetrovitu stranu prije nego što istražite stazu Bumbište po laganoj kiši."
+            "hr": "Počnite šetnju u ribarskoj luci Paltana s kišobranom. Crkva Gospe od Mora je odlično suho utočište. U podne uživajte u dramatičnim pogledima mora u uvali Portić. Poslijepodne plaža Centinera pokazuje svoju divlju, vjetrovitu stranu prije nego što istražite stazu Bumbište po slaboj kiši."
           },
           "stops": [
             {
@@ -559,7 +579,7 @@
                 "hu": "Kiváló menedék egy nagyobb zápor idején.",
                 "ro": "Un refugiu excelent în timpul unei ploi torențiale.",
                 "en": "A perfect shelter during a heavy downpour.",
-                "hr": "Savršeno sklonište tijekom jakog pljuska."
+                "hr": "Savršeno utočište tijekom jake pljuska."
               }
             },
             {
@@ -569,7 +589,7 @@
                 "hu": "A szél befújhatja az esőt, vigyen esőkabátot.",
                 "ro": "Vântul poate aduce ploaia, luați o pelerină.",
                 "en": "Wind might blow rain here, bring a raincoat.",
-                "hr": "Vjetar ovdje može nanositi kišu, ponesite kabanicu."
+                "hr": "Vjetar može nositi kišu ovdje, ponesite kabanicu."
               }
             },
             {
@@ -579,7 +599,7 @@
                 "hu": "A közeli kávézókban melegedhet fel.",
                 "ro": "Încălziți-vă în cafenelele din apropiere.",
                 "en": "Warm up in the nearby cafes.",
-                "hr": "Ugrijte se u obližnjim kafićima."
+                "hr": "Zagrijte se u obližnjim kafićima."
               }
             },
             {
@@ -619,10 +639,10 @@
               "Watch your step on wet stones along the beach."
             ],
             "hr": [
-              "Vodootporna odjeća je neophodna u Banjolama.",
-              "Obalne staze nude vrlo malo zaklona.",
-              "Crkve i kafići su najbolji izbor za ostati suh.",
-              "Pazite na korak na mokrom kamenju uz plažu."
+              "Vodonepropusna odjeća je nužna u Banjolama.",
+              "Obalni putovi nude vrlo malo zaklona.",
+              "Crkve i kafići su najbolja opcija za ostati suhim.",
+              "Pazite gdje gazite na mokrim kamenima uz plažu."
             ]
           }
         },
@@ -632,7 +652,7 @@
             "hu": "Fedezze fel a téli Paltana kikötőt a friss reggeli levegőn. A templom csendes nyugalmat áraszt a holtszezonban. Délben a Portić-öböl fagyos, elhagyatott szépségében gyönyörködhet. Délután tegyen egy csendes sétát a Centinera strandon, mielőtt a nap korán lebukik a Bumbište ösvénynél.",
             "ro": "Explorați portul de iarnă Paltana în aerul proaspăt al dimineții. Biserica oferă o liniște deplină în extrasezon. La prânz, Golful Portić este de o frumusețe înghețată și pustie. După-amiaza, plimbați-vă pe plaja Centinera înainte ca soarele să apună devreme pe traseul Bumbište.",
             "en": "Explore the wintery Paltana port in the crisp morning air. The church radiates peacefulness in the off-season. At noon, Portić Bay offers lonely, frosty beauty without the crowds. In the afternoon, enjoy a quiet walk on Centinera Beach before the early sunset on the Bumbište trail.",
-            "hr": "Istražite zimsku luku Paltana na oštrom jutarnjem zraku. Crkva zrači mirom izvan sezone. U podne uvala Portić nudi samotnu, mraznu ljepotu bez gužvi. Poslijepodne uživajte u tihoj šetnji plažom Centinera prije ranog zalaska sunca na stazi Bumbište."
+            "hr": "Istražite zimski Paltana port u svježem jutarnjem zraku. Crkva zrači mirom izvan sezone. U podne uvala Portić nudi usamljenu, zaleđenu ljepotu bez gužve. Poslijepodne uživajte u mirnoj šetnji plažom Centinera prije ranog zalaska sunca na stazi Bumbište."
           },
           "stops": [
             {
@@ -642,7 +662,7 @@
                 "hu": "Réteges öltözet ajánlott a szeles kikötőben.",
                 "ro": "Îmbrăcați-vă în straturi în portul vântos.",
                 "en": "Layer up for the windy harbor.",
-                "hr": "Slojevito se obucite za vjetrovitu luku."
+                "hr": "Obucite se u slojevima zbog vjetrovitog pristaništa."
               }
             },
             {
@@ -652,7 +672,7 @@
                 "hu": "A templom belsejében is hideg lehet.",
                 "ro": "În interiorul bisericii poate fi destul de frig.",
                 "en": "It can still be chilly inside the church.",
-                "hr": "Unutar crkve i dalje može biti hladno."
+                "hr": "Unutrašnjost crkve može i dalje biti hladna."
               }
             },
             {
@@ -662,7 +682,7 @@
                 "hu": "A téli napfény kiváló fotótémát nyújt.",
                 "ro": "Lumina soarelui de iarnă este perfectă pentru poze.",
                 "en": "The winter sunlight is great for photos.",
-                "hr": "Zimsko sunce je izvrsno za fotografije."
+                "hr": "Zimsko sunce je odlično za fotografije."
               }
             },
             {
@@ -672,7 +692,7 @@
                 "hu": "A strandbárok többsége télen zárva tart.",
                 "ro": "Majoritatea barurilor de pe plajă sunt închise.",
                 "en": "Almost all beach bars are closed in winter.",
-                "hr": "Gotovo svi barovi na plaži su zatvoreni zimi."
+                "hr": "Gotovo svi beach barovi su zatvoreni zimi."
               }
             },
             {
@@ -682,7 +702,7 @@
                 "hu": "A korai sötétedés miatt időben induljon vissza.",
                 "ro": "Planificați-vă întoarcerea înainte să se întunece.",
                 "en": "Head back early due to the early sunset.",
-                "hr": "Krenite natrag rano zbog ranog zalaska sunca."
+                "hr": "Vratite se ranije zbog ranog zalaska sunca."
               }
             }
           ],
@@ -713,9 +733,9 @@
             ],
             "hr": [
               "Mnogi restorani u Banjolama su zatvoreni tijekom zime.",
-              "Sunce zalazi rano, oko 16:30 sati.",
-              "Topla odjeća otporna na vjetar obavezna je na obali.",
-              "Uživajte u miru bez ljetnih turista."
+              "Sunce zalazi rano, oko 16:30.",
+              "Topla, vjetrootporna odjeća obavezna je na obali.",
+              "Uživajte u mirnoći bez ljetnih turista."
             ]
           }
         }
@@ -734,7 +754,8 @@
             "de": "Yachthafen Volme",
             "hu": "Volme jachtkikötő",
             "ro": "Marina Volme",
-            "en": "Volme Marina"
+            "en": "Volme Marina",
+            "hr": "Marina Volme"
           },
           "coords": [
             13.885,
@@ -750,7 +771,7 @@
             "hu": "Bérkeriékpár Pulában van, Banjole-ban nem – előre foglalja vagy hozza magával.",
             "ro": "Biciclete de închiriat în Pula, nu în Banjole – rezervați în avans sau aduceți propria bicicletă.",
             "en": "Bike rentals are in Pula, not in Banjole – book in advance or bring your own bike.",
-            "hr": "Najam bicikala je u Puli, ne u Banjolama – rezervirajte unaprijed ili ponesite svoj."
+            "hr": "Iznajmljivanje bicikala je u Puli, ne u Banjolama – rezervirajte unaprijed ili ponesite vlastiti bicikl."
           }
         },
         {
@@ -758,7 +779,8 @@
             "de": "Bucht Kanalić",
             "hu": "Kanalić-öböl",
             "ro": "Golful Kanalić",
-            "en": "Kanalić Bay"
+            "en": "Kanalić Bay",
+            "hr": "Uvala Kanalić"
           },
           "coords": [
             13.89,
@@ -774,7 +796,7 @@
             "hu": "Rejtett öböl – a 300 m-es burkolatlan ösvény MTB-vel vagy trekkingkerékpárral jól járható.",
             "ro": "Golf ascuns – drumul pietruit de 300 m e bine practicabil cu MTB sau bicicletă de trekking.",
             "en": "Hidden bay – the 300 m unpaved track is easily rideable with an MTB or trekking bike.",
-            "hr": "Skrivena uvala – 300 m makadamske staze lako je prohodno MTB ili trekking biciklom."
+            "hr": "Skrivena uvala – neasfaltirana staza od 300 m lako se prelazi MTB-om ili trekking biciklom."
           }
         },
         {
@@ -782,7 +804,8 @@
             "de": "Bucht Soline",
             "hu": "Soline-öböl",
             "ro": "Golful Soline",
-            "en": "Soline Bay"
+            "en": "Soline Bay",
+            "hr": "Uvala Soline"
           },
           "coords": [
             13.868,
@@ -798,7 +821,7 @@
             "hu": "Csendes sekély víz, tökéletes frissítő pihenőhöz; nincs büfé – hozzon vizet magával.",
             "ro": "Apă liniștită puțin adâncă, perfectă pentru o pauză de răcorire; fără chioșc – aduceți apă.",
             "en": "Calm shallow water, perfect for a refreshment break; no kiosk – bring your own water.",
-            "hr": "Mirna plitka voda, savršena za osvježenje; nema kioska – ponesite svoju vodu."
+            "hr": "Mirna plitka voda, idealna za osvježenje; nema kioska – ponesite vlastitu vodu."
           }
         },
         {
@@ -806,7 +829,8 @@
             "de": "Strand Centinera",
             "hu": "Centinera strand",
             "ro": "Plaja Centinera",
-            "en": "Centinera Beach"
+            "en": "Centinera Beach",
+            "hr": "Plaža Centinera"
           },
           "coords": [
             13.855,
@@ -822,7 +846,7 @@
             "hu": "Kerékpárokat a kavicsos strand fenyői alatt parkolhatja – láncos zár ajánlott.",
             "ro": "Parcați bicicletele sub pinii de pe plaja pietroasă – lacăt cu lanț recomandat.",
             "en": "Park bikes under the pines on the pebble beach – a chain lock is recommended here.",
-            "hr": "Parkirajte bicikle pod borovima na šljunčanoj plaži – preporučuje se lanac za zaključavanje."
+            "hr": "Ostavite bicikle pod borovima na šljunčanoj plaži – preporučena je lančana brava."
           }
         },
         {
@@ -830,7 +854,8 @@
             "de": "Naturlehrpfad Bumbište",
             "hu": "Bumbište tanösvény",
             "ro": "Traseul educativ Bumbište",
-            "en": "Bumbište Nature Trail"
+            "en": "Bumbište Nature Trail",
+            "hr": "Staza prirode Bumbište"
           },
           "coords": [
             13.845,
@@ -846,7 +871,7 @@
             "hu": "Szűk ösvények a félszigeten – legalább trekkingkerékpár; MTB a kavicsos kap-utakhoz.",
             "ro": "Poteci înguste pe peninsulă – cel puțin bicicletă de trekking; MTB pentru drumurile de la cap.",
             "en": "Narrow paths on the peninsula – at minimum a trekking bike; MTB for the gravel tracks at the cape.",
-            "hr": "Uske staze na poluotoku – minimalno trekking bicikl; MTB za makadam na rtu."
+            "hr": "Uske staze na poluotoku – minimalno trekking bicikl; MTB za šljunčane staze na rtovima."
           }
         }
       ],
@@ -855,7 +880,7 @@
         "hu": "Ez a kerékpártúra összeköti a modern jachtkikötőket az érintetlen természettel. Volméból indulva a Kanalić és Soline öblök mentén tekerünk, ahol a tenger csendje dominál. A Centinera strandon tartott pihenő után két keréken fedezzük fel a Bumbište-félszigetet. Az útvonal folyamatos kilátást nyújt az Adriára és illatos fenyőerdőkön vezet keresztül.",
         "ro": "Această tură cu bicicleta combină marinele moderne cu natura virgină. Din Volme pedalăm de-a lungul golfurilor Kanalić și Soline, unde domină liniștea mării. După o pauză pe plaja Centinera, explorăm peninsula Bumbište pe două roți. Traseul oferă priveliști constante spre Adriatica și trece prin păduri aromatice de pini.",
         "en": "This bike tour connects modern marinas with untouched nature. Starting from Volme, we cycle along Kanalić and Soline bays, where the silence of the sea dominates. After a break at Centinera Beach, we explore the Bumbište peninsula on two wheels. The route offers constant views of the Adriatic and leads through aromatic pine forests.",
-        "hr": "Ova biciklistička tura spaja moderne marine s netaknutom prirodom. Polazeći iz Volmi, vozimo uz uvale Kanalić i Soline, gdje dominira tišina mora. Nakon odmora na plaži Centinera, na dva kotača istražujemo poluotok Bumbište. Ruta nudi stalne vidike na Jadran i vodi kroz mirisne borove šume."
+        "hr": "Ova biciklistička tura povezuje moderne marine s netaknutom prirodom. Počevši iz Volme, vozimo uz uvale Kanalić i Soline, gdje dominira tišina mora. Nakon stanke na plaži Centinera, istražujemo poluotok Bumbište na dva kotača. Ruta nudi stalne poglede na Jadran i vodi kroz aromatične borove šume."
       },
       "gastro_picks": {
         "de": [
@@ -1057,12 +1082,12 @@
           "Lock your bike under the pines at the beach – do not leave it unsecured."
         ],
         "hr": [
-          "Najam bicikala je u Puli (od 15 €/dan) – u samim Banjolama nema stanice za najam.",
-          "Ponesite dovoljno vode: nema kioska ni fontana između Solina i Bumbišta.",
-          "Preporučuje se MTB ili trekking bicikl – makadamske staze na rtu nisu prikladne za cestovne bicikle.",
-          "Obalna ruta je uglavnom ravna; samo Bumbište ima kratke strme dionice.",
-          "Krema za sunce i kapa su neophodni na dionicama obale bez hlada.",
-          "Zaključajte bicikl pod borovima na plaži – ne ostavljajte ga neosiguranog."
+          "Iznajmljivanje bicikala je u Puli (od €15/dan) – u Banjolama nema stanice za najam.",
+          "Ponesite dovoljno vode: nema kioska ni česmi između Solina i Bumbišta.",
+          "Preporuča se MTB ili trekking bicikl – šljunčane staze na rtu nisu pogodne za cestovne bicikle.",
+          "Obalna ruta je uglavnom ravna; jedino Bumbište ima kratke strme dionice.",
+          "Krema za sunčanje i šešir su nužni na djelovima bez hlada.",
+          "Zaključajte bicikl pod borovima na plaži – ne ostavljajte ga nezaključanog."
         ]
       },
       "variants": {
@@ -1071,7 +1096,8 @@
             "de": "Diese Radtour verbindet die modernen Marinas mit unberührter Natur. Von Volme aus radeln wir entlang der Buchten Kanalić und Soline, wo die Stille des Meeres dominiert. Nach einer Pause am Strand Centinera erkunden wir die Halbinsel Bumbište auf zwei Rädern. Die Route bietet ständige Ausblicke auf die Adria und führt durch aromatische Pinienwälder.",
             "hu": "Ez a kerékpártúra összeköti a modern jachtkikötőket az érintetlen természettel. Volméból indulva a Kanalić és Soline öblök mentén tekerünk, ahol a tenger csendje dominál. A Centinera strandon tartott pihenő után két keréken fedezzük fel a Bumbište-félszigetet. Az útvonal folyamatos kilátást nyújt az Adriára és illatos fenyőerdőkön vezet keresztül.",
             "ro": "Această tură cu bicicleta combină marinele moderne cu natura virgină. Din Volme pedalăm de-a lungul golfurilor Kanalić și Soline, unde domină liniștea mării. După o pauză pe plaja Centinera, explorăm peninsula Bumbište pe două roți. Traseul oferă priveliști constante spre Adriatica și trece prin păduri aromatice de pini.",
-            "en": "This bike tour connects modern marinas with untouched nature. Starting from Volme, we cycle along Kanalić and Soline bays, where the silence of the sea dominates. After a break at Centinera Beach, we explore the Bumbište peninsula on two wheels. The route offers constant views of the Adriatic and leads through aromatic pine forests."
+            "en": "This bike tour connects modern marinas with untouched nature. Starting from Volme, we cycle along Kanalić and Soline bays, where the silence of the sea dominates. After a break at Centinera Beach, we explore the Bumbište peninsula on two wheels. The route offers constant views of the Adriatic and leads through aromatic pine forests.",
+            "hr": "Ova biciklistička tura povezuje moderne marine s netaknutom prirodom. Počevši iz Volme, vozimo uz uvale Kanalić i Soline, gdje dominira tišina mora. Nakon stanke na plaži Centinera, istražujemo poluotok Bumbište na dva kotača. Ruta nudi stalne poglede na Jadran i vodi kroz aromatične borove šume."
           },
           "stops": [
             {
@@ -1079,13 +1105,15 @@
                 "de": "Yachthafen Volme",
                 "hu": "Volme jachtkikötő",
                 "ro": "Marina Volme",
-                "en": "Volme Marina"
+                "en": "Volme Marina",
+                "hr": "Marina Volme"
               },
               "tip_5lang": {
                 "de": "Schöner Startpunkt für eine Radtour entlang der Küste.",
                 "hu": "Kiváló kiindulópont egy parti kerékpártúrához.",
                 "ro": "Punct de plecare excelent pentru o tură cu bicicleta pe coastă.",
-                "en": "Excellent starting point for a coastal bike ride."
+                "en": "Excellent starting point for a coastal bike ride.",
+                "hr": "Izvrsna polazna točka za obalnu biciklističku vožnju."
               }
             },
             {
@@ -1093,13 +1121,15 @@
                 "de": "Bucht Kanalić",
                 "hu": "Kanalić-öböl",
                 "ro": "Golful Kanalić",
-                "en": "Kanalić Bay"
+                "en": "Kanalić Bay",
+                "hr": "Uvala Kanalić"
               },
               "tip_5lang": {
                 "de": "Kleine, versteckte Bucht mit flachem Wasser.",
                 "hu": "Kicsi, rejtett öböl sekély vízzel.",
                 "ro": "Mic golf ascuns cu apă puțin adâncă.",
-                "en": "Small, hidden bay with shallow water."
+                "en": "Small, hidden bay with shallow water.",
+                "hr": "Mala, skrivena uvala s plitkom vodom."
               }
             },
             {
@@ -1107,13 +1137,15 @@
                 "de": "Bucht Soline",
                 "hu": "Soline-öböl",
                 "ro": "Golful Soline",
-                "en": "Soline Bay"
+                "en": "Soline Bay",
+                "hr": "Uvala Soline"
               },
               "tip_5lang": {
                 "de": "Natur pur und ideal für eine kurze Rast.",
                 "hu": "Tiszta természet, ideális egy rövid pihenőhöz.",
                 "ro": "Natură pură și ideal pentru o scurtă pauză.",
-                "en": "Pure nature, ideal for a short break."
+                "en": "Pure nature, ideal for a short break.",
+                "hr": "Netaknuta priroda, idealno za kratku stanku."
               }
             },
             {
@@ -1121,13 +1153,15 @@
                 "de": "Strand Centinera",
                 "hu": "Centinera strand",
                 "ro": "Plaja Centinera",
-                "en": "Centinera Beach"
+                "en": "Centinera Beach",
+                "hr": "Plaža Centinera"
               },
               "tip_5lang": {
                 "de": "Sprung ins kühle Nass zur Mittagszeit.",
                 "hu": "Csobbanjon egyet a hűsítő vízben délidőben.",
                 "ro": "O săritură în apa răcoroasă la prânz.",
-                "en": "Take a dip in the cool water at noon."
+                "en": "Take a dip in the cool water at noon.",
+                "hr": "Osvježite se u hladnoj vodi u podne."
               }
             },
             {
@@ -1135,13 +1169,15 @@
                 "de": "Naturlehrpfad Bumbište",
                 "hu": "Bumbište tanösvény",
                 "ro": "Traseul educativ Bumbište",
-                "en": "Bumbište Nature Trail"
+                "en": "Bumbište Nature Trail",
+                "hr": "Staza prirode Bumbište"
               },
               "tip_5lang": {
                 "de": "Die Pfade sind gut mit dem Trekkingrad befahrbar.",
                 "hu": "Az ösvények túrakerékpárral jól járhatóak.",
                 "ro": "Traseele sunt accesibile cu bicicleta de trekking.",
-                "en": "The paths are well accessible with a trekking bike."
+                "en": "The paths are well accessible with a trekking bike.",
+                "hr": "Staze su dobro pristupačne trekking biciklom."
               }
             }
           ],
@@ -1243,6 +1279,10 @@
             "en": [
               "Take enough water with you, there are few sources along the way.",
               "A mountain bike or trekking bike is recommended for Bumbište."
+            ],
+            "hr": [
+              "Ponesite dovoljno vode sa sobom, na putu ima malo izvora.",
+              "Za Bumbište preporučuje se brdski ili trekking bicikl."
             ]
           }
         },
@@ -1252,7 +1292,7 @@
             "hu": "A biciklitúra a Volme kikötőben indul szemerkélő esőben. A Kanalić-öbölnél a tengeri szél felerősödik. Délben a Soline-öböl misztikus, ködös arcát mutatja. Délután tekerjen a vizes Centinera strandra, majd zárja a túrát Bumbište saras, kalandos erdei útjain.",
             "ro": "Turul cu bicicleta începe la Volme Marina pe o ploaie măruntă. La Golful Kanalić veți simți briza mării. La prânz, Golful Soline are o atmosferă mistică și cețoasă. După-amiaza pedalați spre plaja udă Centinera și terminați turul pe potecile noroioase de la Bumbište.",
             "en": "Your bike tour starts at Volme Marina in light rain. At Kanalić Bay, the sea breeze feels intense. At noon, Soline Bay offers a mystical, foggy atmosphere. In the afternoon, ride to the wet Centinera Beach and finish your tour on the muddy trails of Bumbište.",
-            "hr": "Vaša biciklistička tura počinje u marini Volme po laganoj kiši. U uvali Kanalić morski povjetarac djeluje intenzivno. U podne uvala Soline nudi mističnu, maglovitu atmosferu. Poslijepodne se odvezite do mokre plaže Centinera i završite turu na blatnjavim stazama Bumbišta."
+            "hr": "Vaša biciklistička tura počinje u Volme marini po laganoj kiši. U uvali Kanalić osjeća se snažan morski povjetarac. U podne, uvala Soline nudi mističnu, maglovitu atmosferu. Poslijepodne vozite do močvarne plaže Centinera i završite turu na blatnim stazama Bumbišta."
           },
           "stops": [
             {
@@ -1262,7 +1302,7 @@
                 "hu": "Zárja be jól az esőkabátot indulás előtt.",
                 "ro": "Închideți bine pelerina de ploaie înainte de plecare.",
                 "en": "Secure your rain poncho before departing.",
-                "hr": "Osigurajte kabanicu prije polaska."
+                "hr": "Prije polaska učvrstite svoj kišni pončo."
               }
             },
             {
@@ -1272,7 +1312,7 @@
                 "hu": "Vigyázzon a csúszós kavicsokkal.",
                 "ro": "Atenție la pietrișul alunecos.",
                 "en": "Watch out for slippery pebbles.",
-                "hr": "Pazite na sklisko kamenje."
+                "hr": "Pazite na proklizavajuće kamenčiće."
               }
             },
             {
@@ -1282,7 +1322,7 @@
                 "hu": "A sűrű növényzet ad némi védelmet az eső ellen.",
                 "ro": "Vegetația densă oferă o oarecare protecție împotriva ploii.",
                 "en": "Dense vegetation offers some rain protection here.",
-                "hr": "Gusta vegetacija ovdje nudi određenu zaštitu od kiše."
+                "hr": "Guska vegetacija ovdje pruža donekle zaštitu od kiše."
               }
             },
             {
@@ -1302,7 +1342,7 @@
                 "hu": "A sár nehezítheti a haladást ezen a szakaszon.",
                 "ro": "Noroiul poate îngreuna pedalatul.",
                 "en": "Mud can make riding difficult here.",
-                "hr": "Blato ovdje može otežati vožnju."
+                "hr": "Blato može otežati vožnju ovdje."
               }
             }
           ],
@@ -1332,10 +1372,10 @@
               "Braking distances are significantly longer on wet surfaces."
             ],
             "hr": [
-              "Blatobrani su neophodni kada pada kiša.",
+              "Blatobrani su nužni kad pada kiša.",
               "Izbjegavajte neasfaltirane šumske staze tijekom jakih pljuskova.",
-              "Nosite reflektirajuću odjeću visoke vidljivosti.",
-              "Put kočenja je znatno duži na mokrim površinama."
+              "Nosite odjeću visoke vidljivosti s reflektirajućim elementima.",
+              "Kočenje je znatno dulje na mokrim površinama."
             ]
           }
         },
@@ -1345,7 +1385,7 @@
             "hu": "A téli bringatúra a csendes Volme kikötőből indul. A Kanalić-öbölnél fagyos, de kristálytiszta kilátás fogadja. A Soline-öbölnél a tekerés melegen tartja. Délután a Centinera strand teljesen üres, majd a lenyugvó nap fényében ér a Bumbište ösvényhez.",
             "ro": "Turul de iarnă cu bicicleta începe în liniștita Volme Marina. La Golful Kanalić veți avea o priveliște înghețată, dar clară. La Golful Soline, mișcarea vă va încălzi. După-amiaza, plaja Centinera este pustie, iar traseul Bumbište vă așteaptă la apus.",
             "en": "The winter bike tour starts at the quiet Volme Marina. Kanalić Bay offers frosty but crystal-clear views. At Soline Bay, cycling will keep you warm. In the afternoon, Centinera Beach is completely empty before you reach the Bumbište trail under the setting sun.",
-            "hr": "Zimska biciklistička tura počinje u mirnoj marini Volme. Uvala Kanalić nudi mrazne, ali kristalno čiste vidike. U uvali Soline vožnja će vas zagrijati. Poslijepodne je plaža Centinera potpuno prazna prije nego što stignete do staze Bumbište pod zalazećim suncem."
+            "hr": "Zimska biciklistička tura počinje u mirnoj Volme marini. Uvala Kanalić pruža mrazne, ali kristalno čiste poglede. U uvali Soline bicikliranje će vas ugrijati. Poslijepodne je plaža Centinera potpuno prazna prije nego što stignete na stazu Bumbište pod zalazećim suncem."
           },
           "stops": [
             {
@@ -1355,7 +1395,7 @@
                 "hu": "A menetszél miatt a kesztyű nagyon fontos.",
                 "ro": "Mănușile sunt importante din cauza vântului rece.",
                 "en": "Gloves are important due to the cold wind chill.",
-                "hr": "Rukavice su važne zbog hladnog vjetra."
+                "hr": "Rukavice su važne zbog hladnog osjećaja vjetra."
               }
             },
             {
@@ -1365,7 +1405,7 @@
                 "hu": "Vigyázzon a lefagyott részekkel az árnyékban.",
                 "ro": "Atenție la porțiunile înghețate din zonele umbrite.",
                 "en": "Watch out for black ice in shaded corners.",
-                "hr": "Pazite na poledicu u zasjenjenim zavojima."
+                "hr": "Pazite na crni led u zasjenjenim zavojima."
               }
             },
             {
@@ -1375,7 +1415,7 @@
                 "hu": "Egy termosznyi forró tea jól jön a pihenőnél.",
                 "ro": "Un termos cu ceai cald prinde bine la pauză.",
                 "en": "A thermos with hot tea is great for a break here.",
-                "hr": "Termosica s toplim čajem izvrsna je za pauzu ovdje."
+                "hr": "Termos s vrućim čajem odličan je za odmor ovdje."
               }
             },
             {
@@ -1395,7 +1435,7 @@
                 "hu": "Kapcsolja be a lámpákat, mert hamar sötétedik.",
                 "ro": "Porniți farurile, se întunecă devreme.",
                 "en": "Turn on your bike lights, it gets dark early.",
-                "hr": "Uključite svjetla na biciklu, mrak pada rano."
+                "hr": "Upalite biciklistička svjetla, ranije se smrkava."
               }
             }
           ],
@@ -1425,9 +1465,9 @@
               "Do not underestimate the cold coastal wind."
             ],
             "hr": [
-              "Termo slojevi odjeće griju vas tijekom vožnje.",
-              "Provjerite tlak u gumama za bolje zimsko prianjanje.",
-              "Provjerite rade li vam svjetla na biciklu.",
+              "Termalne osnovne slojeve održavaju vas toplima tijekom vožnje.",
+              "Provjerite tlak u gumama za bolje prianjanje zimi.",
+              "Osigurajte da imate ispravna biciklistička svjetla.",
               "Ne podcjenjujte hladan obalni vjetar."
             ]
           }
@@ -1447,7 +1487,8 @@
             "de": "Kirche Muttergottes vom Meer",
             "hu": "Tengeri Boldogasszony templom",
             "ro": "Biserica Maicii Domnului de pe Mare",
-            "en": "Church of Our Lady of the Sea"
+            "en": "Church of Our Lady of the Sea",
+            "hr": "Crkva Gospe od Mora"
           },
           "coords": [
             13.8745,
@@ -1463,7 +1504,7 @@
             "hu": "Parkolás közvetlenül a templomtól; a belső és külső megtekintése kb. 20 percet vesz igénybe.",
             "ro": "Parcare chiar lângă biserică; vizita interiorului și exteriorului durează aproximativ 20 de minute.",
             "en": "Parking right next to the church; allow about 20 minutes to see both inside and outside.",
-            "hr": "Parking odmah do crkve; odvojite oko 20 minuta za razgledavanje iznutra i izvana."
+            "hr": "Parkiranje odmah uz crkvu; izdvojite oko 20 minuta za razgled izvana i iznutra."
           }
         },
         {
@@ -1471,7 +1512,8 @@
             "de": "Fischereihafen Paltana",
             "hu": "Paltana halászkikötő",
             "ro": "Portul de pescuit Paltana",
-            "en": "Paltana Fishing Port"
+            "en": "Paltana Fishing Port",
+            "hr": "Ribar Luka Paltana"
           },
           "coords": [
             13.8705,
@@ -1487,7 +1529,7 @@
             "hu": "Rövid időre a rakparton parkolhat és megfigyelheti a halászokat – 15 percig ingyenes.",
             "ro": "Parcați scurt pe chei și observați pescarii – nu e nevoie de tichet de parcare sub 15 minute.",
             "en": "Park briefly on the quay and watch the fishermen – no parking ticket needed for under 15 minutes.",
-            "hr": "Parkirajte nakratko na gatu i promatrajte ribare – nije potrebna karta za manje od 15 minuta."
+            "hr": "Parkirajte kratko na rivi i promatrajte ribare – nije potreban parking-račun za manje od 15 minuta."
           }
         },
         {
@@ -1495,7 +1537,8 @@
             "de": "Ausflug: Kap Kamenjak",
             "hu": "Kirándulás: Kamenjak-fok",
             "ro": "Excursie: Capul Kamenjak",
-            "en": "Excursion: Cape Kamenjak"
+            "en": "Excursion: Cape Kamenjak",
+            "hr": "Izlet: Rt Kamenjak"
           },
           "coords": [
             13.91,
@@ -1511,7 +1554,7 @@
             "hu": "Belépő 50 kn autónként (készpénz) – parkoló a bejáratnál, természeti ösvények gyalogosan, buszok nem közlekednek.",
             "ro": "Intrare 50 kn pe mașină (numerar) – parcare la intrare, poteci naturale pe jos, nu circulă autobuze.",
             "en": "Entry fee 50 kn per car (cash) – car park at the gate, explore nature trails on foot, no buses reach here.",
-            "hr": "Ulaznica 50 kn po autu (gotovina) – parking kod ulaza, istražite staze pješice, autobusi ne voze ovdje."
+            "hr": "Ulaznica 50 kn po automobilu (gotovina) – parkiralište na ulazu, istražujte pješačkim stazama, autobusi ne dolaze ovamo."
           }
         },
         {
@@ -1519,7 +1562,8 @@
             "de": "Strand Centinera",
             "hu": "Centinera strand",
             "ro": "Plaja Centinera",
-            "en": "Centinera Beach"
+            "en": "Centinera Beach",
+            "hr": "Plaža Centinera"
           },
           "coords": [
             13.855,
@@ -1535,7 +1579,7 @@
             "hu": "Nagy ingyenes parkoló közvetlenül a strand mögött, de augusztusban már 10 órakor megtelik.",
             "ro": "Parcare mare gratuită direct în spatele plajei, dar în august se umple deja la ora 10.",
             "en": "Large free car park directly behind the beach, but in August it fills up already by 10 AM.",
-            "hr": "Veliki besplatni parking odmah iza plaže, ali se u kolovozu napuni već do 10 sati."
+            "hr": "Veliko besplatno parkiralište odmah iza plaže, ali u kolovozu se popunjava već do 10 sati."
           }
         },
         {
@@ -1543,7 +1587,8 @@
             "de": "Yachthafen Volme",
             "hu": "Volme jachtkikötő",
             "ro": "Marina Volme",
-            "en": "Volme Marina"
+            "en": "Volme Marina",
+            "hr": "Volme Marina"
           },
           "coords": [
             13.885,
@@ -1559,7 +1604,7 @@
             "hu": "A marina melletti parkoló 18 óra után ingyenes – szép záróakkord a jachtok látványával.",
             "ro": "Parcarea lângă marină e gratuită după ora 18 – final frumos cu priveliște spre iahturi.",
             "en": "Marina car park is free after 6 PM – a nice way to end the day with views of the yachts.",
-            "hr": "Parking u marini je besplatan nakon 18 sati – lijep način za završetak dana s pogledom na jahte."
+            "hr": "Parkiralište marine je besplatno nakon 18:00 – lijep završetak dana s pogledom na jahte."
           }
         }
       ],
@@ -1568,7 +1613,7 @@
         "hu": "Autóval Banjole ideális kiindulópont a közeli Kamenjak-fok felfedezéséhez. A kulturális és kikötői séták után Banjoléban, átruccanunk a fok vadregényes szikláihoz. Délután visszatérünk, hogy a Centinera strandon és a Volme jachtkikötő elegáns környezetében fejezzük be a napot.",
         "ro": "Cu mașina, Banjole poate fi combinat ideal cu parcul natural din apropiere, Capul Kamenjak. Începem cultural în Banjole, vizităm portul, apoi facem o excursie în natura sălbatică a capului. După-amiaza ne întoarcem în Banjole pentru a încheia ziua relaxați pe plaja Centinera și în marina Volme.",
         "en": "By car, Banjole is ideally combined with the nearby Cape Kamenjak nature park. We start with a cultural visit to the church and harbor, then take a detour into the wild nature of the Cape. In the afternoon, we return to Banjole to end the day relaxed at Centinera Beach and Volme Marina.",
-        "hr": "Automobilom je Banjole idealno kombinirati s obližnjim parkom prirode Rt Kamenjak. Počinjemo kulturnim posjetom crkvi i luci, a zatim skrećemo u divlju prirodu rta. Poslijepodne se vraćamo u Banjole kako bismo dan završili opušteno na plaži Centinera i u marini Volme."
+        "hr": "Autom se Banjole najbolje kombiniraju s obližnjim park-šumom Rt Kamenjak. Počinjemo kulturnim posjetom crkvi i luci, zatim skrećemo u divlju prirodu rta. Poslijepodne se vraćamo u Banjole da dan završimo opušteno na plaži Centinera i u Volme marini."
       },
       "gastro_picks": {
         "de": [
@@ -1770,12 +1815,12 @@
           "For Kamenjak, an earlier start (9–10 AM) is recommended to avoid midday heat."
         ],
         "hr": [
-          "Parking na Rtu Kamenjak košta 50 kn po autu (samo gotovina) – pripremite sitniš.",
-          "U kolovozu se parkirališta na plažama popune do 10 sati – krenite rano ili planirajte večernji izlet.",
-          "Cesta prema Rtu Kamenjak je neasfaltirana zadnja 2 km – u redu je za obične automobile.",
-          "Banjole nemaju benzinsku postaju – natočite gorivo unaprijed u Puli (5 km udaljena).",
-          "Konoba Batelina: telefonska rezervacija je obavezna, posebno u srpnju i kolovozu.",
-          "Za Kamenjak se preporučuje raniji polazak (9–10 ujutro) kako biste izbjegli podnevnu vrućinu."
+          "Parkiranje za Rt Kamenjak 50 kn po automobilu (samo gotovina) – imajte sitniš.",
+          "U kolovozu se plažna parkirališta pune do 10 sati – krenite rano ili planirajte večernji izlet.",
+          "Cesta prema Rt Kamenjak je neasfaltirana zadnja 2 km – prihvatljivo za obične aute.",
+          "U Banjolama nema benzinske postaje – natočite u Puli prije dolaska (5 km udaljeno).",
+          "Konoba Batelina: obavezna telefonska rezervacija, posebno srpanj–kolovoz.",
+          "Za Kamenjak se preporučuje raniji polazak (9–10 sati) da izbjegnete najjaču vrućinu."
         ]
       },
       "variants": {
@@ -1784,7 +1829,8 @@
             "de": "Mit dem Auto lässt sich Banjole ideal mit dem nahegelegenen Naturpark Kap Kamenjak kombinieren. Wir starten kulturell in Banjole, besuchen den Hafen und machen dann den Abstecher in die wilde Natur des Kaps. Am Nachmittag kehren wir nach Banjole zurück, um den Tag entspannt am Centinera Strand und in der Marina Volme ausklingen zu lassen.",
             "hu": "Autóval Banjole ideális kiindulópont a közeli Kamenjak-fok felfedezéséhez. A kulturális és kikötői séták után Banjoléban, átruccanunk a fok vadregényes szikláihoz. Délután visszatérünk, hogy a Centinera strandon és a Volme jachtkikötő elegáns környezetében fejezzük be a napot.",
             "ro": "Cu mașina, Banjole poate fi combinat ideal cu parcul natural din apropiere, Capul Kamenjak. Începem cultural în Banjole, vizităm portul, apoi facem o excursie în natura sălbatică a capului. După-amiaza ne întoarcem în Banjole pentru a încheia ziua relaxați pe plaja Centinera și în marina Volme.",
-            "en": "By car, Banjole is ideally combined with the nearby Cape Kamenjak nature park. We start with a cultural visit to the church and harbor, then take a detour into the wild nature of the Cape. In the afternoon, we return to Banjole to end the day relaxed at Centinera Beach and Volme Marina."
+            "en": "By car, Banjole is ideally combined with the nearby Cape Kamenjak nature park. We start with a cultural visit to the church and harbor, then take a detour into the wild nature of the Cape. In the afternoon, we return to Banjole to end the day relaxed at Centinera Beach and Volme Marina.",
+            "hr": "Autom se Banjole najbolje kombiniraju s obližnjim park-šumom Rt Kamenjak. Počinjemo kulturnim posjetom crkvi i luci, zatim skrećemo u divlju prirodu rta. Poslijepodne se vraćamo u Banjole da dan završimo opušteno na plaži Centinera i u Volme marini."
           },
           "stops": [
             {
@@ -1792,13 +1838,15 @@
                 "de": "Kirche Muttergottes vom Meer",
                 "hu": "Tengeri Boldogasszony templom",
                 "ro": "Biserica Maicii Domnului de pe Mare",
-                "en": "Church of Our Lady of the Sea"
+                "en": "Church of Our Lady of the Sea",
+                "hr": "Crkva Gospe od Mora"
               },
               "tip_5lang": {
                 "de": "Leicht erreichbar mit Parkmöglichkeiten in der Nähe.",
                 "hu": "Könnyen megközelíthető, parkolás a közelben.",
                 "ro": "Ușor accesibil cu parcare în apropiere.",
-                "en": "Easily accessible with parking nearby."
+                "en": "Easily accessible with parking nearby.",
+                "hr": "Lako dostupna s parkiranjem u blizini."
               }
             },
             {
@@ -1806,13 +1854,15 @@
                 "de": "Fischereihafen Paltana",
                 "hu": "Paltana halászkikötő",
                 "ro": "Portul de pescuit Paltana",
-                "en": "Paltana Fishing Port"
+                "en": "Paltana Fishing Port",
+                "hr": "Ribar Luka Paltana"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Kai für einen schnellen Blick.",
                 "hu": "Parkoljon közvetlenül a mólónál egy gyors nézelődéshez.",
                 "ro": "Parcați direct pe chei pentru o scurtă vizită.",
-                "en": "Park directly on the quay for a quick look."
+                "en": "Park directly on the quay for a quick look.",
+                "hr": "Parkirajte izravno na rivi za brz razgled."
               }
             },
             {
@@ -1820,13 +1870,15 @@
                 "de": "Ausflug: Kap Kamenjak",
                 "hu": "Kirándulás: Kamenjak-fok",
                 "ro": "Excursie: Capul Kamenjak",
-                "en": "Excursion: Cape Kamenjak"
+                "en": "Excursion: Cape Kamenjak",
+                "hr": "Izlet: Rt Kamenjak"
               },
               "tip_5lang": {
                 "de": "Nur 15 Autominuten entfernt – ein absolutes Muss.",
                 "hu": "Csak 15 perc autóval – kihagyhatatlan látnivaló.",
                 "ro": "La doar 15 minute de mers cu mașina – de neratat.",
-                "en": "Only 15 minutes by car – an absolute must."
+                "en": "Only 15 minutes by car – an absolute must.",
+                "hr": "Samo 15 minuta autom – apsolutni imperativ."
               }
             },
             {
@@ -1834,13 +1886,15 @@
                 "de": "Strand Centinera",
                 "hu": "Centinera strand",
                 "ro": "Plaja Centinera",
-                "en": "Centinera Beach"
+                "en": "Centinera Beach",
+                "hr": "Plaža Centinera"
               },
               "tip_5lang": {
                 "de": "Großer Parkplatz direkt hinter dem Strand.",
                 "hu": "Nagy parkoló közvetlenül a strand mögött.",
                 "ro": "Parcare mare chiar în spatele plajei.",
-                "en": "Large parking lot directly behind the beach."
+                "en": "Large parking lot directly behind the beach.",
+                "hr": "Veliko parkiralište odmah iza plaže."
               }
             },
             {
@@ -1848,13 +1902,15 @@
                 "de": "Yachthafen Volme",
                 "hu": "Volme jachtkikötő",
                 "ro": "Marina Volme",
-                "en": "Volme Marina"
+                "en": "Volme Marina",
+                "hr": "Volme Marina"
               },
               "tip_5lang": {
                 "de": "Abschluss mit Blick auf die Luxusyachten.",
                 "hu": "A nap zárása a luxusjachtok látványával.",
                 "ro": "Încheierea zilei cu priveliștea iahturilor de lux.",
-                "en": "Ending the day with a view of the luxury yachts."
+                "en": "Ending the day with a view of the luxury yachts.",
+                "hr": "Završetak dana s pogledom na luksuzne jahte."
               }
             }
           ],
@@ -1956,6 +2012,10 @@
             "en": [
               "In high season, parking near the beach fills up quickly.",
               "There is an entry fee for cars at Cape Kamenjak."
+            ],
+            "hr": [
+              "U visokoj sezoni parkiranje uz plažu brzo se popunjava.",
+              "Za aute na Rt Kamenjak naplaćuje se ulaz."
             ]
           }
         },
@@ -1965,7 +2025,7 @@
             "hu": "Kezdje a napot a Tengeri Miasszonyunk templomnál, parkoljon közel. A Paltana kikötő hajóit akár a kocsiból is nézheti. Délben vezessen óvatosan a Kamenjak-fok felé, ahol a tenger vadul hullámzik. Délután kávézzon a Centinera strand közelében, majd a Volme marinánál zárja a napot.",
             "ro": "Începeți la Biserica Maicii Domnului și parcați aproape. La portul Paltana, admirați bărcile din mașină. La prânz, conduceți cu atenție spre Capul Kamenjak, unde marea este agitată. După-amiaza beți o cafea lângă plaja Centinera și încheiați la Volme Marina pe ploaie torențială.",
             "en": "Start dry at the Church of Our Lady of the Sea and park close. At Paltana port, watch the boats from your car. At noon, drive carefully to Cape Kamenjak where the sea is wild. In the afternoon, have coffee near Centinera Beach and finish at Volme Marina in the pouring rain.",
-            "hr": "Započnite na suhom u crkvi Majke Božje od Mora i parkirajte blizu. U luci Paltana promatrajte brodove iz automobila. U podne vozite oprezno do Rta Kamenjak gdje je more divlje. Poslijepodne popijte kavu blizu plaže Centinera i završite u marini Volme po jakom pljusku."
+            "hr": "Krenite suhi iz Crkve Gospe od Mora i parkirajte blizu. U luci Paltana promatrajte brodove iz auta. U podne vozite pažljivo prema Rtu Kamenjak gdje je more divlje. Poslijepodne popijte kavu kraj plaže Centinera i završite u Volme marini po jakom pljusku."
           },
           "stops": [
             {
@@ -1975,7 +2035,7 @@
                 "hu": "A parkoló tócsás lehet, vigyázzon kiszálláskor.",
                 "ro": "Parcarea poate avea bălți, atenție la coborâre.",
                 "en": "The parking lot can be puddly, watch your step.",
-                "hr": "Na parkingu može biti lokvi, pazite na korak."
+                "hr": "Parkiralište može biti prepuno lokvi, pazite na korake."
               }
             },
             {
@@ -1985,7 +2045,7 @@
                 "hu": "Nagy esőben érdemes az autóban megvárni a végét.",
                 "ro": "Pe ploaie puternică, mai bine așteptați în mașină.",
                 "en": "In heavy rain, just wait it out in the car.",
-                "hr": "Za jakog pljuska, samo pričekajte u automobilu."
+                "hr": "U jakoj kiši pričekajte u autu."
               }
             },
             {
@@ -1995,7 +2055,7 @@
                 "hu": "A murvás utak nagyon sarasak lehetnek.",
                 "ro": "Drumurile de macadam pot fi foarte noroioase.",
                 "en": "The gravel roads can become very muddy.",
-                "hr": "Makadamski putovi mogu postati vrlo blatnjavi."
+                "hr": "Šljunčane ceste mogu postati jako blatne."
               }
             },
             {
@@ -2005,7 +2065,7 @@
                 "hu": "Esős napokon nagyon könnyű parkolóhelyet találni.",
                 "ro": "În zilele ploioase e ușor să găsești parcare.",
                 "en": "Parking is very easy to find on rainy days.",
-                "hr": "Parking je vrlo lako pronaći tijekom kišnih dana."
+                "hr": "Parkiranje je vrlo lako pronaći za kišnih dana."
               }
             },
             {
@@ -2045,10 +2105,10 @@
               "Watch out for fogged-up windows caused by wet clothes."
             ],
             "hr": [
-              "Ceste prema Rtu Kamenjak mogu biti u lošem stanju tijekom kiše.",
-              "Izbjegavajte duboke lokve na neasfaltiranim dijelovima.",
-              "Automobil je idealan za ostati suh dok se krećete između uvala.",
-              "Pazite na zamagljene prozore zbog mokre odjeće."
+              "Ceste prema Rtu Kamenjak mogu biti lošeg stanja tijekom kiše.",
+              "Izbjegavajte duboke lokve na neasfaltiranim dionicama.",
+              "Auto je idealan za ostati suh dok se krećete između uvala.",
+              "Pazite na zamagljena stakla uzrokovana mokrom odjećom."
             ]
           }
         },
@@ -2058,7 +2118,7 @@
             "hu": "Keresse fel a templomot kényelmesen autóval a csendes téli időszakban. A Paltana kikötő üres és békés. Délben vezessen a Kamenjak-fokhoz, ahol dugók nélkül élvezheti a zord természetet. Délután parkoljon le a Centinera strandnál, majd nézze meg a korai naplementét a Volme kikötőben.",
             "ro": "Vizitați biserica confortabil cu mașina în timpul liniștit al iernii. Portul Paltana este gol și pașnic. La prânz, conduceți la Capul Kamenjak pentru a vă bucura de natura aspră, fără aglomerație. După-amiaza parcați la plaja Centinera, iar apoi admirați apusul devreme în Volme Marina.",
             "en": "Visit the church comfortably by car during the quiet winter. Paltana port is empty and peaceful. At noon, drive to Cape Kamenjak to enjoy the rugged nature without traffic jams. In the afternoon, park at Centinera Beach, then watch the early sunset at Volme Marina.",
-            "hr": "Udobno posjetite crkvu automobilom tijekom mirne zime. Luka Paltana je prazna i spokojna. U podne se odvezite do Rta Kamenjak kako biste uživali u surovoj prirodi bez zastoja. Poslijepodne parkirajte kod plaže Centinera, a zatim promatrajte rani zalazak sunca u marini Volme."
+            "hr": "Crkvu tijekom mirne zime udobno posjetite automobilom. Luka Paltana je prazna i mirna. U podne vozite do Rta Kamenjak i uživajte u surovoj prirodi bez gužvi. Poslijepodne parkirajte na plaži Centinera, a zatim promatrajte rani zalazak sunca u Volme marini."
           },
           "stops": [
             {
@@ -2068,7 +2128,7 @@
                 "hu": "Fűtse be az autót a továbbutazás előtt.",
                 "ro": "Încălziți bine mașina înainte de a continua.",
                 "en": "Warm up the car before continuing your trip.",
-                "hr": "Zagrijte automobil prije nastavka putovanja."
+                "hr": "Zagrijte auto prije nastavka putovanja."
               }
             },
             {
@@ -2078,7 +2138,7 @@
                 "hu": "A hideg levegő miatt a látótávolság kiváló.",
                 "ro": "Aerul rece oferă o vizibilitate excelentă.",
                 "en": "The cold air provides extremely clear visibility.",
-                "hr": "Hladan zrak omogućuje izuzetno čistu vidljivost."
+                "hr": "Hladan zrak pruža izuzetno jasnu vidljivost."
               }
             },
             {
@@ -2088,7 +2148,7 @@
                 "hu": "A fokra a belépés télen gyakran ingyenes.",
                 "ro": "Intrarea la cap este de obicei gratuită iarna.",
                 "en": "Entrance to the cape is often free in winter.",
-                "hr": "Ulaz na rt zimi je često besplatan."
+                "hr": "Ulaz na rt često je besplatan zimi."
               }
             },
             {
@@ -2098,7 +2158,7 @@
                 "hu": "Közvetlenül a parton is könnyű parkolni télen.",
                 "ro": "Există locuri de parcare chiar pe plajă iarna.",
                 "en": "Parking is easily available right on the beach in winter.",
-                "hr": "Parking je lako dostupan odmah uz plažu zimi."
+                "hr": "Parkiranje je zimi lako dostupno izravno na plaži."
               }
             },
             {
@@ -2108,7 +2168,7 @@
                 "hu": "Remek helyszín fotózáshoz a kék órában.",
                 "ro": "Un loc grozav pentru poze în ora albastră.",
                 "en": "A great spot for photos during the blue hour.",
-                "hr": "Izvrsno mjesto za fotografije tijekom plavog sata."
+                "hr": "Odlična lokacija za fotografije tijekom plavog sata."
               }
             }
           ],
@@ -2138,10 +2198,10 @@
               "Gas stations often have reduced opening hours in winter."
             ],
             "hr": [
-              "Zimi je gotovo sav parking u Banjolama besplatan.",
-              "Pazite na mraz na cestama rano ujutro.",
-              "Rt Kamenjak nema otvorenih barova na plaži tijekom zime.",
-              "Benzinske postaje zimi često imaju skraćeno radno vrijeme."
+              "Zimi je gotovo sve parkiranje u Banjolama besplatno.",
+              "Pazite na mraz na cestama u ranim jutarnjim satima.",
+              "Na Rtu Kamenjak tijekom zime nema otvorenih beach barova.",
+              "Benzinske postaje često imaju skraćeno radno vrijeme zimi."
             ]
           }
         }
@@ -2160,7 +2220,8 @@
             "de": "Ortszentrum Banjole",
             "hu": "Banjole központ",
             "ro": "Centrul Banjole",
-            "en": "Banjole Center"
+            "en": "Banjole Center",
+            "hr": "Centar Banjola"
           },
           "coords": [
             13.8717,
@@ -2176,7 +2237,7 @@
             "hu": "A 28-as busz Pula főállomásáról indul, menetidő kb. 20 perc; jegy a buszon, kb. 2,50 €.",
             "ro": "Autobuzul 28 pleacă din gara principală Pula, durată cca. 20 minute; bilet în autobuz, cca. 2,50 €.",
             "en": "Bus 28 from Pula main station, journey about 20 minutes; buy tickets on the bus, about €2.50.",
-            "hr": "Autobus 28 s glavnog kolodvora u Puli, vožnja oko 20 min; karte u busu, oko 2,50 €."
+            "hr": "Autobus 28 s pulskog kolodvora, vožnja oko 20 minuta; kupite kartu u autobusu, oko €2.50."
           }
         },
         {
@@ -2184,7 +2245,8 @@
             "de": "Kirche Muttergottes vom Meer",
             "hu": "Tengeri Boldogasszony templom",
             "ro": "Biserica Maicii Domnului de pe Mare",
-            "en": "Church of Our Lady of the Sea"
+            "en": "Church of Our Lady of the Sea",
+            "hr": "Crkva Gospe od Mora"
           },
           "coords": [
             13.8745,
@@ -2200,7 +2262,7 @@
             "hu": "A megállótól 10 perces séta – a templomhoz vezető ösvény nincs kijelölve.",
             "ro": "La 10 minute de mers pe jos de la stație – poteca spre biserică nu este semnalizată.",
             "en": "A 10-minute walk from the bus stop – the path to the church is not signposted.",
-            "hr": "10 minuta hoda od autobusne postaje – put do crkve nije označen."
+            "hr": "10 minuta hoda od autobusne stanice – put do crkve nije označen."
           }
         },
         {
@@ -2208,7 +2270,8 @@
             "de": "Bucht Portić",
             "hu": "Portić-öböl",
             "ro": "Golful Portić",
-            "en": "Portić Bay"
+            "en": "Portić Bay",
+            "hr": "Uvala Portić"
           },
           "coords": [
             13.865,
@@ -2224,7 +2287,7 @@
             "hu": "Kiváló ebédszüneti megálló: sekély víz, fenyőárnyék, belépőjegy nélkül.",
             "ro": "Ideal pentru o pauză de prânz: apă puțin adâncă, umbră sub pini, fără taxă de intrare.",
             "en": "Excellent lunch stop: shallow water, pine shade, no entry fee required.",
-            "hr": "Izvrsna postaja za ručak: plitka voda, hlad borova, ulaz slobodan."
+            "hr": "Izvrsno mjesto za ručak: plitka voda, borova hladovina, nije potrebna ulaznica."
           }
         },
         {
@@ -2232,7 +2295,8 @@
             "de": "Strand Centinera",
             "hu": "Centinera strand",
             "ro": "Plaja Centinera",
-            "en": "Centinera Beach"
+            "en": "Centinera Beach",
+            "hr": "Plaža Centinera"
           },
           "coords": [
             13.855,
@@ -2248,7 +2312,7 @@
             "hu": "A „Centinera\" megálló 400 m-re van a strandtól; az utolsó busz Pulába 19:45-kor indul.",
             "ro": "Stația „Centinera\" e la 400 m de plajă; ultimul autobuz spre Pula pleacă la 19:45.",
             "en": "The \"Centinera\" bus stop is 400 m from the beach; last bus back to Pula at 19:45.",
-            "hr": "Postaja \"Centinera\" je 400 m od plaže; zadnji autobus za Pulu u 19:45."
+            "hr": "Stajalište autobusa „Centinera” 400 m od plaže; zadnji autobus za Pulu u 19:45."
           }
         },
         {
@@ -2256,7 +2320,8 @@
             "de": "Fischereihafen Paltana",
             "hu": "Paltana halászkikötő",
             "ro": "Portul de pescuit Paltana",
-            "en": "Paltana Fishing Port"
+            "en": "Paltana Fishing Port",
+            "hr": "Ribar Luka Paltana"
           },
           "coords": [
             13.8705,
@@ -2272,7 +2337,7 @@
             "hu": "Rövid kitérő a kikötőhöz, mielőtt a busz jön – menetrend a falubelépőnél.",
             "ro": "Scurtă vizită la port înainte de autobuz – orarul afișat la intrarea în sat.",
             "en": "Short detour to the harbor before the bus – timetable posted at the village entrance.",
-            "hr": "Kratki obilazak luke prije autobusa – vozni red je istaknut na ulazu u selo."
+            "hr": "Kratka ometnina prema luci prije autobusa – vozni red istaknut na ulazu u selo."
           }
         }
       ],
@@ -2281,7 +2346,7 @@
         "hu": "A Pulából induló helyi járatokkal Banjole könnyen elérhető. A központból indulva felfedezzük a tengerparti templomot, és élvezzük a Portić-öböl nyugodt hangulatát. A délutánt a Centinera strand kristálytiszta vizében töltjük. Mielőtt az utolsó busz visszaindulna, még vetünk egy pillantást a Paltana halászkikötő nyüzsgő életére.",
         "ro": "Cu autobuzele locale din Pula, Banjole este foarte accesibil. Explorăm localitatea din centru, ne plimbăm spre biserica de pe coastă și ne bucurăm de atmosfera relaxată din Golful Portić. După-amiaza este dedicată plajei Centinera. Înainte de a lua ultimul autobuz, aruncăm o privire la activitatea din portul de pescuit Paltana.",
         "en": "Banjole is easily accessible via local buses from Pula. We explore the village from the center, walk to the coastal church, and enjoy the relaxed atmosphere of Portić Bay. The afternoon is dedicated to the sun and sea at Centinera Beach. Before catching the last bus, we take a look at the busy life in Paltana fishing harbor.",
-        "hr": "Banjole su lako dostupne lokalnim autobusima iz Pule. Selo istražujemo iz centra, šetamo do obalne crkve i uživamo u opuštenoj atmosferi uvale Portić. Poslijepodne je posvećeno suncu i moru na plaži Centinera. Prije zadnjeg autobusa, promatramo užurbani život u ribarskoj luci Paltana."
+        "hr": "Banjole su lako dostupne lokalnim autobusima iz Pule. Istražujemo selo iz centra, pješačimo do obalne crkve i uživamo u opuštenoj atmosferi uvale Portić. Poslijepodne je posvećeno suncu i moru na plaži Centinera. Prije povratka zadnjim autobusom bacamo pogled na užurbani život u ribarskoj luci Paltana."
       },
       "gastro_picks": {
         "de": [
@@ -2483,11 +2548,11 @@
           "On Sundays and in winter buses run less often – always check the current timetable."
         ],
         "hr": [
-          "Autobus 28 Pula–Banjole: otprilike svakih sat vremena, zadnji povratak u 19:45 – provjerite vozni red.",
-          "Karte kupite u autobusu (oko 2,50 €) – pripremite sitniš, kartice se ne primaju.",
-          "Putujte lagano: seoski putovi su uski i neravni – preporučuje se lagani ruksak.",
-          "U selu nema supermarketa ni bankomata – sve kupite i podignite prvo u Puli.",
-          "Postaja Centinera udaljena je 400 m od plaže – po vrućini krenite ranije.",
+          "Autobus 28 Pula–Banjole: otprilike na sat, zadnji povratni autobus u 19:45 – provjerite vozni red prije posjeta.",
+          "Karte kupite u autobusu (oko €2.50) – imajte sitniš, nema čitača kartica u vozilu.",
+          "Putujte lagano: seoske staze su uske i neravne – preporučuje se lagani ruksak.",
+          "U selu nema supermarketa ni bankomata – sve kupnje i podizanja obavite prvo u Puli.",
+          "Stajalište Centinera udaljeno je 400 m od plaže – po vrućini krenite rano.",
           "Nedjeljom i zimi autobusi voze rjeđe – uvijek provjerite aktualni vozni red."
         ]
       },
@@ -2497,7 +2562,8 @@
             "de": "Mit den lokalen Bussen aus Pula ist Banjole bestens erreichbar. Wir erkunden den Ort vom Zentrum aus, spazieren zur Küstenkirche und genießen die entspannte Atmosphäre der Bucht Portić. Der Nachmittag steht ganz im Zeichen des Strandvergnügens am Centinera. Bevor der letzte Bus fährt, werfen wir noch einen Blick auf das geschäftige Treiben im Fischerhafen Paltana.",
             "hu": "A Pulából induló helyi járatokkal Banjole könnyen elérhető. A központból indulva felfedezzük a tengerparti templomot, és élvezzük a Portić-öböl nyugodt hangulatát. A délutánt a Centinera strand kristálytiszta vizében töltjük. Mielőtt az utolsó busz visszaindulna, még vetünk egy pillantást a Paltana halászkikötő nyüzsgő életére.",
             "ro": "Cu autobuzele locale din Pula, Banjole este foarte accesibil. Explorăm localitatea din centru, ne plimbăm spre biserica de pe coastă și ne bucurăm de atmosfera relaxată din Golful Portić. După-amiaza este dedicată plajei Centinera. Înainte de a lua ultimul autobuz, aruncăm o privire la activitatea din portul de pescuit Paltana.",
-            "en": "Banjole is easily accessible via local buses from Pula. We explore the village from the center, walk to the coastal church, and enjoy the relaxed atmosphere of Portić Bay. The afternoon is dedicated to the sun and sea at Centinera Beach. Before catching the last bus, we take a look at the busy life in Paltana fishing harbor."
+            "en": "Banjole is easily accessible via local buses from Pula. We explore the village from the center, walk to the coastal church, and enjoy the relaxed atmosphere of Portić Bay. The afternoon is dedicated to the sun and sea at Centinera Beach. Before catching the last bus, we take a look at the busy life in Paltana fishing harbor.",
+            "hr": "Banjole su lako dostupne lokalnim autobusima iz Pule. Istražujemo selo iz centra, pješačimo do obalne crkve i uživamo u opuštenoj atmosferi uvali Portić. Poslijepodne je posvećeno suncu i moru na plaži Centinera. Prije posljednjeg autobusa bacamo pogled na živi ugođaj u ribarskoj luci Paltana."
           },
           "stops": [
             {
@@ -2505,13 +2571,15 @@
                 "de": "Ortszentrum Banjole",
                 "hu": "Banjole központ",
                 "ro": "Centrul Banjole",
-                "en": "Banjole Center"
+                "en": "Banjole Center",
+                "hr": "Centar Banjola"
               },
               "tip_5lang": {
                 "de": "Bushaltestelle direkt im Zentrum.",
                 "hu": "Buszmegálló közvetlenül a központban.",
                 "ro": "Stație de autobuz chiar în centru.",
-                "en": "Bus stop right in the center."
+                "en": "Bus stop right in the center.",
+                "hr": "Autobusno stajalište odmah u centru."
               }
             },
             {
@@ -2519,13 +2587,15 @@
                 "de": "Kirche Muttergottes vom Meer",
                 "hu": "Tengeri Boldogasszony templom",
                 "ro": "Biserica Maicii Domnului de pe Mare",
-                "en": "Church of Our Lady of the Sea"
+                "en": "Church of Our Lady of the Sea",
+                "hr": "Crkva Gospe od Mora"
               },
               "tip_5lang": {
                 "de": "Ein schöner Spaziergang von der Haltestelle aus.",
                 "hu": "Kellemes séta a buszmegállótól.",
                 "ro": "O plimbare frumoasă de la stație.",
-                "en": "A pleasant walk from the bus stop."
+                "en": "A pleasant walk from the bus stop.",
+                "hr": "Ugodna šetnja od stajališta."
               }
             },
             {
@@ -2533,13 +2603,15 @@
                 "de": "Bucht Portić",
                 "hu": "Portić-öböl",
                 "ro": "Golful Portić",
-                "en": "Portić Bay"
+                "en": "Portić Bay",
+                "hr": "Uvala Portić"
               },
               "tip_5lang": {
                 "de": "Guter Ort für ein Mittagessen in Meeresnähe.",
                 "hu": "Kiváló hely egy ebédhez a tenger közelében.",
                 "ro": "Loc bun pentru prânz aproape de mare.",
-                "en": "Good spot for lunch near the sea."
+                "en": "Good spot for lunch near the sea.",
+                "hr": "Dobar izbor za ručak uz more."
               }
             },
             {
@@ -2547,13 +2619,15 @@
                 "de": "Strand Centinera",
                 "hu": "Centinera strand",
                 "ro": "Plaja Centinera",
-                "en": "Centinera Beach"
+                "en": "Centinera Beach",
+                "hr": "Plaža Centinera"
               },
               "tip_5lang": {
                 "de": "Vom Strand aus sind es 10 Min. zur nächsten Haltestelle.",
                 "hu": "A strandtól 10 perc a legközelebbi megálló.",
                 "ro": "De la plajă sunt 10 minute până la cea mai apropiată stație.",
-                "en": "It's a 10-minute walk from the beach to the bus stop."
+                "en": "It's a 10-minute walk from the beach to the bus stop.",
+                "hr": "Do stajališta je oko 10 minuta hoda s plaže."
               }
             },
             {
@@ -2561,13 +2635,15 @@
                 "de": "Fischereihafen Paltana",
                 "hu": "Paltana halászkikötő",
                 "ro": "Portul de pescuit Paltana",
-                "en": "Paltana Fishing Port"
+                "en": "Paltana Fishing Port",
+                "hr": "Ribarska luka Paltana"
               },
               "tip_5lang": {
                 "de": "Kurzer Stopp vor der Rückfahrt mit dem Bus.",
                 "hu": "Gyors megálló a busz visszaindulása előtt.",
                 "ro": "Scurtă oprire înainte de întoarcerea cu autobuzul.",
-                "en": "Short stop before catching the bus back."
+                "en": "Short stop before catching the bus back.",
+                "hr": "Kratko zadržavanje prije povratka autobusom."
               }
             }
           ],
@@ -2669,6 +2745,10 @@
             "en": [
               "Bus line 28 connects Banjole with Pula.",
               "Check the current timetable, especially on weekends."
+            ],
+            "hr": [
+              "Linija autobusa 28 povezuje Banjole s Pulom.",
+              "Provjerite aktualni vozni red, osobito vikendom."
             ]
           }
         },
@@ -2678,7 +2758,7 @@
             "hu": "Busszal érkezzen a központba, és keressen menedéket. A templom csendes helyet kínál a záporok idején. Délben a busz közelebb viszi a viharos Portić-öbölhöz. Délután a Centinera strandról nézheti az esőt, majd a vizes Paltana kikötőnél zárja a napot.",
             "ro": "Luați autobuzul spre centru și căutați adăpost. Biserica oferă un loc liniștit în timpul ploilor. La prânz, autobuzul vă apropie de furtunosul Golf Portić. După-amiaza priviți ploaia de la plaja Centinera și încheiați ziua în portul ud Paltana.",
             "en": "Take the bus to the center and find shelter. The church offers a quiet place during the showers. At noon, the bus brings you closer to the stormy Portić Bay. In the afternoon, watch the rain from Centinera Beach and finish your day at the wet Paltana port.",
-            "hr": "Idite autobusom do centra i pronađite zaklon. Crkva nudi mirno mjesto tijekom pljuskova. U podne vas autobus dovodi bliže olujnoj uvali Portić. Poslijepodne promatrajte kišu s plaže Centinera i završite dan u mokroj luci Paltana."
+            "hr": "S autobusom dođite do centra i potražite zaklon. Crkva nudi mirno mjesto tijekom pljuskova. U podne vas autobus vodi bliže olujnom Portić zaljevu. Poslijepodne promatrajte kišu s plaže Centinera i završite dan u mokroj luci Paltana."
           },
           "stops": [
             {
@@ -2688,7 +2768,7 @@
                 "hu": "A buszmegállóknak általában van kis teteje.",
                 "ro": "Stațiile de autobuz au de obicei acoperișuri mici.",
                 "en": "Bus stops usually have small roofs.",
-                "hr": "Autobusne postaje obično imaju male krovove."
+                "hr": "Na stajalištima obično ima mali krovovi."
               }
             },
             {
@@ -2708,7 +2788,7 @@
                 "hu": "A szél miatt kellemetlen lehet itt várakozni.",
                 "ro": "Vântul poate face așteptarea neplăcută aici.",
                 "en": "Wind can make waiting uncomfortable here.",
-                "hr": "Vjetar ovdje može učiniti čekanje neugodnim."
+                "hr": "Vjetar može učiniti čekanje neugodnim ovdje."
               }
             },
             {
@@ -2718,7 +2798,7 @@
                 "hu": "Rossz időben ellenőrizze a visszaindulás idejét.",
                 "ro": "Verificați orele de întoarcere pe vreme rea.",
                 "en": "Check return times in bad weather.",
-                "hr": "Provjerite vremena povratka po lošem vremenu."
+                "hr": "Provjerite vrijeme povratka u lošem vremenu."
               }
             },
             {
@@ -2758,10 +2838,10 @@
               "Stops often do not provide enough shelter from strong winds."
             ],
             "hr": [
-              "Autobusi mogu malo kasniti tijekom jake kiše.",
-              "Ponesite sklopivi kišobran za čekanje na postajama.",
-              "Lokalni autobusi rjeđe voze izvan sezone.",
-              "Postaje često ne nude dovoljno zaklona od jakog vjetra."
+              "Autobusi mogu kasniti tijekom jake kiše.",
+              "Ponesite sklopivi kišobran za čekanje na stajalištima.",
+              "Lokalni autobusi voze rjeđe izvan sezone.",
+              "Stajališta često ne pružaju dovoljno zaklona od jakog vjetra."
             ]
           }
         },
@@ -2771,7 +2851,7 @@
             "hu": "A fűtött busszal kényelmesen utazhat a csendes központba. A templom télen különösen hangulatos. Délben eléri a fagyos, de gyönyörű Portić-öblöt. Délután sétáljon egyet a Centinera strandon, majd még sötétedés előtt szálljon buszra a Paltana kikötőnél.",
             "ro": "Cu autobuzul încălzit călătoriți confortabil spre centrul liniștit. Biserica este deosebit de atmosferică iarna. La prânz ajungeți la frumosul, dar recele Golf Portić. După-amiaza faceți o scurtă plimbare pe plaja Centinera înainte de a lua autobuzul la portul Paltana.",
             "en": "Ride the heated bus comfortably to the quiet center. The church is especially atmospheric in winter. At noon, you reach the frosty but beautiful Portić Bay. In the afternoon, take a short walk on Centinera Beach before catching the bus at Paltana port before dark.",
-            "hr": "Udobno se odvezite grijanim autobusom do mirnog centra. Crkva je zimi posebno atmosferska. U podne stižete u mraznu, ali lijepu uvalu Portić. Poslijepodne prošećite plažom Centinera prije nego uhvatite autobus u luci Paltana prije mraka."
+            "hr": "Uudobno se vozite zagrijanim autobusom do mirnog centra. Crkva je posebno atmosferična zimi. U podne stižete do mraznog, ali prekrasnog Portić zaljeva. Poslijepodne prošećite kratko plažom Centinera prije nego što autobusom uhvatite polazak iz luke Paltana prije mraka."
           },
           "stops": [
             {
@@ -2781,7 +2861,7 @@
                 "hu": "Télen a buszok ritkított menetrend szerint járnak.",
                 "ro": "Iarna, autobuzele circulă după un program redus.",
                 "en": "In winter, buses run on a reduced schedule.",
-                "hr": "Zimi autobusi voze po reduciranom redu vožnje."
+                "hr": "Zimi autobusi voze po skraćenom redu vožnje."
               }
             },
             {
@@ -2801,7 +2881,7 @@
                 "hu": "A szél télen gyakran nagyon erősen fúj itt.",
                 "ro": "Vântul bate adesea puternic aici iarna.",
                 "en": "The wind often blows strongly here in winter.",
-                "hr": "Vjetar ovdje zimi često jako puše."
+                "hr": "Zimi ovdje često puše jak vjetar."
               }
             },
             {
@@ -2811,7 +2891,7 @@
                 "hu": "Melegedjen fel a buszon a következő megállóig.",
                 "ro": "Încălziți-vă în autobuz până la următoarea stație.",
                 "en": "Warm up on the bus to the next stop.",
-                "hr": "Ugrijte se u autobusu do sljedeće postaje."
+                "hr": "Ugrijte se u autobusu do sljedećeg stajališta."
               }
             },
             {
@@ -2821,7 +2901,7 @@
                 "hu": "Ne késse le az utolsó buszt sötétedés után.",
                 "ro": "Nu ratați ultimul autobuz după lăsarea întunericului.",
                 "en": "Don't miss the last bus after dark.",
-                "hr": "Ne propustite zadnji autobus nakon što padne mrak."
+                "hr": "Ne propustite zadnji autobus nakon mraka."
               }
             }
           ],
@@ -2852,8 +2932,8 @@
             ],
             "hr": [
               "Uvijek provjerite zimski vozni red tvrtke Pulapromet.",
-              "Autobusi su zimi dobro grijani.",
-              "Na postajama može biti jako hladno, obucite se toplo.",
+              "Autobusi su dobro grijani tijekom zime.",
+              "Na stajalištima može biti vrlo hladno, odjenite se toplo.",
               "Ne oslanjajte se na česte veze tijekom zimskih vikenda."
             ]
           }
@@ -2876,19 +2956,22 @@
       "de": "Amtssprache ist Kroatisch; Italienisch wird in Istrien weit verstanden, Deutsch und Englisch in Restaurants und Pensionen üblich. 'Dobar dan' (Guten Tag) und 'Hvala' (Danke) kommen immer gut an.",
       "hu": "A hivatalos nyelv a horvát, de Isztriában az olasz nyelv is széles körben elterjedt, a németet és az angolt az éttermekben, panziókban értik. A 'Dobar dan' (jó napot) és 'Hvala' (köszönöm) jól jön.",
       "ro": "Limba oficială este croata; în Istria italiana este larg înțeleasă, iar germana și engleza sunt frecvente în restaurante și pensiuni. 'Dobar dan' (bună ziua) și 'Hvala' (mulțumesc) sunt apreciate.",
-      "en": "Official language is Croatian; Italian is widely understood across Istria, while German and English are common in restaurants and guesthouses. A simple 'Dobar dan' (hello) and 'Hvala' (thanks) go a long way."
+      "en": "Official language is Croatian; Italian is widely understood across Istria, while German and English are common in restaurants and guesthouses. A simple 'Dobar dan' (hello) and 'Hvala' (thanks) go a long way.",
+      "hr": "Službeni jezik je hrvatski; talijanski je široko razumljiv diljem Istre, dok su njemački i engleski uobičajeni u restoranima i privatnim smještajima. Jednostavno 'Dobar dan' i 'Hvala' puno znače."
     },
     "best_time_to_visit": {
       "de": "Mai bis Anfang Juli und September für angenehmes Badewetter ohne den Hochsommer-Trubel; Juli und August sind heiß und voller Booturlauber in der Bucht.",
       "hu": "Május közepétől július elejéig és szeptemberben kellemes a fürdőidő tömeg nélkül; július és augusztus forró, a vitorlások tömegével együtt.",
       "ro": "Mijlocul lui mai până la începutul lui iulie și septembrie oferă vreme bună de plajă fără aglomerație; iulie și august sunt călduroase, golful fiind plin de bărci.",
-      "en": "Mid-May to early July and September give warm swimming weather without peak crowds; July and August are hot and the bay fills with yachts and day-trippers."
+      "en": "Mid-May to early July and September give warm swimming weather without peak crowds; July and August are hot and the bay fills with yachts and day-trippers.",
+      "hr": "Sredina svibnja do početka srpnja i rujan nude toplo vrijeme za kupanje bez vrhunca gužvi; srpanj i kolovoz su vrući i uvala se puni jahtama i izletnicima."
     },
     "neighborhood_warnings": {
       "de": "Felsige Strände, Badeschuhe sind sinnvoll wegen Seeigeln; im Hochsommer sind die Parkplätze an der Bucht ab Vormittag voll und enge Dorfgassen schwer befahrbar.",
       "hu": "A strandok sziklásak, érdemes vízicipőt vinni a tengeri sünök miatt; főszezonban a parti parkolók délelőttre megtelnek, a szűk falusi utcák nehezen járhatók autóval.",
       "ro": "Plajele sunt stâncoase, încălțămintea de apă este utilă din cauza aricilor de mare; vara, parcările din golf se umplu dimineața, iar străduțele înguste sunt greu de parcurs cu mașina.",
-      "en": "Beaches are rocky, water shoes help against sea urchins; in peak summer the bay-side parking fills up by mid-morning and narrow village lanes are tight to drive."
+      "en": "Beaches are rocky, water shoes help against sea urchins; in peak summer the bay-side parking fills up by mid-morning and narrow village lanes are tight to drive.",
+      "hr": "Plaže su šljunčane i kamenite, obuća za vodu pomaže protiv ježinaca; u vrhuncu sezone parkirališta uz uvalu budu puna već do sredine jutra, a uske seoske uličice teško je voziti."
     }
   }
 }

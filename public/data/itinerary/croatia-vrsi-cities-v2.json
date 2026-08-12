@@ -32,7 +32,7 @@
             "hu": "Élvezze az erős eszpresszót a helyiekkel a régi falu központjában.",
             "ro": "Savurați un espresso tare alături de localnici în centrul vechi al satului.",
             "en": "Enjoy a strong espresso with the locals in the old village center.",
-            "hr": "Uživajte u jakom espressu s lokalcima u starom središtu mjesta."
+            "hr": "Uživajte u jakom espressu s mještanima u starom selu."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Ez a kis kőtemplom békés hely egy rövid csendes pillanathoz.",
             "ro": "Această mică biserică de piatră este un loc liniștit pentru un moment de reculegere.",
             "en": "This small stone church is a peaceful spot for a short moment of silence.",
-            "hr": "Ova mala kamena crkvica mirno je mjesto za kratki trenutak tišine."
+            "hr": "Ova mala kamena crkva mirno je mjesto za kratki trenutak tišine."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Sétáljon végig a mólón és nézze a halászhajókat.",
             "ro": "Plimbați-vă pe dig și observați bărcile pescărești.",
             "en": "Stroll along the pier and watch the fishing boats.",
-            "hr": "Prošećite molo-om i promatrajte ribarske brodice."
+            "hr": "Prošećite molom i gledajte ribarske brodice."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Kóstolja meg a frissen fogott halat vagy a házi dalmát sonkát.",
             "ro": "Încercați peștele proaspăt prins sau șunca dalmată de casă.",
             "en": "Try freshly caught fish or homemade Dalmatian prosciutto.",
-            "hr": "Probajte svježe ulovljenu ribu ili domaći dalmatinski pršut."
+            "hr": "Probajte svježe ulovljenu ribu ili domaću dalmatinsku pršutinu."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Ideális strand családoknak, kristálytiszta vízzel és finom kaviccsal.",
             "ro": "O plajă ideală pentru familii, cu apă cristalină și pietriș fin.",
             "en": "An ideal beach for families with crystal clear water and fine pebbles.",
-            "hr": "Idealna plaža za obitelji s kristalno čistim morem i finim šljunkom."
+            "hr": "Idealna plaža za obitelji s kristalno čistom vodom i sitnim šljunkom."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "Zárja a napot a Velebit-csatorna feletti naplemente látványával.",
             "ro": "Încheiați ziua cu o privire asupra apusului peste canalul Velebit.",
             "en": "End the day with a view of the sunset over the Velebit channel.",
-            "hr": "Završite dan uz pogled na zalazak sunca nad Velebitskim kanalom."
+            "hr": "Završite dan pogledom na zalazak sunca preko Velebitskog kanala."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "Kezdje a napot Vrsi történelmi szívében, ahol két ősi kőtemplom tanúskodik a hely mély hagyományairól. Egy rövid túra után eléri a tengerparti Mulo nyüzsgő negyedét. Itt élvezze az autentikus dalmát ebédet közvetlenül a vízparton, mielőtt a délutánt a tágas Ricina strandon töltené. A nap békésen zárul, látványos kilátással az Adriai-tengerre.",
         "ro": "Începeți ziua în inima istorică a satului Vrsi, unde două biserici vechi de piatră depun mărturie despre tradiția profundă a locului. După o scurtă drumeție, veți ajunge în cartierul plin de viață Mulo, de pe coastă. Aici, bucurați-vă de un prânz dalmat autentic chiar pe malul apei, înainte de a petrece după-amiaza pe plaja spațioasă Ricina. Ziua se încheie liniștit, cu o vedere spectaculoasă asupra Adriaticii.",
         "en": "Start your day in the historic heart of Vrsi, where two ancient stone churches bear witness to the deep traditions of the place. After a short hike, you'll reach the lively Mulo district on the coast. Here, enjoy an authentic Dalmatian lunch right by the water before spending the afternoon at the spacious Ricina beach. The day ends peacefully with a spectacular view of the Adriatic Sea.",
-        "hr": "Započnite dan u povijesnom srcu Vrsi, gdje dvije drevne kamene crkve svjedoče o dubokoj tradiciji mjesta. Nakon kratkog pješačenja stići ćete do živopisne četvrti Mulo na obali. Ovdje uživajte u autentičnom dalmatinskom ručku tik uz more prije nego što provedete poslijepodne na prostranoj plaži Ričina. Dan završava mirno uz spektakularan pogled na Jadransko more."
+        "hr": "Započnite dan u povijesnom srcu Vrsi, gdje dvije drevne kamene crkve svjedoče o dubokim tradicijama mjesta. Nakon kratke šetnje stići ćete do živahnog mjesnog naselja Mulo na obali. Ovdje uživajte u autentičnom dalmatinskom ručku uz more prije poslijepodneva na prostranoj plaži Ricina. Dan mirno završava spektakularnim pogledom na Jadransko more."
       },
       "gastro_picks": {
         "de": [
@@ -330,9 +330,9 @@
         ],
         "hr": [
           "Nosite udobnu obuću za šetnju od sela do mora.",
-          "Ponesite obuću za more zbog šljunčane plaže.",
+          "Ponesite obuću za vodu zbog šljunčane plaže.",
           "Posjetite crkve ujutro dok je još svježe.",
-          "Riva u Mulu najljepša je u večernjim satima."
+          "Riva u Mulu najljepša je navečer."
         ]
       },
       "variants": {
@@ -342,7 +342,7 @@
             "hu": "A nap egy hosszú reggelivel indul, amíg eláll az eső. A Szent Jakab és Anzelm templomok száraz menedéket nyújtanak a városnézéshez. Ebédre egy forró leves egy helyi konobában segít felmelegedni. Délután egy frissítő séta a kikötőben, ahol a tenger drámai szürke színekben játszik a szemerkélő esőben, végül a tengerparton búcsúzunk a naptól.",
             "ro": "Ziua începe relaxat cu un mic dejun prelungit până se oprește ploaia. Bisericile Sf. Iacob și Anselm oferă un adăpost uscat pentru vizitarea obiectivelor turistice. La prânz, o supă fierbinte într-o konoba locală ajută la încălzire. După-amiaza, o plimbare revigorantă în port, unde marea are nuanțe dramatice de gri sub ploaie, terminând cu un rămas-bun pe malul mării.",
             "en": "The day starts leisurely with an extended breakfast while waiting for the rain to ease. St. Jacob and Anselm churches provide dry shelter for sightseeing. For lunch, a hot soup in a local konoba helps warm up. In the afternoon, a refreshing walk at the harbor where the sea shows dramatic gray tones under the drizzle, followed by a coastal farewell.",
-            "hr": "Dan počinje lagano uz produženi doručak dok čekate da kiša popusti. Crkve sv. Jakova i sv. Anzelma pružaju suhi zaklon za razgledavanje. Za ručak, topla juha u lokalnoj konobi pomoći će vam da se ugrijete. Poslijepodne, osvježavajuća šetnja lukom gdje more pod sipinom pokazuje dramatične sive tonove, nakon čega slijedi obalni oproštaj."
+            "hr": "Dan započinje polako produženim doručkom dok čekate da kiša oslabi. Crkve sv. Jakova i Anselma pružaju suhi zaklon za razgledavanje. Za ručak topla juha u lokalnoj konobi pomaže da se ugrijete. Poslijepodne osvježavajuća šetnja lukom gdje more pokazuje dramatične sive tonove pod rosuljom, nakon čega slijedi otočko zbogom."
           },
           "stops": [
             {
@@ -352,7 +352,7 @@
                 "hu": "Tökéletes hely az első zápor kényelmes kivárására.",
                 "ro": "Locul perfect pentru a aștepta trecerea primei averse.",
                 "en": "A perfect place to comfortably wait out the first shower.",
-                "hr": "Savršeno mjesto za ugodno čekanje da prođe prvi pljusak."
+                "hr": "Savršeno mjesto za ugodno čekanje prve pljuske."
               }
             },
             {
@@ -362,7 +362,7 @@
                 "hu": "Száraz menedék történelmi hangulattal.",
                 "ro": "Refugiu uscat cu ambianță istorică.",
                 "en": "Dry retreat with a historical atmosphere.",
-                "hr": "Suho utočište s povijesnom atmosferom."
+                "hr": "Suhi povlačište s povijesnom atmosferom."
               }
             },
             {
@@ -372,7 +372,7 @@
                 "hu": "Ideális egy rövid szünetre az eső elől.",
                 "ro": "Ideal pentru o scurtă pauză de ploaie.",
                 "en": "Ideal for a short break from the rain.",
-                "hr": "Idealno za kratku pauzu od kiše."
+                "hr": "Idealno za kratki predah od kiše."
               }
             },
             {
@@ -382,7 +382,7 @@
                 "hu": "Hangulatos séta; vízálló lábbeli ajánlott.",
                 "ro": "Plimbare atmosferică; se recomandă încălțăminte impermeabilă.",
                 "en": "Atmospheric walk; waterproof footwear recommended.",
-                "hr": "Atmosferična šetnja; preporučuje se vodootporna obuća."
+                "hr": "Atmosferična šetnja; preporučena vodootporna obuća."
               }
             },
             {
@@ -392,7 +392,7 @@
                 "hu": "Élvezze a helyi specialitásokat a meleg kandalló mellett.",
                 "ro": "Savurați specialități locale lângă șemineul cald.",
                 "en": "Enjoy local specialties by the warm fireplace.",
-                "hr": "Uživajte u lokalnim specijalitetima uz topli kamin."
+                "hr": "Uživajte u lokalnim specijalitetima uz topao kamin."
               }
             },
             {
@@ -412,7 +412,7 @@
                 "hu": "Szélálló ruházat szükséges a nyirkos tengeri szél ellen.",
                 "ro": "Îmbrăcăminte rezistentă la vânt necesară pentru briza umedă.",
                 "en": "Windproof clothing needed against the damp sea breeze.",
-                "hr": "Potrebna je odjeća otporna na vjetar protiv vlažnog morskog povjetarca."
+                "hr": "Potrebna je vjetrootporna odjeća protiv vlažnog morskog povjetarca."
               }
             }
           ],
@@ -442,9 +442,9 @@
               "Plan longer breaks in cafes to stay dry."
             ],
             "hr": [
-              "Čvrsti kišobran je često bolji od lagane kabanice zbog vjetra.",
+              "Čvrst kišobran često je bolji od lagane ponče zbog vjetra.",
               "Crkve nude najbolju besplatnu zaštitu od iznenadnih pljuskova.",
-              "Budite oprezni na starim kamenim pločnicima u selu; postaju vrlo skliski.",
+              "Pazite na stare kamene popločenosti u selu; postaju vrlo skliske.",
               "Planirajte duže pauze u kafićima kako biste ostali suhi."
             ]
           }
@@ -455,7 +455,7 @@
             "hu": "Télen Vrsi a csendes, autentikus arcát mutatja. A reggel forró kávéval indul, mielőtt meglátogatnánk a történelmi templomokat. A hideg bóra szél frissítővé teszi a sétát Mulo felé. Egy bőséges ebéd felmelegít, mielőtt megnéznénk a korai, fél 5 körüli naplementét a szinte üres Ricina strandon, ahol a fények ilyenkor különösen tiszták.",
             "ro": "Iarna, Vrsi își arată latura liniștită și autentică. Dimineața începe cu o cafea fierbinte înainte de a vizita bisericile istorice. Briza rece a burei face plimbarea spre Mulo revigorantă. Un prânz copios ne încălzește înainte de a urmări apusul timpuriu, în jurul orei 16:30, pe plaja aproape pustie Ricina.",
             "en": "In winter, Vrsi shows its quiet, authentic side. The morning starts with hot coffee before visiting the historic churches. The cold Bura breeze makes the walk to Mulo invigorating. A hearty lunch warms you up before watching the early sunset around 4:30 PM at the almost empty Ricina beach, where the light is exceptionally clear.",
-            "hr": "Zimi Vrsi pokazuju svoju mirnu, autentičnu stranu. Jutro počinje toplom kavom prije posjeta povijesnim crkvama. Hladna bura čini šetnju do Mula okrepljujućom. Srdačan ručak će vas ugrijati prije nego što dočekate rani zalazak sunca oko 16:30 na gotovo praznoj plaži Ričina, gdje je svjetlost izuzetno jasna."
+            "hr": "Zimi Vrsi pokazuje svoju mirnu, autentičnu stranu. Dan započinje vrućom kavom prije posjeta povijesnim crkvama. Hladan bura vjetar osvježava šetnju do Mula. Srdačan ručak ugrijat će vas prije ranog zalaska sunca oko 16:30 na gotovo praznoj plaži Ricina, gdje je svjetlo izuzetno čisto."
           },
           "stops": [
             {
@@ -465,7 +465,7 @@
                 "hu": "Kérjen helyi teát vagy forró csokoládét.",
                 "ro": "Cereți un ceai local sau o ciocolată caldă.",
                 "en": "Ask for local tea or hot chocolate.",
-                "hr": "Pitajte za domaći čaj ili toplu čokoladu."
+                "hr": "Zatražite lokalni čaj ili toplu čokoladu."
               }
             },
             {
@@ -475,7 +475,7 @@
                 "hu": "A vastag falak között gyakran melegebb van, mint kint.",
                 "ro": "În interiorul zidurilor groase este adesea mai cald decât afară.",
                 "en": "It's often warmer inside the thick walls than outside.",
-                "hr": "Unutar debelih zidova često je toplije nego vani."
+                "hr": "Unutra je često toplije nego izvan debelih zidova."
               }
             },
             {
@@ -485,7 +485,7 @@
                 "hu": "Csendes hely az elmélyüléshez télen.",
                 "ro": "Un loc liniștit pentru reflecție pe timp de iarnă.",
                 "en": "A quiet place for reflection in winter.",
-                "hr": "Mirno mjesto za razmišljanje zimi."
+                "hr": "Tiho mjesto za razmišljanje zimi."
               }
             },
             {
@@ -505,7 +505,7 @@
                 "hu": "Próbálja ki a pekát – tökéletes téli étel.",
                 "ro": "Încercați peka – un preparat perfect de iarnă.",
                 "en": "Try peka – a perfect winter dish.",
-                "hr": "Probajte peku – savršeno zimsko jelo."
+                "hr": "Probajte peka – savršen zimski obrok."
               }
             },
             {
@@ -515,7 +515,7 @@
                 "hu": "A naplemente itt télen már 16:30-kor bekövetkezik.",
                 "ro": "Apusul are loc aici iarna deja la ora 16:30.",
                 "en": "Sunset takes place here as early as 4:30 PM in winter.",
-                "hr": "Zalazak sunca se ovdje zimi događa već u 16:30."
+                "hr": "Zalazak sunca ovdje se događa već oko 16:30 zimi."
               }
             },
             {
@@ -525,7 +525,7 @@
                 "hu": "Naplemente után rendkívül gyorsan lehűl a levegő.",
                 "ro": "După apus, temperatura scade extrem de repede.",
                 "en": "Temperatures drop extremely fast after sunset.",
-                "hr": "Temperature padaju izuzetno brzo nakon zalaska sunca."
+                "hr": "Temperature se nakon zalaska izuzetno brzo spuštaju."
               }
             }
           ],
@@ -556,9 +556,9 @@
             ],
             "hr": [
               "Pazite na buru; sjeveroistočni vjetar može biti vrlo hladan.",
-              "Većina barova na plaži je zatvorena; koristite kafiće u selu.",
-              "Dan kratko traje; započnite turu prije 10:00 sati.",
-              "Slojevita odjeća je idealna za zimske šetnje."
+              "Većina beach barova je zatvorena; koristite kafiće u selu.",
+              "Dnevno svjetlo brzo završava; započnite obilazak prije 10:00.",
+              "Slojevita odjeća idealna je za zimske šetnje."
             ]
           }
         }
@@ -588,7 +588,7 @@
             "hu": "Kezdje a túrát ennél a bájos kápolnánál.",
             "ro": "Începeți turul la această capelă fermecătoare.",
             "en": "Start your tour at this charming chapel.",
-            "hr": "Započnite svoju turu kod ove šarmantne kapelice."
+            "hr": "Započnite obilazak kod ove šarmantne kapele."
           }
         },
         {
@@ -607,7 +607,7 @@
             "hu": "Egy rövid megálló a falu központjában.",
             "ro": "O scurtă oprire în centrul satului.",
             "en": "A short stop in the center of the village.",
-            "hr": "Kratko zaustavljanje u centru mjesta."
+            "hr": "Kratko zaustavljanje u centru sela."
           }
         },
         {
@@ -626,7 +626,7 @@
             "hu": "Bringázzon a parti úton, lenyűgöző tengeri kilátással.",
             "ro": "Pedalați pe drumul de coastă cu vederi superbe la mare.",
             "en": "Cycle along the coastal road with stunning sea views.",
-            "hr": "Vozite bicikl obalnom cestom s prekrasnim pogledom na more."
+            "hr": "Vozite bicikl uz obalnu cestu sa zadivljujućim pogledom na more."
           }
         },
         {
@@ -645,7 +645,7 @@
             "hu": "Parkoljon le a biciklikkel és élvezze a hosszú fürdőzést.",
             "ro": "Parcați bicicletele și bucurați-vă de o baie lungă.",
             "en": "Park the bikes and enjoy a long swim.",
-            "hr": "Parkirajte bicikle i uživajte u dugom kupanju."
+            "hr": "Parkirajte bicikle i uživajte u dugom plivanju."
           }
         },
         {
@@ -664,7 +664,7 @@
             "hu": "Egy pihentető étkezés kilátással a szigetekre.",
             "ro": "O masă relaxantă cu vedere la insule.",
             "en": "A relaxed meal with a view of the islands.",
-            "hr": "Opušten obrok s pogledom na otoke."
+            "hr": "Opustajući obrok s pogledom na otoke."
           }
         },
         {
@@ -702,7 +702,7 @@
             "hu": "Jutalmazza meg magát egy helyi fagyival a végén.",
             "ro": "Răsplătiți-vă cu un gelato local la final.",
             "en": "Reward yourself with a local gelato at the end.",
-            "hr": "Nagradite se lokalnim sladoledom na kraju."
+            "hr": "Nagradite se lokalnim gelatom na kraju."
           }
         }
       ],
@@ -711,7 +711,7 @@
         "hu": "Fedezze fel Vrsi-t két keréken! Ez a túra ötvözi a falu történelmi kincseit a gyönyörű tengerparti tájjal. A központban található régi templomoktól indulva tekerjen le Mulo kikötőjébe, majd tovább a Ricina strandra. Élvezze a szabadságot, fedezzen fel rejtett öblöket, és zárja a napot pihentetően a faluban.",
         "ro": "Explorați Vrsi pe două roți! Acest tur îmbină comorile istorice ale satului cu peisajul de coastă minunat. De la bisericile vechi din centru, pedalați spre portul Mulo și mai departe spre plaja Ricina. Bucurați-vă de libertatea de a descoperi golfuri ascunse și încheiați ziua relaxat în sat.",
         "en": "Explore Vrsi on two wheels! This tour combines the historic treasures of the village with the beautiful coastal scenery. From the old churches in the center, cycle down to the harbor of Mulo and further to Ricina beach. Enjoy the freedom to discover hidden bays and end the day in a relaxed way in the village.",
-        "hr": "Istražite Vrsi na dva kotača! Ova tura spaja povijesno blago mjesta s prekrasnim obalnim krajolikom. Od starih crkvi u centru, odvezite se biciklom do luke Mulo i dalje do plaže Ričina. Uživajte u slobodi otkrivanja skrivenih uvala i završite dan opušteno u selu."
+        "hr": "Istražite Vrsi na dva kotača! Ova tura kombinira povijesna blaga sela s prekrasnim obalnim krajolikom. Od starih crkava u centru, vozite do luke Mulo i dalje do plaže Ricina. Uživajte u slobodi otkrivanja skrivenih uvala i završite dan opušteno u selu."
       },
       "gastro_picks": {
         "de": [
@@ -836,9 +836,9 @@
           "Take enough water, as there is little shade on the coastal path."
         ],
         "hr": [
-          "Ruta do plaže Ričina je ravna i laka za vožnju.",
-          "Pazite na vjetar (buru), koji može otežati vožnju biciklom.",
-          "Ponesite dovoljno vode jer na obalnoj stazi ima malo hlada."
+          "Ruta do plaže Ricina je ravna i laka za vožnju.",
+          "Pazite na vjetar (Bura), koji može otežati vožnju biciklom.",
+          "Ponesite dovoljno vode, jer je malo hlada na obalnoj stazi."
         ]
       },
       "variants": {
@@ -848,7 +848,7 @@
             "hu": "Az esőben való biciklizés óvatosságot igényel, de üres tájat kínál. Meglátogatjuk a falu központjában lévő templomokat kulturális szünetként. Mulo felé aszfaltozott utakon haladunk a sár elkerülése érdekében. Egy melegben elfogyasztott ebéd után óvatosan tekerünk a parton, érezve az arcunkon az esőt, majd a faluban melegszünk fel.",
             "ro": "Ciclismul pe ploaie necesită prudență, dar oferă un peisaj pustiu. Vizităm bisericile din centrul satului pentru pauze culturale. Mergem spre Mulo pe drumuri asfaltate pentru a evita noroiul. După un prânz revigorant la căldură, pedalăm cu grijă pe coastă, simțind ploaia pe față, înainte de a ne încălzi în sat.",
             "en": "Cycling in the rain requires caution but offers a deserted landscape. We visit the churches in the village center for cultural breaks. The ride to Mulo is on paved roads to avoid mud. After a restorative lunch in the warmth, we cycle carefully along the coast, feeling the spray and rain on our faces, before warming up in the village.",
-            "hr": "Vožnja biciklom po kiši zahtijeva oprez, ali nudi pusti krajolik. Posjećujemo crkve u centru mjesta za kulturne pauze. Vožnja do Mula je po asfaltiranim cestama kako bi se izbjeglo blato. Nakon okrepljujućeg ručka na toplom, pažljivo vozimo bicikl uz obalu, osjećajući kapljice i kišu na licu, prije nego što se ugrijemo u selu."
+            "hr": "Vožnja biciklom po kiši zahtijeva oprez, ali nudi pusti krajolik. Posjećujemo crkve u središtu sela za kulturne pauze. Vožnja do Mula odvija se asfaltiranim cestama kako bi se izbjeglo blato. Nakon okrepljujućeg ručka u toplini, pažljivo vozimo uz obalu, osjećajući prskanje i kišu na licu, prije nego se vratimo na grijanje u selu."
           },
           "stops": [
             {
@@ -858,7 +858,7 @@
                 "hu": "Keressen fedett helyet a bicikliknek az ereszek alatt.",
                 "ro": "Căutați un loc de parcare sigur pentru biciclete sub streșini.",
                 "en": "Look for a safe parking spot for bikes under eaves.",
-                "hr": "Potražite sigurno mjesto za parkiranje bicikala ispod nadstrešnice."
+                "hr": "Potražite sigurno mjesto za parkiranje bicikala pod strehom."
               }
             },
             {
@@ -868,7 +868,7 @@
                 "hu": "Vigyázat a leszálláskor, a vizes talaj csúszós lehet.",
                 "ro": "Atenție la descălecare, solul umed poate fi alunecos.",
                 "en": "Be careful when dismounting; wet ground can be slippery.",
-                "hr": "Budite oprezni pri silaženju s bicikla; mokro tlo može biti sklisko."
+                "hr": "Budite oprezni pri silasku; mokro tlo može biti sklisko."
               }
             },
             {
@@ -878,7 +878,7 @@
                 "hu": "Csökkentse a sebességet a kanyarokban a kikötői gáton.",
                 "ro": "Reduceți viteza în curbe pe digul portului.",
                 "en": "Reduce speed in curves on the harbor wall.",
-                "hr": "Smanjite brzinu u zavojima na lučkom zidu."
+                "hr": "Smanjite brzinu u zavojima na obalnom zidu."
               }
             },
             {
@@ -898,7 +898,7 @@
                 "hu": "Egy fedett asztal itt aranyat ér.",
                 "ro": "O masă acoperită valorează aur aici.",
                 "en": "A covered table is worth its weight in gold here.",
-                "hr": "Natkriveni stol ovdje vrijedi zlata."
+                "hr": "Natkriveni stol ovdje vrijedi kao zlato."
               }
             },
             {
@@ -908,7 +908,7 @@
                 "hu": "A jó láthatóság lámpákkal és fényvisszaverőkkel fontos.",
                 "ro": "Vizibilitatea bună prin lumini și reflectorizante este importantă.",
                 "en": "Good visibility through lights and reflectors is important.",
-                "hr": "Važna je dobra vidljivost uz pomoć svjetala i reflektora."
+                "hr": "Dobra vidljivost kroz svjetla i reflektore je važna."
               }
             },
             {
@@ -918,7 +918,7 @@
                 "hu": "Cserélje a fagyit egy meleg kakaóra.",
                 "ro": "Schimbați înghețata cu o cacao caldă.",
                 "en": "Swap ice cream for a warm cocoa.",
-                "hr": "Zamijenite sladoled toplim kakaom."
+                "hr": "Sladoled zamijenite toplim kakaom."
               }
             }
           ],
@@ -948,10 +948,10 @@
               "Wear neon yellow rain gear for better visibility."
             ],
             "hr": [
-              "Blatobrani na biciklu sprječavaju mokra leđa.",
-              "Kočite ranije jer kočnicama treba više vremena da zagrizu kad su mokre.",
-              "Izbjegavajte lokve; mogle bi skrivati duboke rupe.",
-              "Nosite neonsko žutu kišnu opremu za bolju vidljivost."
+              "Blatobrani na biciklu sprječavaju natapanje leđa.",
+              "Kočite ranije jer kočne pločice dulje uhvate na mokrom.",
+              "Izbjegavajte lužine; mogu skrivati duboke rupe.",
+              "Nosite neonsko žuto kišno odijelo za bolju vidljivost."
             ]
           }
         },
@@ -961,7 +961,7 @@
             "hu": "Egy téli kerékpártúra tiszta levegőt és tágas kilátást kínál a Velebit-hegységre. A falu templomainál kezdünk, majd gyorsan Mulo felé tekerünk, hogy mozgásban maradjunk. A hideg szél a mozgás hatására elviselhetővé válik. Egy meleg ebéd után élvezzük a magányt a Ricina-strandon. Sötétedés előtt visszaérünk a faluba egy forró italra.",
             "ro": "O tură de iarnă cu bicicleta oferă aer curat și vederi largi spre munții Velebit. Începem de la bisericile din sat și pedalăm rapid spre Mulo pentru a rămâne în mișcare. Vântul rece devine suportabil prin mișcare. După un prânz cald, ne bucurăm de singurătate pe plaja Ricina, întorcându-ne în sat înainte de lăsarea întunericului.",
             "en": "A winter bike tour offers crisp air and vast views of the Velebit mountains. We start at the village churches and ride swiftly to Mulo to keep moving. The cold wind becomes bearable through exercise. After a warm lunch, we enjoy the solitude at Ricina beach. We return well before dark for a hot drink in the village.",
-            "hr": "Zimska biciklistička tura nudi svjež zrak i prostrane poglede na planinu Velebit. Počinjemo kod seoskih crkvi i brzo vozimo do Mula kako bismo ostali u pokretu. Hladan vjetar postaje podnošljiv uz tjelovježbu. Nakon toplog ručka, uživamo u osami na plaži Ričina. Vraćamo se znatno prije mraka na topli napitak u selu."
+            "hr": "Zimska biciklistička tura nudi svjež zrak i široke poglede na Velebit. Počinjemo kod seoskih crkava i brzo vozimo do Mula kako bismo ostali u pokretu. Hladan vjetar postaje podnošljiv vježbom. Nakon toplog ručka uživamo u samoći na plaži Ricina. Vraćamo se dobro prije mraka na topao napitak u selu."
           },
           "stops": [
             {
@@ -981,7 +981,7 @@
                 "hu": "Használja a szélvédett bejárati részt.",
                 "ro": "Folosiți zona de intrare protejată de vânt.",
                 "en": "Use the wind-sheltered entrance area.",
-                "hr": "Koristite ulazni prostor zaštićen od vjetra."
+                "hr": "Koristite ulazno područje zaštićeno od vjetra."
               }
             },
             {
@@ -991,7 +991,7 @@
                 "hu": "A bóra itt oldalról erősen fújhat.",
                 "ro": "Bura poate sufla cu putere din lateral aici.",
                 "en": "The Bura can blow strongly from the side here.",
-                "hr": "Bura ovdje može snažno puhati sa strane."
+                "hr": "Bura ovdje može jako puhati sa strane."
               }
             },
             {
@@ -1001,7 +1001,7 @@
                 "hu": "Magányos hely remek téli fotókhoz.",
                 "ro": "Un loc solitar pentru fotografii de iarnă grozave.",
                 "en": "A lonely spot for great winter photos.",
-                "hr": "Usamljeno mjesto za sjajne zimske fotografije."
+                "hr": "Usamljeno mjesto za odlične zimske fotografije."
               }
             },
             {
@@ -1011,7 +1011,7 @@
                 "hu": "Forró tea a termoszhoban kötelező.",
                 "ro": "Ceaiul fierbinte în termos este obligatoriu.",
                 "en": "Hot tea in a thermos is a must.",
-                "hr": "Topli čaj u termosu je obavezan."
+                "hr": "Topli čaj iz termosa je obavezan."
               }
             },
             {
@@ -1021,7 +1021,7 @@
                 "hu": "Ügyeljen az alacsonyan lévő napra (elvakíthat).",
                 "ro": "Atenție la soarele jos (pericol de orbire).",
                 "en": "Watch out for the low sun (glare hazard).",
-                "hr": "Pazite na nisko sunce (opasnost od odsjaja)."
+                "hr": "Pazite na nisko sunce (opasnost od odbljeska)."
               }
             },
             {
@@ -1062,9 +1062,9 @@
             ],
             "hr": [
               "Nosite vjetrootporne rukavice i kapu ispod kacige.",
-              "Zrak je suh; ne zaboravite piti dovoljno vode.",
-              "Provjerite tlak u gumama; hladan zrak ga lagano smanjuje.",
-              "Završite turu do 16:00 sati; nakon toga odjednom postaje hladno."
+              "Zrak je suh; ne zaboravite ostati hidrirani.",
+              "Provjerite tlak u gumama; hladan zrak ga malo snižava.",
+              "Završite turu do 16:00; nakon toga naglo postaje hladno."
             ]
           }
         }
@@ -1094,7 +1094,7 @@
             "hu": "Parkoljon a falu központjában, és fedezze fel a sikátorokat gyalog.",
             "ro": "Parcați în centrul satului și explorați străduțele pe jos.",
             "en": "Park near the village center and explore the alleys on foot.",
-            "hr": "Parkirajte blizu centra mjesta i istražite uličice pješice."
+            "hr": "Parkirajte blizu centra sela i istražite uličice pješice."
           }
         },
         {
@@ -1132,7 +1132,7 @@
             "hu": "Hajtson le a tengerhez, és parkoljon a Riva közelében.",
             "ro": "Conduceți spre mare și parcați lângă Riva.",
             "en": "Drive down to the sea and park near the Riva.",
-            "hr": "Spustite se do mora i parkirajte blizu Rive."
+            "hr": "Spustite se automobilom do mora i parkirajte blizu Rive."
           }
         },
         {
@@ -1151,7 +1151,7 @@
             "hu": "Élvezze a tengeri szellőt evés közben.",
             "ro": "Bucurați-vă de briza mării în timp ce mâncați.",
             "en": "Enjoy the sea breeze while dining.",
-            "hr": "Uživajte u morskom povjetarcu tijekom jela."
+            "hr": "Uživajte u morskom povjetarcu tijekom objedovanja."
           }
         },
         {
@@ -1170,7 +1170,7 @@
             "hu": "Nagy parkoló közvetlenül a strandnál.",
             "ro": "Parcare mare disponibilă chiar lângă plajă.",
             "en": "Large parking lot available right at the beach.",
-            "hr": "Veliko parkiralište dostupno je izravno na plaži."
+            "hr": "Veliko parkiralište dostupno odmah na plaži."
           }
         },
         {
@@ -1189,7 +1189,7 @@
             "hu": "Rövid autós kitérő egy nagyszerű fotóhoz a lagúnáról.",
             "ro": "O scurtă abatere cu mașina pentru o fotografie grozavă a lagunei.",
             "en": "A short detour by car for a great photo of the lagoon.",
-            "hr": "Kratko skretanje automobilom za sjajnu fotografiju lagune."
+            "hr": "Kratka zaobilaznica autom za izvrsnu fotografiju lagune."
           }
         }
       ],
@@ -1198,7 +1198,7 @@
         "hu": "Autóval könnyedén összekötheti a régi Vrsi falusi idilljét a nyüzsgő tengerparti részekkel. Először látogassa meg a falu történelmi templomait, majd hajtson le Mulóba egy pihentető ebédre. A délutánt a Ricina strandon töltse, mielőtt egy rövid kirándulást tenne a szomszédos Nin városára nyíló kilátóponthoz.",
         "ro": "Cu mașina, puteți combina fără efort idila rurală a vechiului Vrsi cu secțiunile de coastă pline de viață. Vizitați mai întâi bisericile istorice din sat, apoi conduceți spre Mulo pentru un prânz relaxant. Petreceți după-amiaza pe plaja Ricina, înainte de a face o scurtă excursie la un punct de belvedere cu vedere spre orașul vecin Nin.",
         "en": "By car, you can effortlessly combine the rural idyll of old Vrsi with the lively coastal sections. First, visit the historic churches in the village, then drive down to Mulo for a relaxed lunch. Spend the afternoon at Ricina beach before taking a short trip to a viewpoint overlooking the neighboring town of Nin.",
-        "hr": "Automobilom možete bez napora spojiti ruralnu idilu starih Vrsi sa živahnim obalnim dijelovima. Prvo posjetite povijesne crkve u selu, a zatim se spustite do Mula na opušteni ručak. Provedite poslijepodne na plaži Ričina prije nego što krenete na kratki izlet do vidikovca s pogledom na susjedni grad Nin."
+        "hr": "Autom možete bez napora kombinirati ruralni idilični ugođaj starih Vrsi s živahnijim primorskim dijelovima. Najprije posjetite povijesne crkve u selu, zatim se spustite do Mula na opušteni ručak. Provedite poslijepodne na plaži Ricina prije kratke vožnje do vidikovca s pogledom na susjedni Nin."
       },
       "gastro_picks": {
         "de": [
@@ -1323,9 +1323,9 @@
           "Use the car to also explore the surrounding bays like Duboka Draga."
         ],
         "hr": [
-          "U jeku sezone parking u Mulu može biti rijedak; dođite ranije.",
-          "Ulice u starom selu su uske, vozite pažljivo.",
-          "Koristite automobil i za istraživanje okolnih uvala poput Duboke drage."
+          "U visokoj sezoni parking u Mulu može biti oskudan; dođite rano.",
+          "Ulice u starom selu su uske, vozite oprezno.",
+          "Iskoristite automobil za istraživanje okolnih uvala poput Duboke Drage."
         ]
       },
       "variants": {
@@ -1335,7 +1335,7 @@
             "hu": "Autóval az eső Vrsiben nem akadály. Kényelmesen, ázás nélkül látogatjuk meg az ófalu templomait. Az út Vrsi-Mulo felé drámai kilátást nyújt a felkavart tengerre közvetlenül az ablakból. Egy hangulatos, tengerre néző ebéd után a Ricina-strandra hajtunk, ahol a természet erejét biztonságban, a kocsiból figyelhetjük, majd a nini kilátó felé vesszük az irányt.",
             "ro": "Cu mașina, ploaia în Vrsi nu este un obstacol. Vizităm bisericile din centrul vechi confortabil, fără a ne uda. Drumul spre Vrsi-Mulo oferă vederi dramatice asupra mării agitate direct de la fereastră. După un prânz plăcut cu vedere la mare, mergem spre plaja Ricina, unde putem observa forța naturii în siguranță din vehicul.",
             "en": "By car, rain in Vrsi is no obstacle. We visit the churches in the old village center comfortably without getting wet. The drive to Vrsi-Mulo offers dramatic views of the turbulent sea directly from the window. After a cozy lunch with a sea view, we drive to Ricina beach, where nature's power can be safely observed from the vehicle before heading to the Nin viewpoint.",
-            "hr": "Automobilom kiša u Vrsima nije prepreka. Posjećujemo crkve u starom centru mjesta ugodno, bez da se smočimo. Vožnja do Vrsi-Mula nudi dramatičan pogled na uzburkano more izravno s prozora. Nakon ugodnog ručka s pogledom na more, vozimo se do plaže Ričina, gdje se snaga prirode može sigurno promatrati iz vozila prije odlaska na vidikovac Nin."
+            "hr": "Autom kiša u Vrsima nije prepreka. Udobno posjećujemo crkve u središtu starog sela bez da se smočimo. Vožnja do Vrsi-Mula pruža dramatične poglede na uzburkano more izravno kroz prozor. Nakon ugodnog ručka s pogledom na more, vozimo se do plaže Ricina, gdje se snaga prirode može sigurno promatrati iz vozila prije odlaska na vidikovac u Ninu."
           },
           "stops": [
             {
@@ -1395,7 +1395,7 @@
                 "hu": "A nini felhők látványa esőben gyakran látványos.",
                 "ro": "Atmosfera norilor deasupra Nin este adesea spectaculoasă pe ploaie.",
                 "en": "The cloud atmosphere over Nin is often spectacular in the rain.",
-                "hr": "Atmosfera oblaka nad Ninom često je spektakularna na kiši."
+                "hr": "Oblačna atmosfera nad Ninom često je spektakularna kad pada kiša."
               }
             }
           ],
@@ -1425,10 +1425,10 @@
               "Some coastal parking lots may be flooded during high tide."
             ],
             "hr": [
-              "Pazite na zamagljena stakla (koristite klimu).",
-              "Seoske ulice su uske; pažljivo manevrirajte po mokrom tlu.",
+              "Pazite na zamagljena stakla (koristite klima-uređaj).",
+              "Seoske ulice su uske; manevrirajte pažljivo po mokrom.",
               "Držite ručnik u autu u slučaju da se smočite.",
-              "Neka obalna parkirališta mogu biti poplavljena tijekom plime."
+              "Neka priobalna parkirališta mogu biti pod vodom tijekom plime."
             ]
           }
         },
@@ -1438,7 +1438,7 @@
             "hu": "A téli autózás Vrsi környékén nyugodt, mivel alig van forgalom. Felfedezzük a falu templomait, majd Mulo partjai felé vesszük az irányt. A tiszta téli levegő kiváló kilátást nyújt a szigetekre és a Velebitre. Egy konobában elfogyasztott meleg ebéd után az elhagyatott Ricina-strandra hajtunk, a napot pedig a nini panorámával zárjuk naplementekor.",
             "ro": "Călătoriile cu mașina iarna în jurul localității Vrsi sunt relaxate, deoarece traficul este redus. Explorăm bisericile din sat și apoi mergem spre coasta Mulo. Aerul curat de iarnă oferă o vizibilitate excelentă spre insule și Velebit. După un prânz cald într-o konoba, mergem la plaja pustie Ricina, încheind ziua cu vederea spre Nin la apus.",
             "en": "Winter drives around Vrsi are relaxed as there is little traffic. We explore the village churches and then head to the Mulo coast. The clear winter air offers excellent views of the islands and Velebit. After a warming lunch in a konoba, we drive to the deserted Ricina beach and end the day with the wide view of Nin at sunset.",
-            "hr": "Zimske vožnje oko Vrsi su opuštene jer je malo prometa. Istražujemo seoske crkve, a zatim se upućujemo prema obali Mula. Čisti zimski zrak nudi izvrsne poglede na otoke i Velebit. Nakon okrepljujućeg ručka u konobi, vozimo se do puste plaže Ričina i završavamo dan širokim pogledom na Nin u zalazak sunca."
+            "hr": "Zimske vožnje oko Vrsi su opuštene jer je promet mali. Istražujemo crkve u selu, a zatim krećemo prema obali Mula. Bistra zimska zrak nudi izvrsne poglede na otoke i Velebit. Nakon toplog ručka u konobi, vozimo se do napuštene plaže Ricina i završavamo dan širokim pogledom na Nin pri zalasku sunca."
           },
           "stops": [
             {
@@ -1448,7 +1448,7 @@
                 "hu": "Télen gond nélkül talál parkolót közvetlenül előtte.",
                 "ro": "Iarna veți găsi locuri de parcare direct în față fără probleme.",
                 "en": "In winter, you will find parking spots directly in front without issues.",
-                "hr": "Zimi ćete bez problema pronaći parkirna mjesta izravno ispred."
+                "hr": "Zimi ćete bez problema naći parkirno mjesto odmah ispred."
               }
             },
             {
@@ -1458,7 +1458,7 @@
                 "hu": "Látogassa meg a templomot egy pillanatnyi csendért.",
                 "ro": "Vizitați biserica pentru un moment de liniște.",
                 "en": "Visit the church for a moment of silence.",
-                "hr": "Posjetite crkvu za trenutak tišine."
+                "hr": "Posjetite crkvu na trenutak tišine."
               }
             },
             {
@@ -1468,7 +1468,7 @@
                 "hu": "A kikötői kávézók télen részben zárva tartanak.",
                 "ro": "Cafenelele din port sunt parțial închise iarna.",
                 "en": "Harbor cafes are partially closed in winter.",
-                "hr": "Lučki kafići su djelomično zatvoreni zimi."
+                "hr": "Luka kafići su djelomično zatvoreni zimi."
               }
             },
             {
@@ -1488,7 +1488,7 @@
                 "hu": "A strand parkolója télen teljesen üres.",
                 "ro": "Parcarea de la plajă este complet goală iarna.",
                 "en": "The beach parking lot is completely empty in winter.",
-                "hr": "Parkiralište na plaži je zimi potpuno prazno."
+                "hr": "Parkiralište na plaži zimi je potpuno prazno."
               }
             },
             {
@@ -1528,10 +1528,10 @@
               "Refuel in time as some stations have winter opening hours."
             ],
             "hr": [
-              "Provjerite antifriz u tekućini za pranje stakla.",
-              "Bura može uzrokovati jake bočne vjetrove; čvrsto držite upravljač.",
-              "Neke sporedne ceste mogu biti skliske zimi.",
-              "Napunite gorivo na vrijeme jer neke stanice imaju zimsko radno vrijeme."
+              "Provjerite antifriz u tekućini za pranje vjetrobrana.",
+              "Bura može uzrokovati snažne bočne udare vjetra; čvrsto držite volan.",
+              "Neki sporedni putovi mogu biti sklizavi zimi.",
+              "Napravite pravovremeno točenje goriva jer neke pumpe imaju zimsko radno vrijeme."
             ]
           }
         }
@@ -1561,7 +1561,7 @@
             "hu": "A buszmegállótól csak pár lépés a központ.",
             "ro": "De la stația de autobuz sunt doar câțiva pași până în centru.",
             "en": "From the bus stop, it's just a few steps to the center.",
-            "hr": "Od autobusne stanice samo je nekoliko koraka do centra."
+            "hr": "Od autobusne stanice do centra ima samo nekoliko koraka."
           }
         },
         {
@@ -1580,7 +1580,7 @@
             "hu": "Mindkét templom közel van egymáshoz, gyalog könnyen elérhetőek.",
             "ro": "Ambele biserici sunt aproape una de alta și ușor de vizitat pe jos.",
             "en": "Both churches are close to each other and easily accessible on foot.",
-            "hr": "Obje crkve su blizu jedna drugoj i lako dostupne pješice."
+            "hr": "Obe crkve su blizu jedna drugoj i lako dostupne pješice."
           }
         },
         {
@@ -1599,7 +1599,7 @@
             "hu": "Használja a helyi kisbuszt, vagy sétáljon lefelé a tengerhez.",
             "ro": "Folosiți microbuzul local sau plimbați-vă la vale spre mare.",
             "en": "Use the local minibus or stroll downhill to the sea.",
-            "hr": "Koristite lokalni minibus ili se prošećite nizbrdo do mora."
+            "hr": "Koristite lokalni minibus ili prošećite nizbrdo do mora."
           }
         },
         {
@@ -1637,7 +1637,7 @@
             "hu": "Egy szép séta a part mentén elvezeti a strandhoz.",
             "ro": "O plimbare frumoasă pe coastă vă duce la plajă.",
             "en": "A beautiful walk along the coast leads you to the beach.",
-            "hr": "Prekrasna šetnja uz obalu vodi vas do plaže."
+            "hr": "Lijepa šetnja uz obalu vodi vas do plaže."
           }
         },
         {
@@ -1656,7 +1656,7 @@
             "hu": "Ellenőrizze a menetrendet a Zadarba vagy Ninbe tartó visszatéréshez.",
             "ro": "Verificați orarul pentru întoarcerea spre Zadar sau Nin.",
             "en": "Check the timetable for the return trip to Zadar or Nin.",
-            "hr": "Provjerite vozni red za povratak u Zadar ili Nin."
+            "hr": "Provjerite vozni red za povratak za Zadar ili Nin."
           }
         }
       ],
@@ -1665,7 +1665,7 @@
         "hu": "Vrsi regionális buszokkal jól megközelíthető. Kezdje látogatását a bájos faluközpontban, és fedezze fel a történelmi templomokat. Egy pihentető séta vagy rövid utazás elviszi Mulo partjára, ahol lüktet a tengeri élet. Élvezze a délutánt a Ricina strandon, mielőtt kényelmesen visszautazna busszal.",
         "ro": "Vrsi este ușor accesibil cu autobuzele regionale. Începeți vizita în centrul fermecător al satului și explorați bisericile istorice. O plimbare relaxantă sau o scurtă călătorie vă va duce la coasta Mulo, unde viața maritimă este vibrantă. Bucurați-vă de după-amiază pe plaja Ricina înainte de a vă întoarce confortabil cu autobuzul.",
         "en": "Vrsi is well-accessible by regional buses. Start your visit in the charming village center and explore the historic churches. A relaxed walk or a short ride takes you to the coast of Mulo, where maritime life pulsates. Enjoy the afternoon at Ricina beach before traveling back comfortably by bus.",
-        "hr": "Vrsi su dobro povezani regionalnim autobusima. Započnite svoj posjet u šarmantnom centru sela i istražite povijesne crkve. Opuštena šetnja ili kratka vožnja vodi vas do obale Mula, gdje pulsira pomorski život. Uživajte u poslijepodnevu na plaži Ričina prije ugodnog povratka autobusom."
+        "hr": "Vrsi su dobro povezane regionalnim autobusima. Započnite posjet u šarmantnom selu i istražite povijesne crkve. Opuštena šetnja ili kratka vožnja vodi do obale Mula, gdje pulsira pomorski život. Uživajte u poslijepodnevu na plaži Ricina prije povratka autobusom."
       },
       "gastro_picks": {
         "de": [
@@ -1791,8 +1791,8 @@
         ],
         "hr": [
           "Autobusi voze rjeđe vikendom; planirajte unaprijed.",
-          "Karte se često mogu kupiti kod vozača.",
-          "Stanica 'Vrsi' nalazi se u samom središtu starog sela."
+          "Karate se često može kupiti kod vozača.",
+          "Stanica 'Vrsi' smještena je u centru starog sela."
         ]
       },
       "variants": {
@@ -1802,7 +1802,7 @@
             "hu": "Esőben a buszjáratokat használjuk, hogy szárazon ingázzunk a falu és a part között. Egy falusi kávéval kezdünk, menedékként meglátogatjuk a templomokat, majd Mulóba utazunk. Az ebéd hosszú szünetet biztosít az időjárás elől. Ezután röviden felfedezzük a kikötőt és a Ricina-strandot, mielőtt pontosan visszatérnénk a buszhoz a hazautazáshoz.",
             "ro": "Pe ploaie, folosim legăturile de autobuz pentru a face naveta uscați între sat și coastă. Începem cu o cafea în sat, vizităm bisericile ca adăpost și apoi mergem la Mulo. Prânzul oferă o pauză lungă de vreme. După aceea, explorăm scurt portul și plaja Ricina înainte de a ne întoarce la timp pentru autobuz.",
             "en": "In the rain, we use bus connections to commute dry between the village and the coast. We start with a coffee in the village, visit the churches for shelter, and then travel to Mulo. Lunch provides a long break from the weather. Afterward, we briefly explore the harbor and Ricina beach before returning on time for the bus home.",
-            "hr": "Po kiši koristimo autobusne veze kako bismo ostali suhi između sela i obale. Počinjemo s kavom u selu, posjećujemo crkve radi zaklona, a zatim putujemo u Mulo. Ručak pruža dužu pauzu od nevremena. Nakon toga kratko istražujemo luku i plažu Ričina prije pravovremenog povratka na autobus za kući."
+            "hr": "Po kiši koristimo autobusne veze za suhi prijevoz između sela i obale. Počinjemo s kavom u selu, posjećujemo crkve radi skloništa, a zatim putujemo do Mula. Ručak pruža dugu stanku od vremena. Nakon toga kratko istražujemo luku i plažu Ricina prije povratka na vrijeme za autobus kući."
           },
           "stops": [
             {
@@ -1812,7 +1812,7 @@
                 "hu": "Várjon itt a következő buszig vagy az eső csillapodásáig.",
                 "ro": "Așteptați aici până la următorul autobuz sau până se domolește ploaia.",
                 "en": "Wait here until the next bus or the rain subsides.",
-                "hr": "Pričekajte ovdje do sljedećeg autobusa ili dok kiša ne popusti."
+                "hr": "Pričekajte ovdje dok ne dođe sljedeći autobus ili ne prestane padati kiša."
               }
             },
             {
@@ -1822,7 +1822,7 @@
                 "hu": "Használja a templomokat kulturális esővédőként.",
                 "ro": "Folosiți bisericile ca protecție culturală împotriva ploii.",
                 "en": "Use the churches as cultural rain protection.",
-                "hr": "Koristite crkve kao kulturnu zaštitu od kiše."
+                "hr": "Koristite crkve kao kulturno sklonište od kiše."
               }
             },
             {
@@ -1832,7 +1832,7 @@
                 "hu": "A busz közvetlenül a sétány közelében áll meg.",
                 "ro": "Autobuzul oprește chiar lângă promenadă.",
                 "en": "The bus stops right near the promenade.",
-                "hr": "Autobus staje tik uz šetnicu."
+                "hr": "Autobus staje odmah kraj promenade."
               }
             },
             {
@@ -1852,7 +1852,7 @@
                 "hu": "Rövid kitérő a strandra, ha alábbhagy az eső.",
                 "ro": "Scurtă abatere la plajă când ploaia se domolește.",
                 "en": "Short detour to the beach if the rain subsides.",
-                "hr": "Kratki odlazak do plaže ako kiša popusti."
+                "hr": "Kratka odaja do plaže ako kiša oslabi."
               }
             },
             {
@@ -1862,7 +1862,7 @@
                 "hu": "Ellenőrizze előre online a buszmenetrend módosításait.",
                 "ro": "Verificați în prealabil online orarul autobuzelor pentru modificări.",
                 "en": "Check the bus schedule online in advance for changes.",
-                "hr": "Unaprijed provjerite vozni red autobusa na internetu zbog promjena."
+                "hr": "Provjerite vozni red autobusa online unaprijed zbog mogućih promjena."
               }
             }
           ],
@@ -1892,8 +1892,8 @@
               "Use Google Maps for real-time info if available."
             ],
             "hr": [
-              "Autobusne stanice često imaju ograničen zaklon; imajte spreman kišobran.",
-              "Autobusi mogu imati lagana kašnjenja tijekom jake kiše.",
+              "Autobusna stajališta često imaju ograničeno sklonište; uvijek imajte kišobran pri ruci.",
+              "Autobusi mogu imati manja kašnjenja tijekom jake kiše.",
               "Nosite vodootpornu obuću za šetnju do stanice.",
               "Koristite Google Maps za informacije u stvarnom vremenu ako su dostupne."
             ]
@@ -1905,7 +1905,7 @@
             "hu": "A téli tömegközlekedés Vrsi felé tervezést igényel, de nyugodt légkört kínál. A falusi kávézóban kezdünk, megnézzük a templomokat, majd a téli busszal Mulóba utazunk. A friss levegő a sétányon csodálatos. Egy bőséges ebéd után meglátogatjuk az elhagyatott Ricina-strandot. A korai naplemente előtt időben visszatérünk a megállóba.",
             "ro": "Călătoria cu transportul public iarna spre Vrsi necesită planificare, dar oferă o atmosferă liniștită. Începem la cafeneaua din sat, vizităm bisericile și mergem cu autobuzul de iarnă spre Mulo. Aerul proaspăt de pe promenadă este minunat. După un prânz copios, vizităm plaja pustie Ricina, întorcându-ne la stație înainte de apusul timpuriu.",
             "en": "Transit travel to Vrsi in winter requires planning but offers a peaceful atmosphere. We start at the village cafe, visit the churches, and take the winter bus to Mulo. The fresh air on the promenade is wonderful. After a hearty lunch, we visit the deserted Ricina beach. We return to the stop well before the early sunset.",
-            "hr": "Putovanje javnim prijevozom u Vrsi zimi zahtijeva planiranje, ali nudi mirnu atmosferu. Počinjemo u seoskom kafiću, posjećujemo crkve i idemo zimskim autobusom do Mula. Svjež zrak na šetnici je prekrasan. Nakon obilnog ručka posjećujemo pustu plažu Ričina. Vraćamo se na stanicu znatno prije ranog zalaska sunca."
+            "hr": "Putovanje javnim prijevozom do Vrsi zimi zahtijeva planiranje, ali nudi mirnu atmosferu. Počinjemo u selu u kafiću, posjećujemo crkve i uzimamo zimski autobus do Mula. Svježi zrak na šetnici je prekrasan. Nakon obilnog ručka posjećujemo napuštenu plažu Ricina. Vraćamo se na stajalište dobro prije ranog zalaska sunca."
           },
           "stops": [
             {
@@ -1915,7 +1915,7 @@
                 "hu": "Érkezés után melegedjen fel itt egy kicsit.",
                 "ro": "Încălziți-vă aici puțin după sosire.",
                 "en": "Warm up here briefly after arrival.",
-                "hr": "Ovdje se kratko ugrijte nakon dolaska."
+                "hr": "Ovdje se ukratko ugrijte nakon dolaska."
               }
             },
             {
@@ -1935,7 +1935,7 @@
                 "hu": "A téli menetrendekben gyakran ritkábban járnak a buszok.",
                 "ro": "Orarele de iarnă au adesea frecvențe reduse.",
                 "en": "Winter schedules often have reduced frequencies.",
-                "hr": "Zimski vozni redovi često imaju smanjenu učestalost."
+                "hr": "Zimski rasporedi često imaju smanjenu frekvenciju."
               }
             },
             {
@@ -1945,7 +1945,7 @@
                 "hu": "Kérdezze meg a napi ajánlatot (marenda).",
                 "ro": "Întrebați de meniul zilei (marenda).",
                 "en": "Ask for the daily special (marenda).",
-                "hr": "Pitajte za dnevnu ponudu (marendu)."
+                "hr": "Pitajte za dnevni specijal (marenda)."
               }
             },
             {
@@ -1955,7 +1955,7 @@
                 "hu": "A megállóhoz vezető visszautat még világosban tervezze meg.",
                 "ro": "Planificați drumul de întoarcere la stație pe lumină.",
                 "en": "Plan your walk back to the stop while it's still light.",
-                "hr": "Planirajte šetnju natrag do stanice dok je još dan."
+                "hr": "Isplanirajte povratnu šetnju do stajališta dok je još svjetlo."
               }
             },
             {
@@ -1965,7 +1965,7 @@
                 "hu": "Az utolsó busz télen gyakran korábban indul.",
                 "ro": "Ultimul autobuz pleacă adesea mai devreme iarna.",
                 "en": "The last bus often departs earlier in winter.",
-                "hr": "Zadnji autobus zimi često polazi ranije."
+                "hr": "Posljednji autobus često polazi ranije zimi."
               }
             }
           ],
@@ -1995,10 +1995,10 @@
               "Have small change ready for the ticket in case card payment fails."
             ],
             "hr": [
-              "Obratite pozornost na reducirane zimske vozne redove (osobito vikendom).",
-              "Nosite toplu odjeću za razdoblja čekanja na stanicama.",
-              "Bura može usporiti autobuse na mostovima (Nin/Zadar).",
-              "Imajte spreman sitan novac za kartu u slučaju da plaćanje karticom ne uspije."
+              "Obratite pozornost na smanjene zimske rasporede (posebno vikendom).",
+              "Nosite toplu odjeću za čekanje na autobusnim stajalištima.",
+              "Bura može kasniti autobuse na mostovima (Nin/Zadar).",
+              "Imajte sitniš spreman za kartu u slučaju da plaćanje karticom zakaže."
             ]
           }
         }

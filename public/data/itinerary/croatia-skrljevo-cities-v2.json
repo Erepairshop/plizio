@@ -32,7 +32,7 @@
             "hu": "Történelmi vasútállomás az Osztrák-Magyar Monarchia idejéből.",
             "ro": "Gara istorică din perioada Austro-Ungariei.",
             "en": "Historic railway station building from the Austro-Hungarian era.",
-            "hr": "Povijesna zgrada željezničkog kolodvora iz austrougarskog doba."
+            "hr": "Povijesna zgrada željezničke stanice iz austro-ugarskog razdoblja."
           }
         },
         {
@@ -51,7 +51,7 @@
             "hu": "Csodálja meg a falu központjában álló neobarokk templomot.",
             "ro": "Admirați arhitectura neobarocă din centrul satului.",
             "en": "Admire the neo-baroque architecture in the village center.",
-            "hr": "Divite se neobaroknoj arhitekturi u centru mjesta."
+            "hr": "Divite se neobaroknoj arhitekturi u središtu sela."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Fedezze fel a hagyományos szárazon rakott kőfalakat.",
             "ro": "Explorați zidurile tradiționale din piatră uscată.",
             "en": "Explore the traditional dry stone walls, a UNESCO heritage.",
-            "hr": "Istražite tradicionalne suhozide, UNESCO-vu baštinu."
+            "hr": "Istražite tradicionalne suhozide, zaštićene UNESCO-om."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Kóstolja meg a helyi specialitásokat, például a Maneštrát.",
             "ro": "Gustați specialități locale, cum ar fi supa Maneštra.",
             "en": "Try local specialties like the hearty Maneštra stew.",
-            "hr": "Probajte lokalne specijalitete poput okrepljujuće maneštre."
+            "hr": "Probajte lokalne specijalitete poput guste maneštre."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Lenyűgöző kilátás a Bakari-öbölre.",
             "ro": "Vedere spectaculoasă asupra golfului Bakar.",
             "en": "Spectacular view overlooking the Bakar Bay.",
-            "hr": "Spektakularan pogled na Bakarski zaljev."
+            "hr": "Spektakularan pogled na uvalu Bakar."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Pihenjen egy eszpresszó mellett a helyiek körében.",
             "ro": "Relaxați-vă cu un espresso alături de localnici.",
             "en": "Relax with an espresso among the locals.",
-            "hr": "Opustite se uz espresso među lokalcima."
+            "hr": "Opustite se uz espresso među mještanima."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "A nap csendes lezárása a falu központjában.",
             "ro": "Un final liniștit de zi în centrul satului.",
             "en": "A quiet end to the day in the village center.",
-            "hr": "Miran završetak dana u centru sela."
+            "hr": "Tih završetak dana u središtu sela."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "Škrljevo autentikus bepillantást nyújt a horvát hátország életébe. Napja a történelmi vasútállomáson kezdődik, majd a Jézus Szíve-templom megtekintésével folytatódik. A délelőtt a tájat meghatározó lenyűgöző suhozidi kőfalak felfedezésével telik. Egy helyi konobában elfogyasztott kiadós ebéd után élvezze a Bakari-öbölre nyíló tágas kilátást, mielőtt a napot kényelmesen zárná a faluban.",
         "ro": "Škrljevo oferă o privire autentică asupra vieții din hinterlandul croat. Ziua începe la gara istorică, urmată de o vizită la Biserica Inima lui Isus. Dimineața este dedicată explorării fascinantelor ziduri de piatră uscată (suhozidi). După un prânz copios la o tavernă locală, bucurați-vă de priveliștea panoramică asupra golfului Bakar, înainte de a încheia ziua relaxat în sat.",
         "en": "Škrljevo offers an authentic glimpse into life in the Croatian hinterland. Your day starts at the historic railway station, followed by a visit to the Church of the Sacred Heart of Jesus. The morning is spent exploring the fascinating dry stone walls (suhozidi) that define the landscape. After a hearty lunch in a local tavern, enjoy the panoramic view from the viewpoint over Bakar Bay before ending the day quietly in the village.",
-        "hr": "Škrljevo nudi autentičan uvid u život u hrvatskom zaleđu. Vaš dan počinje na povijesnom željezničkom kolodvoru, nakon čega slijedi posjet crkvi Presvetog Srca Isusova. Jutro provodite istražujući fascinantne suhozide koji definiraju ovaj krajolik. Nakon obilnog ručka u lokalnoj konobi, uživajte u panoramskom pogledu s vidikovca iznad Bakarskog zaljeva prije nego što dan mirno završite u selu."
+        "hr": "Škrljevo nudi autentičan uvid u život u hrvatskom zaleđu. Dan počinje na povijesnoj željezničkoj stanici, nakon čega slijedi posjet crkvi Srca Isusova. Jutro provedite istražujući fascinantne suhozide koji oblikuju krajolik. Nakon obilnog ručka u lokalnoj taverni, uživajte u panoramskom pogledu s vidikovca na uvalu Bakar prije mirnog završetka dana u selu."
       },
       "gastro_picks": {
         "de": [
@@ -284,10 +284,10 @@
           "Ask at the tavern for the local house wine."
         ],
         "hr": [
-          "Nosite čvrstu obuću za šetnju do suhozida.",
-          "Vidikovci su posebno fotogenični u kasno poslijepodne.",
-          "Područje je brežuljkasto, pa odvojite dovoljno vremena za uspone.",
-          "Pitajte u konobi za lokalno domaće vino."
+          "Obujte čvrstu obuću za šetnju do suhozida.",
+          "Vidikovci su posebno fotogenični u kasno popodne.",
+          "Područje je brdovito, pa si ostavite dovoljno vremena za uspona.",
+          "Raspitajte se u taverni za kućno vino."
         ]
       },
       "variants": {
@@ -297,7 +297,7 @@
             "hu": "A reggel szemerkélő esőben indul a vasútállomáson, ahol az épület nyújt menedéket. A délelőtti látogatás a Jézus Szíve templomban tökéletes alkalom a szárazon maradásra és a csendes szemlélődésre.\n\nDélben a helyi konoba gőzölgő ételei és barátságos légköre feledtetik a kinti szürkeséget. \n\nDélután a ködös Bakari-öböl misztikus, drámai látványt nyújt a kilátóból. A napot egy forró kávé mellett, fedett helyen zárjuk a falu központjában.",
             "ro": "Ziua începe la gara din Škrljevo, unde copertina oferă adăpost împotriva ploii. Dimineața, vizitați Biserica Inima lui Isus, un refugiu liniștit și uscat.\n\nLa prânz, savurați bucătăria locală într-o tavernă primitoare, în timp ce afară plouă. \n\nDupă-amiaza, punctul de belvedere asupra golfului Bakar oferă o atmosferă mistică, învăluită în ceață. Ziua se încheie cu o cafea fierbinte în centrul satului, feriți de umezeală.",
             "en": "The day begins at the Škrljevo train station, where the building provides shelter from the drizzle. In the morning, visit the Sacred Heart Church, a perfect indoor spot for quiet contemplation.\n\nAt noon, enjoy hearty local dishes in a cozy tavern while the rain falls outside. \n\nIn the afternoon, the viewpoint over Bakar Bay offers a mystical, misty atmosphere. The day ends with a hot coffee in the village center, staying dry and warm.",
-            "hr": "Dan počinje na kolodvoru Škrljevo, gdje zgrada pruža zaklon od kišice. Ujutro posjetite crkvu Presvetog Srca, savršeno zatvoreno mjesto za mirnu meditaciju.\n\nU podne uživajte u krepkim lokalnim jelima u ugodnoj konobi dok vani pada kiša. \n\nPoslijepodne vidikovac iznad Bakarskog zaljeva nudi mističnu atmosferu pod maglom. Dan završava uz toplu kavu u centru sela, na suhom i toplom."
+            "hr": "Dan počinje na željezničkoj postaji Škrljevo, gdje zgrada pruža zaklon od rosulje. Ujutro posjetite crkvu Srca Isusova, savršeno unutarnje mjesto za mirnu kontemplaciju.\n\nU podne uživajte u obilnim lokalnim jelima u ugodnoj taverni dok vani pada kiša.\n\nPopodne, vidikovac na uvalu Bakar nudi mističnu, maglovitu atmosferu. Dan završava toplom kavom u središtu sela, suhi i topli."
           },
           "stops": [
             {
@@ -307,7 +307,7 @@
                 "hu": "Használja az állomás épületét gyülekezőhelyként az eső elől.",
                 "ro": "Folosiți clădirea gării ca punct de întâlnire uscat.",
                 "en": "Use the station building as a dry meeting point.",
-                "hr": "Koristite zgradu kolodvora kao suho mjesto susreta."
+                "hr": "Iskoristite zgradu stanice kao suho mjesto za susret."
               }
             },
             {
@@ -317,7 +317,7 @@
                 "hu": "Ideális hely a belső építészet megcsodálására szárazon.",
                 "ro": "Loc ideal pentru a admira arhitectura la adăpost.",
                 "en": "Ideal spot to admire the architecture while staying dry.",
-                "hr": "Idealno mjesto za divljenje arhitekturi dok ostajete suhi."
+                "hr": "Idealno mjesto za divljenje arhitekturi dok ste zaštićeni od kiše."
               }
             },
             {
@@ -327,7 +327,7 @@
                 "hu": "Vigyázat, a szárazon rakott kőfalak vizesen csúszósak.",
                 "ro": "Atenție, pietrele umede ale zidurilor sunt alunecoase.",
                 "en": "Be careful, the wet stones of the drywalls are slippery.",
-                "hr": "Budite oprezni, mokro kamenje na suhozidima je sklisko."
+                "hr": "Budite oprezni, mokre kamene suhozida su skliske."
               }
             },
             {
@@ -337,7 +337,7 @@
                 "hu": "Válasszon asztalt a kandalló közelében, hogy megszáradjon.",
                 "ro": "Alegeți o masă lângă șemineu pentru a vă usca hainele.",
                 "en": "Choose a table near the fireplace to dry off.",
-                "hr": "Odaberite stol blizu kamina kako biste se osušili."
+                "hr": "Odaberite stol kraj peći da se osušite."
               }
             },
             {
@@ -347,7 +347,7 @@
                 "hu": "Az öböl feletti köd különleges fotótémákat kínál.",
                 "ro": "Ceața de deasupra golfului oferă oportunități foto unice.",
                 "en": "The mist over the bay creates unique photo opportunities.",
-                "hr": "Magla iznad zaljeva stvara jedinstvene prilike za fotografiranje."
+                "hr": "Magla nad uvalom stvara jedinstvene fotomogućnosti."
               }
             },
             {
@@ -357,7 +357,7 @@
                 "hu": "Egy forró tea vagy kakaó most jobb választás a fagyinál.",
                 "ro": "Un ceai fierbinte sau o cacao este de preferat înghețatei.",
                 "en": "A hot tea or cocoa is a better choice than gelato now.",
-                "hr": "Topli čaj ili kakao sada su bolji izbor od sladoleda."
+                "hr": "Topli čaj ili kakao sada je bolje nego sladoled."
               }
             },
             {
@@ -367,7 +367,7 @@
                 "hu": "Rövid séta ajánlott, vízálló lábbeli kötelező.",
                 "ro": "Se recomandă o plimbare scurtă cu încălțăminte impermeabilă.",
                 "en": "A short walk is recommended with waterproof footwear.",
-                "hr": "Preporučuje se kratka šetnja u vodootpornoj obući."
+                "hr": "Preporučuje se kratka šetnja u vodootpornom obuću."
               }
             }
           ],
@@ -401,11 +401,11 @@
               "Plan a longer lunch break to wait out any heavy downpours."
             ],
             "hr": [
-              "Nosite vodootporne cipele jer staze kod suhozida mogu biti blatnjave.",
-              "Čvrsta kabanica je bolja od kišobrana zbog mogućeg vjetra.",
-              "Iskoristite posjet crkvi kao dužu pauzu od kiše.",
-              "Bakarski zaljev izgleda posebno dramatično i fotogenično po sivom vremenu.",
-              "Planirajte dužu pauzu za ručak kako biste pričekali da prođu jaki pljuskovi."
+              "Nosite vodootporne planinarske čizme jer staze uz suhozide mogu biti blatne.",
+              "Čvrst kišni ogrtač bolji je od kišobrana zbog mogućeg vjetra.",
+              "Iskoristite posjet crkvi kao produljenu pauzu od kiše.",
+              "Uvala Bakar izgleda posebno dramatično i fotogenično u sivom vremenu.",
+              "Planirajte dužu pauzu za ručak kako biste pričekali intenzivne pljuskove."
             ]
           }
         },
@@ -415,7 +415,7 @@
             "hu": "Friss téli reggel a vasútállomáson. A tiszta levegő messzi kilátást enged a háttérben magasodó havas hegycsúcsokra. A Jézus Szíve templomban csend és menedék vár a hideg szél elől.\n\nDélben egy sűrű, meleg leves mellett melegedhetünk fel a helyi konobában. \n\nA délutáni kilátás az öbölre rövid, de emlékezetes, ahogy a nap korán bukik a tenger alá. A napot a falu központjában zárjuk egy bögre forró itallal.",
             "ro": "O dimineață proaspătă de iarnă la gara Škrljevo. Aerul curat oferă o vedere clară spre vârfurile înzăpezite din depărtare. În Biserica Inima lui Isus găsiți liniște și adăpost contra vântului rece.\n\nLa prânz, vă încălziți cu o supă consistentă în taverna locală. \n\nDupă-amiaza la punctul de belvedere este scurtă, deoarece soarele apune devreme peste Adriatică. Seara se încheie confortabil cu o băutură caldă în sat.",
             "en": "A crisp winter morning at the Škrljevo station. The clear air offers distant views of the snowy peaks inland. Inside the Sacred Heart Church, find peace and shelter from the biting cold wind.\n\nAt noon, warm up with a thick, hot soup in the local tavern. \n\nIn the afternoon, the viewpoint visit is brief but beautiful as the sun sets early over the Adriatic. The evening concludes with a warm drink in the village center.",
-            "hr": "Vedro zimsko jutro na kolodvoru Škrljevo. Čisti zrak nudi pogled na snježne vrhove u unutrašnjosti. Unutar crkve Presvetog Srca Isusova pronađite mir i zaklon od oštrog hladnog vjetra.\n\nU podne se ugrijte gustom, toplom juhom u lokalnoj konobi. \n\nPoslijepodne je posjet vidikovcu kratak ali lijep dok sunce rano zalazi nad Jadranom. Večer završava uz topli napitak u centru sela."
+            "hr": "Svježe zimsko jutro na stanici Škrljevo. Bistar zrak nudi udaljene poglede na snježne vrhove u unutrašnjosti. U crkvi Srca Isusova pronađite mir i zaklon od oštrog hladnog vjetra.\n\nU podne se ugrijte uz gustu, toplu juhu u lokalnoj taverni.\n\nPopodne, posjet vidikovcu je kratak, ali lijep dok sunce ranije zalazi nad Jadranom. Večer završava toplim napitkom u središtu sela."
           },
           "stops": [
             {
@@ -425,7 +425,7 @@
                 "hu": "Öltözzön fel melegen, az állomáson gyakran fúj a jeges szél.",
                 "ro": "Îmbrăcați-vă bine aici, vântul pe peron este adesea înghețat.",
                 "en": "Dress warmly here, the wind on the platform is often icy.",
-                "hr": "Ovdje se toplo obucite, vjetar na peronu je često leden."
+                "hr": "Obucite se toplo ovdje, vjetar na peronu često je leden."
               }
             },
             {
@@ -445,7 +445,7 @@
                 "hu": "A kőszerkezetek a téli fényben különösen karakteresek.",
                 "ro": "Structurile de piatră par deosebit de marcante în lumina iernii.",
                 "en": "The stone structures look particularly striking in the winter light.",
-                "hr": "Kamene strukture izgledaju posebno upečatljivo na zimskom svjetlu."
+                "hr": "Kamene građevine posebno upečatljivo izgledaju u zimskom svjetlu."
               }
             },
             {
@@ -465,7 +465,7 @@
                 "hu": "Érkezzen 16:00 előtt, hogy elcsípje az utolsó nappali fényeket.",
                 "ro": "Veniți înainte de ora 16:00 pentru a profita de ultima lumină.",
                 "en": "Arrive before 4:00 PM to catch the last daylight.",
-                "hr": "Dođite prije 16:00 sati kako biste uhvatili posljednje dnevno svjetlo."
+                "hr": "Stignite prije 16:00 kako biste ulovili posljednje dnevno svjetlo."
               }
             },
             {
@@ -475,7 +475,7 @@
                 "hu": "Kérjen forralt bort vagy teát a gyors felmelegedéshez.",
                 "ro": "Cereți un vin fiert sau un ceai pentru o încălzire rapidă.",
                 "en": "Ask for mulled wine or hot tea to warm up quickly.",
-                "hr": "Zatražite kuhano vino ili topli čaj za brzo zagrijavanje."
+                "hr": "Zatražite kuhano vino ili vrući čaj da se brzo ugrijete."
               }
             },
             {
@@ -485,7 +485,7 @@
                 "hu": "A falu esti fényei barátságos és meghitt hangulatot árasztanak.",
                 "ro": "Iluminatul de seară din sat creează o atmosferă primitoare.",
                 "en": "The evening lighting in the village creates a cozy atmosphere.",
-                "hr": "Večernja rasvjeta u selu stvara ugodnu atmosferu."
+                "hr": "Večernje osvjetljenje u selu stvara ugodnu atmosferu."
               }
             }
           ],
@@ -519,11 +519,11 @@
               "Winter often provides the best visibility, bring binoculars."
             ],
             "hr": [
-              "Bura može biti vrlo hladna, odjeća otporna na vjetar je obavezna.",
-              "Zalazak sunca je oko 16:30, planirajte svoju rutu u skladu s tim.",
-              "Pazite na mraz ili led na povijesnim suhozidima.",
-              "Topli napitci u konobi ključni su za zagrijavanje.",
-              "Zima često nudi najbolju vidljivost, ponesite dalekozor."
+              "Bura zna biti vrlo hladna, nepropusna odjeća je obavezna.",
+              "Zalazak sunca je oko 16:30, planirajte rutu u skladu s tim.",
+              "Pazite na mraz ili led na povijesnim kamenim zidovima.",
+              "Topli napitci u konobi su neophodni za održavanje topline.",
+              "Zima često pruža najbolju vidljivost, ponesite dvogled."
             ]
           }
         }
@@ -553,7 +553,7 @@
             "hu": "Kiváló közlekedési kapcsolatokkal rendelkező kiindulópont.",
             "ro": "Punct de plecare cu conexiuni bune.",
             "en": "Starting point with good connections.",
-            "hr": "Polazna točka s dobrim vezama."
+            "hr": "Početna točka s dobrim vezama."
           }
         },
         {
@@ -572,7 +572,7 @@
             "hu": "Rövid megálló a történelmi központban.",
             "ro": "Scurtă oprire în centrul istoric.",
             "en": "Short stop in the historic center.",
-            "hr": "Kratko zaustavljanje u povijesnoj jezgri."
+            "hr": "Kratko zaustavljanje u povijesnom središtu."
           }
         },
         {
@@ -591,7 +591,7 @@
             "hu": "Kerékpározás a kőfalak mentén.",
             "ro": "Ciclism de-a lungul zidurilor de piatră.",
             "en": "Cycling along the ancient stone walls.",
-            "hr": "Vožnja biciklom uz drevne suhozide."
+            "hr": "Vožnja biciklom uz drevne kamene zidove."
           }
         },
         {
@@ -610,7 +610,7 @@
             "hu": "Kihívást jelentő emelkedő, csodás kilátással jutalmazva.",
             "ro": "Urcuș provocator, răsplătit cu o vedere superbă.",
             "en": "Challenging climb rewarded with a great view.",
-            "hr": "Izazovan uspon nagrađen sjajnim pogledom."
+            "hr": "Zahtjevno penjanje nagrađeno odličnim pogledom."
           }
         },
         {
@@ -629,7 +629,7 @@
             "hu": "Töltődjön fel a folytatáshoz.",
             "ro": "Reîncărcați-vă bateriile pentru drum.",
             "en": "Refuel for the rest of your ride.",
-            "hr": "Napunite baterije za ostatak vožnje."
+            "hr": "Napunite energiju za ostatak vožnje."
           }
         },
         {
@@ -648,7 +648,7 @@
             "hu": "Élvezze a karsztvidéki tájat.",
             "ro": "Bucurați-vă de peisajele carstice.",
             "en": "Enjoy the rugged karst landscapes.",
-            "hr": "Uživajte u krševitim pejzažima."
+            "hr": "Uživajte u grubim krškim krajolicima."
           }
         },
         {
@@ -667,7 +667,7 @@
             "hu": "A túra zárása a faluban az indulás előtt.",
             "ro": "Finalul turului în sat înainte de plecare.",
             "en": "End of the tour in the village before departure.",
-            "hr": "Kraj ture u selu prije odlaska."
+            "hr": "Kraj ture u selu prije polaska."
           }
         }
       ],
@@ -676,7 +676,7 @@
         "hu": "A Škrljevón átvezető kerékpártúra a sportos kihívást ötvözi a kulturális felfedezésekkel. Az állomásról indulva az út a templomhoz, majd tovább a suhozidi karsztvidékre vezet. A Bakari-kilátóhoz vezető emelkedő megdolgoztatja a lábakat, de páratlan panorámát kínál. A helyi konyha mellett tartott pihenő után fedezze fel a hátország kanyargós útjait, mielőtt a túra a falu központjában véget érne.",
         "ro": "Turul cu bicicleta prin Škrljevo combină provocarea sportivă cu descoperirile culturale. Plecând de la gară, traseul duce la biserică și apoi în peisajul carstic al zidurilor suhozidi. Urcușul către punctul de belvedere Bakar solicită picioarele, dar oferă o panoramă inegalabilă. După o pauză cu preparate locale, explorați drumurile șerpuite ale hinterlandului înainte de a încheia turul în centrul satului.",
         "en": "The bike tour through Škrljevo combines physical challenge with cultural discovery. Starting from the station, the route leads to the church and further into the karst landscape of the suhozidi stone walls. The climb to the Bakar viewpoint tests your legs but offers an unparalleled panorama. After a break with local cuisine, explore the winding roads of the hinterland before the tour ends in the village center.",
-        "hr": "Biciklistička tura kroz Škrljevo spaja fizički izazov s kulturnim otkrićima. Polazeći s kolodvora, ruta vodi do crkve i dalje u krški krajolik suhozida. Uspon na vidikovac iznad Bakra testira vaše noge, ali nudi neusporedivu panoramu. Nakon pauze uz lokalnu kuhinju, istražite vijugave ceste zaleđa prije nego tura završi u centru sela."
+        "hr": "Biciklistička tura kroz Škrljevo kombinira fizički izazov s kulturnim otkrićima. Polazeći sa stanice, ruta vodi do crkve i dalje u krški kraj suhozidnih kamenih zidova. Uspon do vidikovca iznad Bakra iskušava noge, ali nudi neponovljiv panoramski pogled. Nakon pauze uz lokalnu kuhinju, istražite vijugave ceste zaleđa prije nego tura završi u središtu sela."
       },
       "gastro_picks": {
         "de": [
@@ -805,10 +805,10 @@
           "Be mindful of hikers on the narrow trails."
         ],
         "hr": [
-          "Provjerite kočnice prije strmih spustova prema moru.",
-          "Ponesite dovoljno vode jer u kršu ima malo hlada.",
-          "Brdski bicikl je idealan za neasfaltirane staze.",
-          "Pazite na pješake na uskim stazama."
+          "Provjerite kočnice prije strmih spusteva prema moru.",
+          "Ponesite dovoljno vode, u kršu je malo hlada.",
+          "Planinski bicikl idealan je za neasfaltirane puteve.",
+          "Vodite računa o pješacima na uskim stazama."
         ]
       },
       "variants": {
@@ -818,7 +818,7 @@
             "hu": "Szemerkélő esőben indul a nap az állomáson. A templomig vezető aszfaltos út vizesen csúszós lehet, óvatos pedálozást igényel. Rövid megálló a kőfalaknál a nyers természet közepén.\n\nDélben a konoba nyújt menedéket a felszerelés megszárításához és egy kiadós ebédhez. \n\nDélután a felhők között tekerünk fel a kilátóhoz, ahonnan az öböl misztikus képet mutat. A túra óvatos lejtőzéssel zárul a falu központjába.",
             "ro": "Start pe ploaie ușoară la gară. Drumul spre biserică este pe asfalt, care poate fi alunecos când e ud. O scurtă oprire la Suhozidi arată natura aspră.\n\nLa prânz, taverna oferă o pauză binevenită pentru încălzire și uscarea echipamentului. \n\nDupă-amiaza, drumul spre belvedere trece prin formațiuni de nori dramatice. Turul se încheie cu o coborâre atentă spre centrul satului.",
             "en": "Starting with light rain at the station. The ride to the church is on asphalt roads that can be slippery when wet. A quick stop at the drywalls shows the raw nature of the region.\n\nAt noon, the tavern provides a welcome break to warm up and dry your gear. \n\nIn the afternoon, the path to the viewpoint goes through dramatic cloud formations. The tour ends with a careful descent back to the village center.",
-            "hr": "Početak uz laganu kišu na kolodvoru. Vožnja do crkve je na asfaltnim cestama koje mogu biti skliske kad su mokre. Kratko zaustavljanje kod suhozida pokazuje sirovu prirodu regije.\n\nU podne konoba pruža dobrodošlu pauzu za zagrijavanje i sušenje opreme. \n\nPoslijepodne put do vidikovca prolazi kroz dramatične formacije oblaka. Tura završava pažljivim spustom natrag u centar sela."
+            "hr": "Početak s laganom kišom na stanici. Vožnja do crkve vodi asfaltiranim cestama koje mogu biti skliske kad su mokre. Kratko zaustavljanje kod suhozida otkriva sirovu prirodu regije.\n\nU podne konoba pruža dobrodošli predah za ugrijavanje i sušenje opreme.\n\nPoslijepodne staza prema vidikovcu prolazi kroz dramatične oblake. Tura završava opreznim spustom natrag u središte sela."
           },
           "stops": [
             {
@@ -828,7 +828,7 @@
                 "hu": "Ellenőrizze a fékeket, mielőtt elindul az esőben.",
                 "ro": "Verificați frânele înainte de a pleca pe ploaie.",
                 "en": "Check your brakes before setting off in the rain.",
-                "hr": "Provjerite kočnice prije polaska po kiši."
+                "hr": "Provjerite kočnice prije polaska na kiši."
               }
             },
             {
@@ -838,7 +838,7 @@
                 "hu": "Parkolja a kerékpárt egy előtető alá.",
                 "ro": "Parcați bicicleta sub o copertină.",
                 "en": "Park your bike under a roof or overhang.",
-                "hr": "Parkirajte bicikl pod krovom ili nadstrešnicom."
+                "hr": "Parkirajte bicikl ispod krova ili nadstrešnice."
               }
             },
             {
@@ -848,7 +848,7 @@
                 "hu": "Vigyázzon a falak melletti nem aszfaltozott utakon.",
                 "ro": "Atenție pe drumurile neasfaltate de lângă ziduri.",
                 "en": "Be careful on the unpaved paths next to the walls.",
-                "hr": "Budite oprezni na neasfaltiranim stazama pored zidova."
+                "hr": "Budite oprezni na neasfaltiranim putovima uz zidove."
               }
             },
             {
@@ -858,7 +858,7 @@
                 "hu": "A kilátóhoz vezető kanyarokat vegye fokozott óvatossággal.",
                 "ro": "Abordați curbele spre belvedere cu maximă prudență.",
                 "en": "Approach the curves to the viewpoint with extra caution.",
-                "hr": "Krivinama prema vidikovcu prilazite s posebnim oprezom."
+                "hr": "Približavajte se zavoju prema vidikovcu s dodatnim oprezom."
               }
             },
             {
@@ -868,7 +868,7 @@
                 "hu": "A meleg étel energiát ad a vizes visszaúthoz.",
                 "ro": "Mâncarea caldă oferă energie pentru drumul de întoarcere.",
                 "en": "Warm food gives you energy for the wet ride back.",
-                "hr": "Topla hrana daje vam energiju za mokru vožnju natrag."
+                "hr": "Topla hrana daje energiju za mokar povratak."
               }
             },
             {
@@ -878,7 +878,7 @@
                 "hu": "Kerülje a tócsákat, mélyebbek lehetnek, mint látszanak.",
                 "ro": "Evitați bălțile, pot fi mai adânci decât par.",
                 "en": "Avoid puddles, they might be deeper than they look.",
-                "hr": "Izbjegavajte lokve, mogle bi biti dublje nego što izgledaju."
+                "hr": "Izbjegavajte bare, mogu biti dublje nego što izgledaju."
               }
             },
             {
@@ -923,10 +923,10 @@
             ],
             "hr": [
               "Blatobrani su ovdje neophodni za vožnju po kiši.",
-              "Nosite uočljivu opremu za kišu radi veće sigurnosti na cesti.",
+              "Nosite reflektirajuću kabanicu za bolju sigurnost na cesti.",
               "Izbjegavajte naglo kočenje na mokrom asfaltu.",
-              "Tijekom kiše uz suhozide se mogu formirati mali potoci.",
-              "Vodootporni ruksak pouzdano će zaštititi vaše dragocjenosti."
+              "Mali potoci mogu se stvoriti uz suhozide tijekom kiše.",
+              "Vodootporan ruksak pouzdano će zaštititi vaše vrijednosti."
             ]
           }
         },
@@ -936,7 +936,7 @@
             "hu": "Fagyos kezdés a vasútállomáson. A hideg csípős, de a kristálytiszta kilátás mindenért kárpótol. Rövid megálló a templomnál egy pillanatnyi elcsendesedésre.\n\nDélben a meleg konoba a legfőbb cél, hogy felengedjenek az elgémberedett ujjak. \n\nDélután a Panoráma-úton tekerünk, ahol a bóra szél erősen fújhat. A téli naplemente a tenger felett különösen színpompás. A túra a sötétedés beálltával ér véget.",
             "ro": "Un start înghețat la gară. Frigul este tăios, dar vizibilitatea cristalină compensează totul. O scurtă oprire la biserică oferă un moment de liniște.\n\nLa prânz, taverna caldă este destinația mult așteptată pentru a vă încălzi degetele. \n\nDupă-amiaza parcurgem drumul panoramic, unde vântul Bura poate sufla cu putere. Apusul de iarnă peste mare este extrem de colorat. Turul se încheie la lăsarea întunerikuui.",
             "en": "A frosty start at the station. The cold is biting, but the crystal-clear views make up for it. A short stop at the church offers a moment of reflection.\n\nAt noon, the warm tavern is the ultimate goal to thaw out frozen fingers. \n\nIn the afternoon, ride along the Panorama road where the Bura wind can be very strong. The winter sunset over the sea is exceptionally colorful. The tour ends just as darkness falls.",
-            "hr": "Ledeni početak na kolodvoru. Hladnoća grize, ali kristalno čisti pogledi to nadoknađuju. Kratko zaustavljanje kod crkve nudi trenutak za razmišljanje.\n\nU podne je topla konoba krajnji cilj za odmrzavanje promrzlih prstiju. \n\nPoslijepodne vozite Panoramskom cestom gdje bura može biti vrlo jaka. Zimski zalazak sunca nad morem izuzetno je šaren. Tura završava upravo kad pada mrak."
+            "hr": "Mrazno jutro na stanici. Hladnoća žari, ali kristalno jasni pogledi nadoknađuju to. Kratko zaustavljanje kod crkve pruža trenutak za promišljanje.\n\nU podne je topla konoba ultimativno odredište za odmrzavanje smrznutih prstiju.\n\nPoslijepodne vozite se panoramskom cestom gdje bura može biti vrlo snažna. Zimski zalazak sunca nad morem iznimno je šaren. Tura završava upravo kad pada mrak."
           },
           "stops": [
             {
@@ -946,7 +946,7 @@
                 "hu": "Öltözzön rétegesen, a menetszél fokozza a hideget.",
                 "ro": "Îmbrăcați-vă în straturi, vântul intensifică senzația de frig.",
                 "en": "Dress in layers, the wind chill will be significant while riding.",
-                "hr": "Obucite se slojevito, osjet hladnoće bit će značajan tijekom vožnje."
+                "hr": "Obucite se u slojevima, dojam vjetra će biti značajan tijekom vožnje."
               }
             },
             {
@@ -956,7 +956,7 @@
                 "hu": "Rövid pihenő, használja ki a falak szélvédelmét.",
                 "ro": "Pauză scurtă, profitați de protecția contra vântului a zidurilor.",
                 "en": "Short break, take advantage of the walls' wind protection.",
-                "hr": "Kratka pauza, iskoristite zavjetrinu koju pružaju zidovi."
+                "hr": "Kratka pauza, iskoristite zaštitu od vjetra uz zidove."
               }
             },
             {
@@ -966,7 +966,7 @@
                 "hu": "A fehér kövek gyakran ezüstösen csillognak a téli fényben.",
                 "ro": "Pietrele albe strălucesc adesea argintiu în lumina iernii.",
                 "en": "The white stones often glisten like silver in the winter light.",
-                "hr": "Bijelo kamenje često blista poput srebra na zimskom svjetlu."
+                "hr": "Bijeli kamen često sjaji poput srebra u zimskom svjetlu."
               }
             },
             {
@@ -976,7 +976,7 @@
                 "hu": "Erős szél várható – fogja szorosan a kormányt.",
                 "ro": "Vânt puternic posibil – țineți bine de ghidon.",
                 "en": "Strong winds possible – keep a firm grip on the handlebars.",
-                "hr": "Mogući jaki vjetrovi – čvrsto držite upravljač."
+                "hr": "Mogući snažni vjetrovi – čvrsto držite upravljač."
               }
             },
             {
@@ -986,7 +986,7 @@
                 "hu": "A szénhidrátdús ételek segítenek a hideg elleni védekezésben.",
                 "ro": "Mâncarea bogată în carbohidrați ajută contra frigului.",
                 "en": "Carb-rich meals will help your body fight the cold.",
-                "hr": "Obroci bogati ugljikohidratima pomoći će vašem tijelu u borbi protiv hladnoće."
+                "hr": "Obroci bogati ugljikohidratima pomoći će tijelu u borbi protiv hladnoće."
               }
             },
             {
@@ -1006,7 +1006,7 @@
                 "hu": "Tegye le a bringát és vegyen fel egy extra kabátot.",
                 "ro": "Lăsați bicicleta și puneți-vă o jachetă suplimentară.",
                 "en": "Set the bike aside and put on an extra jacket for the wait.",
-                "hr": "Odložite bicikl i obucite dodatnu jaknu dok čekate."
+                "hr": "Ostavite bicikl i navucite dodatnu jaknu tijekom čekanja."
               }
             }
           ],
@@ -1040,11 +1040,11 @@
               "Avoid standing still for too long outdoors to prevent cooling down."
             ],
             "hr": [
-              "Zimske rukavice i navlake za cipele obavezne su za bicikliste ovdje.",
-              "Udari bure mogu biti opasni za bicikliste, provjerite prognozu vjetra.",
-              "Dani su kratki, krenite na turu najkasnije do 9:00 sati.",
-              "Pijte dovoljno tekućine, čak i ako osjećate manju žeđ zbog hladnoće.",
-              "Izbjegavajte predugo stajanje na otvorenom kako biste spriječili pothlađivanje."
+              "Zimske rukavice i navlake za cipele obavezni su za bicikliste ovdje.",
+              "Nagli udari bure mogu biti opasni za bicikliste, provjerite prognozu vjetra.",
+              "Dani su kratki, započnite turu najkasnije do 9:00.",
+              "Pijte puno tekućine, čak i ako zbog hladnoće manje osjećate žeđ.",
+              "Izbjegavajte pretjerano stajanje vani kako biste spriječili pothlađivanje."
             ]
           }
         }
@@ -1074,7 +1074,7 @@
             "hu": "Parkoljon kényelmesen a központi téren.",
             "ro": "Parcați confortabil în piața centrală.",
             "en": "Park conveniently at the central square.",
-            "hr": "Praktično parkirajte na središnjem trgu."
+            "hr": "Parkirajte praktično na glavnom trgu."
           }
         },
         {
@@ -1093,7 +1093,7 @@
             "hu": "Rövid autózás a történelmi vasútállomáshoz.",
             "ro": "Scurtă călătorie până la gara istorică.",
             "en": "Short drive to the historic railway station.",
-            "hr": "Kratka vožnja do povijesnog željezničkog kolodvora."
+            "hr": "Kratka vožnja do povijesne željezničke stanice."
           }
         },
         {
@@ -1112,7 +1112,7 @@
             "hu": "Közvetlen autós feljutás a kilátóhoz.",
             "ro": "Acces auto direct la punctul de belvedere.",
             "en": "Direct car access possible to the viewpoint.",
-            "hr": "Automobilom je moguć izravan pristup vidikovcu."
+            "hr": "Moguć izravan dolazak automobilom do vidikovca."
           }
         },
         {
@@ -1131,7 +1131,7 @@
             "hu": "Parkolás után sétáljon a kőfalak között.",
             "ro": "Parcați și mergeți pe jos printre ziduri.",
             "en": "Park and walk among the stone walls.",
-            "hr": "Parkirajte i prošećite među suhozidima."
+            "hr": "Parkirajte i prošetajte među kamenim zidovima."
           }
         },
         {
@@ -1169,7 +1169,7 @@
             "hu": "Utolsó pillantás a Kvarner-régióra.",
             "ro": "O ultimă privire asupra regiunii Kvarner.",
             "en": "Final look over the Kvarner region.",
-            "hr": "Posljednji pogled na Kvarner."
+            "hr": "Zadnji pogled na kvarnersku regiju."
           }
         }
       ],
@@ -1178,7 +1178,7 @@
         "hu": "Autóval kényelmesen felfedezhető Škrljevo és dombos környéke. A falu központjában, a templomnál és az állomásnál kezd, melyek a helyi történelem tanúi. Egy rövid autózás után eljut a Bakar feletti látványos kilátóhoz. A délután a 'klaszter-sétáé' a suhozidi kőfalaknál: hagyja ott az autót és merüljön el a természetben, majd élvezzen egy pihentető ebédet.",
         "ro": "Cu mașina, puteți explora confortabil Škrljevo și împrejurimile sale deluroase. Începeți în centrul satului, la biserică și gară, două mărturii ale istoriei locale. O scurtă călătorie vă duce la punctul de belvedere spectaculos de deasupra Bakarului. După-amiaza este dedicată plimbării în jurul zidurilor suhozidi: lăsați mașina și intrați în natură, urmată de un prânz relaxant.",
         "en": "By car, you can comfortably explore Škrljevo and its hilly surroundings. Start in the village center at the church and station, two witnesses to local history. A short drive takes you to the spectacular viewpoint above Bakar. The afternoon is dedicated to 'cluster-walking' near the suhozidi walls: leave the car and immerse yourself in nature, followed by a relaxed lunch.",
-        "hr": "Automobilom možete udobno istražiti Škrljevo i njegovu brežuljkastu okolicu. Počnite u centru sela kod crkve i kolodvora, dva svjedoka lokalne povijesti. Kratka vožnja vodi vas do spektakularnog vidikovca iznad Bakra. Poslijepodne je posvećeno kraćim šetnjama kod suhozida: ostavite auto i uronite u prirodu, nakon čega slijedi opušteni ručak."
+        "hr": "Autom udobno možete istražiti Škrljevo i njegova brdovita okolna područja. Počnite u centru sela kod crkve i stanice, dva svjedoka lokalne povijesti. Kratka vožnja vodi do spektakularnog vidikovca iznad Bakra. Poslijepodne posvetite se 'cluster-walkingu' uz suhozidne zidove: ostavite auto i uronite u prirodu, nakon čega slijedi opušteni ručak."
       },
       "gastro_picks": {
         "de": [
@@ -1307,10 +1307,10 @@
           "Fuel up at the coast before heading into the mountains."
         ],
         "hr": [
-          "Ceste su uske i vijugave, vozite pažljivo.",
-          "Parking u centru sela je ograničen, koristite označena mjesta.",
-          "Kombinirajte izlet s posjetom obližnjoj Rijeci.",
-          "Natočite gorivo na obali prije odlaska u planine."
+          "Ceste su uske i zavojite, vozite s oprezom.",
+          "Parkiranje je ograničeno u centru sela, koristite označena mjesta.",
+          "Kombinirajte putovanje s posjetom obližnjem Rijeci.",
+          "Napunite gorivo na obali prije nego krenete u planine."
         ]
       },
       "variants": {
@@ -1320,7 +1320,7 @@
             "hu": "Kényelmes autózás az esőben. Az autó tökéletes védelmet nyújt a megállók között. A Jézus Szíve templom délelőtt a nyugalom szigete.\n\nDélben a konobához hajtunk, ahol barátságos környezetben ebédelhetünk. \n\nDélután a Bakari-öböl drámai látványát élvezhetjük közvetlenül a fűtött autóból vagy esernyővel a kilátóból. A nap egy panorámás kitekintéssel zárul a visszaút előtt.",
             "ro": "O plimbare relaxantă cu mașina pe ploaie. Vehiculul oferă protecția perfectă între opriri. Biserica Inima lui Isus este o oază de liniște dimineața.\n\nLa prânz, mergem la tavernă pentru o masă caldă și plăcută. \n\nDupă-amiaza, admirați vederea dramatică asupra golfului Bakar direct din mașina caldă sau cu umbrela de la belvedere. Turul se încheie cu o privire panoramică înainte de plecare.",
             "en": "A relaxed drive in the rain. The car provides perfect shelter between the stops. The Sacred Heart Church is a peaceful haven in the morning.\n\nAt noon, drive to the tavern where you can dine in a cozy environment. \n\nIn the afternoon, enjoy the dramatic views of Bakar Bay directly from the warm car or with an umbrella at the viewpoint. The tour ends with a panoramic vista before heading back.",
-            "hr": "Opuštena vožnja po kiši. Automobil pruža savršen zaklon između postaja. Crkva Presvetog Srca ujutro je mirno utočište.\n\nU podne se odvezite do konobe gdje možete ručati u ugodnom ambijentu. \n\nPoslijepodne uživajte u dramatičnim pogledima na Bakarski zaljev izravno iz toplog automobila ili s kišobranom na vidikovcu. Tura završava panoramskim vidikom prije povratka."
+            "hr": "Opustila vožnja po kiši. Auto pruža savršeno sklonište između zaustavljanja. Crkva Srca Isusova je mirno utočište ujutro.\n\nU podne se zaputite do konobe gdje možete objedovati u ugodnom ambijentu.\n\nPoslijepodne uživajte u dramatičnim pogledima na Bakarski zaljev iz toplog automobila ili s kišobranom na vidikovcu. Tura završava panoramskim pogledom prije povratka."
           },
           "stops": [
             {
@@ -1340,7 +1340,7 @@
                 "hu": "Rövid fotómegálló, a régi épület esőben nagyon nosztalgikus.",
                 "ro": "Scurt popas foto, clădirea veche pare nostalgică pe ploaie.",
                 "en": "Quick photo stop, the old building looks very nostalgic in the rain.",
-                "hr": "Brza stanica za fotografiranje, stara zgrada izgleda vrlo nostalgično na kiši."
+                "hr": "Brzo fotografsko zaustavljanje, stara zgrada izgleda vrlo nostalgično na kiši."
               }
             },
             {
@@ -1350,7 +1350,7 @@
                 "hu": "Heves esőben maradjon az autóban a kilátás élvezetéhez.",
                 "ro": "În caz de ploaie torențială, rămâneți în mașină pentru priveliște.",
                 "en": "In case of heavy rain, stay in the car to enjoy the view.",
-                "hr": "U slučaju jake kiše, ostanite u autu i uživajte u pogledu."
+                "hr": "U slučaju jake kiše ostanite u autu i uživajte u pogledu."
               }
             },
             {
@@ -1360,7 +1360,7 @@
                 "hu": "A dűlőutak sarasak lehetnek, vigyázzon a parkolásnál.",
                 "ro": "Drumurile pot fi noroioase, atenție unde parcați.",
                 "en": "The field tracks can be muddy, be careful where you park.",
-                "hr": "Poljski putevi mogu biti blatnjavi, pazite gdje parkirate."
+                "hr": "Poljski putevi mogu biti blatni, pazite gdje parkirate."
               }
             },
             {
@@ -1380,7 +1380,7 @@
                 "hu": "Az öböl fényei gyönyörűen tükröződnek a vizes aszfalton.",
                 "ro": "Luminile golfului se reflectă superb pe asfaltul ud.",
                 "en": "The lights of the bay reflect beautifully on the wet roads.",
-                "hr": "Svjetla zaljeva prekrasno se odražavaju na mokrim cestama."
+                "hr": "Svjetla zaljeva lijepo se reflektiraju na mokrim cestama."
               }
             }
           ],
@@ -1416,9 +1416,9 @@
             "hr": [
               "Provjerite brisače prije polaska.",
               "Ulice u Škrljevu su uske i mogu biti skliske kad su mokre.",
-              "Koristite parkirna mjesta koja se nalaze izravno na vidikovcima.",
-              "Kišobran u autu neophodan je za kratke šetnje.",
-              "Osvjetljenje tijekom kiše idealno je za atmosfersku fotografiju."
+              "Koristite parkirna mjesta smještena izravno kod vidikovaca.",
+              "Kišobran u autu nužan je za kratke šetnje.",
+              "Osvjetljenje tijekom kiše idealno je za atmosferičnu fotografiju."
             ]
           }
         },
@@ -1428,7 +1428,7 @@
             "hu": "Meghitt téli autós túra. A fűtés gondoskodik a kényelemről, miközben kint fúj a bóra. Délelőtt a Jézus Szíve templomot és a nosztalgikus vasútállomást látogatjuk meg.\n\nDélben a meleg konoba a tökéletes hely egy hagyományos lakomához. \n\nDélután a kilátók felé vesszük az irányt, hogy megcsodáljuk a Bakari-öböl feletti naplementét. A téli látótávolság verhetetlen. A nap a falusi idillben ér véget.",
             "ro": "Un tur de iarnă confortabil cu mașina. Căldura din interior oferă confort în timp ce afară suflă Bura. Dimineața vizităm Biserica Inima lui Isus și gara nostalgică.\n\nLa prânz, taverna caldă este locul perfect pentru o masă tradițională. \n\nDupă-amiaza ne îndreptăm spre punctele de belvedere pentru a admira apusul peste golful Bakar. Vizibilitatea de iarnă este imbatabilă. Turul se încheie relaxat în idila rurală.",
             "en": "A cozy winter tour by car. The heater keeps you comfortable while the Bura blows outside. In the morning, visit the Sacred Heart Church and the nostalgic train station.\n\nAt noon, the warm tavern is the perfect spot for a traditional feast. \n\nIn the afternoon, head to the viewpoints to admire the sunset over Bakar Bay. The winter visibility is unbeatable. The tour ends peacefully in the village idyll.",
-            "hr": "Ugodna zimska tura automobilom. Grijanje vas drži u udobnosti dok vani puše bura. Ujutro posjetite crkvu Presvetog Srca i nostalgični željeznički kolodvor.\n\nU podne je topla konoba savršeno mjesto za tradicionalnu gozbu. \n\nPoslijepodne se uputite na vidikovce kako biste se divili zalasku sunca nad Bakarskim zaljevom. Zimska vidljivost je nepobjediva. Tura završava mirno u seoskoj idili."
+            "hr": "Ugodna zimska tura automobilom. Grijač vas drži udobnima dok bura puše vani. Ujutro posjetite crkvu Srca Isusova i nostalgičnu željezničku stanicu.\n\nU podne je topla konoba savršeno mjesto za tradicionalnu gozbu.\n\nPoslijepodne uputite se na vidikovce kako biste uživali u zalasku sunca nad Bakarskim zaljevom. Zimska vidljivost je nenadmašna. Tura završava mirno u seoskom idilu."
           },
           "stops": [
             {
@@ -1438,7 +1438,7 @@
                 "hu": "Ügyeljen a jegesedésre a templom előtti téren.",
                 "ro": "Atenție la polei în piața din fața bisericii.",
                 "en": "Watch out for icy patches on the church square.",
-                "hr": "Pazite na zaleđena mjesta na crkvenom trgu."
+                "hr": "Pazite na zaleđene mrlje na crkvenom trgu."
               }
             },
             {
@@ -1448,7 +1448,7 @@
                 "hu": "Az autó védelmet nyújt az állomáson fújó hideg szél ellen.",
                 "ro": "Mașina oferă protecție contra vântului rece de la gară.",
                 "en": "The car provides shelter from the cold wind at the station.",
-                "hr": "Automobil pruža zaklon od hladnog vjetra na kolodvoru."
+                "hr": "Auto pruža sklonište od hladnog vjetra na stanici."
               }
             },
             {
@@ -1458,7 +1458,7 @@
                 "hu": "Élvezze a naplementét közvetlenül a szélvédőn keresztül.",
                 "ro": "Bucurați-vă de apus direct prin parbrizul mașinii.",
                 "en": "Enjoy the sunset directly through the windshield.",
-                "hr": "Uživajte u zalasku sunca izravno kroz vjetrobransko staklo."
+                "hr": "Uživajte u zalasku direktno kroz vjetrobransko staklo."
               }
             },
             {
@@ -1468,7 +1468,7 @@
                 "hu": "A kőfalak télen különösen archaikus hatást keltenek.",
                 "ro": "Zidurile de piatră par deosebit de arhaice iarna.",
                 "en": "The drywalls look particularly archaic in winter.",
-                "hr": "Suhozidi zimi izgledaju posebno arhaično."
+                "hr": "Suhozidi izgledaju posebno arhaično zimi."
               }
             },
             {
@@ -1478,7 +1478,7 @@
                 "hu": "Egy forró tea vagy leves a legjobb felmelegedés a sofőrnek.",
                 "ro": "O supă fierbinte este cea mai bună metodă de încălzire pentru șofer.",
                 "en": "A hot tea or soup is the best way for the driver to warm up.",
-                "hr": "Topli čaj ili juha najbolji su način da se vozač ugrije."
+                "hr": "Topli čaj ili juha najbolji su način da vozač dođe k sebi od hladnoće."
               }
             },
             {
@@ -1522,11 +1522,11 @@
               "Mountain roads can get slippery with sudden temperature drops."
             ],
             "hr": [
-              "Pripremite strugač za led i zimsku tekućinu za stakla.",
-              "Bočni udari bure mogu utjecati na upravljanje automobilom.",
-              "Planirajte povratak prije nego što padne potpuni mrak.",
-              "Pazite na divljač na šumskim dionicama ceste u sumrak.",
-              "Planinske ceste mogu postati skliske uz nagli pad temperature."
+              "Imajte spremnu strugalicu za led i tekućinu za stakla za zimu.",
+              "Bura bočni vjetrovi mogu utjecati na upravljanje vašim vozilom.",
+              "Planirajte povratak prije nego što potpuno padne mrak.",
+              "Pazite na divlje životinje na šumskim dionicama ceste u sumrak.",
+              "Planinske ceste mogu postati skliske pri naglom padu temperature."
             ]
           }
         }
@@ -1575,7 +1575,7 @@
             "hu": "Rövid séta a vasútállomástól.",
             "ro": "Scurtă plimbare de la gară.",
             "en": "Short walk from the railway station.",
-            "hr": "Kratka šetnja od željezničkog kolodvora."
+            "hr": "Kratka šetnja od željezničke stanice."
           }
         },
         {
@@ -1594,7 +1594,7 @@
             "hu": "Túra a történelmi kőfalakhoz.",
             "ro": "Drumeție către zidurile istorice de piatră.",
             "en": "Hike to the historic stone walls.",
-            "hr": "Pješačenje do povijesnih suhozida."
+            "hr": "Pješačenje do povijesnih kamenih zidova."
           }
         },
         {
@@ -1660,7 +1660,7 @@
         "hu": "Vonattal Škrljevo tökéletesen elérhető egy stresszmentes egynapos kiránduláshoz. Az állomásról gyalogosan fedezheti fel a falut. A suhozidi kőfalakhoz és a Bakari-öbölre néző kilátóhoz vezető séta kiválóan összeköthető egy hagyományos ebéddel. Élvezze a turisták áradatától távoli nyugalmat, mielőtt kényelmesen visszautazna a személyvonattal.",
         "ro": "Cu trenul, Škrljevo este perfect accesibil pentru o excursie de o zi fără stres. De la gară, explorați satul pe jos. Drumeția către zidurile suhozidi și punctul de belvedere de deasupra golfului Bakar poate fi combinată minunat cu un prânz tradițional. Bucurați-vă de liniște departe de fluxurile de turiști înainte de a reveni confortabil cu trenul regional.",
         "en": "By train, Škrljevo is perfectly accessible for a stress-free day trip. From the station, explore the village on foot. The walk to the suhozidi walls and the viewpoint overlooking Bakar Bay can be easily combined with a traditional lunch. Enjoy the peace away from the tourist crowds before heading back comfortably by regional train.",
-        "hr": "Vlakom je Škrljevo savršeno dostupno za jednodnevni izlet bez stresa. S kolodvora istražite selo pješice. Šetnja do suhozida i vidikovca s pogledom na Bakarski zaljev lako se može kombinirati s tradicionalnim ručkom. Uživajte u miru daleko od turističke gužve prije ugodnog povratka regionalnim vlakom."
+        "hr": "Vlakom je Škrljevo savršeno dostupno za bezbrižni jednodnevni izlet. Od stanice istražite selo pješice. Šetnju do suhozidnih zidova i vidikovca s pogledom na Bakarski zaljev lako je kombinirati s tradicionalnim ručkom. Uživajte u miru daleko od turističkih gužvi prije povratka udobnim regionalnim vlakom."
       },
       "gastro_picks": {
         "de": [
@@ -1789,9 +1789,9 @@
           "Use the app for ticket purchases."
         ],
         "hr": [
-          "Unaprijed provjerite vozni red (HŽ Putnički prijevoz).",
-          "Od kolodvora do centra sela ide se lagano uzbrdo.",
-          "Vlakovi ne voze često, pa planirajte malo slobodnog vremena.",
+          "Provjerite vozni red unaprijed (HŽ Putnički prijevoz).",
+          "Mala uzbrdica od stanice do centra sela.",
+          "Vozovi voze rijetko, zato planirajte dodatno vrijeme za sigurnost.",
           "Koristite aplikaciju za kupnju karata."
         ]
       },
@@ -1802,7 +1802,7 @@
             "hu": "Érkezés a vasútállomásra esőben. Az állomásépület nyújtja az első védelmet. Rövid séta vezet a Jézus Szíve templomhoz, ahol felfedezhetjük a belsőt.\n\nDélben a konobában elköltött ebéd a nap fénypontja, távol a kinti nyirkosságtól. \n\nDélután a Bakari-öböl kilátója hangulatos hátteret ad a felhők ellenére is. A nap a falu főterén zárul a vonatindulás előtt.",
             "ro": "Sosire la gara Škrljevo pe ploaie. Clădirea gării oferă primul adăpost. O scurtă plimbare duce la Biserica Inima lui Isus, unde puteți explora interiorul.\n\nLa prânz, masa la tavernă este punctul culminant, oferind refugiu contra umidității. \n\nDupă-amiaza, punctul de belvedere spre golful Bakar oferă un cadru atmosferic în ciuda norilor. Turul se încheie în piața satului înainte de plecarea trenului.",
             "en": "Arrival at Škrljevo station in the rain. The station building provides the first shelter. A short walk leads to the Sacred Heart Church, where you can explore the interior.\n\nAt noon, lunch in the tavern is the highlight, providing an escape from the dampness outside. \n\nIn the afternoon, the viewpoint over Bakar Bay offers an atmospheric backdrop despite the clouds. The tour ends at the village square before your train departs.",
-            "hr": "Dolazak na kolodvor Škrljevo po kiši. Zgrada kolodvora pruža prvi zaklon. Kratka šetnja vodi do crkve Presvetog Srca, gdje možete istražiti unutrašnjost.\n\nU podne je ručak u konobi vrhunac dana, pruža bijeg od vlage izvana. \n\nPoslijepodne vidikovac iznad Bakarskog zaljeva nudi atmosfersku kulisu unatoč oblacima. Tura završava na seoskom trgu prije polaska vlaka."
+            "hr": "Dolazak na stanicu Škrljevo po kiši. Zgrada kolodvora pruža prvo sklonište. Kratka šetnja vodi do crkve Presvetog Srca, gdje možete razgledati interijer.\n\nU podne je ručak u konobi glavni doživljaj, bijeg od vanjske vlage.\n\nPoslijepodne vidikovac nad Bakarskim zaljevom pruža atmosferičan pogled unatoč oblacima. Tura završava na seoskom trgu prije polaska vašeg vlaka."
           },
           "stops": [
             {
@@ -1812,7 +1812,7 @@
                 "hu": "Várjon az épületben a csatlakozásra vagy az eső csendesedésére.",
                 "ro": "Așteptați în interiorul clădirii legătura sau oprirea ploii.",
                 "en": "Wait inside the building for your connection or for the rain to let up.",
-                "hr": "Čekajte u zgradi svoj vlak ili da kiša posustane."
+                "hr": "Pričekajte unutra u zgradi na vezu ili dok kiša ne prestane."
               }
             },
             {
@@ -1822,7 +1822,7 @@
                 "hu": "Használja ki az időt egy részletes, fedett helyen történő látogatásra.",
                 "ro": "Folosiți timpul pentru o vizită detaliată la adăpost.",
                 "en": "Use the time for a detailed indoor visit.",
-                "hr": "Iskoristite vrijeme za detaljan posjet unutrašnjosti."
+                "hr": "Iskoristite vrijeme za detaljan unutarnji obilazak."
               }
             },
             {
@@ -1832,7 +1832,7 @@
                 "hu": "Maradjon a kövezett utakon a sár elkerülése érdekében.",
                 "ro": "Rămâneți pe drumurile pavate pentru a evita noroiul.",
                 "en": "Stay on the paved paths to avoid the mud.",
-                "hr": "Ostanite na asfaltiranim stazama kako biste izbjegli blato."
+                "hr": "Ostanite na popločanim stazama kako biste izbjegli blato."
               }
             },
             {
@@ -1862,7 +1862,7 @@
                 "hu": "Kísérje figyelemmel a menetrendet az esetleges késések miatt.",
                 "ro": "Urmăriți programul de transport în caz de întârzieri.",
                 "en": "Keep an eye on the schedule in case of any delays.",
-                "hr": "Pazite na vozni red u slučaju bilo kakvih kašnjenja."
+                "hr": "Pratite vozni red zbog mogućih kašnjenja."
               }
             }
           ],
@@ -1896,11 +1896,11 @@
               "Use the tavern as your primary base during persistent rain."
             ],
             "hr": [
-              "Provjerite veze vlakom za Rijeku u slučaju lošeg vremena.",
-              "Mali sklopivi kišobran praktičan je za šetnje između postaja.",
-              "Čekaonice na kolodvoru su osnovne, pa se toplo obucite.",
-              "Preporučuje se planinarska obuća čak i uz javni prijevoz zbog pješačkih dionica.",
-              "Koristite konobu kao glavnu bazu tijekom dugotrajne kiše."
+              "Provjerite veze vlaka do Rijeke u slučaju lošeg vremena.",
+              "Mali sklopivi kišobran praktičan je za šetnje između stanica.",
+              "Čekaonice na stanici su osnovne, zato se odjenite toplo.",
+              "Preporučuju se planinarske cipele čak i pri tranzitu zbog pješačkih dionica.",
+              "Konoba je vaš primarni oslonac tijekom uporne kiše."
             ]
           }
         },
@@ -1910,7 +1910,7 @@
             "hu": "Tiszta téli nap indul a vasútállomáson. A hideg levegő frissítő. A Jézus Szíve templom meglátogatása után elsétálunk a jellegzetes kőfalakhoz.\n\nDélben élvezzük a melegséget és a vendégszeretetet a konobában. \n\nA délutáni kilátás az öbölre fantasztikus, mielőtt a nap korán eltűnik a dombok mögött. A nap a falu főterén zárul, éppen a vonat indulására.",
             "ro": "O zi senină de iarnă începe la gara Škrljevo. Aerul rece este revigorant. După o vizită la Biserica Inima lui Isus, mergem spre zidurile de piatră specifice.\n\nLa prânz, ne bucurăm de căldura și ospitalitatea de la tavernă. \n\nDupă-amiaza, belvederea oferă o vedere fantastică înainte ca soarele să apună devreme după dealuri. Turul se încheie în piața satului, fix la timp pentru tren.",
             "en": "A clear winter day starts at the Škrljevo station. The cold air is refreshing. After visiting the Sacred Heart Church, walk to the distinctive drywalls.\n\nAt noon, enjoy the warmth and hospitality in the tavern. \n\nIn the afternoon, the viewpoint offers a fantastic sight before the sun disappears early behind the hills. The tour ends at the village square, just in time for your train departure.",
-            "hr": "Vedar zimski dan počinje na kolodvoru Škrljevo. Hladan zrak osvježava. Nakon posjeta crkvi Presvetog Srca, prošećite do prepoznatljivih suhozida.\n\nU podne uživajte u toplini i gostoprimstvu u konobi. \n\nPoslijepodne vidikovac nudi fantastičan prizor prije nego sunce rano nestane iza brda. Tura završava na seoskom trgu, taman na vrijeme za polazak vlaka."
+            "hr": "Bistri zimski dan počinje na stanici Škrljevo. Hladan zrak osvježava. Nakon posjeta crkvi Presvetog Srca, prošećite do karakterističnih suhozida.\n\nU podne uživajte u toplini i gostoprimstvu u konobi.\n\nPoslijepodne vidikovac nudi fantastičan prizor prije nego što sunce rano zađe iza brežuljaka. Tura završava na seoskom trgu, upravo na vrijeme za polazak vlaka."
           },
           "stops": [
             {
@@ -1920,7 +1920,7 @@
                 "hu": "Figyeljen a téli menetrendre, lehetnek eltérések.",
                 "ro": "Verificați mersul trenurilor de iarnă, pot exista modificări.",
                 "en": "Check the winter schedules, as there might be changes.",
-                "hr": "Provjerite zimski vozni red jer može doći do promjena."
+                "hr": "Provjerite zimske vozne redove, jer može doći do promjena."
               }
             },
             {
@@ -1930,7 +1930,7 @@
                 "hu": "Csendes hely egy rövid melegedő pihenőhöz.",
                 "ro": "Un loc liniștit pentru o scurtă pauză de încălzire.",
                 "en": "A quiet place for a short break to warm up.",
-                "hr": "Mirno mjesto za kratku pauzu za zagrijavanje."
+                "hr": "Mirno mjesto za kratku pauzu i podgrijavanje."
               }
             },
             {
@@ -1940,7 +1940,7 @@
                 "hu": "A hegyekre nyíló kilátás télen különösen tiszta.",
                 "ro": "Vederea spre munți este deosebit de clară iarna.",
                 "en": "The view of the mountains is particularly clear in winter.",
-                "hr": "Pogled na planine je posebno čist zimi."
+                "hr": "Pogled na planine posebno je jasan zimi."
               }
             },
             {
@@ -1960,7 +1960,7 @@
                 "hu": "A szél itt fent télen nagyon csípős lehet.",
                 "ro": "Vântul aici sus poate fi foarte tăios iarna.",
                 "en": "The wind up here can be very biting in winter.",
-                "hr": "Vjetar ovdje gore zimi može biti vrlo oštar."
+                "hr": "Vjetar ovdje zimi može biti vrlo oštar."
               }
             },
             {
@@ -1970,7 +1970,7 @@
                 "hu": "Várjon egy közeli kávézóban, ha késik a vonat.",
                 "ro": "Așteptați într-o cafenea din apropiere dacă trenul întârzie.",
                 "en": "Wait in a nearby cafe if the train is delayed.",
-                "hr": "Čekajte u obližnjem kafiću ako vlak kasni."
+                "hr": "Pričekajte u obližnjem kafiću ako je vlak u kašnjenju."
               }
             }
           ],
@@ -2005,10 +2005,10 @@
             ],
             "hr": [
               "Nosite tople čarape i izoliranu obuću za vrijeme čekanja.",
-              "Bura može odgoditi vlakove i autobuse, ostanite informirani.",
-              "Planirajte povratak tako da ne morate čekati u mraku.",
-              "Termosica s toplim čajem odličan je suputnik u šetnjama.",
-              "Zimsko sunce u Škrljevu može biti jako, koristite kremu za sunce za lice."
+              "Bura može izazvati kašnjenja vlakova i autobusa, ostanite informirani.",
+              "Isplanirajte povratak kako ne biste morali čekati po mraku.",
+              "Termos s vrućim čajem izvrstan je suputnik za šetnje.",
+              "Zimsko sunce u Škrljevu može biti jako, koristite kremu za sunčanje za lice."
             ]
           }
         }

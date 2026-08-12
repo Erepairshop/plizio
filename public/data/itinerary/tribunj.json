@@ -21,7 +21,8 @@
             "de": "Historischer Inselkern",
             "hu": "Történelmi szigetmag",
             "ro": "Centrul istoric insular",
-            "en": "Historical Islet Core"
+            "en": "Historical Islet Core",
+            "hr": "Povijesna jezgra otočića"
           },
           "coords": [
             15.7445,
@@ -37,7 +38,7 @@
             "hu": "Kora reggel a legfotogénebbek a szűk utcák.",
             "ro": "Străzile înguste sunt cele mai fotogenice dimineața devreme.",
             "en": "The narrow alleys are most photogenic early in the morning.",
-            "hr": "Uske uličice su najfotogeničnije rano ujutro."
+            "hr": "Uske uličice najfotogeničnije su rano ujutro."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Alte Steinbrücke",
             "hu": "Régi kőhíd",
             "ro": "Podul vechi de piatră",
-            "en": "Old Stone Bridge"
+            "en": "Old Stone Bridge",
+            "hr": "Stari kameni most"
           },
           "coords": [
             15.745,
@@ -61,7 +63,7 @@
             "hu": "Tökéletes hely a befutó halászhajók megfigyelésére.",
             "ro": "Locul perfect pentru a observa bărcile de pescuit care sosesc.",
             "en": "The perfect spot to watch incoming fishing boats.",
-            "hr": "Savršeno mjesto za promatranje dolaska ribarskih brodova."
+            "hr": "Savršeno mjesto za promatranje pristiglih ribarskih brodica."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Esel-Denkmal",
             "hu": "Szamár-emlékmű",
             "ro": "Monumentul Măgarului",
-            "en": "Donkey Monument"
+            "en": "Donkey Monument",
+            "hr": "Spomenik magarcu"
           },
           "coords": [
             15.746,
@@ -85,7 +88,7 @@
             "hu": "A dalmát parasztok kemény munkájának szimbóluma.",
             "ro": "Un simbol al muncii grele a țăranilor dalmațieni.",
             "en": "A symbol of the hard work of Dalmatian peasants.",
-            "hr": "Simbol teškog rada dalmatinskih težaka."
+            "hr": "Simbol teškog rada dalmatinskih seljaka."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Marina Tribunj",
             "hu": "Tribunj kikötő",
             "ro": "Marina Tribunj",
-            "en": "Marina Tribunj"
+            "en": "Marina Tribunj",
+            "hr": "Marina Tribunj"
           },
           "coords": [
             15.7475,
@@ -117,7 +121,8 @@
             "de": "Kirche St. Nikolaus",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "hr": "Crkva sv. Nikole"
           },
           "coords": [
             15.743,
@@ -133,7 +138,7 @@
             "hu": "A kaptató a legjobb panorámával jutalmazza meg.",
             "ro": "Urcarea vă răsplătește cu cea mai bună vedere panoramică.",
             "en": "The climb rewards you with the best panoramic view.",
-            "hr": "Uspon vas nagrađuje najboljim panoramskim pogledom."
+            "hr": "Uspon vam pruža najbolji panoramski pogled."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Strand Zamalin",
             "hu": "Zamalin strand",
             "ro": "Plaja Zamalin",
-            "en": "Zamalin Beach"
+            "en": "Zamalin Beach",
+            "hr": "Plaža Zamalin"
           },
           "coords": [
             15.741,
@@ -157,7 +163,7 @@
             "hu": "A fenyőfák természetes árnyékot adnak délután.",
             "ro": "Pinii oferă umbră naturală după-amiaza.",
             "en": "Pine trees provide natural shade in the afternoon.",
-            "hr": "Borovi pružaju prirodni hlad u poslijepodnevnim satima."
+            "hr": "Borovi pružaju prirodni hlad popodne."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "A napot a történelmi szigetmagon kezdi, ahol a régi Dalmácia még ma is él. Sétáljon végig a szűk kőutcákon, mielőtt átkelne a hídon a szárazföldre.\n\nDélidőben látogassa meg a híres szamár-emlékművet, és tegyen egy sétát a modern kikötőben. Itt érezheti a hagyomány és a modern hajós turizmus közötti kontrasztot.\n\nDélután másszon fel a Szent Miklós-dombra. A kis templom a falu felett trónol, és lélegzetelállító kilátást nyújt a Kornati-szigetekre.\n\nA napot pihenéssel zárja a Zamalin strandon. Élvezze a kristálytiszta vizet és a fenyők illatát, miközben a nap lassan a tengerbe vész.",
         "ro": "Ziua începe pe insula istorică, unde vechea Dalmație este încă vie. Plimbați-vă pe străzile înguste de piatră înainte de a traversa podul spre continent.\n\nLa prânz, vizitați celebrul monument al măgarului și plimbați-vă prin marina modernă. Aici puteți simți contrastul dintre tradiție și turismul nautic modern.\n\nDupă-amiaza, urcați pe dealul Sfântului Nicolae. Mica biserică domină satul și oferă o vedere panoramică uluitoare asupra insulelor Kornati.\n\nÎncheiați ziua relaxându-vă pe plaja Zamalin. Bucurați-vă de apa cristalină și de mirosul pinilor, în timp ce soarele apune încet în mare.",
         "en": "Your day begins on the historical islet, where old Dalmatia is still alive. Stroll through the narrow stone alleys before crossing the bridge to the mainland.\n\nAt midday, visit the famous donkey monument and walk through the modern marina. Here you can feel the contrast between tradition and modern nautical tourism.\n\nIn the afternoon, climb up to St. Nicholas Hill. The small church sits above the village, offering a breathtaking view of the Kornati islands.\n\nEnd the day relaxing at Zamalin Beach. Enjoy the crystal-clear water and the scent of pine trees as the sun slowly sinks into the sea.",
-        "hr": "Vaš dan počinje na povijesnom otočiću, gdje stara Dalmacija još uvijek živi. Prošećite uskim kamenim uličicama prije nego što prijeđete most prema kopnu.\n\nU podne posjetite poznati spomenik tovaru i prošećite modernom marinom. Ovdje možete osjetiti kontrast između tradicije i modernog nautičkog turizma.\n\nPoslijepodne se popnite na brdo Sv. Nikole. Crkvica se nalazi iznad sela i nudi prekrasan pogled na otočje Kornati.\n\nZavršite dan opuštajući se na plaži Zamalin. Uživajte u kristalno čistom moru i mirisu borova dok sunce polako tone u more."
+        "hr": "Vaš dan počinje na povijesnom otočiću, gdje stara Dalmacija još živi. Prošećite uskim kamenim uličicama prije nego prijeđete most na kopno.\n\nU podne posjetite poznati spomenik magarcu i prošetajte modernom marinom. Ovdje možete osjetiti kontrast između tradicije i suvremenog nautičkog turizma.\n\nPoslijepodne se popnite na brdo sv. Nikole. Mala crkvica stoji iznad sela i nudi zadivljujući pogled na Kornate.\n\nZavršite dan opuštanjem na plaži Zamalin. Uživajte u kristalno čistom moru i mirisu borova dok se sunce polako spušta u more."
       },
       "gastro_picks": {
         "de": [
@@ -361,9 +367,9 @@
         ],
         "hr": [
           "Tribunj je vrlo kompaktan, sve je lako dostupno pješice.",
-          "Nosite čvrstu obuću za uspon do crkve Sv. Nikole.",
-          "Posjetite luku u rano navečer kada se ribari vraćaju.",
-          "Kameni most je usko grlo, pripazite na promet."
+          "Nosite čvrstu obuću za uspon do crkve sv. Nikole.",
+          "Posjetite luku rano navečer kad se ribari vraćaju.",
+          "Kameni most je usko grlo, pazite na promet."
         ]
       },
       "variants": {
@@ -372,7 +378,8 @@
             "de": "Ihr Tag beginnt auf der historischen Insel, wo das alte Dalmatien noch lebendig ist. Schlendern Sie durch die engen Steingassen, bevor Sie die Brücke zum Festland überqueren.\n\nMittags besuchen Sie das berühmte Esel-Denkmal und spazieren durch die moderne Marina. Hier spüren Sie den Kontrast zwischen Tradition und modernem Nautik-Tourismus.\n\nAm Nachmittag steigen Sie zum Hügel des Heiligen Nikolaus hinauf. Die kleine Kirche thront über dem Ort und bietet eine atemberaubende Aussicht auf die Inselwelt der Kornaten.\n\nDen Tag lassen Sie entspannt am Strand Zamalin ausklingen. Genießen Sie das kristallklare Wasser und den Duft der Pinien, während die Sonne langsam im Meer versinkt.",
             "hu": "A napot a történelmi szigetmagon kezdi, ahol a régi Dalmácia még ma is él. Sétáljon végig a szűk kőutcákon, mielőtt átkelne a hídon a szárazföldre.\n\nDélidőben látogassa meg a híres szamár-emlékművet, és tegyen egy sétát a modern kikötőben. Itt érezheti a hagyomány és a modern hajós turizmus közötti kontrasztot.\n\nDélután másszon fel a Szent Miklós-dombra. A kis templom a falu felett trónol, és lélegzetelállító kilátást nyújt a Kornati-szigetekre.\n\nA napot pihenéssel zárja a Zamalin strandon. Élvezze a kristálytiszta vizet és a fenyők illatát, miközben a nap lassan a tengerbe vész.",
             "ro": "Ziua începe pe insula istorică, unde vechea Dalmație este încă vie. Plimbați-vă pe străzile înguste de piatră înainte de a traversa podul spre continent.\n\nLa prânz, vizitați celebrul monument al măgarului și plimbați-vă prin marina modernă. Aici puteți simți contrastul dintre tradiție și turismul nautic modern.\n\nDupă-amiaza, urcați pe dealul Sfântului Nicolae. Mica biserică domină satul și oferă o vedere panoramică uluitoare asupra insulelor Kornati.\n\nÎncheiați ziua relaxându-vă pe plaja Zamalin. Bucurați-vă de apa cristalină și de mirosul pinilor, în timp ce soarele apune încet în mare.",
-            "en": "Your day begins on the historical islet, where old Dalmatia is still alive. Stroll through the narrow stone alleys before crossing the bridge to the mainland.\n\nAt midday, visit the famous donkey monument and walk through the modern marina. Here you can feel the contrast between tradition and modern nautical tourism.\n\nIn the afternoon, climb up to St. Nicholas Hill. The small church sits above the village, offering a breathtaking view of the Kornati islands.\n\nEnd the day relaxing at Zamalin Beach. Enjoy the crystal-clear water and the scent of pine trees as the sun slowly sinks into the sea."
+            "en": "Your day begins on the historical islet, where old Dalmatia is still alive. Stroll through the narrow stone alleys before crossing the bridge to the mainland.\n\nAt midday, visit the famous donkey monument and walk through the modern marina. Here you can feel the contrast between tradition and modern nautical tourism.\n\nIn the afternoon, climb up to St. Nicholas Hill. The small church sits above the village, offering a breathtaking view of the Kornati islands.\n\nEnd the day relaxing at Zamalin Beach. Enjoy the crystal-clear water and the scent of pine trees as the sun slowly sinks into the sea.",
+            "hr": "Vaš dan počinje na povijesnom otočiću, gdje stara Dalmacija još živi. Prošećite uskim kamenim uličicama prije nego prijeđete most na kopno.\n\nU podne posjetite poznati spomenik magarcu i prošetajte modernom marinom. Ovdje možete osjetiti kontrast između tradicije i suvremenog nautičkog turizma.\n\nPoslijepodne se popnite na brdo sv. Nikole. Mala crkvica stoji iznad sela i nudi zadivljujući pogled na Kornate.\n\nZavršite dan opuštanjem na plaži Zamalin. Uživajte u kristalno čistom moru i mirisu borova dok se sunce polako spušta u more."
           },
           "stops": [
             {
@@ -380,13 +387,15 @@
                 "de": "Historischer Inselkern",
                 "hu": "Történelmi szigetmag",
                 "ro": "Centrul istoric insular",
-                "en": "Historical Islet Core"
+                "en": "Historical Islet Core",
+                "hr": "Povijesna jezgra otočića"
               },
               "tip_5lang": {
                 "de": "Frühmorgens sind die engen Gassen am fotogensten.",
                 "hu": "Kora reggel a legfotogénebbek a szűk utcák.",
                 "ro": "Străzile înguste sunt cele mai fotogenice dimineața devreme.",
-                "en": "The narrow alleys are most photogenic early in the morning."
+                "en": "The narrow alleys are most photogenic early in the morning.",
+                "hr": "Uske uličice najfotogeničnije su rano ujutro."
               }
             },
             {
@@ -394,13 +403,15 @@
                 "de": "Alte Steinbrücke",
                 "hu": "Régi kőhíd",
                 "ro": "Podul vechi de piatră",
-                "en": "Old Stone Bridge"
+                "en": "Old Stone Bridge",
+                "hr": "Stari kameni most"
               },
               "tip_5lang": {
                 "de": "Der perfekte Ort, um einlaufende Fischerboote zu beobachten.",
                 "hu": "Tökéletes hely a befutó halászhajók megfigyelésére.",
                 "ro": "Locul perfect pentru a observa bărcile de pescuit care sosesc.",
-                "en": "The perfect spot to watch incoming fishing boats."
+                "en": "The perfect spot to watch incoming fishing boats.",
+                "hr": "Savršeno mjesto za promatranje pristiglih ribarskih brodica."
               }
             },
             {
@@ -408,13 +419,15 @@
                 "de": "Esel-Denkmal",
                 "hu": "Szamár-emlékmű",
                 "ro": "Monumentul Măgarului",
-                "en": "Donkey Monument"
+                "en": "Donkey Monument",
+                "hr": "Spomenik magarcu"
               },
               "tip_5lang": {
                 "de": "Ein Symbol für die harte Arbeit der dalmatinischen Bauern.",
                 "hu": "A dalmát parasztok kemény munkájának szimbóluma.",
                 "ro": "Un simbol al muncii grele a țăranilor dalmațieni.",
-                "en": "A symbol of the hard work of Dalmatian peasants."
+                "en": "A symbol of the hard work of Dalmatian peasants.",
+                "hr": "Simbol teškog rada dalmatinskih seljaka."
               }
             },
             {
@@ -422,13 +435,15 @@
                 "de": "Marina Tribunj",
                 "hu": "Tribunj kikötő",
                 "ro": "Marina Tribunj",
-                "en": "Marina Tribunj"
+                "en": "Marina Tribunj",
+                "hr": "Marina Tribunj"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Yachten bei einem Spaziergang am Kai.",
                 "hu": "Csodálja meg a jachtokat a rakparti séta közben.",
                 "ro": "Admirați iahturile în timpul unei plimbări pe chei.",
-                "en": "Admire the yachts during a stroll along the quay."
+                "en": "Admire the yachts during a stroll along the quay.",
+                "hr": "Divite se jahtama tijekom šetnje rivom."
               }
             },
             {
@@ -436,13 +451,15 @@
                 "de": "Kirche St. Nikolaus",
                 "hu": "Szent Miklós-templom",
                 "ro": "Biserica Sfântul Nicolae",
-                "en": "St. Nicholas Church"
+                "en": "St. Nicholas Church",
+                "hr": "Crkva sv. Nikole"
               },
               "tip_5lang": {
                 "de": "Der Aufstieg belohnt Sie mit dem besten Panoramablick.",
                 "hu": "A kaptató a legjobb panorámával jutalmazza meg.",
                 "ro": "Urcarea vă răsplătește cu cea mai bună vedere panoramică.",
-                "en": "The climb rewards you with the best panoramic view."
+                "en": "The climb rewards you with the best panoramic view.",
+                "hr": "Uspon vam pruža najbolji panoramski pogled."
               }
             },
             {
@@ -450,13 +467,15 @@
                 "de": "Strand Zamalin",
                 "hu": "Zamalin strand",
                 "ro": "Plaja Zamalin",
-                "en": "Zamalin Beach"
+                "en": "Zamalin Beach",
+                "hr": "Plaža Zamalin"
               },
               "tip_5lang": {
                 "de": "Pinien bieten hier natürlichen Schatten am Nachmittag.",
                 "hu": "A fenyőfák természetes árnyékot adnak délután.",
                 "ro": "Pinii oferă umbră naturală după-amiaza.",
-                "en": "Pine trees provide natural shade in the afternoon."
+                "en": "Pine trees provide natural shade in the afternoon.",
+                "hr": "Borovi pružaju prirodni hlad popodne."
               }
             }
           ],
@@ -618,6 +637,12 @@
               "Wear sturdy shoes for the climb to St. Nicholas Church.",
               "Visit the harbor in the early evening when the fishermen return.",
               "The stone bridge is a bottleneck, watch out for traffic."
+            ],
+            "hr": [
+              "Tribunj je vrlo kompaktan, sve je lako dostupno pješice.",
+              "Nosite čvrstu obuću za uspon do crkve sv. Nikole.",
+              "Posjetite luku rano navečer kad se ribari vraćaju.",
+              "Kameni most je usko grlo, pazite na promet."
             ]
           }
         },
@@ -627,7 +652,7 @@
             "hu": "A délelőtt a történelmi szigeten az esernyők alatt is hangulatos a szűk utcákban. Délben a kikötő fedett részei nyújtanak menedéket, nézve a ringatózó hajókat. Délután óvatosan felkapaszkodunk a Szent Miklós-dombra a drámai szürke panorámáért. Az estét az óváros egyik meleg konobájában zárjuk, hallgatva az eső kopogását a régi köveken.",
             "ro": "Dimineața pe insula istorică este fermecătoare chiar și sub umbrelă, pe străzile înguste. La prânz, marina oferă adăpost și o vedere spre catargele ce dansează în ploaie. După-amiaza urcăm cu grijă pe dealul Sf. Nicolae pentru o panoramă dramatică. Seara se încheie într-o tavernă caldă din nucleul vechi, ascultând ploaia bătând în ferestre.",
             "en": "The morning on the islet remains cozy under umbrellas within the narrow alleys. At noon, the marina provides shelter and views of swaying masts. In the afternoon, we carefully ascend St. Nicholas hill for a dramatic, misty panorama. The evening concludes in a warm local konoba in the old core, listening to the rain drumming on the ancient stones.",
-            "hr": "Jutro na otočiću ostaje ugodno pod kišobranima u uskim uličicama. U podne, marina pruža zaklon i pogled na jarbole koji se njišu. Poslijepodne se pažljivo penjemo na brdo Sv. Nikole za dramatičnu, maglovitu panoramu. Večer završava u toploj lokalnoj konobi u staroj jezgri, slušajući kišu kako bubnja po drevnom kamenu."
+            "hr": "Jutro na otočiću ostaje ugodno pod suncobranima unutar uskih uličica. U podne marina pruža zaklon i pogled na njihajuće jarbole. Poslijepodne se oprezno uspinjemo na brdo sv. Nikole za dramatičnu, maglovitu panoramu. Večer zaključujemo u toploj lokalnoj konobi u staroj jezgri, slušajući kišu kako bubnja po drevnom kamenu."
           },
           "stops": [
             {
@@ -647,7 +672,7 @@
                 "hu": "Vigyázat, a vizes kövek nagyon csúsznak.",
                 "ro": "Atenție, pietrele ude sunt foarte alunecoase.",
                 "en": "Caution, wet stones are very slippery.",
-                "hr": "Oprez, mokro kamenje je vrlo klizavo."
+                "hr": "Upozorenje, mokre stijene su vrlo skliske."
               }
             },
             {
@@ -667,7 +692,7 @@
                 "hu": "Ideális hely egy fedett kávészünethez.",
                 "ro": "Loc ideal pentru o pauză de cafea acoperită.",
                 "en": "Ideal spot for a covered coffee break.",
-                "hr": "Idealno mjesto za pauzu za kavu pod krovom."
+                "hr": "Idealno mjesto za kavu pod krovićem."
               }
             },
             {
@@ -677,7 +702,7 @@
                 "hu": "Az út esőben csúszós, viseljen túracipőt!",
                 "ro": "Poteca este alunecoasă, purtați pantofi aderenți!",
                 "en": "The path is slippery in rain; wear sturdy shoes!",
-                "hr": "Staza je klizava po kiši; nosite čvrstu obuću!"
+                "hr": "Put je klizav po kiši; nosite čvrstu obuću!"
               }
             },
             {
@@ -687,7 +712,7 @@
                 "hu": "Élvezze a sétát a háborgó tenger mellett.",
                 "ro": "Bucurați-vă de o plimbare lângă marea agitată.",
                 "en": "Enjoy a walk by the churning sea.",
-                "hr": "Uživajte u šetnji uz nemirno more."
+                "hr": "Uživajte u šetnji uz razbuktalo more."
               }
             }
           ],
@@ -717,10 +742,10 @@
               "Umbrellas are often impractical due to coastal winds."
             ],
             "hr": [
-              "Nosite vodonepropusne cipele za pješačenje po brdovitom terenu.",
-              "Marina nudi najbolje natkrivene kafiće.",
-              "Kameni most postaje izuzetno klizav kad je mokar.",
-              "Kišobrani su često nepraktični zbog obalnih vjetrova."
+              "Nosite vodootpornu planinarsku obuću za brdoviti teren.",
+              "Marina nudi najbolje kafiće s natkrivenim dijelovima.",
+              "Kameni most postaje iznimno klizav kad je mokar.",
+              "Suncobrani su često nepraktični zbog obalnih vjetrova."
             ]
           }
         },
@@ -730,7 +755,7 @@
             "hu": "A friss téli reggel az üres kikötőnél indul. Délben egy forró hallevessel melegszünk a híd közelében. A délutáni túra a Szent Miklós-dombra vezet, ahol a téli nap kristálytiszta fénnyel világítja meg az Adriát. Mivel a nap fél 5 körül lebukik, élvezzük a tüzes naplementét, majd egy fűtött étterembe húzódunk vissza.",
             "ro": "O dimineață răcoroasă de iarnă începe lângă portul gol. La prânz ne încălzim cu o supă de pește lângă pod. După-amiaza aparține urcării la Sf. Nicolae, unde soarele de iarnă scaldă marea în lumină cristalină. Cum soarele apune pe la 16:30, savurăm apusul focos și ne retragem într-un restaurant încălzit.",
             "en": "A crisp winter morning begins by the empty harbor. At noon, we warm up with fish soup near the bridge. The afternoon is dedicated to the St. Nicholas climb, where the winter sun bathes the Adriatic in crystal-clear light. Since the sun sets around 4:30 PM, we enjoy the fiery sunset before retreating to a heated restaurant.",
-            "hr": "Vedro zimsko jutro počinje uz praznu luku. U podne se grijemo uz riblju juhu blizu mosta. Poslijepodne je rezervirano za uspon na Sv. Nikolu, gdje zimsko sunce kupa Jadran u kristalno čistom svjetlu. Budući da sunce zalazi oko 16:30, uživamo u vatrenom zalasku prije povlačenja u grijani restoran."
+            "hr": "Vedro zimsko jutro počinje kraj prazne luke. U podne se grijemo ribljom juhom blizu mosta. Poslijepodne je posvećeno usponu na sv. Nikolu, gdje zimsko sunce kupa Jadran u kristalno čistom svjetlu. Budući da sunce zalazi oko 16:30, uživamo u vatrenom zalasku prije povlačenja u grijani restoran."
           },
           "stops": [
             {
@@ -750,7 +775,7 @@
                 "hu": "Itt télen gyakran fúj az erős szél.",
                 "ro": "Vântul suflă adesea puternic aici iarna.",
                 "en": "The wind often blows strongly here in winter.",
-                "hr": "Vjetar ovdje zimi često jako puše."
+                "hr": "Tijekom zime ovdje često puše jak vjetar."
               }
             },
             {
@@ -760,7 +785,7 @@
                 "hu": "Rövid megálló a hűvös tengeri szélben.",
                 "ro": "O scurtă oprire în briza răcoroasă a mării.",
                 "en": "A short stop in the cool sea breeze.",
-                "hr": "Kratko zaustavljanje na hladnom morskom povjetarcu."
+                "hr": "Kratko zadržavanje u svježem morskom povjetarcu."
               }
             },
             {
@@ -770,7 +795,7 @@
                 "hu": "Élvezze a holtszezon csendjét.",
                 "ro": "Bucurați-vă de liniștea din extrasezon.",
                 "en": "Enjoy the silence of the off-season.",
-                "hr": "Uživajte u tišini izvan sezone."
+                "hr": "Uživajte u tišini predsezone."
               }
             },
             {
@@ -820,10 +845,10 @@
               "Visibility of the islands is at its best in winter."
             ],
             "hr": [
-              "Bura može biti vrlo hladna; odjeća otporna na vjetar je obavezna.",
-              "Sunce zalazi već u 16:30.",
-              "Mnogi kafići na plaži su zatvoreni zimi.",
-              "Vidljivost otoka je najbolja zimi."
+              "Bura može biti vrlo hladna; nepropusna odjeća je obavezna.",
+              "Sunce zalazi već oko 16:30.",
+              "Mnogi kafići na plaži zatvoreni su zimi.",
+              "Vidljivost otoka najbolja je zimi."
             ]
           }
         }
@@ -842,7 +867,8 @@
             "de": "Marina Tribunj",
             "hu": "Tribunj kikötő",
             "ro": "Marina Tribunj",
-            "en": "Marina Tribunj"
+            "en": "Marina Tribunj",
+            "hr": "Marina Tribunj"
           },
           "coords": [
             15.7475,
@@ -858,7 +884,7 @@
             "hu": "Jó kiindulópont, kerékpárkölcsönzővel a közelben.",
             "ro": "Punct bun de plecare, cu închiriere de biciclete în apropiere.",
             "en": "Good starting point with bike rentals nearby.",
-            "hr": "Dobra polazna točka s najmom bicikala u blizini."
+            "hr": "Dobar polazni punkt s najmom bicikala u blizini."
           }
         },
         {
@@ -866,7 +892,8 @@
             "de": "Historischer Inselkern",
             "hu": "Történelmi szigetmag",
             "ro": "Centrul istoric insular",
-            "en": "Historical Islet Core"
+            "en": "Historical Islet Core",
+            "hr": "Povijesna jezgra otočića"
           },
           "coords": [
             15.7445,
@@ -890,7 +917,8 @@
             "de": "Esel-Denkmal",
             "hu": "Szamár-emlékmű",
             "ro": "Monumentul Măgarului",
-            "en": "Donkey Monument"
+            "en": "Donkey Monument",
+            "hr": "Spomenik magarcu"
           },
           "coords": [
             15.746,
@@ -914,7 +942,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Nagyboldogasszony-templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption"
+            "en": "Church of the Assumption",
+            "hr": "Crkva Uznesenja"
           },
           "coords": [
             15.748,
@@ -930,7 +959,7 @@
             "hu": "Csendes hely egy rövid elmélyüléshez.",
             "ro": "Un loc liniștit pentru o scurtă meditație.",
             "en": "A quiet place for a short reflection.",
-            "hr": "Mirno mjesto za kratko razmišljanje."
+            "hr": "Mirno mjesto za kratku molitvu i razmišljanje."
           }
         },
         {
@@ -938,7 +967,8 @@
             "de": "Bucht Sovlja",
             "hu": "Sovlja-öböl",
             "ro": "Golful Sovlja",
-            "en": "Sovlja Bay"
+            "en": "Sovlja Bay",
+            "hr": "Sovlja uvala"
           },
           "coords": [
             15.733,
@@ -954,7 +984,7 @@
             "hu": "Kevésbé zsúfolt, mint a központi strand.",
             "ro": "Mai puțin aglomerat decât plaja principală.",
             "en": "Less crowded than the main beach.",
-            "hr": "Manja gužva nego na glavnoj plaži."
+            "hr": "Manje gužve nego na glavnoj plaži."
           }
         }
       ],
@@ -963,7 +993,7 @@
         "hu": "Kerékpárral nemcsak a központot, hanem Tribunj gyönyörű környékét is felfedezheti. Induljon a kikötőből, és tekerjen a történelmi szigethez.\n\nA szamár-emlékműnél tett megálló után folytassa útját a Nagyboldogasszony-templomhoz, majd induljon el a tengerparti úton nyugat felé.\n\nA túra csúcspontja a Sovlja-öböl, egy csendes paradicsom, amely kerékpárral ideálisan megközelíthető. Élvezze ott a hosszú fürdőzést.\n\nBefejezésül tekerjen vissza, és élvezze az Adriai-tenger látványát a tengerparti sétányról.",
         "ro": "Cu bicicleta, veți explora nu numai centrul, ci și împrejurimile frumoase ale orașului Tribunj. Începeți de la marină și pedalați spre insula istorică.\n\nDupă o oprire la monumentul măgarului, continuați spre biserica Adormirea Maicii Domnului, înainte de a porni pe drumul de coastă spre vest.\n\nPunctul culminant al turului este golful Sovlja, un paradis liniștit, ideal accesibil cu bicicleta. Bucurați-vă de o baie lungă acolo.\n\nLa final, pedalați înapoi și bucurați-vă de vederea la Marea Adriatică de pe faleza.",
         "en": "By bike, you will explore not only the center but also the beautiful surroundings of Tribunj. Start at the marina and pedal to the historical islet.\n\nAfter a stop at the donkey monument, continue to the Church of the Assumption before heading west along the coastal road.\n\nThe highlight of the tour is Sovlja Bay, a quiet paradise ideally accessible by bike. Enjoy a long swim there.\n\nTo finish, pedal back and enjoy the view of the Adriatic from the waterfront promenade.",
-        "hr": "Biciklom ćete istražiti ne samo centar već i prekrasnu okolicu Tribunja. Krenite iz marine i odpedalirajte do povijesnog otočića.\n\nNakon zaustavljanja kod spomenika tovaru, nastavite do crkve Velike Gospe prije nego što krenete na zapad obalnom cestom.\n\nVrhunac ture je uvala Sovlja, mirni raj idealno dostupan biciklom. Tamo uživajte u dugom kupanju.\n\nZa kraj, odpedalirajte natrag i uživajte u pogledu na Jadran s obalne šetnice."
+        "hr": "Biciklom ćete istražiti ne samo centar nego i prekrasnu okolinu Tribunja. Počnite u marini i vozite do povijesnog otočića.\n\nNakon stajanja kod spomenika magarcu nastavite do Crkve Uznesenja pa krenite zapadno uz obalnu cestu.\n\nVrhunac ture je Sovlja uvala, mirni raj do kojeg je idealno doći biciklom. Uživajte u dugom kupanju.\n\nZa kraj se vratite pedalanjem i uživajte u pogledu na Jadran s rive."
       },
       "gastro_picks": {
         "de": [
@@ -1092,10 +1122,10 @@
           "A detour into the hinterland offers great olive groves."
         ],
         "hr": [
-          "Obalne staze su uglavnom ravne, ali sunce je jako.",
+          "Obalni putovi su uglavnom ravni, ali sunce je jako.",
           "Koristite stalke za bicikle u marini i na plaži Zamalin.",
-          "Pripazite na pješake na obalnoj šetnici.",
-          "Izlet u zaleđe nudi sjajne maslinike."
+          "Pazite na pješake na rivi.",
+          "Izlet u zaleđe nudi prekrasne maslinike."
         ]
       },
       "variants": {
@@ -1104,7 +1134,8 @@
             "de": "Mit dem Fahrrad erkunden Sie nicht nur das Zentrum, sondern auch die wunderschöne Umgebung von Tribunj. Starten Sie an der Marina und radeln Sie zur historischen Insel.\n\nNach einem Stopp am Esel-Denkmal fahren Sie weiter zur Kirche Mariä Himmelfahrt, bevor Sie die Küstenstraße Richtung Westen nehmen.\n\nDer Höhepunkt der Tour ist die Bucht Sovlja, ein ruhiges Paradies, das ideal mit dem Rad erreichbar ist. Genießen Sie dort ein langes Bad.\n\nZum Abschluss radeln Sie zurück und genießen den Ausblick auf die Adria von der Uferpromenade aus.",
             "hu": "Kerékpárral nemcsak a központot, hanem Tribunj gyönyörű környékét is felfedezheti. Induljon a kikötőből, és tekerjen a történelmi szigethez.\n\nA szamár-emlékműnél tett megálló után folytassa útját a Nagyboldogasszony-templomhoz, majd induljon el a tengerparti úton nyugat felé.\n\nA túra csúcspontja a Sovlja-öböl, egy csendes paradicsom, amely kerékpárral ideálisan megközelíthető. Élvezze ott a hosszú fürdőzést.\n\nBefejezésül tekerjen vissza, és élvezze az Adriai-tenger látványát a tengerparti sétányról.",
             "ro": "Cu bicicleta, veți explora nu numai centrul, ci și împrejurimile frumoase ale orașului Tribunj. Începeți de la marină și pedalați spre insula istorică.\n\nDupă o oprire la monumentul măgarului, continuați spre biserica Adormirea Maicii Domnului, înainte de a porni pe drumul de coastă spre vest.\n\nPunctul culminant al turului este golful Sovlja, un paradis liniștit, ideal accesibil cu bicicleta. Bucurați-vă de o baie lungă acolo.\n\nLa final, pedalați înapoi și bucurați-vă de vederea la Marea Adriatică de pe faleza.",
-            "en": "By bike, you will explore not only the center but also the beautiful surroundings of Tribunj. Start at the marina and pedal to the historical islet.\n\nAfter a stop at the donkey monument, continue to the Church of the Assumption before heading west along the coastal road.\n\nThe highlight of the tour is Sovlja Bay, a quiet paradise ideally accessible by bike. Enjoy a long swim there.\n\nTo finish, pedal back and enjoy the view of the Adriatic from the waterfront promenade."
+            "en": "By bike, you will explore not only the center but also the beautiful surroundings of Tribunj. Start at the marina and pedal to the historical islet.\n\nAfter a stop at the donkey monument, continue to the Church of the Assumption before heading west along the coastal road.\n\nThe highlight of the tour is Sovlja Bay, a quiet paradise ideally accessible by bike. Enjoy a long swim there.\n\nTo finish, pedal back and enjoy the view of the Adriatic from the waterfront promenade.",
+            "hr": "Biciklom ćete istražiti ne samo centar nego i prekrasnu okolinu Tribunja. Počnite u marini i vozite do povijesnog otočića.\n\nNakon stajanja kod spomenika magarcu nastavite do Crkve Uznesenja pa krenite zapadno uz obalnu cestu.\n\nVrhunac ture je Sovlja uvala, mirni raj do kojeg je idealno doći biciklom. Uživajte u dugom kupanju.\n\nZa kraj se vratite pedalanjem i uživajte u pogledu na Jadran s rive."
           },
           "stops": [
             {
@@ -1112,13 +1143,15 @@
                 "de": "Marina Tribunj",
                 "hu": "Tribunj kikötő",
                 "ro": "Marina Tribunj",
-                "en": "Marina Tribunj"
+                "en": "Marina Tribunj",
+                "hr": "Marina Tribunj"
               },
               "tip_5lang": {
                 "de": "Guter Startpunkt mit Fahrradverleih in der Nähe.",
                 "hu": "Jó kiindulópont, kerékpárkölcsönzővel a közelben.",
                 "ro": "Punct bun de plecare, cu închiriere de biciclete în apropiere.",
-                "en": "Good starting point with bike rentals nearby."
+                "en": "Good starting point with bike rentals nearby.",
+                "hr": "Dobra polazna točka s najmom bicikala u blizini."
               }
             },
             {
@@ -1126,13 +1159,15 @@
                 "de": "Historischer Inselkern",
                 "hu": "Történelmi szigetmag",
                 "ro": "Centrul istoric insular",
-                "en": "Historical Islet Core"
+                "en": "Historical Islet Core",
+                "hr": "Povijesni otočić - jezgra"
               },
               "tip_5lang": {
                 "de": "In den Gassen bitte das Fahrrad schieben.",
                 "hu": "A szűk utcákban kérjük, tolja a kerékpárt.",
                 "ro": "Vă rugăm să împingeți bicicleta pe ulițele înguste.",
-                "en": "Please push your bike in the narrow alleys."
+                "en": "Please push your bike in the narrow alleys.",
+                "hr": "Gurajte bicikl kroz uske uličice."
               }
             },
             {
@@ -1140,13 +1175,15 @@
                 "de": "Esel-Denkmal",
                 "hu": "Szamár-emlékmű",
                 "ro": "Monumentul Măgarului",
-                "en": "Donkey Monument"
+                "en": "Donkey Monument",
+                "hr": "Spomenik magarcu"
               },
               "tip_5lang": {
                 "de": "Ein schnelles Foto mit dem Maskottchen des Ortes.",
                 "hu": "Egy gyors fotó a falu kabalájával.",
                 "ro": "O fotografie rapidă cu mascota satului.",
-                "en": "A quick photo with the village mascot."
+                "en": "A quick photo with the village mascot.",
+                "hr": "Brza fotografija s maskotom sela."
               }
             },
             {
@@ -1154,13 +1191,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Nagyboldogasszony-templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of the Assumption"
+                "en": "Church of the Assumption",
+                "hr": "Crkva Uznesenja"
               },
               "tip_5lang": {
                 "de": "Ein ruhiger Ort für eine kurze Besinnung.",
                 "hu": "Csendes hely egy rövid elmélyüléshez.",
                 "ro": "Un loc liniștit pentru o scurtă meditație.",
-                "en": "A quiet place for a short reflection."
+                "en": "A quiet place for a short reflection.",
+                "hr": "Mirno mjesto za kratku zgodu/refleksiju."
               }
             },
             {
@@ -1168,13 +1207,15 @@
                 "de": "Bucht Sovlja",
                 "hu": "Sovlja-öböl",
                 "ro": "Golful Sovlja",
-                "en": "Sovlja Bay"
+                "en": "Sovlja Bay",
+                "hr": "Sovlja uvala"
               },
               "tip_5lang": {
                 "de": "Weniger überlaufen als der Hauptstrand.",
                 "hu": "Kevésbé zsúfolt, mint a központi strand.",
                 "ro": "Mai puțin aglomerat decât plaja principală.",
-                "en": "Less crowded than the main beach."
+                "en": "Less crowded than the main beach.",
+                "hr": "Manje gužve nego na glavnoj plaži."
               }
             }
           ],
@@ -1284,6 +1325,12 @@
               "Use the bike racks at the marina and Zamalin beach.",
               "Watch out for pedestrians on the waterfront promenade.",
               "A detour into the hinterland offers great olive groves."
+            ],
+            "hr": [
+              "Obalni putovi su uglavnom ravni, ali sunce je jako.",
+              "Koristite stalke za bicikle u marini i na plaži Zamalin.",
+              "Pazite na pješake na rivi.",
+              "Izlet u zaleđe nudi prekrasne maslinike."
             ]
           }
         },
@@ -1293,7 +1340,7 @@
             "hu": "A biciklitúra a kikötőben indul, ahol az aszfalt még jól tapad. Délben gyalog fedezzük fel a szigetet, amíg a gépek fedett helyen pihennek. Délután óvatosan tekerünk át az esőben a Nagyboldogasszony-templomhoz. A nap a Sovlja-öbölben zárul, ahol a szürke tenger misztikus nyugalmat áraszt.",
             "ro": "Turul cu bicicleta începe la marină, unde asfaltul are încă aderență. La prânz explorăm insula pe jos, în timp ce bicicletele stau la adăpost. După-amiaza pedalăm cu grijă prin ploaie spre biserică. Ziua se încheie cu o scurtă plimbare spre golful Sovlja, unde marea gri emană o liniște mistică.",
             "en": "The bike tour starts at the marina where the asphalt still has grip. At noon, we explore the islet on foot while the bikes stay sheltered. In the afternoon, we pedal carefully through the rain to the Church of Assumption. The day ends at Sovlja Bay, where the gray sea radiates a mystical calm.",
-            "hr": "Biciklistička tura počinje u marini gdje asfalt još uvijek dobro drži. U podne istražujemo otočić pješice dok su bicikli na zaklonu. Poslijepodne pažljivo pedaliramo kroz kišu do crkve Velike Gospe. Dan završava u uvali Sovlja, gdje sivo more zrači mističnim mirom."
+            "hr": "Biciklistička tura počinje u marini gdje je asfalt još dobar. U podne istražujemo otočić pješice dok su bicikli zaštićeni. Popodne pedaliramo oprezno kroz kišu do Crkve Uznesenja. Dan završava u Sovlja uvali, gdje sivo more zrači mističnim mirom."
           },
           "stops": [
             {
@@ -1303,7 +1350,7 @@
                 "hu": "Óvatosan induljon el a vizes talajon.",
                 "ro": "Atenție la plecare pe suprafața umedă.",
                 "en": "Be careful starting off on wet surfaces.",
-                "hr": "Budite oprezni pri kretanju na mokrim površinama."
+                "hr": "Pazite pri polasku po mokrim površinama."
               }
             },
             {
@@ -1313,7 +1360,7 @@
                 "hu": "Inkább tolja, a macskakő nagyon csúszik.",
                 "ro": "Mai bine împingeți, pavajul este alunecos.",
                 "en": "Better to push; the cobblestones are slippery.",
-                "hr": "Bolje je gurati; kaldrma je klizava."
+                "hr": "Bolje gurati; kaldrma je skliska."
               }
             },
             {
@@ -1323,7 +1370,7 @@
                 "hu": "Rövid fotómegálló esőkabátban.",
                 "ro": "Scurtă oprire foto în pelerină de ploaie.",
                 "en": "Short photo stop in a raincoat.",
-                "hr": "Kratko zaustavljanje za sliku u kabanici."
+                "hr": "Kratka foto-stanka u kišnom ogrtaču."
               }
             },
             {
@@ -1343,7 +1390,7 @@
                 "hu": "Óvatosan a kanyarokban a visszaúton.",
                 "ro": "Atenție la curbe pe drumul de întoarcere.",
                 "en": "Be careful in the curves on the way back.",
-                "hr": "Budite oprezni u zavojima na povratku."
+                "hr": "Pazite u zavojima na povratku."
               }
             }
           ],
@@ -1373,10 +1420,10 @@
               "Wear bright clothing for better visibility."
             ],
             "hr": [
-              "Provjerite kočnice; mokri kamen je varljiv.",
+              "Provjerite kočnice; mokri kamen je opasan.",
               "Koristite blatobrane protiv prskanja s ceste.",
-              "Kaldrma u jezgri je izuzetno klizava.",
-              "Nosite svijetlu odjeću za bolju vidljivost."
+              "Kaldrma u središtu je iznimno skliska.",
+              "Nosite vidljivu odjeću za bolju uočljivost."
             ]
           }
         },
@@ -1386,7 +1433,7 @@
             "hu": "A téli reggel tiszta levegőt kínál a kikötő felé. Délben letesszük a gépeket, és élvezzük a téli napsütést az óvárosban. Délután tempósan tekerünk a templomhoz, majd tovább a Sovlja-öbölbe. A hideg és a korai naplemente miatt délután 5 előtt befejezzük a túrát, és keresünk egy meleg helyet.",
             "ro": "Dimineața de iarnă oferă aer curat pentru drumul spre marină. La prânz lăsăm bicicletele și savurăm soarele de iarnă în centrul vechi. După-amiaza pedalăm rapid spre biserică și apoi spre golful Sovlja. Din cauza frigului și a apusului timpuriu, încheiem turul înainte de ora 17.",
             "en": "The winter morning offers crisp air for the ride to the marina. At noon, we park the bikes and enjoy the winter sun in the old core. In the afternoon, we pedal briskly to the church and on to Sovlja Bay. Due to the cold and early sunset, we finish the tour before 5 PM and find a warm spot.",
-            "hr": "Zimsko jutro nudi svjež zrak za vožnju do marine. U podne parkiramo bicikle i uživamo u zimskom suncu u staroj jezgri. Poslijepodne žustro pedaliramo do crkve i dalje do uvale Sovlja. Zbog hladnoće i ranog zalaska sunca, završavamo turu prije 17 sati i pronalazimo toplo mjesto."
+            "hr": "Zimsko jutro nudi svjež zrak za vožnju do marine. U podne ostavljamo bicikle i uživamo u zimskom suncu u staroj jezgri. Popodne žustro pedaliramo do crkve i dalje prema Sovlja uvali. Zbog hladnoće i ranog zalaska sunca završavamo turu prije 17:00 i tražimo toplo mjesto."
           },
           "stops": [
             {
@@ -1396,7 +1443,7 @@
                 "hu": "Meleg kesztyű szükséges az induláshoz.",
                 "ro": "Mănuși calde necesare pentru plecare.",
                 "en": "Warm gloves needed for the start.",
-                "hr": "Tople rukavice potrebne za početak."
+                "hr": "Za početak su potrebne tople rukavice."
               }
             },
             {
@@ -1406,7 +1453,7 @@
                 "hu": "Parkoljon le biztonságosan, menjen gyalog.",
                 "ro": "Parcați bicicleta și mergeți pe jos.",
                 "en": "Park the bike safely and go on foot.",
-                "hr": "Parkirajte bicikl na sigurnom i idite pješice."
+                "hr": "Parkirajte bicikl sigurno i nastavite pješice."
               }
             },
             {
@@ -1436,7 +1483,7 @@
                 "hu": "Tervezze az érkezést az esti szél előtt.",
                 "ro": "Planificați sosirea înainte de vântul rece.",
                 "en": "Plan arrival before the chilly evening wind.",
-                "hr": "Planirajte dolazak prije hladnog večernjeg vjetra."
+                "hr": "Planirajte dolazak prije prohladnog večernjeg vjetra."
               }
             }
           ],
@@ -1466,10 +1513,10 @@
               "Watch out for icy patches in shaded alleys."
             ],
             "hr": [
-              "Zimske rukavice su neophodne na obalnom vjetru.",
+              "Zimske rukavice su neophodne zbog obalnog vjetra.",
               "Ceste su prazne, ali tlo može ostati hladno.",
-              "Planirajte kraj ture prije 16:30.",
-              "Pripazite na zaleđene dijelove u sjenovitim uličicama."
+              "Planirajte završetak ture prije 16:30.",
+              "Pazite na zaleđene dijelove u sjenovitim uličicama."
             ]
           }
         }
@@ -1488,7 +1535,8 @@
             "de": "Historischer Inselkern",
             "hu": "Történelmi szigetmag",
             "ro": "Centrul istoric insular",
-            "en": "Historical Islet Core"
+            "en": "Historical Islet Core",
+            "hr": "Povijesni otočić - jezgra"
           },
           "coords": [
             15.7445,
@@ -1512,7 +1560,8 @@
             "de": "Kirche St. Nikolaus",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "St. Nicholas Church"
+            "en": "St. Nicholas Church",
+            "hr": "Crkva sv. Nikole"
           },
           "coords": [
             15.743,
@@ -1528,7 +1577,7 @@
             "hu": "A parkolótól egy rövid, meredek út vezet fel.",
             "ro": "Din parcare, o scurtă potecă abruptă duce în sus.",
             "en": "A short steep path leads up from the parking area.",
-            "hr": "Kratka strma staza vodi prema gore s parkirališta."
+            "hr": "Kratak, strm put vodi od parkirališta prema gore."
           }
         },
         {
@@ -1536,7 +1585,8 @@
             "de": "Marina Tribunj",
             "hu": "Tribunj kikötő",
             "ro": "Marina Tribunj",
-            "en": "Marina Tribunj"
+            "en": "Marina Tribunj",
+            "hr": "Marina Tribunj"
           },
           "coords": [
             15.7475,
@@ -1552,7 +1602,7 @@
             "hu": "A kikötő őrzött parkolót kínál.",
             "ro": "Marina oferă parcare supravegheată.",
             "en": "The marina offers guarded parking.",
-            "hr": "Marina nudi čuvani parking."
+            "hr": "Marina nudi čuvano parkiranje."
           }
         },
         {
@@ -1560,7 +1610,8 @@
             "de": "Bucht Sovlja",
             "hu": "Sovlja-öböl",
             "ro": "Golful Sovlja",
-            "en": "Sovlja Bay"
+            "en": "Sovlja Bay",
+            "hr": "Sovlja uvala"
           },
           "coords": [
             15.733,
@@ -1576,7 +1627,7 @@
             "hu": "Megközelítés szűk, de aszfaltozott utakon.",
             "ro": "Acces pe drumuri înguste, dar asfaltate.",
             "en": "Access via narrow but paved roads.",
-            "hr": "Pristup uskim ali asfaltiranim cestama."
+            "hr": "Pristup putem uskih ali asfaltiranih cesta."
           }
         }
       ],
@@ -1585,7 +1636,7 @@
         "hu": "Autóval maximális rugalmasságot élvezhet Tribunjban. Kezdje a központban, látogassa meg az óvárosi szigetet és a Szent Miklós-dombot.\n\nEgy pihentető ebéd után a kikötőben autózzon el a Sovlja-öbölbe, amely kissé távolabb esik, és tökéletes az autósok számára.\n\nA délutánt a strandon tölti, távol a legnagyobb tömegtől.\n\nEste kényelmesen elautózhat egy hátországi kilátópontra, hogy megcsodálja a teljes partvidék panorámáját.",
         "ro": "Cu mașina, vă bucurați de flexibilitate maximă în Tribunj. Începeți în centru și vizitați insula orașului vechi și dealul Sf. Nicolae.\n\nDupă un prânz relaxant la marină, conduceți până la golful Sovlja, care este puțin mai retras și perfect pentru șoferi.\n\nPetreceți după-amiaza la plajă, departe de cele mai mari mulțimi.\n\nSeara, puteți conduce confortabil către un punct de belvedere din interiorul țării pentru a vă bucura de panorama întregii coaste.",
         "en": "By car, you enjoy maximum flexibility in Tribunj. Start in the center and visit the old town islet and St. Nicholas Hill.\n\nAfter a relaxed lunch at the marina, drive to Sovlja Bay, which is a bit out of the way and perfect for car travelers.\n\nSpend the afternoon at the beach, away from the largest crowds.\n\nIn the evening, you can comfortably drive to a viewpoint in the hinterland to enjoy the panorama of the entire coast.",
-        "hr": "Automobilom uživate u maksimalnoj fleksibilnosti u Tribunju. Krenite iz centra i posjetite otočić starog grada i brdo Sv. Nikole.\n\nNakon opuštenog ručka u marini, odvezite se do uvale Sovlja, koja je malo izvan puta i savršena za putnike s automobilom.\n\nProvedite poslijepodne na plaži, podalje od najvećih gužvi.\n\nNavečer se možete udobno odvesti do vidikovca u zaleđu kako biste uživali u panorami cijele obale."
+        "hr": "Autom uživate u maksimalnoj fleksibilnosti u Tribunju. Počnite u centru i posjetite stari otočić i brdo sv. Nikole.\n\nNakon opuštenog ručka u marini vozite do Sovlja uvale, koja je malo izvan puta i savršena za putnike automobilom.\n\nProvedite popodne na plaži, dalje od najvećih gužvi.\n\nUvečer se udobno možete odvesti do vidikovca u zaleđu i uživati u panorami cijele obale."
       },
       "gastro_picks": {
         "de": [
@@ -1714,10 +1765,10 @@
           "A rental car also allows excursions to Krka National Park."
         ],
         "hr": [
-          "Parkiranje u centru se brzo popuni u špici sezone.",
-          "Koristite aplikacije za parkiranje za praktično plaćanje mobitelom.",
-          "Pripazite na propise o jednosmjernom prometu u luci.",
-          "Najam automobila omogućuje i izlete u Nacionalni park Krka."
+          "Parkiranje u centru brzo se popunjava u sezoni.",
+          "Koristite aplikacije za parkiranje kako biste praktično platili mobitelom.",
+          "Pazite na pravila jednosmjernog prometa u luci.",
+          "Iznajmljeni automobil također omogućuje izlete u NP Krka."
         ]
       },
       "variants": {
@@ -1726,7 +1777,8 @@
             "de": "Mit dem Auto genießen Sie maximale Flexibilität in Tribunj. Starten Sie im Zentrum und besuchen Sie die Altstadtinsel und den Nikolaus-Hügel.\n\nNach einem entspannten Mittagessen an der Marina fahren Sie zur Bucht Sovlja, die etwas abseits liegt und perfekt für Autofahrer ist.\n\nDen Nachmittag verbringen Sie am Strand, fernab der größten Menschenmassen.\n\nAbends können Sie bequem zu einem Aussichtspunkt im Hinterland fahren, um das Panorama über die gesamte Küste zu genießen.",
             "hu": "Autóval maximális rugalmasságot élvezhet Tribunjban. Kezdje a központban, látogassa meg az óvárosi szigetet és a Szent Miklós-dombot.\n\nEgy pihentető ebéd után a kikötőben autózzon el a Sovlja-öbölbe, amely kissé távolabb esik, és tökéletes az autósok számára.\n\nA délutánt a strandon tölti, távol a legnagyobb tömegtől.\n\nEste kényelmesen elautózhat egy hátországi kilátópontra, hogy megcsodálja a teljes partvidék panorámáját.",
             "ro": "Cu mașina, vă bucurați de flexibilitate maximă în Tribunj. Începeți în centru și vizitați insula orașului vechi și dealul Sf. Nicolae.\n\nDupă un prânz relaxant la marină, conduceți până la golful Sovlja, care este puțin mai retras și perfect pentru șoferi.\n\nPetreceți după-amiaza la plajă, departe de cele mai mari mulțimi.\n\nSeara, puteți conduce confortabil către un punct de belvedere din interiorul țării pentru a vă bucura de panorama întregii coaste.",
-            "en": "By car, you enjoy maximum flexibility in Tribunj. Start in the center and visit the old town islet and St. Nicholas Hill.\n\nAfter a relaxed lunch at the marina, drive to Sovlja Bay, which is a bit out of the way and perfect for car travelers.\n\nSpend the afternoon at the beach, away from the largest crowds.\n\nIn the evening, you can comfortably drive to a viewpoint in the hinterland to enjoy the panorama of the entire coast."
+            "en": "By car, you enjoy maximum flexibility in Tribunj. Start in the center and visit the old town islet and St. Nicholas Hill.\n\nAfter a relaxed lunch at the marina, drive to Sovlja Bay, which is a bit out of the way and perfect for car travelers.\n\nSpend the afternoon at the beach, away from the largest crowds.\n\nIn the evening, you can comfortably drive to a viewpoint in the hinterland to enjoy the panorama of the entire coast.",
+            "hr": "Autom uživate u maksimalnoj fleksibilnosti u Tribunju. Počnite u centru i posjetite stari otočić i brdo sv. Nikole.\n\nNakon opuštenog ručka u marini vozite do Sovlja uvale, koja je malo izvan puta i savršena za putnike automobilom.\n\nProvedite popodne na plaži, dalje od najvećih gužvi.\n\nUvečer se udobno možete odvesti do vidikovca u zaleđu i uživati u panorami cijele obale."
           },
           "stops": [
             {
@@ -1734,13 +1786,15 @@
                 "de": "Historischer Inselkern",
                 "hu": "Történelmi szigetmag",
                 "ro": "Centrul istoric insular",
-                "en": "Historical Islet Core"
+                "en": "Historical Islet Core",
+                "hr": "Povijesni otočić - jezgra"
               },
               "tip_5lang": {
                 "de": "Parken Sie auf dem großen Parkplatz vor der Brücke.",
                 "hu": "Parkoljon a híd előtti nagy parkolóban.",
                 "ro": "Parcați în parcarea mare din fața podului.",
-                "en": "Park in the large parking lot before the bridge."
+                "en": "Park in the large parking lot before the bridge.",
+                "hr": "Parkirajte na velikom parkiralištu prije mosta."
               }
             },
             {
@@ -1748,13 +1802,15 @@
                 "de": "Kirche St. Nikolaus",
                 "hu": "Szent Miklós-templom",
                 "ro": "Biserica Sfântul Nicolae",
-                "en": "St. Nicholas Church"
+                "en": "St. Nicholas Church",
+                "hr": "Crkva sv. Nikole"
               },
               "tip_5lang": {
                 "de": "Vom Parkplatz aus führt ein kurzer steiler Weg hinauf.",
                 "hu": "A parkolótól egy rövid, meredek út vezet fel.",
                 "ro": "Din parcare, o scurtă potecă abruptă duce în sus.",
-                "en": "A short steep path leads up from the parking area."
+                "en": "A short steep path leads up from the parking area.",
+                "hr": "Kratak, strm put vodi od parkirališta prema gore."
               }
             },
             {
@@ -1762,13 +1818,15 @@
                 "de": "Marina Tribunj",
                 "hu": "Tribunj kikötő",
                 "ro": "Marina Tribunj",
-                "en": "Marina Tribunj"
+                "en": "Marina Tribunj",
+                "hr": "Marina Tribunj"
               },
               "tip_5lang": {
                 "de": "Die Marina bietet bewachte Parkplätze.",
                 "hu": "A kikötő őrzött parkolót kínál.",
                 "ro": "Marina oferă parcare supravegheată.",
-                "en": "The marina offers guarded parking."
+                "en": "The marina offers guarded parking.",
+                "hr": "Marina nudi čuvano parkiranje."
               }
             },
             {
@@ -1776,13 +1834,15 @@
                 "de": "Bucht Sovlja",
                 "hu": "Sovlja-öböl",
                 "ro": "Golful Sovlja",
-                "en": "Sovlja Bay"
+                "en": "Sovlja Bay",
+                "hr": "Sovlja uvala"
               },
               "tip_5lang": {
                 "de": "Anfahrt über schmale, aber geteerte Straßen.",
                 "hu": "Megközelítés szűk, de aszfaltozott utakon.",
                 "ro": "Acces pe drumuri înguste, dar asfaltate.",
-                "en": "Access via narrow but paved roads."
+                "en": "Access via narrow but paved roads.",
+                "hr": "Pristup putem uskih ali asfaltiranih cesta."
               }
             }
           ],
@@ -1892,6 +1952,12 @@
               "Use parking apps to pay conveniently by mobile phone.",
               "Watch out for the one-way traffic regulations at the harbor.",
               "A rental car also allows excursions to Krka National Park."
+            ],
+            "hr": [
+              "Parkiranje u centru brzo se popunjava u sezoni.",
+              "Koristite aplikacije za parkiranje kako biste praktično platili mobitelom.",
+              "Pazite na pravila jednosmjernog prometa u luci.",
+              "Iznajmljeni automobil također omogućuje izlete u NP Krka."
             ]
           }
         },
@@ -1901,7 +1967,7 @@
             "hu": "Kényelmes érkezés a szigethez, miközben kint szakad az eső. Délben a Szent Miklós-dombra való felhajtás száraz bázist nyújt a panorámához. Délután felfedezzük a kikötőt, majd átgurulunk a Sovlja-öbölbe. Az este stresszmentesen zárul egy rövid úttal vissza a faluba, ahol közvetlenül az étterem előtt parkolunk.",
             "ro": "Sosire confortabilă la insulă, în timp ce afară toarnă. La prânz, drumul spre Sf. Nicolae oferă o bază uscată pentru panoramă. După-amiaza explorăm marina, apoi mergem spre golful Sovlja. Seara se încheie fără stres cu o scurtă călătorie înapoi, parcând chiar în fața restaurantului.",
             "en": "Comfortable arrival at the islet while it pours outside. At noon, driving up St. Nicholas hill provides a dry base for the panorama. In the afternoon, we explore the marina and then cruise to Sovlja Bay. The evening ends stress-free with a short drive back, parking right in front of the restaurant.",
-            "hr": "Udoban dolazak na otočić dok vani pljušti. U podne, vožnja na brdo Sv. Nikole pruža suhu bazu za panoramu. Poslijepodne istražujemo marinu i zatim se vozimo do uvale Sovlja. Večer završava bez stresa kratkom vožnjom natrag, uz parking ispred samog restorana."
+            "hr": "Udoban dolazak na otočić dok vani lije. U podne, uspon na brdo sv. Nikole pruža suhi temelj za panoramu. Popodne istražujemo marinu, a zatim se zaputimo do Sovlja uvale. Večer završava bez stresa kratkom vožnjom natrag i parkiranjem pravo ispred restorana."
           },
           "stops": [
             {
@@ -1911,7 +1977,7 @@
                 "hu": "Parkoljon a híd közelében a rövid séta miatt.",
                 "ro": "Parcați lângă pod pentru drumuri scurte.",
                 "en": "Park near the bridge for short walking distances.",
-                "hr": "Parkirajte blizu mosta za kratke pješačke udaljenosti."
+                "hr": "Parkirajte blizu mosta za kratke šetnje."
               }
             },
             {
@@ -1941,7 +2007,7 @@
                 "hu": "Tökéletes tengeri kilátáshoz az autóból.",
                 "ro": "Perfect pentru vedere la mare din mașină.",
                 "en": "Perfect for sea views from inside the car.",
-                "hr": "Savršeno za pogled na more iz unutrašnjosti automobila."
+                "hr": "Savršeno za pogled na more iz automobila."
               }
             }
           ],
@@ -1971,10 +2037,10 @@
               "Avoid deep puddles near the waterfront promenade."
             ],
             "hr": [
-              "Koristite parking marine za kratke pješačke udaljenosti.",
-              "Vozite oprezno po uskim obalnim cestama.",
-              "Prozori se mogu brzo zamagliti zbog visoke vlažnosti.",
-              "Izbjegavajte duboke lokve blizu obalne šetnice."
+              "Koristite parkiralište marine za kratke šetnje.",
+              "Vozite oprezno uskim obalnim cestama.",
+              "Prozori se brzo mogu zamagliti zbog visoke vlažnosti.",
+              "Izbjegavajte duboke lokve uz rivu."
             ]
           }
         },
@@ -1984,7 +2050,7 @@
             "hu": "Gördülékeny kezdés a meleg autóban közvetlenül a szigetnél. Délben élvezzük a tágas kilátást a Szent Miklós-dombról a nyári hőség nélkül. Délután a csendes kikötőbe, majd a Sovlja-öbölbe hajtunk, ahol a naplementét kényelmesen az ülésből nézhetjük. Az este a központ egyik egész évben nyitva tartó helyén zárul.",
             "ro": "Un început relaxat în mașina caldă, chiar lângă insulă. La prânz savurăm vederea largă de la Sf. Nicolae fără arșița verii. După-amiaza mergem la marina liniștită și apoi la golful Sovlja, admirând apusul din scaunul mașinii. Seara se încheie într-un local deschis tot anul.",
             "en": "A relaxed start in a warm car right by the islet. At noon, we enjoy the wide views from St. Nicholas without the summer heat. The afternoon leads to the quiet marina and finally to Sovlja Bay, where we can watch the sunset comfortably from our seats. The evening ends in a year-round local spot.",
-            "hr": "Opušten početak u toplom automobilu tik uz otočić. U podne uživamo u širokim vidicima sa Sv. Nikole bez ljetne vrućine. Poslijepodne vodi do mirne marine i konačno do uvale Sovlja, gdje možemo udobno promatrati zalazak sunca sa sjedala. Večer završava u lokalnom mjestu koje radi cijele godine."
+            "hr": "Opustno početak u toplom autu uz otočić. U podne uživamo u širokim pogledima s brda sv. Nikole bez ljetne vrućine. Popodne vodi do mirne marine i naposljetku do Sovlja uvale, gdje zalazak sunca promatramo udobno iz sjedala. Večer završava u cjelogodišnjem lokalnom mjestu."
           },
           "stops": [
             {
@@ -1994,7 +2060,7 @@
                 "hu": "Télen bőségesen van parkolóhely.",
                 "ro": "Locurile de parcare sunt din abundență iarna.",
                 "en": "Parking spaces are plentiful in winter.",
-                "hr": "Parkirnih mjesta ima napretek zimi."
+                "hr": "Parkirna mjesta su brojna zimi."
               }
             },
             {
@@ -2004,7 +2070,7 @@
                 "hu": "Élvezze a tiszta kilátást a Kornati-szigetekre.",
                 "ro": "Bucurați-vă de vederea clară spre Kornati.",
                 "en": "Enjoy the clear view towards the Kornati islands.",
-                "hr": "Uživajte u jasnom pogledu prema Kornatima."
+                "hr": "Uživajte u čistom pogledu prema Kornatima."
               }
             },
             {
@@ -2014,7 +2080,7 @@
                 "hu": "Jó megálló egy forró kávéra.",
                 "ro": "Oprire bună pentru o cafea caldă.",
                 "en": "Good stop for a warm coffee.",
-                "hr": "Dobro mjesto za toplu kavu."
+                "hr": "Dobra stanica za toplu kavu."
               }
             },
             {
@@ -2024,7 +2090,7 @@
                 "hu": "Gyönyörű a lágy téli fényekben.",
                 "ro": "Superb în lumina blândă de iarnă.",
                 "en": "Beautiful in the soft winter light.",
-                "hr": "Prekrasno u mekom zimskom svjetlu."
+                "hr": "Lijepo u mekanom zimskom svjetlu."
               }
             }
           ],
@@ -2055,9 +2121,9 @@
             ],
             "hr": [
               "Grijanje čini obalnu vožnju ugodnom.",
-              "Cijene parkinga su često niže izvan sezone.",
-              "Planirajte dolazak u uvalu Sovlja prije 16:15.",
-              "Pripazite na divljač na cestama u zaleđu."
+              "Parkarine su često niže izvan sezone.",
+              "Planirajte dolazak u Sovlja uvalu prije 16:15.",
+              "Pazite na divlje životinje na cestama u zaleđu."
             ]
           }
         }
@@ -2076,7 +2142,8 @@
             "de": "Alte Steinbrücke",
             "hu": "Régi kőhíd",
             "ro": "Podul vechi de piatră",
-            "en": "Old Stone Bridge"
+            "en": "Old Stone Bridge",
+            "hr": "Stari kameni most"
           },
           "coords": [
             15.745,
@@ -2092,7 +2159,7 @@
             "hu": "A buszmegálló mindössze pár perc sétára található.",
             "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
             "en": "The bus stop is just a few minutes' walk away.",
-            "hr": "Autobusna stanica je udaljena samo nekoliko minuta hoda."
+            "hr": "Autobusna stanica je udaljena samo nekoliko minuta pješke."
           }
         },
         {
@@ -2100,7 +2167,8 @@
             "de": "Historischer Inselkern",
             "hu": "Történelmi szigetmag",
             "ro": "Centrul istoric insular",
-            "en": "Historical Islet Core"
+            "en": "Historical Islet Core",
+            "hr": "Povijesno središte otočića"
           },
           "coords": [
             15.7445,
@@ -2116,7 +2184,7 @@
             "hu": "Ideális gyalogos felfedezéshez időkényszer nélkül.",
             "ro": "Ideal pentru explorare pe jos fără presiunea timpului.",
             "en": "Ideal for exploring on foot without time pressure.",
-            "hr": "Idealno za istraživanje pješice bez vremenskog pritiska."
+            "hr": "Idealno za istraživanje pješice bez žurbe."
           }
         },
         {
@@ -2124,7 +2192,8 @@
             "de": "Esel-Denkmal",
             "hu": "Szamár-emlékmű",
             "ro": "Monumentul Măgarului",
-            "en": "Donkey Monument"
+            "en": "Donkey Monument",
+            "hr": "Spomenik magarcu"
           },
           "coords": [
             15.746,
@@ -2140,7 +2209,7 @@
             "hu": "Helyi túrák találkozópontja.",
             "ro": "Punct de întâlnire pentru tururi locale.",
             "en": "Meeting point for local tours.",
-            "hr": "Mjesto sastanka za lokalne ture."
+            "hr": "Sastajalište za lokalne ture."
           }
         },
         {
@@ -2148,7 +2217,8 @@
             "de": "Strand Zamalin",
             "hu": "Zamalin strand",
             "ro": "Plaja Zamalin",
-            "en": "Zamalin Beach"
+            "en": "Zamalin Beach",
+            "hr": "Plaža Zamalin"
           },
           "coords": [
             15.741,
@@ -2164,7 +2234,7 @@
             "hu": "Könnyen elérhető gyalog a központból.",
             "ro": "Ușor de accesat pe jos din centru.",
             "en": "Easily accessible on foot from the center.",
-            "hr": "Lako dostupno pješice iz centra."
+            "hr": "Lako dostupna pješice iz centra."
           }
         }
       ],
@@ -2173,7 +2243,7 @@
         "hu": "Tribunj saját jármű nélkül is csodálatosan átélhető. A Vodice vagy Šibenik felől érkező buszok közvetlenül a falu szívébe viszik.\n\nMiután megérkezett a kőhídhoz, merüljön el az óvárosi sziget történelmében.\n\nDélidőben sétáljon el a szamár-emlékműhöz, és élvezze a helyi ebédet a közeli konobák egyikében.\n\nA délutánt a Zamalin strandon tölti, mielőtt kényelmesen felszállna a visszatérő buszra.",
         "ro": "Chiar și fără vehicul propriu, Tribunj poate fi experimentat de minune. Autobuzele din Vodice sau Šibenik vă aduc direct în inima satului.\n\nDupă ce ați ajuns la podul de piatră, scufundați-vă în istoria insulei orașului vechi.\n\nLa prânz, plimbați-vă la monumentul măgarului și bucurați-vă de un prânz local în una dintre conobele din apropiere.\n\nPetreceți după-amiaza la plaja Zamalin, înainte de a lua confortabil autobuzul înapoi.",
         "en": "Even without your own vehicle, Tribunj can be experienced wonderfully. Buses from Vodice or Šibenik bring you directly to the heart of the village.\n\nAfter arriving at the stone bridge, dive into the history of the old town islet.\n\nAt midday, stroll to the donkey monument and enjoy a local lunch in one of the nearby konobas.\n\nSpend the afternoon at Zamalin Beach before comfortably catching the bus back.",
-        "hr": "Čak i bez vlastitog vozila, Tribunj se može doživjeti predivno. Autobusi iz Vodica ili Šibenika vode vas izravno u srce sela.\n\nNakon dolaska kod kamenog mosta, uronite u povijest otočića starog grada.\n\nU podne prošećite do spomenika tovaru i uživajte u lokalnom ručku u jednoj od obližnjih konoba.\n\nProvedite poslijepodne na plaži Zamalin prije udobnog povratka autobusom."
+        "hr": "Čak i bez vlastitog prijevoza, Tribunj se može prekrasno doživjeti. Autobusi iz Vodica ili Šibenika dovedu vas izravno u srce sela.\n\nNakon dolaska kod kamenog mosta, zaronite u povijest starog otočića.\n\nU podne prošećite do spomenika magarcu i uživajte u domaćem ručku u jednoj od obližnjih konoba.\n\nPoslijepodne provedite na plaži Zamalin prije nego što udobno uhvatite povratni autobus."
       },
       "gastro_picks": {
         "de": [
@@ -2302,8 +2372,8 @@
           "In summer, buses run more frequently."
         ],
         "hr": [
-          "Unaprijed provjerite vremena polaska autobusa, posebno vikendom.",
-          "Autobusna stanica se nalazi na glavnoj cesti iznad luke.",
+          "Provjerite polaske autobusa unaprijed, posebno vikendom.",
+          "Autobusna stanica nalazi se na glavnoj cesti iznad luke.",
           "Karte se obično mogu kupiti kod vozača.",
           "Ljeti autobusi voze češće."
         ]
@@ -2314,7 +2384,8 @@
             "de": "Auch ohne eigenes Fahrzeug lässt sich Tribunj wunderbar erleben. Die Busse aus Vodice oder Šibenik bringen Sie direkt ins Herz des Ortes.\n\nNachdem Sie an der Steinbrücke angekommen sind, tauchen Sie in die Geschichte der Altstadtinsel ein.\n\nMittags schlendern Sie zum Esel-Denkmal und genießen ein lokales Mittagessen in einer der nahen Konobas.\n\nDen Nachmittag verbringen Sie am Strand Zamalin, bevor Sie bequem wieder den Bus für die Rückreise nehmen.",
             "hu": "Tribunj saját jármű nélkül is csodálatosan átélhető. A Vodice vagy Šibenik felől érkező buszok közvetlenül a falu szívébe viszik.\n\nMiután megérkezett a kőhídhoz, merüljön el az óvárosi sziget történelmében.\n\nDélidőben sétáljon el a szamár-emlékműhöz, és élvezze a helyi ebédet a közeli konobák egyikében.\n\nA délutánt a Zamalin strandon tölti, mielőtt kényelmesen felszállna a visszatérő buszra.",
             "ro": "Chiar și fără vehicul propriu, Tribunj poate fi experimentat de minune. Autobuzele din Vodice sau Šibenik vă aduc direct în inima satului.\n\nDupă ce ați ajuns la podul de piatră, scufundați-vă în istoria insulei orașului vechi.\n\nLa prânz, plimbați-vă la monumentul măgarului și bucurați-vă de un prânz local în una dintre conobele din apropiere.\n\nPetreceți după-amiaza la plaja Zamalin, înainte de a lua confortabil autobuzul înapoi.",
-            "en": "Even without your own vehicle, Tribunj can be experienced wonderfully. Buses from Vodice or Šibenik bring you directly to the heart of the village.\n\nAfter arriving at the stone bridge, dive into the history of the old town islet.\n\nAt midday, stroll to the donkey monument and enjoy a local lunch in one of the nearby konobas.\n\nSpend the afternoon at Zamalin Beach before comfortably catching the bus back."
+            "en": "Even without your own vehicle, Tribunj can be experienced wonderfully. Buses from Vodice or Šibenik bring you directly to the heart of the village.\n\nAfter arriving at the stone bridge, dive into the history of the old town islet.\n\nAt midday, stroll to the donkey monument and enjoy a local lunch in one of the nearby konobas.\n\nSpend the afternoon at Zamalin Beach before comfortably catching the bus back.",
+            "hr": "Čak i bez vlastitog prijevoza, Tribunj se može prekrasno doživjeti. Autobusi iz Vodica ili Šibenika dovedu vas izravno u srce sela.\n\nNakon dolaska kod kamenog mosta, zaronite u povijest starog otočića.\n\nU podne prošećite do spomenika magarcu i uživajte u domaćem ručku u jednoj od obližnjih konoba.\n\nPoslijepodne provedite na plaži Zamalin prije nego što udobno uhvatite povratni autobus."
           },
           "stops": [
             {
@@ -2322,13 +2393,15 @@
                 "de": "Alte Steinbrücke",
                 "hu": "Régi kőhíd",
                 "ro": "Podul vechi de piatră",
-                "en": "Old Stone Bridge"
+                "en": "Old Stone Bridge",
+                "hr": "Stari kameni most"
               },
               "tip_5lang": {
                 "de": "Die Bushaltestelle liegt nur wenige Gehminuten entfernt.",
                 "hu": "A buszmegálló mindössze pár perc sétára található.",
                 "ro": "Stația de autobuz este la doar câteva minute de mers pe jos.",
-                "en": "The bus stop is just a few minutes' walk away."
+                "en": "The bus stop is just a few minutes' walk away.",
+                "hr": "Autobusna stanica je udaljena samo nekoliko minuta pješke."
               }
             },
             {
@@ -2336,13 +2409,15 @@
                 "de": "Historischer Inselkern",
                 "hu": "Történelmi szigetmag",
                 "ro": "Centrul istoric insular",
-                "en": "Historical Islet Core"
+                "en": "Historical Islet Core",
+                "hr": "Povijesno središte otočića"
               },
               "tip_5lang": {
                 "de": "Ideal zum Erkunden zu Fuß ohne Zeitdruck.",
                 "hu": "Ideális gyalogos felfedezéshez időkényszer nélkül.",
                 "ro": "Ideal pentru explorare pe jos fără presiunea timpului.",
-                "en": "Ideal for exploring on foot without time pressure."
+                "en": "Ideal for exploring on foot without time pressure.",
+                "hr": "Idealno za istraživanje pješice bez žurbe."
               }
             },
             {
@@ -2350,13 +2425,15 @@
                 "de": "Esel-Denkmal",
                 "hu": "Szamár-emlékmű",
                 "ro": "Monumentul Măgarului",
-                "en": "Donkey Monument"
+                "en": "Donkey Monument",
+                "hr": "Spomenik magarcu"
               },
               "tip_5lang": {
                 "de": "Treffpunkt für lokale Touren.",
                 "hu": "Helyi túrák találkozópontja.",
                 "ro": "Punct de întâlnire pentru tururi locale.",
-                "en": "Meeting point for local tours."
+                "en": "Meeting point for local tours.",
+                "hr": "Sastajalište za lokalne ture."
               }
             },
             {
@@ -2364,13 +2441,15 @@
                 "de": "Strand Zamalin",
                 "hu": "Zamalin strand",
                 "ro": "Plaja Zamalin",
-                "en": "Zamalin Beach"
+                "en": "Zamalin Beach",
+                "hr": "Plaža Zamalin"
               },
               "tip_5lang": {
                 "de": "Einfach zu Fuß vom Zentrum aus erreichbar.",
                 "hu": "Könnyen elérhető gyalog a központból.",
                 "ro": "Ușor de accesat pe jos din centru.",
-                "en": "Easily accessible on foot from the center."
+                "en": "Easily accessible on foot from the center.",
+                "hr": "Lako dostupna pješice iz centra."
               }
             }
           ],
@@ -2480,6 +2559,12 @@
               "The bus stop is located on the main road above the harbor.",
               "Tickets can usually be bought from the driver.",
               "In summer, buses run more frequently."
+            ],
+            "hr": [
+              "Provjerite polaske autobusa unaprijed, posebno vikendom.",
+              "Autobusna stanica nalazi se na glavnoj cesti iznad luke.",
+              "Karte se obično mogu kupiti kod vozača.",
+              "Ljeti autobusi voze češće."
             ]
           }
         },
@@ -2489,7 +2574,7 @@
             "hu": "A nap a híd melletti buszmegállóban indul, menedéket keresve az eső elől. Délben az esőszünetekben fedezzük fel a szigetet. Délután meglátogatjuk a szamár-emlékművet, majd a Zamalin strandra utazunk, ahol a hullámok látványosan csapkodják a köveket. Az estét egy kávézóban töltjük a következő busz érkezéséig.",
             "ro": "Ziua începe la stația de autobuz de lângă pod, căutând adăpost. La prânz explorăm insula în pauzele dintre averse. După-amiaza vizităm monumentul măgarului și mergem la plaja Zamalin, unde valurile se sparg spectaculos de pietre. Seara o petrecem într-o cafenea până vine următorul autobuz.",
             "en": "The day starts at the bus stop near the bridge, seeking shelter from the rain. At noon, we explore the islet during rain breaks. In the afternoon, we visit the Donkey Monument and then head to Zamalin Beach, where the waves crash impressively against the stones. The evening is spent in a cafe until the next bus takes us back.",
-            "hr": "Dan počinje na autobusnoj stanici blizu mosta, tražeći zaklon od kiše. U podne istražujemo otočić tijekom stanki u kiši. Poslijepodne posjećujemo spomenik tovaru i zatim krećemo prema plaži Zamalin, gdje se valovi impresivno razbijaju o stijene. Večer provodimo u kafiću dok nas sljedeći autobus ne odveze natrag."
+            "hr": "Dan počinje na autobusnoj stanici kraj mosta, tražeći zaklon od kiše. U podne istražujemo otočić tijekom prestanaka padalina. Poslijepodne posjećujemo spomenik magarcu, a zatim odlazimo na plažu Zamalin, gdje se valovi impresivno razbijaju o stijene. Večer provodimo u kafiću dok nas sljedeći autobus ne vrati natrag."
           },
           "stops": [
             {
@@ -2499,7 +2584,7 @@
                 "hu": "Várjon az ereszek alatt a megálló közelében.",
                 "ro": "Așteptați sub streșini lângă stație.",
                 "en": "Wait under the eaves near the stop.",
-                "hr": "Pričekajte pod nadstrešnicom blizu stanice."
+                "hr": "Pričekajte ispod vijenaca blizu stajališta."
               }
             },
             {
@@ -2519,7 +2604,7 @@
                 "hu": "Gyors pillantás a település jelképére.",
                 "ro": "O privire rapidă la simbolul localității.",
                 "en": "A quick look at the town's landmark.",
-                "hr": "Brzi pogled na simbol mjesta."
+                "hr": "Brzi pogled na znamenitost grada."
               }
             },
             {
@@ -2529,7 +2614,7 @@
                 "hu": "Használja a közeli kávézókat menedékként.",
                 "ro": "Folosiți cafenelele din apropiere pentru retragere.",
                 "en": "Use nearby cafes for a quick retreat.",
-                "hr": "Koristite obližnje kafiće za kratki predah."
+                "hr": "Iskoristite obližnje kafiće za brz predah."
               }
             }
           ],
@@ -2559,10 +2644,10 @@
               "Account for potential delays during heavy rain."
             ],
             "hr": [
-              "Imajte aplikaciju s voznim redom spremnu.",
-              "Autobusne stanice često ne pružaju dovoljno zaklona.",
-              "Nosite vodonepropusnu odjeću za šetnju do stanice.",
-              "Uračunajte moguća kašnjenja tijekom jake kiše."
+              "Držite aplikaciju za raspored spremnom.",
+              "Autobusna stajališta često nemaju dovoljan zaklon.",
+              "Nosite vodootpornu odjeću za hod do stajališta.",
+              "Uzmite u obzir moguće kašnjenja tijekom jake kiše."
             ]
           }
         },
@@ -2572,7 +2657,7 @@
             "hu": "Csendes téli reggel a megállóban, kilátással a tiszta tengerre. Délben a néptelen óvárost élvezzük a rövid buszút után. Délután a szamár-emlékműhöz, majd a Zamalin strandra megyünk egy frissítő téli sétára. A napot még sötétedés előtt befejezzük, hogy elérjük az utolsó kényelmes buszt.",
             "ro": "O dimineață liniștită de iarnă în stație, cu vedere la marea clară. La prânz ne bucurăm de insula pustie după drumul scurt cu autobuzul. După-amiaza mergem la monumentul măgarului și la plaja Zamalin pentru o plimbare răcoroasă. Încheiem ziua înainte de lăsarea întunericului pentru ultimul autobuz.",
             "en": "A quiet winter morning at the stop with views of the clear sea. At noon, we enjoy the empty islet after a short bus ride. In the afternoon, we head to the Donkey Monument and finally to Zamalin Beach for a refreshing winter walk. We finish the day before dark to catch the last comfortable bus back.",
-            "hr": "Mirno zimsko jutro na stanici s pogledom na čisto more. U podne uživamo na praznom otočiću nakon kratke vožnje autobusom. Poslijepodne idemo do spomenika tovaru i konačno na plažu Zamalin u osvježavajuću zimsku šetnju. Završavamo dan prije mraka kako bismo uhvatili zadnji udobni autobus natrag."
+            "hr": "Tih zimski jutro na stajalištu s pogledom na prozirno more. U podne uživamo u praznom otočiću nakon kratke vožnje autobusom. Poslijepodne odlazimo do spomenika magarcu i na kraju na plažu Zamalin za osvježavajuću zimušnu šetnju. Dan završavamo prije mraka kako bismo uhvatili zadnji udoban autobus natrag."
           },
           "stops": [
             {
@@ -2582,7 +2667,7 @@
                 "hu": "Meleg ruha szükséges a várakozáshoz.",
                 "ro": "Haine calde necesare pentru așteptare.",
                 "en": "Warm clothing is necessary for waiting.",
-                "hr": "Topla odjeća je neophodna za čekanje."
+                "hr": "Potrebno je toplo odijevanje za čekanje."
               }
             },
             {
@@ -2592,7 +2677,7 @@
                 "hu": "Fedezze fel a sikátorokat sietség nélkül.",
                 "ro": "Explorați străzile fără grabă.",
                 "en": "Explore the alleys without any rush.",
-                "hr": "Istražite uličice bez ikakve žurbe."
+                "hr": "Istražite uličice bez žurbe."
               }
             },
             {
@@ -2642,10 +2727,10 @@
               "Buses are often better heated in winter than in summer."
             ],
             "hr": [
-              "Zimski vozni redovi su često ograničeni.",
+              "Zimski vozni redovi često su ograničeni.",
               "Pričekajte u kafiću ako autobus kasni.",
-              "Sunce rano zalazi; planirajte povratak u skladu s tim.",
-              "Autobusi su zimi često bolje grijani nego ljeti."
+              "Sunce zalazi rano; planirajte povratak u skladu s tim.",
+              "Autobusi su često bolje grijani zimi nego ljeti."
             ]
           }
         }
@@ -2667,19 +2752,22 @@
       "de": "Kroatisch ist Amtssprache; Englisch und Deutsch sind in der Tourismussaison weit verbreitet. 'Dobar dan'!",
       "hu": "A horvát a hivatalos; a szezonban angolul és németül széles körben beszélnek. 'Dobar dan'!",
       "ro": "Croata e oficială; în sezon, engleza și germana sunt larg răspândite. 'Dobar dan'!",
-      "en": "Croatian is official; English and German widely spoken in tourist season. Try 'Dobar dan'!"
+      "en": "Croatian is official; English and German widely spoken in tourist season. Try 'Dobar dan'!",
+      "hr": "Hrvatski je službeni; engleski i njemački široko se govore u turističkoj sezoni. Probajte 'Dobar dan'!"
     },
     "best_time_to_visit": {
       "de": "Juni und September für angenehmes Wetter ohne Andrang; Juli-August lebhaft mit Festivals.",
       "hu": "Június és szeptember kellemes idő tömeg nélkül; július-augusztus pezsgő, fesztiválokkal.",
       "ro": "Iunie și septembrie pentru vreme plăcută fără aglomerație; iulie-august plin de festivaluri.",
-      "en": "June and September for pleasant weather without crowds; July-August lively with festivals."
+      "en": "June and September for pleasant weather without crowds; July-August lively with festivals.",
+      "hr": "Lipanj i rujan za ugodno vrijeme bez gužvi; srpanj-kolovoz živi uz festivale."
     },
     "neighborhood_warnings": {
       "de": "Hauptstraße D8 im Sommer staureich. Im Hafen Vorsicht beim Schwimmen wegen Bootsverkehr; Seeigel an Felsen.",
       "hu": "A D8 főút nyáron dugós. A kikötőben óvatosan a hajóforgalom miatt; tengeri sünök a sziklákon.",
       "ro": "Drumul D8 e aglomerat vara. În port atenție la traficul de bărci când înoți; arici de mare pe stânci.",
-      "en": "D8 coastal road jams in summer. Mind boat traffic when swimming near harbour; sea urchins on rocks."
+      "en": "D8 coastal road jams in summer. Mind boat traffic when swimming near harbour; sea urchins on rocks.",
+      "hr": "Gužve na obalnoj cesti D8 ljeti. Pazite na brodski promet pri kupanju blizu luke; morske ježince na stijenama."
     }
   }
 }

@@ -21,7 +21,8 @@
             "de": "Altstadt von Omišalj",
             "hu": "Omišalj óváros",
             "ro": "Orașul vechi Omišalj",
-            "en": "Omišalj Old Town"
+            "en": "Omišalj Old Town",
+            "hr": "Stari grad Omišalj"
           },
           "coords": [
             14.553,
@@ -37,7 +38,7 @@
             "hu": "Sétáljon a szűk sikátorokban.",
             "ro": "Plimbați-vă pe străzile înguste.",
             "en": "Walk through the narrow alleys.",
-            "hr": "Šetnja uskim uličicama."
+            "hr": "Prošećite uskim ulicama."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Pfarrkirche Mariä Himmelfahrt",
             "hu": "Mária Mennybemenetele plébániatemplom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Parish Church of the Assumption"
+            "en": "Parish Church of the Assumption",
+            "hr": "Župna crkva Uznesenja"
           },
           "coords": [
             14.5535,
@@ -69,7 +71,8 @@
             "de": "Aussichtspunkt Fortica",
             "hu": "Fortica kilátó",
             "ro": "Punct de belvedere Fortica",
-            "en": "Fortica Viewpoint"
+            "en": "Fortica Viewpoint",
+            "hr": "Vidikovac Fortica"
           },
           "coords": [
             14.554,
@@ -85,7 +88,7 @@
             "hu": "Kilátás a Rijekai-öbölre.",
             "ro": "Vedere spre golful Rijeka.",
             "en": "View of the Rijeka bay.",
-            "hr": "Pogled na Riječki zaljev."
+            "hr": "Pogled na riječki zaljev."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Mittagessen in der Altstadt",
             "hu": "Ebéd az óvárosban",
             "ro": "Prânz în orașul vechi",
-            "en": "Lunch in the Old Town"
+            "en": "Lunch in the Old Town",
+            "hr": "Ručak u Starom gradu"
           },
           "coords": [
             14.553,
@@ -109,7 +113,7 @@
             "hu": "Házias tésztaételek.",
             "ro": "Paste de casă.",
             "en": "Homemade pasta dishes.",
-            "hr": "Domaća jela s tjesteninom."
+            "hr": "Domaće tjestenine."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Park Dubec",
             "hu": "Dubec park",
             "ro": "Parcul Dubec",
-            "en": "Park Dubec"
+            "en": "Park Dubec",
+            "hr": "Park Dubec"
           },
           "coords": [
             14.551,
@@ -133,7 +138,7 @@
             "hu": "Erdei utak a tenger felett.",
             "ro": "Poteci de pădure deasupra mării.",
             "en": "Forest paths right above the sea.",
-            "hr": "Šumske staze tik iznad mora."
+            "hr": "Šumske staze odmah iznad mora."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Strand Pesja",
             "hu": "Pesja strand",
             "ro": "Plaja Pesja",
-            "en": "Pesja Beach"
+            "en": "Pesja Beach",
+            "hr": "Plaža Pesja"
           },
           "coords": [
             14.555,
@@ -157,7 +163,7 @@
             "hu": "Kavicsos strand fenyőárnnyal.",
             "ro": "Plajă de prundis cu umbră de pini.",
             "en": "Pebble beach with pine shade.",
-            "hr": "Šljunčana plaža u hladu borova."
+            "hr": "Šljunčana plaža s borovom hladovinom."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Fedezze fel Omišalj báját, Krk egyik legrégebbi városát. Sétáljon az óvárosban a Forticáig, élvezze a mediterrán ebédet, majd kiránduljon a Dubec parkon át a Pesja strand kristálytiszta vízéig.",
         "ro": "Descoperiți farmecul orașului Omišalj, unul dintre cele mai vechi de pe Krk. Plimbați-vă prin orașul vechi până la Fortica, savurați un prânz mediteranean și faceți o drumeție prin parcul Dubec până la apa cristalină a plajei Pesja.",
         "en": "Discover the charm of Omišalj, one of the oldest towns on Krk. Stroll through the Old Town to Fortica, enjoy a Mediterranean lunch, and hike through Park Dubec to the crystal-clear waters of Pesja beach.",
-        "hr": "Otkrijte šarm Omišlja, jednog od najstarijih gradova na Krku. Prošećite starogradskom jezgrom do Fortice, uživajte u mediteranskom ručku i pješačite kroz park Dubec do kristalno čistog mora plaže Pesja."
+        "hr": "Otkrijte šarm Omišlja, jednog od najstarijih gradova na Krku. Prošećite Starim gradom do Fortice, uživajte u mediteranskom ručku i prošetajte Parkom Dubec do kristalno čistih voda plaže Pesja."
       },
       "gastro_picks": {
         "de": [
@@ -317,7 +323,8 @@
             "de": "Entdecken Sie den Charme von Omišalj, einer der ältesten Städte auf Krk. Schlendern Sie durch die Altstadt zur Fortica, genießen Sie ein mediterranes Mittagessen und wandern Sie durch den Park Dubec zum kristallklaren Wasser des Pesja Strands.",
             "hu": "Fedezze fel Omišalj báját, Krk egyik legrégebbi városát. Sétáljon az óvárosban a Forticáig, élvezze a mediterrán ebédet, majd kiránduljon a Dubec parkon át a Pesja strand kristálytiszta vízéig.",
             "ro": "Descoperiți farmecul orașului Omišalj, unul dintre cele mai vechi de pe Krk. Plimbați-vă prin orașul vechi până la Fortica, savurați un prânz mediteranean și faceți o drumeție prin parcul Dubec până la apa cristalină a plajei Pesja.",
-            "en": "Discover the charm of Omišalj, one of the oldest towns on Krk. Stroll through the Old Town to Fortica, enjoy a Mediterranean lunch, and hike through Park Dubec to the crystal-clear waters of Pesja beach."
+            "en": "Discover the charm of Omišalj, one of the oldest towns on Krk. Stroll through the Old Town to Fortica, enjoy a Mediterranean lunch, and hike through Park Dubec to the crystal-clear waters of Pesja beach.",
+            "hr": "Otkrijte šarm Omišlja, jednog od najstarijih gradova na Krku. Prošećite Starim gradom do Fortice, uživajte u mediteranskom ručku i prošetajte Parkom Dubec do kristalno čistih voda plaže Pesja."
           },
           "stops": [
             {
@@ -325,13 +332,15 @@
                 "de": "Altstadt von Omišalj",
                 "hu": "Omišalj óváros",
                 "ro": "Orașul vechi Omišalj",
-                "en": "Omišalj Old Town"
+                "en": "Omišalj Old Town",
+                "hr": "Stari grad Omišalj"
               },
               "tip_5lang": {
                 "de": "Laufen Sie durch die engen Gassen.",
                 "hu": "Sétáljon a szűk sikátorokban.",
                 "ro": "Plimbați-vă pe străzile înguste.",
-                "en": "Walk through the narrow alleys."
+                "en": "Walk through the narrow alleys.",
+                "hr": "Prošećite uskim ulicama."
               }
             },
             {
@@ -339,13 +348,15 @@
                 "de": "Pfarrkirche Mariä Himmelfahrt",
                 "hu": "Mária Mennybemenetele plébániatemplom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Parish Church of the Assumption"
+                "en": "Parish Church of the Assumption",
+                "hr": "Župna crkva Uznesenja"
               },
               "tip_5lang": {
                 "de": "Wunderschönes romanisches Portal.",
                 "hu": "Gyönyörű román stílusú kapu.",
                 "ro": "Portal romanic superb.",
-                "en": "Beautiful Romanesque portal."
+                "en": "Beautiful Romanesque portal.",
+                "hr": "Prekrasan romanički portal."
               }
             },
             {
@@ -353,13 +364,15 @@
                 "de": "Aussichtspunkt Fortica",
                 "hu": "Fortica kilátó",
                 "ro": "Punct de belvedere Fortica",
-                "en": "Fortica Viewpoint"
+                "en": "Fortica Viewpoint",
+                "hr": "Vidikovac Fortica"
               },
               "tip_5lang": {
                 "de": "Blick auf die Bucht von Rijeka.",
                 "hu": "Kilátás a Rijekai-öbölre.",
                 "ro": "Vedere spre golful Rijeka.",
-                "en": "View of the Rijeka bay."
+                "en": "View of the Rijeka bay.",
+                "hr": "Pogled na riječki zaljev."
               }
             },
             {
@@ -367,13 +380,15 @@
                 "de": "Mittagessen in der Altstadt",
                 "hu": "Ebéd az óvárosban",
                 "ro": "Prânz în orașul vechi",
-                "en": "Lunch in the Old Town"
+                "en": "Lunch in the Old Town",
+                "hr": "Ručak u Starom gradu"
               },
               "tip_5lang": {
                 "de": "Hausgemachte Teigwaren.",
                 "hu": "Házias tésztaételek.",
                 "ro": "Paste de casă.",
-                "en": "Homemade pasta dishes."
+                "en": "Homemade pasta dishes.",
+                "hr": "Domaće tjestenine."
               }
             },
             {
@@ -381,13 +396,15 @@
                 "de": "Park Dubec",
                 "hu": "Dubec park",
                 "ro": "Parcul Dubec",
-                "en": "Park Dubec"
+                "en": "Park Dubec",
+                "hr": "Park Dubec"
               },
               "tip_5lang": {
                 "de": "Waldwege direkt über dem Meer.",
                 "hu": "Erdei utak a tenger felett.",
                 "ro": "Poteci de pădure deasupra mării.",
-                "en": "Forest paths right above the sea."
+                "en": "Forest paths right above the sea.",
+                "hr": "Šumske staze odmah iznad mora."
               }
             },
             {
@@ -395,13 +412,15 @@
                 "de": "Strand Pesja",
                 "hu": "Pesja strand",
                 "ro": "Plaja Pesja",
-                "en": "Pesja Beach"
+                "en": "Pesja Beach",
+                "hr": "Plaža Pesja"
               },
               "tip_5lang": {
                 "de": "Kiesstrand mit Pinienchatten.",
                 "hu": "Kavicsos strand fenyőárnnyal.",
                 "ro": "Plajă de prundis cu umbră de pini.",
-                "en": "Pebble beach with pine shade."
+                "en": "Pebble beach with pine shade.",
+                "hr": "Šljunčana plaža s borovom hladovinom."
               }
             }
           ],
@@ -519,6 +538,10 @@
             "en": [
               "The climb from the sea to the town is steep.",
               "Visit the church in the morning."
+            ],
+            "hr": [
+              "Uspon od mora do grada je strm.",
+              "Posjetite crkvu ujutro."
             ]
           }
         },
@@ -528,7 +551,7 @@
             "hu": "Reggel az óváros szűk utcái nyújtanak némi menedéket az eső elől. Délben a plébániatemplom belső terében húzódunk meg. Egy hangulatos tavernában elköltött ebéd után a Fortica kilátó felé vesszük az irányt. Délután a Park Dubec kövei között sétálunk, majd a Pesja strandon csodáljuk meg a borongós tengeri panorámát az esernyőnk alól.",
             "ro": "Dimineața, străzile înguste ale orașului vechi oferă adăpost împotriva ploii. La prânz, vizităm biserica parohială pentru a rămâne uscați. După un prânz într-o tavernă primitoare, mergem spre punctul de belvedere Fortica. După-amiaza, explorăm parcul Dubec și încheiem ziua la plaja Pesja, ascultând sunetul picăturilor care cad peste marea agitată.",
             "en": "In the morning, the narrow streets of the old town offer some shelter from the rain. At noon, we visit the parish church to stay dry. After lunch in a cozy tavern, we head to the Fortica viewpoint. In the afternoon, we walk through Park Dubec and end the day at Pesja beach, enjoying the moody sea atmosphere under an umbrella.",
-            "hr": "Ujutro uske ulice starog grada nude zaklon od kiše. U podne posjećujemo župnu crkvu kako bismo ostali suhi. Nakon ručka u ugodnoj konobi, idemo do vidikovca Fortica. Poslijepodne šećemo parkom Dubec i završavamo dan na plaži Pesja, uživajući u atmosferi mora pod kišobranom."
+            "hr": "Ujutro uske ulice starog grada pružaju donekle zaklon od kiše. U podne posjećujemo župnu crkvu da bismo ostali suhi. Nakon ručka u ugodnoj konobi, idemo na vidikovac Fortica. Poslijepodne prošetamo Parkom Dubec i završavamo dan na plaži Pesja, uživajući u tmurnoj morskoj atmosferi pod kišobranom."
           },
           "stops": [
             {
@@ -538,7 +561,7 @@
                 "hu": "A szűk utcák védelmet nyújtanak a szemerkélő esőben.",
                 "ro": "Străzile înguste oferă protecție bună în caz de ploaie ușoară.",
                 "en": "Narrow alleys provide decent shelter during light rain.",
-                "hr": "Uske uličice pružaju pristojan zaklon tijekom lagane kiše."
+                "hr": "Uske uličice pružaju solidan zaklon pri slaboj kiši."
               }
             },
             {
@@ -548,7 +571,7 @@
                 "hu": "Tökéletes helyszín az eső elől való behúzódásra.",
                 "ro": "Locul perfect pentru a te adăposti de ploaie în interior.",
                 "en": "Perfect place to stay dry while admiring the interior.",
-                "hr": "Savršeno mjesto za boravak na suhom uz razgledavanje unutrašnjosti."
+                "hr": "Savršeno mjesto da ostanete suhi i razgledate interijer."
               }
             },
             {
@@ -558,7 +581,7 @@
                 "hu": "Vigyázat, a kövek vizesen nagyon csúszósak lehetnek.",
                 "ro": "Atenție, pietrele pot fi foarte alunecoase când sunt ude.",
                 "en": "Caution, the stones can be very slippery when wet.",
-                "hr": "Oprez, kamenje može biti vrlo sklisko kad je mokro."
+                "hr": "Pažnja, kamenje može biti vrlo sklisko kad je mokro."
               }
             },
             {
@@ -568,7 +591,7 @@
                 "hu": "Válasszunk fedett teraszos vagy belső terű éttermet.",
                 "ro": "Alegeți un restaurant cu terasă acoperită sau interior cald.",
                 "en": "Choose a restaurant with a covered terrace or indoor seating.",
-                "hr": "Odaberite restoran s natkrivenom terasom ili unutarnjim sjedalima."
+                "hr": "Odaberite restoran s natkrivenom terasom ili sjedenjem unutra."
               }
             },
             {
@@ -578,7 +601,7 @@
                 "hu": "A sűrű lombozat sok esőcseppet felfog a sétányon.",
                 "ro": "Copacii deși opresc multe picături de ploaie pe potecă.",
                 "en": "Dense trees catch many raindrops along the path.",
-                "hr": "Gusto drveće zadržava mnogo kapi kiše duž staze."
+                "hr": "Guste krošnje zgrabe mnogo kišnih kapi duž staze."
               }
             },
             {
@@ -588,7 +611,7 @@
                 "hu": "Élvezzük a tenger morajlását egy nagy esernyő alatt.",
                 "ro": "Bucurați-vă de sunetul mării sub o umbrelă mare.",
                 "en": "Enjoy the sound of the sea under a large umbrella.",
-                "hr": "Uživajte u zvuku mora pod velikim kišobranom."
+                "hr": "Uživajte u zvuku mora ispod velikog kišobrana."
               }
             }
           ],
@@ -618,8 +641,8 @@
               "Be careful on the stairs, wet limestone can be very slick."
             ],
             "hr": [
-              "Nosite vodootpornu obuću jer kamene kocke postaju skliske.",
-              "Sklopivi kišobran je praktičniji u uskim uličicama.",
+              "Nosite vodootpornu obuću jer popločavanje postaje sklisko.",
+              "Sklopivi kišobran praktičniji je u uskim uličicama.",
               "Iskoristite posjet crkvi kao dužu pauzu od kiše.",
               "Budite oprezni na stepenicama, mokri vapnenac može biti vrlo klizav."
             ]
@@ -631,7 +654,7 @@
             "hu": "A téli reggel Omišaljban friss és tiszta levegőt hoz. Délben a templom falai között találunk nyugalmat és enyhülést a hideg ellen. Egy kiadós ebéd után a Fortica kilátóból csodáljuk meg a korai naplementét. Délután a Dubec park szélvédett ösvényein sétálunk, majd a napot a csendes és kihalt Pesja strandon zárjuk a tengeri szélben.",
             "ro": "Dimineața de iarnă în Omišalj este clară și răcoroasă. La prânz, ne încălzim în interiorul bisericii istorice. După un prânz copios, admirăm apusul timpuriu de la punctul Fortica. După-amiaza, ne plimbăm prin parcul Dubec protejați de vânt și încheiem ziua la plaja Pesja, unde liniștea iernii este deplină.",
             "en": "The winter morning in Omišalj is crisp and refreshing. At noon, we warm up inside the historic church. After a hearty lunch, we admire the early sunset from the Fortica viewpoint. In the afternoon, we take a sheltered walk through Park Dubec and end the day at the peaceful, deserted Pesja beach as the winter chill sets in.",
-            "hr": "Zimsko jutro u Omišlju je svježe i okrepljujuće. U podne se grijemo unutar povijesne crkve. Nakon krepkog ručka, divimo se ranom zalasku sunca s vidikovca Fortica. Poslijepodne idemo u zaklonjenu šetnju kroz park Dubec i završavamo dan na mirnoj, pustoj plaži Pesja dok nastupa zimska hladnoća."
+            "hr": "Zimsko jutro u Omišlju je svježe i osvježavajuće. U podne se zagrijavamo u povijesnoj crkvi. Nakon obilnog ručka, divimo se ranom zalasku sunca s vidikovca Fortica. Poslijepodne imamo zaštićenu šetnju kroz Park Dubec i završavamo dan na mirnoj, pustu plaži Pesja dok zimska hladnoća polako dolazi."
           },
           "stops": [
             {
@@ -641,7 +664,7 @@
                 "hu": "Öltözzünk rétegesen a tenger felől fújó hűvös szél ellen.",
                 "ro": "Îmbrăcați-vă în straturi împotriva vântului rece de mare.",
                 "en": "Dress in layers against the fresh sea breeze.",
-                "hr": "Odjenite se slojevito protiv svježeg morskog povjetarca."
+                "hr": "Obucite se u slojevima protiv svježeg morskog povjetarca."
               }
             },
             {
@@ -651,7 +674,7 @@
                 "hu": "Csendes hely, ahol egy kicsit felmelegedhetünk.",
                 "ro": "Un loc liniștit unde te poți încălzi puțin.",
                 "en": "A quiet place to warm up for a few minutes.",
-                "hr": "Tiho mjesto za zagrijavanje na nekoliko minuta."
+                "hr": "Tih mjesto za nekoliko minuta zagrijavanja."
               }
             },
             {
@@ -671,7 +694,7 @@
                 "hu": "Kóstoljunk meg egy forró levest vagy helyi maneštrát.",
                 "ro": "Încercați o supă caldă sau o maneštra locală pentru energie.",
                 "en": "Try a hot soup or local maneštra to warm up.",
-                "hr": "Probajte toplu juhu ili lokalnu maneštru za zagrijavanje."
+                "hr": "Pokušajte s toplom juhom ili lokalnom maneštrom za zagrijavanje."
               }
             },
             {
@@ -681,7 +704,7 @@
                 "hu": "Az ösvények télen gyakran szélvédettebbek a sziklafalaknál.",
                 "ro": "Potecile sunt adesea mai ferite de vânt decât faleza.",
                 "en": "The paths are often more sheltered from wind than the cliffs.",
-                "hr": "Staze su često zaštićenije od vjetra nego litice."
+                "hr": "Staze su često više zaštićene od vjetra nego litice."
               }
             },
             {
@@ -691,7 +714,7 @@
                 "hu": "Élvezzük a magányt, de ügyeljünk a hideg tengeri szélre.",
                 "ro": "Bucurați-vă de liniște, dar atenție la vântul rece de iarnă.",
                 "en": "Enjoy the solitude, but watch out for the cold sea wind.",
-                "hr": "Uživajte u osami, ali pripazite na hladan morski vjetar."
+                "hr": "Uživajte u samoći, ali pazite na hladan morski vjetar."
               }
             }
           ],
@@ -721,10 +744,10 @@
               "Many cafes might have limited opening hours in the off-season."
             ],
             "hr": [
-              "Sunce zalazi već u 16:30 tijekom zimskih mjeseci.",
-              "Pripazite na buru koja može pojačati osjećaj hladnoće.",
-              "Nosite jaknu otpornu na vjetar za vidikovce na liticama.",
-              "Mnogi kafići mogu imati ograničeno radno vrijeme izvan sezone."
+              "Sunce zalazi već oko 16:30 tijekom zimskih mjeseci.",
+              "Pazite na buru, koja može dodatno pojačati osjećaj hladnoće.",
+              "Nosite vjetrootpornu jaknu za vidikovce uz litice.",
+              "Mnogi kafići mogli bi imati ograničeno radno vrijeme u predsezoni."
             ]
           }
         }
@@ -743,7 +766,8 @@
             "de": "Mirine-Fulfinum",
             "hu": "Mirine-Fulfinum",
             "ro": "Mirine-Fulfinum",
-            "en": "Mirine-Fulfinum"
+            "en": "Mirine-Fulfinum",
+            "hr": "Mirine–Fulfinum"
           },
           "coords": [
             14.545,
@@ -759,7 +783,7 @@
             "hu": "Római városromok közvetlenül a parton.",
             "ro": "Ruine romane chiar pe malul mării.",
             "en": "Roman city ruins right by the sea.",
-            "hr": "Ruševine rimskog grada tik uz more."
+            "hr": "Rimske gradske ruševine pravo uz more."
           }
         },
         {
@@ -767,7 +791,8 @@
             "de": "Altstadt von Omišalj",
             "hu": "Omišalj óváros",
             "ro": "Orașul vechi Omišalj",
-            "en": "Omišalj Old Town"
+            "en": "Omišalj Old Town",
+            "hr": "Stari grad Omišalj"
           },
           "coords": [
             14.553,
@@ -791,7 +816,8 @@
             "de": "Mittagessen in Omišalj",
             "hu": "Ebéd Omišaljban",
             "ro": "Prânz în Omišalj",
-            "en": "Lunch in Omišalj"
+            "en": "Lunch in Omišalj",
+            "hr": "Ručak u Omišalju"
           },
           "coords": [
             14.552,
@@ -815,7 +841,8 @@
             "de": "Park Dubec",
             "hu": "Dubec park",
             "ro": "Parcul Dubec",
-            "en": "Park Dubec"
+            "en": "Park Dubec",
+            "hr": "Park Dubec"
           },
           "coords": [
             14.551,
@@ -831,7 +858,7 @@
             "hu": "Kerékpározás a kijelölt utakon.",
             "ro": "Ciclism pe trasee marcate.",
             "en": "Cycling on marked paths.",
-            "hr": "Bicikliranje po označenim stazama."
+            "hr": "Biciklizam po označenim stazama."
           }
         },
         {
@@ -839,7 +866,8 @@
             "de": "Strand Pesja",
             "hu": "Pesja strand",
             "ro": "Plaja Pesja",
-            "en": "Pesja Beach"
+            "en": "Pesja Beach",
+            "hr": "Plaža Pesja"
           },
           "coords": [
             14.555,
@@ -855,7 +883,7 @@
             "hu": "Felfrissülés a túra után.",
             "ro": "Răcorire după tur.",
             "en": "Cool down after the tour.",
-            "hr": "Osvježenje nakon ture."
+            "hr": "Ohladite se nakon ture."
           }
         }
       ],
@@ -864,7 +892,7 @@
         "hu": "Tekerjen Fulfinum lenyűgöző romjaihoz. Ezután másszon fel a dombra Omišaljba egy kulturális pihenőre az óvárosban, majd guruljon át a Dubec parkon a Pesja strandig.",
         "ro": "Pedalați până la ruinele impresionante de la Fulfinum. Apoi urcați dealul spre Omišalj pentru o pauză culturală în orașul vechi, înainte de a coborî prin parcul Dubec spre plaja Pesja.",
         "en": "Cycle to the impressive ruins of Fulfinum. Then climb the hill to Omišalj for a cultural break in the Old Town, before rolling through Park Dubec to Pesja beach.",
-        "hr": "Odvezite se biciklom do impresivnih ruševina Fulfinuma. Zatim se popnite na brdo do Omišlja za kulturni predah u starom gradu, prije nego što se spustite kroz park Dubec do plaže Pesja."
+        "hr": "Biciklirajte do impresivnih ruševina Fulfinuma. Zatim se popnite na brežuljak do Omišlja za kulturnu pauzu u Starom gradu, prije nego što se spustite kroz Park Dubec do plaže Pesja."
       },
       "gastro_picks": {
         "de": [
@@ -986,7 +1014,7 @@
         ],
         "hr": [
           "Neki dijelovi su zahtjevni uzbrdo.",
-          "Kaciga je obavezna na hrvatskim cestama."
+          "Kaciga je obvezna na hrvatskim cestama."
         ]
       },
       "variants": {
@@ -995,7 +1023,8 @@
             "de": "Radeln Sie zu den beeindruckenden Ruinen von Fulfinum. Danach erklimmen Sie den Hügel nach Omišalj für eine kulturelle Pause in der Altstadt, bevor Sie entspannt durch den Park Dubec zum Strand Pesja rollen.",
             "hu": "Tekerjen Fulfinum lenyűgöző romjaihoz. Ezután másszon fel a dombra Omišaljba egy kulturális pihenőre az óvárosban, majd guruljon át a Dubec parkon a Pesja strandig.",
             "ro": "Pedalați până la ruinele impresionante de la Fulfinum. Apoi urcați dealul spre Omišalj pentru o pauză culturală în orașul vechi, înainte de a coborî prin parcul Dubec spre plaja Pesja.",
-            "en": "Cycle to the impressive ruins of Fulfinum. Then climb the hill to Omišalj for a cultural break in the Old Town, before rolling through Park Dubec to Pesja beach."
+            "en": "Cycle to the impressive ruins of Fulfinum. Then climb the hill to Omišalj for a cultural break in the Old Town, before rolling through Park Dubec to Pesja beach.",
+            "hr": "Biciklirajte do impresivnih ruševina Fulfinuma. Zatim se popnite na brežuljak do Omišlja za kulturnu pauzu u Starom gradu, prije nego što se spustite kroz Park Dubec do plaže Pesja."
           },
           "stops": [
             {
@@ -1003,13 +1032,15 @@
                 "de": "Mirine-Fulfinum",
                 "hu": "Mirine-Fulfinum",
                 "ro": "Mirine-Fulfinum",
-                "en": "Mirine-Fulfinum"
+                "en": "Mirine-Fulfinum",
+                "hr": "Mirine–Fulfinum"
               },
               "tip_5lang": {
                 "de": "Römische Stadtruinen direkt am Meer.",
                 "hu": "Római városromok közvetlenül a parton.",
                 "ro": "Ruine romane chiar pe malul mării.",
-                "en": "Roman city ruins right by the sea."
+                "en": "Roman city ruins right by the sea.",
+                "hr": "Rimske gradske ruševine pravo uz more."
               }
             },
             {
@@ -1017,13 +1048,15 @@
                 "de": "Altstadt von Omišalj",
                 "hu": "Omišalj óváros",
                 "ro": "Orașul vechi Omišalj",
-                "en": "Omišalj Old Town"
+                "en": "Omišalj Old Town",
+                "hr": "Stari grad Omišalj"
               },
               "tip_5lang": {
                 "de": "Fahrrad im Zentrum schieben.",
                 "hu": "A központban tolja a biciklit.",
                 "ro": "Împingeți bicicleta în centru.",
-                "en": "Push your bike in the center."
+                "en": "Push your bike in the center.",
+                "hr": "Gurajte bicikl u centru."
               }
             },
             {
@@ -1031,13 +1064,15 @@
                 "de": "Mittagessen in Omišalj",
                 "hu": "Ebéd Omišaljban",
                 "ro": "Prânz în Omišalj",
-                "en": "Lunch in Omišalj"
+                "en": "Lunch in Omišalj",
+                "hr": "Ručak u Omišalju"
               },
               "tip_5lang": {
                 "de": "Probieren Sie Schafskäse.",
                 "hu": "Kóstolja meg a juhsajtot.",
                 "ro": "Gustați brânza de oaie.",
-                "en": "Try some sheep cheese."
+                "en": "Try some sheep cheese.",
+                "hr": "Probajte ovčji sir."
               }
             },
             {
@@ -1045,13 +1080,15 @@
                 "de": "Park Dubec",
                 "hu": "Dubec park",
                 "ro": "Parcul Dubec",
-                "en": "Park Dubec"
+                "en": "Park Dubec",
+                "hr": "Park Dubec"
               },
               "tip_5lang": {
                 "de": "Radfahren auf markierten Wegen.",
                 "hu": "Kerékpározás a kijelölt utakon.",
                 "ro": "Ciclism pe trasee marcate.",
-                "en": "Cycling on marked paths."
+                "en": "Cycling on marked paths.",
+                "hr": "Biciklizam po označenim stazama."
               }
             },
             {
@@ -1059,13 +1096,15 @@
                 "de": "Strand Pesja",
                 "hu": "Pesja strand",
                 "ro": "Plaja Pesja",
-                "en": "Pesja Beach"
+                "en": "Pesja Beach",
+                "hr": "Plaža Pesja"
               },
               "tip_5lang": {
                 "de": "Abkühlung nach der Tour.",
                 "hu": "Felfrissülés a túra után.",
                 "ro": "Răcorire după tur.",
-                "en": "Cool down after the tour."
+                "en": "Cool down after the tour.",
+                "hr": "Ohladite se nakon ture."
               }
             }
           ],
@@ -1167,6 +1206,10 @@
             "en": [
               "Some sections are demanding uphill.",
               "Helmet is mandatory on Croatian roads."
+            ],
+            "hr": [
+              "Neki dijelovi su zahtjevni uzbrdo.",
+              "Kaciga je obvezna na hrvatskim cestama."
             ]
           }
         },
@@ -1176,7 +1219,7 @@
             "hu": "Az eső ellenére reggel Mirine-Fulfinum romjait keressük fel a szilárd burkolatú utakon. Délben óvatosan tekerünk fel az óvárosba. Egy kiadós ebéd után a Dubec park fái alatt találunk menedéket. Délután gurulunk le a Pesja strandra, ahol az aszfaltozott lejtő nagy figyelmet igényel, mielőtt élveznénk a sós, párás tengeri levegőt.",
             "ro": "În ciuda ploii, explorăm Mirine-Fulfinum pe drumurile pavate. La prânz, pedalăm cu grijă spre orașul vechi. După un prânz bun, ne adăpostim sub copacii deși din parcul Dubec. După-amiaza coborâm spre plaja Pesja, unde panta asfaltată necesită concentrare maximă înainte de a ne bucura de briza proaspătă.",
             "en": "Despite the rain, we explore Mirine-Fulfinum on paved paths in the morning. At noon, we cycle carefully up to the old town. After a filling lunch, we find shelter under the dense trees of Park Dubec. In the afternoon, we reach Pesja beach, where the asphalt descent requires full focus before enjoying the fresh sea air.",
-            "hr": "Unatoč kiši, ujutro istražujemo Mirine-Fulfinum asfaltiranim stazama. U podne se pažljivo penjemo biciklom do starog grada. Nakon zasitnog ručka, pronalazimo zaklon pod gustim drvećem parka Dubec. Poslijepodne dolazimo do plaže Pesja, gdje asfaltni spust zahtijeva punu koncentraciju prije uživanja u svježem morskom zraku."
+            "hr": "Unatoč kiši, ujutro istražujemo Mirine-Fulfinum po asfaltiranim stazama. U podne polako bicikliramo do starog grada. Nakon okrepljujućeg ručka sklanjamo se pod guste krošnje Parka Dubec. Poslijepodne stižemo na plažu Pesja, gdje silazak po asfaltu zahtijeva punu koncentraciju prije nego uživamo u svježem morskom zraku."
           },
           "stops": [
             {
@@ -1186,7 +1229,7 @@
                 "hu": "A romok közötti utak sarasak lehetnek, maradjunk a főúton.",
                 "ro": "Drumurile dintre ruine pot fi noroioase, rămâneți pe calea principală.",
                 "en": "Paths between ruins can be muddy, stick to the main track.",
-                "hr": "Staze između ruševina mogu biti blatne, držite se glavnog puta."
+                "hr": "Staze među ruševinama mogu biti blatne, držite se glavnog puta."
               }
             },
             {
@@ -1196,7 +1239,7 @@
                 "hu": "Vigyázzunk a fékezéssel a vizes macskaköveken.",
                 "ro": "Atenție la frânare pe pavajul umed din oraș.",
                 "en": "Be careful when braking on the wet cobblestones.",
-                "hr": "Budite oprezni pri kočenju na mokrim kamenim kockama."
+                "hr": "Pazite pri kočenju po mokrim kalama."
               }
             },
             {
@@ -1206,7 +1249,7 @@
                 "hu": "Keressünk helyet, ahol biztonságban lezárhatjuk a vizes bringát.",
                 "ro": "Căutați un loc unde puteți lăsa bicicleta udă în siguranță.",
                 "en": "Look for a spot where you can safely park the wet bike.",
-                "hr": "Potražite mjesto gdje možete sigurno parkirati mokri bicikl."
+                "hr": "Pronađite mjesto gdje možete sigurno parkirati mokri bicikl."
               }
             },
             {
@@ -1216,7 +1259,7 @@
                 "hu": "Heves esőzéskor kerüljük a meredek erdei ösvényeket.",
                 "ro": "Evitați potecile abrupte de pădure în caz de ploaie torențială.",
                 "en": "Avoid steep forest trails during heavy rainfall.",
-                "hr": "Izbjegavajte strme šumske staze tijekom jake kiše."
+                "hr": "Izbjegavajte strme šumske staze za vrijeme obilnih kiša."
               }
             },
             {
@@ -1226,7 +1269,7 @@
                 "hu": "A strandra vezető aszfaltozott lejtő vizesen csúszik.",
                 "ro": "Coborârea asfaltată spre plajă este alunecoasă pe ploaie.",
                 "en": "The asphalt descent to the beach is slippery when wet.",
-                "hr": "Asfaltni spust do plaže je klizav kad je mokar."
+                "hr": "Asfaltni spust do plaže klizav je kad je mokar."
               }
             }
           ],
@@ -1256,9 +1299,9 @@
               "Check your brakes before the descent to the sea."
             ],
             "hr": [
-              "Blatobrani su neophodni u ovakvim vremenskim uvjetima.",
+              "Blatobrani su neophodni u ovim vremenskim uvjetima.",
               "Izbjegavajte nagle manevre na mokrom asfaltu.",
-              "Nosite vodootpornu odjeću i rukavice za bolji hvat.",
+              "Nosite vodonepropusnu odjeću i rukavice za bolji grip.",
               "Provjerite kočnice prije spusta prema moru."
             ]
           }
@@ -1269,7 +1312,7 @@
             "hu": "A tiszta téli reggelen Mirine-Fulfinum romjaihoz tekerünk. Délben az óvárosba kapaszkodunk fel, ahol az emelkedők segítenek melegen tartani minket. Egy forró ebéd után a Dubec park friss levegőjét élvezzük. Mivel a nap korán nyugszik, még világosban elérjük a Pesja strandot, és kiélvezzük a part menti békés téli hangulatot.",
             "ro": "Dimineața clară de iarnă ne poartă spre ruinele Mirine-Fulfinum. La prânz pedalăm spre orașul vechi, unde urcările ne țin de cald. După un prânz cald, ne bucurăm de aerul curat din parcul Dubec. Deoarece soarele apune devreme, încheiem turul la plaja Pesja încă pe lumină, savurând liniștea de la malul mării.",
             "en": "The clear winter morning leads us to the ruins of Mirine-Fulfinum. At noon, we cycle up to the old town, where the climbs keep us warm. After a hot lunch, we enjoy the crisp air in Park Dubec. Since the sun sets early, we finish our tour at Pesja beach while it's still light, soaking in the peaceful winter atmosphere by the coast.",
-            "hr": "Vedro zimsko jutro vodi nas do ruševina Mirine-Fulfinuma. U podne se penjemo biciklom do starog grada, gdje nas usponi griju. Nakon toplog ručka, uživamo u svježem zraku u parku Dubec. Budući da sunce rano zalazi, turu završavamo na plaži Pesja dok je još dan, upijajući mirnu zimsku atmosferu uz obalu."
+            "hr": "Bistar zimski jutro vodi nas do ruševina Mirine-Fulfinum. U podne bicikliramo do starog grada, gdje nas usponi griju. Nakon toplog ručka uživamo u svježem zraku Parka Dubec. Budući da sunce zalazi rano, završavamo turu na plaži Pesja dok je još svjetla, upijajući mirnu zimsku atmosferu uz obalu."
           },
           "stops": [
             {
@@ -1279,7 +1322,7 @@
                 "hu": "A nyílt síkság télen nagyon szeles lehet.",
                 "ro": "Câmpia deschisă poate fi foarte vântoasă iarna.",
                 "en": "The open plain can be very windy during winter.",
-                "hr": "Otvorena ravnica može biti vrlo vjetrovita zimi."
+                "hr": "Otvorena nizina može biti vrlo vjetrovita zimi."
               }
             },
             {
@@ -1289,7 +1332,7 @@
                 "hu": "Használjuk a meredek utcákat a testhőmérséklet megőrzésére.",
                 "ro": "Folosiți străzile abrupte pentru a vă menține temperatura corpului.",
                 "en": "Use the steep alleys to keep your body temperature up.",
-                "hr": "Koristite strme uličice kako biste održali tjelesnu temperaturu."
+                "hr": "Koristite strme uličice da održite tjelesnu temperaturu."
               }
             },
             {
@@ -1309,7 +1352,7 @@
                 "hu": "Ügyeljünk a zúzmarára az árnyékos erdei utakon.",
                 "ro": "Atenție la chiciură pe potecile umbrite din pădure.",
                 "en": "Watch out for frost on the shaded forest paths.",
-                "hr": "Pripazite na mraz na zasjenjenim šumskim stazama."
+                "hr": "Pazite na mraz na zasjenjenim šumskim stazama."
               }
             },
             {
@@ -1349,10 +1392,10 @@
               "Check the wind forecast for the coastal sections before starting."
             ],
             "hr": [
-              "Odjeća otporna na vjetar je neophodna zbog bure.",
-              "Sunce nestaje iza planina oko 16:30.",
-              "Grijejte ekstremitete kvalitetnim rukavicama.",
-              "Provjerite prognozu vjetra za obalne dijelove prije polaska."
+              "Vjetrootporna odjeća je neophodna zbog bure.",
+              "Sunce se skriva iza planina oko 16:30.",
+              "Držite ekstremitete toplima kvalitetnim rukavicama.",
+              "Prije polaska provjerite prognozu vjetra za obalni dio."
             ]
           }
         }
@@ -1371,7 +1414,8 @@
             "de": "Mirine-Fulfinum",
             "hu": "Mirine-Fulfinum",
             "ro": "Mirine-Fulfinum",
-            "en": "Mirine-Fulfinum"
+            "en": "Mirine-Fulfinum",
+            "hr": "Mirine-Fulfinum"
           },
           "coords": [
             14.545,
@@ -1395,7 +1439,8 @@
             "de": "Krk Brücke (Aussichtspunkt)",
             "hu": "Krk-híd (kilátó)",
             "ro": "Podul Krk (belvedere)",
-            "en": "Krk Bridge (viewpoint)"
+            "en": "Krk Bridge (viewpoint)",
+            "hr": "Krčki most (vidikovac)"
           },
           "coords": [
             14.57,
@@ -1419,7 +1464,8 @@
             "de": "Altstadt von Omišalj",
             "hu": "Omišalj óváros",
             "ro": "Orașul vechi Omišalj",
-            "en": "Omišalj Old Town"
+            "en": "Omišalj Old Town",
+            "hr": "Stari grad Omišalj"
           },
           "coords": [
             14.553,
@@ -1435,7 +1481,7 @@
             "hu": "Használja a város bejáratánál lévő parkolót.",
             "ro": "Parcați la intrarea în oraș.",
             "en": "Use the parking at the town entrance.",
-            "hr": "Koristite parking na ulazu u grad."
+            "hr": "Iskoristite parkiralište na ulazu u grad."
           }
         },
         {
@@ -1443,7 +1489,8 @@
             "de": "Mittagessen in Omišalj",
             "hu": "Ebéd Omišaljban",
             "ro": "Prânz în Omišalj",
-            "en": "Lunch in Omišalj"
+            "en": "Lunch in Omišalj",
+            "hr": "Ručak u Omišalju"
           },
           "coords": [
             14.552,
@@ -1459,7 +1506,7 @@
             "hu": "Regionális különlegességek.",
             "ro": "Specialități regionale.",
             "en": "Regional specialties.",
-            "hr": "Regionalni specijaliteti."
+            "hr": "Regionalne specijalitete."
           }
         },
         {
@@ -1467,7 +1514,8 @@
             "de": "Aussichtspunkt Fortica",
             "hu": "Fortica kilátó",
             "ro": "Punct de belvedere Fortica",
-            "en": "Fortica Viewpoint"
+            "en": "Fortica Viewpoint",
+            "hr": "Vidikovac Fortica"
           },
           "coords": [
             14.554,
@@ -1491,7 +1539,8 @@
             "de": "Strand Pesja",
             "hu": "Pesja strand",
             "ro": "Plaja Pesja",
-            "en": "Pesja Beach"
+            "en": "Pesja Beach",
+            "hr": "Plaža Pesja"
           },
           "coords": [
             14.555,
@@ -1516,7 +1565,7 @@
         "hu": "Látogassa meg először Fulfinum ókori romjait és a Krk-hídra néző látványos kilátót. A délutánt töltse Omišalj festői óvárosában és a családbarát Pesja strandon.",
         "ro": "Vizitați mai întâi ruinele antice de la Fulfinum și punctul de belvedere spectaculos asupra podului Krk. După-amiaza o veți petrece în orașul vechi pitoresc Omišalj și pe plaja Pesja, ideală pentru familii.",
         "en": "First visit the ancient ruins of Fulfinum and the spectacular Krk Bridge viewpoint. Spend the afternoon in the picturesque Old Town of Omišalj and at the family-friendly Pesja beach.",
-        "hr": "Prvo posjetite antičke ruševine Fulfinuma i spektakularni vidikovac na Krčki most. Poslijepodne provedite u slikovitom starom gradu Omišlju i na obiteljskoj plaži Pesja."
+        "hr": "Prvo posjetite drevne ostatke Fulfinuma i spektakularni vidikovac Krčkog mosta. Poslijepodne provedite u slikovitom starom gradu Omišalju i na obiteljski prilagođenoj plaži Pesja."
       },
       "gastro_picks": {
         "de": [
@@ -1637,8 +1686,8 @@
           "Watch out for strong wind (Bura) on the bridge."
         ],
         "hr": [
-          "Parking na Pesji se brzo popuni ljeti.",
-          "Pripazite na jaku buru na mostu."
+          "Parkiralište za Pesju brzo se puni ljeti.",
+          "Pazite na jak vjetar (Bura) na mostu."
         ]
       },
       "variants": {
@@ -1647,7 +1696,8 @@
             "de": "Besuchen Sie zuerst die antiken Ruinen von Fulfinum und den spektakulären Aussichtspunkt auf die Krk-Brücke. Den Nachmittag verbringen Sie in der malerischen Altstadt von Omišalj und am familienfreundlichen Strand Pesja.",
             "hu": "Látogassa meg először Fulfinum ókori romjait és a Krk-hídra néző látványos kilátót. A délutánt töltse Omišalj festői óvárosában és a családbarát Pesja strandon.",
             "ro": "Vizitați mai întâi ruinele antice de la Fulfinum și punctul de belvedere spectaculos asupra podului Krk. După-amiaza o veți petrece în orașul vechi pitoresc Omišalj și pe plaja Pesja, ideală pentru familii.",
-            "en": "First visit the ancient ruins of Fulfinum and the spectacular Krk Bridge viewpoint. Spend the afternoon in the picturesque Old Town of Omišalj and at the family-friendly Pesja beach."
+            "en": "First visit the ancient ruins of Fulfinum and the spectacular Krk Bridge viewpoint. Spend the afternoon in the picturesque Old Town of Omišalj and at the family-friendly Pesja beach.",
+            "hr": "Prvo posjetite drevne ostatke Fulfinuma i spektakularni vidikovac Krčkog mosta. Poslijepodne provedite u slikovitom starom gradu Omišalju i na obiteljski prilagođenoj plaži Pesja."
           },
           "stops": [
             {
@@ -1655,13 +1705,15 @@
                 "de": "Mirine-Fulfinum",
                 "hu": "Mirine-Fulfinum",
                 "ro": "Mirine-Fulfinum",
-                "en": "Mirine-Fulfinum"
+                "en": "Mirine-Fulfinum",
+                "hr": "Mirine-Fulfinum"
               },
               "tip_5lang": {
                 "de": "Großer kostenloser Parkplatz.",
                 "hu": "Nagy ingyenes parkoló.",
                 "ro": "Parcare mare gratuită.",
-                "en": "Large free parking lot."
+                "en": "Large free parking lot.",
+                "hr": "Veliko besplatno parkiralište."
               }
             },
             {
@@ -1669,13 +1721,15 @@
                 "de": "Krk Brücke (Aussichtspunkt)",
                 "hu": "Krk-híd (kilátó)",
                 "ro": "Podul Krk (belvedere)",
-                "en": "Krk Bridge (viewpoint)"
+                "en": "Krk Bridge (viewpoint)",
+                "hr": "Krčki most (vidikovac)"
               },
               "tip_5lang": {
                 "de": "Ikone der Insel Krk.",
                 "hu": "Krk-sziget ikonja.",
                 "ro": "Pictograma insulei Krk.",
-                "en": "Icon of Krk island."
+                "en": "Icon of Krk island.",
+                "hr": "Ikona otoka Krka."
               }
             },
             {
@@ -1683,13 +1737,15 @@
                 "de": "Altstadt von Omišalj",
                 "hu": "Omišalj óváros",
                 "ro": "Orașul vechi Omišalj",
-                "en": "Omišalj Old Town"
+                "en": "Omišalj Old Town",
+                "hr": "Stari grad Omišalj"
               },
               "tip_5lang": {
                 "de": "Parkplatz am Ortseingang nutzen.",
                 "hu": "Használja a város bejáratánál lévő parkolót.",
                 "ro": "Parcați la intrarea în oraș.",
-                "en": "Use the parking at the town entrance."
+                "en": "Use the parking at the town entrance.",
+                "hr": "Iskoristite parkiralište na ulazu u grad."
               }
             },
             {
@@ -1697,13 +1753,15 @@
                 "de": "Mittagessen in Omišalj",
                 "hu": "Ebéd Omišaljban",
                 "ro": "Prânz în Omišalj",
-                "en": "Lunch in Omišalj"
+                "en": "Lunch in Omišalj",
+                "hr": "Ručak u Omišalju"
               },
               "tip_5lang": {
                 "de": "Regionale Spezialitäten.",
                 "hu": "Regionális különlegességek.",
                 "ro": "Specialități regionale.",
-                "en": "Regional specialties."
+                "en": "Regional specialties.",
+                "hr": "Regionalne specijalitete."
               }
             },
             {
@@ -1711,13 +1769,15 @@
                 "de": "Aussichtspunkt Fortica",
                 "hu": "Fortica kilátó",
                 "ro": "Punct de belvedere Fortica",
-                "en": "Fortica Viewpoint"
+                "en": "Fortica Viewpoint",
+                "hr": "Vidikovac Fortica"
               },
               "tip_5lang": {
                 "de": "Kurzer Spaziergang von der Altstadt.",
                 "hu": "Rövid séta az óvárostól.",
                 "ro": "Scurtă plimbare din orașul vechi.",
-                "en": "Short walk from the old town."
+                "en": "Short walk from the old town.",
+                "hr": "Kratka šetnja iz starog grada."
               }
             },
             {
@@ -1725,13 +1785,15 @@
                 "de": "Strand Pesja",
                 "hu": "Pesja strand",
                 "ro": "Plaja Pesja",
-                "en": "Pesja Beach"
+                "en": "Pesja Beach",
+                "hr": "Plaža Pesja"
               },
               "tip_5lang": {
                 "de": "Abfahrt direkt zum Meer.",
                 "hu": "Lehajtás közvetlenül a tengerhez.",
                 "ro": "Coborâre direct la mare.",
-                "en": "Drive down directly to the sea."
+                "en": "Drive down directly to the sea.",
+                "hr": "Spustite se automobilom direktno do mora."
               }
             }
           ],
@@ -1833,6 +1895,10 @@
             "en": [
               "Pesja parking fills up fast in summer.",
               "Watch out for strong wind (Bura) on the bridge."
+            ],
+            "hr": [
+              "Parkiralište za Pesju brzo se puni ljeti.",
+              "Pazite na jak vjetar (Bura) na mostu."
             ]
           }
         },
@@ -1842,7 +1908,7 @@
             "hu": "Az esős napok ideálisak egy autós túrához Omišaljban. Reggel szárazon látogatjuk meg az antik romokat. Ezután a Krki híd kilátópontjához hajtunk, ahol az autóból élvezzük a panorámát. Délben az óvároshoz közel parkolunk, hogy csak keveset kelljen gyalogolnunk. A délutánt a kilátóhelyeken töltjük, majd a Pesja strandon zárjuk a napot.",
             "ro": "Zilele ploioase sunt perfecte pentru un tur cu mașina în Omišalj. Dimineața vizităm ruinele antice fără să ne udăm. Apoi mergem la punctul de belvedere al podului Krk, admirând peisajul din mașină. La prânz parcăm aproape de orașul vechi pentru un acces rapid. După-amiaza o petrecem la punctele de belvedere și încheiem la plaja Pesja.",
             "en": "Rainy days are perfect for a car tour in Omišalj. In the morning, we visit the ancient ruins while staying dry. Then we drive to the Krk Bridge viewpoint, enjoying the vista from the vehicle. At noon, we park close to the old town for quick access to the restaurant. The afternoon is spent at various viewpoints, ending the day at Pesja beach.",
-            "hr": "Kišni dani su savršeni za turu automobilom u Omišlju. Ujutro posjećujemo antičke ruševine ostajući na suhom. Zatim se vozimo do vidikovca na Krčki most, uživajući u pogledu iz vozila. U podne parkiramo blizu starog grada za brzi pristup restoranu. Poslijepodne provodimo na raznim vidikovcima, završavajući dan na plaži Pesja."
+            "hr": "Kišni dani savršeni su za automobilsku turu po Omišalju. Ujutro posjećujemo drevne ruševine dok ostajemo suhi. Zatim vozimo do vidikovca na Krčkom mostu, uživajući u pogledu iz vozila. U podne parkiramo blizu starog grada za brzi pristup restoranu. Poslijepodne provodimo na raznim vidikovcima, a dan završavamo na plaži Pesja."
           },
           "stops": [
             {
@@ -1852,7 +1918,7 @@
                 "hu": "Parkoljunk közvetlenül a bejáratnál, hogy minimalizáljuk a gyaloglást.",
                 "ro": "Parcați chiar la intrare pentru a merge cât mai puțin prin ploaie.",
                 "en": "Park right at the entrance to minimize walking in the rain.",
-                "hr": "Parkirajte odmah na ulazu kako biste smanjili hodanje po kiši."
+                "hr": "Parkirajte neposredno na ulazu kako biste smanjili hodanje po kiši."
               }
             },
             {
@@ -1862,7 +1928,7 @@
                 "hu": "Élvezzük a kilátást biztonságban az autó belsejéből.",
                 "ro": "Bucurați-vă de priveliște în siguranță din interiorul mașinii.",
                 "en": "Enjoy the view safely from inside the car.",
-                "hr": "Sigurno uživajte u pogledu iz unutrašnjosti automobila."
+                "hr": "Uživajte u pogledu sigurno iz unutrašnjosti automobila."
               }
             },
             {
@@ -1872,7 +1938,7 @@
                 "hu": "A város szélén lévő parkoló esőben gyakran üresebb.",
                 "ro": "Parcarea de la intrarea în oraș este mai liberă pe ploaie.",
                 "en": "The parking lot at the town entrance is often less crowded in the rain.",
-                "hr": "Parkiralište na ulazu u grad često je manje gužvovito na kiši."
+                "hr": "Parkiralište na ulazu u grad često je manje popunjeno kad pada kiša."
               }
             },
             {
@@ -1882,7 +1948,7 @@
                 "hu": "Használjuk a központhoz közeli parkolót a rövid távokhoz.",
                 "ro": "Folosiți parcarea de lângă centru pentru distanțe scurte.",
                 "en": "Use the parking lot near the center for shorter walking distances.",
-                "hr": "Koristite parking blizu centra za kraće pješačenje."
+                "hr": "Iskoristite parkiralište blizu centra za kraće pješačenje."
               }
             },
             {
@@ -1932,10 +1998,10 @@
               "Finding a parking spot in the old town is usually easier when it rains."
             ],
             "hr": [
-              "Provjerite je li Krčki most zatvoren za određena vozila zbog jakog vjetra.",
-              "Neka vam kišobran bude pri ruci za šetnju od parkinga.",
-              "Pripazite na velike lokve u nižim dijelovima Fulfinuma.",
-              "Pronalaženje parkinga u starom gradu obično je lakše kad pada kiša."
+              "Provjerite zatvara li se Krčki most za određena vozila zbog jakog vjetra.",
+              "Imajte kišobran pri ruci za šetnju od parkirališta.",
+              "Pazite na velike bare u nižim dijelovima Fulfinuma.",
+              "Pronaći mjesto za parkiranje u starom gradu obično je lakše kad pada kiša."
             ]
           }
         },
@@ -1945,7 +2011,7 @@
             "hu": "A téli autós túra kényelmet és pazar kilátást ígér. Reggel a tiszta levegőben fedezzük fel az antik romokat. A Krki híd a téli fényekben éles panorámát nyújt. Délben Omišaljban melegszünk fel, majd körbejárjuk a kilátóhelyeket. Mivel korán sötétedik, a naplementét kényelmesen az autóból vagy a közeli parkolóból élvezzük, végül a Pesja strandot látogatjuk meg.",
             "ro": "Un tur cu mașina iarna oferă confort și priveliști superbe. Dimineața explorăm ruinele antice în aerul curat. Podul Krk oferă o panoramă clară în lumina iernii. La prânz ne încălzim în Omišalj înainte de a merge la punctele de belvedere. Apusul îl admirăm confortabil din mașină, încheind ziua la plaja Pesja.",
             "en": "A winter car tour provides comfort and great vistas. In the morning, we explore the ancient ruins in the crisp air. The Krk Bridge offers a sharp panorama in the winter light. At noon, we warm up in Omišalj before visiting the viewpoints. As it gets dark early, we enjoy the sunset comfortably from the car or nearby parking, finally visiting Pesja beach.",
-            "hr": "Zimska tura automobilom pruža udobnost i sjajne vidike. Ujutro istražujemo antičke ruševine na svježem zraku. Krčki most nudi oštru panoramu na zimskom svjetlu. U podne se grijemo u Omišlju prije obilaska vidikovaca. Kako mrak rano pada, uživamo u zalasku sunca udobno iz automobila ili obližnjeg parkinga, te na kraju posjećujemo plažu Pesja."
+            "hr": "Zimska auto tura pruža udobnost i prekrasne poglede. Ujutro istražujemo drevne ruševine na svježem zraku. Krčki most nudi oštar panoramski pogled u zimskom svjetlu. U podne se zagrijavamo u Omišalju prije posjeta vidikovcima. Kako dan ranije pada mrak, uživamo u zalasku udobno iz automobila ili obližnjeg parkirališta, a na kraju posjećujemo plažu Pesja."
           },
           "stops": [
             {
@@ -1955,7 +2021,7 @@
                 "hu": "Használjuk az autó fűtését a megállók közötti szakaszokon.",
                 "ro": "Folosiți încălzirea din mașină între punctele de vizitare.",
                 "en": "Use the car heater between the sightseeing spots.",
-                "hr": "Koristite grijanje u automobilu između mjesta razgledavanja."
+                "hr": "Iskoristite grijač u autu između razgledavanja."
               }
             },
             {
@@ -1965,7 +2031,7 @@
                 "hu": "Erős bóra esetén az autóból való kiszállás kellemetlen lehet.",
                 "ro": "În caz de Bora puternică, părăsirea vehiculului poate fi neplăcută.",
                 "en": "Leaving the vehicle can be unpleasant during strong Bora winds.",
-                "hr": "Izlazak iz vozila može biti neugodan tijekom jake bure."
+                "hr": "Izaći iz vozila može biti neugodno za vrijeme jake bure."
               }
             },
             {
@@ -1975,7 +2041,7 @@
                 "hu": "Parkoljunk a déli oldalon, hogy elcsípjük a téli napsütést.",
                 "ro": "Parcați pe partea de sud pentru a prinde puțin soare de iarnă.",
                 "en": "Park on the south side to catch some winter sunshine.",
-                "hr": "Parkirajte na južnoj strani kako biste uhvatili malo zimskog sunca."
+                "hr": "Parkirajte na južnoj strani da uhvatite malo zimskog sunca."
               }
             },
             {
@@ -1985,7 +2051,7 @@
                 "hu": "Ellenőrizzük előre, mely éttermek fűtöttek télen.",
                 "ro": "Verificați din timp care restaurante sunt încălzite iarna.",
                 "en": "Check in advance which restaurants are heated in winter.",
-                "hr": "Unaprijed provjerite koji su restorani grijani zimi."
+                "hr": "Provjerite unaprijed koji su restorani zimski grijani."
               }
             },
             {
@@ -1995,7 +2061,7 @@
                 "hu": "Érkezzünk legkésőbb 16:15-re a legszebb naplemente fényekhez.",
                 "ro": "Veniți cel târziu la 16:15 pentru cea mai bună lumină de apus.",
                 "en": "Arrive by 16:15 at the latest for the best sunset light.",
-                "hr": "Dođite najkasnije do 16:15 za najbolje svjetlo zalaska sunca."
+                "hr": "Stignite najkasnije do 16:15 za najbolje svjetlo zalaska."
               }
             },
             {
@@ -2035,10 +2101,10 @@
               "Take advantage of the short distances between parking and viewpoints."
             ],
             "hr": [
-              "Krčki most se zatvara za automobile tijekom ekstremno jake bure.",
-              "Nosite strugalicu za led i zimsku tekućinu za stakla.",
-              "Planirajte rutu tako da dođete do odredišta do 17:00.",
-              "Iskoristite kratke udaljenosti između parkinga i vidikovaca."
+              "Krčki most se zatvara za automobile tijekom iznimno jake bure.",
+              "Nosite strugač leda i zimsko sredstvo za pranje stakala.",
+              "Isplanirajte rutu kako biste stigli na odredište do 17:00.",
+              "Iskoristite kratke udaljenosti između parkirališta i vidikovaca."
             ]
           }
         }
@@ -2057,7 +2123,8 @@
             "de": "Omišalj Zentrum",
             "hu": "Omišalj központ",
             "ro": "Centrul Omišalj",
-            "en": "Omišalj Center"
+            "en": "Omišalj Center",
+            "hr": "Centar Omišalja"
           },
           "coords": [
             14.553,
@@ -2073,7 +2140,7 @@
             "hu": "Legfontosabb buszmegálló.",
             "ro": "Cea mai importantă stație.",
             "en": "Main bus stop.",
-            "hr": "Glavna autobusna stanica."
+            "hr": "Glavno autobusno stajalište."
           }
         },
         {
@@ -2081,7 +2148,8 @@
             "de": "Pfarrkirche Mariä Himmelfahrt",
             "hu": "Mária Mennybemenetele plébániatemplom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Parish Church of the Assumption"
+            "en": "Parish Church of the Assumption",
+            "hr": "Župna crkva Uznesenja"
           },
           "coords": [
             14.5535,
@@ -2097,7 +2165,7 @@
             "hu": "Közvetlenül a központ mellett.",
             "ro": "Chiar lângă centru.",
             "en": "Right next to the center.",
-            "hr": "Odmah uz centar."
+            "hr": "Točno pored centra."
           }
         },
         {
@@ -2105,7 +2173,8 @@
             "de": "Mirine-Fulfinum (Bus+Fußweg)",
             "hu": "Mirine-Fulfinum (busz+séta)",
             "ro": "Mirine-Fulfinum (autobuz+mers)",
-            "en": "Mirine-Fulfinum (bus+walk)"
+            "en": "Mirine-Fulfinum (bus+walk)",
+            "hr": "Mirine-Fulfinum (autobus+šetnja)"
           },
           "coords": [
             14.545,
@@ -2121,7 +2190,7 @@
             "hu": "30 perc séta a megállótól.",
             "ro": "30 min de mers de la stație.",
             "en": "30 min walk from the stop.",
-            "hr": "30 min hoda od stanice."
+            "hr": "30 minuta hoda od stajališta."
           }
         },
         {
@@ -2129,7 +2198,8 @@
             "de": "Mittagessen in Omišalj",
             "hu": "Ebéd Omišaljban",
             "ro": "Prânz în Omišalj",
-            "en": "Lunch in Omišalj"
+            "en": "Lunch in Omišalj",
+            "hr": "Ručak u Omišalju"
           },
           "coords": [
             14.552,
@@ -2145,7 +2215,7 @@
             "hu": "Ebédeljen újra a központban.",
             "ro": "Mâncați din nou în centru.",
             "en": "Eat back in the center.",
-            "hr": "Jedite u centru."
+            "hr": "Jedite natrag u centru."
           }
         },
         {
@@ -2153,7 +2223,8 @@
             "de": "Strand Pesja",
             "hu": "Pesja strand",
             "ro": "Plaja Pesja",
-            "en": "Pesja Beach"
+            "en": "Pesja Beach",
+            "hr": "Plaža Pesja"
           },
           "coords": [
             14.555,
@@ -2178,7 +2249,7 @@
         "hu": "Használja a szigeti buszt az Omišaljba való eljutáshoz. Fedezze fel az óvárost és a templomot, mielőtt elgyalogolna Fulfinum romjaihoz. A napot a város alatti Pesja strandon való frissítő fürdőzéssel zárja.",
         "ro": "Folosiți autobuzul insular pentru a ajunge la Omišalj. Explorați orașul vechi și biserica înainte de a merge pe jos la ruinele de la Fulfinum. Ziua se încheie cu o baie răcoritoare pe plaja Pesja, situată sub oraș.",
         "en": "Use the island bus to reach Omišalj. Explore the Old Town and the church before walking to the ruins of Fulfinum. End your day with a refreshing swim at Pesja beach, located below the town.",
-        "hr": "Koristite otočki autobus do Omišlja. Istražite stari grad i crkvu prije šetnje do ruševina Fulfinuma. Završite dan osvježavajućim kupanjem na plaži Pesja, smještenoj ispod grada."
+        "hr": "Iskoristite otočni autobus za dolazak u Omišalj. Istražite Stari grad i crkvu prije šetnje do ruševina Fulfinuma. Dan završite osvježavajućim kupanjem na plaži Pesja, smještenoj ispod grada."
       },
       "gastro_picks": {
         "de": [
@@ -2309,7 +2380,8 @@
             "de": "Nutzen Sie den Inselbus für die Anreise nach Omišalj. Erkunden Sie die Altstadt und die Kirche, bevor Sie zu den Ruinen von Fulfinum spazieren. Der Tag endet mit einem erfrischenden Bad am Pesja Strand, unterhalb der Stadt.",
             "hu": "Használja a szigeti buszt az Omišaljba való eljutáshoz. Fedezze fel az óvárost és a templomot, mielőtt elgyalogolna Fulfinum romjaihoz. A napot a város alatti Pesja strandon való frissítő fürdőzéssel zárja.",
             "ro": "Folosiți autobuzul insular pentru a ajunge la Omišalj. Explorați orașul vechi și biserica înainte de a merge pe jos la ruinele de la Fulfinum. Ziua se încheie cu o baie răcoritoare pe plaja Pesja, situată sub oraș.",
-            "en": "Use the island bus to reach Omišalj. Explore the Old Town and the church before walking to the ruins of Fulfinum. End your day with a refreshing swim at Pesja beach, located below the town."
+            "en": "Use the island bus to reach Omišalj. Explore the Old Town and the church before walking to the ruins of Fulfinum. End your day with a refreshing swim at Pesja beach, located below the town.",
+            "hr": "Koristite otočni autobus za dolazak u Omišalj. Istražite Stari grad i crkvu prije nego što prošetate do ruševina Fulfinuma. Završite dan osvježavajućim kupanjem na plaži Pešja, koja se nalazi ispod mjesta."
           },
           "stops": [
             {
@@ -2317,13 +2389,15 @@
                 "de": "Omišalj Zentrum",
                 "hu": "Omišalj központ",
                 "ro": "Centrul Omišalj",
-                "en": "Omišalj Center"
+                "en": "Omišalj Center",
+                "hr": "Centar Omišlja"
               },
               "tip_5lang": {
                 "de": "Wichtigster Busstopp.",
                 "hu": "Legfontosabb buszmegálló.",
                 "ro": "Cea mai importantă stație.",
-                "en": "Main bus stop."
+                "en": "Main bus stop.",
+                "hr": "Glavno autobusno stajalište."
               }
             },
             {
@@ -2331,13 +2405,15 @@
                 "de": "Pfarrkirche Mariä Himmelfahrt",
                 "hu": "Mária Mennybemenetele plébániatemplom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Parish Church of the Assumption"
+                "en": "Parish Church of the Assumption",
+                "hr": "Župna crkva Uznesenja"
               },
               "tip_5lang": {
                 "de": "Direkt neben dem Zentrum.",
                 "hu": "Közvetlenül a központ mellett.",
                 "ro": "Chiar lângă centru.",
-                "en": "Right next to the center."
+                "en": "Right next to the center.",
+                "hr": "Upravo pored centra."
               }
             },
             {
@@ -2345,13 +2421,15 @@
                 "de": "Mirine-Fulfinum (Bus+Fußweg)",
                 "hu": "Mirine-Fulfinum (busz+séta)",
                 "ro": "Mirine-Fulfinum (autobuz+mers)",
-                "en": "Mirine-Fulfinum (bus+walk)"
+                "en": "Mirine-Fulfinum (bus+walk)",
+                "hr": "Mirine-Fulfinum (autobus+hodanje)"
               },
               "tip_5lang": {
                 "de": "30 min Fußweg von der Haltestelle.",
                 "hu": "30 perc séta a megállótól.",
                 "ro": "30 min de mers de la stație.",
-                "en": "30 min walk from the stop."
+                "en": "30 min walk from the stop.",
+                "hr": "30 minuta hoda od stajališta."
               }
             },
             {
@@ -2359,13 +2437,15 @@
                 "de": "Mittagessen in Omišalj",
                 "hu": "Ebéd Omišaljban",
                 "ro": "Prânz în Omišalj",
-                "en": "Lunch in Omišalj"
+                "en": "Lunch in Omišalj",
+                "hr": "Ručak u Omišlju"
               },
               "tip_5lang": {
                 "de": "Zurück im Zentrum essen.",
                 "hu": "Ebédeljen újra a központban.",
                 "ro": "Mâncați din nou în centru.",
-                "en": "Eat back in the center."
+                "en": "Eat back in the center.",
+                "hr": "Jedite natrag u centru."
               }
             },
             {
@@ -2373,13 +2453,15 @@
                 "de": "Strand Pesja",
                 "hu": "Pesja strand",
                 "ro": "Plaja Pesja",
-                "en": "Pesja Beach"
+                "en": "Pesja Beach",
+                "hr": "Plaža Pešja"
               },
               "tip_5lang": {
                 "de": "Steiler Weg bergab.",
                 "hu": "Meredek út lefelé.",
                 "ro": "Drum abrupt la vale.",
-                "en": "Steep path downhill."
+                "en": "Steep path downhill.",
+                "hr": "Strma staza nizbrdo."
               }
             }
           ],
@@ -2481,6 +2563,10 @@
             "en": [
               "Buses stop up on the main road.",
               "Plan time for the walk to the beach."
+            ],
+            "hr": [
+              "Autobusi staju gore, na glavnoj cesti.",
+              "Isplanirajte vrijeme za šetnju do plaže."
             ]
           }
         },
@@ -2490,7 +2576,7 @@
             "hu": "Az esős idő jó tervezést igényel a busszal. Reggel Omišalj központjába érkezünk, és a templom falai között bújunk el az eső elől. Délben Mirine-Fulfinum felé vesszük az irányt, ahol a buszmegállótól tartó séta esőben hosszabbnak tűnhet. Egy kellemes ebéd után az óvárosban időzünk, majd a Pesja strandon zárjuk a napot az esti busz indulása előtt.",
             "ro": "Vremea ploioasă necesită o planificare bună a autobuzului. Dimineața ajungem în centrul orașului Omišalj și vizităm biserica protectoare. La prânz mergem spre Mirine-Fulfinum, unde mersul pe jos de la stație poate părea mai lung pe ploaie. După un prânz plăcut, stăm în orașul vechi și încheiem ziua la plaja Pesja înainte de ultimul autobuz.",
             "en": "Rainy weather calls for careful planning with the bus schedule. In the morning, we reach Omišalj center and visit the sheltering church. At noon, we head towards Mirine-Fulfinum, where the walk from the bus stop might feel longer in the rain. After a nice lunch, we spend time in the old town and end at Pesja beach before the evening bus arrives.",
-            "hr": "Kišno vrijeme zahtijeva pažljivo planiranje voznog reda autobusa. Ujutro stižemo u centar Omišlja i posjećujemo crkvu koja pruža zaklon. U podne idemo prema Mirinama-Fulfinumu, gdje šetnja od autobusne stanice može djelovati duže na kiši. Nakon lijepog ručka, provodimo vrijeme u starom gradu i završavamo na plaži Pesja prije večernjeg autobusa."
+            "hr": "Kišno vrijeme zahtijeva pažljivo planiranje u skladu s voznim redom. Ujutro stižemo u centar Omišlja i posjećujemo zaštićenu crkvu. U podne krećemo prema Mirinama-Fulfinumu, gdje hodanje od stajališta može djelovati duže po kiši. Nakon lijepog ručka provodimo vrijeme u Starom gradu i završavamo na plaži Pešja prije dolaska večernjeg autobusa."
           },
           "stops": [
             {
@@ -2500,7 +2586,7 @@
                 "hu": "A központi buszmegálló fedett, így ott várhatjuk a csatlakozást.",
                 "ro": "Stația de autobuz din centru este acoperită.",
                 "en": "The bus stop in the center is covered, providing shelter.",
-                "hr": "Autobusna stanica u centru je natkrivena i pruža zaklon."
+                "hr": "Autobusno stajalište u centru je natkriveno te pruža zaklon."
               }
             },
             {
@@ -2510,7 +2596,7 @@
                 "hu": "Csak néhány lépésre található a buszmegállótól.",
                 "ro": "La doar câțiva pași de stația de autobuz.",
                 "en": "Just a few steps away from the bus stop.",
-                "hr": "Samo nekoliko koraka od autobusne stanice."
+                "hr": "Samo nekoliko koraka od autobusnog stajališta."
               }
             },
             {
@@ -2520,7 +2606,7 @@
                 "hu": "A megállótól tartó gyalogút esőben saras lehet.",
                 "ro": "Drumul de la stație poate fi noroios pe timp de ploaie.",
                 "en": "The walk from the stop can be muddy during rain.",
-                "hr": "Šetnja od stanice može biti blatna tijekom kiše."
+                "hr": "Šetnja od stajališta može biti blatna tijekom kiše."
               }
             },
             {
@@ -2530,7 +2616,7 @@
                 "hu": "Válasszunk a fő buszjárat útvonalához közeli éttermet.",
                 "ro": "Alegeți un local aproape de linia principală de autobuz.",
                 "en": "Choose a place near the main bus route.",
-                "hr": "Odaberite mjesto blizu glavne autobusne rute."
+                "hr": "Odaberite mjesto blizu glavne autobusne linije."
               }
             },
             {
@@ -2540,7 +2626,7 @@
                 "hu": "Pontosan ellenőrizzük a menetrendet, hogy ne kelljen az esőben várni.",
                 "ro": "Verificați orarul exact pentru a nu aștepta în ploaie.",
                 "en": "Check the schedule carefully to avoid waiting in the rain.",
-                "hr": "Pažljivo provjerite vozni red kako biste izbjegli čekanje na kiši."
+                "hr": "Pažljivo provjerite raspored kako biste izbjegli čekanje na kiši."
               }
             }
           ],
@@ -2570,10 +2656,10 @@
               "Have some change or a card ready for the ticket purchase."
             ],
             "hr": [
-              "Autobusi obično voze po rasporedu tijekom kiše, ali predvidite dodatno vrijeme.",
-              "Koristite aplikaciju Arriva za praćenje autobusa u stvarnom vremenu.",
-              "Autobusne stanice blizu obale često nemaju nadstrešnice.",
-              "Pripremite sitniš ili karticu za kupnju karte."
+              "Autobusi obično voze prema voznom redu i po kiši, ali predvidite dodatno vrijeme.",
+              "Koristite Arriva aplikaciju za praćenje autobusa u stvarnom vremenu.",
+              "Autobusna stajališta uz obalu često nemaju zaklone.",
+              "Imajte pripremljen sitni novac ili karticu za kupnju karte."
             ]
           }
         },
@@ -2583,7 +2669,7 @@
             "hu": "A téli tömegközlekedési túra reggel indul Omišalj központjából. A templomban melegszünk fel, mielőtt a busz Mirine-Fulfinum felé vinne minket. A romok felfedezése után a friss levegőben egy meleg ebédre térünk vissza. A délutánt az óvárosban és a Pesja strandon töltjük, figyelve a korai naplementére és a busz menetrendjére.",
             "ro": "Turul cu transportul public iarna începe dimineața în centrul orașului Omišalj. Ne încălzim în biserică înainte ca autobuzul să ne ducă spre Mirine-Fulfinum. După explorarea ruinelor în aerul curat, revenim pentru un prânz cald. După-amiaza o petrecem în orașul vechi și la plaja Pesja, cu ochii pe apus și pe orarul autobuzelor.",
             "en": "The winter transit tour starts in the morning at Omišalj center. We warm up in the church before taking the bus towards Mirine-Fulfinum. After exploring the ruins in the crisp air, we return for a hot lunch. The afternoon is spent in the old town and at Pesja beach, keeping a close eye on the early sunset and the bus schedule.",
-            "hr": "Zimska tura javnim prijevozom počinje ujutro u centru Omišlja. Grijemo se u crkvi prije odlaska autobusom prema Mirinama-Fulfinumu. Nakon istraživanja ruševina na svježem zraku, vraćamo se na topli ručak. Poslijepodne provodimo u starom gradu i na plaži Pesja, prateći rani zalazak sunca i vozni red autobusa."
+            "hr": "Zimska transverzala počinje ujutro u centru Omišlja. Zagrijavamo se u crkvi prije nego što autobusom krenemo prema Mirinama-Fulfinumu. Nakon istraživanja ruševina u svježem zraku vraćamo se na topao ručak. Poslijepodne provodimo u Starom gradu i na plaži Pešja, pazeći na rano zalazak sunca i vozni red autobusa."
           },
           "stops": [
             {
@@ -2593,7 +2679,7 @@
                 "hu": "Télen a megállóban való várakozás a szélben kellemetlen lehet.",
                 "ro": "Iarna, așteptarea în stație poate fi neplăcută din cauza vântului.",
                 "en": "In winter, waiting at the stop can be unpleasant due to the wind.",
-                "hr": "Zimi čekanje na stanici može biti neugodan zbog vjetra."
+                "hr": "Zimi čekanje na stajalištu može biti neugodeno zbog vjetra."
               }
             },
             {
@@ -2603,7 +2689,7 @@
                 "hu": "Használjuk a templomot szélvédett várakozóhelyként.",
                 "ro": "Folosiți locația ca zonă de așteptare ferită de vânt.",
                 "en": "Use the location as a wind-sheltered waiting area.",
-                "hr": "Koristite lokaciju kao prostor za čekanje zaklonjen od vjetra."
+                "hr": "Iskoristite lokaciju kao zaklon od vjetra dok čekate."
               }
             },
             {
@@ -2613,7 +2699,7 @@
                 "hu": "Tervezzük meg a visszautat a megállóhoz sötétedés előtt.",
                 "ro": "Planificați drumul înapoi spre stație înainte de lăsarea întunericului.",
                 "en": "Plan the walk back to the bus stop before it gets dark.",
-                "hr": "Planirajte povratak do autobusne stanice prije mraka."
+                "hr": "Isplanirajte povratnu šetnju do autobusnog stajališta prije nego što se smrači."
               }
             },
             {
@@ -2623,7 +2709,7 @@
                 "hu": "Meleg pihenőhely a buszcsatlakozások között.",
                 "ro": "Un loc cald de odihnă între conexiunile de autobuz.",
                 "en": "A warm resting place between bus connections.",
-                "hr": "Toplo mjesto za odmor između autobusnih linija."
+                "hr": "Toplo mjesto za odmor između autobusnih veza."
               }
             },
             {
@@ -2633,7 +2719,7 @@
                 "hu": "Az utolsó busz télen gyakran korábban indul, ellenőrizzük a menetrendet.",
                 "ro": "Ultimul autobuz poate pleca mai devreme iarna, verificați orarul.",
                 "en": "The last bus often leaves earlier in winter, check the schedule.",
-                "hr": "Zadnji autobus često kreće ranije zimi, provjerite vozni red."
+                "hr": "Zadnji autobus često polazi ranije zimi, provjerite vozni red."
               }
             }
           ],
@@ -2663,10 +2749,10 @@
               "Buy tickets at a kiosk or via the app if available."
             ],
             "hr": [
-              "Vozni redovi se mogu promijeniti tijekom zimske sezone.",
-              "Nosite toplu odjeću za razdoblja čekanja na stanicama.",
-              "Sunce zalazi oko 16:30, a nakon toga brzo zahladi.",
-              "Kupite karte na kiosku ili putem aplikacije ako je dostupna."
+              "Vozni redovi se mogu mijenjati tijekom zimske izvansezone.",
+              "Nosite toplu odjeću za vrijeme čekanja na autobusnim stajalištima.",
+              "Sunce zalazi oko 16:30, a nakon toga brzo hladi.",
+              "Kupite karte u kiosku ili putem aplikacije ako je dostupna."
             ]
           }
         }
@@ -2700,7 +2786,7 @@
     "regional_tourism": {
       "url": "https://www.visitkrk.com/",
       "label": {
-        "hr": "Visit Krk - otok Krk",
+        "hr": "Posjetite Krk - otok Krk",
         "de": "Visit Krk - Insel Krk",
         "hu": "Visit Krk - Krk sziget",
         "en": "Visit Krk - Krk Island"
@@ -2709,7 +2795,7 @@
     "bus_transport": {
       "url": "https://www.arriva.com.hr/hr-hr/naslovna",
       "label": {
-        "hr": "Arriva Hrvatska (bivši Autotrans)",
+        "hr": "Arriva Croatia (ranije Autotrans)",
         "de": "Arriva Kroatien (ehem. Autotrans)",
         "hu": "Arriva Horvátország (volt Autotrans)",
         "en": "Arriva Croatia (formerly Autotrans)"
@@ -2718,7 +2804,7 @@
     "roads": {
       "url": "https://www.hak.hr/",
       "label": {
-        "hr": "HAK - stanje na cestama",
+        "hr": "HAK - prometne informacije",
         "de": "HAK - Straßenzustand",
         "hu": "HAK - útállapot",
         "en": "HAK - road conditions"
@@ -2730,7 +2816,7 @@
     "marina": {
       "url": "https://www.aci-marinas.com/aci-marina/aci-marina-punat/",
       "label": {
-        "hr": "ACI marina Punat (najbliža)",
+        "hr": "ACI Marina Punat (najbliža)",
         "de": "ACI Marina Punat (nächstgelegen)",
         "hu": "ACI Punat kikötő (legközelebbi)",
         "en": "ACI Marina Punat (nearest)"

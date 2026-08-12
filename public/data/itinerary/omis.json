@@ -32,7 +32,7 @@
             "hu": "Ismerje meg a kalózok történelmét.",
             "ro": "Aflați mai multe despre istoria piraților.",
             "en": "Learn about the local pirate history.",
-            "hr": "Upoznajte povijest omiških gusara."
+            "hr": "Saznajte o lokalnoj piratskoj povijesti."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Az óváros szívének főtemploma.",
             "ro": "Biserica principală din inima centrului vechi.",
             "en": "The main church in the heart of the old town.",
-            "hr": "Glavna crkva u srcu stare jezgre."
+            "hr": "Glavna crkva u srcu starog grada."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "A nyilvános büntetések egykori helyszíne.",
             "ro": "Loc istoric pentru pedepse publice.",
             "en": "Historical site for public punishments.",
-            "hr": "Povijesno mjesto za javno kažnjavanje."
+            "hr": "Povijesno mjesto javnih kazni."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Nyugodt kerengő a város szélén.",
             "ro": "Cloșter liniștit la marginea orașului.",
             "en": "Quiet cloister at the edge of town.",
-            "hr": "Mirni samostan na rubu grada."
+            "hr": "Tihi klaustar na rubu grada."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "Délelőtt: Az óváros szűk utcái és a Mirabella-erőd megmászása.\n\nDélben: A Cetina-folyó torkolata és a helyi múzeum kincsei.\n\nDélután: Hajókázás a Cetina-kanyonban vagy kirándulás a malmokhoz.\n\nEste: Kilátás a tengerre és a hegyekre egy hangulatos vacsora mellett.",
         "ro": "Dimineața: Explorarea centrului vechi și urcarea la cetatea Mirabella.\n\nLa prânz: Vizitarea gurii de vărsare a râului Cetina și a muzeului.\n\nDupă-amiaza: Plimbare cu barca în canion sau excursie la morile Radman.\n\nSeara: Admirați vederea spre mare și munți în timpul unei cine relaxante.",
         "en": "Morning: Explore the old town and climb up to the Mirabella Fortress.\n\nMidday: Visit the mouth of the Cetina River and the local museum.\n\nAfternoon: Boat trip through the Cetina Canyon or visit Radman's Mills.\n\nEvening: Enjoy the views of the sea and mountains over a traditional dinner.",
-        "hr": "Jutro: Istražite stari grad i popnite se do tvrđave Mirabela.\n\nPodne: Posjetite ušće rijeke Cetine i lokalni muzej.\n\nPoslijepodne: Izlet brodom kroz kanjon Cetine ili posjet Radmanovim mlinicama.\n\nVečer: Uživajte u pogledu na more i planine uz tradicionalnu večeru."
+        "hr": "Jutro: Istražite stari grad i popnite se do utvrde Mirabella.\n\nPodne: Posjetite ušće rijeke Cetine i lokalni muzej.\n\nPoslijepodne: Izlet brodom kroz kanjon Cetine ili posjet Radmanovim mlinicama.\n\nVečer: Uživajte u pogledu mora i planina uz tradicionalnu večeru."
       },
       "gastro_picks": {
         "de": [
@@ -330,10 +330,10 @@
           "Many 'Klapa' singing events happen in summer."
         ],
         "hr": [
-          "Ponesite vodu za uspon do tvrđave.",
-          "Stari grad je kompaktan i lako ga je obići pješice.",
+          "Ponesite vodu za uspon do utvrde.",
+          "Stari grad je kompaktan i lako prohodan.",
           "Posjetite glavnu plažu 'Punta' rano ujutro.",
-          "Ljeti se održavaju brojni susreti klapa."
+          "Mnogi nastupi klape događaju se ljeti."
         ]
       },
       "variants": {
@@ -342,7 +342,8 @@
             "de": "Vormittag: Die engen Gassen der Altstadt und der Aufstieg zur Mirabella-Festung.\n\nMittag: Die Mündung der Cetina und die Schätze des Museums.\n\nNachmittag: Bootsfahrt im Cetina-Canyon oder Ausflug zu den Mühlen.\n\nAbend: Blick auf Meer und Berge bei einem gemütlichen Abendessen.",
             "hu": "Délelőtt: Az óváros szűk utcái és a Mirabella-erőd megmászása.\n\nDélben: A Cetina-folyó torkolata és a helyi múzeum kincsei.\n\nDélután: Hajókázás a Cetina-kanyonban vagy kirándulás a malmokhoz.\n\nEste: Kilátás a tengerre és a hegyekre egy hangulatos vacsora mellett.",
             "ro": "Dimineața: Explorarea centrului vechi și urcarea la cetatea Mirabella.\n\nLa prânz: Vizitarea gurii de vărsare a râului Cetina și a muzeului.\n\nDupă-amiaza: Plimbare cu barca în canion sau excursie la morile Radman.\n\nSeara: Admirați vederea spre mare și munți în timpul unei cine relaxante.",
-            "en": "Morning: Explore the old town and climb up to the Mirabella Fortress.\n\nMidday: Visit the mouth of the Cetina River and the local museum.\n\nAfternoon: Boat trip through the Cetina Canyon or visit Radman's Mills.\n\nEvening: Enjoy the views of the sea and mountains over a traditional dinner."
+            "en": "Morning: Explore the old town and climb up to the Mirabella Fortress.\n\nMidday: Visit the mouth of the Cetina River and the local museum.\n\nAfternoon: Boat trip through the Cetina Canyon or visit Radman's Mills.\n\nEvening: Enjoy the views of the sea and mountains over a traditional dinner.",
+            "hr": "Jutro: Istražite stari grad i popnite se do utvrde Mirabella.\n\nPodne: Posjetite ušće rijeke Cetine i lokalni muzej.\n\nPoslijepodne: Izlet brodom kroz kanjon Cetine ili posjet Radmanovim mlinicama.\n\nVečer: Uživajte u pogledu mora i planina uz tradicionalnu večeru."
           },
           "stops": [
             {
@@ -351,7 +352,8 @@
                 "de": "Erfahren Sie mehr über die Piratengeschichte.",
                 "hu": "Ismerje meg a kalózok történelmét.",
                 "ro": "Aflați mai multe despre istoria piraților.",
-                "en": "Learn about the local pirate history."
+                "en": "Learn about the local pirate history.",
+                "hr": "Saznajte o lokalnoj piratskoj povijesti."
               }
             },
             {
@@ -360,7 +362,8 @@
                 "de": "Achten Sie auf die lateinische Inschrift.",
                 "hu": "Figyelje meg a latin feliratot.",
                 "ro": "Observați inscripția în latină.",
-                "en": "Look for the Latin inscription above the door."
+                "en": "Look for the Latin inscription above the door.",
+                "hr": "Potražite latinski natpis iznad vrata."
               }
             },
             {
@@ -369,7 +372,8 @@
                 "de": "Die Hauptkirche im Herzen der Altstadt.",
                 "hu": "Az óváros szívének főtemploma.",
                 "ro": "Biserica principală din inima centrului vechi.",
-                "en": "The main church in the heart of the old town."
+                "en": "The main church in the heart of the old town.",
+                "hr": "Glavna crkva u srcu starog grada."
               }
             },
             {
@@ -378,7 +382,8 @@
                 "de": "Steiler Aufstieg, aber fantastische Aussicht.",
                 "hu": "Meredek lépcsők, de pazar kilátás.",
                 "ro": "Urcare abruptă, dar vedere fantastică.",
-                "en": "Steep climb, but offers a fantastic view."
+                "en": "Steep climb, but offers a fantastic view.",
+                "hr": "Strm uspon, ali nudi fantastičan pogled."
               }
             },
             {
@@ -387,7 +392,8 @@
                 "de": "Historischer Ort für öffentliche Strafen.",
                 "hu": "A nyilvános büntetések egykori helyszíne.",
                 "ro": "Loc istoric pentru pedepse publice.",
-                "en": "Historical site for public punishments."
+                "en": "Historical site for public punishments.",
+                "hr": "Povijesno mjesto javnih kazni."
               }
             },
             {
@@ -396,7 +402,8 @@
                 "de": "Ruhiger Kreuzgang am Rande der Stadt.",
                 "hu": "Nyugodt kerengő a város szélén.",
                 "ro": "Cloșter liniștit la marginea orașului.",
-                "en": "Quiet cloister at the edge of town."
+                "en": "Quiet cloister at the edge of town.",
+                "hr": "Tihi klaustar na rubu grada."
               }
             }
           ],
@@ -558,6 +565,12 @@
               "The old town is compact and easily walkable.",
               "Visit the main 'Punta' beach early in the morning.",
               "Many 'Klapa' singing events happen in summer."
+            ],
+            "hr": [
+              "Ponesite vodu za uspon do utvrde.",
+              "Stari grad je kompaktan i lako prohodan.",
+              "Posjetite glavnu plažu 'Punta' rano ujutro.",
+              "Mnogi nastupi klape događaju se ljeti."
             ]
           }
         },
@@ -567,7 +580,7 @@
             "hu": "A reggelt az Omiši Városi Múzeumban kezdjük, amely kiváló menedéket nyújt az eső elől, miközben feltárul előttünk a környék izgalmas kalózmúltja.\n\nDélben az óváros szűk sikátoraiban kalandozunk a Boldog Ember Háza és a Szent Mihály-templom között, ahol a magas kőfalak természetes ernyőként védenek a záporoktól.\n\nDélután, ha az eső alábbhagy, felkapaszkodunk a Mirabella-erődbe; a kőlépcsők ilyenkor csúszósak, de a ködbe burkolózó Cetina-szurdok látványa minden fáradságot megér.\n\nAz estét egy hangulatos, fedett teraszú konobában zárjuk, ahol a helyi borok és a parázson sült ételek mellett pihenhetjük ki a nap izgalmait.",
             "ro": "Dimineața începe la Muzeul Orașului, un refugiu ideal unde poți descoperi istoria piraților în timp ce ploaia spală străzile vechiului port.\n\nLa prânz, explorăm labirintul de străzi înguste între Casa Omului Fericit și Biserica Sfântul Mihail, profitând de adăpostul oferit de clădirile medievale strâns unite.\n\nDupă-amiaza, urcăm cu prudență spre fortăreața Mirabella; deși treptele sunt alunecoase, panorama dramatică asupra râului Cetina învăluit în ceață este de neuitat.\n\nSeara se încheie într-o tavernă primitoare cu specific local, unde atmosfera caldă și aromele bucătăriei dalmate ne fac să uităm de vremea de afară.",
             "en": "Morning starts at the Omiš City Museum, a perfect dry sanctuary to explore the local pirate lore while the rain patters on the ancient stone roofs.\n\nAt noon, we navigate the narrow limestone alleys between the House of the Happy Man and St. Michael's Church, where the tight architecture provides natural cover.\n\nIn the afternoon, we carefully ascend to Mirabella Fortress; the steps are slick when wet, but the view of the misty Cetina canyon is exceptionally atmospheric.\n\nThe evening is best spent in a cozy, covered tavern in the heart of the old town, warming up with hearty Dalmatian dishes and local red wine.",
-            "hr": "Jutro započinje u Gradskom muzeju Omiša, savršenom suhom utočištu za istraživanje gusarske povijesti dok kiša dobuje po drevnim kamenim krovovima.\n\nU podne prolazimo uskim vapnenačkim uličicama između Kuće sretnog čovjeka i crkve sv. Mihovila, gdje zbijena arhitektura pruža prirodni zaklon.\n\nPoslijepodne se oprezno penjemo do tvrđave Mirabela; stepenice su skliske kad su mokre, ali pogled na magloviti kanjon Cetine izuzetno je atmosferski.\n\nVečer je najbolje provesti u ugodnoj, natkrivenoj konobi u srcu starog grada, grijući se uz krepka dalmatinska jela i domaće crno vino."
+            "hr": "Jutro započinje u Gradskom muzeju Omiš, savršenom suhom utočištu za istraživanje lokalne piratske priče dok kiša lupa po drevnim kamenim krovovima.\n\nU podne prolazimo uskim vapnenačkim ulicama između Kuće Sretnog Čovjeka i crkve sv. Mihovila, gdje tijesna arhitektura pruža prirodnu zaklon.\n\nPoslijepodne pažljivo se uspinjemo do utvrde Mirabella; stepenice su skliske kad su mokre, ali pogled na magloviti kanjon Cetine iznimno je atmosferičan.\n\nVečer je najbolje provesti u ugodnoj natkrivenoj konobi u srcu starog grada, zagrijavajući se uz izdašna dalmatinska jela i lokalno crno vino."
           },
           "stops": [
             {
@@ -577,7 +590,7 @@
                 "hu": "Kiváló helyszín az első reggeli zápor szárazon való átvészelésére.",
                 "ro": "Locul perfect pentru a evita prima repriză de ploaie a zilei.",
                 "en": "Ideal spot to stay dry during the first rain shower of the day.",
-                "hr": "Idealno mjesto za ostati suh tijekom prvog jutarnjeg pljuska."
+                "hr": "Idealno mjesto za ostati suhim tijekom prvog pljuska dana."
               }
             },
             {
@@ -597,7 +610,7 @@
                 "hu": "Használja ki az esőszünetet a templombelső csendes felfedezésére.",
                 "ro": "Folosiți pauza de ploaie pentru o vizită liniștită în interior.",
                 "en": "Use the rain break for a peaceful tour of the church interior.",
-                "hr": "Iskoristite stanku od kiše za miran obilazak unutrašnjosti crkve."
+                "hr": "Iskoristite pauzu od kiše za mirno razgledavanje crkvenog interijera."
               }
             },
             {
@@ -607,7 +620,7 @@
                 "hu": "Vigyázat a lépcsőkön! Esőben rendkívül csúszósak és veszélyesek.",
                 "ro": "Atenție la trepte! Sunt extrem de alunecoase când sunt ude.",
                 "en": "Careful on the steps! They are extremely slippery when wet.",
-                "hr": "Oprezno na stepenicama! Izuzetno su skliske kad su mokre."
+                "hr": "Pažljivo na stepenicama! One su izuzetno skliske kad su mokre."
               }
             },
             {
@@ -617,7 +630,7 @@
                 "hu": "Rövid történelmi megálló, esernyő alatt is gyorsan megtekinthető.",
                 "ro": "O scurtă oprire istorică ce poate fi bifată rapid sub umbrelă.",
                 "en": "A brief historical stop that can be seen quickly under an umbrella.",
-                "hr": "Kratka povijesna postaja koju možete brzo obići pod kišobranom."
+                "hr": "Kratka povijesna stanica koju se može brzo vidjeti pod kišobranom."
               }
             },
             {
@@ -627,7 +640,7 @@
                 "hu": "A kolostor csendje az eső kopogásával különleges hangulatot áraszt.",
                 "ro": "Liniștea mănăstirii este deosebită pe fundalul sunetului ploii.",
                 "en": "The monastery's peace is especially atmospheric with the rain sound.",
-                "hr": "Mir samostana je posebno atmosferski uz zvuk kiše."
+                "hr": "Mir samostana posebno je atmosferičan uz zvuk kiše."
               }
             }
           ],
@@ -657,9 +670,9 @@
               "Most museums and churches provide good shelter from sudden downpours."
             ],
             "hr": [
-              "Obavezno nosite obuću koja se ne skliže jer vapnenac u starom gradu postaje vrlo sklizak.",
-              "Kompaktni kišobran je praktičniji od kabanice u uskim uličicama.",
-              "Iskoristite kafiće uz rijeku za kratke pauze i sušenje između postaja.",
+              "Obavezno nosite obuću s protukliznom potplatom jer stari gradski vapnenac postaje vrlo klizav.",
+              "Kompaktan kišobran praktičniji je od ponča u uskim uličicama.",
+              "Iskoristite kafiće uz rijeku za kratke pauze i sušenje između stanica.",
               "Većina muzeja i crkava pruža dobar zaklon od iznenadnih pljuskova."
             ]
           }
@@ -670,7 +683,7 @@
             "hu": "Egy tiszta téli reggelen szinte egyedül fedezzük fel a Városi Múzeumot, élvezve a főszezon utáni csendet és a hűvös, friss levegőt.\n\nDélben az alacsonyan járó nap sugarai melegítik az ódon falakat a Boldog Ember Háza környékén, miközben a néptelen utcákon a templom felé tartunk.\n\nDélután a Mirabella-erődbe kapaszkodunk fel; a metsző Bura szél miatt a látótávolság ilyenkor a legjobb, egészen a távoli szigetekig ellátni.\n\nAz estét a Cetina torkolata feletti korai, de gyönyörű naplemente zárja, mielőtt egy fűtött borozóban melegednénk fel.",
             "ro": "Într-o dimineață senină de iarnă, vizităm Muzeul Orașului aproape singuri, bucurându-ne de liniștea sezonului rece și de lipsa caniculei.\n\nLa prânz, soarele blând luminează Casa Omului Fericit în timp ce ne plimbăm spre biserica principală pe străzile neobișnuit de goale.\n\nDupă-amiaza urcăm la fortăreața Mirabella; vântul Bura curăță cerul, oferind o vizibilitate incredibilă care ajunge până la insulele îndepărtate.\n\nSeara se instalează devreme cu un apus spectaculos peste gura de vărsare a râului Cetina, urmat de o cină caldă într-un local primitor.",
             "en": "On a crisp winter morning, we explore the City Museum almost solo, relishing the off-season tranquility and the fresh, cool air.\n\nBy noon, the low winter sun warms the stone facades around the House of the Happy Man as we stroll towards St. Michael's Church through empty streets.\n\nIn the afternoon, we hike up to Mirabella; the sharp Bura wind clears the haze, offering unparalleled views that stretch to the distant islands.\n\nThe evening settles in early with a stunning sunset over the Cetina river mouth, before we retreat to a cozy, heated wine cellar.",
-            "hr": "Na svježe zimsko jutro istražujemo Gradski muzej gotovo sami, uživajući u izvansezonskom miru i hladnom zraku.\n\nDo podneva nisko zimsko sunce grije kamena pročelja oko Kuće sretnog čovjeka dok šetamo praznim ulicama prema crkvi sv. Mihovila.\n\nPoslijepodne se penjemo do Mirabele; oštra bura raščišćava izmaglicu, nudeći neusporediv pogled koji seže do udaljenih otoka.\n\nVečer rano nastupa uz zadivljujući zalazak sunca nad ušćem Cetine, prije nego što se povučemo u ugodan, grijani vinski podrum."
+            "hr": "U svježem zimskom jutru istražujemo Gradski muzej gotovo sami, uživajući u miru izvan sezone i svježem, hladnom zraku.\n\nDo podneva nisko zimsko sunce grije kamene fasade oko Kuće Sretnog Čovjeka dok šetamo prema crkvi sv. Mihovila kroz prazne ulice.\n\nPoslijepodne se penjemo do Mirabelle; oštar bura razbistruje maglu i pruža nenadmašne vidike koji sežu do udaljenih otoka.\n\nVečer se rano spušta uz zapanjujući zalazak sunca nad ušćem Cetine, prije nego se vratimo u ugodni, grijani vinski podrum."
           },
           "stops": [
             {
@@ -680,7 +693,7 @@
                 "hu": "Élvezze a kiállításokat a nyári látogatói tömeg nélkül.",
                 "ro": "Bucurați-vă de expoziții fără mulțimile de turiști din timpul verii.",
                 "en": "Enjoy the museum exhibits without the usual summer crowds.",
-                "hr": "Uživajte u muzejskim izlošcima bez uobičajenih ljetnih gužvi."
+                "hr": "Uživajte u muzejskim izložbama bez uobičajenih ljetnih gužvi."
               }
             },
             {
@@ -690,7 +703,7 @@
                 "hu": "A felirat a tiszta téli fényben különösen jól fotózható.",
                 "ro": "Inscripția este foarte ușor de fotografiat în lumina clară a iernii.",
                 "en": "The inscription is especially easy to photograph in the clear winter light.",
-                "hr": "Natpis je posebno lako fotografirati na čistom zimskom svjetlu."
+                "hr": "Natpis je osobito lako fotografirati u bistrom zimskom svjetlu."
               }
             },
             {
@@ -700,7 +713,7 @@
                 "hu": "A vastag falak télen is kellemes, szélvédett menedéket nyújtanak.",
                 "ro": "Zidurile groase oferă un loc plăcut și ferit de vânt pe timp de iarnă.",
                 "en": "The thick walls provide a pleasantly wind-sheltered space in winter.",
-                "hr": "Debeli zidovi zimi pružaju ugodan prostor zaštićen od vjetra."
+                "hr": "Masivne su zidine ugodno zaštićeno mjesto od vjetra zimi."
               }
             },
             {
@@ -710,7 +723,7 @@
                 "hu": "Erős Bura szél esetén mindenképpen kapaszkodjon a korlátokba.",
                 "ro": "Folosiți balustradele neapărat dacă vântul Bura bate cu putere.",
                 "en": "Hold onto the railings firmly if the Bura wind is blowing strongly.",
-                "hr": "Čvrsto se držite za rukohvate ako puše jaka bura."
+                "hr": "Čvrsto se držite rukohvata ako jako puše bura."
               }
             },
             {
@@ -720,7 +733,7 @@
                 "hu": "Hűvös, de napsütötte megálló egy gyors emlékfotó elkészítéséhez.",
                 "ro": "O oprire răcoroasă dar însorită pentru o fotografie rapidă.",
                 "en": "A brisk but sunny stop for a quick souvenir photograph.",
-                "hr": "Brza, ali sunčana postaja za kratku suvenirsku fotografiju."
+                "hr": "Živahan, ali sunčan kratki zastanak za suvenirnu fotografiju."
               }
             },
             {
@@ -730,7 +743,7 @@
                 "hu": "A kolostor udvara az alacsony napállásban különösen áhítatos.",
                 "ro": "Curtea mănăstirii pare deosebit de solemnă în lumina joasă a iernii.",
                 "en": "The cloister feels especially solemn in the low winter light.",
-                "hr": "Klaustar djeluje posebno svečano na niskom zimskom svjetlu."
+                "hr": "Kloštar djeluje posebno svečano u niskom zimskom svjetlu."
               }
             }
           ],
@@ -760,10 +773,10 @@
               "The visibility from the fortress is often superior in the winter air."
             ],
             "hr": [
-              "Zimi sunce zalazi oko 16:30; planirajte svoje vanjske postaje rano.",
-              "Odjenite se slojevito kako biste se zaštitili od hladne bure.",
-              "Mnogi kafići u starom gradu zimi rade s kraćim radnim vremenom.",
-              "Vidljivost s tvrđave često je vrhunska na zimskom zraku."
+              "Zalazak sunca zimi je oko 16:30; planirajte vanjske zaustanke rano.",
+              "Obucite se u slojevima kako biste se zaštitili od hladne bure.",
+              "Mnogi kafići u staroj jezgri rade skraćeno tijekom zime.",
+              "Vidljivost s tvrđave često je bolja u zimskom zraku."
             ]
           }
         }
@@ -793,7 +806,7 @@
             "hu": "Tekerés a folyó mentén.",
             "ro": "Pedalare de-a lungul râului.",
             "en": "Ride along the river banks.",
-            "hr": "Vozite se uz obalu rijeke."
+            "hr": "Vozite uz obale rijeke."
           }
         },
         {
@@ -812,7 +825,7 @@
             "hu": "Árnyékos hely a pihenéshez.",
             "ro": "Loc umbrit pentru odihnă.",
             "en": "Shaded spot perfect for a rest.",
-            "hr": "Sjenovito mjesto savršeno za odmor."
+            "hr": "Zasjenjeno mjesto idealno za odmor."
           }
         },
         {
@@ -840,7 +853,7 @@
         "hu": "Délelőtt: Biciklizés a kanyonban a Radman-malmokhoz.\n\nDélben: Ebéd a folyóparti zöldben.\n\nDélután: Visszaút és a kis Szent Péter templom megtekintése.\n\nEste: Pihenés a városi strandon.",
         "ro": "Dimineața: Pedalare în canion spre morile Radman.\n\nLa prânz: Prânz în natură lângă râu.\n\nDupă-amiaza: Întoarcere și vizitarea bisericii Sf. Petru.\n\nSeara: Relaxare pe plaja orașului.",
         "en": "Morning: Ride into the canyon towards Radman's Mills.\n\nMidday: Lunch in the greenery by the river.\n\nAfternoon: Return trip and visit the small St. Peter's church.\n\nEvening: Relaxation at the city beach.",
-        "hr": "Jutro: Vožnja biciklom u kanjon prema Radmanovim mlinicama.\n\nPodne: Ručak u zelenilu uz rijeku.\n\nPoslijepodne: Povratak i posjet maloj crkvi sv. Petra.\n\nVečer: Opuštanje na gradskoj plaži."
+        "hr": "Jutro: Vožnja kroz kanjon prema Radmanovim mlinicama.\n\nPodne: Ručak u zelenilu uz rijeku.\n\nPoslijepodne: Povratak i posjet male crkve sv. Petra.\n\nVečer: Opustite se na gradskog plaži."
       },
       "gastro_picks": {
         "de": [
@@ -962,7 +975,7 @@
         ],
         "hr": [
           "Cesta kroz kanjon je uska, pazite na automobile.",
-          "Koristite svjetla za bicikl u tunelima."
+          "Koristite svjetla na biciklu za tunele."
         ]
       },
       "variants": {
@@ -971,7 +984,8 @@
             "de": "Vormittag: Fahrt in den Canyon zu den Radman-Mühlen.\n\nMittag: Mittagessen im Grünen am Fluss.\n\nNachmittag: Rückfahrt und Besuch der kleinen St. Peter Kirche.\n\nAbend: Entspannung am Stadtstrand.",
             "hu": "Délelőtt: Biciklizés a kanyonban a Radman-malmokhoz.\n\nDélben: Ebéd a folyóparti zöldben.\n\nDélután: Visszaút és a kis Szent Péter templom megtekintése.\n\nEste: Pihenés a városi strandon.",
             "ro": "Dimineața: Pedalare în canion spre morile Radman.\n\nLa prânz: Prânz în natură lângă râu.\n\nDupă-amiaza: Întoarcere și vizitarea bisericii Sf. Petru.\n\nSeara: Relaxare pe plaja orașului.",
-            "en": "Morning: Ride into the canyon towards Radman's Mills.\n\nMidday: Lunch in the greenery by the river.\n\nAfternoon: Return trip and visit the small St. Peter's church.\n\nEvening: Relaxation at the city beach."
+            "en": "Morning: Ride into the canyon towards Radman's Mills.\n\nMidday: Lunch in the greenery by the river.\n\nAfternoon: Return trip and visit the small St. Peter's church.\n\nEvening: Relaxation at the city beach.",
+            "hr": "Jutro: Vožnja kroz kanjon prema Radmanovim mlinicama.\n\nPodne: Ručak u zelenilu uz rijeku.\n\nPoslijepodne: Povratak i posjet male crkve sv. Petra.\n\nVečer: Opustite se na gradskog plaži."
           },
           "stops": [
             {
@@ -980,7 +994,8 @@
                 "de": "Fahrt entlang des Flusses.",
                 "hu": "Tekerés a folyó mentén.",
                 "ro": "Pedalare de-a lungul râului.",
-                "en": "Ride along the river banks."
+                "en": "Ride along the river banks.",
+                "hr": "Vozite uz obale rijeke."
               }
             },
             {
@@ -989,7 +1004,8 @@
                 "de": "Schattiges Plätzchen zum Ausruhen.",
                 "hu": "Árnyékos hely a pihenéshez.",
                 "ro": "Loc umbrit pentru odihnă.",
-                "en": "Shaded spot perfect for a rest."
+                "en": "Shaded spot perfect for a rest.",
+                "hr": "Zasjenjeno mjesto idealno za odmor."
               }
             },
             {
@@ -998,7 +1014,8 @@
                 "de": "Alte Kirche auf der anderen Flussseite.",
                 "hu": "Régi templom a folyó túloldalán.",
                 "ro": "Biserică veche pe cealaltă parte a râului.",
-                "en": "Old church on the other side of the river."
+                "en": "Old church on the other side of the river.",
+                "hr": "Stara crkva na drugoj strani rijeke."
               }
             }
           ],
@@ -1100,6 +1117,10 @@
             "en": [
               "The canyon road is narrow, watch out for cars.",
               "Use bike lights for the tunnels."
+            ],
+            "hr": [
+              "Cesta kroz kanjon je uska, pazite na automobile.",
+              "Koristite svjetla na biciklu za tunele."
             ]
           }
         },
@@ -1109,7 +1130,7 @@
             "hu": "Kora reggel a szemerkélő esőben indulunk a Cetina-szurdokba, ahol a köd misztikusan gomolyog a meredek sziklafalak között.\n\nDélben a Radman-malmokhoz érve a rusztikus étterem nyitott kandallójánál melegszünk fel egy tál forró leves mellett.\n\nDélután óvatosan tekerünk vissza a vizes aszfalton a Szent Péter-templomhoz, miközben a folyó sötét tükre különös hangulatot áraszt.\n\nAz estét a felszerelésünk szárításával töltjük, miközben felidézzük az eső áztatta kanyon vadregényes szépségét.",
             "ro": "Dimineața devreme pedalăm prin burniță spre canionul Cetina, unde ceața plutește mistic între pereții de stâncă abrupți.\n\nLa prânz ajungem la Morile Radman și ne încălzim lângă șemineul aprins din restaurantul rustic, savurând o supă fierbinte.\n\nDupă-amiaza ne întoarcem cu grijă pe asfaltul ud spre biserica Sf. Petru, în timp ce râul pare aproape negru sub cerul înnorat.\n\nSeara o petrecem uscându-ne echipamentul, în timp ce rememorăm frumusețea sălbatică a canionului sub ploaie.",
             "en": "Early morning we cycle into the Cetina canyon despite the drizzle, with mist hanging mystically between the towering cliffs.\n\nBy noon, we reach Radman's Mills and warm up by the open fireplace of the rustic restaurant with a hot bowl of soup.\n\nIn the afternoon, we carefully navigate the wet asphalt back to St. Peter's Church, as the river takes on a deep, dark hue.\n\nWe spend the evening drying our gear while reflecting on the wild and moody beauty of the rainy canyon scenery.",
-            "hr": "Rano ujutro vozimo bicikl u kanjon Cetine unatoč rosulji, dok magla mistično visi između visokih litica.\n\nDo podneva stižemo do Radmanovih mlinica i grijemo se uz otvoreno ognjište rustikalnog restorana uz toplu juhu.\n\nPoslijepodne oprezno vozimo po mokrom asfaltu natrag do crkve sv. Petra, dok rijeka poprima duboku, tamnu nijansu.\n\nVečer provodimo sušeći opremu dok razmišljamo o divljoj i sjetnoj ljepoti kišnog kanjona."
+            "hr": "Rano ujutro bicikliramo u kanjon Cetine unatoč rosulji, s maglom koja mistično visi između visokih stijena.\n\nU podne stižemo do Radmanovih mlinica i grijemo se uz otvoreni kamin rustikalne konobe uz toplu zdjelu juhe.\n\nPoslijepodne oprezno vozimo po mokrom asfaltu natrag do crkve sv. Petra, dok rijeka poprima duboku, tamnu boju.\n\nVečer provodimo sušeći opremu i razmišljajući o divljoj i tmurnoj ljepoti kišnog kanjona."
           },
           "stops": [
             {
@@ -1119,7 +1140,7 @@
                 "hu": "Az eső felerősíti a fenyők illatát és a sziklák drámai látványát.",
                 "ro": "Ploaia accentuează mirosul pinilor și aspectul dramatic al stâncilor.",
                 "en": "The rain enhances the pine scent and the dramatic look of the cliffs.",
-                "hr": "Kiša pojačava miris borova i dramatičan izgled litica."
+                "hr": "Kiša pojačava miris borova i dramatičan izgled stijena."
               }
             },
             {
@@ -1129,7 +1150,7 @@
                 "hu": "Ideális hely a kandalló melletti melegedésre és a ruhák szárítására.",
                 "ro": "Un loc ideal pentru a vă încălzi la foc și a vă usca hainele.",
                 "en": "An ideal spot to warm up by the fire and dry your outer layers.",
-                "hr": "Idealno mjesto za zagrijavanje uz vatru i sušenje vanjskih slojeva odjeće."
+                "hr": "Idealno mjesto za zagrijavanje uz vatru i sušenje vanjske odjeće."
               }
             },
             {
@@ -1139,7 +1160,7 @@
                 "hu": "Vigyázzon a leszálláskor, a templom előtti kövek esőben csúszósak.",
                 "ro": "Atenție la coborâre, pietrele din fața bisericii sunt lucioase pe ploaie.",
                 "en": "Careful when dismounting; the stones outside are slick when wet.",
-                "hr": "Oprez pri silaženju s bicikla; kamenje vani je sklisko kad je mokro."
+                "hr": "Budite oprezni pri silasku s bicikla; kamenje izvan objekta postaje sklisko kad je mokro."
               }
             }
           ],
@@ -1169,9 +1190,9 @@
               "Drink warm fluids regularly to maintain your core body temperature."
             ],
             "hr": [
-              "Blatobrani su neophodni po ovakvom vremenu za zaštitu od prskanja s ceste.",
-              "Vodootporne torbe su nužne kako bi vaša oprema u kanjonu ostala suha.",
-              "Lagano smanjite tlak u gumama za bolje prianjanje na mokrom asfaltu.",
+              "Blatobrani su neophodni u ovakvom vremenu kako bi vas zaštitili od prskanja s ceste.",
+              "Vodootporne torbe za prtljagu potrebne su da vam oprema ostane suha u kanjonu.",
+              "Blago smanjite tlak u gumama za bolje prianjanje na mokrom asfaltu.",
               "Redovito pijte tople napitke kako biste održali tjelesnu temperaturu."
             ]
           }
@@ -1182,7 +1203,7 @@
             "hu": "Egy fagyos, de napsütötte téli reggelen vágunk neki a néptelen szurdoknak a Radman-malmok irányába.\n\nDélben a folyóparti csendet élvezzük, miközben a kopár fák és a sziklák különös, rideg szépséget kölcsönöznek a tájnak.\n\nDélután a Szent Péter-templomot keressük fel a tiszta téli fényben, mielőtt a nap korán a hegyek mögé bukna.\n\nEstére a hűvös hegyi levegőtől felfrissülve érünk vissza, és élvezzük a szállásunk melengető nyugalmát.",
             "ro": "Într-o dimineață geroasă dar însorită, pedalăm prin canionul aproape pustiu spre Morile Radman.\n\nLa prânz ne bucurăm de liniștea deplină de pe malul râului, în timp ce copacii desfrunziți creează un peisaj de o frumusețe austeră.\n\nDupă-amiaza vizităm vechea biserică Sf. Petru în lumina clară a iernii, înainte ca soarele să dispară devreme după munți.\n\nSeara revenim revigorați de aerul rece de munte și ne bucurăm de căldura primitoare a cazării noastre.",
             "en": "On a frosty but sunny winter morning, we cycle through the nearly deserted canyon towards Radman's Mills.\n\nAt noon, we relish the absolute silence by the riverbank, with bare trees adding a starkly beautiful aesthetic to the cliffs.\n\nIn the afternoon, we visit the ancient St. Peter's Church in the crisp winter light before the sun dips early behind the peaks.\n\nWe return in the evening, refreshed by the cool mountain air, to enjoy the cozy warmth of our lodgings.",
-            "hr": "Na hladno, ali sunčano zimsko jutro, vozimo bicikl kroz gotovo pusti kanjon prema Radmanovim mlinicama.\n\nU podne uživamo u apsolutnoj tišini uz obalu rijeke, dok ogoljela stabla dodaju oštru ljepotu liticama.\n\nPoslijepodne posjećujemo drevnu crkvu sv. Petra na čistom zimskom svjetlu prije nego što sunce rano zađe iza vrhova.\n\nUvečer se vraćamo, osvježeni hladnim planinskim zrakom, kako bismo uživali u toplini svog smještaja."
+            "hr": "U mrazovitom, ali sunčanom zimskom jutru bicikliramo kroz gotovo pusti kanjon prema Radmanovim mlinicama.\n\nU podne uživamo u apsolutnoj tišini na obali rijeke, s golim stablima koja dodaju oštro lijepu estetiku stijenama.\n\nPoslijepodne posjećujemo staru crkvu sv. Petra u bistrom zimskom svjetlu prije nego sunce rano zađe iza vrhova.\n\nVečer vraćamo osvježeni hladnim planinskim zrakom i uživamo u ugodnoj toplini smještaja."
           },
           "stops": [
             {
@@ -1192,7 +1213,7 @@
                 "hu": "Viseljen szélálló ruhát, a szurdokban a szél nagyon hideg lehet.",
                 "ro": "Purtați haine rezistente la vânt; curentul din canion este tăios.",
                 "en": "Wear windproof clothing; the wind in the canyon can be very biting.",
-                "hr": "Nosite odjeću otpornu na vjetar; vjetar u kanjonu može biti vrlo oštar."
+                "hr": "Nosite vjetrootpornu odjeću; vjetar u kanjonu može biti vrlo oštar."
               }
             },
             {
@@ -1202,7 +1223,7 @@
                 "hu": "Télen itt csodálatos nyugalom várja egy elmélyült pihenőre a víznél.",
                 "ro": "Iarna este o liniște deplină aici, ideală pentru o pauză la malul apei.",
                 "en": "It is wonderfully quiet here in winter, perfect for a peaceful break.",
-                "hr": "Zimi je ovdje prekrasno tiho, savršeno za miran odmor."
+                "hr": "Ovdje je zimi prekrasno tiho, idealno za miran predah."
               }
             },
             {
@@ -1212,7 +1233,7 @@
                 "hu": "A régi falak a tiszta téli fényben különösen lenyűgözőek.",
                 "ro": "Zidăria veche arată impresionant în lumina clară a iernii.",
                 "en": "The ancient stonework looks especially impressive in the clear winter light.",
-                "hr": "Drevni kameni zidovi izgledaju posebno impresivno na čistom zimskom svjetlu."
+                "hr": "Stari kameni radovi izgledaju posebno impresivno u bistrom zimskom svjetlu."
               }
             }
           ],
@@ -1242,9 +1263,9 @@
               "Bike lights are indispensable due to the very early twilight."
             ],
             "hr": [
-              "Zimske rukavice su ključne jer se prsti na upravljaču brzo hlade.",
-              "Pazite na poledicu u sjenovitim zavojima kanjona.",
-              "U dubokom kanjonu sunce nestaje mnogo ranije nego na obali.",
+              "Zimske rukavice su ključne jer prsti brzo hlade na upravljaču.",
+              "Pazite na crni led u zasjenjenim zavojevima kanjona.",
+              "Sunce u dubokom kanjonu zalazi mnogo ranije nego na obali.",
               "Svjetla za bicikl su neophodna zbog vrlo ranog sumraka."
             ]
           }
@@ -1275,7 +1296,7 @@
             "hu": "Parkolóból indulva túra felfelé.",
             "ro": "Porniți din parcare, drumeție spre vârf.",
             "en": "Start from the parking lot, hike to the top.",
-            "hr": "Krenite s parkirališta, planinarite do vrha."
+            "hr": "Počnite s parkirališta, pješačite do vrha."
           }
         },
         {
@@ -1303,7 +1324,7 @@
         "hu": "Délelőtt: Túra a felső Starigrad-erődhöz.\n\nDélben: Autózás a malmokhoz egy rusztikus ebédre.\n\nDélután: A hegyi falvak felfedezése Omiš felett.\n\nEste: Visszatérés és halvacsora a kikötőben.",
         "ro": "Dimineața: Drumeție la cetatea de sus Starigrad.\n\nLa prânz: Conducere spre mori pentru o masă rustică.\n\nDupă-amiaza: Explorarea satelor de munte de deasupra Omišului.\n\nSeara: Revenire și cină cu pește în port.",
         "en": "Morning: Hike up to the higher Starigrad Fortress.\n\nMidday: Drive to the mills for a rustic lunch.\n\nAfternoon: Explore the mountain villages above Omiš.\n\nEvening: Return and enjoy a fish dinner at the harbor.",
-        "hr": "Jutro: Planinarenje do više tvrđave Starigrad (Fortica).\n\nPodne: Vožnja do mlinica na rustikalni ručak.\n\nPoslijepodne: Istražite planinska sela iznad Omiša.\n\nVečer: Povratak i uživanje u ribljoj večeri u luci."
+        "hr": "Jutro: Pješačenje do višeg Starigradskog grada.\n\nPodne: Vožnja do mlinica za rustikalni ručak.\n\nPoslijepodne: Istražite planinska sela iznad Omiša.\n\nVečer: Povratak i uživanje u ribljem obroku u luci."
       },
       "gastro_picks": {
         "de": [
@@ -1425,7 +1446,7 @@
         ],
         "hr": [
           "Za tvrđavu Starigrad potrebna je planinarska obuća.",
-          "Parkiranje u centru često je otežano."
+          "Parkiranje u centru često je teško."
         ]
       },
       "variants": {
@@ -1434,7 +1455,8 @@
             "de": "Vormittag: Wanderung zur oberen Festung Starigrad.\n\nMittag: Fahrt zu den Mühlen für ein rustikales Essen.\n\nNachmittag: Erkundung der Bergdörfer oberhalb von Omiš.\n\nAbend: Rückkehr und Fischdinner am Hafen.",
             "hu": "Délelőtt: Túra a felső Starigrad-erődhöz.\n\nDélben: Autózás a malmokhoz egy rusztikus ebédre.\n\nDélután: A hegyi falvak felfedezése Omiš felett.\n\nEste: Visszatérés és halvacsora a kikötőben.",
             "ro": "Dimineața: Drumeție la cetatea de sus Starigrad.\n\nLa prânz: Conducere spre mori pentru o masă rustică.\n\nDupă-amiaza: Explorarea satelor de munte de deasupra Omišului.\n\nSeara: Revenire și cină cu pește în port.",
-            "en": "Morning: Hike up to the higher Starigrad Fortress.\n\nMidday: Drive to the mills for a rustic lunch.\n\nAfternoon: Explore the mountain villages above Omiš.\n\nEvening: Return and enjoy a fish dinner at the harbor."
+            "en": "Morning: Hike up to the higher Starigrad Fortress.\n\nMidday: Drive to the mills for a rustic lunch.\n\nAfternoon: Explore the mountain villages above Omiš.\n\nEvening: Return and enjoy a fish dinner at the harbor.",
+            "hr": "Jutro: Pješačenje do višeg Starigradskog grada.\n\nPodne: Vožnja do mlinica za rustikalni ručak.\n\nPoslijepodne: Istražite planinska sela iznad Omiša.\n\nVečer: Povratak i uživanje u ribljem obroku u luci."
           },
           "stops": [
             {
@@ -1443,7 +1465,8 @@
                 "de": "Start am Parkplatz, Wanderung nach oben.",
                 "hu": "Parkolóból indulva túra felfelé.",
                 "ro": "Porniți din parcare, drumeție spre vârf.",
-                "en": "Start from the parking lot, hike to the top."
+                "en": "Start from the parking lot, hike to the top.",
+                "hr": "Počnite s parkirališta, pješačite do vrha."
               }
             },
             {
@@ -1452,7 +1475,8 @@
                 "de": "Großer Parkplatz vorhanden.",
                 "hu": "Nagy parkoló áll rendelkezésre.",
                 "ro": "Parcare mare disponibilă.",
-                "en": "Large parking lot available."
+                "en": "Large parking lot available.",
+                "hr": "Dostupno veliko parkiralište."
               }
             }
           ],
@@ -1554,6 +1578,10 @@
             "en": [
               "Starigrad Fortress requires hiking shoes.",
               "Parking in the center is often difficult."
+            ],
+            "hr": [
+              "Za tvrđavu Starigrad potrebna je planinarska obuća.",
+              "Parkiranje u centru često je teško."
             ]
           }
         },
@@ -1563,7 +1591,7 @@
             "hu": "Szakadó esőben indulunk el a Starigrad-erőd irányába, miközben a vizes sziklafalak fényesen csillognak a szürkületben.\n\nDélben a Radman-malmoknál állunk meg, és a meleg étterem ablakából figyeljük a folyó megáradt, habzó vizét.\n\nDélután óvatosan autózunk a tengerpart mentén, miközben a hullámok az omiši partfalat nyaldossák.\n\nAz estét a szállásunkon töltjük, hallgatva az ablakon kopogó esőt és felidézve a nap látványos pillanatait.",
             "ro": "Pornim spre fortăreața Starigrad prin ploaia torențială care transformă pereții de stâncă în suprafețe negre și lucioase.\n\nLa prânz parcăm la Morile Radman și admirăm râul învolburat din confortul restaurantului încălzit.\n\nDupă-amiaza conducem prudent de-a lungul coastei, în timp ce valurile se sparg cu putere de digurile din Omiš.\n\nSeara revenim la cazare și ascultăm ploaia bătând în ferestre, în timp ce ne relaxăm după o zi plină.",
             "en": "We set off for Starigrad Fortress in heavy rain, which turns the steep cliff walls into glistening dark surfaces.\n\nAt noon, we park at Radman's Mills and watch the swollen, rushing river from the comfort of the heated restaurant.\n\nIn the afternoon, we navigate the coastal roads with care as the waves crash against the Omiš sea walls.\n\nWe return to our base in the evening, listening to the rain drum against the windowpanes while reflecting on the day's sights.",
-            "hr": "Krećemo prema tvrđavi Starigrad po jakoj kiši, koja strme litice pretvara u svjetlucave tamne površine.\n\nU podne se parkiramo kod Radmanovih mlinica i promatramo nabujalu, brzu rijeku iz udobnosti grijanog restorana.\n\nPoslijepodne oprezno vozimo obalnim cestama dok se valovi razbijaju o omiške lukobrane.\n\nUvečer se vraćamo u bazu, slušajući bubnjanje kiše o prozorska okna dok razmišljamo o viđenom."
+            "hr": "Krećemo prema Starigradskom gradu po jake kiši, koja pretvara strme stijene u sjajne tamne površine.\n\nU podne parkiramo kod Radmanovih mlinica i promatramo nabujalu, brzu rijeku iz udobnosti zagrijane konobe.\n\nPoslijepodne oprezno vozimo obalnim cestama dok se valovi razbijaju o omiško obalno pojase.\n\nVečer provodimo u bazi slušajući kišu kako bubnja o prozore i promišljajući o viđenom tijekom dana."
           },
           "stops": [
             {
@@ -1583,7 +1611,7 @@
                 "hu": "Az étteremből remek panoráma nyílik a sebesen rohanó folyóra.",
                 "ro": "Restaurantul oferă o vedere panoramică superbă asupra râului învolburat.",
                 "en": "The restaurant offers a great panoramic view of the rushing river.",
-                "hr": "Restoran nudi izvrstan panoramski pogled na brzu rijeku."
+                "hr": "Konoba nudi prekrasan panoramski pogled na brzu rijeku."
               }
             }
           ],
@@ -1613,10 +1641,10 @@
               "Drive particularly slowly through the tight bends of the mountain roads."
             ],
             "hr": [
-              "Pazite na moguće odrone kamenja u kanjonu tijekom jake kiše.",
-              "Koristite klima uređaj kako biste spriječili zamagljivanje vjetrobranskog stakla.",
-              "Parkirališta u blizini mlinica mogu postati blatna i puna lokvi na kiši.",
-              "Vozite posebno polako kroz oštre zavoje planinskih cesta."
+              "Pazite na moguće odrone stijena u kanjonu tijekom jake kiše.",
+              "Koristite klima-uređaj kako biste spriječili zamagljivanje vjetrobrana.",
+              "Parkirališta u blizini mlinica mogu postati blatna i punjena lokvama po kiši.",
+              "Vozite posebno polako kroz uske zavoje planinskih cesta."
             ]
           }
         },
@@ -1626,7 +1654,7 @@
             "hu": "Tiszta téli reggelen autózunk fel a Starigrad-erődhöz, és élvezzük a mélykék Adria feletti lenyűgöző kilátást.\n\nDélben a Radman-malmoknál állunk meg, ahol télen misztikus nyugalom és a kandalló melege fogad minket.\n\nDélután a kanyon feletti kanyargós utakat fedezzük fel, mielőtt a nap korán a hegycsúcsok mögé bukna.\n\nAz estét az ünnepi fényekbe öltözött Omis utcáin való lassú autózással és pihenéssel zárjuk.",
             "ro": "Într-o dimineață senină de iarnă, conducem spre Starigrad și ne bucurăm de vederea panoramică peste Adriatica de un albastru intens.\n\nLa prânz ne oprim la Morile Radman, unde iarna domnește o liniște aproape mistică și focul arde în șemineu.\n\nDupă-amiaza explorăm drumurile șerpuite de deasupra canionului, înainte ca soarele să dispară devreme după creste.\n\nSeara o petrecem admirând luminile festive din Omiš dintr-o plimbare lentă cu mașina, încheind ziua relaxați.",
             "en": "On a clear winter morning, we drive up to Starigrad Fortress and enjoy the expansive views over the deep blue Adriatic.\n\nAt noon, we stop at Radman's Mills, where a mystical calm prevails in winter and the fireplace burns cozily.\n\nIn the afternoon, we explore the winding roads above the canyon before the sun sets early behind the mountain peaks.\n\nWe end the evening with a gentle drive through the festively lit streets of Omiš, finishing the day in a relaxed mood.",
-            "hr": "Na vedro zimsko jutro vozimo se do tvrđave Starigrad i uživamo u prostranim pogledima na duboko plavo Jadransko more.\n\nU podne stajemo kod Radmanovih mlinica, gdje zimi vlada mistični mir, a u ognjištu ugodno gori vatra.\n\nPoslijepodne istražujemo vijugave ceste iznad kanjona prije nego što sunce rano zađe iza planinskih vrhova.\n\nVečer završavamo laganom vožnjom kroz blagdanski osvijetljene omiške ulice, privodeći dan kraju u opuštenom raspoloženju."
+            "hr": "U vedro zimsko jutro vozimo do Starigradskog grada i uživamo u širokim pogledima na duboko plavo Jadransko more.\n\nU podne stajemo kod Radmanovih mlinica, gdje zimi vlada mističan mir i kamin ugodno gori.\n\nPoslijepodne istražujemo vijugave ceste iznad kanjona prije nego sunce rano zađe iza planinskih vrhova.\n\nVečer završavamo laganom vožnjom kroz svečano osvijetljene ulice Omiša, završavajući dan u opuštenom raspoloženju."
           },
           "stops": [
             {
@@ -1636,7 +1664,7 @@
                 "hu": "Használja ki a tiszta időt a háttérben lévő havas hegyek fotózására.",
                 "ro": "Profită de cerul senin pentru a fotografia munții înzăpeziți din spate.",
                 "en": "Take advantage of the clear air to photograph the snowy peaks inland.",
-                "hr": "Iskoristite čist zrak za fotografiranje snježnih vrhova u unutrašnjosti."
+                "hr": "Iskoristite prozračno nebo za fotografiranje snježnih vrhova u unutrašnjosti."
               }
             },
             {
@@ -1646,7 +1674,7 @@
                 "hu": "Kóstolja meg a 'peka' alatt sült kenyeret, ami télen a legfinomabb.",
                 "ro": "Încercați pâinea coaptă sub capac (peka), ideală pentru zilele reci.",
                 "en": "Try the bread baked under the iron bell (peka) – perfect for winter.",
-                "hr": "Probajte kruh ispod peke – savršen za zimu."
+                "hr": "Probajte kruh pečen pod željeznim zvonom (peka) – savršeno za zimu."
               }
             }
           ],
@@ -1677,9 +1705,9 @@
             ],
             "hr": [
               "Na nadmorskoj visini tvrđave može biti znatno hladnije nego u gradu.",
-              "Zimske gume ili lanci često su obavezni u hrvatskom zaleđu.",
-              "Iskoristite kratke dane za vožnju tijekom 'zlatnog sata'.",
-              "Zimi je puno lakše pronaći parkirno mjesto u starom gradu."
+              "Zimske gume ili lance često su obvezne u hrvatskoj unutrašnjosti.",
+              "Iskoristite kratke dane vozeći se tijekom zlatnog sata.",
+              "Pronalaženje mjesta za parkiranje u staroj jezgri puno je lakše zimi."
             ]
           }
         }
@@ -1709,7 +1737,7 @@
             "hu": "Közvetlenül a főút mellett.",
             "ro": "Direct pe drumul principal.",
             "en": "Right on the main road.",
-            "hr": "Odmah na glavnoj cesti."
+            "hr": "Ravno na glavnoj cesti."
           }
         },
         {
@@ -1747,7 +1775,7 @@
             "hu": "Menjen hajóval a kanyonba.",
             "ro": "Luați barca în canion.",
             "en": "Take the boat into the canyon.",
-            "hr": "Idite brodom u kanjon."
+            "hr": "Uzmite brod u kanjon."
           }
         }
       ],
@@ -1756,7 +1784,7 @@
         "hu": "Délelőtt: Érkezés busszal Split felől, városnézés.\n\nDélben: Az erőd megtekintése és panoráma.\n\nDélután: Hajókirándulás a Cetinán (busz helyett).\n\nEste: Visszautazás távolsági busszal.",
         "ro": "Dimineața: Sosire cu autobuzul din Split și tur de oraș.\n\nLa prânz: Vizitarea cetății și vedere panoramică.\n\nDupă-amiaza: Tur cu barca pe Cetina (în loc de autobuz).\n\nSeara: Întoarcere cu autobuzul de cursă lungă.",
         "en": "Morning: Arrival by bus from Split and city tour.\n\nMidday: Visit the fortress for panoramic views.\n\nAfternoon: Boat tour on the Cetina River (instead of bus).\n\nEvening: Return journey by long-distance bus.",
-        "hr": "Jutro: Dolazak autobusom iz Splita i obilazak grada.\n\nPodne: Posjet tvrđavi radi panoramskog pogleda.\n\nPoslijepodne: Tura brodom po rijeci Cetini (umjesto autobusa).\n\nVečer: Povratak međugradskim autobusom."
+        "hr": "Jutro: Dolazak autobusom iz Splita i razgled grada.\n\nPodne: Posjet tvrđavi radi panoramskih pogleda.\n\nPoslijepodne: Vožnja brodom po Cetini (umjesto autobusa).\n\nVečer: Povratak dalekolinijskim autobusom."
       },
       "gastro_picks": {
         "de": [
@@ -1877,7 +1905,7 @@
           "Tickets can be bought on the bus."
         ],
         "hr": [
-          "Autobusna linija br. 60 povezuje Split i Omiš.",
+          "Autobus br. 60 povezuje Split i Omiš.",
           "Karte se mogu kupiti u autobusu."
         ]
       },
@@ -1887,7 +1915,8 @@
             "de": "Vormittag: Ankunft mit dem Bus aus Split und Stadtrundgang.\n\nMittag: Besuch der Festung und Panoramablick.\n\nNachmittag: Bootstour auf der Cetina (statt Bus).\n\nAbend: Rückreise mit dem Fernbus.",
             "hu": "Délelőtt: Érkezés busszal Split felől, városnézés.\n\nDélben: Az erőd megtekintése és panoráma.\n\nDélután: Hajókirándulás a Cetinán (busz helyett).\n\nEste: Visszautazás távolsági busszal.",
             "ro": "Dimineața: Sosire cu autobuzul din Split și tur de oraș.\n\nLa prânz: Vizitarea cetății și vedere panoramică.\n\nDupă-amiaza: Tur cu barca pe Cetina (în loc de autobuz).\n\nSeara: Întoarcere cu autobuzul de cursă lungă.",
-            "en": "Morning: Arrival by bus from Split and city tour.\n\nMidday: Visit the fortress for panoramic views.\n\nAfternoon: Boat tour on the Cetina River (instead of bus).\n\nEvening: Return journey by long-distance bus."
+            "en": "Morning: Arrival by bus from Split and city tour.\n\nMidday: Visit the fortress for panoramic views.\n\nAfternoon: Boat tour on the Cetina River (instead of bus).\n\nEvening: Return journey by long-distance bus.",
+            "hr": "Jutro: Dolazak autobusom iz Splita i razgled grada.\n\nPodne: Posjet tvrđavi radi panoramskih pogleda.\n\nPoslijepodne: Vožnja brodom po Cetini (umjesto autobusa).\n\nVečer: Povratak dalekolinijskim autobusom."
           },
           "stops": [
             {
@@ -1896,7 +1925,8 @@
                 "de": "Direkt an der Hauptstraße.",
                 "hu": "Közvetlenül a főút mellett.",
                 "ro": "Direct pe drumul principal.",
-                "en": "Right on the main road."
+                "en": "Right on the main road.",
+                "hr": "Ravno na glavnoj cesti."
               }
             },
             {
@@ -1905,7 +1935,8 @@
                 "de": "Starten Sie früh, um die Hitze zu vermeiden.",
                 "hu": "Induljon korán a hőség elkerülésére.",
                 "ro": "Porniți devreme pentru a evita căldura.",
-                "en": "Start early to avoid the heat."
+                "en": "Start early to avoid the heat.",
+                "hr": "Krenite rano kako biste izbjegli vrućinu."
               }
             },
             {
@@ -1914,7 +1945,8 @@
                 "de": "Nehmen Sie das Boot in den Canyon.",
                 "hu": "Menjen hajóval a kanyonba.",
                 "ro": "Luați barca în canion.",
-                "en": "Take the boat into the canyon."
+                "en": "Take the boat into the canyon.",
+                "hr": "Uzmite brod u kanjon."
               }
             }
           ],
@@ -2016,6 +2048,10 @@
             "en": [
               "Bus No. 60 connects Split and Omiš.",
               "Tickets can be bought on the bus."
+            ],
+            "hr": [
+              "Autobus br. 60 povezuje Split i Omiš.",
+              "Karte se mogu kupiti u autobusu."
             ]
           }
         },
@@ -2025,7 +2061,7 @@
             "hu": "Reggel a központi buszmegálló védőtetője alatt várjuk a csatlakozást az óváros irányába.\n\nDélben a Mirabella-erődöt látogatjuk meg, minden esőszünetet kihasználva a viharos Adria fentről való fotózására.\n\nDélután a hajóállomás környéke csendes, de egy rövid folyami út az esőben is különleges, melankolikus bájt áraszt.\n\nAz estét a buszon ülve töltjük, a párás ablakon keresztül figyelve Omis fényeinek tükröződését a vizes aszfalton.",
             "ro": "Dimineața așteptăm autobuzul sub protecția stației centrale pentru a ajunge rapid în inima orașului.\n\nLa prânz vizităm Mirabella și profităm de fiecare pauză de ploaie pentru a surprinde marea agitată de la înălțime.\n\nDupă-amiaza, debarcaderul este aproape gol, dar o scurtă plimbare pe râu are un farmec melancolic aparte pe ploaie.\n\nSeara o petrecem în autobuz, privind reflexiile luminilor din Omiš pe asfaltul ud prin ferestrele aburite.",
             "en": "In the morning, we wait under the shelter of the main bus stop for our connection to the town center.\n\nAt noon, we visit Mirabella Fortress, using every break in the clouds for photos of the stormy Adriatic from above.\n\nIn the afternoon, the boat dock is quiet, but a short river trip has its own unique, melancholic charm in the rain.\n\nWe spend the evening on the bus, wiping fogged-up windows to watch the Omiš lights shimmer on the wet road.",
-            "hr": "Ujutro čekamo pod nadstrešnicom glavne autobusne stanice našu vezu do centra grada.\n\nU podne posjećujemo tvrđavu Mirabela, koristeći svaki prekid u oblacima za fotografije olujnog Jadrana odozgo.\n\nPoslijepodne je pristanište za brodove tiho, ali kratki izlet rijekom ima svoj jedinstveni, melankolični šarm na kiši.\n\nVečer provodimo u autobusu, brišući zamagljene prozore kako bismo gledali omiška svjetla koja svjetlucaju na mokroj cesti."
+            "hr": "Ujutro čekamo pod nadstrešnicom glavnog autobusnog stajališta na vezu do centra.\n\nU podne posjećujemo tvrđavu Mirabelu, koristeći svaku pauzu u oblacima za fotografije olujnog Jadrana odozgo.\n\nPoslijepodne pristanište je tiho, ali kratka riječna vožnja nosi svoj jedinstveni, melankolični šarm po kiši.\n\nVečer provodimo u autobusu brišući zamagljene prozore kako bismo gledali kako se omiška svjetla presijavaju na mokroj cesti."
           },
           "stops": [
             {
@@ -2035,7 +2071,7 @@
                 "hu": "A megállónál lévő újságosnál menedéket és snackeket találhat várakozás közben.",
                 "ro": "Chioșcul din stație oferă adăpost și gustări pentru timpul de așteptare.",
                 "en": "The kiosk at the stop provides cover and snacks while you wait.",
-                "hr": "Kiosk na stanici pruža zaklon i grickalice dok čekate."
+                "hr": "Kiosk na stajalištu pruža zaklon i grickalice dok čekate."
               }
             },
             {
@@ -2045,7 +2081,7 @@
                 "hu": "A kilátás az esős partvidékre innen fentről rendkívül drámai.",
                 "ro": "Vederea spre coasta înnorată este foarte spectaculoasă de aici.",
                 "en": "The view of the rainy coastline is very dramatic from up here.",
-                "hr": "Pogled na kišovitu obalu odavde je vrlo dramatičan."
+                "hr": "Pogled na kišnu obalu ovdje je vrlo dramatičan."
               }
             },
             {
@@ -2055,7 +2091,7 @@
                 "hu": "Mindenképpen tetővel rendelkező hajót válasszon a kanyonba vezető úthoz.",
                 "ro": "Alegeți neapărat o barcă cu acoperiș pentru plimbarea spre canion.",
                 "en": "Be sure to choose a boat with a canopy for your trip into the canyon.",
-                "hr": "Obavezno odaberite brod s nadstrešnicom za svoj izlet u kanjon."
+                "hr": "Pobrinite se da za vožnju u kanjon izaberete brod s tendom."
               }
             }
           ],
@@ -2085,10 +2121,10 @@
               "Find a window seat on the bus to enjoy the scenery while staying dry."
             ],
             "hr": [
-              "Autobusi mogu kasniti zbog prometa po jakoj kiši.",
-              "Pripremite točan iznos za autobusnu kartu kako biste ubrzali ulazak.",
-              "Brodovi na Cetini obično voze i tijekom laganih pljuskova.",
-              "Pronađite mjesto uz prozor u autobusu kako biste uživali u krajoliku dok ostajete suhi."
+              "Autobusi mogu kasniti zbog prometa u jakoj kiši.",
+              "Pripremite točan iznos za kartu u autobusu kako ubrzate ukrcaj.",
+              "Brodovi na Cetini obično prometuju i tijekom slabih kišnih pljuskova.",
+              "Pronađite sjedalo uz prozor u autobusu kako biste uživali u krajoliku i ostali suhi."
             ]
           }
         },
@@ -2098,7 +2134,7 @@
             "hu": "Hűvös téli reggelen a helyi busszal kényelmesen érünk be a központba, elkerülve a kinti hideget.\n\nDélben a Mirabella-erődbe kapaszkodunk fel, ahol a friss levegőben a tenger színei rendkívül mélynek látszanak.\n\nA délután a hajóállomáson nagyon csendes; a járatok ritkábbak, így a kirándulás sokkal intimebb élmény.\n\nAz estét a fűtött buszon ülve zárjuk, miközben az ünnepi díszbe öltözött városon haladunk át.",
             "ro": "Într-o dimineață răcoroasă de iarnă, folosim autobuzul local pentru a ajunge confortabil în centru, feriți de frig.\n\nLa prânz urcăm la Mirabella; aerul clar de iarnă face culorile mării să pară deosebit de intense.\n\nDupă-amiaza la debarcader este foarte liniște; excursiile sunt rare, ceea ce face plimbarea mai exclusivistă.\n\nSeara revenim cu autobuzul încălzit, admirând decorul festiv al orașului Omiš prin fereastră.",
             "en": "On a cool winter morning, we take the local bus to reach the center comfortably, staying out of the chill.\n\nAt noon, we climb to Mirabella, where the crisp winter air makes the colors of the sea appear exceptionally deep.\n\nThe afternoon at the boat dock is very quiet; tours are less frequent, making any trip feel more exclusive.\n\nWe end the evening on a heated bus, gliding through the festively decorated streets of Omiš.",
-            "hr": "Na hladno zimsko jutro koristimo lokalni autobus kako bismo udobno stigli do centra, bježeći od hladnoće.\n\nU podne se penjemo na Mirabelu, gdje zbog čistog zimskog zraka boje mora djeluju izuzetno duboko.\n\nPoslijepodne na pristaništu za brodove je vrlo tiho; izleti su rjeđi, pa se svaki čini ekskluzivnijim.\n\nVečer završavamo u grijanom autobusu, klizeći kroz blagdanski ukrašene omiške ulice."
+            "hr": "U hladno zimsko jutro uzimamo lokalni autobus do centra kako bismo udobno izbjegli hladnoću.\n\nU podne penjemo se na Mirabelu, gdje bistar zimski zrak čini boje mora izuzetno dubokima.\n\nPoslijepodne na pristaništu je vrlo mirno; ture su rjeđe, pa svaka vožnja djeluje ekskluzivnije.\n\nVečer završavamo u grijanom autobusu koji klizi kroz svečano okićene ulice Omiša."
           },
           "stops": [
             {
@@ -2108,7 +2144,7 @@
                 "hu": "Ellenőrizze a téli menetrendet, mert ritkábban járnak a buszok.",
                 "ro": "Verificați programul de iarnă, autobuzele sunt mai rare decât vara.",
                 "en": "Check the winter schedule, as there are fewer buses than in summer.",
-                "hr": "Provjerite zimski vozni red jer ima manje autobusa nego ljeti."
+                "hr": "Provjerite zimski vozni red, jer ima manje autobusa nego ljeti."
               }
             },
             {
@@ -2118,7 +2154,7 @@
                 "hu": "A tiszta fényviszonyok ideálisak a partvidék éles panorámafotóihoz.",
                 "ro": "Lumina clară este ideală pentru fotografii panoramice reușite.",
                 "en": "The clear light is ideal for sharp panoramic photos of the coast.",
-                "hr": "Čisto svjetlo idealno je za oštre panoramske fotografije obale."
+                "hr": "Bistro svjetlo idealno je za oštre panoramske fotografije obale."
               }
             },
             {
@@ -2128,7 +2164,7 @@
                 "hu": "Télen a hajókirándulások többnyire csak előzetes egyeztetésre indulnak.",
                 "ro": "Plimbările cu barca iarna se fac de obicei doar cu rezervare prealabilă.",
                 "en": "Boat tours in winter usually operate only by prior arrangement.",
-                "hr": "Izleti brodom zimi obično se održavaju samo uz prethodnu najavu."
+                "hr": "Zimske brodske ture obično se održavaju samo uz prethodnu najavu."
               }
             }
           ],
@@ -2158,9 +2194,9 @@
               "Use the transit provider's app for real-time arrival information."
             ],
             "hr": [
-              "Vozni redovi međugradskih autobusa znatno su reducirani u usporedbi s ljetom.",
-              "Pričekajte u obližnjem kafiću ako vaš autobus malo kasni.",
-              "Izleti brodom mogu biti otkazani ako je bura prejaka zbog sigurnosti.",
+              "Rasporedi međugradskih autobusa znatno su smanjeni u odnosu na ljeto.",
+              "Pričekajte u obližnjem kafiću ako vaš autobus kasni nekoliko minuta.",
+              "Izleti brodom mogu biti otkazani ako je bura suviše jaka za sigurnost.",
               "Koristite aplikaciju prijevoznika za informacije o dolascima u stvarnom vremenu."
             ]
           }
@@ -2189,19 +2225,22 @@
       "de": "Amtssprache Kroatisch; in Omiš sprechen viele im Tourismus Englisch und Deutsch, Italienisch weniger als in Istrien.",
       "hu": "Hivatalos nyelv a horvát; Omišban a turisztikai dolgozók beszélnek angolul és németül, az olasz kevésbé elterjedt mint Isztriában.",
       "ro": "Limba oficială este croata; în Omiš mulți din turism vorbesc engleza și germana, italiana mai puțin decât în Istria.",
-      "en": "Croatian is official; in Omiš many tourism workers speak English and German, Italian less common than in Istria."
+      "en": "Croatian is official; in Omiš many tourism workers speak English and German, Italian less common than in Istria.",
+      "hr": "Hrvatski je službeni; u Omišlju mnogi radnici u turizmu govore engleski i njemački, talijanski je rjeđi nego u Istri."
     },
     "best_time_to_visit": {
       "de": "Mai bis Juni und September für Rafting und Wandern im Cetina-Canyon bei moderaten Temperaturen; Juli/August heiß, Strände überfüllt.",
       "hu": "Május-június és szeptember a Cetina-kanyon raftinghoz és túrázáshoz mérsékelt hőmérsékleten; július-augusztus forró, a strandok zsúfoltak.",
       "ro": "Mai-iunie și septembrie pentru rafting și drumeții în canionul Cetina la temperaturi moderate; iulie/august cald, plajele aglomerate.",
-      "en": "May-June and September for Cetina canyon rafting and hiking at moderate temperatures; July-August hot with crowded beaches."
+      "en": "May-June and September for Cetina canyon rafting and hiking at moderate temperatures; July-August hot with crowded beaches.",
+      "hr": "Svibanj–lipanj i rujan za rafting i pješačenje kanjonom Cetine pri umjerenim temperaturama; srpanj–kolovoz vruće i plaže su prepune."
     },
     "neighborhood_warnings": {
       "de": "Stadt insgesamt sicher; Magistrale (D8) durch das Zentrum stark befahren, Vorsicht beim Überqueren. Wanderwege zur Festung steil und rutschig nach Regen.",
       "hu": "A város biztonságos; a központon áthaladó Magistrale (D8) forgalmas, óvatosan kelj át. Az erődhöz vezető ösvények meredekek és csúszósak eső után.",
       "ro": "Orașul este sigur în general; șoseaua Magistrala (D8) prin centru este foarte circulată, atenție la traversare. Potecile spre fortăreață sunt abrupte și alunecoase după ploaie.",
-      "en": "Town generally safe; Magistrala (D8) highway through centre is heavily trafficked, take care crossing. Trails up to fortress are steep and slippery after rain."
+      "en": "Town generally safe; Magistrala (D8) highway through centre is heavily trafficked, take care crossing. Trails up to fortress are steep and slippery after rain.",
+      "hr": "Grad je općenito siguran; Magistrala (D8) kroz centar je vrlo prometna, pazite pri prelasku. Staze do tvrđave su strme i skliske nakon kiše."
     }
   }
 }

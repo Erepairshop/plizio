@@ -108,7 +108,7 @@
             "hu": "Pihenés a városi parkban.",
             "ro": "Relaxare în grădina orașului.",
             "en": "Relaxation in the city garden.",
-            "hr": "Opuštanje u gradskom vrtu."
+            "hr": "Odmor u gradskom vrtu."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "Kiadós zagorjei ebéd.",
             "ro": "Prânz consistent în stil Zagorje.",
             "en": "Hearty Zagorje lunch.",
-            "hr": "Bogat zagorski ručak."
+            "hr": "Obilan zagorski ručak."
           }
         }
       ],
@@ -136,7 +136,7 @@
         "hu": "A napja a világhírű Neandervölgyi múzeumnál és a Hušnjakovo lelőhelyen kezdődik. Ezután sétáljon fel a krapinai óvárhoz a kilátásért. A délutánt a Szent Miklós-templom és a Matice Hrvatske park felfedezésével töltheti. Az estét a központ egyik hangulatos éttermében zárhatja.",
         "ro": "Ziua începe la faimosul muzeu Neandertal și situl arheologic Hušnjakovo. Apoi, urcați la vechea cetate Krapina pentru o vedere panoramică. După-amiaza aparține bisericii Sf. Nicolae și parcului Matice Hrvatske. Încheiați seara la unul dintre restaurantele primitoare din centru.",
         "en": "Your day begins at the world-famous Neanderthal Museum and the Hušnjakovo excavation site. Afterwards, walk up to the old Krapina fortress for a wide view. The afternoon is dedicated to St. Nicholas Church and Matice Hrvatske Park. End the evening at one of the cozy restaurants in the city center.",
-        "hr": "Vaš dan započinje u svjetski poznatom Muzeju krapinskih neandertalaca i nalazištu Hušnjakovo. Nakon toga, prošećite do stare krapinske utvrde za široki pogled na okolicu. Poslijepodne je posvećeno crkvi sv. Nikole i parku Matice hrvatske. Večer završite u jednom od ugodnih restorana u centru grada."
+        "hr": "Vaš dan započinje u svjetski poznatom Muzeju neandertalaca i nalazištu Hušnjakovo. Nakon toga prošećite do stare utvrde Krapina za širok pogled. Popodne je posvećeno crkvi sv. Nikole i parku Matice Hrvatske. Večer završite u jednom od ugodnih restorana u centru grada."
       },
       "gastro_picks": {
         "de": [
@@ -283,7 +283,7 @@
         ],
         "hr": [
           "Planirajte dovoljno vremena za muzej.",
-          "Uspon do utvrde je kratak, ali strm."
+          "Uspon do utvrde je kratak ali strm."
         ]
       },
       "variants": {
@@ -292,7 +292,8 @@
             "de": "Ihr Tag beginnt am weltberühmten Neandertaler-Museum und der Ausgrabungsstätte Hušnjakovo. Danach wandern Sie zur alten Festung Krapina für einen weiten Ausblick. Der Nachmittag gehört der Nikolauskirche und dem Park Matice Hrvatske. Den Abend lassen Sie in einem der gemütlichen Restaurants im Zentrum ausklingen.",
             "hu": "A napja a világhírű Neandervölgyi múzeumnál és a Hušnjakovo lelőhelyen kezdődik. Ezután sétáljon fel a krapinai óvárhoz a kilátásért. A délutánt a Szent Miklós-templom és a Matice Hrvatske park felfedezésével töltheti. Az estét a központ egyik hangulatos éttermében zárhatja.",
             "ro": "Ziua începe la faimosul muzeu Neandertal și situl arheologic Hušnjakovo. Apoi, urcați la vechea cetate Krapina pentru o vedere panoramică. După-amiaza aparține bisericii Sf. Nicolae și parcului Matice Hrvatske. Încheiați seara la unul dintre restaurantele primitoare din centru.",
-            "en": "Your day begins at the world-famous Neanderthal Museum and the Hušnjakovo excavation site. Afterwards, walk up to the old Krapina fortress for a wide view. The afternoon is dedicated to St. Nicholas Church and Matice Hrvatske Park. End the evening at one of the cozy restaurants in the city center."
+            "en": "Your day begins at the world-famous Neanderthal Museum and the Hušnjakovo excavation site. Afterwards, walk up to the old Krapina fortress for a wide view. The afternoon is dedicated to St. Nicholas Church and Matice Hrvatske Park. End the evening at one of the cozy restaurants in the city center.",
+            "hr": "Vaš dan započinje u svjetski poznatom Muzeju neandertalaca i nalazištu Hušnjakovo. Nakon toga prošećite do stare utvrde Krapina za širok pogled. Popodne je posvećeno crkvi sv. Nikole i parku Matice Hrvatske. Večer završite u jednom od ugodnih restorana u centru grada."
           },
           "stops": [
             {
@@ -301,7 +302,8 @@
                 "de": "Modernste Multimedia-Ausstellung.",
                 "hu": "Modern multimédiás kiállítás.",
                 "ro": "Expoziție multimedia modernă.",
-                "en": "Modern multimedia exhibition."
+                "en": "Modern multimedia exhibition.",
+                "hr": "Moderna multimedijalna izložba."
               }
             },
             {
@@ -310,7 +312,8 @@
                 "de": "Fundort der Neandertaler.",
                 "hu": "Neandervölgyiek lelőhelye.",
                 "ro": "Locul descoperirii Neandertalienilor.",
-                "en": "Neanderthal discovery site."
+                "en": "Neanderthal discovery site.",
+                "hr": "Nalazište neandertalaca."
               }
             },
             {
@@ -319,7 +322,8 @@
                 "de": "Panoramablick auf die Stadt.",
                 "hu": "Panorámás kilátás a városra.",
                 "ro": "Vedere panoramică spre oraș.",
-                "en": "Panoramic view of the city."
+                "en": "Panoramic view of the city.",
+                "hr": "Panoramski pogled na grad."
               }
             },
             {
@@ -328,7 +332,8 @@
                 "de": "Schönes Barockinterieur.",
                 "hu": "Szép barokk belső tér.",
                 "ro": "Interior baroc frumos.",
-                "en": "Beautiful baroque interior."
+                "en": "Beautiful baroque interior.",
+                "hr": "Prekrasna barokna unutrašnjost."
               }
             },
             {
@@ -337,7 +342,8 @@
                 "de": "Entspannung im Stadtgarten.",
                 "hu": "Pihenés a városi parkban.",
                 "ro": "Relaxare în grădina orașului.",
-                "en": "Relaxation in the city garden."
+                "en": "Relaxation in the city garden.",
+                "hr": "Odmor u gradskom vrtu."
               }
             },
             {
@@ -346,7 +352,8 @@
                 "de": "Deftiges Zagorje-Mittagessen.",
                 "hu": "Kiadós zagorjei ebéd.",
                 "ro": "Prânz consistent în stil Zagorje.",
-                "en": "Hearty Zagorje lunch."
+                "en": "Hearty Zagorje lunch.",
+                "hr": "Obilan zagorski ručak."
               }
             }
           ],
@@ -468,6 +475,10 @@
             "en": [
               "Plan plenty of time for the museum.",
               "The climb to the fortress is short but steep."
+            ],
+            "hr": [
+              "Planirajte dovoljno vremena za muzej.",
+              "Uspon do utvrde je kratak ali strm."
             ]
           }
         },
@@ -477,7 +488,7 @@
             "hu": "A reggelt a Neandervölgyi Múzeumban kezdjük, amely tökéletes menedék az eső elől. Merüljön el az őskori világban, miközben kint kopog az eső.\n\nDélben egy rövid, esőbiztos sétát teszünk a Hušnjakovo-dombhoz. Az erdei út nedves lehet, de a fák alatti hangulat ilyenkor egészen misztikus.\n\nDélután a vár és a Szent Miklós-templom következik. Az eső csillogóvá és melankolikussá varázsolja az óvárost.\n\nAz este meghitten zárul egy helyi étteremben a központban. Élvezze a meleg horvát specialitásokat, miközben kint elcsendesedik a város az esőben.",
             "ro": "Dimineața începe la Muzeul Omului de Neandertal, refugiul perfect împotriva ploii. Explorați lumea preistorică în timp ce afară plouă torențial.\n\nLa prânz, facem o scurtă plimbare către dealul Hušnjakovo. Poteca prin pădure este umedă, dar atmosfera sub copaci este mistică și liniștită.\n\nDupă-amiaza vizităm cetatea și biserica Sf. Nicolae. Ploaia conferă centrului vechi un farmec strălucitor și melancolic.\n\nSeara se încheie confortabil într-un restaurant local din centru. Savurați specialități croate calde în timp ce ascultați ploaia de afară.",
             "en": "The morning starts at the Neanderthal Museum, the perfect refuge from the rain. Immerse yourself in the prehistoric world while it pours outside.\n\nAt midday, we take a short, rain-ready walk to Hušnjakovo Hill. The forest path is wet, but the atmosphere under the trees is mystical and quiet.\n\nIn the afternoon, we visit the fortress and St. Nicholas Church. The rain gives the old town a shiny, melancholic charm.\n\nThe evening ends cozily in a local restaurant in the center. Enjoy warm Croatian specialties while listening to the rain outside.",
-            "hr": "Jutro počinje u Muzeju krapinskih neandertalaca, savršenom utočištu od kiše. Uronite u prapovijesni svijet dok vani pljušti.\n\nU podne krećemo u kratku šetnju prilagođenu kiši do brda Hušnjakovo. Šumska staza je mokra, ali je atmosfera pod drvećem mistična i tiha.\n\nPoslijepodne posjećujemo utvrdu i crkvu sv. Nikole. Kiša starom gradu daje sjajan, melankoličan šarm.\n\nVečer završava ugodno u lokalnom restoranu u centru. Uživajte u toplim hrvatskim specijalitetima dok slušate kišu vani."
+            "hr": "Jutro počinje u Muzeju neandertalaca, savršenom skloništu od kiše. Uronite u prapovijesni svijet dok vani pada kiša.\n\nOko podne napravimo kratku, na kišu spremnu šetnju do Hušnjakovog brijega. Šumska staza je mokra, ali atmosfera pod stablima je mistična i tiha.\n\nPopodne posjećujemo utvrdu i crkvu sv. Nikole. Kiša daje starom gradu sjajnu, melankoličnu čar.\n\nVečer ugodno završava u lokalnom restoranu u centru. Uživajte u toplim hrvatskim specijalitetima dok slušate kišu vani."
           },
           "stops": [
             {
@@ -487,7 +498,7 @@
                 "hu": "Tökéletes esős napokra, mivel teljesen fedett és temperált.",
                 "ro": "Perfect pentru zilele ploioase, fiind complet acoperit și climatizat.",
                 "en": "Perfect for rainy days as it is completely indoor and climate-controlled.",
-                "hr": "Savršeno za kišne dane jer je potpuno zatvoreno i klimatizirano."
+                "hr": "Savršeno za kišne dane jer je potpuno unutra i klimatizirano."
               }
             },
             {
@@ -497,7 +508,7 @@
                 "hu": "A csúszós utak miatt fontos a vízálló, bordázott talpú túracipő.",
                 "ro": "Încălțămintea de drumeție este esențială, deoarece potecile pot fi alunecoase.",
                 "en": "Sturdy hiking boots are essential as the paths can be slippery when wet.",
-                "hr": "Čvrste planinarske cipele su neophodne jer staze mogu biti skliske kad su mokre."
+                "hr": "Čvrste planinarske čizme su obavezne jer staze mogu biti skliske kad su mokre."
               }
             },
             {
@@ -507,7 +518,7 @@
                 "hu": "Vigyen erős esernyőt, mert a dombtetőn szeles lehet az idő.",
                 "ro": "Luați o umbrelă rezistentă, deoarece pe deal poate fi vânt.",
                 "en": "Take a sturdy umbrella, as it can be windy up on the hill.",
-                "hr": "Ponesite čvrst kišobran jer na brdu može biti vjetrovito."
+                "hr": "Ponesite čvrst kišobran jer može biti vjetrovito na brijegu."
               }
             },
             {
@@ -517,7 +528,7 @@
                 "hu": "Nyugodt hely az eső kivárására és az építészet megcsodálására.",
                 "ro": "Un loc liniștit pentru a aștepta trecerea ploii și a admira arhitectura.",
                 "en": "A quiet place to wait out a rain shower and admire the architecture.",
-                "hr": "Mirno mjesto za pričekati da kiša prođe i diviti se arhitekturi."
+                "hr": "Tih mjesto za prečkanje pljuska i divljenje arhitekturi."
               }
             },
             {
@@ -527,7 +538,7 @@
                 "hu": "Használja a fedett padokat egy rövid, száraz pihenőhöz.",
                 "ro": "Folosiți băncile acoperite pentru o scurtă odihnă la adăpost.",
                 "en": "Use the covered benches for a short rest in the dry.",
-                "hr": "Koristite natkrivene klupe za kratki odmor na suhom."
+                "hr": "Iskoristite natkrivene klupe za kratki odmor na suhom."
               }
             },
             {
@@ -537,7 +548,7 @@
                 "hu": "Kóstolja meg a hagyományos Zagorska Juha-t, egy melengető gombalevest.",
                 "ro": "Încercați tradiționala Zagorska Juha, o supă de ciuperci care vă va încălzi.",
                 "en": "Try the traditional Zagorska Juha, a warming mushroom soup.",
-                "hr": "Probajte tradicionalnu zagorsku juhu, toplu juhu od gljiva."
+                "hr": "Probajte tradicionalnu zagorsku juhu, topli gljivni čobanac."
               }
             }
           ],
@@ -571,11 +582,11 @@
               "A rain poncho is more practical than an umbrella for the Hušnjakovo forest path."
             ],
             "hr": [
-              "Uskim krapinskim ulicama može biti sklisko kad su mokre, pa pazite na korak.",
+              "Krapinske uske ulice mogu biti skliske kad su mokre, pa pazite gdje gazite.",
               "Muzej neandertalaca ima garderobu za mokre kapute.",
               "Izbjegavajte strme prečace do utvrde; držite se glavnih staza.",
-              "Lokalni kafići u centru često imaju natkrivene terase s grijačima.",
-              "Kišna kabanica je praktičnija od kišobrana za šumsku stazu Hušnjakovo."
+              "Lokalni kafići u centru često imaju natkrivene terase s grijalicama.",
+              "Plastična kabanica je praktičnija od kišobrana za šumske staze Hušnjakova."
             ]
           }
         },
@@ -585,7 +596,7 @@
             "hu": "A téli reggel frissen indul a Neandervölgyi Múzeumban. A modern kiállítás melegséget és lenyűgöző betekintést nyújt a jégkorszakba.\n\nDélben a Hušnjakovo-dombhoz látogatunk. Ha esett a hó, a park csillogó téli tájjá változik.\n\nDélután a várat és a templomot fedezzük fel. A hideg levegő tiszta, a kilátás a havas Zagorje vidékére felejthetetlen.\n\nAz este korán kezdődik, ahogy kigyúlnak a város fényei. Egy meleg étteremben Štrukli-t vacsorázunk, csodálva a téli óvárost.",
             "ro": "Dimineața de iarnă începe proaspăt la Muzeul Neandertal. Expoziția modernă oferă căldură și o incursiune fascinantă în era glaciară.\n\nLa prânz vizităm dealul Hušnjakovo. Dacă a nins, parcul se transformă într-un peisaj de iarnă sclipitor.\n\nDupă-amiaza explorăm cetatea și biserica. Aerul rece este curat, iar vederea asupra regiunii Zagorje înzăpezite este de neuitat.\n\nSeara începe devreme, odată cu aprinderea luminilor orașului. Într-un restaurant călduros savurăm Štrukli și admirăm centrul vechi hivernal.",
             "en": "The winter morning begins briskly at the Neanderthal Museum. The modern exhibition offers warmth and fascinating insights into the Ice Age.\n\nAt midday, we visit Hušnjakovo Hill. If it has snowed, the park transforms into a glittering winter landscape.\n\nIn the afternoon, we explore the fortress and the church. The cold air is crisp, and the view over the snowy Zagorje region is unforgettable.\n\nThe evening starts early as the city lights come on. In a warm restaurant, we enjoy Štrukli and the view of the wintry old town.",
-            "hr": "Zimsko jutro počinje žustro u Muzeju krapinskih neandertalaca. Moderna izložba nudi toplinu i fascinantan uvid u ledeno doba.\n\nU podne posjećujemo brdo Hušnjakovo. Ako je pao snijeg, park se pretvara u blistavi zimski krajolik.\n\nPoslijepodne istražujemo utvrdu i crkvu. Hladan zrak je oštar, a pogled na snježni zagorski krajolik nezaboravan.\n\nVečer počinje rano kad se upale gradska svjetla. U toplom restoranu uživamo u štruklima i pogledu na zimski stari grad."
+            "hr": "Zimsko jutro započinje živahno u Muzeju neandertalaca. Moderna izložba nudi toplinu i fascinantne uvide u doba ledenog doba.\n\nOko podne posjećujemo Hušnjakovo brdo. Ako je pao snijeg, park se pretvara u blistavu zimsku scenu.\n\nPopodne istražujemo utvrdu i crkvu. Hladan zrak je svjež, a pogled na snježnu zagorsku okolinu nezaboravan.\n\nVečer počinje rano kako se upale gradska svjetla. U toplom restoranu uživamo u štruklima i pogledu na zimski stari grad."
           },
           "stops": [
             {
@@ -595,7 +606,7 @@
                 "hu": "Ideális hely a felmelegedéshez és az interaktív kiállításokhoz.",
                 "ro": "Ideal pentru a vă încălzi și a vă bucura de exponatele interactive.",
                 "en": "Ideal for warming up and enjoying the interactive exhibits.",
-                "hr": "Idealno za zagrijavanje i uživanje u interaktivnim izlošcima."
+                "hr": "Idealno za zagrijavanje i uživanje u interaktivnim postavima."
               }
             },
             {
@@ -605,7 +616,7 @@
                 "hu": "Az ösvények jegesek lehetnek, figyeljen a biztos léptekre.",
                 "ro": "Potecile pot fi înghețate; atenție sporită la fiecare pas.",
                 "en": "The paths can be icy; make sure to maintain a steady footing.",
-                "hr": "Staze mogu biti zaleđene; osigurajte stabilan korak."
+                "hr": "Staze mogu biti zaleđene; pazite na stabilan korak."
               }
             },
             {
@@ -615,7 +626,7 @@
                 "hu": "Látogasson el ide 16:00 előtt, hogy még lásson a természetes fénynél.",
                 "ro": "Vizitați acest loc înainte de ora 16:00 pentru a profita de lumina zilei.",
                 "en": "Visit this spot before 4:00 PM to make the most of the daylight.",
-                "hr": "Posjetite ovo mjesto prije 16:00 kako biste najbolje iskoristili dnevno svjetlo."
+                "hr": "Posjetite ovo mjesto prije 16:00 da iskoristite dnevno svjetlo."
               }
             },
             {
@@ -679,11 +690,11 @@
               "The mountain paths to the fortress are not always cleared in winter."
             ],
             "hr": [
-              "Odjenite se slojevito jer su muzeji dobro zagrijani.",
-              "Zimi sunce zalazi već oko 16:15.",
-              "Pazite na poledicu na kaldrmi u starom gradu.",
-              "Tijekom Adventa često možete pronaći štandove s kuhanim vinom.",
-              "Planinske staze do utvrde zimi nisu uvijek očišćene."
+              "Obucite se u slojevima jer su muzeji dobro grijani.",
+              "Sunce zalazi već oko 16:15 zimi.",
+              "Pazite na crni led na kaldrmisanim pločnicima starog grada.",
+              "Tijekom Adventa često ima štandova s kuhanim vinom.",
+              "Planinske staze do utvrde nisu uvijek očišćene zimi."
             ]
           }
         }
@@ -713,7 +724,7 @@
             "hu": "Biciklitároló a főbejáratnál.",
             "ro": "Suport biciclete la intrarea principală.",
             "en": "Bike racks at the main entrance.",
-            "hr": "Stalak za bicikle kod glavnog ulaza."
+            "hr": "Stalak za bicikle na glavnom ulazu."
           }
         },
         {
@@ -732,7 +743,7 @@
             "hu": "Rövid emelkedő a váráig.",
             "ro": "Scurt efort la urcare.",
             "en": "Short uphill effort.",
-            "hr": "Kratak napor uzbrdo."
+            "hr": "Mali uspon uzbrdo."
           }
         },
         {
@@ -770,7 +781,7 @@
             "hu": "A horvát reformátor élete.",
             "ro": "Viața reformatorului croat.",
             "en": "Life of the Croatian reformer.",
-            "hr": "Život hrvatskog preporoditelja."
+            "hr": "Život hrvatskog reformatora."
           }
         },
         {
@@ -789,7 +800,7 @@
             "hu": "Rövid pihenő.",
             "ro": "Scurtă pauză de respirație.",
             "en": "Quick breather.",
-            "hr": "Kratak predah."
+            "hr": "Kratki predah."
           }
         },
         {
@@ -808,7 +819,7 @@
             "hu": "Gyors és finom ételek.",
             "ro": "Mâncare rapidă și gustoasă.",
             "en": "Quick and tasty food.",
-            "hr": "Brza i ukusna hrana."
+            "hr": "Brzo i ukusno jelo."
           }
         }
       ],
@@ -817,7 +828,7 @@
         "hu": "Fedezze fel Krapinát két keréken. Kezdjen az őskori múzeumnál, majd tekerjen át a történelmi óvároson. Látogassa meg a ferences kolostort és a Gaj-házat. A túra a modern tudomány és a barokk hagyomány keverékét kínálja.",
         "ro": "Explorați Krapina pe două roți. Începeți la muzeul preistoric, apoi pedalați prin centrul istoric. Vizitați mănăstirea franciscană și casa Gaj. Turul oferă un mix între știința modernă și tradiția barocă.",
         "en": "Explore Krapina on two wheels. Start at the prehistoric museum and then cycle through the historic old town. Visit the Franciscan monastery and the Gaj house. The tour offers a mix of modern science and baroque tradition.",
-        "hr": "Istražite Krapinu na dva kotača. Započnite kod prapovijesnog muzeja, a zatim pedalirajte kroz povijesnu staru jezgru. Posjetite franjevački samostan i rodnu kuću Ljudevita Gaja. Tura nudi spoj moderne znanosti i barokne tradicije."
+        "hr": "Istražite Krapinu na dva kotača. Počnite u Pračovjekovskom muzeju, a zatim vozite kroz povijesnu staru gradsku jezgru. Posjetite franjevački samostan i Gajevu kuću. Tura nudi spoj moderne znanosti i barokne tradicije."
       },
       "gastro_picks": {
         "de": [
@@ -938,7 +949,7 @@
           "Be careful when turning in narrow alleys."
         ],
         "hr": [
-          "Teren je ravan u starom gradu.",
+          "Terén je ravan u starom gradu.",
           "Budite oprezni pri skretanju u uskim uličicama."
         ]
       },
@@ -948,7 +959,8 @@
             "de": "Erkunden Sie Krapina auf zwei Rädern. Starten Sie beim prähistorischen Museum und fahren Sie dann durch die historische Altstadt. Besuchen Sie das Franziskanerkloster und das Gaj-Haus. Die tour bietet eine Mischung aus moderner Wissenschaft und barocker tradition.",
             "hu": "Fedezze fel Krapinát két keréken. Kezdjen az őskori múzeumnál, majd tekerjen át a történelmi óvároson. Látogassa meg a ferences kolostort és a Gaj-házat. A túra a modern tudomány és a barokk hagyomány keverékét kínálja.",
             "ro": "Explorați Krapina pe două roți. Începeți la muzeul preistoric, apoi pedalați prin centrul istoric. Vizitați mănăstirea franciscană și casa Gaj. Turul oferă un mix între știința modernă și tradiția barocă.",
-            "en": "Explore Krapina on two wheels. Start at the prehistoric museum and then cycle through the historic old town. Visit the Franciscan monastery and the Gaj house. The tour offers a mix of modern science and baroque tradition."
+            "en": "Explore Krapina on two wheels. Start at the prehistoric museum and then cycle through the historic old town. Visit the Franciscan monastery and the Gaj house. The tour offers a mix of modern science and baroque tradition.",
+            "hr": "Istražite Krapinu na dva kotača. Počnite u Pračovjekovskom muzeju, a zatim vozite kroz povijesnu staru gradsku jezgru. Posjetite franjevački samostan i Gajevu kuću. Tura nudi spoj moderne znanosti i barokne tradicije."
           },
           "stops": [
             {
@@ -957,7 +969,8 @@
                 "de": "Fahrradständer am Haupteingang.",
                 "hu": "Biciklitároló a főbejáratnál.",
                 "ro": "Suport biciclete la intrarea principală.",
-                "en": "Bike racks at the main entrance."
+                "en": "Bike racks at the main entrance.",
+                "hr": "Stalak za bicikle kod glavnog ulaza."
               }
             },
             {
@@ -966,7 +979,8 @@
                 "de": "Kurze Anstrengung bergauf.",
                 "hu": "Rövid emelkedő a váráig.",
                 "ro": "Scurt efort la urcare.",
-                "en": "Short uphill effort."
+                "en": "Short uphill effort.",
+                "hr": "Kratko uzbrdno naprezanje."
               }
             },
             {
@@ -975,7 +989,8 @@
                 "de": "Prachtvolle Klosterbibliothek.",
                 "hu": "Pompás kolostori könyvtár.",
                 "ro": "Biblioteca mănăstirii este superbă.",
-                "en": "Magnificent monastery library."
+                "en": "Magnificent monastery library.",
+                "hr": "Veličanstvena samostanska knjižnica."
               }
             },
             {
@@ -984,7 +999,8 @@
                 "de": "Leben des kroatischen Reformers.",
                 "hu": "A horvát reformátor élete.",
                 "ro": "Viața reformatorului croat.",
-                "en": "Life of the Croatian reformer."
+                "en": "Life of the Croatian reformer.",
+                "hr": "Život hrvatskog preporoditelja."
               }
             },
             {
@@ -993,7 +1009,8 @@
                 "de": "Kurzes Durchatmen.",
                 "hu": "Rövid pihenő.",
                 "ro": "Scurtă pauză de respirație.",
-                "en": "Quick breather."
+                "en": "Quick breather.",
+                "hr": "Kratki predah."
               }
             },
             {
@@ -1002,7 +1019,8 @@
                 "de": "Schnelles und leckeres Essen.",
                 "hu": "Gyors és finom ételek.",
                 "ro": "Mâncare rapidă și gustoasă.",
-                "en": "Quick and tasty food."
+                "en": "Quick and tasty food.",
+                "hr": "Brzo i ukusno jelo."
               }
             }
           ],
@@ -1104,6 +1122,10 @@
             "en": [
               "The terrain is flat in the old town.",
               "Be careful when turning in narrow alleys."
+            ],
+            "hr": [
+              "Terén je ravan u starom gradu.",
+              "Budite oprezni pri skretanju u uskim uličicama."
             ]
           }
         },
@@ -1113,7 +1135,7 @@
             "hu": "Egy esős bringázáshoz jó felkészülés kell. A múzeumnál kezdünk, ahol biztonságos fedett tárolók várják a kerékpárokat.\n\nA várhoz vezető út aszfaltozott, de vizesen csúszós lehet. Óvatosan ereszkedjen le a lejtőkön.\n\nDélután a ferences kolostort és Ljudevit Gaj szülőházát érintjük. A rövid megállók segítenek mozgásban maradni.\n\nA nap egy pizzériában zárul. Egy forró étel a jutalom az esőálló krapinai tekerésért.",
             "ro": "O plimbare cu bicicleta pe ploaie necesită pregătire. Începem la muzeu, unde există locuri sigure și acoperite pentru biciclete.\n\nDrumul spre cetate este asfaltat, dar poate fi alunecos când este ud. Coborâți pantele cu prudență.\n\nDupă-amiaza vizităm mănăstirea franciscană și casa natală a lui Ljudevit Gaj. Opririle scurte ne mențin în mișcare.\n\nZiua se încheie la o pizzerie. O masă caldă este recompensa pentru tura rezistentă la intemperii prin Krapina.",
             "en": "A bike ride in the rain requires good preparation. We start at the museum, where there are safe covered spots for bikes.\n\nThe ride to the fortress follows paved roads that can be slippery when wet. Exercise caution on descents.\n\nIn the afternoon, we visit the Franciscan monastery and Ljudevit Gaj's birthplace. Short stops keep us moving.\n\nThe day ends at a pizzeria. A hot meal is the reward for a weather-proof ride through Krapina.",
-            "hr": "Vožnja biciklom po kiši zahtijeva dobru pripremu. Krećemo od muzeja, gdje postoje sigurna natkrivena mjesta za bicikle.\n\nVožnja do utvrde prati asfaltirane ceste koje mogu biti skliske kad su mokre. Budite oprezni na spustovima.\n\nPoslijepodne posjećujemo franjevački samostan i rodnu kuću Ljudevita Gaja. Kratka zaustavljanja nas održavaju u pokretu.\n\nDan završava u pizzeriji. Topli obrok je nagrada za vožnju kroz Krapinu otpornu na vremenske uvjete."
+            "hr": "Vožnja biciklom po kiši zahtijeva dobru pripremu. Počinjemo u muzeju, gdje postoje sigurna natkrivena mjesta za bicikle.\n\nVožnja do utvrde vodi asfaltiranim cestama koje mogu biti skliske kad su mokre. Budite oprezni na spustovima.\n\nPoslijepodne posjećujemo franjevački samostan i rodnu kuću Ljudevita Gaja. Kratka zaustavljanja održavaju nas u pokretu.\n\nDan završava u pizzeriji. Topli obrok je nagrada za vremenski otporan izlet kroz Krapinu."
           },
           "stops": [
             {
@@ -1123,7 +1145,7 @@
                 "hu": "Használja a fedett bejárati részt a biciklik leállításához.",
                 "ro": "Folosiți zona de intrare acoperită pentru a parca bicicletele.",
                 "en": "Use the covered entrance area to park your bikes.",
-                "hr": "Koristite natkriveni ulazni prostor za parkiranje bicikala."
+                "hr": "Iskoristite natkriveni ulaz za parkiranje bicikala."
               }
             },
             {
@@ -1133,7 +1155,7 @@
                 "hu": "Vigyázat a felfelé úton; a vizes levelek csúszóssá tehetik az utat.",
                 "ro": "Atenție la urcare; frunzele ude pot face drumul alunecos.",
                 "en": "Watch out on the climb; wet leaves can make the road slippery.",
-                "hr": "Pripazite na usponu; mokro lišće može cestu učiniti skliskom."
+                "hr": "Pazite na uspon; mokri listovi mogu učiniti cestu klizavom."
               }
             },
             {
@@ -1143,7 +1165,7 @@
                 "hu": "Parkoljon a fal közelében, hogy némi védelmet kapjon az esőtől.",
                 "ro": "Parcați bicicleta aproape de zid pentru protecție împotriva ploii.",
                 "en": "Park your bike close to the wall for some rain protection.",
-                "hr": "Parkirajte bicikl uz zid radi zaštite od kiše."
+                "hr": "Parkirajte bicikl blizu zida radi zaštite od kiše."
               }
             },
             {
@@ -1153,7 +1175,7 @@
                 "hu": "Rövid beltéri megálló, ideális egy kis száradáshoz.",
                 "ro": "O scurtă oprire la interior, ideală pentru a vă usca puțin.",
                 "en": "A short indoor stop, ideal for drying off a bit.",
-                "hr": "Kratko zaustavljanje u zatvorenom, idealno za malo sušenja."
+                "hr": "Kratka unutarnja pauza, idealna za malo sušenja."
               }
             },
             {
@@ -1163,7 +1185,7 @@
                 "hu": "Maradjon az aszfaltozott utakon, hogy elkerülje a sarat.",
                 "ro": "Mergeți pe aleile asfaltate pentru a evita noroiul.",
                 "en": "Stay on the paved paths to avoid mud.",
-                "hr": "Ostanite na asfaltiranim stazama kako biste izbjegli blato."
+                "hr": "Ostanite na asfaltiranim putevima kako biste izbjegli blato."
               }
             },
             {
@@ -1173,7 +1195,7 @@
                 "hu": "Kérjen helyet a fűtőtest közelében.",
                 "ro": "Cereți un loc aproape de calorifer.",
                 "en": "Ask for a seat near the heater.",
-                "hr": "Tražite mjesto blizu grijača."
+                "hr": "Zatražite mjesto blizu grijača."
               }
             }
           ],
@@ -1207,11 +1229,11 @@
               "A helmet with a visor helps maintain visibility in the rain."
             ],
             "hr": [
-              "Nosite vodonepropusnu jaknu i hlače.",
-              "Provjerite kočnice; put kočenja se produljuje na mokrim cestama.",
-              "Izbjegavajte lokve jer mogu skrivati duboke rupe.",
+              "Nosite jaknu protiv kiše koja pokriva cijelo tijelo i vodootporne hlače.",
+              "Provjerite kočnice; zaustavni put se povećava na mokrim cestama.",
+              "Izbjegavajte bare jer mogu skrivati duboke rupe.",
               "Koristite blatobrane kako biste se zaštitili od prskanja.",
-              "Kaciga s vizirom pomaže u održavanju vidljivosti na kiši."
+              "Kaciga s vizirom pomaže održati vidljivost po kiši."
             ]
           }
         },
@@ -1221,7 +1243,7 @@
             "hu": "A téli bringázás Krapinában frissítő élmény. Jól felöltözve indulunk a múzeumnál, ahol az első órát melegben töltjük.\n\nA várba vezető út rövid, de intenzív. A hűvös levegő élénkítő, miközben felküzdjük magunkat a dombra.\n\nDélután az ünnepi díszbe öltözött városon tekerünk át. A ferences kolostor télen különösen áhítatos hangulatú.\n\nVégül a pizzériában melegszünk fel. A hidegben való mozgás és a forró étel kombinációja tökéletes zárás.",
             "ro": "Ciclismul de iarnă în Krapina este revigorant. Începem bine înfofoliți la muzeu, unde petrecem prima oră la căldură.\n\nDrumul spre cetate este scurt, dar intens. Aerul rece este revigorant în timp ce urcăm dealul.\n\nDupă-amiaza pedalăm prin orașul decorat festiv. Mănăstirea franciscană are o atmosferă deosebită iarna.\n\nLa final ne încălzim în pizzerie. Combinația de mișcare în frig și mâncare caldă este perfectă.",
             "en": "Winter cycling in Krapina is refreshing. Wrapped up warm, we start at the museum, spending the first hour in the heat.\n\nThe ride to the fortress is short but intense. The crisp air is invigorating as we climb the hill.\n\nIn the afternoon, we cycle through the festively decorated town. The Franciscan monastery feels especially peaceful in winter.\n\nFinally, we warm up at the pizzeria. The combination of exercise in the cold and hot food is perfect.",
-            "hr": "Zimska vožnja biciklom u Krapini je osvježavajuća. Dobro utopljeni krećemo od muzeja, provodeći prvi sat na toplom.\n\nVožnja do utvrde je kratka, ali intenzivna. Oštar zrak okrepljuje dok se penjemo na brdo.\n\nPoslijepodne pedaliramo kroz svečano ukrašen grad. Franjevački samostan zimi djeluje posebno mirno.\n\nNa kraju se grijemo u pizzeriji. Kombinacija tjelovježbe na hladnoći i tople hrane je savršena."
+            "hr": "Zimsko bicikliranje u Krapini je osvježavajuće. Dobro umotani, počinjemo u muzeju, gdje prvih sat vremena provodimo u toplini.\n\nVožnja do utvrde je kratka ali intenzivna. Hladan zrak razgoni dok penjemo brdo.\n\nPoslijepodne vozimo kroz svečano ukrašen grad. Franjevački samostan posebno djeluje mirno zimi.\n\nNa kraju se grijemo u pizzeriji. Kombinacija vježbe na hladnoći i vruće hrane je savršena."
           },
           "stops": [
             {
@@ -1231,7 +1253,7 @@
                 "hu": "Használja a ruhatárat, hogy rövid időre levehesse a nehéz téli ruhát.",
                 "ro": "Folosiți garderoba pentru a lăsa hainele groase de iarnă pe durata vizitei.",
                 "en": "Use the cloakroom to briefly set aside heavy winter clothing.",
-                "hr": "Koristite garderobu kako biste nakratko odložili tešku zimsku odjeću."
+                "hr": "Iskoristite garderobu da nakratko odložite težu zimsku odjeću."
               }
             },
             {
@@ -1241,7 +1263,7 @@
                 "hu": "Vigyázzon a lefagyott pára miatt a várba vezető rámpákon.",
                 "ro": "Atenție la bruma înghețată pe rampele spre cetate.",
                 "en": "Beware of frozen dew on the ramps leading to the fortress.",
-                "hr": "Pripazite na smrznutu rosu na rampama koje vode do utvrde."
+                "hr": "Pazite na zaleđenu rosu na rampama koje vode do utvrde."
               }
             },
             {
@@ -1251,7 +1273,7 @@
                 "hu": "A kolostor vastag falai jól kint tartják a hideget.",
                 "ro": "Zidurile groase ale mănăstirii țin bine frigul la distanță.",
                 "en": "The thick monastery walls keep the cold out well.",
-                "hr": "Debeli samostanski zidovi dobro štite od hladnoće."
+                "hr": "Debeli samostanski zidovi dobro drže hladnoću vani."
               }
             },
             {
@@ -1261,7 +1283,7 @@
                 "hu": "Egy meleg köztes megálló történelmi környezetben.",
                 "ro": "O oprire călduroasă într-un ambient istoric.",
                 "en": "A warm stopover in a historical setting.",
-                "hr": "Toplo stajalište u povijesnom okruženju."
+                "hr": "Topla stanica u povijesnom ambijentu."
               }
             },
             {
@@ -1281,7 +1303,7 @@
                 "hu": "Kényeztesse magát egy forró teával vagy kakaóval a felmelegedéshez.",
                 "ro": "Răsfățați-vă cu un ceai fierbinte sau o cacao pentru a vă încălzi.",
                 "en": "Treat yourself to a hot tea or cocoa to warm up.",
-                "hr": "Počastite se toplim čajem ili kakaom za zagrijavanje."
+                "hr": "Pripremite si vrući čaj ili kakao za ugrijavanje."
               }
             }
           ],
@@ -1316,10 +1338,10 @@
             ],
             "hr": [
               "Nosite tople rukavice i kapu ispod kacige.",
-              "Provjerite svjetla; zimi rano pada mrak.",
-              "Vozite defenzivno jer gume slabije drže na hladnom asfaltu.",
-              "Termosica s toplim napitkom je toplo preporučljiva.",
-              "Koristite ulje za lanac namijenjeno mokrim i hladnim uvjetima."
+              "Provjerite svjetla; zimi se brzo smrkava.",
+              "Vozite defenzivno jer gume imaju manje prianjanja na hladnom asfaltu.",
+              "Termos s vrućim napitkom je vrlo preporučljiv.",
+              "Koristite ulje za lanac namijenjeno vlačnim/hladnim uvjetima."
             ]
           }
         }
@@ -1349,7 +1371,7 @@
             "hu": "Használja a múzeumi parkolóházat.",
             "ro": "Folosiți parcarea de la muzeu.",
             "en": "Use the museum parking garage.",
-            "hr": "Koristite muzejsku garažu."
+            "hr": "Iskoristite garažu muzeja za parkiranje."
           }
         },
         {
@@ -1368,7 +1390,7 @@
             "hu": "Fontos búcsújáróhely a Trški Vrh-hegyen.",
             "ro": "Loc important de pelerinaj pe dealul Trški Vrh.",
             "en": "Important pilgrimage site on Trški Vrh hill.",
-            "hr": "Važno hodočasničko mjesto na brdu Trški Vrh."
+            "hr": "Važno marijansko svetište na brdu Trški Vrh."
           }
         },
         {
@@ -1387,7 +1409,7 @@
             "hu": "Parkoló a vár alatt.",
             "ro": "Parcare sub cetate.",
             "en": "Parking below the fortress.",
-            "hr": "Parking ispod utvrde."
+            "hr": "Parkiralište ispod utvrde."
           }
         },
         {
@@ -1425,7 +1447,7 @@
             "hu": "A legjobb hely a környékbeli ételekhez.",
             "ro": "Cel mai bun loc pentru mâncare regională.",
             "en": "Best place for regional food.",
-            "hr": "Najbolje mjesto za regionalnu hranu."
+            "hr": "Najbolje mjesto za domaću/regionalnu hranu."
           }
         }
       ],
@@ -1434,7 +1456,7 @@
         "hu": "Autóval kényelmesen elérheti a Trški Vrh-hegyen álló Jeruzsálemi Mária-kegyhelyet. Délelőtt a Neandervölgyi múzeumé a főszerep. Délután fedezze fel a várat és a városközpontot, mielőtt egy jót vacsorázna.",
         "ro": "Cu mașina puteți ajunge ușor la biserica de pelerinaj Maria din Ierusalim de pe dealul de deasupra orașului. Dimineața vizitați muzeul Neandertal. După-amiaza explorați cetatea și centrul orașului înainte de o masă relaxată.",
         "en": "By car, you can comfortably reach the pilgrimage church of Mary of Jerusalem on the hill above the city. In the morning, visit the Neanderthal Museum. In the afternoon, explore the fortress and the city center before having a nice dinner.",
-        "hr": "Automobilom možete udobno doći do hodočasničke crkve Majke Božje Jeruzalemske na brdu iznad grada. Ujutro posjetite Muzej krapinskih neandertalaca. Poslijepodne istražite utvrdu i centar grada prije ugodne večere."
+        "hr": "Autom možete udobno doći do marijanskog svetišta na brdu iznad grada. Ujutro posjetite Muzej neandertalaca. Poslijepodne istražite utvrdu i centar grada prije ugodne večere."
       },
       "gastro_picks": {
         "de": [
@@ -1555,8 +1577,8 @@
           "There are sufficient parking zones in the city center."
         ],
         "hr": [
-          "Vožnja do Trškog Vrha vrijedi zbog pogleda.",
-          "U centru grada ima dovoljno parkirnih zona."
+          "Voznja do Trškog Vrha isplati se zbog pogleda.",
+          "U središtu grada ima dovoljno zona za parkiranje."
         ]
       },
       "variants": {
@@ -1565,7 +1587,8 @@
             "de": "Mit dem Auto erreichen Sie bequem die Wallfahrtskirche Maria von Jerusalem auf dem Hügel über der Stadt. Morgens besuchen Sie das Neandertaler-Museum. Nachmittags erkunden Sie die Festung und das Stadtzentrum, bevor Sie gemütlich essen gehen.",
             "hu": "Autóval kényelmesen elérheti a Trški Vrh-hegyen álló Jeruzsálemi Mária-kegyhelyet. Délelőtt a Neandervölgyi múzeumé a főszerep. Délután fedezze fel a várat és a városközpontot, mielőtt egy jót vacsorázna.",
             "ro": "Cu mașina puteți ajunge ușor la biserica de pelerinaj Maria din Ierusalim de pe dealul de deasupra orașului. Dimineața vizitați muzeul Neandertal. După-amiaza explorați cetatea și centrul orașului înainte de o masă relaxată.",
-            "en": "By car, you can comfortably reach the pilgrimage church of Mary of Jerusalem on the hill above the city. In the morning, visit the Neanderthal Museum. In the afternoon, explore the fortress and the city center before having a nice dinner."
+            "en": "By car, you can comfortably reach the pilgrimage church of Mary of Jerusalem on the hill above the city. In the morning, visit the Neanderthal Museum. In the afternoon, explore the fortress and the city center before having a nice dinner.",
+            "hr": "Autom možete udobno doći do marijanskog svetišta na brdu iznad grada. Ujutro posjetite Muzej neandertalaca. Poslijepodne istražite utvrdu i centar grada prije ugodne večere."
           },
           "stops": [
             {
@@ -1574,7 +1597,8 @@
                 "de": "Parkhaus am Museum nutzen.",
                 "hu": "Használja a múzeumi parkolóházat.",
                 "ro": "Folosiți parcarea de la muzeu.",
-                "en": "Use the museum parking garage."
+                "en": "Use the museum parking garage.",
+                "hr": "Iskoristite garažu muzeja za parkiranje."
               }
             },
             {
@@ -1583,7 +1607,8 @@
                 "de": "Wichtiger Wallfahrtsort auf dem Berg Trški Vrh.",
                 "hu": "Fontos búcsújáróhely a Trški Vrh-hegyen.",
                 "ro": "Loc important de pelerinaj pe dealul Trški Vrh.",
-                "en": "Important pilgrimage site on Trški Vrh hill."
+                "en": "Important pilgrimage site on Trški Vrh hill.",
+                "hr": "Važno marijansko svetište na brdu Trški Vrh."
               }
             },
             {
@@ -1592,7 +1617,8 @@
                 "de": "Parkplatz unterhalb der Burg.",
                 "hu": "Parkoló a vár alatt.",
                 "ro": "Parcare sub cetate.",
-                "en": "Parking below the fortress."
+                "en": "Parking below the fortress.",
+                "hr": "Parkiralište ispod utvrde."
               }
             },
             {
@@ -1601,7 +1627,8 @@
                 "de": "Kurzer Spaziergang im Grünen.",
                 "hu": "Rövid séta a zöldben.",
                 "ro": "Scurtă plimbare prin verdeață.",
-                "en": "Short walk in the greenery."
+                "en": "Short walk in the greenery.",
+                "hr": "Kratka šetnja u zelenilu."
               }
             },
             {
@@ -1610,7 +1637,8 @@
                 "de": "Bester Platz für regionales Essen.",
                 "hu": "A legjobb hely a környékbeli ételekhez.",
                 "ro": "Cel mai bun loc pentru mâncare regională.",
-                "en": "Best place for regional food."
+                "en": "Best place for regional food.",
+                "hr": "Najbolje mjesto za domaću/regionalnu hranu."
               }
             }
           ],
@@ -1712,6 +1740,10 @@
             "en": [
               "The drive to Trški Vrh is worth it for the view.",
               "There are sufficient parking zones in the city center."
+            ],
+            "hr": [
+              "Voznja do Trškog Vrha isplati se zbog pogleda.",
+              "U središtu grada ima dovoljno zona za parkiranje."
             ]
           }
         },
@@ -1721,7 +1753,7 @@
             "hu": "Autóval kényelmesen fedezzük fel Krapinát. Közvetlenül a múzeumnál parkolunk, így szárazon jutunk be a bejáratig.\n\nDélben a Jeruzsálemi Mária zarándoktemplomhoz hajtunk. A dombos táj esőben is szép látványt nyújt az ablakból.\n\nDélután a várat keressük fel. Az autó tökéletes menedék a kulturális látnivalók között.\n\nA nap a központ egyik éttermében zárul. A közeli parkolók miatt csak rövid ideig kell az esőben gyalogolni.",
             "ro": "Cu mașina explorăm Krapina relaxat. Parcăm direct la muzeu și rămânem uscați până la intrare.\n\nLa prânz mergem la biserica Maria de la Ierusalim. Drumul prin peisajul deluros oferă priveliști frumoase chiar și pe ploaie.\n\nDupă-amiaza vizităm cetatea. Mașina este locul perfect de retragere între punctele culturale de interes.\n\nZiua se încheie într-un restaurant din centru. Parcări sunt disponibile în apropiere, deci drumul prin ploaie va fi scurt.",
             "en": "By car, we explore Krapina in a relaxed way. We park right at the museum and stay dry until the entrance.\n\nAt midday, we head to the pilgrimage church of Maria of Jerusalem. The drive through the hilly landscape offers beautiful views even in the rain.\n\nIn the afternoon, we visit the fortress. The car is the perfect sanctuary between the cultural highlights.\n\nThe day ends in a restaurant in the center. Parking is available nearby, so the walk through the rain is short.",
-            "hr": "Automobilom istražujemo Krapinu na opušten način. Parkiramo odmah kod muzeja i ostajemo suhi do samog ulaza.\n\nU podne krećemo prema hodočasničkoj crkvi Majke Božje Jeruzalemske. Vožnja kroz brežuljkasti krajolik nudi lijepe poglede čak i po kiši.\n\nPoslijepodne posjećujemo utvrdu. Automobil je savršeno utočište između kulturnih znamenitosti.\n\nDan završava u restoranu u centru. Parking je dostupan u blizini, pa je šetnja po kiši kratka."
+            "hr": "Autom istražujemo Krapinu opušteno. Parkiramo odmah kraj muzeja i ostajemo suhi dok ne uđemo.\n\nU podne idemo do Maria of Jerusalem svetišta. Vožnja kroz brdovit krajolik nudi lijepe poglede čak i po kiši.\n\nPoslijepodne posjećujemo utvrdu. Auto je savršeno utočište između kulturnih atrakcija.\n\nDan završava u restoranu u centru. Parkiranje je dostupno u blizini, pa je hod kroz kišu kratak."
           },
           "stops": [
             {
@@ -1731,7 +1763,7 @@
                 "hu": "Nagy parkoló áll rendelkezésre; ideális száraz kiindulópont.",
                 "ro": "Parcare mare disponibilă; punct de plecare ideal la adăpost.",
                 "en": "Large parking lot available; ideal starting point in the dry.",
-                "hr": "Dostupno veliko parkiralište; idealno polazište na suhom."
+                "hr": "Veliko parkiralište dostupno; idealna polazna točka suhi."
               }
             },
             {
@@ -1741,7 +1773,7 @@
                 "hu": "Parkoljon közvetlenül a lépcső alatt, hogy minimalizálja a gyaloglást.",
                 "ro": "Parcați direct sub scări pentru a minimiza mersul pe jos.",
                 "en": "Park directly below the stairs to minimize walking.",
-                "hr": "Parkirajte izravno ispod stuba kako biste skratili hodanje."
+                "hr": "Parkirajte izravno ispod stepenica kako biste smanjili hodanje."
               }
             },
             {
@@ -1751,7 +1783,7 @@
                 "hu": "A vár felé vezető út szűk lehet; vizes időben vezessen óvatosan.",
                 "ro": "Drumul spre cetate poate fi îngust; conduceți cu prudență pe ploaie.",
                 "en": "The road to the fortress can be narrow; drive carefully in the wet.",
-                "hr": "Cesta do utvrde može biti uska; vozite oprezno po mokrom."
+                "hr": "Cesta do utvrde može biti uska; vozite pažljivo po mokrom."
               }
             },
             {
@@ -1761,7 +1793,7 @@
                 "hu": "Közvetlenül a park menti út mellett vannak parkolóhelyek.",
                 "ro": "Există locuri de parcare chiar la marginea drumului de lângă parc.",
                 "en": "There are parking spaces directly along the road by the park.",
-                "hr": "Postoje parkirna mjesta izravno uz cestu pokraj parka."
+                "hr": "Ima parkirnih mjesta neposredno uz cestu kraj parka."
               }
             },
             {
@@ -1771,7 +1803,7 @@
                 "hu": "Használja a központi parkolóházakat, hogy száraz lábbal érkezzen meg.",
                 "ro": "Folosiți parcările supraetajate din centru pentru a ajunge uscați.",
                 "en": "Use the parking garages in the center to arrive with dry feet.",
-                "hr": "Koristite garaže u centru kako biste stigli suhih nogu."
+                "hr": "Iskoristite garaže u centru da stignete s suhim nogama."
               }
             }
           ],
@@ -1805,11 +1837,11 @@
               "Keep a towel in the car in case you get wet."
             ],
             "hr": [
-              "Održavajte stakla čistima pomoću klima uređaja kako se ne bi maglila.",
-              "Izbjegavajte parkiranje ispod velikih stabala tijekom jake kiše.",
-              "Ceste u zagorskoj regiji mogu biti skliske kad su mokre.",
-              "Koristite izvanmrežne karte jer signal u brdima može varirati.",
-              "Držite ručnik u autu u slučaju da pokisnete."
+              "Održavajte prozore bez magle koristeći klima-uređaj.",
+              "Izbjegavajte parkiranje ispod velikih stabala za vrijeme jake kiše.",
+              "Ceste u zagorskom kraju mogu biti skliske kad su mokre.",
+              "Koristite offline karte jer prijem može varirati u brdima.",
+              "Držite ručnik u autu u slučaju da se smočite."
             ]
           }
         },
@@ -1819,7 +1851,7 @@
             "hu": "A téli krapinai autózás a múzeumnál kezdődik. A meleg autóban ülve élvezzük a zúzmarás dombok látványát.\n\nDélben a Jeruzsálemi Mária templomhoz hajtunk. A dombtetőn álló havas templom klasszikus fotótéma.\n\nDélután a vár következik. A parkoló és a látnivalók közötti rövid távolság télen ideális.\n\nA nap meghitten zárul a városközpontban. Az étterem meleg hangulata a hűvös téli levegő után különösen hívogató.",
             "ro": "Drumul de iarnă prin Krapina începe la muzeu. Din mașina caldă admirăm dealurile înghețate.\n\nLa prânz mergem la biserica Maria de la Ierusalim. Biserica înzăpezită de pe deal este un subiect clasic pentru fotografii.\n\nDupă-amiaza mergem la cetate. Distanțele scurte de la parcare la obiective sunt ideale iarna.\n\nZiua se încheie confortabil în centrul orașului. Atmosfera caldă a restaurantului este primitoare după aerul rece de iarnă.",
             "en": "The winter drive through Krapina starts at the museum. In the warm car, we enjoy the view of the frosty hills.\n\nAt midday, we drive to the church of Maria of Jerusalem. The snow-covered church on the hill is a classic photo opportunity.\n\nIn the afternoon, we head to the fortress. The short walks from the parking lot to the sights are ideal in winter.\n\nThe day ends cozily in the city center. The warm atmosphere of the restaurant is especially inviting after the cool winter air.",
-            "hr": "Zimska vožnja kroz Krapinu počinje u muzeju. U toplom automobilu uživamo u pogledu na mrazovite brežuljke.\n\nU podne se vozimo do crkve Majke Božje Jeruzalemske. Snijegom prekrivena crkva na brdu klasičan je motiv za fotografiju.\n\nPoslijepodne idemo do utvrde. Kratke šetnje od parkirališta do znamenitosti idealne su zimi.\n\nDan završava ugodno u centru grada. Topla atmosfera restorana posebno je primamljiva nakon hladnog zimskog zraka."
+            "hr": "Zimska vožnja kroz Krapinu počinje kod muzeja. U toplom autu uživamo u pogledu na zaleđene brežuljke.\n\nU podne vozimo do svetišta Maria of Jerusalem. Sniježna crkva na brdu je klasičan motiv za fotografiju.\n\nPoslijepodne idemo do utvrde. Kratke šetnje od parkirališta do znamenitosti idealne su zimi.\n\nDan se ugodno završava u centru grada. Topla atmosfera restorana posebno mami nakon svježeg zimskog zraka."
           },
           "stops": [
             {
@@ -1829,7 +1861,7 @@
                 "hu": "A parkolót télen takarítják; problémamentes a bejutás.",
                 "ro": "Parcarea este curățată iarna; acces fără probleme.",
                 "en": "The parking lot is cleared in winter; trouble-free access.",
-                "hr": "Parkiralište je zimi očišćeno; pristup bez problema."
+                "hr": "Parkiralište se čisti zimi; bez problema s pristupom."
               }
             },
             {
@@ -1839,7 +1871,7 @@
                 "hu": "Vigyázzon a jegesedésre az autó és a templom közötti úton.",
                 "ro": "Atenție la polei pe drumul de la mașină la biserică.",
                 "en": "Watch out for black ice on the path from the car to the church.",
-                "hr": "Pripazite na poledicu na putu od automobila do crkve."
+                "hr": "Pazite na crni led na putu od auta do crkve."
               }
             },
             {
@@ -1849,7 +1881,7 @@
                 "hu": "Élvezze a téli völgy látványát a meleg autóból.",
                 "ro": "Admirați valea hivernală din confortul mașinii calde.",
                 "en": "Enjoy the view of the wintry valley from the warm car.",
-                "hr": "Uživajte u pogledu na zimsku dolinu iz toplog automobila."
+                "hr": "Uživajte u pogledu na zimsko zaleđe iz toplog auta."
               }
             },
             {
@@ -1859,7 +1891,7 @@
                 "hu": "Gyors megálló téli fotókhoz a havas parkban.",
                 "ro": "O oprire rapidă pentru fotografii de iarnă în parcul înzăpezit.",
                 "en": "A quick stop for winter photos in the snowy park.",
-                "hr": "Kratko stajanje za zimske fotografije u snježnom parku."
+                "hr": "Kratka stanica za zimske fotografije u snježnom parku."
               }
             },
             {
@@ -1869,7 +1901,7 @@
                 "hu": "Ideális hely a nap felidézésére egy forró étel mellett.",
                 "ro": "Locul ideal pentru a trece în revistă ziua la o masă caldă.",
                 "en": "Ideal place to review the day over a hot meal.",
-                "hr": "Idealno mjesto za rezime dana uz topli obrok."
+                "hr": "Idealno mjesto za pregled dana uz vrući obrok."
               }
             }
           ],
@@ -1903,11 +1935,11 @@
               "Avoid pulling the handbrake tightly overnight."
             ],
             "hr": [
-              "Zimske gume su u Hrvatskoj obavezne od 15. studenog.",
-              "Nosite lance za snijeg kada se vozite u brda.",
-              "Sredstvo protiv smrzavanja za stakla je neophodno.",
-              "Planirajte više vremena za traženje parkinga jer snijeg može blokirati mjesta.",
-              "Izbjegavajte čvrsto povlačenje ručne kočnice preko noći."
+              "Zimske gume su obvezne u Hrvatskoj od 15. studenoga.",
+              "Ponesite lance za snijeg pri vožnji u brdove.",
+              "Protifrizi za spremnik tekućine za brisače su obvezni.",
+              "Planirajte više vremena za pronalazak parkiranja jer snježni nasipe mogu blokirati mjesta.",
+              "Izbjegavajte jako zatezanje ručne kočnice preko noći."
             ]
           }
         }
@@ -1937,7 +1969,7 @@
             "hu": "A vasútállomástól kb. 15 perc séta.",
             "ro": "De la gară, aproximativ 15 minute de mers pe jos.",
             "en": "About 15 min walk from the train station.",
-            "hr": "Oko 15 min hoda od željezničkog kolodvora."
+            "hr": "Otprilike 15 min hoda od željezničkog kolodvora."
           }
         },
         {
@@ -2013,7 +2045,7 @@
             "hu": "Frissen csapolt helyi sör.",
             "ro": "Bere locală proaspătă.",
             "en": "Freshly tapped local beer.",
-            "hr": "Svježe točeno domaće pivo."
+            "hr": "Svježe natočeno lokalno pivo."
           }
         }
       ],
@@ -2022,7 +2054,7 @@
         "hu": "Krapina kiváló vonat- és buszösszeköttetéssel rendelkezik. A délelőtt az őstörténeté. Délben Ljudevit Gaj munkásságával és a barokk Szent Miklós-templommal ismerkedhet meg. A délutánt töltse a városi parkban a hazautazás előtt.",
         "ro": "Krapina are legături excelente de tren și autobuz. Dimineața este dedicată preistoriei. La prânz, explorați moștenirea lui Ljudevit Gaj și biserica barocă Sf. Nicolae. Bucurați-vă de după-amiază în parcul orașului înainte de plecare.",
         "en": "Krapina has excellent train and bus connections. The morning is dedicated to prehistory. At noon, explore the legacy of Ljudevit Gaj and the baroque St. Nicholas Church. Enjoy the afternoon in the city park before heading home.",
-        "hr": "Krapina ima izvrsne željezničke i autobusne veze. Jutro je posvećeno prapovijesti. U podne istražite ostavštinu Ljudevita Gaja i baroknu crkvu sv. Nikole. Uživajte u poslijepodnevu u gradskom parku prije povratka kući."
+        "hr": "Krapina ima izvrsne željezničke i autobusne veze. Jutro je posvećeno prapovijesti. U podne istražite baštinu Ljudevita Gaja i baroknu crkvu sv. Nikole. Poslijepodne uživajte u gradskom parku prije povratka kući."
       },
       "gastro_picks": {
         "de": [
@@ -2143,8 +2175,8 @@
           "The city is compact and easy to explore on foot."
         ],
         "hr": [
-          "Željeznički kolodvor nalazi se u centru i lako je dostupan.",
-          "Grad je kompaktan i lako se istražuje pješice."
+          "Željeznički kolodvor je centralno smješten i lako dostupan.",
+          "Grad je kompaktan i jednostavan za istraživanje pješice."
         ]
       },
       "variants": {
@@ -2153,7 +2185,8 @@
             "de": "Krapina ist hervorragend mit dem Zug oder Bus vernetzt. Der Vormittag steht im Zeichen der Urgeschichte. Mittags erkunden Sie die historische Figur Ljudevit Gaj und die barocke Nikolauskirche. Den Nachmittag genießen Sie im Stadtpark, bevor Sie die Heimreise antreten.",
             "hu": "Krapina kiváló vonat- és buszösszeköttetéssel rendelkezik. A délelőtt az őstörténeté. Délben Ljudevit Gaj munkásságával és a barokk Szent Miklós-templommal ismerkedhet meg. A délutánt töltse a városi parkban a hazautazás előtt.",
             "ro": "Krapina are legături excelente de tren și autobuz. Dimineața este dedicată preistoriei. La prânz, explorați moștenirea lui Ljudevit Gaj și biserica barocă Sf. Nicolae. Bucurați-vă de după-amiază în parcul orașului înainte de plecare.",
-            "en": "Krapina has excellent train and bus connections. The morning is dedicated to prehistory. At noon, explore the legacy of Ljudevit Gaj and the baroque St. Nicholas Church. Enjoy the afternoon in the city park before heading home."
+            "en": "Krapina has excellent train and bus connections. The morning is dedicated to prehistory. At noon, explore the legacy of Ljudevit Gaj and the baroque St. Nicholas Church. Enjoy the afternoon in the city park before heading home.",
+            "hr": "Krapina ima izvrsne željezničke i autobusne veze. Jutro je posvećeno prapovijesti. U podne istražite baštinu Ljudevita Gaja i baroknu crkvu sv. Nikole. Poslijepodne uživajte u gradskom parku prije povratka kući."
           },
           "stops": [
             {
@@ -2162,7 +2195,8 @@
                 "de": "Vom Bahnhof Krapina ca. 15 Min. Fußweg.",
                 "hu": "A vasútállomástól kb. 15 perc séta.",
                 "ro": "De la gară, aproximativ 15 minute de mers pe jos.",
-                "en": "About 15 min walk from the train station."
+                "en": "About 15 min walk from the train station.",
+                "hr": "Otprilike 15 minuta hoda od željezničkog kolodvora."
               }
             },
             {
@@ -2171,7 +2205,8 @@
                 "de": "Nahe dem Busbahnhof.",
                 "hu": "A buszállomás közelében.",
                 "ro": "Aproape de stația de autobuz.",
-                "en": "Near the bus station."
+                "en": "Near the bus station.",
+                "hr": "Blizu autobusnog kolodvora."
               }
             },
             {
@@ -2180,7 +2215,8 @@
                 "de": "In der Fußgängerzone.",
                 "hu": "A sétálóutcában található.",
                 "ro": "În zona pietonală.",
-                "en": "Located in the pedestrian zone."
+                "en": "Located in the pedestrian zone.",
+                "hr": "Smešteno u pješačkoj zoni."
               }
             },
             {
@@ -2189,7 +2225,8 @@
                 "de": "Ideal zum Verweilen.",
                 "hu": "Ideális pihenésre.",
                 "ro": "Ideal pentru odihnă.",
-                "en": "Ideal for relaxing."
+                "en": "Ideal for relaxing.",
+                "hr": "Idealno za opuštanje."
               }
             },
             {
@@ -2198,7 +2235,8 @@
                 "de": "Frisch gezapftes lokales Bier.",
                 "hu": "Frissen csapolt helyi sör.",
                 "ro": "Bere locală proaspătă.",
-                "en": "Freshly tapped local beer."
+                "en": "Freshly tapped local beer.",
+                "hr": "Svježe natočeno domaće pivo."
               }
             }
           ],
@@ -2300,6 +2338,10 @@
             "en": [
               "The train station is centrally located and easy to reach.",
               "The city is compact and easy to explore on foot."
+            ],
+            "hr": [
+              "Željeznički kolodvor je smješten u centru i lako dostupan.",
+              "Grad je kompaktan i lako se istražuje pješice."
             ]
           }
         },
@@ -2309,7 +2351,7 @@
             "hu": "Busszal szárazon és kényelmesen fedezzük fel Krapinát. A múzeumnál kezdünk, amely jól kapcsolódik a helyi közlekedéshez.\n\nDélben a központi Szent Miklós-templomhoz utazunk. A várakozási időt fedett buszmegállókban töltjük.\n\nDélután a parkot és Ljudevit Gaj szülőházát érintjük. A megállók közötti rövid távolságok miatt alig ér minket az eső.\n\nAz este a központban zárul. A visszajutás a szállásra vagy az állomásra busszal esőben is egyszerű.",
             "ro": "Explorăm Krapina cu autobuzul, uscat și confortabil. Începem la muzeu, care este bine conectat la rețeaua de transport.\n\nLa prânz mergem la biserica Sf. Nicolae din centru. Timpul de așteptare în stații îl petrecem sub adăposturi.\n\nDupă-amiaza vizităm parcul și casa natală a lui Ljudevit Gaj. Distanțele scurte între stații ne mențin uscați.\n\nSeara se încheie la un local din centru. Drumul de întoarcere spre hotel sau gară cu autobuzul este simplu chiar și pe ploaie.",
             "en": "We explore Krapina by bus, dry and comfortable. We start at the museum, which is well-connected to the transit network.\n\nAt midday, we travel to St. Nicholas Church in the center. We spend waiting times at stops under protective shelters.\n\nIn the afternoon, we visit the park and Ljudevit Gaj's birthplace. The short distances between stops keep us dry.\n\nThe evening ends at a local spot in the center. Getting back to the hotel or station by bus is straightforward even in the rain.",
-            "hr": "Krapinu istražujemo autobusom, suho i udobno. Krećemo od muzeja, koji je dobro povezan s mrežom javnog prijevoza.\n\nU podne putujemo do crkve sv. Nikole u centru. Vrijeme čekanja na stanicama provodimo pod nadstrešnicama.\n\nPoslijepodne posjećujemo park i rodnu kuću Ljudevita Gaja. Kratke udaljenosti između stanica nas održavaju suhima.\n\nVečer završava u lokalnom restoranu u centru. Povratak do hotela ili kolodvora autobusom je jednostavan čak i po kiši."
+            "hr": "Istražujemo Krapinu autobusom, suho i udobno. Krećemo od muzeja, koji je dobro povezan s prometnom mrežom.\n\nU podne putujemo do crkve sv. Nikole u centru. Vrijeme čekanja na stajalištima provodimo pod zaštitnim nadstrešnicama.\n\nPopodne posjećujemo park i rodnu kuću Ljudevita Gaja. Male udaljenosti između stajališta drže nas suhim.\n\nVečer završava u lokalnom mjestu u centru. Povratak do hotela ili kolodvora autobusom je jednostavan čak i po kiši."
           },
           "stops": [
             {
@@ -2319,7 +2361,7 @@
                 "hu": "A buszmegálló közvetlenül a múzeum bejáratának közelében található.",
                 "ro": "Stația de autobuz se află în imediata apropiere a intrării în muzeu.",
                 "en": "The bus stop is located in the immediate vicinity of the museum entrance.",
-                "hr": "Autobusna stanica nalazi se u neposrednoj blizini ulaza u muzej."
+                "hr": "Autobusno stajalište nalazi se u neposrednoj blizini ulaza muzeja."
               }
             },
             {
@@ -2329,7 +2371,7 @@
                 "hu": "Központi csomópont; számos buszjárat megáll itt.",
                 "ro": "Nod central de transport; multe linii de autobuz opresc aici.",
                 "en": "Central hub; many bus lines stop here.",
-                "hr": "Središnje čvorište; ovdje staju mnoge linije."
+                "hr": "Središnje čvorište; mnoge autobusne linije staju ovdje."
               }
             },
             {
@@ -2339,7 +2381,7 @@
                 "hu": "Használja a buszt, hogy elkerülje az óvárosi emelkedőket.",
                 "ro": "Folosiți autobuzul pentru a evita pantele din centrul vechi.",
                 "en": "Use the bus to avoid the uphill climbs in the old town.",
-                "hr": "Koristite autobus kako biste izbjegli uspone u starom gradu."
+                "hr": "Koristite autobus kako biste izbjegli uspon u starom gradu."
               }
             },
             {
@@ -2349,7 +2391,7 @@
                 "hu": "Várjon a buszmegálló teteje alatt, amíg alábbhagy az eső.",
                 "ro": "Așteptați sub copertina stației de autobuz până se potolește ploaia.",
                 "en": "Wait under the shelter of the bus stop until the rain eases off.",
-                "hr": "Pričekajte pod nadstrešnicom stanice dok kiša ne popusti."
+                "hr": "Pričekajte pod nadstrešnicom autobusnog stajališta dok kiša ne prođe."
               }
             },
             {
@@ -2359,7 +2401,7 @@
                 "hu": "A központi megállók este jól megvilágítottak.",
                 "ro": "Stațiile din centru sunt bine iluminate seara.",
                 "en": "The stops in the center are well-lit in the evening.",
-                "hr": "Stanice u centru su navečer dobro osvijetljene."
+                "hr": "Stajališta u centru dobro su osvijetljena u večernjim satima."
               }
             }
           ],
@@ -2393,11 +2435,11 @@
               "Wear shoes with good grip for the walk to the stop."
             ],
             "hr": [
-              "Preuzmite aplikaciju za javni prijevoz za informacije u stvarnom vremenu.",
-              "Imajte spreman sitni novac ili kartu kako biste izbjegli kašnjenja.",
-              "Autobusi su obično dobro zagrijani i pružaju utočište od vlage.",
-              "Provjerite učestalost voznog reda vikendom.",
-              "Nosite obuću koja dobro drži za hodanje do stanice."
+              "Preuzmite lokalnu aplikaciju za prijevoz za informacije u stvarnom vremenu.",
+              "Imajte sitniš ili kartu spremnu kako biste izbjegli kašnjenja.",
+              "Autobusi su općenito dobro grijani i pružaju zaklon od vlage.",
+              "Provjerite frekvenciju polazaka tijekom vikenda.",
+              "Nosite cipele s dobrim prianjanjem za hod do stajališta."
             ]
           }
         },
@@ -2407,7 +2449,7 @@
             "hu": "Egy téli nap Krapinában busszal igazán pihentető. A múzeumnál kezdünk, és élvezzük a jármű melegét.\n\nDélben a busz a Szent Miklós-templomhoz visz minket. Az ablakból nyíló kilátás a téli városra gyönyörű.\n\nDélután Ljudevit Gaj szülőházát és a parkot keressük fel. A buszokat használjuk, hogy lerövidítsük a szabadban töltött időt.\n\nA nap kellemesen zárul a központban. A meleg buszon való hazautazás tökéletes befejezés a friss téli levegőn töltött nap után.",
             "ro": "O zi de iarnă în Krapina cu autobuzul este relaxantă. Începem la muzeu și ne bucurăm de căldura din vehicul.\n\nLa prânz autobuzul ne duce la biserica Sf. Nicolae. Vederea pe geam asupra orașului hivernal este superbă.\n\nDupă-amiaza vizităm casa natală a lui Ljudevit Gaj și parcul. Folosim autobuzele pentru a limita timpul petrecut afară.\n\nZiua se încheie confortabil în centru. Întoarcerea cu autobuzul cald este finalul perfect după o zi în aerul curat de iarnă.",
             "en": "A winter day in Krapina by bus is relaxed. We start at the museum and enjoy the warmth inside the vehicle.\n\nAt midday, the bus takes us to St. Nicholas Church. The view from the window of the wintry town is wonderful.\n\nIn the afternoon, we visit Ljudevit Gaj's birthplace and the park. We use the buses to keep the time spent outdoors short.\n\nThe day ends cozily in the center. The ride back in a warm bus is the perfect conclusion after a day in the crisp winter air.",
-            "hr": "Zimski dan u Krapini autobusom je opušten. Krećemo od muzeja i uživamo u toplini unutar vozila.\n\nU podne nas autobus vozi do crkve sv. Nikole. Pogled s prozora na zimski grad je prekrasan.\n\nPoslijepodne posjećujemo rodnu kuću Ljudevita Gaja i park. Koristimo autobuse kako bismo vrijeme provedeno vani sveli na minimum.\n\nDan završava ugodno u centru. Povratak u toplom autobusu savršen je završetak nakon dana na oštrom zimskom zraku."
+            "hr": "Zimski dan u Krapini autobusom je opušten. Krećemo iz muzeja i uživamo u toplini unutar vozila.\n\nU podne autobus nas vodi do crkve sv. Nikole. Pogled kroz prozor na zimski grad je prekrasan.\n\nPopodne posjećujemo rodnu kuću Ljudevita Gaja i park. Koristimo autobuse kako bismo skratili vrijeme provedeno na otvorenom.\n\nDan završava ugodno u centru. Povratak u toplom autobusu savršen je zaključak dana provedenog u svježem zimskom zraku."
           },
           "stops": [
             {
@@ -2427,7 +2469,7 @@
                 "hu": "Használja a fűtött buszokat a felsővárosba való visszajutáshoz.",
                 "ro": "Folosiți autobuzele încălzite pentru drumul de întoarcere în orașul de sus.",
                 "en": "Use the heated buses for the journey back to the upper town.",
-                "hr": "Koristite zagrijane autobuse za povratak u gornji grad."
+                "hr": "Iskoristite grijane autobuse za povratak u gornji grad."
               }
             },
             {
@@ -2437,7 +2479,7 @@
                 "hu": "A buszmegálló mindössze néhány lépésre található a bejárattól.",
                 "ro": "Stația de autobuz se află la doar câțiva pași de intrare.",
                 "en": "The bus stop is just a few steps away from the entrance.",
-                "hr": "Autobusna stanica je udaljena samo nekoliko koraka od ulaza."
+                "hr": "Autobusno stajalište je samo nekoliko koraka od ulaza."
               }
             },
             {
@@ -2447,7 +2489,7 @@
                 "hu": "Rövid séta, majd gyors visszatérés a meleg buszba.",
                 "ro": "Scurtă plimbare și retragere rapidă în autobuzul călduros.",
                 "en": "Short walk and a quick retreat into the warm bus.",
-                "hr": "Kratka šetnja i brz povratak u topli autobus."
+                "hr": "Kratka šetnja i brz povratak u topao autobus."
               }
             },
             {
@@ -2457,7 +2499,7 @@
                 "hu": "Egy forró kávé a megállóban megédesíti a várakozást.",
                 "ro": "O cafea fierbinte în stație îndulcește timpul de așteptare.",
                 "en": "A hot coffee at the stop sweetens the wait.",
-                "hr": "Topla kava na stanici zaslađuje čekanje."
+                "hr": "Vruća kava na stajalištu uljepša čekanje."
               }
             }
           ],
@@ -2491,11 +2533,11 @@
               "Check if there are winter fares or special tickets available."
             ],
             "hr": [
-              "Autobusi mogu kasniti tijekom jakih snježnih padalina.",
-              "Vozni redovi su istaknuti na glavnim stanicama.",
+              "Autobusi mogu kasniti tijekom obilnog snijega.",
+              "Red vožnje istaknut je na glavnim stajalištima.",
               "Sjedala u sredini autobusa obično su najtoplija.",
-              "Nosite reflektirajuću odjeću kada navečer hodate do stanice.",
-              "Provjerite postoje li zimski popusti ili posebne karte."
+              "Nosite reflektirajuću odjeću kad hodate do stajališta uvečer.",
+              "Provjerite postoje li zimske tarife ili posebne karte."
             ]
           }
         }
@@ -2517,19 +2559,22 @@
       "de": "Dobar dan = Guten Tag, Hvala = Danke. Englisch in Museen verbreitet, Deutsch eher selten.",
       "hu": "Dobar dan = Jó napot, Hvala = Köszönöm. A múzeumban beszélnek angolul, magyarul ritkán.",
       "ro": "Dobar dan = Bună ziua, Hvala = Mulțumesc. Engleza funcționează la muzeu, româna rar.",
-      "en": "Dobar dan = hello, Hvala = thank you. Museum staff speak English; German sometimes."
+      "en": "Dobar dan = hello, Hvala = thank you. Museum staff speak English; German sometimes.",
+      "hr": "Dobar dan = hello, Hvala = thank you. Osoblje muzeja govori engleski; ponekad i njemački."
     },
     "best_time_to_visit": {
       "de": "Mai bis September; Werktags vormittags am ruhigsten im Neandertaler-Museum.",
       "hu": "Május-szeptember a legjobb; hétköznap délelőtt csendes a neandervölgyi múzeum.",
       "ro": "Mai-septembrie ideal; dimineața în zile lucrătoare e liniște la muzeu.",
-      "en": "May to September; weekday mornings quietest at the Neanderthal Museum."
+      "en": "May to September; weekday mornings quietest at the Neanderthal Museum.",
+      "hr": "Od svibnja do rujna; radni dani ujutro najmirniji kod Muzeja neandertalaca."
     },
     "neighborhood_warnings": {
       "de": "Kleinstadt, sehr sicher. Parkplatz am Museum begrenzt an Wochenenden.",
       "hu": "Kisváros, biztonságos. A múzeum parkolója hétvégén megtelhet.",
       "ro": "Orășel sigur. Parcarea muzeului se umple în weekend.",
-      "en": "Small, safe town. Museum parking can fill on weekends."
+      "en": "Small, safe town. Museum parking can fill on weekends.",
+      "hr": "Mali, sigurni grad. Parkiralište muzeja može se popuniti vikendom."
     }
   }
 }

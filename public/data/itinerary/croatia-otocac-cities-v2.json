@@ -21,7 +21,8 @@
             "de": "Gacka-Park der kroatischen Erinnerung",
             "hu": "Gačanski Horvát Emlékpark",
             "ro": "Parcul Memoriei Croate Gačanski",
-            "en": "Gačanski Park of Croatian Memory"
+            "en": "Gačanski Park of Croatian Memory",
+            "hr": "Gačanski park hrvatske memorije"
           },
           "coords": [
             15.236997,
@@ -36,7 +37,8 @@
             "de": "Nehmen Sie sich Zeit, die beeindruckenden Steinskulpturen des lokalen Erbes zu bewundern, bevor Sie auf den ruhigen Holzbänken unter den Bäumen eine kleine Pause einlegen.",
             "hu": "Szánjon időt a gazdag helyi örökséget őrző lenyűgöző kőszobrok megcsodálására, mielőtt egy békés pillanat erejéig megpihenne a fák alatti csendes fapadokon.",
             "ro": "Acordați-vă timp pentru a admira sculpturile impresionante din piatră ce onorează patrimoniul local înainte de a vă odihni pe băncile de lemn liniștite de sub copaci.",
-            "en": "Take time to admire the impressive stone sculptures honoring rich local heritage before enjoying a peaceful moment to rest on the quiet wooden benches under the trees."
+            "en": "Take time to admire the impressive stone sculptures honoring rich local heritage before enjoying a peaceful moment to rest on the quiet wooden benches under the trees.",
+            "hr": "Odvojite vrijeme da se divite impresivnim kamenim skulpturama koje odaju počast bogatoj lokalnoj baštini, a zatim se u miru odmorite na tihim drvenim klupama pod stablima."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Festung Fortica",
             "hu": "Fortica Erőd",
             "ro": "Cetatea Fortica",
-            "en": "Fortica Fortress"
+            "en": "Fortica Fortress",
+            "hr": "Tvrđava Fortica"
           },
           "coords": [
             15.233907,
@@ -59,7 +62,8 @@
             "de": "Erkunden Sie die alten Ruinen dieser historischen Festung für einen Panoramablick auf Otočac und tragen Sie unbedingt festes Schuhwerk für den leicht unebenen, felsigen Weg.",
             "hu": "Fedezze fel az ősi történelmi erőd romjait Otočac panorámájáért, és ne felejtsen el masszív cipőt viselni a dombra vezető, kissé egyenetlen és sziklás ösvény miatt.",
             "ro": "Explorați ruinele antice ale acestei fortărețe istorice pentru priveliști panoramice asupra orașului Otočac și purtați încălțăminte robustă pentru poteca ușor accidentată.",
-            "en": "Explore the ancient ruins of this historic fortress for panoramic views of Otočac, and remember to wear sturdy shoes for the slightly uneven, rocky path leading up the hill."
+            "en": "Explore the ancient ruins of this historic fortress for panoramic views of Otočac, and remember to wear sturdy shoes for the slightly uneven, rocky path leading up the hill.",
+            "hr": "Istražite drevne ruševine ove povijesne tvrđave za panoramski pogled na Otočac, i ne zaboravite obući čvrstu obuću zbog malo neravnog, kamenitog puta uz brdo."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Inin vrh",
             "hu": "Inin vrh",
             "ro": "Inin vrh",
-            "en": "Inin vrh"
+            "en": "Inin vrh",
+            "hr": "Inin vrh"
           },
           "coords": [
             15.233433,
@@ -82,7 +87,8 @@
             "de": "Genießen Sie eine belebende Wanderung auf diese natürliche Erhebung für einen weiten Blick auf das Gacka-Tal und bringen Sie ausreichend Wasser für den sonnigen Aufstieg mit.",
             "hu": "Élvezze a frissítő túrát ezen a természetes magaslaton a Gacka-völgy lenyűgöző kilátásáért, és mindenképpen vigyen magával bőséges vizet a napos, kitett emelkedőre.",
             "ro": "Bucurați-vă de o drumeție revigorantă pe această altitudine naturală pentru priveliști vaste ale văii Gacka, asigurându-vă că aduceți multă apă pentru ascensiunea însorită.",
-            "en": "Enjoy a revitalizing hike up this natural elevation to witness sweeping views of the Gacka valley, making sure to bring plenty of water for the sunny, exposed ascent."
+            "en": "Enjoy a revitalizing hike up this natural elevation to witness sweeping views of the Gacka valley, making sure to bring plenty of water for the sunny, exposed ascent.",
+            "hr": "Uživajte u osvježavajućoj pješačkoj turi na ovaj prirodni uspon i svjedočite širokim pogledima na Gacku dolinu; obavezno ponesite dovoljno vode za sunčani, izloženi uspon."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Poljički vrh",
             "hu": "Poljički vrh",
             "ro": "Poljički vrh",
-            "en": "Poljički vrh"
+            "en": "Poljički vrh",
+            "hr": "Poljički vrh"
           },
           "coords": [
             15.220516,
@@ -105,7 +112,8 @@
             "de": "Entspannen Sie sich an diesem friedlichen Aussichtspunkt, der fantastische Fotomotive der üppig grünen Landschaft bietet und sich ideal für ein leckeres Picknick eignet.",
             "hu": "Pihenjen meg teljesen ezen a békés kilátóponton, amely fantasztikus fotózási lehetőségeket kínál a buja zöld tájakról, és a leginkább egy finom csomagolt ebéddel élvezhető.",
             "ro": "Relaxați-vă complet la acest punct de belvedere pașnic ce oferă oportunități fotografice fantastice ale peisajelor verzi luxuriante, savurate ideal cu un prânz la pachet.",
-            "en": "Relax completely at this peaceful viewpoint offering fantastic photo opportunities of the lush green landscapes, ideally experienced with a delicious packed lunch."
+            "en": "Relax completely at this peaceful viewpoint offering fantastic photo opportunities of the lush green landscapes, ideally experienced with a delicious packed lunch.",
+            "hr": "Potpuno se opustite na ovom mirnom vidikovcu koji nudi fantastične fotografske prilike zelenih krajolika, najbolje u pratnji ukusnog pakiranog ručka."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Fluss Gacka",
             "hu": "Gacka folyó",
             "ro": "Râul Gacka",
-            "en": "Gacka River"
+            "en": "Gacka River",
+            "hr": "Rijeka Gacka"
           },
           "coords": [
             15.210793,
@@ -128,7 +137,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang am kristallklaren Wasser des berühmten Flusses Gacka, um Forellen zu entdecken, und halten Sie Abstand zu den empfindlichen Ufern.",
             "hu": "Tegyen egy kellemes sétát a híres Gacka folyó kristálytiszta vize mentén a helyi pisztrángok megfigyelésére, miközben ügyel arra, hogy tisztes távolságot tartson a partoktól.",
             "ro": "Faceți o plimbare pe îndelete de-a lungul apelor cristaline ale faimosului râu Gacka pentru a zări păstrăvii locali, păstrând în același timp distanța față de malurile fragile.",
-            "en": "Take a leisurely stroll along the crystal-clear waters of the famous Gacka river to spot local trout, while taking care to maintain a respectful distance from the fragile banks."
+            "en": "Take a leisurely stroll along the crystal-clear waters of the famous Gacka river to spot local trout, while taking care to maintain a respectful distance from the fragile banks.",
+            "hr": "Prošećite uz kristalno čiste vode poznate rijeke Gacke i tražite lokalne pastrve, pazeći da održavate respektabilnu udaljenost od krhkih obala."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen im Gedenkpark, um die lokale Kultur aufzunehmen.\n\nSteigen Sie dann zu den alten Fortica-Ruinen hinauf, um den besten Panoramablick zu genießen.\n\nMittags geht es über wunderschöne hügelige Pfade zum Inin vrh und Poljički vrh.\n\nBeenden Sie Ihren Nachmittag schließlich mit einem Spaziergang am friedlichen Gacka-Fluss.",
         "hu": "Kezdje a reggelt az emlékparkban, hogy magába szívja a helyi kultúrát.\n\nEzután másszon fel az ősi Fortica romjaihoz a legjobb panorámás kilátásért.\n\nDélben gyönyörű dombos ösvényeken halad át az Inin vrh és a Poljički vrh felé.\n\nVégül zárja a délutánt egy sétával a békés Gacka folyó partján.",
         "ro": "Începeți dimineața în parcul memorial pentru a absorbi cultura locală.\n\nApoi, urcați la ruinele antice Fortica pentru a vă bucura de cele mai bune priveliști panoramice.\n\nLa prânz explorați traseele deluroase frumoase spre Inin vrh și Poljički vrh.\n\nÎn final, încheiați după-amiaza plimbându-vă pe malul liniștit al râului Gacka.",
-        "en": "Start your morning at the memory park to absorb the local culture.\n\nThen, ascend to the ancient Fortica ruins to enjoy the best panoramic views.\n\nMidday takes you through beautiful rolling trails to Inin vrh and Poljički vrh.\n\nFinally, end your afternoon strolling by the tranquil Gacka river."
+        "en": "Start your morning at the memory park to absorb the local culture.\n\nThen, ascend to the ancient Fortica ruins to enjoy the best panoramic views.\n\nMidday takes you through beautiful rolling trails to Inin vrh and Poljički vrh.\n\nFinally, end your afternoon strolling by the tranquil Gacka river.",
+        "hr": "Započnite jutro u memorijalnom parku kako biste upili lokalnu kulturu.\n\nZatim se popnite do drevnih ruševina Fortice i uživajte u najboljim panoramskim pogledima.\n\nU podne istražite prekrasne valovite staze do Ininog i Poljičkog vrha.\n\nNa kraju, završite popodne šetnjom uz mirnu rijeku Gacku."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie Ihren regnerischen Morgen im Gacka-Park mit einem guten Regenschirm. Mittags erkunden Sie vorsichtig die rutschigen, aber stimmungsvollen Ruinen der Fortica. Der Nachmittag bringt matschige Wanderungen zu den umliegenden Gipfeln, bei denen wasserfeste Schuhe Pflicht sind. Beenden Sie diesen feuchten Tag, indem Sie das mystische Treiben der Regentropfen auf dem Fluss Gacka beobachten.",
             "hu": "Kezdje az esős reggelt a parkban egy stabil esernyővel, mivel a szobrok közt nincs menedék. Délben óvatosan fedezze fel a csúszós Fortica romjait, melyek ilyenkor is lenyűgözőek. A délután saras, de hangulatos túrákat tartogat a hegycsúcsokra, vízálló bakancs ajánlott. Zárja a vizes napot a Gacka folyó borongós, mégis békés partján.",
             "ro": "Începeți dimineața ploioasă în parc cu o umbrelă robustă, deoarece nu există adăpost. La prânz, explorați cu grijă ruinele alunecoase ale cetății Fortica, pline de mister. După-amiaza aduce drumeții noroioase, dar pitorești spre vârfuri, unde bocancii impermeabili sunt esențiali. Încheiați ziua umedă admirând râul Gacka într-o atmosferă melancolică.",
-            "en": "Start your rainy morning in the memorial park equipped with a sturdy umbrella. By noon, carefully explore the slippery but highly atmospheric ruins of Fortica. The afternoon brings muddy hikes to the surrounding peaks, where waterproof hiking boots are a must. End your wet day by watching the moody raindrops dance on the surface of the Gacka River."
+            "en": "Start your rainy morning in the memorial park equipped with a sturdy umbrella. By noon, carefully explore the slippery but highly atmospheric ruins of Fortica. The afternoon brings muddy hikes to the surrounding peaks, where waterproof hiking boots are a must. End your wet day by watching the moody raindrops dance on the surface of the Gacka River.",
+            "hr": "Započnite kišno jutro u spomen-parku opremljeni čvrstim kišobranom. U podne pažljivo istražite skliske ali vrlo atmosferične ruševine Fortice. Poslijepodne donosi blatne usponе do okolnih vrhova, gdje su vodootporne planinarske čizme obavezne. Završite mokar dan promatrajući kapljice kiše kako plešu po površini rijeke Gacke."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Gacka-Park der kroatischen Erinnerung",
                 "hu": "Gačanski Horvát Emlékpark",
                 "ro": "Parcul Memoriei Croate Gačanski",
-                "en": "Gačanski Park of Croatian Memory"
+                "en": "Gačanski Park of Croatian Memory",
+                "hr": "Gačanski park hrvatske memorije"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die steinernen Skulpturen im Regen; nutzen Sie einen großen Regenschirm, da es hier keinen Unterstand gibt.",
                 "hu": "Csodálja meg az eső áztatta kőszobrokat; használjon egy nagy esernyőt, mivel itt nincs fedett menedék a záporok elől.",
                 "ro": "Admirați sculpturile din piatră în ploaie; folosiți o umbrelă mare, deoarece nu există adăpost împotriva precipitațiilor aici.",
-                "en": "Admire the rain-soaked stone sculptures; use a large, sturdy umbrella as there is no covered shelter available here."
+                "en": "Admire the rain-soaked stone sculptures; use a large, sturdy umbrella as there is no covered shelter available here.",
+                "hr": "Divite se kišom natopljenim kamenim skulpturama; upotrijebite veliki, čvrst kišobran jer ovdje nema natkrivenog skloništa."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "Festung Fortica",
                 "hu": "Fortica Erőd",
                 "ro": "Cetatea Fortica",
-                "en": "Fortica Fortress"
+                "en": "Fortica Fortress",
+                "hr": "Tvrđava Fortica"
               },
               "tip_5lang": {
                 "de": "Die historischen Ruinen wirken im Regen sehr mystisch; achten Sie jedoch genau auf jeden Schritt auf den extrem rutschigen Steinen.",
                 "hu": "A történelmi romok az esőben különösen misztikusak; de nagyon figyeljen a lépéseire a rendkívül csúszós, vizes köveken.",
                 "ro": "Ruinele istorice par foarte mistice în ploaie; totuși, aveți mare grijă la fiecare pas pe pietrele extrem de alunecoase.",
-                "en": "The historical ruins look incredibly mystical in the rain; however, watch your step very carefully on the extremely slippery stones."
+                "en": "The historical ruins look incredibly mystical in the rain; however, watch your step very carefully on the extremely slippery stones.",
+                "hr": "Povijesne ruševine izgledaju nevjerojatno mistično na kiši; međutim, vrlo pazite gdje gazite jer su kamenje izuzetno sklisko."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Inin vrh",
                 "hu": "Inin vrh",
                 "ro": "Inin vrh",
-                "en": "Inin vrh"
+                "en": "Inin vrh",
+                "hr": "Inin vrh"
               },
               "tip_5lang": {
                 "de": "Genießen Sie den nebligen Ausblick auf die Natur; tragen Sie unbedingt wasserfeste Wanderschuhe für den matschigen Aufstieg.",
                 "hu": "Élvezze a természet ködbe burkolózó látványát; feltétlenül viseljen vízálló túrabakancsot a saras és csúszós emelkedőhöz.",
                 "ro": "Bucurați-vă de priveliștea cețoasă asupra naturii; purtați neapărat bocanci de drumeție impermeabili pentru urcușul noroios.",
-                "en": "Enjoy the fog-covered views of nature; it is absolutely essential to wear waterproof hiking boots for this muddy ascent."
+                "en": "Enjoy the fog-covered views of nature; it is absolutely essential to wear waterproof hiking boots for this muddy ascent.",
+                "hr": "Uživajte u maglom prekrivenim pogledima na prirodu; apsolutno je nužno nositi vodootporne planinarske čizme za ovaj blatni uspon."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Poljički vrh",
                 "hu": "Poljički vrh",
                 "ro": "Poljički vrh",
-                "en": "Poljički vrh"
+                "en": "Poljički vrh",
+                "hr": "Poljički vrh"
               },
               "tip_5lang": {
                 "de": "Die regnerische Atmosphäre im Wald ist einmalig; bleiben Sie auf den Hauptwegen, um tiefen Pfützen und Matsch auszuweichen.",
                 "hu": "Az esős erdő hangulata páratlan; maradjon a kijelölt főbb ösvényeken, hogy elkerülje a mély pocsolyákat és a sarat.",
                 "ro": "Atmosfera ploioasă din pădure este unică; rămâneți pe potecile principale pentru a evita bălțile adânci și noroiul.",
-                "en": "The rainy atmosphere in the forest is unique; stick to the main trails to avoid deep puddles and thick mud along the way."
+                "en": "The rainy atmosphere in the forest is unique; stick to the main trails to avoid deep puddles and thick mud along the way.",
+                "hr": "Kišna atmosfera u šumi je jedinstvena; držite se glavnih staza kako biste izbjegli duboke lokve i zdepasto blato uz put."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Fluss Gacka",
                 "hu": "Gacka folyó",
                 "ro": "Râul Gacka",
-                "en": "Gacka River"
+                "en": "Gacka River",
+                "hr": "Rijeka Gacka"
               },
               "tip_5lang": {
                 "de": "Die Wassertropfen auf dem klaren Fluss sind ein tolles Fotomotiv; ziehen Sie einen guten Regenmantel an, um am Ufer trocken zu bleiben.",
                 "hu": "A kristálytiszta folyóra hulló esőcseppek gyönyörűek; viseljen egy jó esőkabátot, hogy kényelmesen nézelődhessen a parton.",
                 "ro": "Picăturile de ploaie pe râul limpede sunt superbe; purtați o pelerină de ploaie bună pentru a rămâne uscat pe mal.",
-                "en": "The raindrops hitting the clear river make for a great view; wear a high-quality raincoat to stay comfortable on the banks."
+                "en": "The raindrops hitting the clear river make for a great view; wear a high-quality raincoat to stay comfortable on the banks.",
+                "hr": "Kapljice kiše koje pogađaju čistu rijeku pružaju lijep prizor; nosite kvalitetnu kabanicu da ostanete ugodno na obalama."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Ein frischer Wintermorgen beginnt im Park. Gegen Mittag wärmt Sie der Aufstieg zur Fortica auf, wo klare Winterluft beste Fernsicht bietet. Am Nachmittag erkunden Sie die frostigen Gipfel der Umgebung in zügigem Tempo. Denken Sie an die frühe Dämmerung gegen 16:30 Uhr und beenden Sie den kalten Tag rechtzeitig am eisigen Ufer des Flusses Gacka, warm eingepackt in dicke Schichten.",
             "hu": "A csípős téli reggel a park fagyos szobrainál indul. Délben a Fortica megmászása felmelegíti, a tiszta levegő pedig remek kilátást nyújt. Délután tempósan járja be a zúzmarás hegycsúcsokat. Vegye figyelembe a 16:30 körüli korai sötétedést, és zárja a napot még világosban a Gacka folyó jeges partján, meleg réteges öltözetben.",
             "ro": "Dimineața de iarnă începe proaspăt în parc. La prânz, urcarea spre Fortica vă va încălzi, oferind vederi clare de iarnă. După-amiaza, explorați vârfurile înghețate într-un ritm alert. Țineți cont de apusul timpuriu din jurul orei 16:30 și încheiați ziua rece pe malul înghețat al râului Gacka, îmbrăcați în straturi groase.",
-            "en": "A crisp winter morning starts at the memorial park. By noon, the climb to Fortica warms you up and rewards you with clear winter views. Spend the afternoon briskly hiking the frosty peaks. Keep in mind the early sunset around 16:30, and finish your chilly day comfortably by the icy banks of the Gacka River, wearing warm layers."
+            "en": "A crisp winter morning starts at the memorial park. By noon, the climb to Fortica warms you up and rewards you with clear winter views. Spend the afternoon briskly hiking the frosty peaks. Keep in mind the early sunset around 16:30, and finish your chilly day comfortably by the icy banks of the Gacka River, wearing warm layers.",
+            "hr": "Svježe zimsko jutro započinje u memorijalnom parku. U podne vas uspon do Fortice zagrijava i nagrađuje jasnim zimskim pogledima. Poslijepodne provedite energično planinareći po mrazom pokrivenim vrhovima. Imajte na umu rano zalazak sunca oko 16:30 i završite hladan dan ugodno uz zaleđene obale rijeke Gacke, slojevito odjeveni."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Gacka-Park der kroatischen Erinnerung",
                 "hu": "Gačanski Horvát Emlékpark",
                 "ro": "Parcul Memoriei Croate Gačanski",
-                "en": "Gačanski Park of Croatian Memory"
+                "en": "Gačanski Park of Croatian Memory",
+                "hr": "Gačanski park hrvatske memorije"
               },
               "tip_5lang": {
                 "de": "Die frostüberzogenen Monumente sind wunderschön; kleiden Sie sich im Zwiebellook, da der Wind hier ungeschützt wehen kann.",
                 "hu": "A dérrel borított emlékművek gyönyörűek; öltözzön meleg, réteges ruházatba, mert a nyílt téren metsző lehet a téli szél.",
                 "ro": "Monumentele acoperite de brumă sunt superbe; îmbrăcați-vă în straturi călduroase, deoarece vântul de iarnă suflă nestingherit aici.",
-                "en": "The frost-covered monuments look absolutely stunning; dress in warm layers as the winter wind can be quite biting in this open area."
+                "en": "The frost-covered monuments look absolutely stunning; dress in warm layers as the winter wind can be quite biting in this open area.",
+                "hr": "Spomenici prekriveni mrazom izgledaju zadivljujuće; obucite tople slojeve jer zimski vjetar može biti prilično oštar na otvorenom prostoru."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "Festung Fortica",
                 "hu": "Fortica Erőd",
                 "ro": "Cetatea Fortica",
-                "en": "Fortica Fortress"
+                "en": "Fortica Fortress",
+                "hr": "Tvrđava Fortica"
               },
               "tip_5lang": {
                 "de": "Die unbelaubten Bäume gewähren perfekte Weitsicht; tragen Sie Schuhe mit viel Grip, da der Weg zur Burg vereist sein kann.",
                 "hu": "A csupasz fák tökéletes kilátást engednek; viseljen jó tapadású cipőt, mert az erőd felé vezető út foltokban jeges lehet.",
                 "ro": "Copacii fără frunze permit o vizibilitate perfectă; purtați încălțăminte cu aderență, deoarece drumul spre cetate poate fi înghețat.",
-                "en": "The bare winter trees allow for perfect panoramic views; wear shoes with strong grip as the path to the fortress is often icy."
+                "en": "The bare winter trees allow for perfect panoramic views; wear shoes with strong grip as the path to the fortress is often icy.",
+                "hr": "Gola zimzelena stabla omogućuju savršene panoramske poglede; nosite cipele s dobrim hvatom jer je put do tvrđave često poledio."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Inin vrh",
                 "hu": "Inin vrh",
                 "ro": "Inin vrh",
-                "en": "Inin vrh"
+                "en": "Inin vrh",
+                "hr": "Inin vrh"
               },
               "tip_5lang": {
                 "de": "Erleben Sie die Stille der kahlen Winterlandschaft; bleiben Sie in Bewegung, um beim kühlen Aufstieg nicht auszukühlen.",
                 "hu": "Tapasztalja meg a kopár téli táj csendjét; maradjon folyamatosan mozgásban, hogy ne fázzon át a hűvös emelkedő során.",
                 "ro": "Experimentați liniștea peisajului de iarnă gol; rămâneți în mișcare pentru a nu vă răci în timpul urcării reci.",
-                "en": "Experience the absolute silence of the bare winter landscape; keep moving constantly to stay warm during this chilly ascent."
+                "en": "Experience the absolute silence of the bare winter landscape; keep moving constantly to stay warm during this chilly ascent.",
+                "hr": "Doživite potpunu tišinu ogoljenog zimskog krajolika; neprestano se krećite da biste ostali topli tijekom ovog hladnog uspona."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Poljički vrh",
                 "hu": "Poljički vrh",
                 "ro": "Poljički vrh",
-                "en": "Poljički vrh"
+                "en": "Poljički vrh",
+                "hr": "Poljički vrh"
               },
               "tip_5lang": {
                 "de": "Eine friedliche Winterwanderung erwartet Sie; planen Sie Ihre Gehzeit gut, um vor der frühen Dunkelheit gegen 16:30 zurück zu sein.",
                 "hu": "Békés téli túra várja itt; tervezze meg jól a tempót, hogy biztosan visszaérjen a 16:30 körüli korai sötétedés előtt.",
                 "ro": "Vă așteaptă o drumeție de iarnă pașnică; planificați-vă ritmul bine pentru a vă întoarce înainte de întunericul timpuriu de la 16:30.",
-                "en": "A peaceful winter hike awaits you; plan your walking pace well to ensure you return before the early darkness falls around 16:30."
+                "en": "A peaceful winter hike awaits you; plan your walking pace well to ensure you return before the early darkness falls around 16:30.",
+                "hr": "Očekuje vas mirna zimska tura; planirajte tempo hoda kako biste se vratili prije nego što nastane rana tama oko 16:30."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Fluss Gacka",
                 "hu": "Gacka folyó",
                 "ro": "Râul Gacka",
-                "en": "Gacka River"
+                "en": "Gacka River",
+                "hr": "Rijeka Gacka"
               },
               "tip_5lang": {
                 "de": "Der kalte Flussnebel im späten Nachmittagslicht ist magisch; wickeln Sie sich in einen dicken Schal für diesen letzten Spaziergang.",
                 "hu": "A késő délutáni fényben úszó hideg folyami köd varázslatos; burkolózzon egy vastag sálba ezen az utolsó, fagyos sétán.",
                 "ro": "Ceața rece a râului în lumina după-amiezii târzii este magică; înfășurați-vă într-un fular gros pentru această ultimă plimbare.",
-                "en": "The cold river mist in the late afternoon light is truly magical; wrap yourself in a thick winter scarf for this final stroll."
+                "en": "The cold river mist in the late afternoon light is truly magical; wrap yourself in a thick winter scarf for this final stroll.",
+                "hr": "Hladna rijetna izmaglica u poslijepodnevnom svjetlu doista je čarobna; omotajte se debelim zimskim šalom za ovu završnu šetnju."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "Gacka-Park der kroatischen Erinnerung",
             "hu": "Gačanski Horvát Emlékpark",
             "ro": "Parcul Memoriei Croate Gačanski",
-            "en": "Gačanski Park of Croatian Memory"
+            "en": "Gačanski Park of Croatian Memory",
+            "hr": "Gačanski park hrvatske memorije"
           },
           "coords": [
             15.236997,
@@ -329,7 +363,8 @@
             "de": "Nehmen Sie sich Zeit, die beeindruckenden Steinskulpturen des lokalen Erbes zu bewundern, bevor Sie auf den ruhigen Holzbänken unter den Bäumen eine kleine Pause einlegen.",
             "hu": "Szánjon időt a gazdag helyi örökséget őrző lenyűgöző kőszobrok megcsodálására, mielőtt egy békés pillanat erejéig megpihenne a fák alatti csendes fapadokon.",
             "ro": "Acordați-vă timp pentru a admira sculpturile impresionante din piatră ce onorează patrimoniul local înainte de a vă odihni pe băncile de lemn liniștite de sub copaci.",
-            "en": "Take time to admire the impressive stone sculptures honoring rich local heritage before enjoying a peaceful moment to rest on the quiet wooden benches under the trees."
+            "en": "Take time to admire the impressive stone sculptures honoring rich local heritage before enjoying a peaceful moment to rest on the quiet wooden benches under the trees.",
+            "hr": "Odvojite vrijeme da se divite impresivnim kamenim skulpturama koje odaju počast bogatoj lokalnoj baštini, a zatim se u miru odmorite na tihim drvenim klupama pod stablima."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Festung Fortica",
             "hu": "Fortica Erőd",
             "ro": "Cetatea Fortica",
-            "en": "Fortica Fortress"
+            "en": "Fortica Fortress",
+            "hr": "Tvrđava Fortica"
           },
           "coords": [
             15.233907,
@@ -352,7 +388,8 @@
             "de": "Erkunden Sie die alten Ruinen dieser historischen Festung für einen Panoramablick auf Otočac und tragen Sie unbedingt festes Schuhwerk für den leicht unebenen, felsigen Weg.",
             "hu": "Fedezze fel az ősi történelmi erőd romjait Otočac panorámájáért, és ne felejtsen el masszív cipőt viselni a dombra vezető, kissé egyenetlen és sziklás ösvény miatt.",
             "ro": "Explorați ruinele antice ale acestei fortărețe istorice pentru priveliști panoramice asupra orașului Otočac și purtați încălțăminte robustă pentru poteca ușor accidentată.",
-            "en": "Explore the ancient ruins of this historic fortress for panoramic views of Otočac, and remember to wear sturdy shoes for the slightly uneven, rocky path leading up the hill."
+            "en": "Explore the ancient ruins of this historic fortress for panoramic views of Otočac, and remember to wear sturdy shoes for the slightly uneven, rocky path leading up the hill.",
+            "hr": "Istražite drevne ruševine ove povijesne tvrđave za panoramski pogled na Otočac, i ne zaboravite obući čvrstu obuću zbog malo neravnog, kamenitog puta uz brdo."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "Inin vrh",
             "hu": "Inin vrh",
             "ro": "Inin vrh",
-            "en": "Inin vrh"
+            "en": "Inin vrh",
+            "hr": "Inin vrh"
           },
           "coords": [
             15.233433,
@@ -375,7 +413,8 @@
             "de": "Genießen Sie eine belebende Wanderung auf diese natürliche Erhebung für einen weiten Blick auf das Gacka-Tal und bringen Sie ausreichend Wasser für den sonnigen Aufstieg mit.",
             "hu": "Élvezze a frissítő túrát ezen a természetes magaslaton a Gacka-völgy lenyűgöző kilátásáért, és mindenképpen vigyen magával bőséges vizet a napos, kitett emelkedőre.",
             "ro": "Bucurați-vă de o drumeție revigorantă pe această altitudine naturală pentru priveliști vaste ale văii Gacka, asigurându-vă că aduceți multă apă pentru ascensiunea însorită.",
-            "en": "Enjoy a revitalizing hike up this natural elevation to witness sweeping views of the Gacka valley, making sure to bring plenty of water for the sunny, exposed ascent."
+            "en": "Enjoy a revitalizing hike up this natural elevation to witness sweeping views of the Gacka valley, making sure to bring plenty of water for the sunny, exposed ascent.",
+            "hr": "Uživajte u osvježavajućoj pješačkoj turi na ovaj prirodni uspon i svjedočite širokim pogledima na Gacku dolinu; obavezno ponesite dovoljno vode za sunčani, izloženi uspon."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Milešnjak",
             "hu": "Milešnjak",
             "ro": "Milešnjak",
-            "en": "Milešnjak"
+            "en": "Milešnjak",
+            "hr": "Milešnjak"
           },
           "coords": [
             15.225922,
@@ -398,7 +438,8 @@
             "de": "Entdecken Sie diesen ruhigen, unberührten Naturort abseits der geschäftigen Massen, der sich ideal zur Vogelbeobachtung eignet, aber bleiben Sie unbedingt auf den Wegen.",
             "hu": "Fedezze fel ezt a csendes, érintetlen természeti helyet távol a nyüzsgő tömegtől, amely ideális madármegfigyelésre, de mindenképpen maradjon szorosan a kijelölt ösvényeken.",
             "ro": "Descoperiți acest loc natural liniștit și neatins, departe de aglomerația plină de viață, ideal pentru observarea păsărilor, dar asigurați-vă că rămâneți pe traseele marcate.",
-            "en": "Discover this quiet, unspoiled natural spot away from the bustling crowds, which is ideal for bird watching, but be absolutely sure to stick closely to the marked trails."
+            "en": "Discover this quiet, unspoiled natural spot away from the bustling crowds, which is ideal for bird watching, but be absolutely sure to stick closely to the marked trails.",
+            "hr": "Otkrijte ovo mirno, netaknuto prirodno mjesto daleko od gužve, idealno za promatranje ptica, ali obavezno se striktno držite označenih staza."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Rastik",
             "hu": "Rastik",
             "ro": "Rastik",
-            "en": "Rastik"
+            "en": "Rastik",
+            "hr": "Rastik"
           },
           "coords": [
             15.212382,
@@ -421,7 +463,8 @@
             "de": "Atmen Sie in diesem ruhigen, von üppigem Grün umgebenen Naturwaldgebiet tief und erfrischend durch, was sich perfekt für eine beruhigende Meditation am späten Nachmittag eignet.",
             "hu": "Vegyen egy mély, frissítő lélegzetet ebben a buja zöld növényzettel körülvett békés erdei területen, amely tökéletesen alkalmas egy nyugtató, késő délutáni meditációs ülésre.",
             "ro": "Respirați adânc și revigorant în această zonă naturală de pădure senină înconjurată de verdeață luxuriantă, care este perfect potrivită pentru o sesiune de meditație calmantă.",
-            "en": "Take a deep, refreshing breath in this serene natural woodland area surrounded by lush greenery, which is perfectly suited for a calming, late afternoon meditation session."
+            "en": "Take a deep, refreshing breath in this serene natural woodland area surrounded by lush greenery, which is perfectly suited for a calming, late afternoon meditation session.",
+            "hr": "Duboko udahnite u ovom mirnom šumskom području okruženom bujnom zelenilu, savršenom za umirujuću kasnopopodnevnu meditaciju."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Fluss Gacka",
             "hu": "Gacka folyó",
             "ro": "Râul Gacka",
-            "en": "Gacka River"
+            "en": "Gacka River",
+            "hr": "Rijeka Gacka"
           },
           "coords": [
             15.210793,
@@ -444,7 +488,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang am kristallklaren Wasser des berühmten Flusses Gacka, um Forellen zu entdecken, und halten Sie Abstand zu den empfindlichen Ufern.",
             "hu": "Tegyen egy kellemes sétát a híres Gacka folyó kristálytiszta vize mentén a helyi pisztrángok megfigyelésére, miközben ügyel arra, hogy tisztes távolságot tartson a partoktól.",
             "ro": "Faceți o plimbare pe îndelete de-a lungul apelor cristaline ale faimosului râu Gacka pentru a zări păstrăvii locali, păstrând în același timp distanța față de malurile fragile.",
-            "en": "Take a leisurely stroll along the crystal-clear waters of the famous Gacka river to spot local trout, while taking care to maintain a respectful distance from the fragile banks."
+            "en": "Take a leisurely stroll along the crystal-clear waters of the famous Gacka river to spot local trout, while taking care to maintain a respectful distance from the fragile banks.",
+            "hr": "Prošećite uz kristalno čiste vode poznate rijeke Gacke i tražite lokalne pastrve, pazeći da održavate respektabilnu udaljenost od krhkih obala."
           }
         }
       ],
@@ -452,7 +497,8 @@
         "de": "Beginnen Sie Ihren Tag mit einer Radtour vom zentralen Gedenkpark voller Geschichte.\n\nRadeln Sie hinauf zu den historischen Fortica-Ruinen für einen beeindruckenden morgendlichen Blick.\n\nGenießen Sie einen aktiven Mittag bei der Erkundung der üppigen Nordrouten von Milešnjak und Rastik.\n\nBeenden Sie Ihre Fahrt am berühmten Fluss Gacka, um sich zu entspannen.",
         "hu": "Kezdje a napot a történelemmel teli központi emlékparkból indulva.\n\nTekekerjen fel a történelmi Fortica romjaihoz egy lenyűgöző reggeli kilátásért.\n\nÉlvezze az aktív delet Milešnjak és Rastik buja északi útvonalainak felfedezésével.\n\nFejezze be az utat az ikonikus Gacka folyónál, hogy ellazítsa izmait.",
         "ro": "Începeți-vă ziua pedalând din parcul memorial central, plin de istorie.\n\nUrcați spre ruinele istorice Fortica pentru o priveliște matinală dominantă.\n\nBucurați-vă de un prânz activ explorând rutele nordice luxuriante din Milešnjak și Rastik.\n\nÎncheiați cursa pe malul faimosului râu Gacka pentru a vă relaxa mușchii.",
-        "en": "Kick off your day by pedaling from the central memory park, full of history.\n\nCycle up to the historic Fortica ruins for a commanding morning view.\n\nEnjoy an active midday exploring the lush northern routes of Milešnjak and Rastik.\n\nConclude your ride down by the iconic Gacka river to relax your muscles."
+        "en": "Kick off your day by pedaling from the central memory park, full of history.\n\nCycle up to the historic Fortica ruins for a commanding morning view.\n\nEnjoy an active midday exploring the lush northern routes of Milešnjak and Rastik.\n\nConclude your ride down by the iconic Gacka river to relax your muscles.",
+        "hr": "Započnite dan vozeći bicikl iz središnjeg memorijalnog parka, punog povijesti.\n\nPedalirajte do povijesnih ruševina Fortice za majstorski jutarnji pogled.\n\nUživajte u aktivnom podnevu istražujući bujne sjeverne rute Milešnjaka i Rastika.\n\nZavršite vožnju uz ikoničnu rijeku Gacku kako biste opustili mišiće."
       },
       "variants": {
         "rainy": {
@@ -460,7 +506,8 @@
             "de": "Starten Sie Ihre regnerische Radtour im Park gut eingepackt in Regenkleidung. Am Mittag radeln Sie vorsichtig zur Fortica, wo nasse Steine höchste Konzentration fordern. Der Nachmittag führt Sie über schlammige Naturpfade; Regenschlammschutzbleche sind hier Gold wert. Beenden Sie den feuchten, aber erlebnisreichen Tag mit einer entspannten Fahrt entlang des im Regen schimmernden Flusses Gacka.",
             "hu": "Kezdje az esős biciklitúrát a parkban, jó minőségű esőruházatban. Délben óvatosan tekerjen a Fortica felé, a vizes macskakövek nagy odafigyelést igényelnek. A délután saras erdei ösvényeken vezet; a sárvédő itt elengedhetetlen. Zárja a nedves, de kalandos napot a Gacka folyó partján, ahol a bicikliút kevésbé sáros.",
             "ro": "Începeți turul ploios cu bicicleta în parc, bine îmbrăcați în haine de ploaie. La prânz, pedalați cu prudență spre Fortica, pietrele umede necesită concentrare maximă. După-amiaza vă duce pe trasee noroioase; aripile de noroi sunt esențiale aici. Încheiați ziua umedă, dar plină de aventuri, pe malul râului Gacka.",
-            "en": "Start your rainy cycling tour at the park, fully geared up in waterproof clothing. By noon, pedal cautiously towards Fortica, where wet stones demand high concentration. The afternoon takes you through muddy nature trails where bike mudguards are a lifesaver. Conclude the wet adventure cruising along the rain-shimmering Gacka River."
+            "en": "Start your rainy cycling tour at the park, fully geared up in waterproof clothing. By noon, pedal cautiously towards Fortica, where wet stones demand high concentration. The afternoon takes you through muddy nature trails where bike mudguards are a lifesaver. Conclude the wet adventure cruising along the rain-shimmering Gacka River.",
+            "hr": "Započnite kišnu biciklističku turu u parku potpuno opremljeni vodootpornom odjećom. U podne pedalirajte oprezno prema Fortici, gdje mokri kameni zahtijevaju potpunu koncentraciju. Poslijepodne vas vodi kroz blatne prirodne staze gdje su blatobrani na biciklu neprocjenjivi. Završite mokru avanturu vožnjom uz kišom okićenu rijeku Gacku."
           },
           "stops": [
             {
@@ -468,13 +515,15 @@
                 "de": "Gacka-Park der kroatischen Erinnerung",
                 "hu": "Gačanski Horvát Emlékpark",
                 "ro": "Parcul Memoriei Croate Gačanski",
-                "en": "Gačanski Park of Croatian Memory"
+                "en": "Gačanski Park of Croatian Memory",
+                "hr": "Gačanski park hrvatske memorije"
               },
               "tip_5lang": {
                 "de": "Machen Sie einen kurzen Stopp für die Statuen; ziehen Sie Ihre Regenjacke fest zu, bevor Sie weiter in den Regen radeln.",
                 "hu": "Tartson egy rövid pihenőt a szobroknál; húzza össze szorosan az esőkabátját, mielőtt tovább tekerne a szakadó esőben.",
                 "ro": "Faceți o scurtă oprire pentru statui; strângeți bine geaca de ploaie înainte de a pedala mai departe în ploaie.",
-                "en": "Make a quick stop to view the statues; zip up your waterproof jacket tightly before cycling further into the rain."
+                "en": "Make a quick stop to view the statues; zip up your waterproof jacket tightly before cycling further into the rain.",
+                "hr": "Kratko stanite da pogledate statue; zatvorite vodootpornu jaknu prije nego što nastavite vožnju po kiši."
               }
             },
             {
@@ -482,13 +531,15 @@
                 "de": "Festung Fortica",
                 "hu": "Fortica Erőd",
                 "ro": "Cetatea Fortica",
-                "en": "Fortica Fortress"
+                "en": "Fortica Fortress",
+                "hr": "Tvrđava Fortica"
               },
               "tip_5lang": {
                 "de": "Schieben Sie das Rad das letzte Stück hinauf; nasse Blätter und Steine auf dem Weg zur Burg sind extrem rutschig.",
                 "hu": "Tolja a kerékpárt az utolsó szakaszon; az erőd felé vezető úton a vizes falevelek és kövek rendkívül csúszósak.",
                 "ro": "Împingeți bicicleta pe ultima porțiune; frunzele și pietrele ude de pe drumul spre cetate sunt extrem de alunecoase.",
-                "en": "Push your bike up the final stretch; the wet leaves and ancient stones on the way to the fortress are incredibly slippery."
+                "en": "Push your bike up the final stretch; the wet leaves and ancient stones on the way to the fortress are incredibly slippery.",
+                "hr": "Gurajte bicikl na zadnjem dijelu; mokro lišće i drevni kameni na putu prema tvrđavi su izuzetno sklizavi."
               }
             },
             {
@@ -496,13 +547,15 @@
                 "de": "Inin vrh",
                 "hu": "Inin vrh",
                 "ro": "Inin vrh",
-                "en": "Inin vrh"
+                "en": "Inin vrh",
+                "hr": "Inin vrh"
               },
               "tip_5lang": {
                 "de": "Im Regen kann die Sicht hier schnell sinken; schalten Sie unbedingt Ihr Fahrradlicht ein für diesen Naturpfad.",
                 "hu": "Esőben a látótávolság itt gyorsan csökkenhet; feltétlenül kapcsolja be a kerékpárlámpát ezen az erdei szakaszon.",
                 "ro": "Pe ploaie vizibilitatea poate scădea rapid; asigurați-vă că luminile bicicletei sunt aprinse pentru acest traseu natural.",
-                "en": "Visibility can drop quickly in the rain; make absolutely sure your bike lights are turned on for this misty nature trail."
+                "en": "Visibility can drop quickly in the rain; make absolutely sure your bike lights are turned on for this misty nature trail.",
+                "hr": "Vidljivost se u kiši brzo smanjuje; obavezno uključite svjetla na biciklu za ovu maglovitu šumsku stazu."
               }
             },
             {
@@ -510,13 +563,15 @@
                 "de": "Milešnjak",
                 "hu": "Milešnjak",
                 "ro": "Milešnjak",
-                "en": "Milešnjak"
+                "en": "Milešnjak",
+                "hr": "Milešnjak"
               },
               "tip_5lang": {
                 "de": "Der Regen macht diesen Pfad sehr matschig; reduzieren Sie Ihr Tempo deutlich und vertrauen Sie auf gute Schutzbleche.",
                 "hu": "Az eső rendkívül sarassá teszi ezt az ösvényt; jelentősen csökkentse a sebességet, és bízzon a jó sárvédőkben.",
                 "ro": "Ploaia face acest traseu foarte noroios; reduceți semnificativ viteza și bazați-vă pe aripi de noroi bune.",
-                "en": "The rain turns this trail into a muddy challenge; reduce your cycling speed significantly and rely on good mudguards."
+                "en": "The rain turns this trail into a muddy challenge; reduce your cycling speed significantly and rely on good mudguards.",
+                "hr": "Kiša pretvara ovu stazu u blatni izazov; znatno smanjite brzinu i oslonite se na dobre blatobrane."
               }
             },
             {
@@ -524,13 +579,15 @@
                 "de": "Rastik",
                 "hu": "Rastik",
                 "ro": "Rastik",
-                "en": "Rastik"
+                "en": "Rastik",
+                "hr": "Rastik"
               },
               "tip_5lang": {
                 "de": "Ein schöner, wenn auch nasser Waldabschnitt; suchen Sie bei einem starken Schauer Schutz unter den dichten Baumkronen.",
                 "hu": "Gyönyörű, bár vizes erdei szakasz; ha hirtelen lecsap egy heves zápor, keressen menedéket a sűrű lombkoronák alatt.",
                 "ro": "O secțiune de pădure frumoasă, deși umedă; căutați adăpost sub coronamentul des al copacilor în cazul unei averse puternice.",
-                "en": "A beautiful, albeit wet, forest section; seek temporary shelter under the thick tree canopies if a heavy downpour starts."
+                "en": "A beautiful, albeit wet, forest section; seek temporary shelter under the thick tree canopies if a heavy downpour starts.",
+                "hr": "Lijep, premda mokar, šumski odjeljak; potražite privremeno sklonište pod gustom krošnjom ako počne jaki pljusak."
               }
             },
             {
@@ -538,13 +595,15 @@
                 "de": "Fluss Gacka",
                 "hu": "Gacka folyó",
                 "ro": "Râul Gacka",
-                "en": "Gacka River"
+                "en": "Gacka River",
+                "hr": "Rijeka Gacka"
               },
               "tip_5lang": {
                 "de": "Die Uferfahrt erfordert Vorsicht auf nassem Gras; tragen Sie wasserdichte Fahrradhosen für den komfortablen Abschluss.",
                 "hu": "A parti tekerés óvatosságot igényel a vizes füvön; viseljen vízálló kerékpáros nadrágot a kényelmes befejezés érdekében.",
                 "ro": "Ciclismul pe mal necesită prudență pe iarba udă; purtați pantaloni de ciclism impermeabili pentru un final confortabil.",
-                "en": "Riding along the riverbank requires caution on the wet grass; wear waterproof cycling pants for a comfortable finish."
+                "en": "Riding along the riverbank requires caution on the wet grass; wear waterproof cycling pants for a comfortable finish.",
+                "hr": "Vožnja uz obalu zahtijeva oprez zbog mokre trave; nosite vodootporne biciklističke hlače za udoban završetak."
               }
             }
           ]
@@ -554,7 +613,8 @@
             "de": "Beginnen Sie die frostige Radtour warm eingepackt in der Stadt. Mittags treiben Sie Ihren Puls beim Anstieg zur Fortica in die Höhe, was Sie an der kalten Winterluft wärmt. Der Nachmittag bietet einsame, knackig-kalte Fahrten durch die Natur. Da die Sonne bereits gegen 16:30 Uhr untergeht, sollten Sie zügig fahren, um das letzte Tageslicht entlang des eiskalten Flusses Gacka zu genießen.",
             "hu": "Kezdje a fagyos bringatúrát a városban, meleg rétegekkel. Délben a Fortica emelkedője felviszi a pulzust, ami jól átmelegít a hideg levegőn. A délután magányos, ropogósan fagyos tekerést kínál a természetben. Mivel a nap már 16:30 körül lenyugszik, haladjon tempósan, hogy az utolsó fényeket a jéghideg Gacka folyó mentén élvezhesse.",
             "ro": "Începeți turul de iarnă cu bicicleta, bine îmbrăcați, în oraș. La prânz, urcarea spre Fortica vă va ridica pulsul și vă va încălzi în aerul rece. După-amiaza oferă plimbări solitare și geroase prin natură. Deoarece soarele apune în jur de 16:30, pedalați alert pentru a prinde ultimele raze pe malul râului Gacka.",
-            "en": "Start your frosty bike tour warmly bundled up in town. By noon, the climb to Fortica will raise your heart rate and warm you in the cold air. The afternoon offers solitary, crisp rides through winter nature. Since the sun sets early around 16:30, keep a steady pace to catch the last daylight along the freezing Gacka River."
+            "en": "Start your frosty bike tour warmly bundled up in town. By noon, the climb to Fortica will raise your heart rate and warm you in the cold air. The afternoon offers solitary, crisp rides through winter nature. Since the sun sets early around 16:30, keep a steady pace to catch the last daylight along the freezing Gacka River.",
+            "hr": "Započnite zaleđenu biciklističku turu dobro slojevito obučeni u gradu. U podne će vas uspon do Fortice zagrijati u hladnom zraku. Poslijepodne nudi samotne, oštre vožnje kroz zimsku prirodu. Budući da sunce zalazi rano oko 16:30, držite umjeren tempo kako biste uhvatili posljednje dnevno svjetlo uz zaleđenu rijeku Gacku."
           },
           "stops": [
             {
@@ -562,13 +622,15 @@
                 "de": "Gacka-Park der kroatischen Erinnerung",
                 "hu": "Gačanski Horvát Emlékpark",
                 "ro": "Parcul Memoriei Croate Gačanski",
-                "en": "Gačanski Park of Croatian Memory"
+                "en": "Gačanski Park of Croatian Memory",
+                "hr": "Gačanski park hrvatske memorije"
               },
               "tip_5lang": {
                 "de": "Starten Sie Ihre eiskalte Fahrt zwischen den steinernen Pfeilern; winddichte Winter-Fahrradhandschuhe sind absolut unerlässlich.",
                 "hu": "Kezdje jéghideg útját a kőoszlopok között; a szélálló, bélelt téli kerékpáros kesztyű viselése itt teljesen elengedhetetlen.",
                 "ro": "Începeți plimbarea rece printre stâlpii de piatră; mănușile de ciclism de iarnă rezistente la vânt sunt absolut esențiale.",
-                "en": "Start your freezing ride among the stone pillars; windproof winter cycling gloves are absolutely essential for this trip."
+                "en": "Start your freezing ride among the stone pillars; windproof winter cycling gloves are absolutely essential for this trip.",
+                "hr": "Započnite smrznutu vožnju među kamenim stupovima; vjetrootporne zimske biciklističke rukavice su sasvim nužne za ovaj izlet."
               }
             },
             {
@@ -576,13 +638,15 @@
                 "de": "Festung Fortica",
                 "hu": "Fortica Erőd",
                 "ro": "Cetatea Fortica",
-                "en": "Fortica Fortress"
+                "en": "Fortica Fortress",
+                "hr": "Tvrđava Fortica"
               },
               "tip_5lang": {
                 "de": "Der Anstieg wird Sie schnell aufwärmen; achten Sie jedoch extrem auf gefährliches Glatteis auf dem Weg zur Ruine.",
                 "hu": "Az emelkedő gyorsan felmelegíti majd; de rendkívül ügyeljen a veszélyes tükörjégre a romok felé vezető útszakaszon.",
                 "ro": "Urcușul vă va încălzi rapid; totuși, fiți extrem de atenți la gheața neagră periculoasă de pe drumul spre ruină.",
-                "en": "The climb will warm you up quickly; however, be extremely watchful for dangerous black ice on the road up to the ruins."
+                "en": "The climb will warm you up quickly; however, be extremely watchful for dangerous black ice on the road up to the ruins.",
+                "hr": "Uspon će vas brzo zagrijati; međutim, budite izuzetno oprezni zbog opasnog crnog leda na cesti prema ruševinama."
               }
             },
             {
@@ -590,13 +654,15 @@
                 "de": "Inin vrh",
                 "hu": "Inin vrh",
                 "ro": "Inin vrh",
-                "en": "Inin vrh"
+                "en": "Inin vrh",
+                "hr": "Inin vrh"
               },
               "tip_5lang": {
                 "de": "Die klare Winterluft füllt die Lungen; thermische Unterwäsche ist wichtig, um auf diesen exponierten Pfaden nicht auszukühlen.",
                 "hu": "A tiszta téli levegő felfrissíti a tüdőt; a termo aláöltözet fontos, hogy ne hűljön ki ezen a szélnek kitett ösvényen.",
                 "ro": "Aerul curat de iarnă umple plămânii; lenjeria termică este importantă pentru a nu vă răci pe aceste trasee expuse.",
-                "en": "The crisp winter air fills your lungs; thermal base layers are important so you don't freeze on these exposed trails."
+                "en": "The crisp winter air fills your lungs; thermal base layers are important so you don't freeze on these exposed trails.",
+                "hr": "Oštar zimski zrak ispunjava pluća; termo donje rublje je važno kako ne biste promrzli na ovim izloženim stazama."
               }
             },
             {
@@ -604,13 +670,15 @@
                 "de": "Milešnjak",
                 "hu": "Milešnjak",
                 "ro": "Milešnjak",
-                "en": "Milešnjak"
+                "en": "Milešnjak",
+                "hr": "Milešnjak"
               },
               "tip_5lang": {
                 "de": "Radeln Sie durch den kahlen Winterwald; halten Sie Ihr Tempo gleichmäßig hoch, um Ihre Körperwärme dauerhaft zu erhalten.",
                 "hu": "Tekerjen át a kopár téli erdőn; tartson egyenletes, élénk tempót, hogy folyamatosan fenntartsa a testhőmérsékletét.",
                 "ro": "Pedalați prin pădurea de iarnă goală; mențineți un ritm constant pentru a vă păstra căldura corpului pe termen lung.",
-                "en": "Cycle through the bare winter woods; maintain a steady, brisk pace to generate and keep your body heat effectively."
+                "en": "Cycle through the bare winter woods; maintain a steady, brisk pace to generate and keep your body heat effectively.",
+                "hr": "Vozite kroz ogoljenu zimsku šumu; održavajte stalan, brz tempo kako biste učinkovito generirali i zadržali tjelesnu toplinu."
               }
             },
             {
@@ -618,13 +686,15 @@
                 "de": "Rastik",
                 "hu": "Rastik",
                 "ro": "Rastik",
-                "en": "Rastik"
+                "en": "Rastik",
+                "hr": "Rastik"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die raue Schönheit der Frostlandschaft; prüfen Sie Ihren Reifendruck, der bei starker Kälte abnehmen kann.",
                 "hu": "Élvezze a zúzmarás táj nyers szépségét; ellenőrizze a guminyomást, amely a nagy hidegben hajlamos jelentősen csökkenni.",
                 "ro": "Bucurați-vă de frumusețea brută a peisajului înghețat; verificați presiunea anvelopelor, care poate scădea la frig extrem.",
-                "en": "Enjoy the stark beauty of the frosted landscape; check your tire pressure, which tends to drop significantly in extreme cold."
+                "en": "Enjoy the stark beauty of the frosted landscape; check your tire pressure, which tends to drop significantly in extreme cold.",
+                "hr": "Uživajte u oštrini zaleđenog krajolika; provjerite tlak u gumama, koji se u ekstremnoj hladnoći značajno spušta."
               }
             },
             {
@@ -632,13 +702,15 @@
                 "de": "Fluss Gacka",
                 "hu": "Gacka folyó",
                 "ro": "Râul Gacka",
-                "en": "Gacka River"
+                "en": "Gacka River",
+                "hr": "Rijeka Gacka"
               },
               "tip_5lang": {
                 "de": "Da es um 16:30 dunkel wird, leuchtet der Fluss magisch im Abendrot; stellen Sie sicher, dass Ihr Fahrradlicht voll geladen ist.",
                 "hu": "Mivel 16:30-kor sötétedik, a folyó varázslatosan fest az alkonyatban; győződjön meg róla, hogy a lámpája teljesen fel van töltve.",
                 "ro": "Deoarece se întunecă la 16:30, râul strălucește magic la apus; asigurați-vă că luminile bicicletei sunt complet încărcate.",
-                "en": "Since it gets dark at 16:30, the river looks magical at dusk; make absolutely sure your bike lights are fully charged."
+                "en": "Since it gets dark at 16:30, the river looks magical at dusk; make absolutely sure your bike lights are fully charged.",
+                "hr": "Budući da se smrkava oko 16:30, rijeka izgleda čarobno u sumrak; obavezno napunite svjetla na biciklu."
               }
             }
           ]
@@ -658,7 +730,8 @@
             "de": "Gacka-Park der kroatischen Erinnerung",
             "hu": "Gačanski Horvát Emlékpark",
             "ro": "Parcul Memoriei Croate Gačanski",
-            "en": "Gačanski Park of Croatian Memory"
+            "en": "Gačanski Park of Croatian Memory",
+            "hr": "Gačanski park hrvatske memorije"
           },
           "coords": [
             15.236997,
@@ -673,7 +746,8 @@
             "de": "Nehmen Sie sich Zeit, die beeindruckenden Steinskulpturen des lokalen Erbes zu bewundern, bevor Sie auf den ruhigen Holzbänken unter den Bäumen eine kleine Pause einlegen.",
             "hu": "Szánjon időt a gazdag helyi örökséget őrző lenyűgöző kőszobrok megcsodálására, mielőtt egy békés pillanat erejéig megpihenne a fák alatti csendes fapadokon.",
             "ro": "Acordați-vă timp pentru a admira sculpturile impresionante din piatră ce onorează patrimoniul local înainte de a vă odihni pe băncile de lemn liniștite de sub copaci.",
-            "en": "Take time to admire the impressive stone sculptures honoring rich local heritage before enjoying a peaceful moment to rest on the quiet wooden benches under the trees."
+            "en": "Take time to admire the impressive stone sculptures honoring rich local heritage before enjoying a peaceful moment to rest on the quiet wooden benches under the trees.",
+            "hr": "Odvojite vrijeme da se divite impresivnim kamenim skulpturama koje odaju počast bogatoj lokalnoj baštini, a zatim se u miru odmorite na tihim drvenim klupama pod stablima."
           }
         },
         {
@@ -681,7 +755,8 @@
             "de": "Festung Fortica",
             "hu": "Fortica Erőd",
             "ro": "Cetatea Fortica",
-            "en": "Fortica Fortress"
+            "en": "Fortica Fortress",
+            "hr": "Tvrđava Fortica"
           },
           "coords": [
             15.233907,
@@ -696,7 +771,8 @@
             "de": "Erkunden Sie die alten Ruinen dieser historischen Festung für einen Panoramablick auf Otočac und tragen Sie unbedingt festes Schuhwerk für den leicht unebenen, felsigen Weg.",
             "hu": "Fedezze fel az ősi történelmi erőd romjait Otočac panorámájáért, és ne felejtsen el masszív cipőt viselni a dombra vezető, kissé egyenetlen és sziklás ösvény miatt.",
             "ro": "Explorați ruinele antice ale acestei fortărețe istorice pentru priveliști panoramice asupra orașului Otočac și purtați încălțăminte robustă pentru poteca ușor accidentată.",
-            "en": "Explore the ancient ruins of this historic fortress for panoramic views of Otočac, and remember to wear sturdy shoes for the slightly uneven, rocky path leading up the hill."
+            "en": "Explore the ancient ruins of this historic fortress for panoramic views of Otočac, and remember to wear sturdy shoes for the slightly uneven, rocky path leading up the hill.",
+            "hr": "Istražite drevne ruševine ove povijesne tvrđave za panoramski pogled na Otočac, i ne zaboravite obući čvrstu obuću zbog malo neravnog, kamenitog puta uz brdo."
           }
         },
         {
@@ -704,7 +780,8 @@
             "de": "Milešnjak",
             "hu": "Milešnjak",
             "ro": "Milešnjak",
-            "en": "Milešnjak"
+            "en": "Milešnjak",
+            "hr": "Milešnjak"
           },
           "coords": [
             15.225922,
@@ -719,7 +796,8 @@
             "de": "Entdecken Sie diesen ruhigen, unberührten Naturort abseits der geschäftigen Massen, der sich ideal zur Vogelbeobachtung eignet, aber bleiben Sie unbedingt auf den Wegen.",
             "hu": "Fedezze fel ezt a csendes, érintetlen természeti helyet távol a nyüzsgő tömegtől, amely ideális madármegfigyelésre, de mindenképpen maradjon szorosan a kijelölt ösvényeken.",
             "ro": "Descoperiți acest loc natural liniștit și neatins, departe de aglomerația plină de viață, ideal pentru observarea păsărilor, dar asigurați-vă că rămâneți pe traseele marcate.",
-            "en": "Discover this quiet, unspoiled natural spot away from the bustling crowds, which is ideal for bird watching, but be absolutely sure to stick closely to the marked trails."
+            "en": "Discover this quiet, unspoiled natural spot away from the bustling crowds, which is ideal for bird watching, but be absolutely sure to stick closely to the marked trails.",
+            "hr": "Otkrijte ovo mirno, netaknuto prirodno mjesto daleko od gužve, idealno za promatranje ptica, ali obavezno se striktno držite označenih staza."
           }
         },
         {
@@ -727,7 +805,8 @@
             "de": "Rastik",
             "hu": "Rastik",
             "ro": "Rastik",
-            "en": "Rastik"
+            "en": "Rastik",
+            "hr": "Rastik"
           },
           "coords": [
             15.212382,
@@ -742,7 +821,8 @@
             "de": "Atmen Sie in diesem ruhigen, von üppigem Grün umgebenen Naturwaldgebiet tief und erfrischend durch, was sich perfekt für eine beruhigende Meditation am späten Nachmittag eignet.",
             "hu": "Vegyen egy mély, frissítő lélegzetet ebben a buja zöld növényzettel körülvett békés erdei területen, amely tökéletesen alkalmas egy nyugtató, késő délutáni meditációs ülésre.",
             "ro": "Respirați adânc și revigorant în această zonă naturală de pădure senină înconjurată de verdeață luxuriantă, care este perfect potrivită pentru o sesiune de meditație calmantă.",
-            "en": "Take a deep, refreshing breath in this serene natural woodland area surrounded by lush greenery, which is perfectly suited for a calming, late afternoon meditation session."
+            "en": "Take a deep, refreshing breath in this serene natural woodland area surrounded by lush greenery, which is perfectly suited for a calming, late afternoon meditation session.",
+            "hr": "Uzmite dubok, osvježavajući udah u ovom mirnom šumskom području okruženom bujnom zelenilom, idealnom za opuštajuću kasnopopodnevnu meditaciju."
           }
         },
         {
@@ -750,7 +830,8 @@
             "de": "Fluss Gacka",
             "hu": "Gacka folyó",
             "ro": "Râul Gacka",
-            "en": "Gacka River"
+            "en": "Gacka River",
+            "hr": "Rijeka Gacka"
           },
           "coords": [
             15.210793,
@@ -765,7 +846,8 @@
             "de": "Machen Sie einen gemütlichen Spaziergang am kristallklaren Wasser des berühmten Flusses Gacka, um Forellen zu entdecken, und halten Sie Abstand zu den empfindlichen Ufern.",
             "hu": "Tegyen egy kellemes sétát a híres Gacka folyó kristálytiszta vize mentén a helyi pisztrángok megfigyelésére, miközben ügyel arra, hogy tisztes távolságot tartson a partoktól.",
             "ro": "Faceți o plimbare pe îndelete de-a lungul apelor cristaline ale faimosului râu Gacka pentru a zări păstrăvii locali, păstrând în același timp distanța față de malurile fragile.",
-            "en": "Take a leisurely stroll along the crystal-clear waters of the famous Gacka river to spot local trout, while taking care to maintain a respectful distance from the fragile banks."
+            "en": "Take a leisurely stroll along the crystal-clear waters of the famous Gacka river to spot local trout, while taking care to maintain a respectful distance from the fragile banks.",
+            "hr": "Uživajte u laganoj šetnji uz kristalno čistu vodu poznate rijeke Gacke kako biste vidjeli autohtone pastrve, pazeći pritom da održavate poštovan razmak od osjetljivih obala."
           }
         },
         {
@@ -773,7 +855,8 @@
             "de": "Perin vrh",
             "hu": "Perin vrh",
             "ro": "Perin vrh",
-            "en": "Perin vrh"
+            "en": "Perin vrh",
+            "hr": "Perin vrh"
           },
           "coords": [
             15.225236,
@@ -788,7 +871,8 @@
             "de": "Beenden Sie Ihren unvergesslichen Tagesausflug an diesem markanten südlichen Gipfel für einen atemberaubenden Sonnenuntergang, aber kehren Sie rechtzeitig vor der Dunkelheit um.",
             "hu": "Zárja emlékezetes egynapos kirándulását ezen a kiemelkedő déli csúcson egy igazán lenyűgöző naplementével, bár ne felejtsen el biztonságosan visszaindulni a teljes sötétség előtt.",
             "ro": "Încheiați-vă călătoria memorabilă de o zi pe acest vârf sudic proeminent pentru a prinde un apus cu adevărat uimitor, deși ar trebui să vă întoarceți în siguranță înainte de noapte.",
-            "en": "Conclude your memorable day trip at this prominent southern peak to catch a truly stunning sunset, though you should remember to head back safely before it gets completely dark."
+            "en": "Conclude your memorable day trip at this prominent southern peak to catch a truly stunning sunset, though you should remember to head back safely before it gets completely dark.",
+            "hr": "Završite nezaboravan izlet na ovom istaknutom južnom vrhu kako biste uhvatili zaista zadivljujući zalazak sunca, ali svakako se vratite sigurno prije potpune tmine."
           }
         }
       ],
@@ -796,7 +880,8 @@
         "de": "Beginnen Sie bequem mit einem Besuch im kulturellen Gedenkpark im Stadtzentrum.\n\nMachen Sie eine kurze Fahrt zu den Fortica-Ruinen, bevor Sie die nördlichen Landschaften erkunden.\n\nVerbringen Sie Ihren Mittag damit, die verschiedenen natürlichen Gipfel von Milešnjak und Rastik zu entdecken.\n\nSchließen Sie mit einem Halt an der Gacka und einem wunderschönen Sonnenuntergang am Perin vrh ab.",
         "hu": "Kezdje kényelmesen a kulturális emlékpark meglátogatásával a városközpontban.\n\nTegyen egy rövid utat a Fortica romjaihoz, mielőtt felfedezné az északi tájakat.\n\nTöltse a delet Milešnjak és Rastik változatos természeti csúcsainak és erdeinek felfedezésével.\n\nZárja egy festői megállóval a Gackánál, majd egy gyönyörű naplementével a Perin vrhnél.",
         "ro": "Începeți confortabil vizitând parcul memorial cultural din centrul orașului.\n\nFaceți o scurtă plimbare cu mașina până la ruinele Fortica înainte de a explora peisajele nordice.\n\nPetreceți-vă prânzul descoperind diversele vârfuri naturale și păduri din Milešnjak și Rastik.\n\nÎncheiați cu o oprire pitorească la Gacka, urmată de un apus superb la Perin vrh.",
-        "en": "Start comfortably by visiting the cultural memory park in the town center.\n\nTake a short drive to the Fortica ruins before exploring the northern landscapes.\n\nSpend your midday discovering the varied natural peaks and woodlands of Milešnjak and Rastik.\n\nEnd with a scenic stop at Gacka, followed by a gorgeous sunset at Perin vrh."
+        "en": "Start comfortably by visiting the cultural memory park in the town center.\n\nTake a short drive to the Fortica ruins before exploring the northern landscapes.\n\nSpend your midday discovering the varied natural peaks and woodlands of Milešnjak and Rastik.\n\nEnd with a scenic stop at Gacka, followed by a gorgeous sunset at Perin vrh.",
+        "hr": "Udobno započnite posjetom parku hrvatske memorije u središtu grada.\n\nUzmite kratku vožnju do ruševina Fortice prije istraživanja sjevernih krajolika.\n\nProvedite podne otkrivajući raznolike prirodne vrhove i šume Milešnjaka i Rastika.\n\nZavršite s panoramskom stankom na Gackoj, nakon čega slijedi predivan zalazak sunca na Perinom vrhu."
       },
       "variants": {
         "rainy": {
@@ -804,7 +889,8 @@
             "de": "Ein verregneter Roadtrip durch Otočac. Morgens parken Sie nah am Park für einen schnellen Spaziergang. Mittags fahren Sie vorsichtig auf der nassen Straße hinauf zur dramatischen Fortica. Der Nachmittag bietet landschaftlich reizvolle Autofahrten zu den Naturparks, bei denen Sie gemütlich im Trockenen sitzen. Am späten Nachmittag genießen Sie den Blick auf den verregneten Fluss Gacka direkt aus dem Auto.",
             "hu": "Esős autós túra Otočac körül. Reggel parkoljon közel a parkhoz egy gyors sétára. Délben óvatosan vezessen a vizes úton a drámai Fortica romjaihoz. A délután festői autózást kínál a természeti látnivalókhoz, miközben ön bent ül a száraz, fűtött autóban. Késő délután élvezze az eső áztatta Gacka folyó látványát a szélvédő mögül.",
             "ro": "O excursie ploioasă cu mașina prin Otočac. Dimineața parcați aproape de parc pentru o scurtă plimbare. La prânz, conduceți cu grijă pe drumul ud spre dramatica Fortica. După-amiaza oferă plimbări pitorești cu mașina spre atracții naturale, stând la cald și uscat. Spre seară, admirați râul Gacka în ploaie direct din mașină.",
-            "en": "A rainy road trip through Otočac. In the morning, park close to the memorial park for a quick stroll. By noon, drive carefully on the wet road up to the dramatic Fortica. The afternoon offers scenic drives to the nature spots while you stay completely dry inside. Late afternoon, enjoy the rainy views of the Gacka River directly from your car."
+            "en": "A rainy road trip through Otočac. In the morning, park close to the memorial park for a quick stroll. By noon, drive carefully on the wet road up to the dramatic Fortica. The afternoon offers scenic drives to the nature spots while you stay completely dry inside. Late afternoon, enjoy the rainy views of the Gacka River directly from your car.",
+            "hr": "Kišni road trip kroz Otočac. Ujutro parkirajte blizu memorijalnog parka za kratku šetnju. U podne, vozite pažljivo mokrim putem do dramatične Fortice. Poslijepodne nude slikovite vožnje do prirodnih lokacija dok ostajete potpuno suhi u automobilu. Kasnopopodne uživajte u kišnim pogledima na rijeku Gacku direktno iz auta."
           },
           "stops": [
             {
@@ -812,13 +898,15 @@
                 "de": "Gacka-Park der kroatischen Erinnerung",
                 "hu": "Gačanski Horvát Emlékpark",
                 "ro": "Parcul Memoriei Croate Gačanski",
-                "en": "Gačanski Park of Croatian Memory"
+                "en": "Gačanski Park of Croatian Memory",
+                "hr": "Gačanski park hrvatske memorije"
               },
               "tip_5lang": {
                 "de": "Parken Sie ganz in der Nähe und machen Sie einen kurzen Spaziergang mit einem großen Regenschirm, um die Steingravuren zu sehen.",
                 "hu": "Parkoljon a közvetlen közelben, és tegyen egy rövid sétát egy hatalmas esernyővel, hogy megnézze a kőfaragásokat.",
                 "ro": "Parcați foarte aproape și faceți o scurtă plimbare cu o umbrelă mare pentru a vedea gravurile în piatră.",
-                "en": "Park very close by and take a short walk with a large umbrella to admire the intricate stone carvings in the rain."
+                "en": "Park very close by and take a short walk with a large umbrella to admire the intricate stone carvings in the rain.",
+                "hr": "Parkirajte vrlo blizu i učinite kratku šetnju s velikim kišobranom da biste u kiši razgledali složene kamene reljefe."
               }
             },
             {
@@ -826,13 +914,15 @@
                 "de": "Festung Fortica",
                 "hu": "Fortica Erőd",
                 "ro": "Cetatea Fortica",
-                "en": "Fortica Fortress"
+                "en": "Fortica Fortress",
+                "hr": "Tvrđava Fortica"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig die nasse Straße hinauf; die Ruinen heben sich dramatisch vom grauen, wolkenverhangenen Himmel ab.",
                 "hu": "Vezessen lassan és óvatosan a vizes úton; a romok drámaian rajzolódnak ki a szürke, esőfelhőkkel teli égbolt előtt.",
                 "ro": "Conduceți cu grijă pe drumul ud; ruinele ies în evidență dramatic pe fundalul cerului gri, plin de nori.",
-                "en": "Drive carefully up the wet road; the ancient ruins stand out dramatically against the dark, grey, rain-filled sky."
+                "en": "Drive carefully up the wet road; the ancient ruins stand out dramatically against the dark, grey, rain-filled sky.",
+                "hr": "Vozite pažljivo mokrim putem; drevne ruševine dramatično odskaču na tamnom, sivom, kišom ispunjenom nebu."
               }
             },
             {
@@ -840,13 +930,15 @@
                 "de": "Milešnjak",
                 "hu": "Milešnjak",
                 "ro": "Milešnjak",
-                "en": "Milešnjak"
+                "en": "Milešnjak",
+                "hr": "Milešnjak"
               },
               "tip_5lang": {
                 "de": "Genießen Sie die sattgrüne, regennasse Natur bequem aus dem Auto; steigen Sie nur kurz mit wasserfesten Stiefeln aus.",
                 "hu": "Élvezze az eső áztatta, mélyzöld természetet az autóból; csak röviden szálljon ki, és mindenképp viseljen vízálló csizmát.",
                 "ro": "Bucurați-vă de natura verde și udă din confortul mașinii; coborâți doar pentru scurt timp, purtând cizme impermeabile.",
-                "en": "Enjoy the lush, rain-soaked nature from the comfort of your car; step out only briefly wearing waterproof boots."
+                "en": "Enjoy the lush, rain-soaked nature from the comfort of your car; step out only briefly wearing waterproof boots.",
+                "hr": "Uživajte u bujnoj, natopljenoj prirodi iz udobnosti svog auta; siđite van samo nakratko u vodootpornim čizmama."
               }
             },
             {
@@ -854,13 +946,15 @@
                 "de": "Rastik",
                 "hu": "Rastik",
                 "ro": "Rastik",
-                "en": "Rastik"
+                "en": "Rastik",
+                "hr": "Rastik"
               },
               "tip_5lang": {
                 "de": "Der Wald wirkt im Regen fast mystisch; schalten Sie die Klimaanlage ein, um die beschlagenen Autoscheiben frei zu halten.",
                 "hu": "Az erdő szinte misztikusnak hat az esőben; kapcsolja be a klímát, hogy a bepárásodott szélvédő gyorsan letisztuljon.",
                 "ro": "Pădurea pare aproape mistică în ploaie; porniți aerul condiționat pentru a menține geamurile mașinii neaburite.",
-                "en": "The forest looks almost mystical in the pouring rain; turn on the AC to keep your car windows completely defogged."
+                "en": "The forest looks almost mystical in the pouring rain; turn on the AC to keep your car windows completely defogged.",
+                "hr": "Šuma izgleda gotovo mistično po pljusku; uključite klimu da vam stakla u autu ostanu potpuno odmagljena."
               }
             },
             {
@@ -868,13 +962,15 @@
                 "de": "Fluss Gacka",
                 "hu": "Gacka folyó",
                 "ro": "Râul Gacka",
-                "en": "Gacka River"
+                "en": "Gacka River",
+                "hr": "Rijeka Gacka"
               },
               "tip_5lang": {
                 "de": "Parken Sie direkt am Ufer und beobachten Sie das prasselnde Spektakel der Regentropfen auf dem klaren Wasser aus dem Trockenen.",
                 "hu": "Parkoljon közvetlenül a parton, és nézze a száraz, meleg autóból, ahogy az esőcseppek a kristálytiszta vízbe csapódnak.",
                 "ro": "Parcați chiar pe mal și urmăriți spectacolul ploii pe apa limpede, rămânând la uscat în mașină.",
-                "en": "Park right by the riverside and comfortably watch the raindrops hitting the crystal-clear water from inside your dry car."
+                "en": "Park right by the riverside and comfortably watch the raindrops hitting the crystal-clear water from inside your dry car.",
+                "hr": "Parkirajte točno uz obalu i udobno promatrajte kapljice kiše koje udaraju u kristalno čistu vodu iz unutrašnjosti suhog auta."
               }
             },
             {
@@ -882,13 +978,15 @@
                 "de": "Perin vrh",
                 "hu": "Perin vrh",
                 "ro": "Perin vrh",
-                "en": "Perin vrh"
+                "en": "Perin vrh",
+                "hr": "Perin vrh"
               },
               "tip_5lang": {
                 "de": "Die Bergstraße kann bei Regen sehr schlammig werden; fahren Sie langsam und genießen Sie die düsteren Talblicke von oben.",
                 "hu": "A hegyi út esőben kifejezetten sarassá válhat; vezessen lassan, és élvezze a borongós völgy panorámáját a tetőről.",
                 "ro": "Drumul de munte poate deveni foarte noroios pe ploaie; conduceți încet și bucurați-vă de priveliștile sumbre ale văii de sus.",
-                "en": "The mountain road can get quite muddy in the rain; drive slowly and enjoy the moody, overcast valley views from the top."
+                "en": "The mountain road can get quite muddy in the rain; drive slowly and enjoy the moody, overcast valley views from the top.",
+                "hr": "Planinski put može postati prilično blatan na kiši; vozite polako i uživajte u tmurnim, oblačnim pogledima na dolinu s vrha."
               }
             }
           ]
@@ -898,7 +996,8 @@
             "de": "Ein komfortabler Winter-Roadtrip. Am Morgen besichtigen Sie die frostigen Skulpturen. Mittags bietet die Fahrt zur Fortica freie Sicht durch kahle Bäume. Der Nachmittag ist geprägt von warmen Fahrten durch die eisige Naturlandschaft. Beenden Sie den Tag frühzeitig am Fluss Gacka und auf dem Perin vrh, um den schönen, aber frühen Sonnenuntergang um 16:30 Uhr aus dem beheizten Auto zu erleben.",
             "hu": "Kényelmes téli autóstúra. Reggel megnézi a deres szobrokat, majd beül a fűtött autóba. Délben a Fortica felé vezető út zavartalan kilátást nyújt a csupasz fák közt. A délután a fagyos természeti tájak felfedezésével telik a meleg kocsiból. Zárja a napot a Gacka folyónál és a Perin vrhnél, hogy a 16:30-as korai naplementét élvezhesse.",
             "ro": "O excursie confortabilă de iarnă cu mașina. Dimineața vedeți sculpturile înghețate. La prânz, drumul spre Fortica oferă vederi libere prin copacii goi. După-amiaza vă plimbați la căldură prin peisajul înghețat. Încheiați ziua devreme la râul Gacka și pe Perin vrh, pentru a prinde apusul superb de la 16:30 din mașina încălzită.",
-            "en": "A comfortable winter road trip. Morning starts with frosty sculptures before returning to a warm car. By noon, the drive to Fortica provides unobstructed views through bare trees. The afternoon is spent driving through the icy landscape in comfort. End your day at the Gacka River and Perin vrh to catch the early 16:30 sunset from the heated car."
+            "en": "A comfortable winter road trip. Morning starts with frosty sculptures before returning to a warm car. By noon, the drive to Fortica provides unobstructed views through bare trees. The afternoon is spent driving through the icy landscape in comfort. End your day at the Gacka River and Perin vrh to catch the early 16:30 sunset from the heated car.",
+            "hr": "Ugodan zimski road trip. Jutro započinje s oslikanim mrazom na spomenicima prije povratka u topao auto. U podne, vožnja do Fortice pruža neometane poglede kroz ogoljelo drveće. Poslijepodne provodite vozeći se kroz zaleđeni krajolik u udobnosti. Završite dan na rijeci Gackoj i Perinom vrhu kako biste iz grijanja auta uhvatili rani zalazak sunca u 16:30."
           },
           "stops": [
             {
@@ -906,13 +1005,15 @@
                 "de": "Gacka-Park der kroatischen Erinnerung",
                 "hu": "Gačanski Horvát Emlékpark",
                 "ro": "Parcul Memoriei Croate Gačanski",
-                "en": "Gačanski Park of Croatian Memory"
+                "en": "Gačanski Park of Croatian Memory",
+                "hr": "Gačanski park hrvatske memorije"
               },
               "tip_5lang": {
                 "de": "Die gefrorenen Monumente sind ein tolles Fotomotiv; lassen Sie die Autoheizung an für ein schnelles Aufwärmen danach.",
                 "hu": "A megfagyott emlékművek remek fotótémát nyújtanak; hagyja bekapcsolva az autó fűtését a gyors felmelegedéshez utána.",
                 "ro": "Monumentele înghețate sunt un subiect foto excelent; lăsați căldura pornită în mașină pentru a vă încălzi rapid ulterior.",
-                "en": "The frosted monuments are a great photo opportunity; leave the car heater running for a quick warmup after stepping outside."
+                "en": "The frosted monuments are a great photo opportunity; leave the car heater running for a quick warmup after stepping outside.",
+                "hr": "Osmrznuti spomenici su sjajna prilika za fotografiju; ostavite grijač auta uključen za brzo zagrijavanje nakon izlaska van."
               }
             },
             {
@@ -920,13 +1021,15 @@
                 "de": "Festung Fortica",
                 "hu": "Fortica Erőd",
                 "ro": "Cetatea Fortica",
-                "en": "Fortica Fortress"
+                "en": "Fortica Fortress",
+                "hr": "Tvrđava Fortica"
               },
               "tip_5lang": {
                 "de": "Winterfahrten hier bieten freie Sicht durch entlaubte Bäume; Vorsicht vor tückischen Eisplatten auf dem Parkplatz.",
                 "hu": "A téli autózás itt zavartalan kilátást nyújt a lombhullatott fákon át; vigyázzon a trükkös jégfoltokra a parkolóban.",
                 "ro": "Condusul iarna aici oferă vizibilitate liberă prin copacii fără frunze; atenție la peticele periculoase de gheață din parcare.",
-                "en": "Winter drives here offer unobstructed views through the bare trees; beware of tricky ice patches in the parking area."
+                "en": "Winter drives here offer unobstructed views through the bare trees; beware of tricky ice patches in the parking area.",
+                "hr": "Zimske vožnje ovdje pružaju neometane poglede kroz ogoljelo drveće; pazite na zahtjevne plohe leda na parkiralištu."
               }
             },
             {
@@ -934,13 +1037,15 @@
                 "de": "Milešnjak",
                 "hu": "Milešnjak",
                 "ro": "Milešnjak",
-                "en": "Milešnjak"
+                "en": "Milešnjak",
+                "hr": "Milešnjak"
               },
               "tip_5lang": {
                 "de": "Die zugefrorene Landschaft sieht beeindruckend aus; bringen Sie eine Thermoskanne mit heißem Tee für diesen kalten Stopp mit.",
                 "hu": "A befagyott táj lenyűgözően néz ki; hozzon magával egy termosz forró teát ehhez a hideg, természetközeli megállóhoz.",
                 "ro": "Peisajul înghețat arată impresionant; aduceți un termos cu ceai fierbinte pentru această oprire rece în natură.",
-                "en": "The frozen landscape looks stunning; make sure to bring a thermos filled with hot tea for this chilly nature stop."
+                "en": "The frozen landscape looks stunning; make sure to bring a thermos filled with hot tea for this chilly nature stop.",
+                "hr": "Zaleđeni krajolik izgleda zadivljujuće; obavezno ponesite termosicu s vrućim čajem za ovaj hladni prirodni predah."
               }
             },
             {
@@ -948,13 +1053,15 @@
                 "de": "Rastik",
                 "hu": "Rastik",
                 "ro": "Rastik",
-                "en": "Rastik"
+                "en": "Rastik",
+                "hr": "Rastik"
               },
               "tip_5lang": {
                 "de": "Die Fahrt durch den ruhigen Winterwald ist extrem friedlich; stellen Sie sicher, dass Ihr Auto mit guten Winterreifen ausgestattet ist.",
                 "hu": "Az utazás a csendes téli erdőn át rendkívül békés; feltétlenül győződjön meg róla, hogy autója jó minőségű téli gumikkal van felszerelve.",
                 "ro": "Condusul prin pădurea liniștită de iarnă este extrem de pașnic; asigurați-vă că mașina are anvelope de iarnă bune.",
-                "en": "Driving through the quiet winter forest is extremely peaceful; ensure your car is properly equipped with good winter tires."
+                "en": "Driving through the quiet winter forest is extremely peaceful; ensure your car is properly equipped with good winter tires.",
+                "hr": "Vožnja kroz tihu zimsku šumu izuzetno je mirna; provjerite je li vaš auto pravilno opremljen dobrim zimskim gumama."
               }
             },
             {
@@ -962,13 +1069,15 @@
                 "de": "Fluss Gacka",
                 "hu": "Gacka folyó",
                 "ro": "Râul Gacka",
-                "en": "Gacka River"
+                "en": "Gacka River",
+                "hr": "Rijeka Gacka"
               },
               "tip_5lang": {
                 "de": "Der kalte Wassernebel ist im späten Winterlicht magisch; ziehen Sie sich für einen kurzen Uferspaziergang sehr warm an.",
                 "hu": "A hideg vízpára a késő téli fényekben varázslatos; öltözzön fel nagyon melegen, ha tesz egy rövid sétát a folyóparton.",
                 "ro": "Ceața rece a apei este magică în lumina târzie de iarnă; îmbrăcați-vă foarte gros pentru o scurtă plimbare pe mal.",
-                "en": "The cold water mist is magical in the late winter afternoon light; bundle up warmly for a quick walk along the riverbank."
+                "en": "The cold water mist is magical in the late winter afternoon light; bundle up warmly for a quick walk along the riverbank.",
+                "hr": "Hladna riječna izmaglica čarobna je u kasnopopodnevnom zimskom svjetlu; debelo se zalijegajte za kratku šetnju uz obalu."
               }
             },
             {
@@ -976,13 +1085,15 @@
                 "de": "Perin vrh",
                 "hu": "Perin vrh",
                 "ro": "Perin vrh",
-                "en": "Perin vrh"
+                "en": "Perin vrh",
+                "hr": "Perin vrh"
               },
               "tip_5lang": {
                 "de": "Erreichen Sie den Gipfel rechtzeitig, um vor dem frühen Sonnenuntergang gegen 16:30 Uhr das wunderschöne Alpenglühen zu sehen.",
                 "hu": "Érjen fel a csúcsra időben, hogy még a 16:30-as korai naplemente előtt megcsodálhassa a völgy feletti gyönyörű alpesi fényt.",
                 "ro": "Ajungeți în vârf la timp pentru a prinde superba strălucire alpină înainte de apusul timpuriu de la 16:30.",
-                "en": "Reach the peak in time to catch the beautiful alpenglow over the valley before the early winter sunset around 16:30."
+                "en": "Reach the peak in time to catch the beautiful alpenglow over the valley before the early winter sunset around 16:30.",
+                "hr": "Stignite na vrh na vrijeme da uhvatite prekrasni alpenglow nad dolinom prije ranog zimskog zalaska sunca oko 16:30."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Altstadt von Pag",
             "hu": "Pag óvárosa",
             "ro": "Orașul vechi Pag",
-            "en": "Pag Old Town"
+            "en": "Pag Old Town",
+            "hr": "Stari grad Pag"
           },
           "coords": [
             15.0567,
@@ -37,7 +38,7 @@
             "hu": "Csodálja meg Juraj Dalmatinac reneszánsz várostervezését.",
             "ro": "Admirați planificarea urbană renascentistă a lui Juraj Dalmatinac.",
             "en": "Admire the Renaissance urban planning by Juraj Dalmatinac.",
-            "hr": "Divite se renesansnom urbanističkom planiranju Jurja Dalmatinca."
+            "hr": "Divite se renesansnom urbanističkom rješenju Jurja Dalmatinca."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Rektorenpalast",
             "hu": "Hercegi palota",
             "ro": "Palatul Rectorului",
-            "en": "Rector's Palace"
+            "en": "Rector's Palace",
+            "hr": "Knežev dvor"
           },
           "coords": [
             15.056,
@@ -61,7 +63,7 @@
             "hu": "Egykor a velencei közigazgatás székhelye volt a szigeten.",
             "ro": "Fostul sediu al administrației venețiene pe insulă.",
             "en": "Once the seat of the Venetian administration on the island.",
-            "hr": "Nekadašnje sjedište mletačke uprave na otoku."
+            "hr": "Nekad sjedište mletačke uprave na otoku."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Szűz Mária Mennybevétele templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption"
+            "en": "Church of the Assumption",
+            "hr": "Crkva Uznesenja Marijina"
           },
           "coords": [
             15.0562,
@@ -93,7 +96,8 @@
             "de": "Spitzenmuseum Pag",
             "hu": "Pagi csipkemúzeum",
             "ro": "Muzeul Dantelei din Pag",
-            "en": "Pag Lace Museum"
+            "en": "Pag Lace Museum",
+            "hr": "Muzej paganske čipke"
           },
           "coords": [
             15.0558,
@@ -109,7 +113,7 @@
             "hu": "A pagi csipke az UNESCO világörökség része.",
             "ro": "Dantela de Pag face parte din patrimoniul mondial UNESCO.",
             "en": "Pag lace is part of the UNESCO World Heritage.",
-            "hr": "Paška čipka dio je UNESCO-ve svjetske baštine."
+            "hr": "Paganska čipka dio je UNESCO-ove svjetske baštine."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Katine-Brücke",
             "hu": "Katine-híd",
             "ro": "Podul Katine",
-            "en": "Katine Bridge"
+            "en": "Katine Bridge",
+            "hr": "Katina ćuprija"
           },
           "coords": [
             15.0535,
@@ -133,7 +138,7 @@
             "hu": "A régi velencei híd modern másolata.",
             "ro": "O replică modernă a vechiului pod venețian.",
             "en": "A modern replica of the old Venetian bridge.",
-            "hr": "Moderna replika starog mletačkog mosta."
+            "hr": "Moderna replika stare mletačke ćuprije."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Salzmuseum",
             "hu": "Sómuzeum",
             "ro": "Muzeul Sării",
-            "en": "Salt Museum"
+            "en": "Salt Museum",
+            "hr": "Muzej soli"
           },
           "coords": [
             15.06,
@@ -157,7 +163,7 @@
             "hu": "Ismerje meg a sziget „fehér aranyának” történetét.",
             "ro": "Aflați mai multe despre „aurul alb” al insulei Pag.",
             "en": "Learn more about the 'white gold' of Pag island.",
-            "hr": "Saznajte više o 'bijelom zlatu' otoka Paga."
+            "hr": "Saznajte više o \"bijelom zlatu\" otoka Paga."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Skrivanat-Turm",
             "hu": "Skrivanat-torony",
             "ro": "Turnul Skrivanat",
-            "en": "Skrivanat Tower"
+            "en": "Skrivanat Tower",
+            "hr": "Skrivanatova kula"
           },
           "coords": [
             15.0575,
@@ -181,7 +188,7 @@
             "hu": "Az egyetlen épségben maradt torony a város kilenc tornyából.",
             "ro": "Singurul turn rămas din cele nouă pe care le avea orașul.",
             "en": "The only remaining tower of the city's original nine.",
-            "hr": "Jedina preostala kula od izvornih devet gradskih kula."
+            "hr": "Jedina preostala kula od prvotnih devet u gradu."
           }
         },
         {
@@ -189,7 +196,8 @@
             "de": "Strand Prosika",
             "hu": "Prosika strand",
             "ro": "Plaja Prosika",
-            "en": "Prosika Beach"
+            "en": "Prosika Beach",
+            "hr": "Plaža Prosika"
           },
           "coords": [
             15.048,
@@ -205,7 +213,7 @@
             "hu": "Tökéletes egy frissítő csobbanáshoz a nap végén.",
             "ro": "Perfect pentru o baie revigorantă la sfârșitul zilei.",
             "en": "Perfect for a refreshing dip at the end of the day.",
-            "hr": "Savršeno za osvježavajuće kupanje na kraju dana."
+            "hr": "Savršeno za osvježavajući kupanje na kraju dana."
           }
         }
       ],
@@ -214,7 +222,7 @@
         "hu": "A napja Pag reneszánsz városának szívében kezdődik. Fedezze fel a főteret és a Hercegi palotát, miközben a város ébredezik. Délben merüljön el a pagi csipke lenyűgöző világában, amely olyan finom művészeti forma, hogy az UNESCO örökség része. Délután sétáljon el a Katine-hídhoz, és látogassa meg a Sómuzeumot, hogy megértse a sólepárlás jelentőségét a sziget számára. Az estét a Skrivanat-toronynál és a Prosika strandon zárja, ahol élvezheti az aranyórát.",
         "ro": "Ziua începe în inima orașului renascentist Pag. Explorați piața centrală și Palatul Rectorului pe măsură ce orașul se trezește. La prânz, scufundați-vă în lumea fascinantă a dantelei de Pag, o formă de artă atât de fină încât face parte din patrimoniul UNESCO. După-amiaza, plimbați-vă până la Podul Katine și vizitați Muzeul Sării pentru a înțelege importanța producției de sare pentru insulă. Seara se încheie la Turnul Skrivanat și pe plaja Prosika, unde vă puteți bucura de ora de aur.",
         "en": "Your day starts in the heart of the Renaissance city of Pag. Explore the main square and the Rector's Palace as the city wakes up. At midday, immerse yourself in the fascinating world of Pag lace, an art form so fine it's part of UNESCO heritage. In the afternoon, stroll to the Katine Bridge and visit the Salt Museum to understand the significance of salt production for the island. The evening ends at the Skrivanat Tower and Prosika Beach, where you can enjoy the golden hour.",
-        "hr": "Vaš dan počinje u srcu renesansnog grada Paga. Istražite glavni trg i Knežev dvor dok se grad budi. U podne uronite u fascinantni svijet paške čipke, umjetnosti toliko profinjene da je dio UNESCO-ve baštine. Poslijepodne prošećite do mosta Katine i posjetite Muzej soli kako biste razumjeli važnost proizvodnje soli za otok. Večer završava kod kule Skrivanat i plaže Prosika, gdje možete uživati u zlatnom satu."
+        "hr": "Vaš dan počinje u srcu renesansnog grada Paga. Istražite glavni trg i Kneževu palaču dok se grad budi. U podne zaronite u fascinantan svijet paganske čipke, umjetnosti toliko fine da je dio UNESCO-ove baštine. Poslijepodne prošećite do Katine ćuprije i posjetite Muzej soli kako biste razumjeli značaj proizvodnje soli za otok. Večer završava kod Skrivanatove kule i plaže Prosika, gdje možete uživati u zlatnom satu."
       },
       "gastro_picks": {
         "de": [
@@ -457,11 +465,11 @@
           "Most sights are within walking distance of each other."
         ],
         "hr": [
-          "Nosite udobnu obuću za popločane ulice u starom gradu.",
-          "Posjetite muzej čipke rano ujutro kako biste izbjegli gužve.",
-          "U Pagu može biti vrlo vjetrovito (bura), neka vam lagana jakna bude pri ruci.",
-          "Probajte baškotine, koji se prodaju samo u benediktinskom samostanu.",
-          "Većina znamenitosti udaljena je tek nekoliko minuta hoda jedna od druge."
+          "Nosite udobnu obuću za kaldrmite u starom gradu.",
+          "Posjetite muzej čipke rano tijekom dana da izbjegnete gužve.",
+          "Na Pagu zna biti vrlo vjetrovito (Bura), imajte laganu jaknu pri ruci.",
+          "Isprobajte Bashkotin kekse, prodaju se samo u benediktinskom samostanu.",
+          "Većina znamenitosti udaljena je pješice jedna od druge."
         ]
       },
       "variants": {
@@ -470,7 +478,8 @@
             "de": "Ihr Tag beginnt im Herzen der Renaissance-Stadt Pag. Erkunden Sie den zentralen Platz und den Rektorenpalast, während die Stadt erwacht. Zum Mittagessen tauchen Sie in die faszinierende Welt der Pager Spitze ein, einer Kunstform, die so fein ist, dass sie zum UNESCO-Erbe zählt. Am Nachmittag spazieren Sie zur Katine-Brücke und besuchen das Salzmuseum, um die Bedeutung der Salzgewinnung für die Insel zu verstehen. Den Abend lassen Sie am Skrivanat-Turm und am Strand Prosika ausklingen, wo Sie die goldene Stunde genießen können.",
             "hu": "A napja Pag reneszánsz városának szívében kezdődik. Fedezze fel a főteret és a Hercegi palotát, miközben a város ébredezik. Délben merüljön el a pagi csipke lenyűgöző világában, amely olyan finom művészeti forma, hogy az UNESCO örökség része. Délután sétáljon el a Katine-hídhoz, és látogassa meg a Sómuzeumot, hogy megértse a sólepárlás jelentőségét a sziget számára. Az estét a Skrivanat-toronynál és a Prosika strandon zárja, ahol élvezheti az aranyórát.",
             "ro": "Ziua începe în inima orașului renascentist Pag. Explorați piața centrală și Palatul Rectorului pe măsură ce orașul se trezește. La prânz, scufundați-vă în lumea fascinantă a dantelei de Pag, o formă de artă atât de fină încât face parte din patrimoniul UNESCO. După-amiaza, plimbați-vă până la Podul Katine și vizitați Muzeul Sării pentru a înțelege importanța producției de sare pentru insulă. Seara se încheie la Turnul Skrivanat și pe plaja Prosika, unde vă puteți bucura de ora de aur.",
-            "en": "Your day starts in the heart of the Renaissance city of Pag. Explore the main square and the Rector's Palace as the city wakes up. At midday, immerse yourself in the fascinating world of Pag lace, an art form so fine it's part of UNESCO heritage. In the afternoon, stroll to the Katine Bridge and visit the Salt Museum to understand the significance of salt production for the island. The evening ends at the Skrivanat Tower and Prosika Beach, where you can enjoy the golden hour."
+            "en": "Your day starts in the heart of the Renaissance city of Pag. Explore the main square and the Rector's Palace as the city wakes up. At midday, immerse yourself in the fascinating world of Pag lace, an art form so fine it's part of UNESCO heritage. In the afternoon, stroll to the Katine Bridge and visit the Salt Museum to understand the significance of salt production for the island. The evening ends at the Skrivanat Tower and Prosika Beach, where you can enjoy the golden hour.",
+            "hr": "Vaš dan počinje u srcu renesansnog grada Paga. Istražite glavni trg i Kneževu palaču dok se grad budi. U podne zaronite u fascinantan svijet paganske čipke, umjetnosti toliko fine da je dio UNESCO-ove baštine. Poslijepodne prošećite do Katine ćuprije i posjetite Muzej soli kako biste razumjeli značaj proizvodnje soli za otok. Večer završava kod Skrivanatove kule i plaže Prosika, gdje možete uživati u zlatnom satu."
           },
           "stops": [
             {
@@ -478,13 +487,15 @@
                 "de": "Altstadt von Pag",
                 "hu": "Pag óvárosa",
                 "ro": "Orașul vechi Pag",
-                "en": "Pag Old Town"
+                "en": "Pag Old Town",
+                "hr": "Stari grad Pag"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Renaissance-Stadtplanung von Juraj Dalmatinac.",
                 "hu": "Csodálja meg Juraj Dalmatinac reneszánsz várostervezését.",
                 "ro": "Admirați planificarea urbană renascentistă a lui Juraj Dalmatinac.",
-                "en": "Admire the Renaissance urban planning by Juraj Dalmatinac."
+                "en": "Admire the Renaissance urban planning by Juraj Dalmatinac.",
+                "hr": "Divite se renesansnom urbanističkom planiranju Jurja Dalmatinca."
               }
             },
             {
@@ -492,13 +503,15 @@
                 "de": "Rektorenpalast",
                 "hu": "Hercegi palota",
                 "ro": "Palatul Rectorului",
-                "en": "Rector's Palace"
+                "en": "Rector's Palace",
+                "hr": "Kneževa palača"
               },
               "tip_5lang": {
                 "de": "Einst der Sitz der venezianischen Verwaltung auf der Insel.",
                 "hu": "Egykor a velencei közigazgatás székhelye volt a szigeten.",
                 "ro": "Fostul sediu al administrației venețiene pe insulă.",
-                "en": "Once the seat of the Venetian administration on the island."
+                "en": "Once the seat of the Venetian administration on the island.",
+                "hr": "Nekad sjedište mletačke uprave na otoku."
               }
             },
             {
@@ -506,13 +519,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Szűz Mária Mennybevétele templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of the Assumption"
+                "en": "Church of the Assumption",
+                "hr": "Crkva Uznesenja"
               },
               "tip_5lang": {
                 "de": "Achten Sie auf das beeindruckende Steinrelief an der Fassade.",
                 "hu": "Figyelje meg a homlokzaton lévő lenyűgöző kőreliefet.",
                 "ro": "Observați basorelieful din piatră impresionant de pe fațadă.",
-                "en": "Look for the impressive stone relief on the facade."
+                "en": "Look for the impressive stone relief on the facade.",
+                "hr": "Potražite impresivan kameni reljef na pročelju."
               }
             },
             {
@@ -520,13 +535,15 @@
                 "de": "Spitzenmuseum Pag",
                 "hu": "Pagi csipkemúzeum",
                 "ro": "Muzeul Dantelei din Pag",
-                "en": "Pag Lace Museum"
+                "en": "Pag Lace Museum",
+                "hr": "Muzej paganske čipke"
               },
               "tip_5lang": {
                 "de": "Die Pager Spitze gehört zum UNESCO-Weltkulturerbe.",
                 "hu": "A pagi csipke az UNESCO világörökség része.",
                 "ro": "Dantela de Pag face parte din patrimoniul mondial UNESCO.",
-                "en": "Pag lace is part of the UNESCO World Heritage."
+                "en": "Pag lace is part of the UNESCO World Heritage.",
+                "hr": "Paganska čipka dio je UNESCO-ove svjetske baštine."
               }
             },
             {
@@ -534,13 +551,15 @@
                 "de": "Katine-Brücke",
                 "hu": "Katine-híd",
                 "ro": "Podul Katine",
-                "en": "Katine Bridge"
+                "en": "Katine Bridge",
+                "hr": "Katina ćuprija"
               },
               "tip_5lang": {
                 "de": "Eine moderne Replik der alten venezianischen Brücke.",
                 "hu": "A régi velencei híd modern másolata.",
                 "ro": "O replică modernă a vechiului pod venețian.",
-                "en": "A modern replica of the old Venetian bridge."
+                "en": "A modern replica of the old Venetian bridge.",
+                "hr": "Moderna replika stare mletačke ćuprije."
               }
             },
             {
@@ -548,13 +567,15 @@
                 "de": "Salzmuseum",
                 "hu": "Sómuzeum",
                 "ro": "Muzeul Sării",
-                "en": "Salt Museum"
+                "en": "Salt Museum",
+                "hr": "Muzej soli"
               },
               "tip_5lang": {
                 "de": "Erfahren Sie mehr über das „weiße Gold“ der Insel Pag.",
                 "hu": "Ismerje meg a sziget „fehér aranyának” történetét.",
                 "ro": "Aflați mai multe despre „aurul alb” al insulei Pag.",
-                "en": "Learn more about the 'white gold' of Pag island."
+                "en": "Learn more about the 'white gold' of Pag island.",
+                "hr": "Saznajte više o \"bijelom zlatu\" otoka Paga."
               }
             },
             {
@@ -562,13 +583,15 @@
                 "de": "Skrivanat-Turm",
                 "hu": "Skrivanat-torony",
                 "ro": "Turnul Skrivanat",
-                "en": "Skrivanat Tower"
+                "en": "Skrivanat Tower",
+                "hr": "Skrivanatova kula"
               },
               "tip_5lang": {
                 "de": "Der einzige erhaltene von einst neun Türmen der Stadt.",
                 "hu": "Az egyetlen épségben maradt torony a város kilenc tornyából.",
                 "ro": "Singurul turn rămas din cele nouă pe care le avea orașul.",
-                "en": "The only remaining tower of the city's original nine."
+                "en": "The only remaining tower of the city's original nine.",
+                "hr": "Jedina preostala kula od prvotnih devet u gradu."
               }
             },
             {
@@ -576,13 +599,15 @@
                 "de": "Strand Prosika",
                 "hu": "Prosika strand",
                 "ro": "Plaja Prosika",
-                "en": "Prosika Beach"
+                "en": "Prosika Beach",
+                "hr": "Plaža Prosika"
               },
               "tip_5lang": {
                 "de": "Perfekt für ein erfrischendes Bad zum Abschluss des Tages.",
                 "hu": "Tökéletes egy frissítő csobbanáshoz a nap végén.",
                 "ro": "Perfect pentru o baie revigorantă la sfârșitul zilei.",
-                "en": "Perfect for a refreshing dip at the end of the day."
+                "en": "Perfect for a refreshing dip at the end of the day.",
+                "hr": "Savršeno za osvježavajući kupanje na kraju dana."
               }
             }
           ],
@@ -784,6 +809,13 @@
               "It can be very windy in Pag (Bura), keep a light jacket handy.",
               "Try Bashkotin biscuits, sold only at the Benedictine monastery.",
               "Most sights are within walking distance of each other."
+            ],
+            "hr": [
+              "Nosite udobnu obuću za kaldrmite u starom gradu.",
+              "Posjetite muzej čipke rano tijekom dana da izbjegnete gužve.",
+              "Na Pagu zna biti vrlo vjetrovito (Bura), imajte laganu jaknu pri ruci.",
+              "Isprobajte Bashkotin kekse, prodaju se samo u benediktinskom samostanu.",
+              "Većina znamenitosti udaljena je pješice jedna od druge."
             ]
           }
         },
@@ -793,7 +825,7 @@
             "hu": "A reggel az óváros szűk utcáin indul, ahol a kőépületek védelmet nyújtanak az eső elől. Délben a Knežev dvor és a Csipkemúzeum belső tereiben fedezzük fel a helyi kultúrát. Délután egy rövid séta vezet a Sómúzeum fedett csarnokaihoz. A napot a viharos tenger látványa zárja a Katine-híd felől, mielőtt visszatérnénk a szállásra.",
             "ro": "Dimineața începe în labirintul centrului vechi, unde fațadele de piatră oferă adăpost împotriva ploii. La prânz, vizitați Palatul Rectorului și Muzeul Dantelei pentru a explora cultura la interior. După-amiaza este dedicată istoriei sării, într-un spațiu acoperit. Ziua se încheie cu o vedere melancolică asupra Adriaticii de pe podul Katine.",
             "en": "The morning begins in the narrow alleys of the Old Town, where stone facades provide some shelter. At midday, retreat into the Rector's Palace and Lace Museum to enjoy culture while staying dry. The afternoon leads to the indoor exhibits of the Salt Museum. The day concludes with a moody view of the stormy Adriatic from Katine Bridge.",
-            "hr": "Jutro počinje u uskim uličicama Starog grada, gdje kamena pročelja pružaju zaklon. U podne se povucite u Knežev dvor i Muzej čipke kako biste uživali u kulturi dok ostajete suhi. Poslijepodne vodi do zatvorenih izložaka Muzeja soli. Dan završava sjetnim pogledom na olujni Jadran s mosta Katine."
+            "hr": "Jutro počinje u uskim sokacima Starog grada, gdje kamene fasade pružaju zaklon. U podne se sklonite u Kneževu palaču i Muzej čipke kako biste uživali u kulturi i ostali suhi. Poslijepodne vodi do unutarnjih postava Muzeja soli. Dan se zaključuje mračnim pogledom na olujno Jadransko more s Katine ćuprije."
           },
           "stops": [
             {
@@ -802,7 +834,8 @@
                 "de": "Nutzen Sie die schmalen Gassen als Windschutz.",
                 "hu": "Használja a szűk utcákat szél elleni védelemnek.",
                 "ro": "Folosiți străzile înguste pentru a vă adăposti de vânt.",
-                "en": "Use the narrow streets as shelter from the wind."
+                "en": "Use the narrow streets as shelter from the wind.",
+                "hr": "Iskoristite uske uličice kao zaklon od vjetra."
               }
             },
             {
@@ -811,7 +844,8 @@
                 "de": "Perfekter Ort, um den starken Schauern zu entgehen.",
                 "hu": "Tökéletes hely a nagyobb záporok átvészelésére.",
                 "ro": "Locul perfect pentru a evita aversele puternice.",
-                "en": "Perfect place to escape heavy showers."
+                "en": "Perfect place to escape heavy showers.",
+                "hr": "Savršeno mjesto za izbjegavanje jakih pljuskova."
               }
             },
             {
@@ -820,7 +854,8 @@
                 "de": "Bewundern Sie die Rosette, während es draußen regnet.",
                 "hu": "Csodálja meg a rózsaablakot, amíg kint esik.",
                 "ro": "Admirați rozeta în timp ce afară plouă.",
-                "en": "Admire the rosette while it rains outside."
+                "en": "Admire the rosette while it rains outside.",
+                "hr": "Divite se rozeti dok vani pada kiša."
               }
             },
             {
@@ -829,7 +864,8 @@
                 "de": "Trockener Rückzugsort mit faszinierender Handarbeit.",
                 "hu": "Száraz menedék lenyűgöző kézimunkákkal.",
                 "ro": "Refugiu uscat cu obiecte de artizanat fascinante.",
-                "en": "Dry retreat with fascinating handmade lace."
+                "en": "Dry retreat with fascinating handmade lace.",
+                "hr": "Suhi priključak s fascinantnom ručno rađenom čipkom."
               }
             },
             {
@@ -838,7 +874,8 @@
                 "de": "Vorsicht, die Steine können bei Nässe glatt sein.",
                 "hu": "Vigyázat, a kövek nedvesen csúszhatnak.",
                 "ro": "Atenție, pietrele pot fi alunecoase când sunt ude.",
-                "en": "Caution, the stones can be slippery when wet."
+                "en": "Caution, the stones can be slippery when wet.",
+                "hr": "Opasnost: kamen može biti klizav kad je mokar."
               }
             },
             {
@@ -847,7 +884,8 @@
                 "de": "Große Innenräume, ideal für regnerische Nachmittage.",
                 "hu": "Nagy belső terek, ideális esős délutánokra.",
                 "ro": "Spații interioare mari, ideale pentru după-amiezi ploioase.",
-                "en": "Large indoor spaces, ideal for rainy afternoons."
+                "en": "Large indoor spaces, ideal for rainy afternoons.",
+                "hr": "Veliki unutarnji prostori, idealni za kišna poslijepodneva."
               }
             },
             {
@@ -856,7 +894,8 @@
                 "de": "Kurzer Fotostopp unter dem Regenschirm.",
                 "hu": "Gyors fotómegálló az esernyő alatt.",
                 "ro": "Scurtă oprire pentru fotografii sub umbrelă.",
-                "en": "Quick photo stop under an umbrella."
+                "en": "Quick photo stop under an umbrella.",
+                "hr": "Brza fotostanka pod kišobranom."
               }
             },
             {
@@ -865,7 +904,8 @@
                 "de": "Beobachten Sie die Wellen von einem nahen Café aus.",
                 "hu": "Figyelje a hullámokat egy közeli kávézóból.",
                 "ro": "Priviți valurile dintr-o cafenea din apropiere.",
-                "en": "Watch the waves from a nearby cafe."
+                "en": "Watch the waves from a nearby cafe.",
+                "hr": "Promatrajte valove iz obližnjeg kafića."
               }
             }
           ],
@@ -895,10 +935,10 @@
               "Utilize the harbor cafes for quick dry breaks."
             ],
             "hr": [
-              "Nosite vodootpornu obuću jer kameni pločnik postaje sklizak.",
-              "Muzeji u Pagu izvrsni su zakloni tijekom kiše.",
+              "Nosite vodootpornu obuću jer kamena popločenja postaju klizava.",
+              "Muzeji na Pagu su izvrsni zakloni tijekom kiše.",
               "Čvrsti kišobran često je bolji od kabanice zbog vjetra.",
-              "Iskoristite kafiće u luci za brze pauze na suhom."
+              "Iskoristite luke i kafiće za brz bijeg i sušenje."
             ]
           }
         },
@@ -908,7 +948,7 @@
             "hu": "A tiszta téli levegő még fehérebbé teszi az óváros köveit. Délelőtt a nyári hőség nélkül fedezhetjük fel a csendes utcákat. Délben a Csipkemúzeumban melegedhetünk fel, miközben a nap alacsonyan jár az öböl felett. A délután a sólepárlóknál zord, de lenyűgöző látványt nyújt. A nap korán ér véget egy látványos naplementével a Prosika-strandon.",
             "ro": "Aerul curat de iarnă face pietrele albe ale orașului vechi și mai strălucitoare. Dimineața explorați străzile liniștite fără căldura verii. La prânz, vă încălziți în Muzeul Dantelei, în timp ce soarele stă jos deasupra golfului. După-amiaza la saline oferă o frumusețe austeră și fascinantă. Ziua se termină devreme cu un apus spectaculos pe plajă.",
             "en": "The crisp winter air makes the white stones of the Old Town glow even more. In the morning, explore the quiet streets without the summer heat. At midday, warm up in the Lace Museum as the sun stays low over the bay. The afternoon at the salt pans offers a stark, fascinating beauty. The day ends early with a spectacular sunset at the beach.",
-            "hr": "Oštar zimski zrak čini bijelo kamenje Starog grada još sjajnijim. Ujutro istražite mirne ulice bez ljetne vrućine. U podne se zagrijte u Muzeju čipke dok sunce ostaje nisko iznad zaljeva. Poslijepodne na solanama nudi ogoljenu, fascinantnu ljepotu. Dan završava rano uz spektakularan zalazak sunca na plaži."
+            "hr": "Hladan zrak zime čini bijele kamene Starog grada još sjajnijima. Ujutro istražite tihe ulice bez ljetne vrućine. U podne se ugrijte u Muzeju čipke dok sunce ostaje nisko nad uvalom. Poslijepodne na solanama nudi strogu, fascinantnu ljepotu. Dan završava rano sa spektakularnim zalaskom na plaži."
           },
           "stops": [
             {
@@ -917,7 +957,8 @@
                 "de": "Genießen Sie die Stille der Nebensaison.",
                 "hu": "Élvezze az utószezon csendjét.",
                 "ro": "Bucurați-vă de liniștea din afara sezonului.",
-                "en": "Enjoy the silence of the off-season."
+                "en": "Enjoy the silence of the off-season.",
+                "hr": "Uživajte u tišini izvan sezone."
               }
             },
             {
@@ -926,7 +967,8 @@
                 "de": "Warme Kleidung ist für die zugigen Innenhöfe nötig.",
                 "hu": "Meleg ruházat szükséges a huzatos udvarokhoz.",
                 "ro": "Hainele groase sunt necesare pentru curțile interioare.",
-                "en": "Warm clothing is needed for the drafty courtyards."
+                "en": "Warm clothing is needed for the drafty courtyards.",
+                "hr": "Topla odjeća potrebna je za prozračne dvorište."
               }
             },
             {
@@ -935,7 +977,8 @@
                 "de": "Ein Ort der Ruhe und spirituellen Wärme.",
                 "hu": "A nyugalom és a lelki melegség helyszíne.",
                 "ro": "Un loc de liniște și căldură spirituală.",
-                "en": "A place of peace and spiritual warmth."
+                "en": "A place of peace and spiritual warmth.",
+                "hr": "Mjesto mira i duhovne topline."
               }
             },
             {
@@ -944,7 +987,8 @@
                 "de": "Idealer Stopp, um sich aufzuwärmen.",
                 "hu": "Ideális megálló egy kis melegedéshez.",
                 "ro": "Oprire ideală pentru a vă încălzi.",
-                "en": "Ideal stop to warm up."
+                "en": "Ideal stop to warm up.",
+                "hr": "Idealna stanica za ugrijavanje."
               }
             },
             {
@@ -953,7 +997,8 @@
                 "de": "Die Bura kann hier sehr stark wehen.",
                 "hu": "A bóra szél itt nagyon erősen fújhat.",
                 "ro": "Vântul Bura poate sufla foarte tare aici.",
-                "en": "The Bura wind can blow very strongly here."
+                "en": "The Bura wind can blow very strongly here.",
+                "hr": "Bura ovdje može puhati vrlo jako."
               }
             },
             {
@@ -962,7 +1007,8 @@
                 "de": "Informative Ausstellung fernab der Kälte.",
                 "hu": "Informatív kiállítás távol a hidegtől.",
                 "ro": "Expoziție informativă departe de frig.",
-                "en": "Informative exhibition away from the cold."
+                "en": "Informative exhibition away from the cold.",
+                "hr": "Informativna izložba daleko od hladnoće."
               }
             },
             {
@@ -971,7 +1017,8 @@
                 "de": "Tolles Licht für Winterfotos.",
                 "hu": "Remek fények a téli fotókhoz.",
                 "ro": "Lumină excelentă pentru fotografii de iarnă.",
-                "en": "Great light for winter photos."
+                "en": "Great light for winter photos.",
+                "hr": "Odlično svjetlo za zimske fotografije."
               }
             },
             {
@@ -980,7 +1027,8 @@
                 "de": "Der Sonnenuntergang ist hier gegen 16:30 Uhr.",
                 "hu": "A naplemente itt 16:30 körül van.",
                 "ro": "Apusul de soare este aici în jur de 16:30.",
-                "en": "Sunset is around 16:30 here."
+                "en": "Sunset is around 16:30 here.",
+                "hr": "Zalazak sunca je oko 16:30 ovdje."
               }
             }
           ],
@@ -1010,10 +1058,10 @@
               "Wear windproof clothing for seaside walks."
             ],
             "hr": [
-              "Čuvajte se bure (jak sjeverni vjetar), vrlo je hladna.",
-              "Sunce zimi zalazi već oko 16:30.",
+              "Pazite na Buru (jak sjeverni vjetar), vrlo je hladna.",
+              "Sunce zalazi već oko 16:30 zimi.",
               "Mnogi restorani imaju ograničeno radno vrijeme zimi.",
-              "Nosite odjeću otpornu na vjetar za šetnje uz more."
+              "Nosite vjetrootpornu odjeću za promenade uz more."
             ]
           }
         }
@@ -1032,7 +1080,8 @@
             "de": "Altstadt von Pag",
             "hu": "Pag óvárosa",
             "ro": "Orașul vechi Pag",
-            "en": "Pag Old Town"
+            "en": "Pag Old Town",
+            "hr": "Stari grad Pag"
           },
           "coords": [
             15.0567,
@@ -1048,7 +1097,7 @@
             "hu": "Parkolja le a biciklit a sétálóövezet szélén.",
             "ro": "Parcați bicicleta la marginea zonei pietonale.",
             "en": "Park your bike at the edge of the pedestrian zone.",
-            "hr": "Parkirajte svoj bicikl na rubu pješačke zone."
+            "hr": "Parkirajte bicikl na rubu pješačke zone."
           }
         },
         {
@@ -1056,7 +1105,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Szűz Mária Mennybevétele templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption"
+            "en": "Church of the Assumption",
+            "hr": "Crkva Uznesenja"
           },
           "coords": [
             15.0562,
@@ -1080,7 +1130,8 @@
             "de": "Spitzenmuseum Pag",
             "hu": "Pagi csipkemúzeum",
             "ro": "Muzeul Dantelei din Pag",
-            "en": "Pag Lace Museum"
+            "en": "Pag Lace Museum",
+            "hr": "Muzej paganske čipke"
           },
           "coords": [
             15.0558,
@@ -1096,7 +1147,7 @@
             "hu": "Kulturális megálló a város szívében.",
             "ro": "Oprire culturală în inima orașului.",
             "en": "Cultural stop in the heart of the city.",
-            "hr": "Kulturna postaja u srcu grada."
+            "hr": "Kulturno stajalište u srcu grada."
           }
         },
         {
@@ -1104,7 +1155,8 @@
             "de": "Salzmuseum",
             "hu": "Sómuzeum",
             "ro": "Muzeul Sării",
-            "en": "Salt Museum"
+            "en": "Salt Museum",
+            "hr": "Muzej soli"
           },
           "coords": [
             15.06,
@@ -1128,7 +1180,8 @@
             "de": "Katine-Brücke",
             "hu": "Katine-híd",
             "ro": "Podul Katine",
-            "en": "Katine Bridge"
+            "en": "Katine Bridge",
+            "hr": "Katina ćuprija"
           },
           "coords": [
             15.0535,
@@ -1144,7 +1197,7 @@
             "hu": "Tekerjen át a hídon a remek fotókért.",
             "ro": "Traversați podul pentru oportunități foto excelente.",
             "en": "Ride across the bridge for great photo opportunities.",
-            "hr": "Prevezite se preko mosta za sjajne prilike za fotografiranje."
+            "hr": "Provozajte se preko ćuprije za odlične fotke."
           }
         },
         {
@@ -1152,7 +1205,8 @@
             "de": "Strand Prosika",
             "hu": "Prosika strand",
             "ro": "Plaja Prosika",
-            "en": "Prosika Beach"
+            "en": "Prosika Beach",
+            "hr": "Plaža Prosika"
           },
           "coords": [
             15.048,
@@ -1168,7 +1222,7 @@
             "hu": "Kerékpártárolók találhatók a strand közelében.",
             "ro": "Rasteluri de biciclete sunt disponibile lângă plajă.",
             "en": "Bike racks are available near the beach.",
-            "hr": "Stalci za bicikle dostupni su u blizini plaže."
+            "hr": "Stalak za bicikle dostupan je blizu plaže."
           }
         },
         {
@@ -1176,7 +1230,8 @@
             "de": "Skrivanat-Turm",
             "hu": "Skrivanat-torony",
             "ro": "Turnul Skrivanat",
-            "en": "Skrivanat Tower"
+            "en": "Skrivanat Tower",
+            "hr": "Skrivanatova kula"
           },
           "coords": [
             15.0575,
@@ -1201,7 +1256,7 @@
         "hu": "Kerékpárral hatékonyan fedezheti fel Pagot és környékét. Kezdjen az óvárosban, látogassa meg a templomot és a csipkemúzeumot. Ezután tekerjen a sólepárlók mentén a Sómuzeumba. Ebédszünet után az út a Katine-hídon keresztül a Prosika strandra vezet, ahol megpihenhet. A napot a Skrivanat-toronyhoz való tekeréssel koronázza meg, amely a pagi erődítmény büszkesége.",
         "ro": "Cu bicicleta, explorați Pag și împrejurimile sale în mod eficient. Începeți în orașul vechi și vizitați biserica și muzeul dantelei. Apoi, pedalați de-a lungul salinelor până la Muzeul Sării. După o pauză de prânz, drumul duce peste Podul Katine spre plaja Prosika, unde vă puteți relaxa. Încununați ziua cu o plimbare până la Turnul Skrivanat, mândria fortificațiilor din Pag.",
         "en": "By bike, you can efficiently explore Pag and its surroundings. Start in the old town and visit the church and the lace museum. Then ride along the salt flats to the Salt Museum. After a lunch break, the path leads across the Katine Bridge to Prosika Beach, where you can relax. Crown the day with a ride to the Skrivanat Tower, the pride of Pag's fortifications.",
-        "hr": "Biciklom možete učinkovito istražiti Pag i njegovu okolicu. Počnite u starom gradu i posjetite crkvu i muzej čipke. Zatim se vozite uz solane do Muzeja soli. Nakon pauze za ručak, put vodi preko mosta Katine do plaže Prosika, gdje se možete opustiti. Okrunite dan vožnjom do kule Skrivanat, ponosa paških utvrda."
+        "hr": "Biciklom možete učinkovito istražiti Pag i okolinu. Počnite u starom gradu i posjetite crkvu i muzej čipke. Zatim vozite uz solane do Muzeja soli. Nakon pauze za ručak staza vodi preko Katine ćuprije do plaže Prosika, gdje se možete opustiti. Dan zaokružite vožnjom do Skrivanatove kule, ponosa paganskih fortifikacija."
       },
       "gastro_picks": {
         "de": [
@@ -1375,10 +1430,10 @@
           "Always lock your bike, even though Pag is safe."
         ],
         "hr": [
-          "Ruta do Muzeja soli je ravna i lagana za vožnju.",
-          "Pripazite na vjetar koji može otežati vožnju biciklom.",
-          "Ponesite dovoljno vode, hlada je malo.",
-          "Uvijek zaključajte svoj bicikl, iako je Pag siguran."
+          "Ruta do Muzeja soli je ravna i laka za vožnju.",
+          "Pazite na vjetar, može otežati vožnju biciklom.",
+          "Ponesite dovoljno vode, ima malo hlada.",
+          "Uvijek zaključajte bicikl, iako je Pag siguran."
         ]
       },
       "variants": {
@@ -1387,7 +1442,8 @@
             "de": "Mit dem Fahrrad erkunden Sie Pag und seine Umgebung effizient. Starten Sie in der Altstadt und besichtigen Sie die Kirche und das Spitzenmuseum. Danach radeln Sie entlang der Salzwiesen zum Salzmuseum. Nach einer Mittagspause führt der Weg über die Katine-Brücke zum Strand Prosika, wo Sie sich entspannen können. Den Tag krönen Sie mit einer Fahrt zum Skrivanat-Turm, dem Stolz der Pager Befestigung.",
             "hu": "Kerékpárral hatékonyan fedezheti fel Pagot és környékét. Kezdjen az óvárosban, látogassa meg a templomot és a csipkemúzeumot. Ezután tekerjen a sólepárlók mentén a Sómuzeumba. Ebédszünet után az út a Katine-hídon keresztül a Prosika strandra vezet, ahol megpihenhet. A napot a Skrivanat-toronyhoz való tekeréssel koronázza meg, amely a pagi erődítmény büszkesége.",
             "ro": "Cu bicicleta, explorați Pag și împrejurimile sale în mod eficient. Începeți în orașul vechi și vizitați biserica și muzeul dantelei. Apoi, pedalați de-a lungul salinelor până la Muzeul Sării. După o pauză de prânz, drumul duce peste Podul Katine spre plaja Prosika, unde vă puteți relaxa. Încununați ziua cu o plimbare până la Turnul Skrivanat, mândria fortificațiilor din Pag.",
-            "en": "By bike, you can efficiently explore Pag and its surroundings. Start in the old town and visit the church and the lace museum. Then ride along the salt flats to the Salt Museum. After a lunch break, the path leads across the Katine Bridge to Prosika Beach, where you can relax. Crown the day with a ride to the Skrivanat Tower, the pride of Pag's fortifications."
+            "en": "By bike, you can efficiently explore Pag and its surroundings. Start in the old town and visit the church and the lace museum. Then ride along the salt flats to the Salt Museum. After a lunch break, the path leads across the Katine Bridge to Prosika Beach, where you can relax. Crown the day with a ride to the Skrivanat Tower, the pride of Pag's fortifications.",
+            "hr": "Biciklom možete učinkovito istražiti Pag i okolinu. Počnite u starom gradu i posjetite crkvu i muzej čipke. Zatim vozite uz solane do Muzeja soli. Nakon pauze za ručak staza vodi preko Katine ćuprije do plaže Prosika, gdje se možete opustiti. Dan zaokružite vožnjom do Skrivanatove kule, ponosa paganskih fortifikacija."
           },
           "stops": [
             {
@@ -1395,13 +1451,15 @@
                 "de": "Altstadt von Pag",
                 "hu": "Pag óvárosa",
                 "ro": "Orașul vechi Pag",
-                "en": "Pag Old Town"
+                "en": "Pag Old Town",
+                "hr": "Stari grad Pag"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad am Rand der Fußgängerzone.",
                 "hu": "Parkolja le a biciklit a sétálóövezet szélén.",
                 "ro": "Parcați bicicleta la marginea zonei pietonale.",
-                "en": "Park your bike at the edge of the pedestrian zone."
+                "en": "Park your bike at the edge of the pedestrian zone.",
+                "hr": "Ostavite bicikl na rubu pješačke zone."
               }
             },
             {
@@ -1409,13 +1467,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Szűz Mária Mennybevétele templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of the Assumption"
+                "en": "Church of the Assumption",
+                "hr": "Crkva Uznesenja"
               },
               "tip_5lang": {
                 "de": "Zentraler Anlaufpunkt am Hauptplatz.",
                 "hu": "Központi találkozóhely a főtéren.",
                 "ro": "Punct central de întâlnire în piața principală.",
-                "en": "Central meeting point on the main square."
+                "en": "Central meeting point on the main square.",
+                "hr": "Središnje mjesto za sastanak na glavnom trgu."
               }
             },
             {
@@ -1423,13 +1483,15 @@
                 "de": "Spitzenmuseum Pag",
                 "hu": "Pagi csipkemúzeum",
                 "ro": "Muzeul Dantelei din Pag",
-                "en": "Pag Lace Museum"
+                "en": "Pag Lace Museum",
+                "hr": "Muzej paške čipke"
               },
               "tip_5lang": {
                 "de": "Kulturstopp im Herzen der Stadt.",
                 "hu": "Kulturális megálló a város szívében.",
                 "ro": "Oprire culturală în inima orașului.",
-                "en": "Cultural stop in the heart of the city."
+                "en": "Cultural stop in the heart of the city.",
+                "hr": "Kulturno stajalište u srcu grada."
               }
             },
             {
@@ -1437,13 +1499,15 @@
                 "de": "Salzmuseum",
                 "hu": "Sómuzeum",
                 "ro": "Muzeul Sării",
-                "en": "Salt Museum"
+                "en": "Salt Museum",
+                "hr": "Muzej soli"
               },
               "tip_5lang": {
                 "de": "Eine angenehme Fahrt entlang der Lagune.",
                 "hu": "Kellemes tekerés a lagúna mentén.",
                 "ro": "O plimbare plăcută de-a lungul lagunei.",
-                "en": "A pleasant ride along the lagoon."
+                "en": "A pleasant ride along the lagoon.",
+                "hr": "Ugodna vožnja uz lagunu."
               }
             },
             {
@@ -1451,13 +1515,15 @@
                 "de": "Katine-Brücke",
                 "hu": "Katine-híd",
                 "ro": "Podul Katine",
-                "en": "Katine Bridge"
+                "en": "Katine Bridge",
+                "hr": "Most Katine"
               },
               "tip_5lang": {
                 "de": "Fahren Sie über die Brücke für tolle Fotomotive.",
                 "hu": "Tekerjen át a hídon a remek fotókért.",
                 "ro": "Traversați podul pentru oportunități foto excelente.",
-                "en": "Ride across the bridge for great photo opportunities."
+                "en": "Ride across the bridge for great photo opportunities.",
+                "hr": "Pređite most za odlične fotografije."
               }
             },
             {
@@ -1465,13 +1531,15 @@
                 "de": "Strand Prosika",
                 "hu": "Prosika strand",
                 "ro": "Plaja Prosika",
-                "en": "Prosika Beach"
+                "en": "Prosika Beach",
+                "hr": "Plaža Prosika"
               },
               "tip_5lang": {
                 "de": "Fahrradständer sind in der Nähe des Strandes vorhanden.",
                 "hu": "Kerékpártárolók találhatók a strand közelében.",
                 "ro": "Rasteluri de biciclete sunt disponibile lângă plajă.",
-                "en": "Bike racks are available near the beach."
+                "en": "Bike racks are available near the beach.",
+                "hr": "Stalak za bicikle dostupan je u blizini plaže."
               }
             },
             {
@@ -1479,13 +1547,15 @@
                 "de": "Skrivanat-Turm",
                 "hu": "Skrivanat-torony",
                 "ro": "Turnul Skrivanat",
-                "en": "Skrivanat Tower"
+                "en": "Skrivanat Tower",
+                "hr": "Kula Škrivanat"
               },
               "tip_5lang": {
                 "de": "Schöner Abschluss mit Blick auf die Stadtmauer.",
                 "hu": "Szép zárás kilátással a városfalakra.",
                 "ro": "O încheiere frumoasă cu vedere la zidurile orașului.",
-                "en": "Nice finish with a view of the city walls."
+                "en": "Nice finish with a view of the city walls.",
+                "hr": "Lijep završetak s pogledom na gradske zidine."
               }
             }
           ],
@@ -1631,6 +1701,12 @@
               "Watch out for the wind, which can make cycling difficult.",
               "Bring plenty of water, there is little shade.",
               "Always lock your bike, even though Pag is safe."
+            ],
+            "hr": [
+              "Ruta do Muzeja soli je ravna i laka za vožnju.",
+              "Pazite na vjetar koji može otežati vožnju biciklom.",
+              "Ponesite dovoljno vode, ima malo hlada.",
+              "Uvijek zaključajte bicikl, iako je Pag siguran."
             ]
           }
         },
@@ -1640,7 +1716,7 @@
             "hu": "Az esőben való biciklizés Pagon óvatosságot igényel a kőfelületeken. A délelőtt az óvároson és a templomokon keresztül vezet. Délben biztonságban leparkoljuk a gépet a múzeumi látogatáshoz. Délután az aszfaltozott utakon tekerünk a sólepárlókhoz, ahol az eső drámai színeket kölcsönöz a tájnak. A nap egy gyors városi tekeréssel zárul.",
             "ro": "Mersul pe bicicletă în ploaie necesită prudență pe suprafețele de piatră din Pag. Dimineața vă poartă prin orașul vechi către biserici. La prânz, parcați bicicleta în siguranță pentru vizitarea muzeelor. După-amiaza mergeți pe drumurile asfaltate spre saline, unde ploaia colorează peisajul dramatic. Ziua se încheie cu o cursă rapidă înapoi în centru.",
             "en": "Cycling in the rain requires caution on Pag's stone surfaces. The morning takes you through the Old Town to the churches. At midday, park your bike securely for museum visits. The afternoon follows paved roads to the salt pans, where the rain adds dramatic colors to the landscape. The day ends with a quick ride back to the center.",
-            "hr": "Vožnja biciklom po kiši zahtijeva oprez na kamenim površinama Paga. Jutro vas vodi kroz Stari grad do crkava. U podne sigurno parkirajte bicikl za posjete muzejima. Poslijepodne slijedite asfaltirane ceste do solana, gdje kiša krajoliku dodaje dramatične boje. Dan završava brzom vožnjom natrag u centar."
+            "hr": "Bicikliranje po kiši zahtijeva oprez na paškim kamenim površinama. Jutro vas vodi kroz Stari grad do crkava. U podne sigurno parkirajte bicikl za posjet muzejima. Poslijepodne slijede asfaltirane ceste do solana, gdje kiša daje dramatične boje krajoliku. Dan završava brzom vožnjom natrag u centar."
           },
           "stops": [
             {
@@ -1649,7 +1725,8 @@
                 "de": "Vorsicht beim Bremsen auf nassem Pflaster.",
                 "hu": "Vigyázzon a fékezéssel a nedves köveken.",
                 "ro": "Atenție la frânare pe pavajul umed.",
-                "en": "Be careful when braking on wet pavement."
+                "en": "Be careful when braking on wet pavement.",
+                "hr": "Budite oprezni pri kočenju po mokrom kolniku."
               }
             },
             {
@@ -1658,7 +1735,8 @@
                 "de": "Parken Sie unter dem Vordach, falls möglich.",
                 "hu": "Parkoljon az előtető alatt, ha lehetséges.",
                 "ro": "Parcați sub streașină dacă este posibil.",
-                "en": "Park under the eaves if possible."
+                "en": "Park under the eaves if possible.",
+                "hr": "Parkirajte pod strehom ako je moguće."
               }
             },
             {
@@ -1667,7 +1745,8 @@
                 "de": "Gute Gelegenheit für eine längere Pause im Trockenen.",
                 "hu": "Jó alkalom egy hosszabb száraz pihenőre.",
                 "ro": "Oportunitate bună pentru o pauză lungă la uscat.",
-                "en": "Good opportunity for a long break in the dry."
+                "en": "Good opportunity for a long break in the dry.",
+                "hr": "Dobra prilika za dužu pauzu na suhom."
               }
             },
             {
@@ -1676,7 +1755,8 @@
                 "de": "Die Straße hierher ist flach und gut befahrbar.",
                 "hu": "Az idevezető út sík és jól kerékpározható.",
                 "ro": "Drumul până aici este plat și ușor de parcurs.",
-                "en": "The road here is flat and easy to ride."
+                "en": "The road here is flat and easy to ride.",
+                "hr": "Cesta ovdje je ravna i laka za vožnju."
               }
             },
             {
@@ -1685,7 +1765,8 @@
                 "de": "Steigen Sie bei starkem Regen lieber ab.",
                 "hu": "Erős esőben inkább szálljon le a bicikliről.",
                 "ro": "Mai bine coborâți de pe bicicletă dacă plouă tare.",
-                "en": "Better dismount if it's raining heavily."
+                "en": "Better dismount if it's raining heavily.",
+                "hr": "Bolje siđite s bicikla ako jako pada."
               }
             },
             {
@@ -1694,7 +1775,8 @@
                 "de": "Kurzer Blick auf das Meer, dann weiter.",
                 "hu": "Gyors pillantás a tengerre, aztán tovább.",
                 "ro": "O privire scurtă la mare, apoi continuați.",
-                "en": "Quick look at the sea, then move on."
+                "en": "Quick look at the sea, then move on.",
+                "hr": "Brzi pogled na more, pa nastavite dalje."
               }
             },
             {
@@ -1703,7 +1785,8 @@
                 "de": "Das Rad am Fuß des Turms abstellen.",
                 "hu": "A biciklit a torony lábánál hagyhatja.",
                 "ro": "Lăsați bicicleta la baza turnului.",
-                "en": "Leave your bike at the base of the tower."
+                "en": "Leave your bike at the base of the tower.",
+                "hr": "Ostavite bicikl u podnožju kule."
               }
             }
           ],
@@ -1733,10 +1816,10 @@
               "A rain poncho can easily catch the wind while riding."
             ],
             "hr": [
-              "Izbjegavajte oštra skretanja na skliski kamen Starog grada.",
-              "Koristite vodootporne bisage za svoju opremu.",
-              "Provjerite kočnice prije polaska na kišu.",
-              "Kabanica može lako uhvatiti vjetar tijekom vožnje."
+              "Izbjegavajte oštre zavoje na klizavim kamenim pločama Starog grada.",
+              "Koristite vodonepropusne torbe za prtljagu.",
+              "Provjerite kočnice prije polaska po kiši.",
+              "Kišni ogrtač lako može uhvatiti vjetar tijekom vožnje."
             ]
           }
         },
@@ -1746,7 +1829,7 @@
             "hu": "A téli biciklizés Pagon üres utakat és tágas kilátást kínál. A reggel a csendes óvároson át vezet. Délben a Csipkemúzeum nyújt kulturális pihenőt. A délután a sólepárlókhoz visz, ahol a fények különösen tiszták a medencéken. Ügyeljen a szélre, amely a part mentén felerősödhet. A nap egy hűvös tekeréssel zárul a tengerparti naplementében.",
             "ro": "Mersul pe bicicletă iarna în Pag oferă drumuri libere și vederi largi. Dimineața trece prin orașul vechi liniștit. La prânz, Muzeul Dantelei oferă o pauză culturală. După-amiaza vă duce la saline, unde lumina pe bazine este deosebit de clară. Atenție la vânt, care se poate intensifica pe coastă. Ziua se încheie cu o plimbare răcoroasă la apus pe plajă.",
             "en": "Winter cycling in Pag offers empty roads and vast views. The morning leads through the quiet Old Town. At midday, the Lace Museum provides a cultural break. The afternoon takes you to the salt pans, where the light on the basins is exceptionally clear. Watch out for the wind, which can increase along the coast. The day concludes with a cool ride to the sunset at the beach.",
-            "hr": "Zimski biciklizam u Pagu nudi prazne ceste i prostrane vidike. Jutro vodi kroz mirni Stari grad. U podne Muzej čipke pruža kulturnu pauzu. Poslijepodne vas vodi do solana, gdje je svjetlost na bazenima izuzetno jasna. Pripazite na vjetar koji može ojačati uz obalu. Dan završava hladnom vožnjom do zalaska sunca na plaži."
+            "hr": "Zimsko bicikliranje na Pagu nudi prazne ceste i prostrane poglede. Jutro vodi kroz tihi Stari grad. U podne Muzej čipke pruža kulturnu pauzu. Poslijepodne vodi do solana, gdje je svjetlo nad bazenima izuzetno čisto. Pazite na vjetar koji se može pojačati duž obale. Dan završava svježom vožnjom do zalaska sunca na plaži."
           },
           "stops": [
             {
@@ -1755,7 +1838,8 @@
                 "de": "Keine Touristenmassen, freie Fahrt durch die Gassen.",
                 "hu": "Nincsenek turisták, szabad az út a sikátorokban.",
                 "ro": "Fără mulțimi de turiști, drum liber prin ulițe.",
-                "en": "No tourist crowds, free ride through the alleys."
+                "en": "No tourist crowds, free ride through the alleys.",
+                "hr": "Nema turističkih gužvi, slobodna vožnja kroz uličice."
               }
             },
             {
@@ -1764,7 +1848,8 @@
                 "de": "Stellen Sie das Rad sicher am Kirchplatz ab.",
                 "hu": "Parkoljon biztonságosan a templomtéren.",
                 "ro": "Parcați bicicleta în siguranță în piața bisericii.",
-                "en": "Park your bike securely in the church square."
+                "en": "Park your bike securely in the church square.",
+                "hr": "Sigurno parkirajte bicikl na crkvenom trgu."
               }
             },
             {
@@ -1773,7 +1858,8 @@
                 "de": "Perfekt zum Aufwärmen der Hände.",
                 "hu": "Tökéletes a kezek felmelegítésére.",
                 "ro": "Perfect pentru a vă încălzi mâinile.",
-                "en": "Perfect for warming up your hands."
+                "en": "Perfect for warming up your hands.",
+                "hr": "Savršeno za zagrijavanje ruku."
               }
             },
             {
@@ -1782,7 +1868,8 @@
                 "de": "Der flache Weg ist auch bei Wind gut machbar.",
                 "hu": "A sík út szélben is jól tartható.",
                 "ro": "Drumul plat este ușor de parcurs chiar și pe vânt.",
-                "en": "The flat path is manageable even in wind."
+                "en": "The flat path is manageable even in wind.",
+                "hr": "Ravna staza je podnošljiva i na vjetru."
               }
             },
             {
@@ -1791,7 +1878,8 @@
                 "de": "Genießen Sie die frische Meeresbrise.",
                 "hu": "Élvezze a friss tengeri szellőt.",
                 "ro": "Bucurați-vă de briza proaspătă a mării.",
-                "en": "Enjoy the fresh sea breeze."
+                "en": "Enjoy the fresh sea breeze.",
+                "hr": "Uživajte u svježem morskom povjetarcu."
               }
             },
             {
@@ -1800,7 +1888,8 @@
                 "de": "Warme Handschuhe für den Rückweg einplanen.",
                 "hu": "Készítsen be meleg kesztyűt a visszaútra.",
                 "ro": "Pregătiți mănuși groase pentru drumul de întoarcere.",
-                "en": "Plan for warm gloves for the ride back."
+                "en": "Plan for warm gloves for the ride back.",
+                "hr": "Planirajte tople rukavice za povratak."
               }
             },
             {
@@ -1809,7 +1898,8 @@
                 "de": "Letztes Fotolicht vor dem frühen Abend.",
                 "hu": "Utolsó fotófények a kora este előtt.",
                 "ro": "Ultima lumină pentru poze înainte de seară.",
-                "en": "Last photo light before early evening."
+                "en": "Last photo light before early evening.",
+                "hr": "Zadnje svjetlo za fotografije prije ranog večernjeg sata."
               }
             }
           ],
@@ -1840,9 +1930,9 @@
             ],
             "hr": [
               "Nosite više slojeva odjeće (princip luka).",
-              "Rukavice otporne na vjetar neophodne su na hladnoći.",
+              "Vjetrootporne rukavice su prijeko potrebne na hladnoći.",
               "Dani su kratki, provjerite svjetla na biciklu.",
-              "Bura može učiniti vožnju biciklom opasnom na obali."
+              "Bura može učiniti bicikliranje opasnim na obali."
             ]
           }
         }
@@ -1861,7 +1951,8 @@
             "de": "Altstadt von Pag",
             "hu": "Pag óvárosa",
             "ro": "Orașul vechi Pag",
-            "en": "Pag Old Town"
+            "en": "Pag Old Town",
+            "hr": "Stari grad Pag"
           },
           "coords": [
             15.0567,
@@ -1877,7 +1968,7 @@
             "hu": "Használja a híd közeli nagy parkolót.",
             "ro": "Folosiți parcarea mare de lângă pod.",
             "en": "Use the large parking lot near the bridge.",
-            "hr": "Koristite veliko parkiralište u blizini mosta."
+            "hr": "Koristite veliki parkirališni prostor blizu mosta."
           }
         },
         {
@@ -1885,7 +1976,8 @@
             "de": "Rektorenpalast",
             "hu": "Hercegi palota",
             "ro": "Palatul Rectorului",
-            "en": "Rector's Palace"
+            "en": "Rector's Palace",
+            "hr": "Rektorova palača"
           },
           "coords": [
             15.056,
@@ -1901,7 +1993,7 @@
             "hu": "Központi elhelyezkedés, gyalog elérhető a parkolótól.",
             "ro": "Situat central, accesibil pe jos din parcare.",
             "en": "Centrally located, reachable on foot from the parking.",
-            "hr": "Središnja lokacija, dostižna pješice s parkirališta."
+            "hr": "Središnje smještena, do nje se može pješke iz parkirališta."
           }
         },
         {
@@ -1909,7 +2001,8 @@
             "de": "Spitzenmuseum Pag",
             "hu": "Pagi csipkemúzeum",
             "ro": "Muzeul Dantelei din Pag",
-            "en": "Pag Lace Museum"
+            "en": "Pag Lace Museum",
+            "hr": "Muzej paške čipke"
           },
           "coords": [
             15.0558,
@@ -1925,7 +2018,7 @@
             "hu": "Kultúrakedvelőknek kötelező.",
             "ro": "O necesitate pentru iubitorii de cultură.",
             "en": "A must for culture lovers.",
-            "hr": "Obavezna postaja za ljubitelje kulture."
+            "hr": "Obavezno za ljubitelje kulture."
           }
         },
         {
@@ -1933,7 +2026,8 @@
             "de": "Salzmuseum",
             "hu": "Sómuzeum",
             "ro": "Muzeul Sării",
-            "en": "Salt Museum"
+            "en": "Salt Museum",
+            "hr": "Muzej soli"
           },
           "coords": [
             15.06,
@@ -1957,7 +2051,8 @@
             "de": "Strand Prosika",
             "hu": "Prosika strand",
             "ro": "Plaja Prosika",
-            "en": "Prosika Beach"
+            "en": "Prosika Beach",
+            "hr": "Plaža Prosika"
           },
           "coords": [
             15.048,
@@ -1973,7 +2068,7 @@
             "hu": "A parkolás a strand közelében gyakran fizetős.",
             "ro": "Parcarea lângă plajă este adesea cu plată.",
             "en": "Parking near the beach is often paid.",
-            "hr": "Parkiranje u blizini plaže često se naplaćuje."
+            "hr": "Parkiranje blizu plaže često je naplaćeno."
           }
         },
         {
@@ -1981,7 +2076,8 @@
             "de": "Skrivanat-Turm",
             "hu": "Skrivanat-torony",
             "ro": "Turnul Skrivanat",
-            "en": "Skrivanat Tower"
+            "en": "Skrivanat Tower",
+            "hr": "Kula Škrivanat"
           },
           "coords": [
             15.0575,
@@ -2006,7 +2102,7 @@
         "hu": "Autóval maximális rugalmasságot élvezhet Pagon. Parkoljon központilag, és fedezze fel az óvárost, a palotát és a világhírű csipkemúzeumot. Ezután kényelmesen hajtson ki a város szélén található Sómuzeumba. A délután a Prosika strandé, amely autóval könnyen megközelíthető. Mielőtt elhagyná Pagot, vessen egy pillantást a Skrivanat-toronyra, a régi városfal maradványára.",
         "ro": "Cu mașina, vă bucurați de flexibilitate maximă în Pag. Parcați central și explorați orașul vechi, palatul și faimosul muzeu al dantelei. Apoi, conduceți confortabil până la Muzeul Sării de la marginea orașului. După-amiaza aparține plajei Prosika, ușor accesibilă cu mașina. Înainte de a părăsi orașul, aruncați o privire la Turnul Skrivanat, o relicvă a vechiului zid al orașului.",
         "en": "With a car, you enjoy maximum flexibility in Pag. Park centrally and explore the old town, the palace, and the world-famous lace museum. Then drive comfortably to the Salt Museum on the outskirts of town. The afternoon belongs to Prosika Beach, which is easily accessible by car. Before leaving Pag, take a look at the Skrivanat Tower, a relic of the old city wall.",
-        "hr": "S automobilom uživate u maksimalnoj fleksibilnosti u Pagu. Parkirajte u centru i istražite stari grad, dvor i svjetski poznati muzej čipke. Zatim se udobno odvezite do Muzeja soli na rubu grada. Poslijepodne pripada plaži Prosika, koja je lako dostupna automobilom. Prije odlaska iz Paga, pogledajte kulu Skrivanat, relikt starog gradskog zida."
+        "hr": "S automobilom uživate u maksimalnoj fleksibilnosti na Pagu. Parkirajte u centru i istražite stari grad, palaču i svjetski poznati muzej čipke. Zatim se udobno vozite do Muzeja soli na rubu grada. Poslijepodne pripada plaži Prosika, koja je lako pristupačna automobilom. Prije odlaska s Paga pogledajte Kulu Škrivanat, ostatak zidina starog grada."
       },
       "gastro_picks": {
         "de": [
@@ -2131,9 +2227,9 @@
           "In summer, parking lots are often filled early."
         ],
         "hr": [
-          "Parkirajte na označenim mjestima u Pagu kako biste izbjegli kazne.",
-          "Obalna cesta nudi spektakularan pogled na planinu Velebit.",
-          "Ljeti se parkirališta često popune rano."
+          "Parkirajte na označenim mjestima na Pagu kako biste izbjegli kazne.",
+          "Obalna cesta nudi spektakularan pogled na Velebit.",
+          "Ljeti su parkirališta često rano popunjena."
         ]
       },
       "variants": {
@@ -2142,7 +2238,8 @@
             "de": "Mit dem Auto genießen Sie maximale Flexibilität in Pag. Parken Sie zentral und erkunden Sie die Altstadt, den Palast und das weltberühmte Spitzenmuseum. Danach fahren Sie bequem zum Salzmuseum am Stadtrand. Der Nachmittag gehört dem Strand Prosika, der leicht mit dem Wagen zu erreichen ist. Bevor Sie Pag verlassen, werfen Sie einen Blick auf den Skrivanat-Turm, ein Relikt der alten Stadtmauer.",
             "hu": "Autóval maximális rugalmasságot élvezhet Pagon. Parkoljon központilag, és fedezze fel az óvárost, a palotát és a világhírű csipkemúzeumot. Ezután kényelmesen hajtson ki a város szélén található Sómuzeumba. A délután a Prosika strandé, amely autóval könnyen megközelíthető. Mielőtt elhagyná Pagot, vessen egy pillantást a Skrivanat-toronyra, a régi városfal maradványára.",
             "ro": "Cu mașina, vă bucurați de flexibilitate maximă în Pag. Parcați central și explorați orașul vechi, palatul și faimosul muzeu al dantelei. Apoi, conduceți confortabil până la Muzeul Sării de la marginea orașului. După-amiaza aparține plajei Prosika, ușor accesibilă cu mașina. Înainte de a părăsi orașul, aruncați o privire la Turnul Skrivanat, o relicvă a vechiului zid al orașului.",
-            "en": "With a car, you enjoy maximum flexibility in Pag. Park centrally and explore the old town, the palace, and the world-famous lace museum. Then drive comfortably to the Salt Museum on the outskirts of town. The afternoon belongs to Prosika Beach, which is easily accessible by car. Before leaving Pag, take a look at the Skrivanat Tower, a relic of the old city wall."
+            "en": "With a car, you enjoy maximum flexibility in Pag. Park centrally and explore the old town, the palace, and the world-famous lace museum. Then drive comfortably to the Salt Museum on the outskirts of town. The afternoon belongs to Prosika Beach, which is easily accessible by car. Before leaving Pag, take a look at the Skrivanat Tower, a relic of the old city wall.",
+            "hr": "S automobilom uživate u maksimalnoj fleksibilnosti na Pagu. Parkirajte u centru i istražite stari grad, palaču i svjetski poznati muzej čipke. Zatim se udobno vozite do Muzeja soli na rubu grada. Poslijepodne pripada plaži Prosika, koja je lako pristupačna automobilom. Prije odlaska s Paga pogledajte Kulu Škrivanat, ostatak zidina starog grada."
           },
           "stops": [
             {
@@ -2150,13 +2247,15 @@
                 "de": "Altstadt von Pag",
                 "hu": "Pag óvárosa",
                 "ro": "Orașul vechi Pag",
-                "en": "Pag Old Town"
+                "en": "Pag Old Town",
+                "hr": "Stari grad Pag"
               },
               "tip_5lang": {
                 "de": "Großer Parkplatz in der Nähe der Brücke nutzen.",
                 "hu": "Használja a híd közeli nagy parkolót.",
                 "ro": "Folosiți parcarea mare de lângă pod.",
-                "en": "Use the large parking lot near the bridge."
+                "en": "Use the large parking lot near the bridge.",
+                "hr": "Koristite veliki parkirališni prostor blizu mosta."
               }
             },
             {
@@ -2164,13 +2263,15 @@
                 "de": "Rektorenpalast",
                 "hu": "Hercegi palota",
                 "ro": "Palatul Rectorului",
-                "en": "Rector's Palace"
+                "en": "Rector's Palace",
+                "hr": "Rektorova palača"
               },
               "tip_5lang": {
                 "de": "Zentral gelegen, zu Fuß vom Parkplatz erreichbar.",
                 "hu": "Központi elhelyezkedés, gyalog elérhető a parkolótól.",
                 "ro": "Situat central, accesibil pe jos din parcare.",
-                "en": "Centrally located, reachable on foot from the parking."
+                "en": "Centrally located, reachable on foot from the parking.",
+                "hr": "Središnje smještena, do nje se može pješke iz parkirališta."
               }
             },
             {
@@ -2178,13 +2279,15 @@
                 "de": "Spitzenmuseum Pag",
                 "hu": "Pagi csipkemúzeum",
                 "ro": "Muzeul Dantelei din Pag",
-                "en": "Pag Lace Museum"
+                "en": "Pag Lace Museum",
+                "hr": "Muzej paške čipke"
               },
               "tip_5lang": {
                 "de": "Ein Muss für Kulturliebhaber.",
                 "hu": "Kultúrakedvelőknek kötelező.",
                 "ro": "O necesitate pentru iubitorii de cultură.",
-                "en": "A must for culture lovers."
+                "en": "A must for culture lovers.",
+                "hr": "Obavezno za ljubitelje kulture."
               }
             },
             {
@@ -2192,13 +2295,15 @@
                 "de": "Salzmuseum",
                 "hu": "Sómuzeum",
                 "ro": "Muzeul Sării",
-                "en": "Salt Museum"
+                "en": "Salt Museum",
+                "hr": "Muzej soli"
               },
               "tip_5lang": {
                 "de": "Eigene Parkplätze direkt vor dem Museum.",
                 "hu": "Saját parkoló közvetlenül a múzeum előtt.",
                 "ro": "Parcare proprie chiar în fața muzeului.",
-                "en": "Private parking right in front of the museum."
+                "en": "Private parking right in front of the museum.",
+                "hr": "Privatno parkiralište odmah ispred muzeja."
               }
             },
             {
@@ -2206,13 +2311,15 @@
                 "de": "Strand Prosika",
                 "hu": "Prosika strand",
                 "ro": "Plaja Prosika",
-                "en": "Prosika Beach"
+                "en": "Prosika Beach",
+                "hr": "Plaža Prosika"
               },
               "tip_5lang": {
                 "de": "Parken in Strandnähe oft gebührenpflichtig.",
                 "hu": "A parkolás a strand közelében gyakran fizetős.",
                 "ro": "Parcarea lângă plajă este adesea cu plată.",
-                "en": "Parking near the beach is often paid."
+                "en": "Parking near the beach is often paid.",
+                "hr": "Parkiranje blizu plaže često je naplaćeno."
               }
             },
             {
@@ -2220,13 +2327,15 @@
                 "de": "Skrivanat-Turm",
                 "hu": "Skrivanat-torony",
                 "ro": "Turnul Skrivanat",
-                "en": "Skrivanat Tower"
+                "en": "Skrivanat Tower",
+                "hr": "Kula Škrivanat"
               },
               "tip_5lang": {
                 "de": "Kurzer Stopp vor der Rückfahrt.",
                 "hu": "Rövid megálló a visszaindulás előtt.",
                 "ro": "Scurtă oprire înainte de întoarcere.",
-                "en": "Short stop before heading back."
+                "en": "Short stop before heading back.",
+                "hr": "Kratko zaustavljanje prije povratka."
               }
             }
           ],
@@ -2332,6 +2441,11 @@
               "Park in marked spots in Pag to avoid fines.",
               "The coastal road offers spectacular views of the Velebit mountains.",
               "In summer, parking lots are often filled early."
+            ],
+            "hr": [
+              "Parkirajte na označenim mjestima na Pagu kako biste izbjegli kazne.",
+              "Obalna cesta nudi spektakularan pogled na Velebit.",
+              "Ljeti su parkirališta često rano popunjena."
             ]
           }
         },
@@ -2341,7 +2455,7 @@
             "hu": "Autóval kényelmesen és szárazon fedezheti fel Pagot esőben is. A délelőtt a városközpontban indul, rövid sétákkal a látnivalók között. Délben a Knežev dvor nyújt menedéket, majd a Csipkemúzeum következik. Délután kényelmesen kihajthatunk a sólepárlókhoz. A nap egy pihentető tengerparti kocsikázással zárul, miközben az eső veri az ablakot.",
             "ro": "Cu mașina explorați Pag în confort și uscat chiar și pe ploaie. Dimineața începe în centrul orașului cu distanțe scurte între obiective. La prânz, Palatul Rectorului oferă adăpost, urmat de Muzeul Dantelei. După-amiaza conduceți confortabil spre saline. Ziua se încheie cu o plimbare relaxantă pe coastă, în timp ce ploaia bate în parbriz.",
             "en": "By car, you explore Pag comfortably and dry even in the rain. The morning starts in the city center with short walks between sights. At midday, the Rector's Palace provides shelter, followed by the Lace Museum. In the afternoon, drive conveniently to the salt pans. The day ends with a relaxed drive along the coast as rain lashes against the windows.",
-            "hr": "Automobilom istražujete Pag udobno i na suhom čak i po kiši. Jutro počinje u centru grada s kratkim šetnjama između znamenitosti. U podne Knežev dvor pruža zaklon, a slijedi ga Muzej čipke. Poslijepodne se povoljno odvezite do solana. Dan završava opuštenom vožnjom uz obalu dok kiša udara o stakla."
+            "hr": "Automobilom istražujete Pag udobno i suho čak i po kiši. Jutro počinje u centru grada s kratkim šetnjama između znamenitosti. U podne Rektorova palača pruža zaklon, a zatim Muzej čipke. Poslijepodne se udobno vozite do solana. Dan završava opuštenom vožnjom duž obale dok kiša lupa o prozore."
           },
           "stops": [
             {
@@ -2350,7 +2464,8 @@
                 "de": "Parken Sie auf dem großen Parkplatz am Hafen.",
                 "hu": "Parkoljon a kikötő melletti nagy parkolóban.",
                 "ro": "Parcați în parcarea mare de lângă port.",
-                "en": "Park in the large parking lot by the harbor."
+                "en": "Park in the large parking lot by the harbor.",
+                "hr": "Parkirajte na velikom parkiralištu uz luku."
               }
             },
             {
@@ -2359,7 +2474,8 @@
                 "de": "Nur wenige Schritte vom Parkplatz entfernt.",
                 "hu": "Csak pár lépésre van a parkolótól.",
                 "ro": "La doar câțiva pași de parcare.",
-                "en": "Only a few steps away from the parking."
+                "en": "Only a few steps away from the parking.",
+                "hr": "Samo nekoliko koraka od parkirališta."
               }
             },
             {
@@ -2368,7 +2484,8 @@
                 "de": "Ideal, um den Regen komplett zu vermeiden.",
                 "hu": "Ideális az eső teljes elkerülésére.",
                 "ro": "Ideal pentru a evita complet ploaia.",
-                "en": "Ideal for avoiding the rain completely."
+                "en": "Ideal for avoiding the rain completely.",
+                "hr": "Idealno za potpuno izbjegavanje kiše."
               }
             },
             {
@@ -2377,7 +2494,8 @@
                 "de": "Kostenlose Parkplätze direkt vor dem Museum.",
                 "hu": "Ingyenes parkolás közvetlenül a múzeum előtt.",
                 "ro": "Parcare gratuită chiar în fața muzeului.",
-                "en": "Free parking directly in front of the museum."
+                "en": "Free parking directly in front of the museum.",
+                "hr": "Besplatno parkiranje neposredno ispred muzeja."
               }
             },
             {
@@ -2386,7 +2504,8 @@
                 "de": "Genießen Sie den Meerblick aus dem Auto.",
                 "hu": "Élvezze a tengeri kilátást az autóból.",
                 "ro": "Bucurați-vă de vederea la mare din mașină.",
-                "en": "Enjoy the sea view from the car."
+                "en": "Enjoy the sea view from the car.",
+                "hr": "Uživajte u pogledu na more iz automobila."
               }
             },
             {
@@ -2395,7 +2514,8 @@
                 "de": "Kurzer Stopp am Straßenrand für ein Foto.",
                 "hu": "Rövid megálló az út szélén egy fotóra.",
                 "ro": "Scurtă oprire la marginea drumului pentru o poză.",
-                "en": "Quick stop by the roadside for a photo."
+                "en": "Quick stop by the roadside for a photo.",
+                "hr": "Brzi zastanak uz cestu za fotografiju."
               }
             }
           ],
@@ -2425,9 +2545,9 @@
               "Visibility can be limited due to spray and rain."
             ],
             "hr": [
-              "Parkirna mjesta u blizini ulaza često su dostupnija na kiši.",
-              "Vozite oprezno preko mostova tijekom jakog vjetra.",
-              "Koristite automobil kao bazu za presvlačenje.",
+              "Parkirna mjesta blizu ulaza često su dostupnija po kiši.",
+              "Vozi pažljivo preko mostova za jakog vjetra.",
+              "Iskoristite auto kao mjesto za presvlačenje.",
               "Vidljivost može biti ograničena zbog prskanja i kiše."
             ]
           }
@@ -2438,7 +2558,7 @@
             "hu": "Télen Pag autóval egy nyugodt élmény. A délelőtt az alvó városközponton át vezet, ahol a parkolás pofonegyszerű. Délben várakozás nélkül látogathatjuk a múzeumokat. A délután a sólepárlókhoz visz, ahol a téli nap hűvös fénybe vonja a tájat. Élvezze a szabadságot az öböl megkerülésével. A nap egy meleg itallal zárul a korai naplemente után.",
             "ro": "Iarna, Pag este o experiență liniștită cu mașina. Dimineața trece prin centrul adormit, unde parcarea este ușoară. La prânz vizitați muzeele fără cozi. După-amiaza vă duce spre saline, unde soarele de iarnă scaldă peisajul în lumină rece. Bucurați-vă de libertatea de a înconjura întregul golf. Ziua se încheie cu o băutură caldă după apus.",
             "en": "In winter, Pag by car is a peaceful experience. The morning leads through the sleeping center, where parking is easy. At midday, visit museums without waiting. The afternoon takes you to the salt pans, where the winter sun bathes the landscape in cool light. Enjoy the freedom to drive around the entire bay. The day ends with a warm drink after sunset.",
-            "hr": "Zimi je Pag automobilom mirno iskustvo. Jutro vodi kroz usnuli centar gdje je parkiranje jednostavno. U podne posjetite muzeje bez čekanja. Poslijepodne vas vodi do solana, gdje zimsko sunce kupa krajolik u hladnom svjetlu. Uživajte u slobodi vožnje oko cijelog zaljeva. Dan završava toplim napitkom nakon zalaska sunca."
+            "hr": "Zimi je Pag automobilom mirno iskustvo. Jutro vodi kroz uspavani centar gdje je parkiranje lako. U podne posjetite muzeje bez čekanja. Poslijepodne vodi do solana, gdje zimsko sunce kupa krajolik u hladnom svjetlu. Uživajte u slobodi vožnje oko cijelog zaljeva. Dan završava toplim napitkom nakon zalaska sunca."
           },
           "stops": [
             {
@@ -2447,7 +2567,8 @@
                 "de": "Parken ist im Winter oft kostenlos oder günstiger.",
                 "hu": "A parkolás télen gyakran ingyenes vagy olcsóbb.",
                 "ro": "Parcarea este adesea gratuită sau mai ieftină iarna.",
-                "en": "Parking is often free or cheaper in winter."
+                "en": "Parking is often free or cheaper in winter.",
+                "hr": "Parkiranje je često besplatno ili je jeftinije zimi."
               }
             },
             {
@@ -2456,7 +2577,8 @@
                 "de": "Kein Stress bei der Parkplatzsuche.",
                 "hu": "Nincs stressz a parkolóhely keresése miatt.",
                 "ro": "Fără stres la căutarea locului de parcare.",
-                "en": "No stress finding a parking spot."
+                "en": "No stress finding a parking spot.",
+                "hr": "Bez stresa pri traženju parkirnog mjesta."
               }
             },
             {
@@ -2465,7 +2587,8 @@
                 "de": "Warme Innenräume genießen.",
                 "hu": "Élvezze a meleg belső tereket.",
                 "ro": "Bucurați-vă de spațiile interioare calde.",
-                "en": "Enjoy the warm indoor spaces."
+                "en": "Enjoy the warm indoor spaces.",
+                "hr": "Uživajte u toplim unutarnjim prostorima."
               }
             },
             {
@@ -2474,7 +2597,8 @@
                 "de": "Die Zufahrt ist im Winter sehr ruhig.",
                 "hu": "Az idevezető út télen nagyon csendes.",
                 "ro": "Drumul de acces este foarte liniștit iarna.",
-                "en": "The access road is very quiet in winter."
+                "en": "The access road is very quiet in winter.",
+                "hr": "Pristupni put je zimi vrlo miran."
               }
             },
             {
@@ -2483,7 +2607,8 @@
                 "de": "Perfekter Ort für den Sonnenuntergang im Warmen.",
                 "hu": "Tökéletes hely a naplemente megtekintésére a melegből.",
                 "ro": "Locul perfect pentru a vedea apusul de la căldură.",
-                "en": "Perfect spot to watch the sunset from the warmth."
+                "en": "Perfect spot to watch the sunset from the warmth.",
+                "hr": "Savršeno mjesto za gledanje zalaska sunca iz topline."
               }
             },
             {
@@ -2492,7 +2617,8 @@
                 "de": "Schneller Stopp, bevor es dunkel wird.",
                 "hu": "Gyors megálló, mielőtt besötétedik.",
                 "ro": "Oprire rapidă înainte de a se întuneca.",
-                "en": "Quick stop before it gets dark."
+                "en": "Quick stop before it gets dark.",
+                "hr": "Brza pauza prije nego što padne mrak."
               }
             }
           ],
@@ -2522,10 +2648,10 @@
               "Make the most of daylight until about 16:30."
             ],
             "hr": [
-              "Pripazite na zatvaranje cesta tijekom ekstremne bure.",
-              "Grijanje u automobilu pruža ugodne pauze.",
-              "Važno je imati antifriz u tekućini za pranje stakla.",
-              "Maksimalno iskoristite dnevno svjetlo do oko 16:30."
+              "Pazite na zatvaranja cesta tijekom jakog bure.",
+              "Grijač u autu pruža ugodne predaha.",
+              "Protivsmrzivač u tekućini za stakla je važan.",
+              "Iskoristite dnevno svjetlo do otprilike 16:30."
             ]
           }
         }
@@ -2544,7 +2670,8 @@
             "de": "Altstadt von Pag",
             "hu": "Pag óvárosa",
             "ro": "Orașul vechi Pag",
-            "en": "Pag Old Town"
+            "en": "Pag Old Town",
+            "hr": "Stari grad Pag"
           },
           "coords": [
             15.0567,
@@ -2560,7 +2687,7 @@
             "hu": "A buszmegálló az óváros bejáratánál található.",
             "ro": "Stația de autobuz este la intrarea în orașul vechi.",
             "en": "The bus stop is at the entrance to the old town.",
-            "hr": "Autobusna stanica nalazi se na ulazu u stari grad."
+            "hr": "Autobusna stanica je na ulazu u stari grad."
           }
         },
         {
@@ -2568,7 +2695,8 @@
             "de": "Kirche Mariä Himmelfahrt",
             "hu": "Szűz Mária Mennybevétele templom",
             "ro": "Biserica Adormirea Maicii Domnului",
-            "en": "Church of the Assumption"
+            "en": "Church of the Assumption",
+            "hr": "Crkva Uznesenja"
           },
           "coords": [
             15.0562,
@@ -2592,7 +2720,8 @@
             "de": "Spitzenmuseum Pag",
             "hu": "Pagi csipkemúzeum",
             "ro": "Muzeul Dantelei din Pag",
-            "en": "Pag Lace Museum"
+            "en": "Pag Lace Museum",
+            "hr": "Muzej paške čipke"
           },
           "coords": [
             15.0558,
@@ -2616,7 +2745,8 @@
             "de": "Salzmuseum",
             "hu": "Sómuzeum",
             "ro": "Muzeul Sării",
-            "en": "Salt Museum"
+            "en": "Salt Museum",
+            "hr": "Muzej soli"
           },
           "coords": [
             15.06,
@@ -2632,7 +2762,7 @@
             "hu": "Kicsit kijjebb van, használja a helyi buszt, ha elérhető.",
             "ro": "Puțin în afara orașului, folosiți autobuzul local dacă este disponibil.",
             "en": "A bit outside, use the local bus if available.",
-            "hr": "Malo izvan centra, koristite lokalni autobus ako je dostupan."
+            "hr": "Malo izvan, koristite lokalni autobus ako je dostupan."
           }
         },
         {
@@ -2640,7 +2770,8 @@
             "de": "Katine-Brücke",
             "hu": "Katine-híd",
             "ro": "Podul Katine",
-            "en": "Katine Bridge"
+            "en": "Katine Bridge",
+            "hr": "Katina (Katine) most"
           },
           "coords": [
             15.0535,
@@ -2664,7 +2795,8 @@
             "de": "Strand Prosika",
             "hu": "Prosika strand",
             "ro": "Plaja Prosika",
-            "en": "Prosika Beach"
+            "en": "Prosika Beach",
+            "hr": "Plaža Prosika"
           },
           "coords": [
             15.048,
@@ -2680,7 +2812,7 @@
             "hu": "Tiszta kikapcsolódás a hazaút előtt.",
             "ro": "Relaxare pură înainte de plecare.",
             "en": "Pure relaxation before heading home.",
-            "hr": "Čisto opuštanje prije odlaska kući."
+            "hr": "Potpuno opuštanje prije povratka kući."
           }
         }
       ],
@@ -2689,7 +2821,7 @@
         "hu": "Használja a helyi buszt és a lábait Pag felfedezéséhez. Kezdjen az óvárosban, látogassa meg a templomot és a csipkemúzeumot. Egy séta vagy rövid utazás elviszi a Sómuzeumba. Visszatérve a központba, keljen át a Katine-hídon, és töltse a késő délutánt a Prosika strandon, mielőtt felszállna a hazafelé tartó buszra.",
         "ro": "Folosiți autobuzul local și picioarele proprii pentru a explora Pag. Începeți în orașul vechi și vizitați biserica și muzeul dantelei. O plimbare sau o scurtă călătorie vă duce la Muzeul Sării. Întorși în centru, traversați Podul Katine și petreceți după-amiaza târzie pe plaja Prosika înainte de a lua autobuzul spre casă.",
         "en": "Use the local bus and your feet to explore Pag. Start in the old town and visit the church and the lace museum. A walk or a short ride takes you to the Salt Museum. Back in the center, cross the Katine Bridge and spend the late afternoon at Prosika Beach before catching the bus for your return journey.",
-        "hr": "Koristite lokalni autobus i vlastite noge za istraživanje Paga. Počnite u starom gradu i posjetite crkvu i muzej čipke. Šetnja ili kratka vožnja vodi vas do Muzeja soli. Natrag u centru, prijeđite most Katine i provedite kasno poslijepodne na plaži Prosika prije nego što uhvatite autobus za povratak."
+        "hr": "Koristite lokalni autobus i noge za istraživanje Paga. Počnite u starom gradu i posjetite crkvu i muzej čipke. Pješačenje ili kratka vožnja vodi do Muzeja soli. Vratite se u centar, prijeđite Katinin most i provedite kasno poslijepodne na plaži Prosika prije povratka autobusom."
       },
       "gastro_picks": {
         "de": [
@@ -2814,9 +2946,9 @@
           "Pag city is compact, most things are doable on foot."
         ],
         "hr": [
-          "Pažljivo provjerite vozni red autobusa jer se učestalost razlikuje.",
+          "Pažljivo provjerite vozni red jer se frekvencije razlikuju.",
           "Karte se često mogu kupiti kod vozača.",
-          "Grad Pag je kompaktan, većina stvari je izvediva pješice."
+          "Grad Pag je kompaktan, većinu stvari možete obaviti pješice."
         ]
       },
       "variants": {
@@ -2825,7 +2957,8 @@
             "de": "Nutzen Sie den lokalen Bus und Ihre Füße, um Pag zu erkunden. Beginnen Sie in der Altstadt und besuchen Sie die Kirche sowie das Spitzenmuseum. Ein Spaziergang oder eine kurze Fahrt führt Sie zum Salzmuseum. Zurück im Zentrum überqueren Sie die Katine-Brücke und verbringen den späten Nachmittag am Strand Prosika, bevor Sie den Bus für Ihre Rückreise nehmen.",
             "hu": "Használja a helyi buszt és a lábait Pag felfedezéséhez. Kezdjen az óvárosban, látogassa meg a templomot és a csipkemúzeumot. Egy séta vagy rövid utazás elviszi a Sómuzeumba. Visszatérve a központba, keljen át a Katine-hídon, és töltse a késő délutánt a Prosika strandon, mielőtt felszállna a hazafelé tartó buszra.",
             "ro": "Folosiți autobuzul local și picioarele proprii pentru a explora Pag. Începeți în orașul vechi și vizitați biserica și muzeul dantelei. O plimbare sau o scurtă călătorie vă duce la Muzeul Sării. Întorși în centru, traversați Podul Katine și petreceți după-amiaza târzie pe plaja Prosika înainte de a lua autobuzul spre casă.",
-            "en": "Use the local bus and your feet to explore Pag. Start in the old town and visit the church and the lace museum. A walk or a short ride takes you to the Salt Museum. Back in the center, cross the Katine Bridge and spend the late afternoon at Prosika Beach before catching the bus for your return journey."
+            "en": "Use the local bus and your feet to explore Pag. Start in the old town and visit the church and the lace museum. A walk or a short ride takes you to the Salt Museum. Back in the center, cross the Katine Bridge and spend the late afternoon at Prosika Beach before catching the bus for your return journey.",
+            "hr": "Koristite lokalni autobus i noge za istraživanje Paga. Počnite u starom gradu i posjetite crkvu i muzej čipke. Pješačenje ili kratka vožnja vodi do Muzeja soli. Vratite se u centar, prijeđite Katinin most i provedite kasno poslijepodne na plaži Prosika prije povratka autobusom."
           },
           "stops": [
             {
@@ -2833,13 +2966,15 @@
                 "de": "Altstadt von Pag",
                 "hu": "Pag óvárosa",
                 "ro": "Orașul vechi Pag",
-                "en": "Pag Old Town"
+                "en": "Pag Old Town",
+                "hr": "Stari grad Pag"
               },
               "tip_5lang": {
                 "de": "Die Bushaltestelle liegt am Eingang zur Altstadt.",
                 "hu": "A buszmegálló az óváros bejáratánál található.",
                 "ro": "Stația de autobuz este la intrarea în orașul vechi.",
-                "en": "The bus stop is at the entrance to the old town."
+                "en": "The bus stop is at the entrance to the old town.",
+                "hr": "Autobusna stanica je na ulazu u stari grad."
               }
             },
             {
@@ -2847,13 +2982,15 @@
                 "de": "Kirche Mariä Himmelfahrt",
                 "hu": "Szűz Mária Mennybevétele templom",
                 "ro": "Biserica Adormirea Maicii Domnului",
-                "en": "Church of the Assumption"
+                "en": "Church of the Assumption",
+                "hr": "Crkva Uznesenja"
               },
               "tip_5lang": {
                 "de": "Zentraler Treffpunkt.",
                 "hu": "Központi találkozóhely.",
                 "ro": "Punct central de întâlnire.",
-                "en": "Central meeting point."
+                "en": "Central meeting point.",
+                "hr": "Središnje mjesto susreta."
               }
             },
             {
@@ -2861,13 +2998,15 @@
                 "de": "Spitzenmuseum Pag",
                 "hu": "Pagi csipkemúzeum",
                 "ro": "Muzeul Dantelei din Pag",
-                "en": "Pag Lace Museum"
+                "en": "Pag Lace Museum",
+                "hr": "Muzej paške čipke"
               },
               "tip_5lang": {
                 "de": "Tauchen Sie ein in die lokale Geschichte.",
                 "hu": "Merüljön el a helyi történelemben.",
                 "ro": "Scufundați-vă în istoria locală.",
-                "en": "Immerse yourself in local history."
+                "en": "Immerse yourself in local history.",
+                "hr": "Uronite u lokalnu povijest."
               }
             },
             {
@@ -2875,13 +3014,15 @@
                 "de": "Salzmuseum",
                 "hu": "Sómuzeum",
                 "ro": "Muzeul Sării",
-                "en": "Salt Museum"
+                "en": "Salt Museum",
+                "hr": "Muzej soli"
               },
               "tip_5lang": {
                 "de": "Etwas außerhalb, nutzen Sie den lokalen Bus falls verfügbar.",
                 "hu": "Kicsit kijjebb van, használja a helyi buszt, ha elérhető.",
                 "ro": "Puțin în afara orașului, folosiți autobuzul local dacă este disponibil.",
-                "en": "A bit outside, use the local bus if available."
+                "en": "A bit outside, use the local bus if available.",
+                "hr": "Malo izvan, koristite lokalni autobus ako je dostupan."
               }
             },
             {
@@ -2889,13 +3030,15 @@
                 "de": "Katine-Brücke",
                 "hu": "Katine-híd",
                 "ro": "Podul Katine",
-                "en": "Katine Bridge"
+                "en": "Katine Bridge",
+                "hr": "Katina (Katine) most"
               },
               "tip_5lang": {
                 "de": "Wahrzeichen der Stadt.",
                 "hu": "A város jelképe.",
                 "ro": "Simbolul orașului.",
-                "en": "Symbol of the city."
+                "en": "Symbol of the city.",
+                "hr": "Simbol grada."
               }
             },
             {
@@ -2903,13 +3046,15 @@
                 "de": "Strand Prosika",
                 "hu": "Prosika strand",
                 "ro": "Plaja Prosika",
-                "en": "Prosika Beach"
+                "en": "Prosika Beach",
+                "hr": "Plaža Prosika"
               },
               "tip_5lang": {
                 "de": "Entspannung pur vor der Heimfahrt.",
                 "hu": "Tiszta kikapcsolódás a hazaút előtt.",
                 "ro": "Relaxare pură înainte de plecare.",
-                "en": "Pure relaxation before heading home."
+                "en": "Pure relaxation before heading home.",
+                "hr": "Potpuno opuštanje prije povratka kući."
               }
             }
           ],
@@ -3015,6 +3160,11 @@
               "Check the bus schedule carefully as frequencies vary.",
               "Tickets can often be bought from the driver.",
               "Pag city is compact, most things are doable on foot."
+            ],
+            "hr": [
+              "Pažljivo provjerite vozni red jer se frekvencije razlikuju.",
+              "Karte se često mogu kupiti kod vozača.",
+              "Grad Pag je kompaktan, većinu stvari možete obaviti pješice."
             ]
           }
         },
@@ -3024,7 +3174,7 @@
             "hu": "A közösségi közlekedés Pagon védelmet nyújt az esőben, de tervezést igényel. A délelőtt a jól megközelíthető központban indul. Délben töltsön több időt a múzeumokban, hogy elkerülje az időjárást. Délután busszal utazunk a sólepárlók közelébe. A nap a visszúttal zárul, miközben az ablakból figyeljük az esős tájat.",
             "ro": "Transportul public în Pag oferă protecție pe ploaie, dar necesită planificare. Dimineața începe în centru, care este bine conectat. La prânz petreceți mult timp în muzee pentru a evita vremea rea. După-amiaza mergeți cu autobuzul aproape de saline. Ziua se încheie cu drumul de întoarcere, admirând peisajul ploios de la fereastră.",
             "en": "Public transit in Pag provides shelter in the rain but requires planning. The morning starts in the center, which is well-connected. At midday, spend plenty of time in museums to avoid the weather. The afternoon takes you by bus near the salt pans. The day ends with a ride back, comfortably watching the rainy landscape from the window.",
-            "hr": "Javni prijevoz u Pagu pruža zaklon na kiši, ali zahtijeva planiranje. Jutro počinje u centru koji je dobro povezan. U podne provedite dovoljno vremena u muzejima kako biste izbjegli nevrijeme. Poslijepodne vas autobus vodi blizu solana. Dan završava vožnjom natrag, udobno promatrajući kišni krajolik kroz prozor."
+            "hr": "Javni prijevoz u Pagu pruža zaklon od kiše, ali zahtijeva planiranje. Jutro počinje u centru, koji je dobro povezan. U podne provedite puno vremena u muzejima kako biste izbjegli loše vrijeme. Poslijepodne vas autobus vodi pokraj solana. Dan završava vožnjom natrag, udobno promatrajući kišnu krajoliku kroz prozor."
           },
           "stops": [
             {
@@ -3033,7 +3183,8 @@
                 "de": "Die Bushaltestelle bietet meist ein Dach.",
                 "hu": "A buszmegálló rendszerint fedett.",
                 "ro": "Stația de autobuz are de obicei un acoperiș.",
-                "en": "The bus stop usually has a roof."
+                "en": "The bus stop usually has a roof.",
+                "hr": "Autobusna stanica obično ima krov."
               }
             },
             {
@@ -3042,7 +3193,8 @@
                 "de": "Vom Bus nur ein kurzer Fußweg.",
                 "hu": "A busztól csak rövid séta.",
                 "ro": "Doar o scurtă plimbare de la autobuz.",
-                "en": "Only a short walk from the bus."
+                "en": "Only a short walk from the bus.",
+                "hr": "Samo kratka šetnja od autobusa."
               }
             },
             {
@@ -3051,7 +3203,8 @@
                 "de": "Bleiben Sie länger, bis der nächste Bus kommt.",
                 "hu": "Maradjon tovább a következő buszig.",
                 "ro": "Stați mai mult până vine următorul autobuz.",
-                "en": "Stay longer until the next bus arrives."
+                "en": "Stay longer until the next bus arrives.",
+                "hr": "Ostanite dulje dok ne stigne sljedeći autobus."
               }
             },
             {
@@ -3060,7 +3213,8 @@
                 "de": "Prüfen Sie die Rückfahrzeiten genau.",
                 "hu": "Pontosan ellenőrizze a visszaindulási időket.",
                 "ro": "Verificați exact orele de întoarcere.",
-                "en": "Check return times carefully."
+                "en": "Check return times carefully.",
+                "hr": "Pažljivo provjerite vrijeme povratka."
               }
             },
             {
@@ -3069,7 +3223,8 @@
                 "de": "Schneller Übergang zur nächsten Haltestelle.",
                 "hu": "Gyors átjutás a következő megállóhoz.",
                 "ro": "Trecere rapidă spre următoarea stație.",
-                "en": "Quick transition to the next stop."
+                "en": "Quick transition to the next stop.",
+                "hr": "Brza tranzicija do sljedeće stanice."
               }
             },
             {
@@ -3078,7 +3233,8 @@
                 "de": "Hinter den Scheiben des Busses trocken bleiben.",
                 "hu": "Maradjon szárazon a busz ablakai mögött.",
                 "ro": "Rămâneți uscat în spatele geamurilor autobuzului.",
-                "en": "Stay dry behind the bus windows."
+                "en": "Stay dry behind the bus windows.",
+                "hr": "Ostanite suhi iza autobusnih prozora."
               }
             }
           ],
@@ -3109,8 +3265,8 @@
             ],
             "hr": [
               "Autobusni terminali često imaju suhe čekaonice.",
-              "Učestalost autobusa može varirati tijekom oluja.",
-              "Koristite aplikacije ili web stranice za informacije u stvarnom vremenu.",
+              "U olujama se učestalost autobusa može mijenjati.",
+              "Koristite aplikacije ili web-stranice za informacije u stvarnom vremenu.",
               "Nosite kišnu opremu za šetnje između stanica."
             ]
           }
@@ -3121,7 +3277,7 @@
             "hu": "Télen a buszok Pagon kevésbé zsúfoltak, de ritkábban járnak. A délelőtt a csendes óvárosé. Délben a kiállítótermekben melegedhetünk fel. A délután a sólepárlókhoz visz, de ügyelni kell az indulási időkre. A tiszta téli fények vizuális élménnyé teszik a tengerparti utazást. A nap korán zárul a visszatéréssel a meleg szállásra.",
             "ro": "Iarna, autobuzele din Pag sunt mai puțin aglomerate, dar circulă mai rar. Dimineața aparține orașului vechi liniștit. La prânz vă încălziți în sălile de expoziție. După-amiaza vă duce la saline, dar trebuie să urmăriți orele de plecare. Lumina clară de iarnă transformă drumul pe coastă într-o experiență vizuală. Ziua se încheie devreme cu întoarcerea la hotelul călduros.",
             "en": "In winter, buses in Pag are less crowded but run less frequently. The morning belongs to the quiet Old Town. At midday, warm up in the exhibition rooms. The afternoon takes you to the salt pans, but keep an eye on departure times. The clear winter light makes the coastal ride a visual experience. The day ends early with a return to your warm hotel.",
-            "hr": "Zimi su autobusi u Pagu manje krcati, ali voze rjeđe. Jutro pripada mirnom Starom gradu. U podne se zagrijte u izložbenim prostorima. Poslijepodne vas vodi do solana, ali pripazite na vrijeme polaska. Vedro zimsko svjetlo čini vožnju obalom vizualnim doživljajem. Dan završava rano povratkom u vaš topli hotel."
+            "hr": "Zimi su autobusi u Pagu manje puni, ali voze rjeđe. Jutro pripada mirnom Starom gradu. U podne se zagrijte u izložbenim prostorijama. Poslijepodne vas vodi do solana, ali pazite na vrijeme polazaka. Jasno zimsko svjetlo čini obalnu vožnju vizualnim doživljajem. Dan se ranije završava povratkom u topao hotel."
           },
           "stops": [
             {
@@ -3130,7 +3286,8 @@
                 "de": "Zentraler Knotenpunkt für alle Verbindungen.",
                 "hu": "Központi csomópont minden járathoz.",
                 "ro": "Nod central pentru toate conexiunile.",
-                "en": "Central hub for all connections."
+                "en": "Central hub for all connections.",
+                "hr": "Središnje raskrižje za sve veze."
               }
             },
             {
@@ -3139,7 +3296,8 @@
                 "de": "Wenig Verkehr, einfache Anreise.",
                 "hu": "Kevés forgalom, egyszerű érkezés.",
                 "ro": "Trafic redus, sosire ușoară.",
-                "en": "Little traffic, easy arrival."
+                "en": "Little traffic, easy arrival.",
+                "hr": "Malo prometa, jednostavan dolazak."
               }
             },
             {
@@ -3148,7 +3306,8 @@
                 "de": "Guter Ort, um auf den nächsten Bus zu warten.",
                 "hu": "Jó hely a következő busz megvárására.",
                 "ro": "Loc bun pentru a aștepta următorul autobuz.",
-                "en": "Good place to wait for the next bus."
+                "en": "Good place to wait for the next bus.",
+                "hr": "Dobar je mjesto za čekanje sljedećeg autobusa."
               }
             },
             {
@@ -3157,7 +3316,8 @@
                 "de": "Prüfen Sie den Winterfahrplan vorab.",
                 "hu": "Előre ellenőrizze a téli menetrendet.",
                 "ro": "Verificați în avans mersul autobuzelor de iarnă.",
-                "en": "Check the winter schedule in advance."
+                "en": "Check the winter schedule in advance.",
+                "hr": "Provjerite zimski vozni red unaprijed."
               }
             },
             {
@@ -3166,7 +3326,8 @@
                 "de": "Kurzer, erfrischender Fußweg im Wind.",
                 "hu": "Rövid, frissítő séta a szélben.",
                 "ro": "Scurtă plimbare revigorantă în vânt.",
-                "en": "Short, refreshing walk in the wind."
+                "en": "Short, refreshing walk in the wind.",
+                "hr": "Kratka, osvježavajuća šetnja na vjetru."
               }
             },
             {
@@ -3175,7 +3336,8 @@
                 "de": "Letzter Bus oft kurz nach Sonnenuntergang.",
                 "hu": "Az utolsó busz gyakran nem sokkal naplemente után indul.",
                 "ro": "Ultimul autobuz pleacă adesea imediat după apus.",
-                "en": "The last bus often leaves shortly after sunset."
+                "en": "The last bus often leaves shortly after sunset.",
+                "hr": "Zadnji autobus često polazi ubrzo nakon zalaska sunca."
               }
             }
           ],
@@ -3205,10 +3367,10 @@
               "Keep moving at the stops to stay warm."
             ],
             "hr": [
-              "Zimski vozni redovi su često značajno smanjeni.",
+              "Zimski vozni redovi često su znatno smanjeni.",
               "Bura može uzrokovati kašnjenja u autobusnom prometu.",
-              "Ako je moguće, kupite karte online unaprijed.",
-              "Ostanite u pokretu na stanicama kako biste ostali zagrijani."
+              "Kupite karte online unaprijed ako je moguće.",
+              "Krećite se dok čekate na stajalištima kako biste ostali topliji."
             ]
           }
         }
@@ -3259,7 +3421,8 @@
       "de": "Kroatisch",
       "hu": "Horvát",
       "ro": "Croată",
-      "en": "Croatian"
+      "en": "Croatian",
+      "hr": "Hrvatski"
     },
     "best_time_to_visit": {
       "tz": "Europe/Zagreb",

@@ -21,7 +21,8 @@
             "de": "Fährterminal Drvenik",
             "hu": "Drvenik kompkikötő",
             "ro": "Terminal feribot Drvenik",
-            "en": "Drvenik Ferry Terminal"
+            "en": "Drvenik Ferry Terminal",
+            "hr": "Drvenik, trajektna luka"
           },
           "coords": [
             17.2185,
@@ -37,7 +38,7 @@
             "hu": "Kapu Hvar szigete felé.",
             "ro": "Poarta spre insula Hvar.",
             "en": "Gateway to Hvar Island.",
-            "hr": "Vrata otoka Hvara."
+            "hr": "Pristup otoku Hvaru."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Kirche des Hl. Georg",
             "hu": "Szent György-templom",
             "ro": "Biserica Sf. Gheorghe",
-            "en": "St. George Church"
+            "en": "St. George Church",
+            "hr": "Crkva sv. Jurja"
           },
           "coords": [
             17.2195,
@@ -69,7 +71,8 @@
             "de": "Donja Vala Bucht",
             "hu": "Donja Vala öböl",
             "ro": "Golful Donja Vala",
-            "en": "Donja Vala Bay"
+            "en": "Donja Vala Bay",
+            "hr": "Uvala Donja Vala"
           },
           "coords": [
             17.216,
@@ -85,7 +88,7 @@
             "hu": "Kristálytiszta víz, ideális családoknak.",
             "ro": "Apă cristalină, ideală pentru familii.",
             "en": "Crystal clear water, ideal for families.",
-            "hr": "Kristalno čisto more, idealno za obitelji."
+            "hr": "Kristalno čista voda, idealna za obitelji."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Denkmal für die Gefallenen",
             "hu": "Elesettek emlékműve",
             "ro": "Monumentul eroilor",
-            "en": "Monument to the Fallen"
+            "en": "Monument to the Fallen",
+            "hr": "Spomenik poginulima"
           },
           "coords": [
             17.217,
@@ -109,7 +113,7 @@
             "hu": "Elmélkedésre alkalmas ligetes hely.",
             "ro": "Loc de reflecție în mijlocul vegetației.",
             "en": "Reflective spot in a green area.",
-            "hr": "Mjesto za razmišljanje u zelenilu."
+            "hr": "Mjestо za razmišljanje u zelenom prostoru."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Gornja Vala Strand",
             "hu": "Gornja Vala strand",
             "ro": "Plaja Gornja Vala",
-            "en": "Gornja Vala Beach"
+            "en": "Gornja Vala Beach",
+            "hr": "Plaža Gornja Vala"
           },
           "coords": [
             17.225,
@@ -133,7 +138,7 @@
             "hu": "Kicsit nyugodtabb, mint Donja Vala.",
             "ro": "Ceva mai liniștită decât Donja Vala.",
             "en": "Slightly quieter than Donja Vala.",
-            "hr": "Nešto mirnije od Donje Vale."
+            "hr": "Malo mirnija od Donje Vale."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Festung Gradina",
             "hu": "Gradina erőd",
             "ro": "Cetatea Gradina",
-            "en": "Gradina Fortress"
+            "en": "Gradina Fortress",
+            "hr": "Tvrđava Gradina"
           },
           "coords": [
             17.23,
@@ -157,7 +163,7 @@
             "hu": "Meredek felkapaszkodó, pazar kilátás.",
             "ro": "Urcuș greu, priveliște superbă.",
             "en": "Tough climb, great view.",
-            "hr": "Težak uspon, sjajan pogled."
+            "hr": "Naporan uspon, sjajan pogled."
           }
         }
       ],
@@ -166,7 +172,7 @@
         "hu": "Drvenik két gyönyörű öböllel büszkélkedhet, melyeket ma felfedezünk. Reggel a kompkikötő nyüzsgését nézzük meg, majd a Szent György-templomba látogatunk. A délidőt a Donja Vala öbölben töltjük fürdőzéssel. Délután átmegyünk a Gornja Vala strandra egy kis lazításra. A nap csúcspontja a Gradina erődbe való felkapaszkodás, ahonnan tökéletes kilátás nyílik az adriai naplementére.",
         "ro": "Drvenik oferă două goluri superbe pe care le explorăm astăzi. Dimineața observăm activitatea de la terminalul feribot și vizităm biserica Sf. Gheorghe. Prânzul aparține golfului Donja Vala pentru băi lungi. După-amiaza ne plimbăm spre plaja Gornja Vala pentru relaxare. Punctul culminant este urcarea la cetatea Gradina, de unde se poate vedea perfect apusul peste Marea Adriatică.",
         "en": "Drvenik boasts two beautiful bays that we explore today. In the morning, watch the ferry terminal's bustle and visit St. George Church. Midday is spent at Donja Vala Bay for swimming. In the afternoon, stroll to Gornja Vala beach for further relaxation. The highlight is the climb to Gradina Fortress, offering a perfect vantage point for the sunset over the Adriatic.",
-        "hr": "Drvenik se ponosi dvjema prekrasnim uvalama koje danas istražujemo. Ujutro promatrajte vrevu na trajektnom terminalu i posjetite crkvu sv. Jurja. Podne provedite u uvali Donja Vala uživajući u kupanju. Poslijepodne prošetajte do plaže Gornja Vala za daljnje opuštanje. Vrhunac dana je uspon na utvrdu Gradinu, koja nudi savršen pogled na zalazak sunca nad Jadranom."
+        "hr": "Drvenik ima dvije prekrasne uvale koje danas istražujemo. Ujutro promatrajte gužvu na trajektnoj luci i posjetite crkvu sv. Jurja. U podne se kupamo u uvali Donja Vala. Poslijepodne prošećite do plaže Gornja Vala za dodatno opuštanje. Vrhunac je uspon na tvrđavu Gradina, koja nudi savršeno mjesto za gledanje zalaska sunca nad Jadranom."
       },
       "gastro_picks": {
         "de": [
@@ -340,10 +346,10 @@
           "Water shoes recommended for pebbles."
         ],
         "hr": [
-          "Provjerite vozni red trajekta za Hvar.",
-          "Pijte puno vode prilikom uspona na Gradinu.",
-          "Sjenovita mjesta se brzo popune.",
-          "Preporučuje se obuća za vodu zbog šljunka."
+          "Provjerite rasporede trajekata za Hvar.",
+          "Pijte dovoljno vode dok se uspinjete na Gradinu.",
+          "Sjenovita mjesta brzo se popune.",
+          "Preporučene su obuća za vodu zbog šljunka."
         ]
       },
       "variants": {
@@ -352,7 +358,8 @@
             "de": "Drvenik bietet zwei wunderschöne Buchten, die wir heute erkunden. Morgens beobachten wir das Treiben am Fährterminal und besuchen die St.-Georgs-Kirche. Der Mittag gehört der Donja Vala Bucht für ausgiebiges Baden. Nachmittags spazieren wir zum Gornja Vala Strand für weitere Entspannung. Den krönenden Abschluss bildet der Aufstieg zur Festung Gradina, von wo aus man den Sonnenuntergang über der Adria perfekt überblicken kann.",
             "hu": "Drvenik két gyönyörű öböllel büszkélkedhet, melyeket ma felfedezünk. Reggel a kompkikötő nyüzsgését nézzük meg, majd a Szent György-templomba látogatunk. A délidőt a Donja Vala öbölben töltjük fürdőzéssel. Délután átmegyünk a Gornja Vala strandra egy kis lazításra. A nap csúcspontja a Gradina erődbe való felkapaszkodás, ahonnan tökéletes kilátás nyílik az adriai naplementére.",
             "ro": "Drvenik oferă două goluri superbe pe care le explorăm astăzi. Dimineața observăm activitatea de la terminalul feribot și vizităm biserica Sf. Gheorghe. Prânzul aparține golfului Donja Vala pentru băi lungi. După-amiaza ne plimbăm spre plaja Gornja Vala pentru relaxare. Punctul culminant este urcarea la cetatea Gradina, de unde se poate vedea perfect apusul peste Marea Adriatică.",
-            "en": "Drvenik boasts two beautiful bays that we explore today. In the morning, watch the ferry terminal's bustle and visit St. George Church. Midday is spent at Donja Vala Bay for swimming. In the afternoon, stroll to Gornja Vala beach for further relaxation. The highlight is the climb to Gradina Fortress, offering a perfect vantage point for the sunset over the Adriatic."
+            "en": "Drvenik boasts two beautiful bays that we explore today. In the morning, watch the ferry terminal's bustle and visit St. George Church. Midday is spent at Donja Vala Bay for swimming. In the afternoon, stroll to Gornja Vala beach for further relaxation. The highlight is the climb to Gradina Fortress, offering a perfect vantage point for the sunset over the Adriatic.",
+            "hr": "Drvenik ima dvije prekrasne uvale koje danas istražujemo. Ujutro promatrajte gužvu na trajektnoj luci i posjetite crkvu sv. Jurja. U podne se kupamo u uvali Donja Vala. Poslijepodne prošećite do plaže Gornja Vala za dodatno opuštanje. Vrhunac je uspon na tvrđavu Gradina, koja nudi savršeno mjesto za gledanje zalaska sunca nad Jadranom."
           },
           "stops": [
             {
@@ -360,13 +367,15 @@
                 "de": "Fährterminal Drvenik",
                 "hu": "Drvenik kompkikötő",
                 "ro": "Terminal feribot Drvenik",
-                "en": "Drvenik Ferry Terminal"
+                "en": "Drvenik Ferry Terminal",
+                "hr": "Drvenik, trajektna luka"
               },
               "tip_5lang": {
                 "de": "Tor zur Insel Hvar.",
                 "hu": "Kapu Hvar szigete felé.",
                 "ro": "Poarta spre insula Hvar.",
-                "en": "Gateway to Hvar Island."
+                "en": "Gateway to Hvar Island.",
+                "hr": "Pristup otoku Hvaru."
               }
             },
             {
@@ -374,13 +383,15 @@
                 "de": "Kirche des Hl. Georg",
                 "hu": "Szent György-templom",
                 "ro": "Biserica Sf. Gheorghe",
-                "en": "St. George Church"
+                "en": "St. George Church",
+                "hr": "Crkva sv. Jurja"
               },
               "tip_5lang": {
                 "de": "Historische Barockkirche.",
                 "hu": "Történelmi barokk templom.",
                 "ro": "Biserică barocă istorică.",
-                "en": "Historical Baroque church."
+                "en": "Historical Baroque church.",
+                "hr": "Povijesna barokna crkva."
               }
             },
             {
@@ -388,13 +399,15 @@
                 "de": "Donja Vala Bucht",
                 "hu": "Donja Vala öböl",
                 "ro": "Golful Donja Vala",
-                "en": "Donja Vala Bay"
+                "en": "Donja Vala Bay",
+                "hr": "Uvala Donja Vala"
               },
               "tip_5lang": {
                 "de": "Glasklares Wasser, ideal für Familien.",
                 "hu": "Kristálytiszta víz, ideális családoknak.",
                 "ro": "Apă cristalină, ideală pentru familii.",
-                "en": "Crystal clear water, ideal for families."
+                "en": "Crystal clear water, ideal for families.",
+                "hr": "Kristalno čista voda, idealna za obitelji."
               }
             },
             {
@@ -402,13 +415,15 @@
                 "de": "Denkmal für die Gefallenen",
                 "hu": "Elesettek emlékműve",
                 "ro": "Monumentul eroilor",
-                "en": "Monument to the Fallen"
+                "en": "Monument to the Fallen",
+                "hr": "Spomenik poginulima"
               },
               "tip_5lang": {
                 "de": "Nachdenklicher Ort im Grünen.",
                 "hu": "Elmélkedésre alkalmas ligetes hely.",
                 "ro": "Loc de reflecție în mijlocul vegetației.",
-                "en": "Reflective spot in a green area."
+                "en": "Reflective spot in a green area.",
+                "hr": "Mjestо za razmišljanje u zelenom prostoru."
               }
             },
             {
@@ -416,13 +431,15 @@
                 "de": "Gornja Vala Strand",
                 "hu": "Gornja Vala strand",
                 "ro": "Plaja Gornja Vala",
-                "en": "Gornja Vala Beach"
+                "en": "Gornja Vala Beach",
+                "hr": "Plaža Gornja Vala"
               },
               "tip_5lang": {
                 "de": "Etwas ruhiger als Donja Vala.",
                 "hu": "Kicsit nyugodtabb, mint Donja Vala.",
                 "ro": "Ceva mai liniștită decât Donja Vala.",
-                "en": "Slightly quieter than Donja Vala."
+                "en": "Slightly quieter than Donja Vala.",
+                "hr": "Malo mirnija od Donje Vale."
               }
             },
             {
@@ -430,13 +447,15 @@
                 "de": "Festung Gradina",
                 "hu": "Gradina erőd",
                 "ro": "Cetatea Gradina",
-                "en": "Gradina Fortress"
+                "en": "Gradina Fortress",
+                "hr": "Tvrđava Gradina"
               },
               "tip_5lang": {
                 "de": "Harter Aufstieg, toller Blick.",
                 "hu": "Meredek felkapaszkodó, pazar kilátás.",
                 "ro": "Urcuș greu, priveliște superbă.",
-                "en": "Tough climb, great view."
+                "en": "Tough climb, great view.",
+                "hr": "Naporan uspon, sjajan pogled."
               }
             }
           ],
@@ -582,6 +601,12 @@
               "Drink plenty of water climbing to Gradina.",
               "Shaded spots fill up quickly.",
               "Water shoes recommended for pebbles."
+            ],
+            "hr": [
+              "Provjerite rasporede trajekata za Hvar.",
+              "Pijte dovoljno vode dok se uspinjete na Gradinu.",
+              "Sjenovita mjesta brzo se popune.",
+              "Preporučene vodene cipale zbog šljunka."
             ]
           }
         },
@@ -591,7 +616,7 @@
             "hu": "A napot a kompkikötőben kezdje, ahol a váróterem védelmet nyújt az eső elől. Rövid séta után a Szent György-templom hűvös falaI között várhatja ki a záport.\n\nDélben a Donja Vala-öböl mentén sétáljon. A helyi kávézók fedett teraszai tökéletesek a tenger morajlásának figyeléséhez egy forró ital mellett.\n\nDélután a Monument és a Gornja Vala strand következik. Az eső áztatta kövek és a ködös hegyoldal különleges, mélabús hangulatot áraszt.\n\nEste másszon fel a Gradina-erődhöz. Figyeljen a csúszós lépcsőkre; a fenti kilátás a kivilágított falura az esőben is lenyűgöző.",
             "ro": "Începeți ziua la terminalul de feribot, unde sala de așteptare oferă adăpost. O scurtă plimbare vă duce la Biserica Sf. Gheorghe, un loc liniștit pentru a evita ploaia.\n\nLa prânz, plimbați-vă prin golful Donja Vala. Cafenelele de aici sunt ideale pentru a privi marea agitată în timp ce savurați o băutură caldă.\n\nDupă-amiaza vizitați monumentul și plaja Gornja Vala. Atmosfera este mistică, cu ceața coborând peste muntele Biokovo.\n\nSeara urcați la cetatea Gradina. Atenție la pietrele umede care pot fi alunecoase; panorama coastei iluminate merită efortul depus pe ploaie.",
             "en": "Start your day at the ferry terminal, where the waiting area provides shelter from the rain. A short walk leads to St. George Church, a perfect place for dry contemplation.\n\nAt noon, stroll along Donja Vala Bay. The local cafes are perfect for watching the grey sea with a hot drink in hand.\n\nIn the afternoon, visit the monument and Gornja Vala beach. The atmosphere is mystical as the mist hangs over the Biokovo mountains.\n\nIn the evening, climb up to the Gradina fortress. Be careful on the wet stones; the view of the illuminated coast is worth the damp ascent.",
-            "hr": "Započnite dan na trajektnom terminalu, gdje čekaonica nudi zaklon od kiše. Kratka šetnja vodi do crkve sv. Jurja, savršenog mjesta za mirno razmišljanje u suhom.\n\nU podne prošetajte uz uvalu Donja Vala. Lokalni kafići savršeni su za promatranje sivog mora uz topli napitak u ruci.\n\nPoslijepodne posjetite spomenik i plažu Gornja Vala. Atmosfera je mistična dok se magla nadvija nad planinu Biokovo.\n\nNavečer se popnite do utvrde Gradina. Budite oprezni na mokrom kamenju; pogled na osvijetljenu obalu vrijedan je vlažnog uspona."
+            "hr": "Započnite dan na trajektnom terminalu, gdje čekaonica pruža zaklon od kiše. Kratka šetnja vodi do crkve sv. Jurja, savršenog mjesta za suho promišljanje.\n\nU podne prošećite zaljevom Donja Vala. Lokalni kafići idealni su za promatranje siva mora uz toplu šalicu u ruci.\n\nPoslijepodne posjetite spomenik i plažu Gornja Vala. Atmosfera je mistična dok se izmaglica nadvija nad planinama Biokovo.\n\nUvečer se popnite do utvrde Gradina. Pazite na mokre kamene; pogled na osvijetljenu obalu vrijedi pomalo vlažnog uspona."
           },
           "stops": [
             {
@@ -601,7 +626,7 @@
                 "hu": "Használja a várótermet, ha hirtelen eleredne az eső.",
                 "ro": "Folosiți sala de așteptare pentru a rămâne uscat între opriri.",
                 "en": "Use the indoor waiting area to stay dry between stops.",
-                "hr": "Koristite unutarnju čekaonicu kako biste ostali suhi između postaja."
+                "hr": "Iskoristite zatvorenu čekaonicu da ostanete suhi između polazaka."
               }
             },
             {
@@ -611,7 +636,7 @@
                 "hu": "Csendes hely, ideális a nagyobb záporok átvészelésére.",
                 "ro": "Un loc liniștit, ideal pentru a aștepta trecerea ploii.",
                 "en": "A quiet place, ideal for waiting out heavy showers.",
-                "hr": "Mirno mjesto, idealno za čekanje da prođu jaki pljuskovi."
+                "hr": "Tihi kutak, idealan za čekanje dok ne prođe jaka pljuska."
               }
             },
             {
@@ -621,7 +646,7 @@
                 "hu": "Vigyázzon a vizes köveken a kikötő melletti sétányon.",
                 "ro": "Atenție la pietrele umede de pe faleza portului.",
                 "en": "Watch your step on the wet pebbles along the promenade.",
-                "hr": "Pazite na korak na mokrom šljunku uz šetnicu."
+                "hr": "Pazite na korak po mokrim šljunkovitim stijenama uz šetnicu."
               }
             },
             {
@@ -631,7 +656,7 @@
                 "hu": "Csak egy rövid megálló, mielőtt beülne a következő kávézóba.",
                 "ro": "Doar o scurtă oprire înainte de a intra în următoarea cafenea.",
                 "en": "Just a quick stop before heading to the next indoor spot.",
-                "hr": "Samo kratko zaustavljanje prije odlaska na sljedeće zatvoreno mjesto."
+                "hr": "Samo kratko stajanje prije odlaska na sljedeće zatvoreno mjesto."
               }
             },
             {
@@ -641,7 +666,7 @@
                 "hu": "A fenyőfák természetes ernyőként védenek a szemerkélő esőben.",
                 "ro": "Pinii oferă o protecție naturală împotriva ploii ușoare.",
                 "en": "The pine trees offer natural shelter during light drizzle.",
-                "hr": "Borovi nude prirodni zaklon tijekom lagane kišice."
+                "hr": "Borovi pružaju prirodni zaklon tijekom slabog rosulja."
               }
             },
             {
@@ -651,7 +676,7 @@
                 "hu": "A csúszós sziklák miatt elengedhetetlen a jó túracipő.",
                 "ro": "Încălțămintea aderentă este esențială din cauza stâncilor umede.",
                 "en": "Sturdy footwear is essential due to the slippery rocks.",
-                "hr": "Čvrsta obuća je neophodna zbog skliskog kamenja."
+                "hr": "Čvrsta obuća je neophodna zbog skliskih stijena."
               }
             }
           ],
@@ -685,11 +710,11 @@
               "Take advantage of the moody sky for dramatic photography."
             ],
             "hr": [
-              "Nosite nepromočivu vjetrovku jer morski povjetarac može biti nepredvidiv.",
-              "Većina kafića u Donjoj Vali ima natkrivene terase.",
-              "Uspon na utvrdu se ne preporučuje tijekom jakih pljuskova.",
-              "Male trgovine u blizini luke često prodaju povoljne kišobrane.",
-              "Iskoristite tmurno nebo za dramatične fotografije."
+              "Nosite vodootpornu vjetrovku jer morski povjetarac može biti nepredvidiv.",
+              "Većina kafića u Donjoj Vali ima natkrivena vanjska sjedala.",
+              "Uspon do utvrde se ne preporučuje za vrijeme jakih pljuskova.",
+              "Male trgovine blizu luke često prodaju povoljne kišobrane.",
+              "Iskoristite dramatično nebo za upečatljive fotografije."
             ]
           }
         },
@@ -699,7 +724,7 @@
             "hu": "Élje át a kikötő téli nyugalmát. Turisták nélkül a terminál szinte elhagyatott, de a tiszta tengeri levegő rendkívül frissítő.\n\nDélben melegedjen fel a Szent György-templomban. Utána a Donja Vala-öböl napsütötte, de hűvös sétánya tökéletes helyszín egy hosszú sétához.\n\nDélután a Monument és a Gornja Vala strand következik. A mélykék téli tenger csodásan csillog az alacsonyan járó napfényben.\n\nEste a Gradina-erődnél zárja a napot. Mivel a nap már 17:00 előtt lemegy, érjen fel időben, hogy láthassa a Biokovo-csúcsok vöröses izzását.",
             "ro": "Experimentați liniștea iernii în port. Fără turiști, terminalul pare aproape părăsit, dar aerul curat de mare este revigorant.\n\nLa prânz, încălziți-vă în Biserica Sf. Gheorghe. Ulterior, faleza însorită dar răcoroasă din Donja Vala oferă cadrul perfect pentru o plimbare lungă.\n\nDupă-amiaza vizitați monumentul și plaja pustie Gornja Vala. Marea de iarnă, de un albastru intens, strălucește sub soarele palid.\n\nSeara se încheie la cetatea Gradina. Deoarece soarele apune înainte de ora 17:00, ajungeți sus din timp pentru a vedea reflexiile apusului pe vârfurile munților Biokovo.",
             "en": "Experience the winter stillness at the harbor. Without the tourist crowds, the terminal feels peaceful, and the crisp sea air is truly invigorating.\n\nAt noon, warm up inside St. George Church. Afterward, the sunny but cool promenade of Donja Vala is the perfect setting for a long stroll.\n\nIn the afternoon, visit the monument and the deserted Gornja Vala beach. The deep blue winter sea sparkles beautifully in the low sun.\n\nIn the evening, end the day at Gradina fortress. Since the sun sets before 17:00, arrive early to catch the orange glow on the Biokovo peaks.",
-            "hr": "Doživite zimski mir u luci. Bez turističkih gužvi, terminal djeluje spokojno, a svjež morski zrak doista okrepljuje.\n\nU podne se ugrijte u crkvi sv. Jurja. Nakon toga, sunčana, ali hladna šetnica Donje Vale savršena je kulisa za duge šetnje.\n\nPoslijepodne posjetite spomenik i pustu plažu Gornja Vala. Duboko plavo zimsko more prekrasno svjetluca na niskom suncu.\n\nNavečer završite dan kod utvrde Gradina. Budući da sunce zalazi prije 17:00, dođite ranije kako biste uhvatili narančasti sjaj na vrhovima Biokova."
+            "hr": "Doživite zimski mir u luci. Bez turističkih gužvi terminal je miran, a oštar morski zrak stvarno razbuđuje.\n\nU podne se ugrijte u crkvi sv. Jurja. Nakon toga, sunčana ali svježa šetnica Donje Vale savršeno je mjesto za dugačku šetnju.\n\nPoslijepodne posjetite spomenik i pustu plažu Gornja Vala. Duboko plavo zimsko more prekrasno se presijava na niskom suncu.\n\nUvečer završite dan na utvrdi Gradina. Budući da sunce zalazi prije 17:00, dođite ranije da uhvatite narančasti sjaj na vrhovima Biokova."
           },
           "stops": [
             {
@@ -709,7 +734,7 @@
                 "hu": "A Bura szél nagyon hideg lehet; öltözzön rétegesen.",
                 "ro": "Vântul Bura poate fi foarte rece aici; îmbrăcați-vă în straturi.",
                 "en": "The Bura wind can be very cold here; dress in layers.",
-                "hr": "Bura ovdje može biti vrlo hladna; odjenite se slojevito."
+                "hr": "Bura ovdje može biti vrlo hladna; obucite se u slojevima."
               }
             },
             {
@@ -729,7 +754,7 @@
                 "hu": "Keressen egy napfényes, ablak melletti asztalt a kávézóban.",
                 "ro": "Căutați o cafenea cu loc la fereastră pentru soarele de prânz.",
                 "en": "Look for a cafe with a sunny window seat for your lunch break.",
-                "hr": "Potražite kafić sa sunčanim mjestom uz prozor za pauzu za ručak."
+                "hr": "Potražite kafić sa sunčanim prozorskim mjestom za vaš objed."
               }
             },
             {
@@ -739,7 +764,7 @@
                 "hu": "A tiszta téli fények kiválóak a fotózáshoz.",
                 "ro": "Lumina clară de iarnă oferă condiții excelente pentru fotografii.",
                 "en": "The clear winter light provides excellent conditions for photos.",
-                "hr": "Čisto zimsko svjetlo pruža izvrsne uvjete za fotografije."
+                "hr": "Bistra zimska svjetlost pruža odlične uvjete za fotografije."
               }
             },
             {
@@ -759,7 +784,7 @@
                 "hu": "Vigyen zseblámpát a naplemente utáni lejövetelhez.",
                 "ro": "Luați o lanternă pentru coborârea de după apus.",
                 "en": "Bring a flashlight for the descent after sunset.",
-                "hr": "Ponesite svjetiljku za spuštanje nakon zalaska sunca."
+                "hr": "Ponesite baterijsku svjetiljku za silazak nakon zalaska sunca."
               }
             }
           ],
@@ -793,11 +818,11 @@
               "Days are short, so start your tour promptly at 09:00."
             ],
             "hr": [
-              "Zalasci sunca su zimi posebno šareni zbog čistog zraka.",
-              "Mnogi restorani su zatvoreni; unaprijed provjerite radno vrijeme.",
-              "Vjetar bura može otežati uspon na utvrdu.",
-              "Nosite termosicu s toplim čajem za duge šetnje.",
-              "Dani su kratki, pa započnite turu točno u 09:00."
+              "Zalazi sunca zimi su posebno šareni zbog čistog zraka.",
+              "Mnogi restorani su zatvoreni; provjerite radno vrijeme unaprijed.",
+              "Bura može otežati uspon do utvrde.",
+              "Ponesite termos s toplim čajem za duge šetnje.",
+              "Dani su kratki, pa započnite obilazak točno u 09:00."
             ]
           }
         }
@@ -816,7 +841,8 @@
             "de": "Fährterminal Drvenik",
             "hu": "Drvenik kompkikötő",
             "ro": "Terminal feribot Drvenik",
-            "en": "Drvenik Ferry Terminal"
+            "en": "Drvenik Ferry Terminal",
+            "hr": "Trajektni terminal Drvenik"
           },
           "coords": [
             17.2185,
@@ -832,7 +858,7 @@
             "hu": "Legjobb találkahely bringásoknak.",
             "ro": "Cel mai bun loc de întâlnire pentru bicicliști.",
             "en": "Best meeting point for cyclists.",
-            "hr": "Najbolje mjesto za sastanak biciklista."
+            "hr": "Najbolje mjesto za susret za bicikliste."
           }
         },
         {
@@ -840,7 +866,8 @@
             "de": "Donja Vala Bucht",
             "hu": "Donja Vala öböl",
             "ro": "Golful Donja Vala",
-            "en": "Donja Vala Bay"
+            "en": "Donja Vala Bay",
+            "hr": "Zaljev Donja Vala"
           },
           "coords": [
             17.216,
@@ -864,7 +891,8 @@
             "de": "Staro Selo (Altes Dorf)",
             "hu": "Staro Selo (Régi falu)",
             "ro": "Staro Selo (Satul vechi)",
-            "en": "Staro Selo (Old Village)"
+            "en": "Staro Selo (Old Village)",
+            "hr": "Staro Selo"
           },
           "coords": [
             17.235,
@@ -880,7 +908,7 @@
             "hu": "Meredek út, e-bike javasolt.",
             "ro": "Drum abrupt, e-bike recomandat.",
             "en": "Steep path, e-bike recommended.",
-            "hr": "Strma staza, preporučuje se e-bicikl."
+            "hr": "Strm put, preporučuje se e-bicikl."
           }
         },
         {
@@ -888,7 +916,8 @@
             "de": "Gornja Vala Strand",
             "hu": "Gornja Vala strand",
             "ro": "Plaja Gornja Vala",
-            "en": "Gornja Vala Beach"
+            "en": "Gornja Vala Beach",
+            "hr": "Plaža Gornja Vala"
           },
           "coords": [
             17.225,
@@ -904,7 +933,7 @@
             "hu": "Hagyja a bringát a fenyők szélén.",
             "ro": "Lăsați bicicleta la marginea pinilor.",
             "en": "Park your bike at the pine edge.",
-            "hr": "Parkirajte bicikl uz rub borove šume."
+            "hr": "Parkirajte bicikl na rubu borove šume."
           }
         }
       ],
@@ -913,7 +942,7 @@
         "hu": "Biciklivel összekötjük a partot a régi hátországgal. A kikötői rajt után a Donja Vala öbölhöz tekerünk, majd nekivágunk a Staro Selo felé vezető emelkedőnek. A fáradozást a teljes csend és az autentikus környezet kárpótolja. Végezetül legurulunk a Gornja Vala strandra egy megérdemelt csobbanásra.",
         "ro": "Cu bicicleta unim coasta cu vechiul sat de pe munte. După startul din terminal, pedalăm spre golful Donja Vala și apoi acceptăm provocarea spre Staro Selo. Efortul este răsplătit de liniște absolută și autenticitate. La final, coborâm spre plaja Gornja Vala pentru o baie binemeritată în Adriatică.",
         "en": "By bike, we connect the coast with the old inland village. Starting at the terminal, cycle to Donja Vala bay and then challenge yourself on the path to Staro Selo. The effort is rewarded with absolute silence and authenticity. Finally, coast back down to Gornja Vala beach for a well-deserved swim.",
-        "hr": "Biciklom povezujemo obalu sa starim selom u unutrašnjosti. Počevši od terminala, vozite do uvale Donja Vala, a zatim se okušajte na stazi prema Starom Selu. Trud je nagrađen apsolutnom tišinom i autentičnošću. Na kraju se spustite natrag do plaže Gornja Vala na zasluženo kupanje."
+        "hr": "Biciklom povezujemo obalu sa starim zaleđnim selom. Počevši od terminala, vozite do zaljeva Donja Vala, a zatim se izazovite putem prema Starom Selu. Trud se nagrađuje apsolutnom tišinom i autentičnošću. Na kraju se spustite natrag do plaže Gornja Vala za zasluženo kupanje."
       },
       "gastro_picks": {
         "de": [
@@ -1043,9 +1072,9 @@
         ],
         "hr": [
           "Provjerite kočnice prije spuštanja.",
-          "Kacige su obavezne.",
-          "Pazite na pješake.",
-          "Krenite rano kako biste izbjegli vrućinu."
+          "Kacige su obvezne.",
+          "Pazite na planinare.",
+          "Krenite rano da izbjegnete vrućinu."
         ]
       },
       "variants": {
@@ -1054,7 +1083,8 @@
             "de": "Mit dem Rad verbinden wir die Küste mit dem alten Hinterland. Nach dem Start am Terminal radeln wir zur Donja Vala Bucht und nehmen dann die Herausforderung nach Staro Selo an. Die Anstrengung wird durch absolute Ruhe und Authentizität belohnt. Zum Abschluss geht es bergab zurück an den Gornja Vala Strand für ein wohlverdientes Bad in der Adria.",
             "hu": "Biciklivel összekötjük a partot a régi hátországgal. A kikötői rajt után a Donja Vala öbölhöz tekerünk, majd nekivágunk a Staro Selo felé vezető emelkedőnek. A fáradozást a teljes csend és az autentikus környezet kárpótolja. Végezetül legurulunk a Gornja Vala strandra egy megérdemelt csobbanásra.",
             "ro": "Cu bicicleta unim coasta cu vechiul sat de pe munte. După startul din terminal, pedalăm spre golful Donja Vala și apoi acceptăm provocarea spre Staro Selo. Efortul este răsplătit de liniște absolută și autenticitate. La final, coborâm spre plaja Gornja Vala pentru o baie binemeritată în Adriatică.",
-            "en": "By bike, we connect the coast with the old inland village. Starting at the terminal, cycle to Donja Vala bay and then challenge yourself on the path to Staro Selo. The effort is rewarded with absolute silence and authenticity. Finally, coast back down to Gornja Vala beach for a well-deserved swim."
+            "en": "By bike, we connect the coast with the old inland village. Starting at the terminal, cycle to Donja Vala bay and then challenge yourself on the path to Staro Selo. The effort is rewarded with absolute silence and authenticity. Finally, coast back down to Gornja Vala beach for a well-deserved swim.",
+            "hr": "Biciklom povezujemo obalu sa starim zaleđnim selom. Počevši od terminala, vozite do zaljeva Donja Vala, a zatim se izazovite putem prema Starom Selu. Trud se nagrađuje apsolutnom tišinom i autentičnošću. Na kraju se spustite natrag do plaže Gornja Vala za zasluženo kupanje."
           },
           "stops": [
             {
@@ -1062,13 +1092,15 @@
                 "de": "Fährterminal Drvenik",
                 "hu": "Drvenik kompkikötő",
                 "ro": "Terminal feribot Drvenik",
-                "en": "Drvenik Ferry Terminal"
+                "en": "Drvenik Ferry Terminal",
+                "hr": "Trajektni terminal Drvenik"
               },
               "tip_5lang": {
                 "de": "Bester Treffpunkt für Radler.",
                 "hu": "Legjobb találkahely bringásoknak.",
                 "ro": "Cel mai bun loc de întâlnire pentru bicicliști.",
-                "en": "Best meeting point for cyclists."
+                "en": "Best meeting point for cyclists.",
+                "hr": "Najbolje mjesto za susret za bicikliste."
               }
             },
             {
@@ -1076,13 +1108,15 @@
                 "de": "Donja Vala Bucht",
                 "hu": "Donja Vala öböl",
                 "ro": "Golful Donja Vala",
-                "en": "Donja Vala Bay"
+                "en": "Donja Vala Bay",
+                "hr": "Zaljev Donja Vala"
               },
               "tip_5lang": {
                 "de": "Schnelle Erfrischung.",
                 "hu": "Gyors felfrissülés.",
                 "ro": "Răcorire rapidă.",
-                "en": "Quick refreshment."
+                "en": "Quick refreshment.",
+                "hr": "Brzo osvježenje."
               }
             },
             {
@@ -1090,13 +1124,15 @@
                 "de": "Staro Selo (Altes Dorf)",
                 "hu": "Staro Selo (Régi falu)",
                 "ro": "Staro Selo (Satul vechi)",
-                "en": "Staro Selo (Old Village)"
+                "en": "Staro Selo (Old Village)",
+                "hr": "Staro Selo"
               },
               "tip_5lang": {
                 "de": "Steiler Weg, E-Bike empfohlen.",
                 "hu": "Meredek út, e-bike javasolt.",
                 "ro": "Drum abrupt, e-bike recomandat.",
-                "en": "Steep path, e-bike recommended."
+                "en": "Steep path, e-bike recommended.",
+                "hr": "Strm put, preporučuje se e-bicikl."
               }
             },
             {
@@ -1104,13 +1140,15 @@
                 "de": "Gornja Vala Strand",
                 "hu": "Gornja Vala strand",
                 "ro": "Plaja Gornja Vala",
-                "en": "Gornja Vala Beach"
+                "en": "Gornja Vala Beach",
+                "hr": "Plaža Gornja Vala"
               },
               "tip_5lang": {
                 "de": "Rad am Pinienrand abstellen.",
                 "hu": "Hagyja a bringát a fenyők szélén.",
                 "ro": "Lăsați bicicleta la marginea pinilor.",
-                "en": "Park your bike at the pine edge."
+                "en": "Park your bike at the pine edge.",
+                "hr": "Parkirajte bicikl na rubu borove šume."
               }
             }
           ],
@@ -1220,6 +1258,12 @@
               "Helmets are mandatory.",
               "Watch out for hikers.",
               "Start early to avoid heat."
+            ],
+            "hr": [
+              "Provjerite kočnice prije spuštanja.",
+              "Kacige su obvezne.",
+              "Pazite na planinare.",
+              "Krenite rano da izbjegnete vrućinu."
             ]
           }
         },
@@ -1229,7 +1273,7 @@
             "hu": "Az esős start a kompnál megfelelő ruházatot igényel. A Donja Vala-öbölig tartó út rövid, de a vizes aszfalton óvatosan kanyarodjon.\n\nDélben tekerjen fel Staro Selo felé. A régi köves út csúszós lehet, de a ködös olajfaligetek látványa megéri a fáradtságot.\n\nDélután guruljon vissza a Gornja Vala strandhoz. Egy gyors pillantás a tengerre, majd irány vissza a falu védett helyei felé.\n\nEste a központban fejezze be a túrát. Egy forró ital a nyeregben töltött nap után gyorsan átmelegíti.",
             "ro": "Un start ploios la feribot necesită echipament adecvat. Drumul spre Donja Vala este scurt, dar fiți precaut pe asfaltul ud.\n\nLa prânz, pedalați spre Staro Selo. Drumul vechi din piatră poate fi alunecos, dar vederea spre livezile de măslini în ceață este superbă.\n\nDupă-amiaza reveniți spre plaja Gornja Vala. O oprire rapidă la malul mării, apoi adăpostiți-vă în localitatea principală.\n\nSeara încheiați turul în centru. O băutură caldă după o zi în șa vă va face să uitați de efort.",
             "en": "A rainy start at the ferry terminal requires good gear. The ride to Donja Vala Bay is short, but be careful on the wet asphalt.\n\nAt noon, cycle uphill to Staro Selo. The old stone road can be slippery, but the misty views of the olive groves are worth it.\n\nIn the afternoon, head back to Gornja Vala beach. A quick stop by the sea before warming up back in town.\n\nIn the evening, finish your tour in the center. A hot drink after a day in the saddle will make you forget the effort.",
-            "hr": "Kišni početak na trajektnom terminalu zahtijeva dobru opremu. Vožnja do uvale Donja Vala je kratka, ali budite oprezni na mokrom asfaltu.\n\nU podne odvozite uzbrdo do Starog Sela. Stara kamena cesta može biti skliska, ali magloviti pogledi na maslinike su vrijedni truda.\n\nPoslijepodne se vratite na plažu Gornja Vala. Kratko stajanje uz more prije grijanja u mjestu.\n\nNavečer završite turu u centru. Topli napitak nakon dana u sedlu učinit će da zaboravite na napor."
+            "hr": "Kišni početak na trajektnom terminalu zahtijeva dobru opremu. Vožnja do zaljeva Donja Vala je kratka, ali budite oprezni na mokrom asfaltu.\n\nU podne se popnite biciklom uzbrdo do Starog Sela. Stara kamena cesta može biti skliska, ali magloviti pogledi na maslinike vrijede truda.\n\nPoslijepodne se vratite na plažu Gornja Vala. Kratko zaustavljanje kraj mora prije vraćanja i zagrijavanja u gradu.\n\nUvečer završite turu u centru. Topli napitak nakon dana u sedlu učinit će da zaboravite na napor."
           },
           "stops": [
             {
@@ -1239,7 +1283,7 @@
                 "hu": "Ellenőrizze a fékeket, mielőtt elindul a vizes úton.",
                 "ro": "Verificați frânele înainte de a porni pe drumul umed.",
                 "en": "Check your brakes before starting on wet roads.",
-                "hr": "Provjerite kočnice prije kretanja na mokre ceste."
+                "hr": "Provjerite kočnice prije polaska po mokrim cestama."
               }
             },
             {
@@ -1259,7 +1303,7 @@
                 "hu": "A falu macskaköves utcái esőben rendkívül csúszósak.",
                 "ro": "Piatra cubică din sat este extrem de alunecoasă pe ploaie.",
                 "en": "The cobblestones in the village are extremely slick when wet.",
-                "hr": "Kaldrma u selu je izuzetno skliska kad je mokra."
+                "hr": "Kobice u selu su izuzetno skliske kad su mokre."
               }
             },
             {
@@ -1269,7 +1313,7 @@
                 "hu": "Parkoljon a fenyők alatt, hogy a nyereg száraz maradjon.",
                 "ro": "Parcați bicicleta sub pini pentru a păstra șaua uscată.",
                 "en": "Park your bike under the pines to keep the saddle dry.",
-                "hr": "Parkirajte bicikl ispod borova kako bi sjedalo ostalo suho."
+                "hr": "Parkirajte bicikl pod borovima da držite sjedalo suhim."
               }
             }
           ],
@@ -1304,8 +1348,8 @@
             ],
             "hr": [
               "Koristite blatobrane kako biste spriječili prskanje s mokrih cesta.",
-              "Put kočenja se značajno povećava na mokrim površinama.",
-              "Izbjegavajte bijele oznake na cesti jer postaju vrlo skliske.",
+              "Put za kočenje se značajno povećava na mokrim površinama.",
+              "Izbjegavajte bijele prometne oznake jer postaju vrlo skliske.",
               "Vodootporna maska za telefon je neophodna za navigaciju.",
               "Lagano smanjite tlak u gumama za bolje prianjanje na mokrim cestama."
             ]
@@ -1317,7 +1361,7 @@
             "hu": "Frissen kezdjen a terminálnál. A hűvös szél az arcában felébreszti az életerőt a Donja Vala felé tartó rövid úton.\n\nDélben tekerjen fel a dombra Staro Selo irányába. A kaptató melegen tartja, a háttérben lévő havas hegycsúcsok látványa pedig varázslatos.\n\nDélután élvezze a gurulást Gornja Vala felé. Az alacsonyan járó nap hosszú árnyékokat vet a kerékpárútra.\n\nEste térjen vissza, mielőtt fagyni kezdene. Egy hangulatos befejezés a faluban tökéletesen zárja az aktív napot.",
             "ro": "Începeți revigorat la terminal. Briza rece vă va trezi simțurile pentru drumul scurt spre Donja Vala.\n\nLa prânz, pedalați dealul spre Staro Selo. Efortul vă va ține de cald, iar vederea munților înzăpeziți din depărtare este magică.\n\nDupă-amiaza bucurați-vă de coborârea spre Gornja Vala. Soarele palid aruncă umbre lungi pe pistă.\n\nSeara reveniți înainte de lăsarea gerului. O încheiere relaxantă în localitate completează perfect ziua activă.",
             "en": "Start refreshed at the terminal. The cool breeze on your face wakes up your spirits for the short ride to Donja Vala.\n\nAt noon, cycle up the hill to Staro Selo. The effort keeps you warm, and the view of the snow-capped peaks in the background is magical.\n\nIn the afternoon, enjoy the descent to Gornja Vala. The low sun casts long shadows on the cycling path.\n\nIn the evening, return before it gets frosty. A cozy finish in town rounds off the active day.",
-            "hr": "Započnite osvježeni na terminalu. Hladan povjetarac na licu budi duh za kratku vožnju do Donje Vale.\n\nU podne odvozite uzbrdo do Starog Sela. Napor će vas zagrijati, a pogled na snijegom prekrivene vrhove u pozadini je čaroban.\n\nPoslijepodne uživajte u spustu do Gornje Vale. Nisko sunce baca duge sjene na biciklističku stazu.\n\nNavečer se vratite prije nego što zahladi. Ugodan završetak u mjestu zaokružuje aktivni dan."
+            "hr": "Započnite odmorno na terminalu. Hladan povjetarac po licu razbudi duhove za kratku vožnju do Donje Vale.\n\nU podne se popnite biciklom na brdo do Starog Sela. Napor vas grije, a pogled na snježne vrhove u pozadini je čaroban.\n\nPoslijepodne uživajte u spustu do Gornje Vale. Nisko sunce baca duge sjene na biciklističku stazu.\n\nUvečer se vratite prije nego postane poledica. Ugodan završetak u gradu zaokružit će aktivan dan."
           },
           "stops": [
             {
@@ -1327,7 +1371,7 @@
                 "hu": "Viseljen kesztyűt; a menetszél télen metszően hideg.",
                 "ro": "Purtați mănuși; vântul din timpul mersului este tăios iarna.",
                 "en": "Wear gloves; the wind chill while riding is biting in winter.",
-                "hr": "Nosite rukavice; vjetar tijekom vožnje je zimi vrlo oštar."
+                "hr": "Nosite rukavice; hladnoća vjetra pri vožnji je oštra zimi."
               }
             },
             {
@@ -1337,7 +1381,7 @@
                 "hu": "Maradjon a napsütötte részeken, hogy ne fázzon.",
                 "ro": "Stați la soare pentru a alunga senzația de frig.",
                 "en": "Stay in the sunny spots to keep the chill away.",
-                "hr": "Ostanite na sunčanim mjestima kako biste se ugrijali."
+                "hr": "Ostanite na sunčanim mjestima da vas grijanjem održe toplima."
               }
             },
             {
@@ -1391,11 +1435,11 @@
               "Finish your ride by 16:30 at the latest."
             ],
             "hr": [
-              "Nosite odjeću otpornu na vjetar, posebno oko prsa.",
-              "Provjerite tlak u gumama; hladan zrak uzrokuje njegov pad.",
-              "Nosite tople napitke u termosici za vožnju.",
+              "Nosite vjetrootpornu odjeću, posebno preko prsnog područja.",
+              "Provjerite tlak u gumama; hladan zrak ga snizi.",
+              "Nosite tople napitke u termosu za vožnju.",
               "Nisko zimsko sunce može zaslijepiti; ponesite sunčane naočale.",
-              "Završite vožnju najkasnije do 16:30."
+              "Završite vožnju najkasnije u 16:30."
             ]
           }
         }
@@ -1414,7 +1458,8 @@
             "de": "Staro Selo (Altes Dorf)",
             "hu": "Staro Selo (Régi falu)",
             "ro": "Staro Selo (Satul vechi)",
-            "en": "Staro Selo (Old Village)"
+            "en": "Staro Selo (Old Village)",
+            "hr": "Staro Selo"
           },
           "coords": [
             17.235,
@@ -1430,7 +1475,7 @@
             "hu": "Használja a panoráma utat.",
             "ro": "Folosiți drumul panoramic.",
             "en": "Take the scenic road.",
-            "hr": "Krenite panoramskom cestom."
+            "hr": "Držite se slikovitog puta."
           }
         },
         {
@@ -1438,7 +1483,8 @@
             "de": "Kirche des Hl. Georg",
             "hu": "Szent György-templom",
             "ro": "Biserica Sf. Gheorghe",
-            "en": "St. George Church"
+            "en": "St. George Church",
+            "hr": "Crkva sv. Jurja"
           },
           "coords": [
             17.2195,
@@ -1454,7 +1500,7 @@
             "hu": "Parkolás közvetlenül előtte.",
             "ro": "Parcare posibilă chiar în față.",
             "en": "Parking available right in front.",
-            "hr": "Parking dostupan točno ispred."
+            "hr": "Parkiranje dostupno odmah ispred."
           }
         },
         {
@@ -1462,7 +1508,8 @@
             "de": "Donja Vala Bucht",
             "hu": "Donja Vala öböl",
             "ro": "Golful Donja Vala",
-            "en": "Donja Vala Bay"
+            "en": "Donja Vala Bay",
+            "hr": "Zaljev Donja Vala"
           },
           "coords": [
             17.216,
@@ -1478,7 +1525,7 @@
             "hu": "A központi parkoló gyakran tele van.",
             "ro": "Parcarea centrală e adesea plină.",
             "en": "Central parking often full.",
-            "hr": "Centralni parking je često pun."
+            "hr": "Središnje parkiralište često je puno."
           }
         },
         {
@@ -1486,7 +1533,8 @@
             "de": "Zaostrog (Kloster)",
             "hu": "Zaostrog (Kolostor)",
             "ro": "Zaostrog (Mănăstire)",
-            "en": "Zaostrog (Monastery)"
+            "en": "Zaostrog (Monastery)",
+            "hr": "Zaostrog (samostan)"
           },
           "coords": [
             17.28,
@@ -1502,7 +1550,7 @@
             "hu": "Rövid kirándulás délre.",
             "ro": "Scurtă excursie spre sud.",
             "en": "Short excursion to the south.",
-            "hr": "Kratki izlet na jug."
+            "hr": "Kratki izlet prema jugu."
           }
         }
       ],
@@ -1511,7 +1559,7 @@
         "hu": "Az autóval reggel ellátogatunk a part feletti festői öreg faluba. Ezután visszatérünk Drvenik központjába, hogy megtekintsük a barokk templomot és élvezzük a strandot. Különlegességként délután átgurulunk a közeli Zaostrogba, hogy megnézzük a híres ferences kolostort.",
         "ro": "Mașina ne permite să vizităm satul vechi pitoresc de deasupra coastei în cursul dimineții. Apoi revenim în centrul localității Drvenik pentru a vizita biserica barocă și a ne bucura de plajă. Ca un bonus, după-amiaza mergem în Zaostrog pentru a vedea celebra mănăstire franciscană.",
         "en": "A car lets us visit the picturesque old village above the coast in the morning. Then, return to Drvenik center to enjoy the Baroque church and main beach. As a special extra, we drive to nearby Zaostrog in the afternoon to visit the famous Franciscan monastery.",
-        "hr": "Automobil nam omogućuje da ujutro posjetimo slikovito staro selo iznad obale. Zatim se vratite u centar Drvenika kako biste uživali u baroknoj crkvi i glavnoj plaži. Kao poseban dodatak, poslijepodne se vozimo do obližnjeg Zaostroga kako bismo posjetili poznati franjevački samostan."
+        "hr": "Automobilom obiđemo slikovito staro selo iznad obale ujutro. Zatim se vratimo u centar Drvenika da uživamo u baroknoj crkvi i glavnoj plaži. Kao posebno iznenađenje, poslijepodne se provozamo do obližnjeg Zaostroga kako bismo posjetili znameniti franjevački samostan."
       },
       "gastro_picks": {
         "de": [
@@ -1640,10 +1688,10 @@
           "Keep towels handy."
         ],
         "hr": [
-          "Pazite na naknade za parkiranje.",
-          "Vozite oprezno Jadranskom magistralom.",
-          "Koristite klima uređaj.",
-          "Neka vam ručnici budu pri ruci."
+          "Pazite na naplatu parkiranja.",
+          "Vozite oprezno magistralom.",
+          "Koristite klimu.",
+          "Držite ručnike pri ruci."
         ]
       },
       "variants": {
@@ -1652,7 +1700,8 @@
             "de": "Das Auto erlaubt uns den Besuch des malerischen alten Dorfes oberhalb der Küste am Morgen. Danach kehren wir ins Zentrum von Drvenik zurück, um die Barockkirche und den Hauptstrand zu genießen. Als besonderes Extra fahren wir am Nachmittag ins nahegelegene Zaostrog, um das berühmte Franziskanerkloster zu besichtigen.",
             "hu": "Az autóval reggel ellátogatunk a part feletti festői öreg faluba. Ezután visszatérünk Drvenik központjába, hogy megtekintsük a barokk templomot és élvezzük a strandot. Különlegességként délután átgurulunk a közeli Zaostrogba, hogy megnézzük a híres ferences kolostort.",
             "ro": "Mașina ne permite să vizităm satul vechi pitoresc de deasupra coastei în cursul dimineții. Apoi revenim în centrul localității Drvenik pentru a vizita biserica barocă și a ne bucura de plajă. Ca un bonus, după-amiaza mergem în Zaostrog pentru a vedea celebra mănăstire franciscană.",
-            "en": "A car lets us visit the picturesque old village above the coast in the morning. Then, return to Drvenik center to enjoy the Baroque church and main beach. As a special extra, we drive to nearby Zaostrog in the afternoon to visit the famous Franciscan monastery."
+            "en": "A car lets us visit the picturesque old village above the coast in the morning. Then, return to Drvenik center to enjoy the Baroque church and main beach. As a special extra, we drive to nearby Zaostrog in the afternoon to visit the famous Franciscan monastery.",
+            "hr": "Automobilom ujutro posjetimo slikovito Staro Selo iznad obale. Zatim se vratite u središte Drvenika kako biste uživali u baroknoj crkvi i glavnoj plaži. Kao poseban dodatak, poslijepodne odlazimo u obližnji Zaostrog posjetiti poznati franjevački samostan."
           },
           "stops": [
             {
@@ -1660,13 +1709,15 @@
                 "de": "Staro Selo (Altes Dorf)",
                 "hu": "Staro Selo (Régi falu)",
                 "ro": "Staro Selo (Satul vechi)",
-                "en": "Staro Selo (Old Village)"
+                "en": "Staro Selo (Old Village)",
+                "hr": "Staro Selo (Old Village)"
               },
               "tip_5lang": {
                 "de": "Panoramastraße nutzen.",
                 "hu": "Használja a panoráma utat.",
                 "ro": "Folosiți drumul panoramic.",
-                "en": "Take the scenic road."
+                "en": "Take the scenic road.",
+                "hr": "Vozite slikovitim putem."
               }
             },
             {
@@ -1674,13 +1725,15 @@
                 "de": "Kirche des Hl. Georg",
                 "hu": "Szent György-templom",
                 "ro": "Biserica Sf. Gheorghe",
-                "en": "St. George Church"
+                "en": "St. George Church",
+                "hr": "Crkva sv. Jurja"
               },
               "tip_5lang": {
                 "de": "Parken direkt davor möglich.",
                 "hu": "Parkolás közvetlenül előtte.",
                 "ro": "Parcare posibilă chiar în față.",
-                "en": "Parking available right in front."
+                "en": "Parking available right in front.",
+                "hr": "Parkiranje dostupno odmah ispred."
               }
             },
             {
@@ -1688,13 +1741,15 @@
                 "de": "Donja Vala Bucht",
                 "hu": "Donja Vala öböl",
                 "ro": "Golful Donja Vala",
-                "en": "Donja Vala Bay"
+                "en": "Donja Vala Bay",
+                "hr": "Uvala Donja Vala"
               },
               "tip_5lang": {
                 "de": "Zentraler Parkplatz oft voll.",
                 "hu": "A központi parkoló gyakran tele van.",
                 "ro": "Parcarea centrală e adesea plină.",
-                "en": "Central parking often full."
+                "en": "Central parking often full.",
+                "hr": "Središnje parkiralište često puno."
               }
             },
             {
@@ -1702,13 +1757,15 @@
                 "de": "Zaostrog (Kloster)",
                 "hu": "Zaostrog (Kolostor)",
                 "ro": "Zaostrog (Mănăstire)",
-                "en": "Zaostrog (Monastery)"
+                "en": "Zaostrog (Monastery)",
+                "hr": "Zaostrog (Samostan)"
               },
               "tip_5lang": {
                 "de": "Kurzer Ausflug nach Süden.",
                 "hu": "Rövid kirándulás délre.",
                 "ro": "Scurtă excursie spre sud.",
-                "en": "Short excursion to the south."
+                "en": "Short excursion to the south.",
+                "hr": "Kratki izlet prema jugu."
               }
             }
           ],
@@ -1818,6 +1875,12 @@
               "Drive carefully on the Magistrale.",
               "Use air conditioning.",
               "Keep towels handy."
+            ],
+            "hr": [
+              "Pazite na naplatu parkiranja.",
+              "Vozite oprezno Magistralom.",
+              "Koristite klima-uređaj.",
+              "Imajte ručnike pri ruci."
             ]
           }
         },
@@ -1827,7 +1890,7 @@
             "hu": "Kezdjen kényelmesen Staro Selóban. Az út a ködös olajfaligeteken keresztül drámai látványt nyújt.\n\nDélben látogassa meg a Szent György-templomot. Az autó tökéletes száraz menedék a megállók között.\n\nDélután irány a Donja Vala-öböl. Csodálja meg a viharos tenger látványát közvetlenül a kocsiból, mielőtt beszaladna egy kávézóba.\n\nEste koronázza meg a napot a zaostrogi kolostorral. A vastag falak tökéletes védelmet és spirituális hangulatot nyújtanak esőben.",
             "ro": "Începeți relaxat în Staro Selo. Drumul prin livezile de măslini învăluite în ceață oferă un peisaj dramatic.\n\nLa prânz vizitați Biserica Sf. Gheorghe. Mașina vă oferă refugiul uscat perfect între diversele obiective.\n\nDupă-amiaza mergeți în golful Donja Vala. Admirați marea agitată direct din mașină înainte de a fugi spre o cafenea.\n\nSeara încheiați ziua cu o vizită la mănăstirea din Zaostrog. Zidurile vechi oferă protecție și o atmosferă spirituală pe ploaie.",
             "en": "Start comfortably in Staro Selo. The drive through the misty olive groves offers a dramatic backdrop.\n\nAt noon, visit St. George Church. Your car provides the perfect dry retreat between stops.\n\nIn the afternoon, head to Donja Vala Bay. Enjoy the view of the stormy sea directly from your vehicle before darting into a cafe.\n\nIn the evening, crown the day with a visit to the Zaostrog Monastery. The ancient walls offer perfect shelter and a spiritual atmosphere in the rain.",
-            "hr": "Započnite udobno u Starom Selu. Vožnja kroz maglovite maslinike nudi dramatičnu kulisu.\n\nU podne posjetite crkvu sv. Jurja. Vaš automobil pruža savršeno suho utočište između postaja.\n\nPoslijepodne se uputite u uvalu Donja Vala. Uživajte u pogledu na olujno more izravno iz vozila prije nego što utrčite u kafić.\n\nNavečer okrunite dan posjetom samostanu u Zaostrogu. Drevni zidovi nude savršen zaklon i duhovnu atmosferu na kiši."
+            "hr": "Započnite udobno u Starom Selu. Vožnja kroz maglovite maslinike pruža dramatičnu pozadinu.\n\nU podne posjetite crkvu sv. Jurja. Vaš automobil pruža savršen suh zaklon između zaustavljanja.\n\nPoslijepodne uputite se u uvalu Donja Vala. Uživajte u pogledu na bureće more izravno iz vozila prije žurbe u kafić.\n\nUvečer zaokružite dan posjetom samostanu u Zaostrogu. Stari zidovi nude savršen zaklon i duhovnu atmosferu po kiši."
           },
           "stops": [
             {
@@ -1837,7 +1900,7 @@
                 "hu": "Parkoljon óvatosan a szűk, vizes utcákon.",
                 "ro": "Parcați cu atenție pe străzile înguste și umede.",
                 "en": "Park carefully on the narrow, wet streets.",
-                "hr": "Parkirajte oprezno na uskim, mokrim ulicama."
+                "hr": "Parkirajte pažljivo na uskim, mokrim ulicama."
               }
             },
             {
@@ -1847,7 +1910,7 @@
                 "hu": "Közvetlenül a templom előtt általában van szabad parkoló.",
                 "ro": "De obicei există locuri de parcare chiar în fața bisericii.",
                 "en": "Parking is usually available right in front of the church.",
-                "hr": "Parking je obično dostupan točno ispred crkve."
+                "hr": "Parkiranje je obično dostupno odmah ispred crkve."
               }
             },
             {
@@ -1857,7 +1920,7 @@
                 "hu": "Használja a kikötői parkolót, hogy gyorsan fedél alá érjen.",
                 "ro": "Folosiți parcarea din port pentru a ajunge rapid la adăpost.",
                 "en": "Use the port parking for quick access to nearby buildings.",
-                "hr": "Koristite parkiralište u luci za brz pristup obližnjim zgradama."
+                "hr": "Koristite lučko parkiralište za brz pristup obližnjim zgradama."
               }
             },
             {
@@ -1867,7 +1930,7 @@
                 "hu": "A kolostor múzeuma kiváló program esős időre.",
                 "ro": "Muzeul mănăstirii este o opțiune excelentă pentru zilele ploioase.",
                 "en": "The monastery museum is a highlight for rainy days.",
-                "hr": "Samostanski muzej je vrhunac za kišne dane."
+                "hr": "Muzej samostana je atrakcija za kišne dane."
               }
             }
           ],
@@ -1901,11 +1964,11 @@
               "Enjoy a scenic coastal drive from the comfort of your dry car."
             ],
             "hr": [
-              "Pazite na odrone kamenja na obalnim cestama tijekom jake kiše.",
+              "Pazite na odrone stijena na obalnim cestama za vrijeme jake kiše.",
               "Vidljivost može biti ograničena zbog magle u planinama.",
-              "Držite klimu upaljenom kako biste spriječili zamagljivanje stakala.",
-              "Postoje dobra parkirna mjesta odmah uz samostan u Zaostrogu.",
-              "Uživajte u slikovitoj vožnji obalom iz udobnosti svog suhog automobila."
+              "Držite klima-uređaj uključenim kako se stakla ne bi zamaglila.",
+              "Dobra parkirna mjesta nalaze se odmah kraj samostana u Zaostrogu.",
+              "Uživajte u slikovitoj obalnoj vožnji iz udobnosti suhog automobila."
             ]
           }
         },
@@ -1915,7 +1978,7 @@
             "hu": "Kezdje téli túráját Staro Selóban. A tiszta időben a kilátás ma egészen Hvar és Brač szigetéig ellátszik.\n\nDélben látogassa meg a Szent György-templomot. Az autó felmelegszik a déli napsütésben, ami kellemessé teszi az utazást.\n\nDélután irány Donja Vala. Télen a parkolás gyerekjáték, használja ki az időt egy tengerparti eszpresszóra.\n\nEste érkezzen meg Zaostrogba. A kolostor békés csendje a téli fényekben felejthetetlen zárása az utazásnak.",
             "ro": "Începeți turul de iarnă în Staro Selo. Vizibilitatea clară de astăzi permite observarea insulelor Hvar și Brač.\n\nLa prânz vizitați Biserica Sf. Gheorghe. Mașina se va încălzi sub soarele de prânz, făcând drumul foarte plăcut.\n\nDupă-amiaza drumul vă poartă spre Donja Vala. Găsirea unui loc de parcare este floare la ureche iarna.\n\nSeara ajungeți în Zaostrog. Liniștea mănăstirii în lumina iernii este o încheiere de neuitat a călătoriei.",
             "en": "Start your winter tour in Staro Selo. The clear view today reaches all the way to the islands of Hvar and Brač.\n\nAt noon, visit St. George Church. The car warms up in the midday sun, making the drive very pleasant.\n\nIn the afternoon, head to Donja Vala. Finding a parking spot is a breeze in winter; enjoy an espresso by the sea.\n\nIn the evening, arrive in Zaostrog. The peaceful silence of the monastery in the winter light is an unforgettable end to your trip.",
-            "hr": "Započnite svoju zimsku turu u Starom Selu. Vedri pogled danas seže sve do otoka Hvara i Brača.\n\nU podne posjetite crkvu sv. Jurja. Automobil se zagrijava na podnevnom suncu, čineći vožnju vrlo ugodnom.\n\nPoslijepodne se uputite u Donju Valu. Pronalaženje parkirnog mjesta zimi je prava sitnica; uživajte u espressu uz more.\n\nNavečer stignite u Zaostrog. Mirna tišina samostana u zimskom svjetlu nezaboravan je završetak vašeg putovanja."
+            "hr": "Započnite zimsku turu u Starom Selu. Danas je jasan pogled sve do otoka Hvara i Brača.\n\nU podne posjetite crkvu sv. Jurja. Auto se u podnevnom suncu zagrije, čineći vožnju vrlo ugodnom.\n\nPoslijepodne uputite se u Donju Valu. Pronalaženje parkirnog mjesta zimi je jednostavno; uživajte u espressu uz more.\n\nUvečer stižete u Zaostrog. Mirna tišina samostana na zimskom svjetlu nezaboravan je završetak izleta."
           },
           "stops": [
             {
@@ -1925,7 +1988,7 @@
                 "hu": "A nap alacsonyan jár; használja a napellenzőt a felhajtáskor.",
                 "ro": "Soarele este jos; folosiți parasolarul la urcare.",
                 "en": "The sun is low; use your sun visor during the drive up.",
-                "hr": "Sunce je nisko; koristite sjenilo tijekom vožnje uzbrdo."
+                "hr": "Sunce je nisko; koristite sjenilo za sunce tijekom uspona."
               }
             },
             {
@@ -1935,7 +1998,7 @@
                 "hu": "Élvezze a panorámát a nyári hőség nélkül.",
                 "ro": "Bucurați-vă de panoramă fără arșița verii.",
                 "en": "Enjoy the panoramic view without the summer heat.",
-                "hr": "Uživajte u panoramskom pogledu bez ljetnih vrućina."
+                "hr": "Uživajte u panoramskom pogledu bez ljetne vrućine."
               }
             },
             {
@@ -1945,7 +2008,7 @@
                 "hu": "Télen szinte mindenhol ingyenes és bőséges a parkolás.",
                 "ro": "Parcarea gratuită este disponibilă aproape peste tot iarna.",
                 "en": "Free parking is available almost everywhere in winter.",
-                "hr": "Besplatan parking dostupan je gotovo svugdje zimi."
+                "hr": "Besplatno parkiranje dostupno gotovo svugdje zimi."
               }
             },
             {
@@ -1955,7 +2018,7 @@
                 "hu": "Látogassa meg a kolostorkertet, amely télen is bájos.",
                 "ro": "Vizitați grădina mănăstirii, care are farmec și iarna.",
                 "en": "Visit the monastery garden, which retains its charm even in winter.",
-                "hr": "Posjetite samostanski vrt koji zadržava svoj šarm čak i zimi."
+                "hr": "Posjetite samostanski vrt koji zadržava svoj šarm i zimi."
               }
             }
           ],
@@ -1990,10 +2053,10 @@
             ],
             "hr": [
               "Provjerite antifriz u tekućini za pranje vjetrobranskog stakla.",
-              "Sjenoviti dijelovi planinskih cesta mogu ostati zaleđeni cijeli dan.",
-              "Mnoge obalne parkirne zone zimi su besplatne.",
-              "Zimsko sunce može biti vrlo zasljepljujuće tijekom vožnje.",
-              "Planirajte povratak prije mraka (oko 16:45)."
+              "Zasjenjeni dijelovi planinskih cesta mogu ostati sklizavi cijeli dan.",
+              "Mnoge obalne parkirne zone zimi su bez naplate.",
+              "Zimsko sunce može jako zaslijepiti tijekom vožnje.",
+              "Isplanirajte povratak prije mraka (oko 16:45)."
             ]
           }
         }
@@ -2012,7 +2075,8 @@
             "de": "Bushaltestelle Drvenik",
             "hu": "Drvenik buszmegálló",
             "ro": "Stație de autobuz Drvenik",
-            "en": "Drvenik Bus Stop"
+            "en": "Drvenik Bus Stop",
+            "hr": "Autobusna stanica Drvenik"
           },
           "coords": [
             17.219,
@@ -2028,7 +2092,7 @@
             "hu": "Összeköttetés Makarska felé.",
             "ro": "Legătură spre Makarska.",
             "en": "Connection to Makarska.",
-            "hr": "Veza za Makarsku."
+            "hr": "Povezivanje s Makarskom."
           }
         },
         {
@@ -2036,7 +2100,8 @@
             "de": "Podaca (Strand)",
             "hu": "Podaca (Strand)",
             "ro": "Podaca (Plajă)",
-            "en": "Podaca (Beach)"
+            "en": "Podaca (Beach)",
+            "hr": "Podaca (Plaža)"
           },
           "coords": [
             17.295,
@@ -2052,7 +2117,7 @@
             "hu": "Csendes szomszéd falu.",
             "ro": "Localitate vecină liniștită.",
             "en": "Quiet neighboring village.",
-            "hr": "Mirno susjedno selo."
+            "hr": "Tihi susjedni zaselak."
           }
         },
         {
@@ -2060,7 +2125,8 @@
             "de": "Donja Vala Bucht",
             "hu": "Donja Vala öböl",
             "ro": "Golful Donja Vala",
-            "en": "Donja Vala Bay"
+            "en": "Donja Vala Bay",
+            "hr": "Uvala Donja Vala"
           },
           "coords": [
             17.216,
@@ -2084,7 +2150,8 @@
             "de": "Sankt-Rochus-Kirche",
             "hu": "Szent Rókus-templom",
             "ro": "Biserica Sf. Rochus",
-            "en": "St. Roch Church"
+            "en": "St. Roch Church",
+            "hr": "Crkva sv. Roka"
           },
           "coords": [
             17.221,
@@ -2109,7 +2176,7 @@
         "hu": "Helyi busszal fedezzük fel a szomszédos Podaca falut, ahol a délelőttöt a strandon töltjük. Délben busszal visszatérünk Drvenikbe, és élvezzük a Donja Vala öböl kristálytiszta vizét. A napot a Szent Rókus-templomnál zárjuk, amely gyalogosan is könnyen elérhető.",
         "ro": "Cu autobuzul public explorăm localitatea vecină Podaca pentru o dimineață relaxată pe plaja de acolo. La prânz revenim cu transportul în comun în Drvenik și ne bucurăm de apa cristalină a golfului Donja Vala. Ziua se încheie liniștit la biserica Sf. Rochus, aflată la mică distanță de mers pe jos.",
         "en": "By public bus, we explore the neighboring village of Podaca for a relaxed morning on its beach. Midday, return to Drvenik by transit to enjoy the crystal clear waters of Donja Vala bay. The day concludes peacefully at St. Roch Church, easily reachable on foot.",
-        "hr": "Javnim autobusom istražujemo susjedno mjesto Podaca za opušteno jutro na tamošnjoj plaži. U podne se vratite u Drvenik javnim prijevozom kako biste uživali u kristalno čistom moru uvale Donja Vala. Dan mirno završava kod crkve sv. Roka, do koje se lako dolazi pješice."
+        "hr": "Autobusom istražujemo susjedno selo Podacu za opušteno jutro na plaži. U podne se vraćamo u Drvenik javnim prijevozom kako bismo uživali u kristalno čistoj vodi uvali Donja Vala. Dan mirno završava kod crkve sv. Roka, lako dostupne pješice."
       },
       "gastro_picks": {
         "de": [
@@ -2239,9 +2306,9 @@
         ],
         "hr": [
           "Autobusi mogu kasniti.",
-          "Provjerite vozni red putem aplikacije.",
-          "Nosite masku u autobusu.",
-          "Pazite na nazive stanica."
+          "Provjerite red vožnje putem aplikacije.",
+          "Ponesite masku za autobus.",
+          "Obratite pažnju na imena stanica."
         ]
       },
       "variants": {
@@ -2250,7 +2317,8 @@
             "de": "Mit dem öffentlichen Bus erkunden wir den Nachbarort Podaca für einen entspannten Vormittag am dortigen Strand. Mittags kehren wir per Transit nach Drvenik zurück und genießen das kristallklare Wasser der Donja Vala Bucht. Der Tag endet besinnlich an der Sankt-Rochus-Kirche, die fußläufig erreichbar ist.",
             "hu": "Helyi busszal fedezzük fel a szomszédos Podaca falut, ahol a délelőttöt a strandon töltjük. Délben busszal visszatérünk Drvenikbe, és élvezzük a Donja Vala öböl kristálytiszta vizét. A napot a Szent Rókus-templomnál zárjuk, amely gyalogosan is könnyen elérhető.",
             "ro": "Cu autobuzul public explorăm localitatea vecină Podaca pentru o dimineață relaxată pe plaja de acolo. La prânz revenim cu transportul în comun în Drvenik și ne bucurăm de apa cristalină a golfului Donja Vala. Ziua se încheie liniștit la biserica Sf. Rochus, aflată la mică distanță de mers pe jos.",
-            "en": "By public bus, we explore the neighboring village of Podaca for a relaxed morning on its beach. Midday, return to Drvenik by transit to enjoy the crystal clear waters of Donja Vala bay. The day concludes peacefully at St. Roch Church, easily reachable on foot."
+            "en": "By public bus, we explore the neighboring village of Podaca for a relaxed morning on its beach. Midday, return to Drvenik by transit to enjoy the crystal clear waters of Donja Vala bay. The day concludes peacefully at St. Roch Church, easily reachable on foot.",
+            "hr": "Autobusom istražujemo susjedno selo Podacu za opušteno jutro na plaži. U podne se vraćamo u Drvenik javnim prijevozom kako bismo uživali u kristalno čistoj vodi uvali Donja Vala. Dan mirno završava kod crkve sv. Roka, lako dostupne pješice."
           },
           "stops": [
             {
@@ -2258,13 +2326,15 @@
                 "de": "Bushaltestelle Drvenik",
                 "hu": "Drvenik buszmegálló",
                 "ro": "Stație de autobuz Drvenik",
-                "en": "Drvenik Bus Stop"
+                "en": "Drvenik Bus Stop",
+                "hr": "Autobusna stanica Drvenik"
               },
               "tip_5lang": {
                 "de": "Verbindung nach Makarska.",
                 "hu": "Összeköttetés Makarska felé.",
                 "ro": "Legătură spre Makarska.",
-                "en": "Connection to Makarska."
+                "en": "Connection to Makarska.",
+                "hr": "Povezivanje s Makarskom."
               }
             },
             {
@@ -2272,13 +2342,15 @@
                 "de": "Podaca (Strand)",
                 "hu": "Podaca (Strand)",
                 "ro": "Podaca (Plajă)",
-                "en": "Podaca (Beach)"
+                "en": "Podaca (Beach)",
+                "hr": "Podaca (Plaža)"
               },
               "tip_5lang": {
                 "de": "Ruhiger Nachbarort.",
                 "hu": "Csendes szomszéd falu.",
                 "ro": "Localitate vecină liniștită.",
-                "en": "Quiet neighboring village."
+                "en": "Quiet neighboring village.",
+                "hr": "Tihi susjedni zaselak."
               }
             },
             {
@@ -2286,13 +2358,15 @@
                 "de": "Donja Vala Bucht",
                 "hu": "Donja Vala öböl",
                 "ro": "Golful Donja Vala",
-                "en": "Donja Vala Bay"
+                "en": "Donja Vala Bay",
+                "hr": "Uvala Donja Vala"
               },
               "tip_5lang": {
                 "de": "Rückkehr nach Drvenik.",
                 "hu": "Visszatérés Drvenikbe.",
                 "ro": "Revenire în Drvenik.",
-                "en": "Return to Drvenik."
+                "en": "Return to Drvenik.",
+                "hr": "Povratak u Drvenik."
               }
             },
             {
@@ -2300,13 +2374,15 @@
                 "de": "Sankt-Rochus-Kirche",
                 "hu": "Szent Rókus-templom",
                 "ro": "Biserica Sf. Rochus",
-                "en": "St. Roch Church"
+                "en": "St. Roch Church",
+                "hr": "Crkva sv. Roka"
               },
               "tip_5lang": {
                 "de": "Schöner Tagesabschluss.",
                 "hu": "Szép napzárás.",
                 "ro": "Frumos final de zi.",
-                "en": "Beautiful day ending."
+                "en": "Beautiful day ending.",
+                "hr": "Prekrasan završetak dana."
               }
             }
           ],
@@ -2416,6 +2492,12 @@
               "Check schedule via app.",
               "Carry a mask for the bus.",
               "Pay attention to stop names."
+            ],
+            "hr": [
+              "Autobusi mogu kasniti.",
+              "Provjerite red vožnje putem aplikacije.",
+              "Ponesite masku za autobus.",
+              "Obratite pažnju na imena stanica."
             ]
           }
         },
@@ -2425,7 +2507,7 @@
             "hu": "Kezdjen a drveniki buszmegállóban. A buszok megbízható módot kínálnak a települések közötti száraz közlekedésre.\n\nDélben érkezzen meg Podacába. A tengerparti séta rövidebb lesz, de a buszablakból nyíló kilátás az esős Adriára pihentető.\n\nDélután térjen vissza a Donja Vala-öbölbe. A buszra való várakozást használja ki egy közeli étterem felkeresésére.\n\nEste látogasson el a Szent Rókus-templomba. Egy gyors futás a busztól a fedett részig, hogy megcsodálhassa a történelmi épületet.",
             "ro": "Începeți la stația de autobuz Drvenik. Autobuzele sunt o modalitate sigură de a călători între localități fără a vă uda.\n\nLa prânz ajungeți în Podaca. Plimbarea pe plajă va fi scurtă, dar vederea Adriaticii prin fereastra autobuzului este relaxantă.\n\nDupă-amiaza reveniți în Donja Vala. Profitați de timpul de așteptare pentru a vizita localurile din apropiere.\n\nSeara vizitați Biserica Sf. Roch. O scurtă fugă de la autobuz la adăpost pentru a admira arhitectura istorică.",
             "en": "Start at the Drvenik bus stop. Buses are a reliable way to commute between coastal towns while staying dry.\n\nAt noon, arrive in Podaca. The beach walk will be shorter, but the view of the rainy Adriatic from the bus window is relaxing.\n\nIn the afternoon, return to Donja Vala Bay. Use the waiting time to visit one of the nearby seaside restaurants.\n\nIn the evening, visit St. Roch Church. A quick dash from the bus into the shelter to admire the historical architecture.",
-            "hr": "Započnite na autobusnoj stanici u Drveniku. Autobusi su pouzdan način putovanja između obalnih mjesta dok ostajete suhi.\n\nU podne stignite u Podacu. Šetnja plažom bit će kraća, ali pogled na kišni Jadran kroz prozor autobusa je opuštajući.\n\nPoslijepodne se vratite u uvalu Donja Vala. Iskoristite vrijeme čekanja za posjet jednom od obližnjih restorana uz more.\n\nNavečer posjetite crkvu sv. Roka. Kratki trk iz autobusa u zaklon kako biste se divili povijesnoj arhitekturi."
+            "hr": "Započnite na autobusnoj stanici Drvenik. Autobusi su pouzdan način za putovanje između obalnih mjesta i ostanak suhim.\n\nU podne stižete u Podacu. Šetnja plažom bit će kraća, ali pogled na kišni Jadran kroz prozor autobusa umirujuć je.\n\nPoslijepodne se vraćate u uvalu Donja Vala. Iskoristite vrijeme čekanja za posjet jednom od obližnjih konoba uz more.\n\nUvečer posjetite crkvu sv. Roka. Brzi sprint iz autobusa do zaklona kako biste razgledali povijesnu arhitekturu."
           },
           "stops": [
             {
@@ -2435,7 +2517,7 @@
                 "hu": "A megállónál van egy kis beálló az eső ellen.",
                 "ro": "Stația are un mic adăpost împotriva ploii.",
                 "en": "The stop has a small shelter to protect you from the rain.",
-                "hr": "Stanica ima mali zaklon koji će vas zaštititi od kiše."
+                "hr": "Stanica ima malo sklonište koje vas štiti od kiše."
               }
             },
             {
@@ -2445,7 +2527,7 @@
                 "hu": "Maradjon az út közelében, hogy ne késse le a buszt.",
                 "ro": "Rămâneți aproape de drum pentru a nu rata autobuzul.",
                 "en": "Stay close to the main road so you don't miss your bus.",
-                "hr": "Ostanite blizu glavne ceste kako ne biste propustili autobus."
+                "hr": "Ostanite blizu glavne ceste da ne propustite autobus."
               }
             },
             {
@@ -2455,7 +2537,7 @@
                 "hu": "A megálló közelében több kávézó is található a melegedéshez.",
                 "ro": "Există mai multe cafenele lângă stație unde vă puteți încălzi.",
                 "en": "There are several cafes near the stop where you can warm up.",
-                "hr": "U blizini stanice nalazi se nekoliko kafića u kojima se možete ugrijati."
+                "hr": "U blizini stanice nalazi se nekoliko kafića gdje se možete ugrijati."
               }
             },
             {
@@ -2465,7 +2547,7 @@
                 "hu": "Szép helyszín, amely rossz időben is látogatható.",
                 "ro": "Un loc frumos, accesibil chiar și pe vreme nefavorabilă.",
                 "en": "A beautiful site that remains accessible even in bad weather.",
-                "hr": "Prekrasno mjesto koje ostaje dostupno čak i po lošem vremenu."
+                "hr": "Prekrasno mjesto koje ostaje dostupno i po lošem vremenu."
               }
             }
           ],
@@ -2499,11 +2581,11 @@
               "Use the 'Arriva' app for real-time bus tracking data."
             ],
             "hr": [
-              "Provjerite vozni red online jer kiša može uzrokovati manja kašnjenja.",
-              "Imajte spremnu gotovinu za kartu u slučaju da plaćanje karticom ne uspije.",
-              "Nosite obuću koja dobro prianja za šetnju do stanice.",
-              "Autobusi na dužim linijama obično su dobro grijani i udobni.",
-              "Koristite aplikaciju 'Arriva' za praćenje autobusa u stvarnom vremenu."
+              "Provjerite red vožnje online jer kiša može prouzročiti manja kašnjenja.",
+              "Imajte gotovinu spremnu za kartu u slučaju da plaćanje karticom na brodu ne radi.",
+              "Nosite obuću s dobrim prianjanjem za put do stanice.",
+              "Međugradski autobusi obično su dobro grijani i udobni.",
+              "Koristite aplikaciju 'Arriva' za podatke o praćenju autobusa u stvarnom vremenu."
             ]
           }
         },
@@ -2513,7 +2595,7 @@
             "hu": "Kezdjen a drveniki buszmegállóban. Télen a buszok üresebbek, és nyugodt utazást biztosítanak az Adria-parti úton.\n\nDélben érkezzen meg Podacába. Élvezze a tengerpart téli magányát, mielőtt a következő busszal visszaindulna.\n\nDélután a túra visszavezet a Donja Vala-öbölbe. Az alacsonyan járó napfény megcsillan a busz ablakain.\n\nEste a Szent Rókus-templomnál zárja a napot. Ügyeljen a ritkább téli menetrendre a hazajutáshoz.",
             "ro": "Începeți la stația de autobuz Drvenik. Iarna autobuzele sunt mai libere și oferă o călătorie relaxantă pe magistrală.\n\nLa prânz ajungeți în Podaca. Bucurați-vă de singurătatea plajei pe timp de iarnă înainte de a lua următorul autobuz.\n\nDupă-amiaza turul revine în Donja Vala. Soarele palid strălucește în ferestrele autobuzului.\n\nSeara încheiați ziua la Biserica Sf. Roch. Atenție la orarul de iarnă redus pentru drumul de întoarcere.",
             "en": "Start at the Drvenik bus stop. In winter, buses are less crowded and offer a relaxed ride along the coastal road.\n\nAt noon, arrive in Podaca. Enjoy the winter solitude on the beach before catching the next bus back.\n\nIn the afternoon, the tour returns to Donja Vala Bay. The low sun glints beautifully off the bus windows.\n\nIn the evening, end the day at St. Roch Church. Keep an eye on the reduced winter schedule for your return trip.",
-            "hr": "Započnite na autobusnoj stanici u Drveniku. Zimi su autobusi manje popunjeni i nude opuštenu vožnju obalnom cestom.\n\nU podne stignite u Podacu. Uživajte u zimskoj samoći na plaži prije nego što uhvatite sljedeći autobus natrag.\n\nPoslijepodne se tura vraća u uvalu Donja Vala. Nisko sunce prekrasno svjetluca na prozorima autobusa.\n\nNavečer završite dan kod crkve sv. Roka. Pratite reducirani zimski vozni red za povratak."
+            "hr": "Započnite na autobusnoj stanici Drvenik. Zimi su autobusi manje puni i nude opuštenu vožnju uz obalnu cestu.\n\nU podne stižete u Podacu. Uživajte u zimskoj samoći na plaži prije nego uhvatite sljedeći autobus natrag.\n\nPoslijepodne tura se vraća u uvalu Donja Vala. Nisko sunce lijepo se presijava na prozorima autobusa.\n\nUvečer završite dan kod crkve sv. Roka. Pazite na smanjeni zimski red vožnje za povratak."
           },
           "stops": [
             {
@@ -2523,7 +2605,7 @@
                 "hu": "Ellenőrizze a téli menetrendet; a járatok ritkábban járnak.",
                 "ro": "Verificați orarul de iarnă; frecvența curselor este mai mică.",
                 "en": "Check the winter schedule as buses run less frequently.",
-                "hr": "Provjerite zimski vozni red jer autobusi rjeđe voze."
+                "hr": "Provjerite zimski red vožnje jer autobusi voze rjeđe."
               }
             },
             {
@@ -2533,7 +2615,7 @@
                 "hu": "A tengerpart télen teljesen üres és nagyon fotogén.",
                 "ro": "Plaja este pustie iarna și foarte fotogenică.",
                 "en": "The beach is deserted in winter and very photogenic.",
-                "hr": "Plaža je zimi pustinja i vrlo fotogenična."
+                "hr": "Plaža je zimi pusta i vrlo fotogenična."
               }
             },
             {
@@ -2543,7 +2625,7 @@
                 "hu": "Használja a buszt, hogy két séta között felmelegedjen.",
                 "ro": "Folosiți autobuzul pentru a vă încălzi între plimbări.",
                 "en": "Use the bus as a place to warm up between walks.",
-                "hr": "Koristite autobus kao mjesto za grijanje između šetnji."
+                "hr": "Iskoristite autobus kao mjesto za zagrijavanje između šetnji."
               }
             },
             {
@@ -2553,7 +2635,7 @@
                 "hu": "Úgy tervezze a látogatást, hogy ne késse le az utolsó buszt.",
                 "ro": "Planificați vizita astfel încât să nu ratați ultimul autobuz.",
                 "en": "Plan your visit so you don't miss the last bus of the day.",
-                "hr": "Planirajte svoj posjet tako da ne propustite zadnji autobus u danu."
+                "hr": "Isplanirajte posjet da ne propustite zadnji autobus u danu."
               }
             }
           ],
@@ -2587,10 +2669,10 @@
               "Many buses stop only on request; wave clearly to the driver!"
             ],
             "hr": [
-              "Znatno manje autobusa vozi izvan sezone.",
-              "Autobusne stanice mogu biti vrlo vjetrovite; ne zaboravite šal.",
-              "Pitajte vozača za vrijeme zadnjeg povratka.",
-              "Cijene karata zimi ponekad mogu biti nešto niže.",
+              "Zacijelo znatno manje polazaka izvan sezone.",
+              "Na autobusnim stajalištima zna biti veoma vjetrovito; ne zaboravite šal.",
+              "Pitajte vozača za vrijeme zadnjeg povratnog polaska.",
+              "Cijene karata ponekad su malo niže zimi.",
               "Mnogi autobusi staju samo na zahtjev; jasno mahnite vozaču!"
             ]
           }
@@ -2617,19 +2699,22 @@
       "de": "Faehrhafen-Personal spricht Englisch, Konobas eher Kroatisch; Tickets nur Kuna/Euro bar oder Karte am Schalter.",
       "hu": "A komp kikoto szemelyzete beszel angolul, a konobakban inkabb csak horvatul; jegy euro keszpenz vagy kartya a penztarnal.",
       "ro": "Personalul portului de feribot vorbeste engleza, in konoba doar croata; bilete in euro cash sau card la casa.",
-      "en": "Ferry port staff speak English, konobas mostly Croatian; tickets in euro cash or card at the counter."
+      "en": "Ferry port staff speak English, konobas mostly Croatian; tickets in euro cash or card at the counter.",
+      "hr": "Osoblje trajektne luke govori engleski, konobari uglavnom hrvatski; karte u eurima gotovinom ili karticom na šalteru."
     },
     "best_time": {
       "de": "Mai bis Oktober; im Juli/August Faehre frueh buchen (Fahrzeugschlange ueber 1 Std moeglich).",
       "hu": "Majus es oktober kozott; julius-augusztusban a kompra korai foglalas (autosor 1+ ora is lehet).",
       "ro": "Mai-octombrie; in iulie-august rezerva feribotul devreme (coada de masini peste 1 ora posibila).",
-      "en": "May to October; in July-August book ferry early (vehicle queues over 1 hour possible)."
+      "en": "May to October; in July-August book ferry early (vehicle queues over 1 hour possible).",
+      "hr": "Svibanj do listopada; u srpnju-kolovozu rezervirajte trajekt rano (moguće su gužve za vozila preko 1 sat)."
     },
     "neighborhood_warnings": {
       "de": "Zwei getrennte Buchten (Gornja/Donja vala), nicht verwechseln; Faehre legt in Gornja vala an.",
       "hu": "Ket kulon obol (Gornja/Donja vala), ne keverd ossze; a komp Gornja valaban kot ki.",
       "ro": "Doua golfuri separate (Gornja/Donja vala), nu le confunda; feribotul acosteaza in Gornja vala.",
-      "en": "Two separate bays (Gornja/Donja vala), do not confuse; ferry docks at Gornja vala."
+      "en": "Two separate bays (Gornja/Donja vala), do not confuse; ferry docks at Gornja vala.",
+      "hr": "Dvije odvojene vale (Gornja/Donja vala), nemojte ih miješati; trajekt pristaje u Gornjoj vali."
     },
     "transit_official": {
       "url": "https://www.jadrolinija.hr/en",

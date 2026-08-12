@@ -21,7 +21,8 @@
             "de": "Stadttor von Hum",
             "hu": "Humi városkapu",
             "ro": "Poarta orașului Hum",
-            "en": "Hum City Gate"
+            "en": "Hum City Gate",
+            "hr": "Gradska vrata Hum"
           },
           "coords": [
             14.0492,
@@ -37,7 +38,7 @@
             "hu": "Figyelje meg a bronz kilincseket glagolita feliratokkal.",
             "ro": "Observați mânerele din bronz ale porții cu inscripții glagolitice.",
             "en": "Notice the bronze door handles with Glagolitic inscriptions.",
-            "hr": "Obratite pažnju na brončane kvake s glagoljičkim natpisima."
+            "hr": "Obratite pozornost na brončana kvaka s glagoljskim natpisima."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Stadtloggia",
             "hu": "Városi loggia",
             "ro": "Loja orașului",
-            "en": "City Loggia"
+            "en": "City Loggia",
+            "hr": "Gradska loža"
           },
           "coords": [
             14.0498,
@@ -61,7 +63,7 @@
             "hu": "Itt választják meg minden évben a zsupánt (öljárót).",
             "ro": "Aici este ales prefectul în fiecare an.",
             "en": "This is where the prefect is elected every year.",
-            "hr": "Ovdje se svake godine bira župan na godinu dana."
+            "hr": "Ovdje se svake godine bira župan."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Städtischer Glockenturm",
             "hu": "Városi harangtorony",
             "ro": "Turnul clopotniță al orașului",
-            "en": "City Bell Tower"
+            "en": "City Bell Tower",
+            "hr": "Gradski zvonik"
           },
           "coords": [
             14.0502,
@@ -85,7 +88,7 @@
             "hu": "Erődített torony, amely egykor védelmi célokat szolgált.",
             "ro": "Un turn fortificat care a servit odinioară pentru apărare.",
             "en": "A fortified tower that once served as a defense structure.",
-            "hr": "Utvrđena kula koja je nekoć služila kao obrambena struktura."
+            "hr": "Utvrđeni toranj koji je nekad služio kao obrambena struktura."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Pfarrkirche Mariä Himmelfahrt",
             "hu": "Mária mennybevétele plébániatemplom",
             "ro": "Biserica parohială Adormirea Maicii Domnului",
-            "en": "Parish Church of the Assumption"
+            "en": "Parish Church of the Assumption",
+            "hr": "Župna crkva Uznesenja"
           },
           "coords": [
             14.0505,
@@ -109,7 +113,7 @@
             "hu": "Barokk templom értékes festményekkel.",
             "ro": "O biserică barocă cu picturi valoroase.",
             "en": "A Baroque church containing valuable paintings.",
-            "hr": "Barokna crkva koja čuva vrijedne umjetnine."
+            "hr": "Barokna crkva s vrijednim slikama."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Museum von Hum",
             "hu": "Humi Múzeum",
             "ro": "Muzeul din Hum",
-            "en": "Museum of Hum"
+            "en": "Museum of Hum",
+            "hr": "Muzej Hum"
           },
           "coords": [
             14.0508,
@@ -141,7 +146,8 @@
             "de": "Kirche des Heiligen Hieronymus",
             "hu": "Szent Jeromos templom",
             "ro": "Biserica Sfântul Ieronim",
-            "en": "Church of Saint Jerome"
+            "en": "Church of Saint Jerome",
+            "hr": "Crkva sv. Jeronima"
           },
           "coords": [
             14.0515,
@@ -157,7 +163,7 @@
             "hu": "Csodálja meg a 12. századi freskókat a temetőben.",
             "ro": "Admirați frescele din secolul al XII-lea din cimitir.",
             "en": "Admire the 12th-century frescoes located in the cemetery.",
-            "hr": "Divite se freskama iz 12. stoljeća koje se nalaze na groblju."
+            "hr": "Divite se freskama iz 12. stoljeća u groblju."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Aura Destillerie",
             "hu": "Aura Lepárló",
             "ro": "Distileria Aura",
-            "en": "Aura Distillery"
+            "en": "Aura Distillery",
+            "hr": "Destilerija Aura"
           },
           "coords": [
             14.05,
@@ -181,7 +188,7 @@
             "hu": "Ne hagyja ki a biska pálinka kóstolását.",
             "ro": "Nu ratați degustarea rachiului Biska.",
             "en": "Don't miss a tasting of the Biska brandy.",
-            "hr": "Ne propustite degustaciju biske."
+            "hr": "Ne propustite kušanje rakije Biska."
           }
         }
       ],
@@ -190,7 +197,7 @@
         "hu": "Isten hozta a világ legkisebb városában! A masszív városkapun át lépünk be Humba, majd felfedezzük a középkori loggiát és a harangtornyot. A barokk plébániatemplom és a múzeum megtekintése után elsétálunk a Szent Jeromos temetőkápolnához az ősi freskókért. A délutánt a hagyományos likőrök kóstolásával zárjuk az Aura lepárlóban.",
         "ro": "Bun venit în cel mai mic oraș din lume! Intrăm în Hum prin poarta masivă a orașului și explorăm loja medievală și turnul clopotniță. După vizitarea bisericii parohiale baroce și a muzeului, ne plimbăm spre biserica Sfântul Ieronim din cimitir pentru frescele sale antice. După-amiaza se încheie plăcut cu o degustare de lichioruri tradiționale la distileria Aura.",
         "en": "Welcome to the smallest town in the world! We enter Hum through the massive city gate and explore the medieval loggia and the bell tower. After visiting the Baroque parish church and the museum, we walk to the cemetery church of Saint Jerome with its ancient frescoes. The afternoon ends cozily with a tasting of traditional liqueurs at the Aura Distillery.",
-        "hr": "Dobrodošli u najmanji grad na svijetu! U Hum ulazimo kroz masivna gradska vrata i istražujemo srednjovjekovnu ložu i zvonik. Nakon posjeta baroknoj župnoj crkvi i muzeju, šetamo do grobljanske crkve svetog Jeronima s njezinim drevnim freskama. Poslijepodne završava ugodno uz degustaciju tradicionalnih likera u destileriji Aura."
+        "hr": "Dobrodošli u najmanji grad na svijetu! Ulazimo u Hum kroz masivna gradska vrata i istražujemo srednjovjekovnu ložu i zvonik. Nakon posjeta baroknoj župnoj crkvi i muzeju, prošetamo do grobljne crkve sv. Jeronima s njezinim drevnim freskama. Popodne ugodno završava kušanjem tradicionalnih likera u destileriji Aura."
       },
       "gastro_picks": {
         "de": [
@@ -384,9 +391,9 @@
           "Try the homemade soup at the local konoba."
         ],
         "hr": [
-          "Hum je vrlo malen, sve možete vidjeti u sat vremena, ali uzmite si vremena.",
-          "Parkirajte na velikom parkiralištu prije gradskih vrata.",
-          "Najbolje vrijeme za posjet je proljeće ili jesen.",
+          "Hum je vrlo malen, sve možete vidjeti za sat vremena, ali odvojite si vremena.",
+          "Parkirajte na velikom parkingu prije gradskih vrata.",
+          "Najbolje je vrijeme za posjet proljeće ili jesen.",
           "Probajte domaću juhu u lokalnoj konobi."
         ]
       },
@@ -396,7 +403,8 @@
             "de": "Willkommen in der kleinsten Stadt der Welt! Wir betreten Hum durch das massive Stadttor und erkunden die mittelalterliche Loggia und den Glockenturm. Nach einem Besuch der barocken Pfarrkirche und des Museums spazieren wir zur Friedhofskirche des Heiligen Hieronymus mit ihren antiken Fresken. Den Nachmittag lassen wir bei einer Verkostung traditioneller Liköre in der Aura-Destillerie gemütlich ausklingen.",
             "hu": "Isten hozta a világ legkisebb városában! A masszív városkapun át lépünk be Humba, majd felfedezzük a középkori loggiát és a harangtornyot. A barokk plébániatemplom és a múzeum megtekintése után elsétálunk a Szent Jeromos temetőkápolnához az ősi freskókért. A délutánt a hagyományos likőrök kóstolásával zárjuk az Aura lepárlóban.",
             "ro": "Bun venit în cel mai mic oraș din lume! Intrăm în Hum prin poarta masivă a orașului și explorăm loja medievală și turnul clopotniță. După vizitarea bisericii parohiale baroce și a muzeului, ne plimbăm spre biserica Sfântul Ieronim din cimitir pentru frescele sale antice. După-amiaza se încheie plăcut cu o degustare de lichioruri tradiționale la distileria Aura.",
-            "en": "Welcome to the smallest town in the world! We enter Hum through the massive city gate and explore the medieval loggia and the bell tower. After visiting the Baroque parish church and the museum, we walk to the cemetery church of Saint Jerome with its ancient frescoes. The afternoon ends cozily with a tasting of traditional liqueurs at the Aura Distillery."
+            "en": "Welcome to the smallest town in the world! We enter Hum through the massive city gate and explore the medieval loggia and the bell tower. After visiting the Baroque parish church and the museum, we walk to the cemetery church of Saint Jerome with its ancient frescoes. The afternoon ends cozily with a tasting of traditional liqueurs at the Aura Distillery.",
+            "hr": "Dobrodošli u najmanji grad na svijetu! Ulazimo u Hum kroz masivnu gradsku kapiju i istražujemo srednjovjekovnu lođu i zvonik. Nakon posjete baroknoj župnoj crkvi i muzeju, pješačimo do grobljanske crkve sv. Jeronima s drevnim freskama. Popodne se ugodno završava kušanjem tradicionalnih likera u destileriji Aura."
           },
           "stops": [
             {
@@ -404,13 +412,15 @@
                 "de": "Stadttor von Hum",
                 "hu": "Humi városkapu",
                 "ro": "Poarta orașului Hum",
-                "en": "Hum City Gate"
+                "en": "Hum City Gate",
+                "hr": "Gradska kapija Huma"
               },
               "tip_5lang": {
                 "de": "Betrachten Sie die bronzenen Türgriffe mit glagolitischen Inschriften.",
                 "hu": "Figyelje meg a bronz kilincseket glagolita feliratokkal.",
                 "ro": "Observați mânerele din bronz ale porții cu inscripții glagolitice.",
-                "en": "Notice the bronze door handles with Glagolitic inscriptions."
+                "en": "Notice the bronze door handles with Glagolitic inscriptions.",
+                "hr": "Primijetite brončane kvake s glagoljskim natpisima."
               }
             },
             {
@@ -418,13 +428,15 @@
                 "de": "Stadtloggia",
                 "hu": "Városi loggia",
                 "ro": "Loja orașului",
-                "en": "City Loggia"
+                "en": "City Loggia",
+                "hr": "Gradska lođa"
               },
               "tip_5lang": {
                 "de": "Hier wird jedes Jahr der Gespan (Landrat) gewählt.",
                 "hu": "Itt választják meg minden évben a zsupánt (öljárót).",
                 "ro": "Aici este ales prefectul în fiecare an.",
-                "en": "This is where the prefect is elected every year."
+                "en": "This is where the prefect is elected every year.",
+                "hr": "Ovdje se svake godine bira prefekt."
               }
             },
             {
@@ -432,13 +444,15 @@
                 "de": "Städtischer Glockenturm",
                 "hu": "Városi harangtorony",
                 "ro": "Turnul clopotniță al orașului",
-                "en": "City Bell Tower"
+                "en": "City Bell Tower",
+                "hr": "Gradski zvonik"
               },
               "tip_5lang": {
                 "de": "Ein wehrhafter Turm, der einst zur Verteidigung diente.",
                 "hu": "Erődített torony, amely egykor védelmi célokat szolgált.",
                 "ro": "Un turn fortificat care a servit odinioară pentru apărare.",
-                "en": "A fortified tower that once served as a defense structure."
+                "en": "A fortified tower that once served as a defense structure.",
+                "hr": "Utvrđeni toranj koji je nekad služio kao obrambena struktura."
               }
             },
             {
@@ -446,13 +460,15 @@
                 "de": "Pfarrkirche Mariä Himmelfahrt",
                 "hu": "Mária mennybevétele plébániatemplom",
                 "ro": "Biserica parohială Adormirea Maicii Domnului",
-                "en": "Parish Church of the Assumption"
+                "en": "Parish Church of the Assumption",
+                "hr": "Župna crkva Uznesenja"
               },
               "tip_5lang": {
                 "de": "Barocke Kirche mit wertvollen Gemälden.",
                 "hu": "Barokk templom értékes festményekkel.",
                 "ro": "O biserică barocă cu picturi valoroase.",
-                "en": "A Baroque church containing valuable paintings."
+                "en": "A Baroque church containing valuable paintings.",
+                "hr": "Barokna crkva s vrijednim slikama."
               }
             },
             {
@@ -460,13 +476,15 @@
                 "de": "Museum von Hum",
                 "hu": "Humi Múzeum",
                 "ro": "Muzeul din Hum",
-                "en": "Museum of Hum"
+                "en": "Museum of Hum",
+                "hr": "Muzej Huma"
               },
               "tip_5lang": {
                 "de": "Erfahren Sie mehr über die Geschichte der glagolitischen Schrift.",
                 "hu": "Tudjon meg többet a glagolita írás történetéről.",
                 "ro": "Aflați mai multe despre istoria scrierii glagolitice.",
-                "en": "Learn more about the history of the Glagolitic script."
+                "en": "Learn more about the history of the Glagolitic script.",
+                "hr": "Saznajte više o povijesti glagoljice."
               }
             },
             {
@@ -474,13 +492,15 @@
                 "de": "Kirche des Heiligen Hieronymus",
                 "hu": "Szent Jeromos templom",
                 "ro": "Biserica Sfântul Ieronim",
-                "en": "Church of Saint Jerome"
+                "en": "Church of Saint Jerome",
+                "hr": "Crkva sv. Jeronima"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Fresken aus dem 12. Jahrhundert auf dem Friedhof.",
                 "hu": "Csodálja meg a 12. századi freskókat a temetőben.",
                 "ro": "Admirați frescele din secolul al XII-lea din cimitir.",
-                "en": "Admire the 12th-century frescoes located in the cemetery."
+                "en": "Admire the 12th-century frescoes located in the cemetery.",
+                "hr": "Divite se freskama iz 12. stoljeća koje se nalaze na groblju."
               }
             },
             {
@@ -488,13 +508,15 @@
                 "de": "Aura Destillerie",
                 "hu": "Aura Lepárló",
                 "ro": "Distileria Aura",
-                "en": "Aura Distillery"
+                "en": "Aura Distillery",
+                "hr": "Destilerija Aura"
               },
               "tip_5lang": {
                 "de": "Verpassen Sie nicht die Verkostung des Biska-Schnapses.",
                 "hu": "Ne hagyja ki a biska pálinka kóstolását.",
                 "ro": "Nu ratați degustarea rachiului Biska.",
-                "en": "Don't miss a tasting of the Biska brandy."
+                "en": "Don't miss a tasting of the Biska brandy.",
+                "hr": "Ne propustite kušanje rakije Biska."
               }
             }
           ],
@@ -656,6 +678,12 @@
               "Park at the large parking lot before the city gate.",
               "The best time to visit is spring or autumn.",
               "Try the homemade soup at the local konoba."
+            ],
+            "hr": [
+              "Hum je vrlo mali, sve možete vidjeti za sat vremena, ali odvojite si vremena.",
+              "Parkirajte na velikom parkiralištu ispred gradske kapije.",
+              "Najbolje vrijeme za posjet je proljeće ili jesen.",
+              "Probajte domaću juhu u lokalnoj konobi."
             ]
           }
         },
@@ -665,7 +693,7 @@
             "hu": "Kezdje a napot a városkapunál, ahol a masszív falak védelmet nyújtanak az eső ellen. Délben a történelmi Loggia szolgál száraz pihenőhelyként. Délután a múzeumban és az Aura lepárló kóstolótermében talál menedéket a csapadék elől. Az estét töltse egy melengető fagyöngypálinka mellett, miközben odakint dobol az eső a macskaköveken.",
             "ro": "Începeți ziua la poarta orașului, unde zidurile masive oferă primul adăpost. La prânz, Loggia istorică servește ca refugiu uscat pentru o pauză. După-amiaza, evadați din ploaie în muzeu și la o degustare detaliată în distileria Aura. Seara, relaxați-vă cu un rachiul de vâsc încălzitor, în timp ce afară plouă peste drumurile de piatră.",
             "en": "Start your day at the city gate, where the massive walls provide initial shelter. At noon, the historic Loggia serves as a dry retreat for a break. In the afternoon, escape the rain in the museum and during a detailed tasting at the Aura distillery. Spend the evening cozying up with a warming mistletoe brandy while the rain drums on the cobblestones outside.",
-            "hr": "Započnite dan kod gradskih vrata, gdje masivni zidovi pružaju početni zaklon. U podne povijesna loža služi kao suho utočište za odmor. Poslijepodne pobjegnite od kiše u muzej i na detaljnu degustaciju u destileriju Aura. Provedite večer u ugodnom ambijentu uz toplu bisku dok kiša bubnja po kamenim ulicama."
+            "hr": "Započnite dan kod gradske kapije, gdje masivne zidine pružaju početni zaklon. U podne povijesna lođa služi kao suho mjesto za odmor. Popodne pobjegnite od kiše u muzej i tijekom detaljnog kušanja u destileriji Aura. Večer provedite uz toplu rakiju od imele dok kiša bubnja po kaldrmi vani."
           },
           "stops": [
             {
@@ -675,7 +703,7 @@
                 "hu": "Használja a kapualjat rövid menedékként.",
                 "ro": "Folosiți arcada porții ca adăpost scurt.",
                 "en": "Use the gate archway as a short shelter.",
-                "hr": "Iskoristite luk vrata kao kratki zaklon."
+                "hr": "Iskoristite luk kapije kao kratki zaklon."
               }
             },
             {
@@ -685,7 +713,7 @@
                 "hu": "A legjobb fedett hely a szabadban.",
                 "ro": "Cel mai bun loc acoperit în aer liber.",
                 "en": "The best covered spot outdoors.",
-                "hr": "Najbolje natkriveno mjesto na otvorenom."
+                "hr": "Najbolje pokriveno mjesto na otvorenom."
               }
             },
             {
@@ -695,7 +723,7 @@
                 "hu": "Vigyázat, a kőlépcsők nedvesen csúszósak.",
                 "ro": "Atenție, treptele de piatră sunt alunecoase.",
                 "en": "Caution, stone steps are slippery when wet.",
-                "hr": "Oprez, kamene stepenice su skliske kad su mokre."
+                "hr": "Pažnja, kameni stepenici su klizavi kad su mokri."
               }
             },
             {
@@ -715,7 +743,7 @@
                 "hu": "Tökéletes a leghevesebb eső kivárására.",
                 "ro": "Perfect pentru a aștepta trecerea ploii.",
                 "en": "Perfect for waiting out the heaviest rain.",
-                "hr": "Savršeno za čekanje da prođe najjača kiša."
+                "hr": "Savršeno za čekanje najjače kiše."
               }
             },
             {
@@ -735,7 +763,7 @@
                 "hu": "Élvezze a barátságos benti hangulatot.",
                 "ro": "Bucurați-vă de atmosfera primitoare din interior.",
                 "en": "Enjoy the cozy indoor atmosphere.",
-                "hr": "Uživajte u ugodnoj atmosferi u zatvorenom prostoru."
+                "hr": "Uživajte u ugodnoj unutarnjoj atmosferi."
               }
             }
           ],
@@ -765,10 +793,10 @@
               "The Loggia is the only wind-sheltered outdoor area."
             ],
             "hr": [
-              "Nosite obuću koja se ne kliže na mokrim kamenim ulicama.",
-              "Kišna kabanica je praktičnija od kišobrana na vjetru.",
-              "Odvojite više vremena za unutarnje atrakcije.",
-              "Loža je jedini vanjski prostor zaštićen od vjetra."
+              "Nosite obuću s protukliznim potplatom na mokroj kaldrmi.",
+              "Kišni ogrtač praktičniji je od kišobrana na vjetru.",
+              "Predvidite više vremena za unutarnje atrakcije.",
+              "Lođa je jedini vanjski prostor zaštićen od vjetra."
             ]
           }
         },
@@ -778,7 +806,7 @@
             "hu": "Tapasztalja meg Hum csendjét egy tiszta téli reggelen a városkapunál. Délben a Loggia kínál pihenőt, mielőtt a hideg átjárná a szűk utcákat. Délután a templomok és a múzeum falai között melegedhet fel. Mivel 16:30 körül sötétedik, a lepárló a tökéletes hely a nap közösségi lezárásához.",
             "ro": "Experimentați liniștea orașului Hum într-o dimineață senină de iarnă la poartă. La prânz, Loggia oferă un loc de odihnă înainte ca frigul să cuprindă străzile. După-amiaza, încălziți-vă în biserici și în muzeu. Deoarece se întunecă în jur de 16:30, distileria este locul perfect pentru o încheiere socială a zilei.",
             "en": "Experience the silence of Hum on a clear winter morning at the gate. At noon, the Loggia offers a place to rest before the cold creeps into the alleys. In the afternoon, warm up inside the churches and the museum. Since it gets dark around 16:30, the distillery is the perfect spot for a social conclusion to your day.",
-            "hr": "Doživite tišinu Huma u vedro zimsko jutro kod vrata. U podne loža nudi mjesto za odmor prije nego što se hladnoća uvuče u uličice. Poslijepodne se zagrijte u crkvama i muzeju. Budući da mrak pada oko 16:30, destilerija je savršeno mjesto za društveni završetak dana."
+            "hr": "Doživite tišinu Huma na vedro zimsko jutro kod kapije. U podne lođa nudi mjesto za odmor prije nego hladnoća prostruji u uličice. Popodne se ugrijte unutra u crkvama i muzeju. Budući da se oko 16:30 smrkava, destilerija je savršeno mjesto za društveni završetak dana."
           },
           "stops": [
             {
@@ -788,7 +816,7 @@
                 "hu": "A kövek tárolják a hideget, öltözzön melegen.",
                 "ro": "Pietrele rețin frigul, îmbrăcați-vă bine.",
                 "en": "The stones hold the cold, dress warmly.",
-                "hr": "Kamen zadržava hladnoću, toplo se obucite."
+                "hr": "Kamen drži hladnoću, obucite se toplo."
               }
             },
             {
@@ -808,7 +836,7 @@
                 "hu": "Csodás kilátás a tiszta téli levegőben.",
                 "ro": "Vedere panoramică superbă în aerul clar de iarnă.",
                 "en": "Magnificent views in the clear winter air.",
-                "hr": "Veličanstveni pogledi na čistom zimskom zraku."
+                "hr": "Veličanstveni pogledi u bistrom zimskom zraku."
               }
             },
             {
@@ -848,7 +876,7 @@
                 "hu": "Kóstolja meg a Biska pálinkát melegítésként.",
                 "ro": "Gustați rachiul Biska pentru a vă încălzi.",
                 "en": "Taste the Biska brandy to warm up.",
-                "hr": "Kušajte bisku kako biste se zagrijali."
+                "hr": "Kušajte rakiju Biska da se ugrijete."
               }
             }
           ],
@@ -878,10 +906,10 @@
               "Warm gloves are important for taking photos."
             ],
             "hr": [
-              "Ne podcjenjujte hladnu buru.",
-              "Mnogi mali kafići zimi rade kraće.",
+              "Ne potcjenjujte hladan bura vjetar.",
+              "Mnogi mali kafići imaju kraće radno vrijeme zimi.",
               "Iskoristite dnevno svjetlo do 16:00.",
-              "Tople rukavice su važne za fotografiranje."
+              "Tople rukavice važne su za fotografiranje."
             ]
           }
         }
@@ -900,7 +928,8 @@
             "de": "Glagolitische Allee",
             "hu": "Glagolita sugárút",
             "ro": "Aleea Glagolitică",
-            "en": "Glagolitic Alley"
+            "en": "Glagolitic Alley",
+            "hr": "Glagoljski put"
           },
           "coords": [
             14.035,
@@ -916,7 +945,7 @@
             "hu": "Tizenegy emlékmű a Roč és Hum közötti út mentén.",
             "ro": "Unsprezece monumente de-a lungul drumului de la Roč la Hum.",
             "en": "Eleven monuments along the road from Roč to Hum.",
-            "hr": "Jedanaest spomenika uz cestu od Roča do Huma."
+            "hr": "Jedanaest spomenika duž puta od Roča do Huma."
           }
         },
         {
@@ -924,7 +953,8 @@
             "de": "Stadttor von Hum",
             "hu": "Humi városkapu",
             "ro": "Poarta orașului Hum",
-            "en": "Hum City Gate"
+            "en": "Hum City Gate",
+            "hr": "Gradska kapija Huma"
           },
           "coords": [
             14.0492,
@@ -948,7 +978,8 @@
             "de": "Stadtloggia",
             "hu": "Városi loggia",
             "ro": "Loja orașului",
-            "en": "City Loggia"
+            "en": "City Loggia",
+            "hr": "Gradska lođa"
           },
           "coords": [
             14.0498,
@@ -964,7 +995,7 @@
             "hu": "Árnyas hely egy rövid pihenőhöz.",
             "ro": "Un loc umbros pentru o scurtă pauză.",
             "en": "A shaded spot for a short break.",
-            "hr": "Sjenovito mjesto za kratki odmor."
+            "hr": "Zasjenjeno mjesto za kratki odmor."
           }
         },
         {
@@ -972,7 +1003,8 @@
             "de": "Museum von Hum",
             "hu": "Humi Múzeum",
             "ro": "Muzeul din Hum",
-            "en": "Museum of Hum"
+            "en": "Museum of Hum",
+            "hr": "Muzej Huma"
           },
           "coords": [
             14.0508,
@@ -988,7 +1020,7 @@
             "hu": "Hűvös és informatív a forró napokon.",
             "ro": "Răcoros și informativ în zilele caniculare.",
             "en": "Cool and informative on hot days.",
-            "hr": "Hladno i informativno tijekom vrućih dana."
+            "hr": "Hladno i poučno za vruće dane."
           }
         },
         {
@@ -996,7 +1028,8 @@
             "de": "Aura Destillerie",
             "hu": "Aura Lepárló",
             "ro": "Distileria Aura",
-            "en": "Aura Distillery"
+            "en": "Aura Distillery",
+            "hr": "Destilerija Aura"
           },
           "coords": [
             14.05,
@@ -1012,7 +1045,7 @@
             "hu": "Vegyen egy kis üveggel későbbre.",
             "ro": "Cumpărați o sticluță pentru mai târziu.",
             "en": "Buy a small bottle for later.",
-            "hr": "Kupite malu bočicu za kasnije."
+            "hr": "Kupite malu bocu za kasnije."
           }
         },
         {
@@ -1020,7 +1053,8 @@
             "de": "Kirche des Heiligen Hieronymus",
             "hu": "Szent Jeromos templom",
             "ro": "Biserica Sfântul Ieronim",
-            "en": "Church of Saint Jerome"
+            "en": "Church of Saint Jerome",
+            "hr": "Crkva sv. Jeronima"
           },
           "coords": [
             14.0515,
@@ -1045,7 +1079,7 @@
         "hu": "Ez a kerékpártúra végigvezet a glagolita írás történetén. A Glagolita sugárúton tekerünk az impozáns kőszobrok mellett egészen Humban. A városban felfedezzük a kaput, a loggiát és a múzeumot. Az Aura lepárlóban tartott pihenő után meglátogatjuk a békés Szent Jeromos templomot, majd élvezzük a lejtős visszautat.",
         "ro": "Acest tur cu bicicleta vă poartă prin istoria scrierii glagolitice. Pedalăm de-a lungul Aleii Glagolitice cu statuile sale de piatră impresionante până la Hum. În oraș explorăm poarta, loja și muzeul. După o pauză la distileria Aura, vizităm biserica liniștită Sfântul Ieronim, înainte de a ne bucura de coborârea lină înapoi.",
         "en": "This bike tour takes you through the history of the Glagolitic script. We cycle along the Glagolitic Alley with its impressive stone statues to Hum. In town, we explore the gate, the loggia, and the museum. After a break at the Aura Distillery, we visit the peaceful Saint Jerome Church before enjoying the gentle ride back.",
-        "hr": "Ova biciklistička tura vodi vas kroz povijest glagoljice. Vozimo se Alejom glagoljaša s impresivnim kamenim spomenicima do Huma. U gradu istražujemo vrata, ložu i muzej. Nakon odmora u destileriji Aura, posjećujemo mirnu crkvu svetog Jeronima prije uživanja u laganoj vožnji natrag."
+        "hr": "Ova biciklistička tura vodi vas kroz povijest glagoljice. Vozimo se Glagoljskim putem s impresivnim kamenim kipovima prema Humu. U gradu istražujemo kapiju, lođu i muzej. Nakon pauze u destileriji Aura posjećujemo mirnu crkvu sv. Jeronima prije povratne lagane vožnje."
       },
       "gastro_picks": {
         "de": [
@@ -1175,9 +1209,9 @@
           "Take your time to explore the monuments along the way."
         ],
         "hr": [
-          "Ruta je brdovita, ali savladiva za prosječne bicikliste.",
-          "Pripazite na automobilski promet u Aleji.",
-          "Uzmite si vremena za istraživanje spomenika uz put."
+          "Ruta je brdovita, ali dostižna za prosječne bicikliste.",
+          "Pazite na automobilni promet na putu.",
+          "Odvojite vrijeme za istraživanje spomenika putem."
         ]
       },
       "variants": {
@@ -1186,7 +1220,8 @@
             "de": "Diese Radtour führt Sie durch die Geschichte der glagolitischen Schrift. Wir radeln entlang der Glagolitischen Allee mit ihren beeindruckenden Steinstatuen bis nach Hum. In der Stadt erkunden wir das Tor, die Loggia und das Museum. Nach einer Pause in der Aura-Destillerie besuchen wir die friedliche Hieronymus-Kirche, bevor wir die sanfte Abfahrt zurück genießen.",
             "hu": "Ez a kerékpártúra végigvezet a glagolita írás történetén. A Glagolita sugárúton tekerünk az impozáns kőszobrok mellett egészen Humban. A városban felfedezzük a kaput, a loggiát és a múzeumot. Az Aura lepárlóban tartott pihenő után meglátogatjuk a békés Szent Jeromos templomot, majd élvezzük a lejtős visszautat.",
             "ro": "Acest tur cu bicicleta vă poartă prin istoria scrierii glagolitice. Pedalăm de-a lungul Aleii Glagolitice cu statuile sale de piatră impresionante până la Hum. În oraș explorăm poarta, loja și muzeul. După o pauză la distileria Aura, vizităm biserica liniștită Sfântul Ieronim, înainte de a ne bucura de coborârea lină înapoi.",
-            "en": "This bike tour takes you through the history of the Glagolitic script. We cycle along the Glagolitic Alley with its impressive stone statues to Hum. In town, we explore the gate, the loggia, and the museum. After a break at the Aura Distillery, we visit the peaceful Saint Jerome Church before enjoying the gentle ride back."
+            "en": "This bike tour takes you through the history of the Glagolitic script. We cycle along the Glagolitic Alley with its impressive stone statues to Hum. In town, we explore the gate, the loggia, and the museum. After a break at the Aura Distillery, we visit the peaceful Saint Jerome Church before enjoying the gentle ride back.",
+            "hr": "Ova biciklistička tura vodi vas kroz povijest glagoljice. Vozimo se Glagoljskim putem s impresivnim kamenim kipovima prema Humu. U gradu istražujemo kapiju, lođu i muzej. Nakon pauze u destileriji Aura posjećujemo mirnu crkvu sv. Jeronima prije povratne lagane vožnje."
           },
           "stops": [
             {
@@ -1194,13 +1229,15 @@
                 "de": "Glagolitische Allee",
                 "hu": "Glagolita sugárút",
                 "ro": "Aleea Glagolitică",
-                "en": "Glagolitic Alley"
+                "en": "Glagolitic Alley",
+                "hr": "Glagoljski put"
               },
               "tip_5lang": {
                 "de": "Elf Denkmäler entlang der Straße von Roč nach Hum.",
                 "hu": "Tizenegy emlékmű a Roč és Hum közötti út mentén.",
                 "ro": "Unsprezece monumente de-a lungul drumului de la Roč la Hum.",
-                "en": "Eleven monuments along the road from Roč to Hum."
+                "en": "Eleven monuments along the road from Roč to Hum.",
+                "hr": "Jedanaest spomenika duž puta od Roča do Huma."
               }
             },
             {
@@ -1208,13 +1245,15 @@
                 "de": "Stadttor von Hum",
                 "hu": "Humi városkapu",
                 "ro": "Poarta orașului Hum",
-                "en": "Hum City Gate"
+                "en": "Hum City Gate",
+                "hr": "Gradska kapija Huma"
               },
               "tip_5lang": {
                 "de": "Stellen Sie Ihr Rad am Eingang ab.",
                 "hu": "Hagyja a kerékpárját a bejáratnál.",
                 "ro": "Lăsați bicicleta la intrare.",
-                "en": "Leave your bike at the entrance."
+                "en": "Leave your bike at the entrance.",
+                "hr": "Ostavite bicikl na ulazu."
               }
             },
             {
@@ -1222,13 +1261,15 @@
                 "de": "Stadtloggia",
                 "hu": "Városi loggia",
                 "ro": "Loja orașului",
-                "en": "City Loggia"
+                "en": "City Loggia",
+                "hr": "Gradska lođa"
               },
               "tip_5lang": {
                 "de": "Ein schattiger Platz für eine kurze Pause.",
                 "hu": "Árnyas hely egy rövid pihenőhöz.",
                 "ro": "Un loc umbros pentru o scurtă pauză.",
-                "en": "A shaded spot for a short break."
+                "en": "A shaded spot for a short break.",
+                "hr": "Zasjenjeno mjesto za kratki odmor."
               }
             },
             {
@@ -1236,13 +1277,15 @@
                 "de": "Museum von Hum",
                 "hu": "Humi Múzeum",
                 "ro": "Muzeul din Hum",
-                "en": "Museum of Hum"
+                "en": "Museum of Hum",
+                "hr": "Muzej Huma"
               },
               "tip_5lang": {
                 "de": "Kühl und informativ an heißen Tagen.",
                 "hu": "Hűvös és informatív a forró napokon.",
                 "ro": "Răcoros și informativ în zilele caniculare.",
-                "en": "Cool and informative on hot days."
+                "en": "Cool and informative on hot days.",
+                "hr": "Hladno i poučno za vruće dane."
               }
             },
             {
@@ -1250,13 +1293,15 @@
                 "de": "Aura Destillerie",
                 "hu": "Aura Lepárló",
                 "ro": "Distileria Aura",
-                "en": "Aura Distillery"
+                "en": "Aura Distillery",
+                "hr": "Destilerija Aura"
               },
               "tip_5lang": {
                 "de": "Kaufen Sie ein kleines Fläschchen für später.",
                 "hu": "Vegyen egy kis üveggel későbbre.",
                 "ro": "Cumpărați o sticluță pentru mai târziu.",
-                "en": "Buy a small bottle for later."
+                "en": "Buy a small bottle for later.",
+                "hr": "Kupite malu bocu za kasnije."
               }
             },
             {
@@ -1264,13 +1309,15 @@
                 "de": "Kirche des Heiligen Hieronymus",
                 "hu": "Szent Jeromos templom",
                 "ro": "Biserica Sfântul Ieronim",
-                "en": "Church of Saint Jerome"
+                "en": "Church of Saint Jerome",
+                "hr": "Crkva sv. Jeronima"
               },
               "tip_5lang": {
                 "de": "Ein friedlicher Abschluss der Tour.",
                 "hu": "A túra békés lezárása.",
                 "ro": "Un final liniștit al turului.",
-                "en": "A peaceful conclusion to the tour."
+                "en": "A peaceful conclusion to the tour.",
+                "hr": "Mirni završetak ture."
               }
             }
           ],
@@ -1381,6 +1428,11 @@
               "The route is hilly but manageable for average cyclists.",
               "Watch out for car traffic on the alley.",
               "Take your time to explore the monuments along the way."
+            ],
+            "hr": [
+              "Ruta je brdovita, ali dostižna za prosječne bicikliste.",
+              "Pazite na automobilni promet na putu.",
+              "Odvojite vrijeme za istraživanje spomenika putem."
             ]
           }
         },
@@ -1390,7 +1442,7 @@
             "hu": "A Glagolita sugárúton való tekerés ma teljes koncentrációt igényel a nedves aszfalton. Délben érkezik meg Hum-ba, ahol a Loggia alatt keres menedéket. A délutánt a múzeumban tölti és a lepárlóban melegszik fel. Este óvatosan induljon vissza, miközben a város fényei megcsillannak az esőben.",
             "ro": "Călătoria pe Aleea Glagolitică necesită astăzi concentrare maximă pe asfaltul ud. La prânz ajungeți în Hum și căutați adăpost sub Loggia. După-amiaza o petreceți în muzeu și vă încălziți la distilerie. Seara întoarceți-vă cu atenție, în timp ce luminile orașului lucesc în ploaie.",
             "en": "The ride through the Glagolitic Alley requires full concentration on the wet asphalt today. At noon, you reach Hum and seek shelter under the Loggia. Spend the afternoon in the museum and warm up at the distillery. Head back carefully in the evening as the city lights shimmer in the rain.",
-            "hr": "Vožnja Alejom glagoljaša danas zahtijeva punu koncentraciju na mokrom asfaltu. U podne stižete u Hum i tražite zaklon pod ložom. Provedite poslijepodne u muzeju i zagrijte se u destileriji. Vratite se pažljivo navečer dok gradska svjetla svjetlucaju na kiši."
+            "hr": "Vožnja kroz Glagoljski put danas zahtijeva punu koncentraciju na mokri asfalt. U podne stižete u Hum i tražite zaklon pod lođom. Popodne provedite u muzeju i ugrijte se u destileriji. Vratite se pažljivo navečer dok gradska svjetla sjaje na kiši."
           },
           "stops": [
             {
@@ -1400,7 +1452,7 @@
                 "hu": "Vigyázzon a tócsákra a kerékpárúton.",
                 "ro": "Atenție la bălțile de pe pista de biciclete.",
                 "en": "Watch out for puddles on the bike path.",
-                "hr": "Pripazite na lokve na biciklističkoj stazi."
+                "hr": "Pazite na lokve na biciklističkoj stazi."
               }
             },
             {
@@ -1410,7 +1462,7 @@
                 "hu": "Állítsa le a biciklit száraz helyre a kapunál.",
                 "ro": "Parcați bicicleta la loc uscat sub poartă.",
                 "en": "Park your bike in a dry spot under the gate.",
-                "hr": "Parkirajte bicikl na suhom mjestu ispod vrata."
+                "hr": "Parkirajte bicikl na suhom mjestu ispod kapije."
               }
             },
             {
@@ -1440,7 +1492,7 @@
                 "hu": "Gyűjtsön meleget a visszaút előtt.",
                 "ro": "Reîncărcați-vă cu căldură înainte de plecare.",
                 "en": "Warm up before the return trip.",
-                "hr": "Zagrijte se prije povratka."
+                "hr": "Ugrijte se prije povratka."
               }
             },
             {
@@ -1481,9 +1533,9 @@
             ],
             "hr": [
               "Provjerite kočnice prije polaska.",
-              "Nosite svijetlu kišnu opremu radi bolje vidljivosti.",
-              "Cesta do Huma može biti blatna.",
-              "Izbjegavajte nagle manevre na mokrim kamenim ulicama."
+              "Nosite reflektirajuću kišnu opremu za bolju vidljivost.",
+              "Put prema Humu može biti blatnjav.",
+              "Izbjegavajte nagle manevre po mokrim kaldrmama."
             ]
           }
         },
@@ -1493,7 +1545,7 @@
             "hu": "Deres reggel köszönti a Glagolita sugárúton, ahol a szobrok magányosan állnak a zúzmarában. Délben egy rövid szünet Hum-ban felmelegíti a végtagokat. Délután fedezze fel a világ legkisebb városának múzeumait és templomait. Este a visszaút a süllyedő hőmérsékletben sportos kihívás lesz.",
             "ro": "O dimineață geroasă vă întâmpină pe Aleea Glagolitică, unde sculpturile stau singure în promoroacă. La prânz, o scurtă pauză în Hum vă încălzește membrele. După-amiaza explorați muzeele și bisericile celui mai mic oraș. Seara, întoarcerea la temperaturi scăzute este o provocare sportivă.",
             "en": "A frosty morning greets you in the Glagolitic Alley, where sculptures stand lonely in the rime. At noon, a short break in Hum warms your limbs. In the afternoon, explore the museums and churches of the world's smallest city. In the evening, the ride back in dropping temperatures is a true athletic challenge.",
-            "hr": "Mrazno jutro pozdravlja vas u Aleji glagoljaša, gdje skulpture stoje usamljene u inju. U podne kratki odmor u Humu zagrijava udove. Poslijepodne istražite muzeje i crkve najmanjeg grada na svijetu. Navečer je povratna vožnja pri padu temperatura pravi sportski izazov."
+            "hr": "Mrazno jutro dočekuje vas u Glagoljaškoj aleji, gdje kipovi stoje usamljeni u poledici. U podne, kratka pauza u Humu vas ugrije. Popodne istražite muzeje i crkve svjetski najmanjeg grada. Navečer je povratak u padajućim temperaturama pravi atletski izazov."
           },
           "stops": [
             {
@@ -1503,7 +1555,7 @@
                 "hu": "Vigyázzon a lefagyott útszakaszokra.",
                 "ro": "Atenție la porțiunile de drum înghețate.",
                 "en": "Beware of black ice on the path.",
-                "hr": "Čuvajte se poledice na stazi."
+                "hr": "Pazite na crni led na stazi."
               }
             },
             {
@@ -1523,7 +1575,7 @@
                 "hu": "Rövid pihenő a szélárnyékban.",
                 "ro": "Scurtă odihnă la adăpost de vânt.",
                 "en": "Short rest in the lee of the wind.",
-                "hr": "Kratki odmor u zavjetrini."
+                "hr": "Kratki odmor u zaklonu od vjetra."
               }
             },
             {
@@ -1533,7 +1585,7 @@
                 "hu": "A legmelegebb hely egy hosszabb pihenőhöz.",
                 "ro": "Cel mai cald loc pentru o pauză lungă.",
                 "en": "The warmest spot for a longer break.",
-                "hr": "Najtoplije mjesto za duži odmor."
+                "hr": "Najtoplije mjesto za dulju pauzu."
               }
             },
             {
@@ -1543,7 +1595,7 @@
                 "hu": "Vegyen pálinkát szuvenírnek az estére.",
                 "ro": "Cumpărați rachiu ca suvenir pentru seară.",
                 "en": "Buy some brandy as a souvenir for the evening.",
-                "hr": "Kupite rakiju kao suvenir za večer."
+                "hr": "Kupite malo rakije za suvenir za večer."
               }
             },
             {
@@ -1553,7 +1605,7 @@
                 "hu": "A kilátás naplementekor varázslatos.",
                 "ro": "Vederea la apus este magică.",
                 "en": "The view at sunset is magical.",
-                "hr": "Pogled u zalazak sunca je čaroban."
+                "hr": "Pogled pri zalasku sunca je čaroban."
               }
             }
           ],
@@ -1584,9 +1636,9 @@
             ],
             "hr": [
               "Zimske rukavice su neophodne za biciklizam.",
-              "Pazite na kratak period dnevnog svjetla.",
-              "Termosica s toplim napitkom će vas zagrijati.",
-              "Ceste mjestimice mogu biti skliske."
+              "Pazite na kratak prozor dnevnog svjetla.",
+              "Termos s toplim napitkom održat će vas toplima.",
+              "Ceste mogu biti skliske na mjestima."
             ]
           }
         }
@@ -1605,7 +1657,8 @@
             "de": "Kotli (Wasserfälle)",
             "hu": "Kotli vízesések",
             "ro": "Cascadele Kotli",
-            "en": "Kotli (Waterfalls)"
+            "en": "Kotli (Waterfalls)",
+            "hr": "Kotli (Vodopadi)"
           },
           "coords": [
             14.015,
@@ -1621,7 +1674,7 @@
             "hu": "Elhagyatott falu természetes sziklamedencékkel a folyóban.",
             "ro": "Un sat părăsit cu piscine naturale în stâncă în albia râului.",
             "en": "An abandoned village with natural rock pools in the river.",
-            "hr": "Napušteno selo s prirodnim kamenim bazenima u rijeci."
+            "hr": "Napušteno selo s prirodnim bazenima u rijeci."
           }
         },
         {
@@ -1629,7 +1682,8 @@
             "de": "Glagolitische Allee",
             "hu": "Glagolita sugárút",
             "ro": "Aleea Glagolitică",
-            "en": "Glagolitic Alley"
+            "en": "Glagolitic Alley",
+            "hr": "Glagoljaška aleja"
           },
           "coords": [
             14.035,
@@ -1645,7 +1699,7 @@
             "hu": "Álljon meg a legfontosabb szobroknál fotózni.",
             "ro": "Opriți la cele mai importante statui pentru fotografii.",
             "en": "Stop at the most important statues for photos.",
-            "hr": "Zaustavite se kod najvažnijih spomenika radi fotografiranja."
+            "hr": "Stajte kraj najvažnijih kipova za fotografije."
           }
         },
         {
@@ -1653,7 +1707,8 @@
             "de": "Stadttor von Hum",
             "hu": "Humi városkapu",
             "ro": "Poarta orașului Hum",
-            "en": "Hum City Gate"
+            "en": "Hum City Gate",
+            "hr": "Gradska vrata Huma"
           },
           "coords": [
             14.0492,
@@ -1677,7 +1732,8 @@
             "de": "Pfarrkirche Mariä Himmelfahrt",
             "hu": "Mária mennybevétele plébániatemplom",
             "ro": "Biserica parohială Adormirea Maicii Domnului",
-            "en": "Parish Church of the Assumption"
+            "en": "Parish Church of the Assumption",
+            "hr": "Župna crkva Uznesenja"
           },
           "coords": [
             14.0505,
@@ -1693,7 +1749,7 @@
             "hu": "A pompás belső tér megtekintése.",
             "ro": "Vizitarea interiorului splendid.",
             "en": "Visit the magnificent interior.",
-            "hr": "Posjetite veličanstvenu unutrašnjost."
+            "hr": "Posjetite veličanstveni interijer."
           }
         },
         {
@@ -1701,7 +1757,8 @@
             "de": "Aura Destillerie",
             "hu": "Aura Lepárló",
             "ro": "Distileria Aura",
-            "en": "Aura Distillery"
+            "en": "Aura Distillery",
+            "hr": "Destilerija Aura"
           },
           "coords": [
             14.05,
@@ -1717,7 +1774,7 @@
             "hu": "Ideális minőségi ajándékok vásárlásához.",
             "ro": "Ideal pentru cumpărarea unor cadouri de calitate.",
             "en": "Ideal for buying high-quality gifts.",
-            "hr": "Idealno za kupnju visokokvalitetnih poklona."
+            "hr": "Idealno za kupnju kvalitetnih poklona."
           }
         },
         {
@@ -1725,7 +1782,8 @@
             "de": "Städtischer Glockenturm",
             "hu": "Városi harangtorony",
             "ro": "Turnul clopotniță al orașului",
-            "en": "City Bell Tower"
+            "en": "City Bell Tower",
+            "hr": "Gradski zvonik"
           },
           "coords": [
             14.0502,
@@ -1741,7 +1799,7 @@
             "hu": "Utolsó pillantás Hum háztetőire.",
             "ro": "O ultimă privire peste acoperișurile din Hum.",
             "en": "A final look over the rooftops of Hum.",
-            "hr": "Završni pogled preko krovova Huma."
+            "hr": "Zadnji pogled preko krovova Huma."
           }
         }
       ],
@@ -1750,7 +1808,7 @@
         "hu": "Autóval fedezzük fel Hum környékének rejtett gyöngyszemeit. A festői Kotliban kezdünk a vízeséseknél, majd a Glagolita sugárúton át érkezünk Humba. Itt megnézzük a városkaput, a pompás plébániatemplomot és megkóstoljuk a helyi különlegességeket az Aura lepárlóban. A nap a történelmi harangtoronyból nyíló kilátással zárul a világ legkisebb városára.",
         "ro": "Cu mașina explorăm bijuteriile ascunse din jurul orașului Hum. Începem la pitorescul Kotli cu cascadele sale, apoi conducem pe Aleea Glagolitică până la Hum. Acolo vizităm poarta orașului, biserica parohială splendidă și degustăm specialități locale la distileria Aura. Ziua se încheie cu o vedere de la turnul clopotniță istoric peste cel mai mic oraș din lume.",
         "en": "By car, we explore the hidden gems around Hum. We start at the picturesque Kotli with its waterfalls, then drive along the Glagolitic Alley to reach Hum. There, we visit the city gate, the magnificent parish church, and taste local specialties at the Aura Distillery. The day ends with a view from the historic bell tower over the smallest town in the world.",
-        "hr": "Automobilom istražujemo skrivene dragulje oko Huma. Počinjemo kod slikovitih Kotli s njihovim slapovima, zatim se vozimo Alejom glagoljaša do Huma. Tamo posjećujemo gradska vrata, veličanstvenu župnu crkvu i kušamo lokalne specijalitete u destileriji Aura. Dan završava pogledom s povijesnog zvonika na najmanji grad na svijetu."
+        "hr": "Autom istražujemo skrivene dragulje oko Huma. Krećemo od slikovitih Kotli s vodopadima, zatim vozimo Glagoljaškom alejom do Huma. Tamo posjećujemo gradska vrata, veličanstvenu župnu crkvu i kušamo lokalne specijalitete u destileriji Aura. Dan završava pogledom s povijesnog zvonika na najmanji grad na svijetu."
       },
       "gastro_picks": {
         "de": [
@@ -1875,9 +1933,9 @@
           "Combine your visit with a detour to the town of Roč."
         ],
         "hr": [
-          "Cesta do Kotli je uska i vijugava.",
-          "Parkiranje unutar Huma je ograničeno, stoga koristite vanjsko parkiralište.",
-          "Kombinirajte posjet s izletom u gradić Roč."
+          "Put do Kotli je uzak i vijugav.",
+          "Parkiranje unutar Huma je ograničeno, pa koristite vanjski parking.",
+          "Kombinirajte posjet kratkom zaobilaznicom do mjesta Roč."
         ]
       },
       "variants": {
@@ -1886,7 +1944,8 @@
             "de": "Mit dem Auto erkunden wir die versteckten Juwelen um Hum. Wir beginnen am malerischen Kotli mit seinen Wasserfällen, fahren dann die Glagolitische Allee entlang und erreichen Hum. Dort besichtigen wir das Stadttor, die prächtige Pfarrkirche und probieren lokale Spezialitäten in der Aura-Destillerie. Der Tag endet mit einem Blick vom historischen Glockenturm über die kleinste Stadt der Welt.",
             "hu": "Autóval fedezzük fel Hum környékének rejtett gyöngyszemeit. A festői Kotliban kezdünk a vízeséseknél, majd a Glagolita sugárúton át érkezünk Humba. Itt megnézzük a városkaput, a pompás plébániatemplomot és megkóstoljuk a helyi különlegességeket az Aura lepárlóban. A nap a történelmi harangtoronyból nyíló kilátással zárul a világ legkisebb városára.",
             "ro": "Cu mașina explorăm bijuteriile ascunse din jurul orașului Hum. Începem la pitorescul Kotli cu cascadele sale, apoi conducem pe Aleea Glagolitică până la Hum. Acolo vizităm poarta orașului, biserica parohială splendidă și degustăm specialități locale la distileria Aura. Ziua se încheie cu o vedere de la turnul clopotniță istoric peste cel mai mic oraș din lume.",
-            "en": "By car, we explore the hidden gems around Hum. We start at the picturesque Kotli with its waterfalls, then drive along the Glagolitic Alley to reach Hum. There, we visit the city gate, the magnificent parish church, and taste local specialties at the Aura Distillery. The day ends with a view from the historic bell tower over the smallest town in the world."
+            "en": "By car, we explore the hidden gems around Hum. We start at the picturesque Kotli with its waterfalls, then drive along the Glagolitic Alley to reach Hum. There, we visit the city gate, the magnificent parish church, and taste local specialties at the Aura Distillery. The day ends with a view from the historic bell tower over the smallest town in the world.",
+            "hr": "Autom istražujemo skrivene dragulje oko Huma. Krećemo od slikovitih Kotli s vodopadima, zatim vozimo Glagoljaškom alejom do Huma. Tamo posjećujemo gradska vrata, veličanstvenu župnu crkvu i kušamo lokalne specijalitete u destileriji Aura. Dan završava pogledom s povijesnog zvonika na najmanji grad na svijetu."
           },
           "stops": [
             {
@@ -1894,13 +1953,15 @@
                 "de": "Kotli (Wasserfälle)",
                 "hu": "Kotli vízesések",
                 "ro": "Cascadele Kotli",
-                "en": "Kotli (Waterfalls)"
+                "en": "Kotli (Waterfalls)",
+                "hr": "Kotli (Vodopadi)"
               },
               "tip_5lang": {
                 "de": "Ein verlassenes Dorf mit natürlichen Felsenpools im Fluss.",
                 "hu": "Elhagyatott falu természetes sziklamedencékkel a folyóban.",
                 "ro": "Un sat părăsit cu piscine naturale în stâncă în albia râului.",
-                "en": "An abandoned village with natural rock pools in the river."
+                "en": "An abandoned village with natural rock pools in the river.",
+                "hr": "Napušteno selo s prirodnim bazenima u rijeci."
               }
             },
             {
@@ -1908,13 +1969,15 @@
                 "de": "Glagolitische Allee",
                 "hu": "Glagolita sugárút",
                 "ro": "Aleea Glagolitică",
-                "en": "Glagolitic Alley"
+                "en": "Glagolitic Alley",
+                "hr": "Glagoljaška aleja"
               },
               "tip_5lang": {
                 "de": "Halten Sie an den wichtigsten Statuen für Fotos.",
                 "hu": "Álljon meg a legfontosabb szobroknál fotózni.",
                 "ro": "Opriți la cele mai importante statui pentru fotografii.",
-                "en": "Stop at the most important statues for photos."
+                "en": "Stop at the most important statues for photos.",
+                "hr": "Stajte kraj najvažnijih kipova za fotografije."
               }
             },
             {
@@ -1922,13 +1985,15 @@
                 "de": "Stadttor von Hum",
                 "hu": "Humi városkapu",
                 "ro": "Poarta orașului Hum",
-                "en": "Hum City Gate"
+                "en": "Hum City Gate",
+                "hr": "Gradska vrata Huma"
               },
               "tip_5lang": {
                 "de": "Parkplatz direkt am Stadteingang.",
                 "hu": "Parkoló közvetlenül a város bejáratánál.",
                 "ro": "Parcare chiar la intrarea în oraș.",
-                "en": "Parking is available right at the city entrance."
+                "en": "Parking is available right at the city entrance.",
+                "hr": "Parkiranje je dostupno odmah na ulazu u grad."
               }
             },
             {
@@ -1936,13 +2001,15 @@
                 "de": "Pfarrkirche Mariä Himmelfahrt",
                 "hu": "Mária mennybevétele plébániatemplom",
                 "ro": "Biserica parohială Adormirea Maicii Domnului",
-                "en": "Parish Church of the Assumption"
+                "en": "Parish Church of the Assumption",
+                "hr": "Župna crkva Uznesenja"
               },
               "tip_5lang": {
                 "de": "Besichtigung des prächtigen Interieurs.",
                 "hu": "A pompás belső tér megtekintése.",
                 "ro": "Vizitarea interiorului splendid.",
-                "en": "Visit the magnificent interior."
+                "en": "Visit the magnificent interior.",
+                "hr": "Posjetite veličanstveni interijer."
               }
             },
             {
@@ -1950,13 +2017,15 @@
                 "de": "Aura Destillerie",
                 "hu": "Aura Lepárló",
                 "ro": "Distileria Aura",
-                "en": "Aura Distillery"
+                "en": "Aura Distillery",
+                "hr": "Destilerija Aura"
               },
               "tip_5lang": {
                 "de": "Ideal für den Kauf von hochwertigen Geschenken.",
                 "hu": "Ideális minőségi ajándékok vásárlásához.",
                 "ro": "Ideal pentru cumpărarea unor cadouri de calitate.",
-                "en": "Ideal for buying high-quality gifts."
+                "en": "Ideal for buying high-quality gifts.",
+                "hr": "Idealno za kupnju kvalitetnih poklona."
               }
             },
             {
@@ -1964,13 +2033,15 @@
                 "de": "Städtischer Glockenturm",
                 "hu": "Városi harangtorony",
                 "ro": "Turnul clopotniță al orașului",
-                "en": "City Bell Tower"
+                "en": "City Bell Tower",
+                "hr": "Gradski zvonik"
               },
               "tip_5lang": {
                 "de": "Ein letzter Blick über die Dächer von Hum.",
                 "hu": "Utolsó pillantás Hum háztetőire.",
                 "ro": "O ultimă privire peste acoperișurile din Hum.",
-                "en": "A final look over the rooftops of Hum."
+                "en": "A final look over the rooftops of Hum.",
+                "hr": "Zadnji pogled preko krovova Huma."
               }
             }
           ],
@@ -2076,6 +2147,11 @@
               "The road to Kotli is narrow and winding.",
               "Parking inside Hum is limited, so use the outer parking lot.",
               "Combine your visit with a detour to the town of Roč."
+            ],
+            "hr": [
+              "Put do Kotli je uzak i vijugav.",
+              "Parkiranje unutar Huma je ograničeno, pa koristite vanjski parking.",
+              "Kombinirajte posjet kratkom zaobilaznicom do mjesta Roč."
             ]
           }
         },
@@ -2085,7 +2161,7 @@
             "hu": "A Kotli-vízesések esőben a legvadabb arcukat mutatják. Délben kényelmesen autózzon át a Glagolita sugárúton Hum-ba. Délután fedezze fel a templomokat és a lepárlót, miközben az eső kopog a szélvédőn. Este élvezze az autó kényelmét a kanyargós visszaúton.",
             "ro": "Cascadele din Kotli își arată latura sălbatică pe ploaie. La prânz, conduceți relaxat prin Aleea Glagolitică spre Hum. După-amiazza explorați bisericile și distileria, în timp ce ploaia bate în parbriz. Seara, bucurați-vă de confortul mașinii pe drumul de întoarcere.",
             "en": "The Kotli waterfalls show their wildest side in the rain. At noon, take a relaxed drive through the Glagolitic Alley to Hum. In the afternoon, explore the churches and the distillery while the rain drums on the windshield. In the evening, enjoy the comfort of your car on the winding return trip.",
-            "hr": "Slapovi u Kotlima pokazuju svoju najdivljiju stranu na kiši. U podne lagano vozite Alejom glagoljaša do Huma. Poslijepodne istražite crkve i destileriju dok kiša bubnja po vjetrobranskom staklu. Navečer uživajte u udobnosti automobila na vijugavom povratku."
+            "hr": "Vodopadi Kotli pokazuju svoju najdivlju stranu po kiši. U podne napravite opuštenu vožnju kroz Glagoljašku aleju do Huma. Popodne istražite crkve i destileriju dok kiša bubnja po vjetrobranu. Navečer uživajte u udobnosti vašeg automobila na vijugavom povratku."
           },
           "stops": [
             {
@@ -2095,7 +2171,7 @@
                 "hu": "Vigyázzon a csúszós folyóparton.",
                 "ro": "Atenție la malurile alunecoase ale râului.",
                 "en": "Caution on the slippery riverbanks.",
-                "hr": "Oprez na skliskim obalama rijeke."
+                "hr": "Opasnost na skliskim obalama rijeke."
               }
             },
             {
@@ -2105,7 +2181,7 @@
                 "hu": "Nézze meg az emlékműveket az autóból.",
                 "ro": "Admirați monumentele din mașină.",
                 "en": "View the monuments from the car.",
-                "hr": "Razgledajte spomenike iz automobila."
+                "hr": "Pogledajte spomenike iz automobila."
               }
             },
             {
@@ -2115,7 +2191,7 @@
                 "hu": "Parkoljon közel a bejárathoz.",
                 "ro": "Parcați aproape de intrare.",
                 "en": "Park close to the entrance area.",
-                "hr": "Parkirajte blizu ulaznog prostora."
+                "hr": "Parkirajte blizu ulaznog područja."
               }
             },
             {
@@ -2125,7 +2201,7 @@
                 "hu": "Ideális hely az esőszünethez.",
                 "ro": "Un loc ideal pentru o pauză de ploaie.",
                 "en": "An ideal spot for a rain break.",
-                "hr": "Idealno mjesto za pauzu od kiše."
+                "hr": "Idealno mjesto za pauzu tijekom kiše."
               }
             },
             {
@@ -2135,7 +2211,7 @@
                 "hu": "Ne feledje a zéró tolerancia szabályt.",
                 "ro": "Nu uitați de limita de 0,0 la sută.",
                 "en": "Remember the zero-tolerance limit.",
-                "hr": "Sjetite se ograničenja nulte tolerancije na alkohol."
+                "hr": "Sjetite se nulte tolerancije."
               }
             },
             {
@@ -2145,7 +2221,7 @@
                 "hu": "A legjobb kilátás az esős völgyre.",
                 "ro": "Cea mai bună vedere asupra văii ploioase.",
                 "en": "Best view of the rainy valley.",
-                "hr": "Najbolji pogled na kišnu dolinu."
+                "hr": "Najbolji pogled na kišni krajolik doline."
               }
             }
           ],
@@ -2175,10 +2251,10 @@
               "The road to Kotli is very narrow in places."
             ],
             "hr": [
-              "Uske ceste mogu biti nezgodne kad su mokre.",
-              "Izbjegavajte parkiranje na neasfaltiranom terenu.",
-              "Uključite oborena svjetla u slučaju magle.",
-              "Cesta do Kotli je na mjestima vrlo uska."
+              "Užljebljene ceste mogu biti nezgodne kad su mokre.",
+              "Izbjegavajte parkiranje na neasfaltiranom tlu.",
+              "Uključite kratka svjetla u slučaju magle.",
+              "Put do Kotli je na nekim mjestima vrlo uzak."
             ]
           }
         },
@@ -2188,7 +2264,7 @@
             "hu": "Deres téli nap kezdődik Kotli festői romjai között. Délben az út a glagolita emlékművek mellett vezet Hum-ba. Délután melegedjen fel a plébániatemplomban és élvezze a kilátást a harangtoronyból. Este a lepárló ajándékokat kínál, mielőtt a fűtött autóban hazaindulna.",
             "ro": "O zi geroasă de iarnă începe la ruinele pitorești din Kotli. La prânz, drumul trece pe lângă monumentele glagolitice spre Hum. După-amiaza încălziți-vă în biserică și admirați vederea din turn. Seara, distileria oferă specialități la pachet înainte de drumul spre casă.",
             "en": "A frosty winter day begins among the picturesque ruins of Kotli. At noon, the drive leads past the Glagolitic monuments to Hum. In the afternoon, warm up in the parish church and enjoy the view from the bell tower. In the evening, the distillery offers specialties to take home before you drive back in your heated car.",
-            "hr": "Mrazni zimski dan počinje među slikovitim ruševinama Kotli. U podne vožnja vodi pored glagoljaških spomenika do Huma. Poslijepodne se zagrijte u župnoj crkvi i uživajte u pogledu sa zvonika. Navečer destilerija nudi specijalitete za ponijeti kući prije povratka u zagrijanom automobilu."
+            "hr": "Mrazni zimski dan započinje među slikovitim ruševinama Kotli. U podne vožnja vodi pokraj glagoljaških spomenika do Huma. Popodne se ugrijte u župnoj crkvi i uživajte u pogledu sa zvonika. Navečer destilerija nudi specijalitete za ponijeti prije povratka u vaš grijani auto."
           },
           "stops": [
             {
@@ -2198,7 +2274,7 @@
                 "hu": "A víz télen helyenként befagyhat.",
                 "ro": "Apa poate îngheța parțial iarna.",
                 "en": "The water can partially freeze in winter.",
-                "hr": "Voda se zimi može djelomično zalediti."
+                "hr": "Voda se zimi može djelomično zalijediti."
               }
             },
             {
@@ -2208,7 +2284,7 @@
                 "hu": "Az emlékművek déresen különösen szépek.",
                 "ro": "Monumentele par superbe acoperite de brumă.",
                 "en": "The monuments look especially beautiful in the frost.",
-                "hr": "Spomenici izgledaju posebno lijepo na mrazu."
+                "hr": "Spomenici su posebno lijepi u mrazu."
               }
             },
             {
@@ -2218,7 +2294,7 @@
                 "hu": "Télen bőven van parkolóhely.",
                 "ro": "Locurile de parcare sunt suficiente iarna.",
                 "en": "Parking spaces are plentiful in winter.",
-                "hr": "Parkirnih mjesta zimi ima napretek."
+                "hr": "Parkirna mjesta su u zimskom razdoblju obilna."
               }
             },
             {
@@ -2228,7 +2304,7 @@
                 "hu": "A templomfalak mögött nincs szél.",
                 "ro": "După zidurile bisericii este adăpost.",
                 "en": "It is windless behind the church walls.",
-                "hr": "Iza crkvenih zidova nema vjetra."
+                "hr": "Iza crkvenih zidina nema vjetra."
               }
             },
             {
@@ -2279,9 +2355,9 @@
             ],
             "hr": [
               "Zimske gume su obavezne na planinskim cestama.",
-              "Provjerite tekućinu protiv smrzavanja u peraču stakla.",
-              "Sjenovite doline dugo ostaju zaleđene.",
-              "Uzmite deku za pauze na otvorenom."
+              "Provjerite antifriz u tekućini za pranje vjetrobrana.",
+              "Zasjenjene doline dugo ostaju poledene.",
+              "Ponesite deku za pauze na otvorenom."
             ]
           }
         }
@@ -2300,7 +2376,8 @@
             "de": "Roč Bahnhof/Zentrum",
             "hu": "Roč állomás/központ",
             "ro": "Gara/Centrul Roč",
-            "en": "Roč Station/Center"
+            "en": "Roč Station/Center",
+            "hr": "Željeznička postaja/Centar Roč"
           },
           "coords": [
             14.048,
@@ -2324,7 +2401,8 @@
             "de": "Glagolitische Allee",
             "hu": "Glagolita sugárút",
             "ro": "Aleea Glagolitică",
-            "en": "Glagolitic Alley"
+            "en": "Glagolitic Alley",
+            "hr": "Glagoljaška aleja"
           },
           "coords": [
             14.035,
@@ -2348,7 +2426,8 @@
             "de": "Stadttor von Hum",
             "hu": "Humi városkapu",
             "ro": "Poarta orașului Hum",
-            "en": "Hum City Gate"
+            "en": "Hum City Gate",
+            "hr": "Gradska vrata Huma"
           },
           "coords": [
             14.0492,
@@ -2372,7 +2451,8 @@
             "de": "Museum von Hum",
             "hu": "Humi Múzeum",
             "ro": "Muzeul din Hum",
-            "en": "Museum of Hum"
+            "en": "Museum of Hum",
+            "hr": "Muzej Huma"
           },
           "coords": [
             14.0508,
@@ -2388,7 +2468,7 @@
             "hu": "Történelemkedvelőknek kötelező látnivaló.",
             "ro": "O necesitate pentru pasionații de istorie.",
             "en": "A must-see for history buffs.",
-            "hr": "Obavezno mjesto za ljubitelje povijesti."
+            "hr": "Obavezno za zaljubljenike u povijest."
           }
         },
         {
@@ -2396,7 +2476,8 @@
             "de": "Aura Destillerie",
             "hu": "Aura Lepárló",
             "ro": "Distileria Aura",
-            "en": "Aura Distillery"
+            "en": "Aura Distillery",
+            "hr": "Destilerija Aura"
           },
           "coords": [
             14.05,
@@ -2421,7 +2502,7 @@
         "hu": "Utazzon tömegközlekedéssel Ročból Humba. A történelmi Ročból indulva a Glagolita sugárút mentén haladunk Hum városfalaihoz. Itt megnézzük a kaput és a múzeumot, majd egy kóstolóval lazítunk az Aura lepárlóban. A busz kényelmesen visszavisz minket a kiindulópontra.",
         "ro": "Călătoriți cu mijloacele de transport public de la Roč la Hum. După plecarea din istoricul Roč, mergem de-a lungul Aleii Glagolitice și ajungem la zidurile orașului Hum. Acolo vizităm poarta și muzeul, înainte de a ne relaxa cu o degustare la distileria Aura. Autobuzul ne va duce confortabil înapoi la punctul de plecare.",
         "en": "Travel by public transport from Roč to Hum. After starting in historic Roč, we travel along the Glagolitic Alley to reach the city walls of Hum. There, we visit the gate and the museum before relaxing with a tasting at the Aura Distillery. The bus will take us comfortably back to our starting point.",
-        "hr": "Putujte javnim prijevozom od Roča do Huma. Nakon polaska iz povijesnog Roča, putujemo Alejom glagoljaša do gradskih zidina Huma. Tamo posjećujemo vrata i muzej prije opuštanja uz degustaciju u destileriji Aura. Autobus će nas udobno vratiti do polazišta."
+        "hr": "Putujte javnim prijevozom iz Roča do Huma. Nakon polaska u povijesnom Roču putujemo Glagoljaškom alejom do gradskih zidina Huma. Tamo posjećujemo vrata i muzej prije opuštanja uz kušanje u destileriji Aura. Autobus nas udobno vraća natrag do polazišta."
       },
       "gastro_picks": {
         "de": [
@@ -2546,9 +2627,9 @@
           "The trip takes only about 10-15 minutes."
         ],
         "hr": [
-          "Autobusi između Roča i Huma voze rijetko, stoga unaprijed provjerite vozni red.",
-          "U jeku sezone često su dostupni turistički shuttle autobusi.",
-          "Putovanje traje samo oko 10-15 minuta."
+          "Autobusi između Roča i Huma voze rijetko, pa provjerite vozni red unaprijed.",
+          "U visokoj sezoni često su dostupni turistički shuttle autobusi.",
+          "Putovanje traje samo oko 10–15 minuta."
         ]
       },
       "variants": {
@@ -2557,7 +2638,8 @@
             "de": "Reisen Sie mit öffentlichen Verkehrsmitteln von Roč nach Hum. Nach dem Start im historischen Roč fahren wir entlang der Glagolitischen Allee und erreichen die Stadtmauern von Hum. Dort besichtigen wir das Tor und das Museum, bevor wir uns bei einer Verkostung in der Aura-Destillerie entspannen. Der Bus bringt uns bequem zurück zum Ausgangspunkt.",
             "hu": "Utazzon tömegközlekedéssel Ročból Humba. A történelmi Ročból indulva a Glagolita sugárút mentén haladunk Hum városfalaihoz. Itt megnézzük a kaput és a múzeumot, majd egy kóstolóval lazítunk az Aura lepárlóban. A busz kényelmesen visszavisz minket a kiindulópontra.",
             "ro": "Călătoriți cu mijloacele de transport public de la Roč la Hum. După plecarea din istoricul Roč, mergem de-a lungul Aleii Glagolitice și ajungem la zidurile orașului Hum. Acolo vizităm poarta și muzeul, înainte de a ne relaxa cu o degustare la distileria Aura. Autobuzul ne va duce confortabil înapoi la punctul de plecare.",
-            "en": "Travel by public transport from Roč to Hum. After starting in historic Roč, we travel along the Glagolitic Alley to reach the city walls of Hum. There, we visit the gate and the museum before relaxing with a tasting at the Aura Distillery. The bus will take us comfortably back to our starting point."
+            "en": "Travel by public transport from Roč to Hum. After starting in historic Roč, we travel along the Glagolitic Alley to reach the city walls of Hum. There, we visit the gate and the museum before relaxing with a tasting at the Aura Distillery. The bus will take us comfortably back to our starting point.",
+            "hr": "Putujte javnim prijevozom iz Roča do Huma. Nakon polaska u povijesnom Roču putujemo Glagoljaškom alejom do gradskih zidina Huma. Tamo posjećujemo vrata i muzej prije opuštanja uz kušanje u destileriji Aura. Autobus nas udobno vraća natrag do polazišta."
           },
           "stops": [
             {
@@ -2565,13 +2647,15 @@
                 "de": "Roč Bahnhof/Zentrum",
                 "hu": "Roč állomás/központ",
                 "ro": "Gara/Centrul Roč",
-                "en": "Roč Station/Center"
+                "en": "Roč Station/Center",
+                "hr": "Željeznička postaja/Centar Roč"
               },
               "tip_5lang": {
                 "de": "Startpunkt für den Transport nach Hum.",
                 "hu": "Kiindulópont a Humba tartó közlekedéshez.",
                 "ro": "Punct de plecare pentru transportul spre Hum.",
-                "en": "Starting point for transportation to Hum."
+                "en": "Starting point for transportation to Hum.",
+                "hr": "Polazna točka za prijevoz do Huma."
               }
             },
             {
@@ -2579,13 +2663,15 @@
                 "de": "Glagolitische Allee",
                 "hu": "Glagolita sugárút",
                 "ro": "Aleea Glagolitică",
-                "en": "Glagolitic Alley"
+                "en": "Glagolitic Alley",
+                "hr": "Glagoljaška aleja"
               },
               "tip_5lang": {
                 "de": "Einige Busse halten direkt an den Monumenten.",
                 "hu": "Néhány busz közvetlenül az emlékműveknél is megáll.",
                 "ro": "Unele autobuze opresc chiar lângă monumente.",
-                "en": "Some buses stop directly at the monuments."
+                "en": "Some buses stop directly at the monuments.",
+                "hr": "Neki autobusi staju izravno kod spomenika."
               }
             },
             {
@@ -2593,13 +2679,15 @@
                 "de": "Stadttor von Hum",
                 "hu": "Humi városkapu",
                 "ro": "Poarta orașului Hum",
-                "en": "Hum City Gate"
+                "en": "Hum City Gate",
+                "hr": "Gradska vrata Huma"
               },
               "tip_5lang": {
                 "de": "Eingang zur mittelalterlichen Welt.",
                 "hu": "Bejárat a középkori világba.",
                 "ro": "Intrarea în lumea medievală.",
-                "en": "Entrance to the medieval world."
+                "en": "Entrance to the medieval world.",
+                "hr": "Ulaz u srednjovjekovni svijet."
               }
             },
             {
@@ -2607,13 +2695,15 @@
                 "de": "Museum von Hum",
                 "hu": "Humi Múzeum",
                 "ro": "Muzeul din Hum",
-                "en": "Museum of Hum"
+                "en": "Museum of Hum",
+                "hr": "Muzej Huma"
               },
               "tip_5lang": {
                 "de": "Ein Muss für Geschichtsinteressierte.",
                 "hu": "Történelemkedvelőknek kötelező látnivaló.",
                 "ro": "O necesitate pentru pasionații de istorie.",
-                "en": "A must-see for history buffs."
+                "en": "A must-see for history buffs.",
+                "hr": "Obavezno za zaljubljenike u povijest."
               }
             },
             {
@@ -2621,13 +2711,15 @@
                 "de": "Aura Destillerie",
                 "hu": "Aura Lepárló",
                 "ro": "Distileria Aura",
-                "en": "Aura Distillery"
+                "en": "Aura Distillery",
+                "hr": "Destilerija Aura"
               },
               "tip_5lang": {
                 "de": "Gemütlicher Ausklang vor der Rückfahrt.",
                 "hu": "Hangulatos zárás a visszautazás előtt.",
                 "ro": "O încheiere plăcută înainte de întoarcere.",
-                "en": "A cozy ending before your return journey."
+                "en": "A cozy ending before your return journey.",
+                "hr": "Ugodan završetak prije povratka."
               }
             }
           ],
@@ -2733,6 +2825,11 @@
               "Buses between Roč and Hum run infrequently, so check the schedule beforehand.",
               "In high season, tourist shuttle buses are often available.",
               "The trip takes only about 10-15 minutes."
+            ],
+            "hr": [
+              "Autobusi između Roča i Huma voze rijetko, pa prethodno provjerite voznog reda.",
+              "U visokoj sezoni često su dostupni turistički shuttle autobusi.",
+              "Put traje samo oko 10–15 minuta."
             ]
           }
         },
@@ -2742,7 +2839,7 @@
             "hu": "A busz biztonságban viszi Roč-ba, miközben odakint esik. Délben induljon tovább Hum-ba, ahol a Loggia védelmet nyújt. A délutánt a száraz múzeumban és a lepárló kóstolóján töltse. Este a tömegközlekedéssel térjen vissza, miközben az esőcseppek végigfolynak az ablakokon.",
             "ro": "Autobuzul vă duce în siguranță la Roč, în timp ce afară plouă. La prânz mergeți spre Hum, unde Loggia oferă adăpost. După-amiaza o petreceți în muzeul uscat și la o degustare la distilerie. Seara reveniți cu transportul public, în timp ce picăturile se scurg pe geamuri.",
             "en": "The bus takes you safely to Roč while the rain falls outside. At noon, continue to Hum, where the Loggia provides shelter. Spend the afternoon in the dry museum and at a tasting in the distillery. In the evening, return by public transit as raindrops stream down the windows.",
-            "hr": "Autobus vas sigurno vozi do Roča dok vani pada kiša. U podne nastavite do Huma, gdje loža pruža zaklon. Provedite poslijepodne u suhom muzeju i na degustaciji u destileriji. Navečer se vratite javnim prijevozom dok kapi kiše klize niz prozore."
+            "hr": "Autobus vas sigurno odveze do Roča dok vani pada kiša. U podne nastavite prema Humu, gdje Loggia pruža zaklon. Poslijepodne provedite u suhom muzeju i na kušanju u destileriji. Uvečer se vratite javnim prijevozom dok kapljice kiše klize niz prozore."
           },
           "stops": [
             {
@@ -2752,7 +2849,7 @@
                 "hu": "Várjon a fedett állomási területen.",
                 "ro": "Așteptați în zona gării acoperite.",
                 "en": "Wait in the covered station area.",
-                "hr": "Čekajte u natkrivenom dijelu stanice."
+                "hr": "Pričekajte u natkrivenom dijelu stanice."
               }
             },
             {
@@ -2762,7 +2859,7 @@
                 "hu": "Egy rövid pillantás a buszból is elég.",
                 "ro": "O privire rapidă de la fereastra autobuzului.",
                 "en": "A quick look from the bus window suffices.",
-                "hr": "Dovoljan je brzi pogled kroz prozor autobusa."
+                "hr": "Kratki pogled kroz prozor autobusa je dovoljan."
               }
             },
             {
@@ -2792,7 +2889,7 @@
                 "hu": "Töltse itt az időt a busz indulásáig.",
                 "ro": "Petreceți timpul aici până la autobuz.",
                 "en": "Spend your time here until the bus arrives.",
-                "hr": "Provedite vrijeme ovdje do dolaska autobusa."
+                "hr": "Provedite vrijeme ovdje dok autobus ne stigne."
               }
             }
           ],
@@ -2822,10 +2919,10 @@
               "Wear waterproof shoes for transfers."
             ],
             "hr": [
-              "Pažljivo provjerite vozni red autobusa po kiši.",
-              "Pripremite sitniš za kartu.",
-              "Šetnja između stanica je kratka.",
-              "Nosite vodootpornu obuću za presjedanja."
+              "U kiši pažljivo provjerite vozne redove autobusa.",
+              "Imajte sitniš spreman za kartu.",
+              "Šetnja između stajališta je kratka.",
+              "Nosite vodonepropusnu obuću za presjedanja."
             ]
           }
         },
@@ -2835,7 +2932,7 @@
             "hu": "Egy tiszta téli reggel Roč-ban tökéletes kezdete a túrának. Délben érkezzen meg a békés Hum-ba, ahol a nap felmelegíti a Loggiát. A délutánt szánja a múzeumra és a történelmi kincsekre. Este a visszaút a fűtött buszon jól eső kényelem Isztria hűvös téli levegője után.",
             "ro": "O dimineață senină de iarnă în Roč oferă startul perfect pentru tur. La prânz ajungeți în liniștitul Hum, unde soarele încălzește Loggia. După-amiaza vizitați muzeul și comorile istorice. Seara, întoarcerea cu autobuzul încălzit este un confort binevenit.",
             "en": "A clear winter morning in Roč provides the perfect start to your tour. At noon, arrive in peaceful Hum, where the sun warms the Loggia. Use the afternoon for the museum and its historic treasures. In the evening, the return trip in a heated bus is a welcome comfort after the cool winter air of Istria.",
-            "hr": "Vedro zimsko jutro u Roču pruža savršen početak vaše ture. U podne stižete u mirni Hum, gdje sunce grije ložu. Poslijepodne iskoristite za muzej i njegovo povijesno blago. Navečer je povratak u zagrijanom autobusu dobrodošla udobnost nakon hladnog istarskog zimskog zraka."
+            "hr": "Bistro zimsko jutro u Roču pruža savršen početak ture. U podne stignite u mirni Hum, gdje sunce grije Loggiu. Poslijepodne iskoristite za muzej i njegove povijesne dragocjenosti. Uvečer je povratak u grijanim autobusom ugodno olakšanje nakon hladnog zimskog zraka Istre."
           },
           "stops": [
             {
@@ -2845,7 +2942,7 @@
                 "hu": "Az állomás közeli kávézók fűtöttek.",
                 "ro": "Cafenelele de lângă gară sunt încălzite.",
                 "en": "Cafes near the station are heated.",
-                "hr": "Kafići u blizini stanice su zagrijani."
+                "hr": "Kafići blizu stanice su grijani."
               }
             },
             {
@@ -2855,7 +2952,7 @@
                 "hu": "Fotózza le a szobrokat a téli fényben.",
                 "ro": "Fotografiați statuile în lumina de iarnă.",
                 "en": "Photograph the statues in the winter light.",
-                "hr": "Fotografirajte spomenike na zimskom svjetlu."
+                "hr": "Fotografirajte kipove u zimskom svjetlu."
               }
             },
             {
@@ -2865,7 +2962,7 @@
                 "hu": "A szél itt télen gyakran erősen fúj.",
                 "ro": "Vântul suflă adesea puternic aici iarna.",
                 "en": "The wind often whistles loudly here in winter.",
-                "hr": "Vjetar ovdje zimi često glasno zviždi."
+                "hr": "Zimi ovdje često snažno zavija vjetar."
               }
             },
             {
@@ -2875,7 +2972,7 @@
                 "hu": "Ideális egy órányi felmelegedéshez.",
                 "ro": "Ideal pentru a vă încălzi timp de o oră.",
                 "en": "Ideal for warming up for an hour.",
-                "hr": "Idealno za zagrijavanje na sat vremena."
+                "hr": "Idealno za zagrijavanje sat vremena."
               }
             },
             {
@@ -2885,7 +2982,7 @@
                 "hu": "Kóstolja meg a ház meleg specialitásait.",
                 "ro": "Gustați specialitățile calde ale casei.",
                 "en": "Taste the warm house specialties.",
-                "hr": "Kušajte tople domaće specijalitete."
+                "hr": "Probajte tople kućne specijalitete."
               }
             }
           ],
@@ -2915,9 +3012,9 @@
               "A scarf protects against the cold draft at the station."
             ],
             "hr": [
-              "Zimski vozni redovi mogu se razlikovati od ljetnih.",
-              "Čekajte u zatvorenom prostoru ako autobus kasni.",
-              "Sunce rano zalazi, pa planirajte u skladu s tim.",
+              "Zimski redovi vožnje mogu se razlikovati od ljetnih.",
+              "Ako autobus kasni, pričekajte unutra.",
+              "Sunce zalazi rano, pa planirajte unaprijed.",
               "Šal štiti od hladnog propuha na stanici."
             ]
           }
@@ -3066,7 +3163,8 @@
       "de": "Wikipedia Hum",
       "hu": "Wikipédia Hum",
       "ro": "Wikipedia Hum",
-      "en": "Wikipedia Hum"
+      "en": "Wikipedia Hum",
+      "hr": "Wikipedia Hum"
     },
     "best_time": {
       "de": [
@@ -3098,7 +3196,8 @@
       "de": "Hum Sicherheit (Istra TZ)",
       "hu": "Hum biztonság",
       "ro": "Siguranță Hum",
-      "en": "Hum safety (Istra TB)"
+      "en": "Hum safety (Istra TB)",
+      "hr": "Sigurnost u Humu (Istra TB)"
     },
     "tourism_office": {
       "de": [

@@ -32,7 +32,7 @@
             "hu": "Csodálja meg a régi velencei erődrendszer falait.",
             "ro": "Admirați zidurile vechiului castel venețian.",
             "en": "Admire the walls of the old Venetian fortress settlement.",
-            "hr": "Divite se zidinama starog mletačkog utvrđenog naselja."
+            "hr": "Divite se zidinama stare mletačke utvrđene naseobine."
           }
         },
         {
@@ -40,7 +40,8 @@
             "de": "Uferpromenade Riva",
             "hu": "Riva tengerparti sétány",
             "ro": "Promenada Riva",
-            "en": "Riva Waterfront"
+            "en": "Riva Waterfront",
+            "hr": "Riva Waterfront"
           },
           "coords": [
             16.2338,
@@ -75,7 +76,7 @@
             "hu": "Apró középkori templom olajfaligetek között.",
             "ro": "Mică biserică medievală printre livezi de măslini.",
             "en": "Tiny medieval church set among olive groves.",
-            "hr": "Mala srednjovjekovna crkva smještena među maslinicima."
+            "hr": "Mala srednjovjekovna crkva među maslinicima."
           }
         },
         {
@@ -83,7 +84,8 @@
             "de": "Mittagessen in einer Konoba",
             "hu": "Ebéd egy helyi konobában",
             "ro": "Prânz la o konoba locală",
-            "en": "Lunch in a local Konoba"
+            "en": "Lunch in a local Konoba",
+            "hr": "Ručak u lokalnoj konobi"
           },
           "coords": [
             16.2341,
@@ -99,7 +101,7 @@
             "hu": "Kóstolja meg a sült halat blitvával.",
             "ro": "Încercați peștele la grătar cu mangold.",
             "en": "Try the grilled fish with Swiss chard.",
-            "hr": "Probajte ribu na žaru s blitvom."
+            "hr": "Probajte grillanu ribu sa blitvom."
           }
         },
         {
@@ -126,7 +128,8 @@
             "de": "Sonnenuntergangs-Pause",
             "hu": "Naplemente pihenő",
             "ro": "Popas la apus",
-            "en": "Sunset Pause"
+            "en": "Sunset Pause",
+            "hr": "Pauza za zalazak sunca"
           },
           "coords": [
             16.225,
@@ -142,7 +145,7 @@
             "hu": "Kilátás Ciovo és Solta szigeteire.",
             "ro": "Vedere spre insulele Ciovo și Solta.",
             "en": "Views towards the islands of Ciovo and Solta.",
-            "hr": "Pogled prema otocima Čiovu i Šolti."
+            "hr": "Pogledi prema otocima Čiovo i Šolta."
           }
         }
       ],
@@ -151,7 +154,7 @@
         "hu": "Kezdje a napot Seget Donji történelmi magjában, az 1564-ben épült erődített halászfaluban. Az ódon templomok megtekintése után sétáljon végig a tengerparti sétányon a Medena strandig. A délután a pihenésé és a kristálytiszta vízé, a napot pedig egy pohár helyi borral zárhatja a kikötőben.",
         "ro": "Începeți ziua în nucleul istoric din Seget Donji, un sat pescăresc fortificat din secolul al XVI-lea. După vizitarea vechilor biserici, plimbați-vă de-a lungul coastei până la plaja Medena. După-amiaza este dedicată relaxării și apei cristaline, înainte de a încheia ziua cu un pahar de vin în port.",
         "en": "Start your day in the historical core of Seget Donji, a fortified 16th-century fishing village. After visiting the ancient churches, stroll along the seaside promenade to Medena beach. The afternoon is dedicated to relaxation and crystal-clear waters, ending the day with a glass of local wine by the harbor.",
-        "hr": "Započnite dan u povijesnoj jezgri Segeta Donjeg, utvrđenog ribarskog sela iz 16. stoljeća. Nakon posjeta drevnim crkvama, prošećite obalnom šetnicom do plaže Medena. Poslijepodne je posvećeno opuštanju i kristalno čistom moru, a dan završite čašom domaćeg vina u luci."
+        "hr": "Započnite dan u povijesnom središtu Segeta Donjeg, utvrđenog ribarskog mjesta iz 16. stoljeća. Nakon posjeta starim crkvama, prošećite rivom do plaže Medena. Poslijepodne je namijenjeno opuštanju i kristalno čistom moru, a dan završava čašom domaćeg vina u luci."
       },
       "gastro_picks": {
         "de": [
@@ -345,10 +348,10 @@
           "Visit the small morning market for fresh local fruit."
         ],
         "hr": [
-          "Šetnja do plaže Medena traje oko 30-40 minuta.",
-          "Preporučuje se udobna obuća za stazu do crkve sv. Vida.",
-          "Taxi brodovi redovito voze do obližnjeg Trogira.",
-          "Posjetite malu jutarnju tržnicu za svježe lokalno voće."
+          "Pješačenje do plaže Medena traje oko 30–40 minuta.",
+          "Preporučuje se udobna obuća za put do crkve sv. Vida.",
+          "Vodeni taksiji redovito voze do obližnjeg Trogira.",
+          "Posjetite malo jutarnje tržnice za svježe domaće voće."
         ]
       },
       "variants": {
@@ -358,7 +361,7 @@
             "hu": "Az esős reggel a segeti várfalak között különleges, melankolikus hangulatot áraszt. Délben egy helyi konoba kemencéje mellett melegedhetünk fel egy tál forró levessel. Délután az esernyő alatt tett séta a Medena-parton a tenger morajlását hozza közelebb. Az estét a kikötő fedett részén zárjuk, figyelve a vízen táncoló esőcseppeket és a halászhajók fényeit.",
             "ro": "O dimineață ploioasă în Kaštel Seget dezvăluie frumusețea melancolică a zidurilor vechi. La prânz, o konoba locală oferă refugiul perfect cu specialități calde și vin roșu. După-amiaza pe plaja Medena, sub umbrelă, devine o experiență senzorială, ascultând marea agitată. Încheiem ziua la adăpost în port, privind cum picăturile de ploaie se pierd în apele Adriaticii.",
             "en": "A rainy morning in Kaštel Seget highlights the rugged beauty of its 16th-century walls. At noon, a local konoba provides a cozy escape with hearty Dalmatian dishes. The afternoon walk to Medena Beach is atmospheric under an umbrella, watching the grey Adriatic swell. We end the day sheltered by the harbor, enjoying the rhythmic sound of rain hitting the sea surface.",
-            "hr": "Kišno jutro u Kaštel Segetu ističe grubu ljepotu njegovih zidina iz 16. stoljeća. U podne, lokalna konoba pruža ugodno utočište uz krepka dalmatinska jela. Poslijepodnevna šetnja do plaže Medena pod kišobranom ima posebnu atmosferu uz sivo uzburkano more. Dan završavamo zaštićeni u luci, uživajući u ritmičnom zvuku kiše koja udara o morsku površinu."
+            "hr": "Kišno jutro u Kaštel Segetu ističe grub šarm njegovih zidina iz 16. stoljeća. U podne vas lokalna konoba ugodno zagrli teškim dalmatinskim jelima. Poslijepodnevna šetnja do plaže Medena je atmosferična pod kišobranom, promatrajući sivi jokan Jadrana. Dan završavamo pod zaklonom u luci, uživajući u ritmičnom zvuku kiše koja pogađa površinu mora."
           },
           "stops": [
             {
@@ -368,7 +371,7 @@
                 "hu": "A szűk utcák jó szélfogók enyhe esőben séta közben.",
                 "ro": "Străzile înguste oferă protecție bună împotriva vântului și ploii.",
                 "en": "Narrow alleys provide good wind protection during light rain.",
-                "hr": "Uske uličice pružaju dobru zaštitu od vjetra tijekom lagane kiše."
+                "hr": "Uske uličice dobro štite od vjetra tijekom lagane kiše."
               }
             },
             {
@@ -378,7 +381,7 @@
                 "hu": "Vigyázat, a kőlapok vizesen nagyon csúszósak lehetnek.",
                 "ro": "Atenție, dalele de piatră pot fi alunecoase când sunt ude.",
                 "en": "Caution: stone pavers can be slippery when wet.",
-                "hr": "Oprez: kameni opločnici mogu biti skliski kad su mokri."
+                "hr": "Upozorenje: kamene kocke mogu biti klizave kad su mokre."
               }
             },
             {
@@ -388,7 +391,7 @@
                 "hu": "Csendes hely egy spirituális pihenőre, védve az esőtől.",
                 "ro": "Un loc liniștit pentru o pauză spirituală la adăpost.",
                 "en": "A quiet place for a spiritual break in the dry interior.",
-                "hr": "Mirno mjesto za duhovni predah u suhoj unutrašnjosti."
+                "hr": "Mirno mjesto za duhovni predah u suhom unutrašnjosti."
               }
             },
             {
@@ -402,7 +405,7 @@
                 "hu": "Rendeljen 'peka'-t, ideális választás egy borús, esős ebédhez.",
                 "ro": "Comandați o 'peka', perfectă pentru o zi ploioasă și lentă.",
                 "en": "Order a 'peka'; it's the perfect comfort food for rainy days.",
-                "hr": "Naručite peku; to je savršena hrana za kišne dane."
+                "hr": "Naručite 'peku'; savršena je utjeha za kišne dane."
               }
             },
             {
@@ -412,7 +415,7 @@
                 "hu": "Élvezze a viharos Adria látványát egy parti kávézóból.",
                 "ro": "Bucurați-vă de vederea Adriaticii agitate de la o cafenea.",
                 "en": "Enjoy the view of the stormy Adriatic from a beachside cafe.",
-                "hr": "Uživajte u pogledu na olujni Jadran iz kafića na plaži."
+                "hr": "Uživajte u pogledu na bure i valoviti Jadran iz kafića uz plažu."
               }
             },
             {
@@ -456,11 +459,11 @@
               "Nearby Trogir museums are great indoor alternatives if rain persists."
             ],
             "hr": [
-              "Nosite vodootpornu obuću jer se u uskim ulicama stvaraju lokve.",
-              "Većina lokalnih konoba nudi grijani i ugodan unutarnji prostor.",
-              "Čvrst kišobran je neophodan zbog naleta obalnog vjetra.",
-              "Fotografirajte sjajne kamene fasade tijekom pauza u kiši.",
-              "Muzeji u obližnjem Trogiru izvrsna su alternativa u zatvorenom ako kiša potraje."
+              "Obucite vodootpornu obuću jer se u uskim ulicama stvaraju lokve.",
+              "Većina lokalnih konoba nudi grijana i ugodna unutarnja sjedenja.",
+              "Čvrst kišobran je bitan zbog naleta obalnog vjetra.",
+              "Fotografirajte sjajne kamene fasade tijekom prekida u kiši.",
+              "Muzeji u obližnjem Trogiru odlična su unutarnja alternativa ako kiša ne prestaje."
             ]
           }
         },
@@ -470,7 +473,7 @@
             "hu": "A téli Seget a tökéletes nyugalom szigete. A hideg bóra megtisztítja a levegőt, így a kilátás a szigetekre kristálytiszta. A kikötői séta után délben egy tartalmas hallevessel melegszünk fel. Délután a kihalt tengerparton a lemenő nap aranyba öltözteti az Adriát. A nap korán ér véget, ahogy a kék óra csendje rátelepszik az alvó halászfalura.",
             "ro": "Seget iarna este un loc al liniștii absolute. Aerul rece de Bura face ca vederea spre insule să fie de o claritate incredibilă. După o dimineață în port, ne încălzim la prânz cu o supă de pește consistentă. După-amiaza aparține coastei pustii, unde lumina joasă a soarelui transformă marea în aur. Ziua se termină devreme, cu ora albastră coborând peste sat.",
             "en": "Winter in Seget is a season of absolute tranquility. The cold Bura wind clears the air, making the island views crystal clear. After a morning at the harbor, we warm up at noon with a rich, local fish stew. The afternoon is spent on the deserted coast, where the low sun paints the Adriatic in golden hues. The day ends early as the blue hour settles over the sleeping village.",
-            "hr": "Zima u Segetu je doba potpunog mira. Hladna bura pročišćava zrak, čineći poglede na otoke kristalno jasnima. Nakon jutra u luci, u podne se grijemo uz bogat domaći brudet. Poslijepodne provodimo na pustoj obali, gdje nisko sunce boji Jadran zlatnim nijansama. Dan završava rano dok se plavi sat spušta nad usnulo selo."
+            "hr": "Zima u Segetu je sezona apsolutnog mira. Hladna bura pročišćava zrak, čineći poglede na otoke kristalno čistima. Nakon jutra u luci zagrijavamo se u podne bogatim lokalnim ribljim gulašem. Poslijepodne provodimo na pustom primorju, gdje nisko sunce boji Jadran zlatnim nijansama. Dan završava rano kako plavi sat prekriva uspavano selo."
           },
           "stops": [
             {
@@ -500,7 +503,7 @@
                 "hu": "A délutáni súrolófények gyönyörűen világítják meg az öreg templomot.",
                 "ro": "Lumina după-amiezii cade superb pe fațada bisericii vechi.",
                 "en": "The afternoon light hits the old church beautifully in winter.",
-                "hr": "Poslijepodnevno svjetlo zimi prekrasno obasjava staru crkvu."
+                "hr": "Poslijepodnevna svjetlost zimi lijepo osvjetljava staru crkvu."
               }
             },
             {
@@ -514,7 +517,7 @@
                 "hu": "Kérdezzen rá a szezonális ételekre, mint a savanyú káposzta.",
                 "ro": "Cereți preparate sezoniere, precum varza murată cu cârnați.",
                 "en": "Ask for seasonal winter dishes like sauerkraut and local sausages.",
-                "hr": "Tražite sezonska zimska jela poput kiselog kupusa i domaćih kobasica."
+                "hr": "Raspitajte se za sezonska zimska jela poput kiselog kupusa i domaćih kobasica."
               }
             },
             {
@@ -524,7 +527,7 @@
                 "hu": "Ideális egy meditatív sétára az üres tengerparton.",
                 "ro": "Ideal pentru o plimbare meditativă pe plaja pustie.",
                 "en": "Ideal for a meditative stroll along the empty shoreline.",
-                "hr": "Idealno za meditativnu šetnju praznom obalom."
+                "hr": "Idealno za meditativnu šetnju duž puste obale."
               }
             },
             {
@@ -534,7 +537,7 @@
                 "hu": "Figyelem: télen a nap már 16:30 körül lenyugszik.",
                 "ro": "Atenție: iarna apusul are loc deja în jurul orei 16:30.",
                 "en": "Note: Sunset occurs early, around 4:30 PM in mid-winter.",
-                "hr": "Napomena: Zalazak sunca je rano, oko 16:30 sredinom zime."
+                "hr": "Napomena: zalazak sunca nastupa rano, oko 16:30 sredinom zime."
               }
             }
           ],
@@ -568,11 +571,11 @@
               "Sun sets early; schedule your outdoor sightseeing for the morning."
             ],
             "hr": [
-              "Odjenite se slojevito kako biste se zaštitili od udara bure.",
-              "Mnogi hoteli na Medeni su zatvoreni, ali seoski kafići ostaju otvoreni.",
-              "Bura pruža fantastičnu vidljivost sve do otoka Visa.",
-              "Probajte domaće kuhano vino u poslijepodnevnim satima.",
-              "Sunce rano zalazi; planirajte razgledavanje na otvorenom za jutro."
+              "Obucite slojevitu odjeću radi zaštite od naleta bure.",
+              "Mnogi hoteli u Medeni su zatvoreni, ali seoski kafići ostaju otvoreni.",
+              "Bura pruža fantastičnu vidljivost čak do otoka Visa.",
+              "Probajte lokalno kuhano vino popodne.",
+              "Sunce zalazi rano; planirajte vanjske ture za jutro."
             ]
           }
         }
@@ -601,7 +604,7 @@
             "hu": "Indulás az óvárosból.",
             "ro": "Start în centrul vechi.",
             "en": "Start in the old core.",
-            "hr": "Krenite iz stare jezgre."
+            "hr": "Započnite u starom jezgru."
           }
         },
         {
@@ -620,7 +623,7 @@
             "hu": "Csendes megálló a dombon.",
             "ro": "Popas liniștit pe deal.",
             "en": "Quiet stop on the hill.",
-            "hr": "Mirna stanica na brdu."
+            "hr": "Tih zastanak na brežuljku."
           }
         },
         {
@@ -639,7 +642,7 @@
             "hu": "Fárasztó emelkedő, de fantasztikus kilátás.",
             "ro": "Urcare solicitantă, dar vedere fantastică.",
             "en": "Challenging climb but fantastic view.",
-            "hr": "Izazovan uspon, ali fantastičan pogled."
+            "hr": "Zahtevno penjanje ali fantastičan pogled."
           }
         },
         {
@@ -647,7 +650,8 @@
             "de": "Picknick im Schatten",
             "hu": "Piknik az árnyékban",
             "ro": "Picnic la umbră",
-            "en": "Picnic in the Shade"
+            "en": "Picnic in the Shade",
+            "hr": "Piknik u hladu"
           },
           "coords": [
             16.245,
@@ -682,7 +686,7 @@
             "hu": "Megérdemelt csobbanás a tekerés után.",
             "ro": "Răcorire meritată după drum.",
             "en": "Well-deserved dip after the ride.",
-            "hr": "Zasluženo kupanje nakon vožnje."
+            "hr": "Zasluženi osvježenje nakon vožnje."
           }
         }
       ],
@@ -691,7 +695,7 @@
         "hu": "Ez a kerékpártúra ötvözi a tengerparti hangulatot a hátország dombjaival. A Kašteltől indulva hívja ki magát a Gospe od Konjskoghoz vezető emelkedővel, ahol a közép-dalmát szigetvilág panorámája lesz a jutalma. A lefelé út közvetlenül a Medena strandhoz vezet egy frissítő fürdőzésre.",
         "ro": "Acest tur cu bicicleta combină farmecul coastei cu dealurile din spate. După startul în Kaštel, provocați-vă cu urcarea spre Gospe od Konjskog, unde veți fi răsplătiți cu o panoramă asupra insulelor dalmate. Coborârea vă duce direct la plaja Medena pentru o baie relaxantă.",
         "en": "This bike tour combines coastal flair with the inland hills. Starting from the Kaštel, challenge yourself with the climb to Gospe od Konjskog, where you'll be rewarded with a panorama of the Central Dalmatian islands. The descent leads directly to Medena beach for a relaxing swim.",
-        "hr": "Ova biciklistička tura spaja obalni štih s brdima u zaleđu. Krenuvši iz Kaštela, izazovite se usponom do Gospe od Konjskog, gdje ćete biti nagrađeni panoramom srednjodalmatinskih otoka. Spust vodi izravno do plaže Medena na osvježavajuće kupanje."
+        "hr": "Ova biciklistička tura spaja obalni šarm s unutrašnjim brežuljcima. Polazeći iz Kaštela, izazovite se usponom do Gospe od Konjskog, gdje vas nagradi panorama srednjedalmatinskih otoka. Spust vodi izravno do plaže Medena za opuštajući kupanje."
       },
       "gastro_picks": {
         "de": [
@@ -823,7 +827,7 @@
             "hu": "A segeti bringázás esőben jó felszerelést igényel, de csendes utakkal hálálja meg. Délelőtt óvatosan kapaszkodunk fel a Sv. Vida templomhoz. Délben egy eresz alatt húzzuk meg magunkat egy rövid pihenőre. Délután a tengerpart felé vesszük az irányt, ahol a sós permet keveredik az esővel. Ez a nap az igazi kalandoroké, akik minden arcát szeretik a tengernek.",
             "ro": "Ciclismul în Seget pe ploaie necesită echipament bun, dar oferă drumuri pustii. Dimineața urcăm cu grijă dealul spre biserica Sv. Vida. La prânz găsim adăpost sub o streșină pentru o scurtă pauză. După-amiaza coborâm spre coastă, unde spray-ul sărat al mării se amestecă cu ploaia. O zi pentru aventurieri care iubesc marea în orice condiții.",
             "en": "Cycling in Seget during rain requires quality gear but rewards you with empty roads. In the morning, we cautiously climb the hill to Sv. Vida. At noon, we find shelter under a porch for a quick break. The afternoon leads us down to the coast, where salty sea spray mixes with the falling rain. A day for true adventurers who appreciate the sea in all its moods.",
-            "hr": "Bicikliranje u Segetu po kiši zahtijeva kvalitetnu opremu, ali nagrađuje praznim cestama. Ujutro se oprezno penjemo na brdo do sv. Vida. U podne nalazimo zaklon pod trijemom za kratki predah. Poslijepodne nas vodi dolje do obale, gdje se slana morska maglica miješa s kišom. Dan za prave avanturiste koji cijene more u svim njegovim raspoloženjima."
+            "hr": "Biciklizam u Segetu po kiši zahtijeva kvalitetnu opremu, ali nagrađuje praznim cestama. Ujutro se oprezno penjemo na brežuljak sv. Vida. U podne tražimo zaklon pod sjenicom za kratku pauzu. Poslijepodne nas vodi niz obalu, gdje se slana morska prskanja miješaju s padajućom kišom. Dan za prave avanturiste koji cijene more u svim njegovim raspoloženjima."
           },
           "stops": [
             {
@@ -833,7 +837,7 @@
                 "hu": "Kerülje a kerékpározást a nedves macskaköveken.",
                 "ro": "Evitați mersul pe bicicletă pe pietrele cubice ude.",
                 "en": "Avoid cycling directly on wet cobblestones inside the fort.",
-                "hr": "Izbjegavajte vožnju izravno po mokroj kaldrmi unutar utvrde."
+                "hr": "Izbjegavajte vožnju po mokrim kaldrmama unutar utvrde."
               }
             },
             {
@@ -843,7 +847,7 @@
                 "hu": "Az emelkedő csúszós lehet esőben, haladjon lassan.",
                 "ro": "Urcarea poate fi alunecoasă pe ploaie, pedalați încet.",
                 "en": "The climb can be slippery when wet; maintain a slow pace.",
-                "hr": "Uspon može biti sklizak kad je mokro; održavajte spor tempo."
+                "hr": "Uspon može biti klizav kad je mokro; održavajte spor tempo."
               }
             },
             {
@@ -863,7 +867,7 @@
                 "hu": "Helyezze át a pikniket egy fedett beálló alá.",
                 "ro": "Mutați picnicul sub un acoperiș solid sau o terasă.",
                 "en": "Move your picnic under a permanent roof or porch.",
-                "hr": "Premjestite svoj piknik pod trajni krov ili trijem."
+                "hr": "Premjestite piknik ispod trajnog krova ili trijema."
               }
             },
             {
@@ -873,7 +877,7 @@
                 "hu": "A tengerparti kerékpárút aszfaltozott és jól járható.",
                 "ro": "Pista de biciclete de-a lungul coastei este asfaltată și practicabilă.",
                 "en": "The coastal bike path is paved and remains easy to ride.",
-                "hr": "Obalna biciklistička staza je asfaltirana i lako se vozi."
+                "hr": "Obalna biciklistička staza je popločana i ostaje jednostavna za vožnju."
               }
             }
           ],
@@ -907,11 +911,11 @@
               "A thermos of hot tea works wonders during your rainy breaks."
             ],
             "hr": [
-              "Blatobrani su neophodni za bicikliranje u mokrim uvjetima.",
-              "Nosite uočljivu kabanicu radi sigurnosti na cestama.",
-              "Provjerite kočione obloge prije spusta natrag u selo.",
-              "Izbjegavajte neasfaltirane staze jer mogu postati blatne i nestabilne.",
-              "Termosica s toplim čajem čini čuda tijekom kišnih pauza."
+              "Blatobrani su nužni za vožnju po mokrom vremenu.",
+              "Nosite reflektirajući vodonepropusni jaknu radi sigurnosti na cestama.",
+              "Provjerite pločice kočnica prije spuštanja natrag u selo.",
+              "Izbjegavajte neasfaltirane putove jer mogu postati blatni i nestabilni.",
+              "Termos s toplim čajem čini čuda tijekom kišnih pauza."
             ]
           }
         },
@@ -921,7 +925,7 @@
             "hu": "A téli bringázás Segetben tiszta levegőt és üres utakat ígér. Délelőtt a hátország felé tekerünk, ahol a napsütés kellemesen melenget. Délben egy szélvédett helyen tartunk rövid pihenőt. Délután a parti úton térünk vissza, gyönyörködve a mélykék Adriában. Sportos nap, amely felfrissíti a testet és a lelket a hűvös tengeri szélben.",
             "ro": "Ciclismul de iarnă în Seget oferă aer curat și drumuri libere. Dimineața ne bucurăm de urcarea spre hinterland, unde soarele ne încălzește. La prânz facem o scurtă pauză într-un loc ferit de vânt. După-amiaza ne întoarcem pe drumul de coastă, cu vedere la marea de un albastru intens. O zi sportivă care revigorează spiritul în briza rece.",
             "en": "Winter cycling in Seget offers crisp air and traffic-free roads. In the morning, we enjoy the climb into the hinterland where the sun warms us up. At noon, we take a short break in a wind-sheltered spot. The afternoon brings us back along the coastal road with views of the deep blue Adriatic. An active day that refreshes the soul in the cool sea breeze.",
-            "hr": "Zimsko bicikliranje u Segetu nudi svjež zrak i ceste bez prometa. Ujutro uživamo u usponu u zaleđe gdje nas sunce grije. U podne radimo kratku pauzu na mjestu zaštićenom od vjetra. Poslijepodne nas vraća obalnom cestom s pogledom na duboko plavo more. Aktivni dan koji osvježava dušu na svježem morskom povjetarcu."
+            "hr": "Zimski biciklizam u Segetu nudi svjež zrak i ceste bez prometa. Ujutro uživamo u usponu u zaleđe gdje nas sunce zagrije. U podne uzimamo kratku pauzu na zaklonjenom mjestu. Poslijepodne se vraćamo obalnom cestom s pogledom na duboko plavi Jadran. Aktivni dan koji osvježava dušu u hladnom morskom povjetarcu."
           },
           "stops": [
             {
@@ -931,7 +935,7 @@
                 "hu": "Csak akkor induljon, ha a zúzmara már elolvadt a köveken.",
                 "ro": "Porniți la drum doar după ce chiciura s-a topit de pe pietre.",
                 "en": "Wait until any frost on the stones has melted before starting.",
-                "hr": "Pričekajte da se mraz na kamenju otopi prije kretanja."
+                "hr": "Pričekajte da se eventualni mraz na kamenju otopi prije polaska."
               }
             },
             {
@@ -951,7 +955,7 @@
                 "hu": "A legjobb pont a téli, tiszta panoráma megtekintéséhez.",
                 "ro": "Cel mai bun punct pentru vederi panoramice clare de iarnă.",
                 "en": "The best viewpoint for clear, far-reaching winter vistas.",
-                "hr": "Najbolji vidikovac za čiste, daleke zimske vidike."
+                "hr": "Najbolja vidikovac za jasne, dalekosežne zimske poglede."
               }
             },
             {
@@ -961,7 +965,7 @@
                 "hu": "Télen keressen inkább egy napsütötte helyet a pihenőhöz.",
                 "ro": "Căutați mai degrabă un loc însorit pentru pauză iarna.",
                 "en": "In winter, seek out a sunny spot instead of shade.",
-                "hr": "Zimi tražite sunčano mjesto umjesto hlada."
+                "hr": "Zimi potražite sunčano mjesto umjesto hlada."
               }
             },
             {
@@ -971,7 +975,7 @@
                 "hu": "A leereszkedéshez vegyen fel egy szélálló réteget.",
                 "ro": "Puneți-vă un strat rezistent la vânt pentru coborâre.",
                 "en": "Put on a windproof layer for the descent back to the beach.",
-                "hr": "Obucite vjetrootporni sloj za spust natrag do plaže."
+                "hr": "Obucite vjetrootpornu slojicu za spust natrag na plažu."
               }
             }
           ],
@@ -1005,11 +1009,11 @@
               "Stick to the sunny side of the hills for maximum warmth."
             ],
             "hr": [
-              "Nosite rukavice i tanku termo kapu ispod kacige.",
-              "Bura može biti jaka; čvrsto držite upravljač.",
-              "Skratite rutu čim sunce počne zalaziti.",
-              "Ostanite hidrirani čak i ako ne osjećate žeđ kao ljeti.",
-              "Držite se sunčane strane brda za maksimalnu toplinu."
+              "Nosite rukavice i tanku toplu kapu ispod kacige.",
+              "Bura može imati nalete; čvrsto držite upravljač.",
+              "Skraćujte rutu čim sunce počne zalaziti.",
+              "Ostanite hidrirani iako možda niste toliko žedni kao ljeti.",
+              "Držite se sunčane strane brežuljaka za maksimalnu toplinu."
             ]
           }
         }
@@ -1038,7 +1042,7 @@
             "hu": "Parkoljon a kikötőnél.",
             "ro": "Parcați lângă port.",
             "en": "Park near the harbor.",
-            "hr": "Parkirajte u blizini luke."
+            "hr": "Parkirajte blizu luke."
           }
         },
         {
@@ -1046,7 +1050,8 @@
             "de": "Spaziergang an der Riva",
             "hu": "Séta a riván",
             "ro": "Plimbare pe Riva",
-            "en": "Walk on the Riva"
+            "en": "Walk on the Riva",
+            "hr": "Prošećite Rivom"
           },
           "coords": [
             16.2335,
@@ -1100,7 +1105,7 @@
             "hu": "Rövid megálló visszafelé.",
             "ro": "Mic popas la întoarcere.",
             "en": "Short stop on the way back.",
-            "hr": "Kratko zaustavljanje na povratku."
+            "hr": "Kratka stanka na povratku."
           }
         },
         {
@@ -1108,7 +1113,8 @@
             "de": "Mittagessen Seget",
             "hu": "Ebéd Segetben",
             "ro": "Prânz în Seget",
-            "en": "Lunch in Seget"
+            "en": "Lunch in Seget",
+            "hr": "Ručak u Segetu"
           },
           "coords": [
             16.234,
@@ -1143,7 +1149,7 @@
             "hu": "Nagy parkoló közvetlenül a strandnál.",
             "ro": "Parcare mare direct la plajă.",
             "en": "Large parking lot right by the beach.",
-            "hr": "Veliko parkiralište tik uz plažu."
+            "hr": "Veliko parkiralište odmah uz plažu."
           }
         },
         {
@@ -1151,7 +1157,8 @@
             "de": "Abend-Gelato",
             "hu": "Esti fagylalt",
             "ro": "Înghețată de seară",
-            "en": "Evening Gelato"
+            "en": "Evening Gelato",
+            "hr": "Večernji gelato"
           },
           "coords": [
             16.2338,
@@ -1167,7 +1174,7 @@
             "hu": "A nap legjobb lezárása.",
             "ro": "Cea mai bună încheiere a zilei.",
             "en": "Best way to end the day.",
-            "hr": "Najbolji način za završetak dana."
+            "hr": "Najbolji način da završite dan."
           }
         }
       ],
@@ -1176,7 +1183,7 @@
         "hu": "Autóval könnyedén felfedezheti Seget mindkét arcát: a bájos tengerparti halászfalut és a dombok közt megbújó szakrális helyeket. Élvezze az autózást fel a Gospe od Konjskoghoz a felejthetetlen panorámáért, majd töltse a nap hátralévő részét a kiváló infrastruktúrájáról ismert Medena strandon.",
         "ro": "Cu mașina, veți explora fără efort ambele fețe ale Segetului: satul pescăresc fermecător de la mare și locurile spirituale din dealuri. Bucurați-vă de drumul spre Gospe od Konjskog pentru o panoramă de neuitat și petreceți restul zilei relaxându-vă pe plaja Medena, cunoscută pentru infrastructura sa excelentă.",
         "en": "By car, you can effortlessly explore both faces of Seget: the charming fishing village by the sea and the spiritual sites in the hills. Enjoy the drive up to Gospe od Konjskog for an unforgettable panorama and spend the rest of the day relaxing at Medena beach, known for its excellent infrastructure.",
-        "hr": "Automobilom možete bez napora istražiti oba lica Segeta: šarmantno ribarsko selo uz more i duhovna mjesta u brdima. Uživajte u vožnji do Gospe od Konjskog za nezaboravnu panoramu i provedite ostatak dana opuštajući se na plaži Medena, poznatoj po izvrsnoj infrastrukturi."
+        "hr": "Autom možete bez napora istražiti obje strane Segeta: šarmantno ribarsko selo uz more i duhovna mjesta na brežuljcima. Uživajte u vožnji do Gospe od Konjskog za nezaboravnu panoramu i ostatak dana provedite opuštajući se na plaži Medena, poznatoj po izvrsnoj infrastrukturi."
       },
       "gastro_picks": {
         "de": [
@@ -1297,8 +1304,8 @@
           "The road to the hill is narrow, drive carefully."
         ],
         "hr": [
-          "Parkiranje u Segetu Donjem se naplaćuje tijekom ljeta.",
-          "Cesta do brda je uska, vozite oprezno."
+          "Parkiranje u Segetu Donjem je naplaćeno tijekom ljeta.",
+          "Cesta prema brdu je uska, vozite pažljivo."
         ]
       },
       "variants": {
@@ -1308,7 +1315,7 @@
             "hu": "Autóval Seget esőben is kényelmesen felfedezhető. A várnál kezdünk, majd a kikötőhöz hajtunk. Délben a hátországi templomhoz látogatunk, miközben az ablaktörlők adják az ütemet. Egy hangulatos ebéd a faluban feltölt minket. A délutánt panorámaautózással töltjük, biztonságban a kinti nedves és szeles időjárástól.",
             "ro": "Cu mașina, Seget este confortabil de explorat chiar și pe ploaie. Începem la cetate, apoi mergem spre faleză. La prânz urcăm spre biserica din hinterland, în timp ce ștergătoarele dau ritmul. Un prânz plăcut în sat ne încălzește. După-amiaza o petrecem într-o plimbare panoramică, protejați de vremea umedă de afară.",
             "en": "Exploring Seget by car is convenient even during rainfall. We start at the fortress and then drive to the waterfront. At noon, we visit the hilltop church while the wipers beat a steady rhythm. A cozy lunch in the village warms us up. We spend the afternoon on a scenic drive, shielded from the wet and windy weather outside.",
-            "hr": "Istraživanje Segeta automobilom je praktično čak i tijekom kiše. Krećemo od utvrde, a zatim se vozimo do obale. U podne posjećujemo crkvu na brdu dok brisači udaraju u stalnom ritmu. Ugodan ručak u selu nas grije. Poslijepodne provodimo u slikovitoj vožnji, zaštićeni od mokrog i vjetrovitog vremena vani."
+            "hr": "Istraživanje Segeta automobilom praktično je i za vrijeme kiše. Krećemo od utvrde pa vozimo prema rivi. U podne posjećujemo crkvu na vrhu brda dok brisači kucaju stalan ritam. Ugodan ručak u selu nas ugrije. Poslijepodne provedemo u slikovitoj vožnji, zaštićeni od vanjske vlažne i vjetrovite klime."
           },
           "stops": [
             {
@@ -1318,7 +1325,7 @@
                 "hu": "Közvetlenül az óvárosi mag bejáratánál vannak parkolók.",
                 "ro": "Există locuri de parcare chiar la intrarea în nucleul vechi.",
                 "en": "Parking is available right at the entrance to the old core.",
-                "hr": "Parking je dostupan odmah na ulazu u staru jezgru."
+                "hr": "Parkiranje je dostupno odmah na ulazu u stari jezgru."
               }
             },
             {
@@ -1328,7 +1335,7 @@
                 "hu": "Parkoljon közel a parthoz a rövid gyalogút érdekében.",
                 "ro": "Parcați aproape de apă pentru a merge puțin prin ploaie.",
                 "en": "Park close to the water to minimize walking in the rain.",
-                "hr": "Parkirajte blizu mora kako biste smanjili hodanje po kiši."
+                "hr": "Parkirajte blizu vode da smanjite hodanje po kiši."
               }
             },
             {
@@ -1338,7 +1345,7 @@
                 "hu": "Az út felfelé keskeny, esőben vezessen fokozott óvatossággal.",
                 "ro": "Drumul spre culme este îngust, conduceți cu atenție pe ploaie.",
                 "en": "The road up is narrow; drive carefully in rainy conditions.",
-                "hr": "Cesta prema gore je uska; vozite oprezno u kišnim uvjetima."
+                "hr": "Cesta uzbrdo je uska; vozite pažljivo po kiši."
               }
             },
             {
@@ -1348,7 +1355,7 @@
                 "hu": "Élvezze a kilátást közvetlenül a száraz autóból.",
                 "ro": "Bucurați-vă de priveliște direct din mașina uscată.",
                 "en": "Enjoy the panoramic view directly from your dry car.",
-                "hr": "Uživajte u panoramskom pogledu izravno iz suhog automobila."
+                "hr": "Uživajte u panorami izravno iz svog suhog automobila."
               }
             },
             {
@@ -1358,7 +1365,7 @@
                 "hu": "Keressen közeli parkolóval rendelkező éttermet.",
                 "ro": "Căutați un restaurant cu parcare în apropiere.",
                 "en": "Look for a restaurant with nearby parking for convenience.",
-                "hr": "Tražite restoran s obližnjim parkingom radi praktičnosti."
+                "hr": "Potražite restoran s obližnjim parkiranjem radi praktičnosti."
               }
             },
             {
@@ -1378,7 +1385,7 @@
                 "hu": "Válasszon egy hangulatos beltérrel rendelkező kávézót.",
                 "ro": "Alegeți o cafenea cu un interior primitor și cald.",
                 "en": "Choose a cafe with a cozy and warm indoor seating area.",
-                "hr": "Odaberite kafić s ugodnim i toplim unutarnjim prostorom."
+                "hr": "Odaberite kafić s ugodnim i toplim unutarnjim sjedenjem."
               }
             }
           ],
@@ -1412,11 +1419,11 @@
               "Visit a nearby shopping mall if the rain is persistent."
             ],
             "hr": [
-              "Pripazite na akvaplaning na obalnim cestama.",
-              "Vidljivost može biti smanjena zbog zamagljivanja prozora; koristite klimu.",
-              "Iskoristite parkirališta smještena neposredno uz luku.",
-              "Držite kišobran u autu za kratke šetnje između postaja.",
-              "Posjetite obližnji trgovački centar ako kiša potraje."
+              "Pazite na akvaplaning na cestama uz obalu.",
+              "Vidljivost može biti ograničena zbog zamagljenih stakala; koristite klima-uređaj.",
+              "Iskoristite parkirališta smještena izravno uz luku.",
+              "Držite kišobran u autu za kratke šetnje između stanica.",
+              "Posjetite obližnji trgovački centar ako kiša dugo traje."
             ]
           }
         },
@@ -1426,7 +1433,7 @@
             "hu": "A téli autózás Segetben a falu csendes arcát mutatja meg. Délelőtt meglátogatjuk a történelmi helyszíneket, élvezve az autó melegét. Délben a hegyi templomokhoz hajtunk a látványos panorámáért. Egy kiadós ebéd után a tengerparton fejezzük be a napot, ahol a téli nap korán a tengerbe vész. Komfortos nap, tele fényekkel.",
             "ro": "O plimbare de iarnă prin Seget dezvăluie latura liniștită a satului. Vizităm locurile istorice dimineața, bucurându-ne de căldura mașinii. La prânz mergem spre bisericile montane pentru vederi spectaculoase. După o masă consistentă, încheiem ziua la plajă, unde soarele de iarnă apune devreme în mare. O zi plină de lumină și confort.",
             "en": "A winter drive through Seget showcases the village’s quiet side. We visit historical sites in the morning, enjoying the warmth of the car. At noon, we head to the hilltop churches for spectacular distant views. After a hearty meal, we finish the day at the beach where the winter sun sets early into the sea. A day of bright spots and comfort.",
-            "hr": "Zimska vožnja kroz Seget pokazuje mirnu stranu sela. Ujutro posjećujemo povijesna mjesta, uživajući u toplini automobila. U podne idemo do crkvi na brdu za spektakularne poglede u daljinu. Nakon krepkog obroka, dan završavamo na plaži gdje zimsko sunce rano zalazi u more. Dan svijetlih točaka i udobnosti."
+            "hr": "Zimska vožnja kroz Seget pokazuje mirniju stranu sela. Ujutro posjećujemo povijesna mjesta uživajući u toplini automobila. U podne odlazimo do crkava na vrhu brda za spektakularne udaljene poglede. Nakon obilnog obroka završavamo dan na plaži gdje zimsko sunce rano zalazi u more. Dan ispunjen svijetlim trenucima i ugodom."
           },
           "stops": [
             {
@@ -1436,7 +1443,7 @@
                 "hu": "Télen gond nélkül talál parkolót közvetlenül a központban.",
                 "ro": "Iarna găsiți locuri de parcare fără probleme lângă centru.",
                 "en": "In winter, you'll easily find parking spots right by the center.",
-                "hr": "Zimi ćete lako pronaći parkirna mjesta odmah uz centar."
+                "hr": "Zimi ćete lako pronaći mjesta za parkiranje odmah uz centar."
               }
             },
             {
@@ -1446,7 +1453,7 @@
                 "hu": "Tökéletes egy gyors pillantásra a tengerre fagyoskodás nélkül.",
                 "ro": "Perfect pentru o privire rapidă spre mare fără a îngheța.",
                 "en": "Perfect for a quick look at the sea without getting too cold.",
-                "hr": "Savršeno za brzi pogled na more bez prevelikog smrzavanja."
+                "hr": "Savršeno za brz pogled na more bez velike hladnoće."
               }
             },
             {
@@ -1456,7 +1463,7 @@
                 "hu": "A téli panoráma innen fentről felülmúlhatatlan.",
                 "ro": "Vederea la distanță iarna este imbatabilă de aici de sus.",
                 "en": "The winter long-distance visibility is unbeatable from up here.",
-                "hr": "Zimska vidljivost na velike udaljenosti je nepobjediva odavde."
+                "hr": "Zimska dugodometna vidljivost s ovdje je nenadmašna."
               }
             },
             {
@@ -1466,7 +1473,7 @@
                 "hu": "Remek megálló fotózáshoz az aranyló téli fényekben.",
                 "ro": "O oprire excelentă pentru poze în lumina aurie de iarnă.",
                 "en": "A great stop for photos in the golden winter light.",
-                "hr": "Izvrsna stanica za fotografije u zlatnom zimskom svjetlu."
+                "hr": "Odlično mjesto za fotografije u zlatnom zimskom svjetlu."
               }
             },
             {
@@ -1476,7 +1483,7 @@
                 "hu": "Válasszon kandallóval vagy jó fűtéssel rendelkező helyet.",
                 "ro": "Alegeți localuri cu șemineu sau încălzire bună.",
                 "en": "Choose venues with a fireplace or effective heating.",
-                "hr": "Birajte mjesta s kaminom ili učinkovitim grijanjem."
+                "hr": "Birajte lokacije s kaminom ili učinkovitim grijanjem."
               }
             },
             {
@@ -1486,7 +1493,7 @@
                 "hu": "A parti séta télen is nagyon frissítő és élénkítő.",
                 "ro": "Plimbarea pe plajă este foarte revigorantă și iarna.",
                 "en": "A beach stroll is very invigorating even in winter.",
-                "hr": "Šetnja plažom vrlo je okrepljujuća čak i zimi."
+                "hr": "Šetnja plažom vrlo je razbuđujuća i zimi."
               }
             },
             {
@@ -1496,7 +1503,7 @@
                 "hu": "Próbáljon ki helyette egy forró csokoládét.",
                 "ro": "Încercați în schimb o ciocolată caldă cremoasă.",
                 "en": "Try a thick hot chocolate instead of ice cream.",
-                "hr": "Probajte gustu toplu čokoladu umjesto sladoleda."
+                "hr": "Pokušajte gusti topli kakao umjesto sladoleda."
               }
             }
           ],
@@ -1530,10 +1537,10 @@
               "Keep a warm blanket in the car for comfort during breaks."
             ],
             "hr": [
-              "Provjerite tlak u gumama jer pada s nižim temperaturama.",
-              "Važna je tekućina za pranje stakla protiv smrzavanja.",
-              "Bura može zaljuljati automobil na izloženim područjima u zaleđu.",
-              "Planirajte povratak s otvorenih mjesta prije 17 sati.",
+              "Provjerite tlak u gumama jer opada pri nižim temperaturama.",
+              "Protizmrzavajuća tekućina za pranje vjetrobrana je važna.",
+              "Vjetar bura može zatresti auto na izloženim zaleđnim područjima.",
+              "Isplanirajte povratak s otvorenih mjesta prije 17:00.",
               "Držite toplu deku u autu za udobnost tijekom pauza."
             ]
           }
@@ -1571,7 +1578,8 @@
             "de": "Frühstück am Hafen",
             "hu": "Reggeli a kikötőben",
             "ro": "Mic dejun în port",
-            "en": "Breakfast at Harbor"
+            "en": "Breakfast at Harbor",
+            "hr": "Doručak u luci"
           },
           "coords": [
             16.2338,
@@ -1587,7 +1595,7 @@
             "hu": "Élvezze a kávét és croissant-t.",
             "ro": "Savurați un croissant și o cafea.",
             "en": "Enjoy a coffee and croissant.",
-            "hr": "Uživajte u kavi i croissant-u."
+            "hr": "Uživajte u kavi i kroasanu."
           }
         },
         {
@@ -1614,7 +1622,8 @@
             "de": "Bootsfahrt nach Medena",
             "hu": "Hajózás Medenára",
             "ro": "Plimbare cu barca spre Medena",
-            "en": "Boat Ride to Medena"
+            "en": "Boat Ride to Medena",
+            "hr": "Vožnja brodom do Medene"
           },
           "coords": [
             16.233,
@@ -1630,7 +1639,7 @@
             "hu": "Használja a taxihajót.",
             "ro": "Folosiți barca taxi.",
             "en": "Use the taxi boat service.",
-            "hr": "Koristite uslugu taxi broda."
+            "hr": "Iskoristite uslugu taksi broda."
           }
         },
         {
@@ -1658,7 +1667,7 @@
         "hu": "Seget kiválóan felfedezhető helyi buszokkal és taxihajókkal. Kezdje a történelmi központban, majd használja a vízi taxit egy látványos utazáshoz a Medena strandig. Ez megkíméli a gyaloglástól, és gyönyörű perspektívát nyújt a tengerpartra a víz felől.",
         "ro": "Segetul poate fi explorat excelent cu autobuze locale și bărci taxi. Începeți în centrul istoric și folosiți taxiul pe apă pentru o călătorie pitorească spre plaja Medena. Acest lucru vă scutește de mersul pe jos și oferă o perspectivă frumoasă asupra coastei de pe mare.",
         "en": "Seget can be explored excellently with local buses and taxi boats. Start in the historical center and use the water taxi for a scenic trip to Medena beach. This saves you the walk and offers a beautiful perspective of the coastline from the sea.",
-        "hr": "Seget se može izvrsno istražiti lokalnim autobusima i taxi brodovima. Krenite u povijesnom centru i koristite taxi brod za slikovit izlet do plaže Medena. To će vam uštedjeti hodanje i ponuditi prekrasnu perspektivu obale s mora."
+        "hr": "Seget se izvrsno istražuje lokalnim autobusima i taksi brodovima. Počnite u povijesnom središtu i koristite vodeni taksi za slikovitu vožnju do plaže Medena. Time izbjegavate šetnju i dobivate prekrasnu perspektivu obale s mora."
       },
       "gastro_picks": {
         "de": [
@@ -1779,7 +1788,7 @@
           "Bus 37 connects Seget with Trogir and Split."
         ],
         "hr": [
-          "Taxi brodovi voze svakih 15-30 minuta u sezoni.",
+          "Taksi brodovi voze svakih 15–30 minuta u sezoni.",
           "Autobus 37 povezuje Seget s Trogir i Splitom."
         ]
       },
@@ -1790,7 +1799,7 @@
             "hu": "Az eső Segetben logisztikai kihívássá teszi a tömegközlekedést. A várnál kezdünk, majd a kikötőben reggelizünk a buszra várva. Délben a templomot látogatjuk meg, a várakozási időt pedig nézelődéssel töltjük. A hajóút Medenába esőben rövid, de frissítő élmény. Ez a nap türelmet igényel, de hiteles helyi élményeket ad.",
             "ro": "Ploaia în Seget transformă transportul public într-o sarcină logistică. Începem la cetate și luăm micul dejun în port așteptând autobuzul. La prânz vizităm biserica, folosind timpul de așteptare pentru observații. Călătoria cu barca spre Medena este scurtă pe ploaie, dar revigorantă. O zi care necesită răbdare, dar oferă perspective autentice.",
             "en": "Rain in Seget turns public transit into a bit of a logistical puzzle. We start at the fort and have breakfast by the harbor while waiting for the bus. At noon, we visit the church, using the wait times to observe local life. The boat ride to Medena is short but refreshing in the rain. A day that requires patience but offers authentic local insights.",
-            "hr": "Kiša u Segetu pretvara javni prijevoz u logističku zagonetku. Krećemo od utvrde i doručkujemo u luci čekajući autobus. U podne posjećujemo crkvu, koristeći vrijeme čekanja za promatranje lokalnog života. Vožnja brodom do Medene je kratka, ali osvježavajuća na kiši. Dan koji zahtijeva strpljenje, ali nudi autentične lokalne uvide."
+            "hr": "Kiša u Segetu javnom prijevozu daje malu logističku zagonetku. Krećemo od tvrđave i doručkujemo uz luku čekajući autobus. U podne posjećujemo crkvu, koristeći vrijeme čekanja za promatranje lokalnog života. Vožnja brodom do Medene kratka je ali osvježavajuća po kiši. Dan koji zahtijeva strpljenje, ali nudi autentičan lokalni uvid."
           },
           "stops": [
             {
@@ -1810,7 +1819,7 @@
                 "hu": "Válasszon közvetlenül a megálló melletti kávézót.",
                 "ro": "Alegeți o cafenea chiar lângă stația de transport.",
                 "en": "Choose a cafe located right next to the transit stop.",
-                "hr": "Odaberite kafić koji se nalazi odmah uz stanicu prijevoza."
+                "hr": "Odaberite kafić smješten odmah uz stajalište javnog prijevoza."
               }
             },
             {
@@ -1820,7 +1829,7 @@
                 "hu": "Ellenőrizze a menetrendet, hogy elkerülje a hosszú várakozást.",
                 "ro": "Verificați orarul pentru a evita așteptarea lungă.",
                 "en": "Check the timetable carefully to avoid long waits.",
-                "hr": "Pažljivo provjerite vozni red kako biste izbjegli duga čekanja."
+                "hr": "Pažljivo provjerite vozni red kako biste izbjegli dugo čekanje."
               }
             },
             {
@@ -1830,7 +1839,7 @@
                 "hu": "A hajónak általában van egy fedett, zárt része.",
                 "ro": "Barca are adesea o zonă acoperită și protejată.",
                 "en": "The boat usually has a covered or sheltered area.",
-                "hr": "Brod obično ima natkriveni ili zaštićeni dio."
+                "hr": "Brodić obično ima pokriveno ili zaštićeno mjesto."
               }
             },
             {
@@ -1840,7 +1849,7 @@
                 "hu": "Menjen busszal, ha a hajó vihar miatt nem közlekedik.",
                 "ro": "Luați autobuzul dacă barca este anulată din cauza furtunii.",
                 "en": "Use the bus if the boat service is suspended due to storm.",
-                "hr": "Koristite autobus ako je brodska linija obustavljena zbog oluje."
+                "hr": "Koristite autobus ako je brodska služba obustavljena zbog oluje."
               }
             }
           ],
@@ -1874,10 +1883,10 @@
               "Use wait times in cafes to plan your next steps."
             ],
             "hr": [
-              "Preuzmite aplikaciju za prijevoz za ažuriranja voznog reda u stvarnom vremenu.",
-              "Pripremite sitniš za kupnju autobusnih karata.",
-              "Brodski prijevoz može biti obustavljen tijekom jakog vjetra.",
-              "Nosite odjeću koja se brzo suši kako biste ostali u udobnosti.",
+              "Preuzmite aplikaciju za prijevoz za ažuriranja rasporeda u stvarnom vremenu.",
+              "Imajte sitniš spreman za kupnju autobusnih karata.",
+              "Brodske usluge mogu biti obustavljene tijekom jakih vjetrova.",
+              "Nosite brzo-sušeću odjeću za veću udobnost.",
               "Iskoristite vrijeme čekanja u kafićima za planiranje sljedećih koraka."
             ]
           }
@@ -1888,7 +1897,7 @@
             "hu": "A téli tömegközlekedés Segetben nyugodt, de tervezést igényel a ritkább járatok miatt. Délelőtt a várat fedezzük fel, majd kávézunk a kikötőben. Délben busszal megyünk a templomhoz, élvezve a friss levegőt. A hajójárat Medenába télen ritkább, de pazar kilátást nyújt a partra. Lassú és élvezetes nap a pillanat szerelmeseinek.",
             "ro": "Tranzitul de iarnă în Seget este liniștit, dar necesită planificare din cauza orarului redus. Dimineața explorăm cetatea și bem o cafea în port. La prânz, autobuzul ne duce la biserică, unde respirăm aerul curat. Călătoria cu barca spre Medena este rară iarna, dar oferă vederi superbe. O zi lentă pentru cei care savurează momentul.",
             "en": "Winter transit in Seget is peaceful but requires planning due to reduced schedules. In the morning, we explore the fort and enjoy coffee at the harbor. At noon, the bus takes us to the church where we breathe the crisp air. The boat ride to Medena is less frequent in winter but offers stunning coastal views. A slow-paced day for those who savor the moment.",
-            "hr": "Zimski prijevoz u Segetu je miran, ali zahtijeva planiranje zbog smanjenog broja linija. Ujutro istražujemo utvrdu i uživamo u kavi u luci. U podne nas autobus vozi do crkve gdje udišemo svjež zrak. Vožnja brodom do Medene je rjeđa zimi, ali nudi zadivljujuće poglede na obalu. Polagani dan za one koji uživaju u trenutku."
+            "hr": "Zimski prijevoz u Segetu je miran, ali zahtijeva planiranje zbog smanjenih polazaka. Ujutro istražujemo tvrđavu i uživamo u kavi u luci. U podne autobus nas vodi do crkve gdje udišemo svježi zrak. Vožnja brodom do Medene rjeđa je zimi, ali nudi zadivljujuće obalne poglede. Spori dan za one koji uživaju u trenutku."
           },
           "stops": [
             {
@@ -1898,7 +1907,7 @@
                 "hu": "A buszok télen ritkábban járnak, ellenőrizze a tervet.",
                 "ro": "Autobuzele circulă mai rar iarna, verificați orarul atent.",
                 "en": "Buses run less frequently in winter; check the plan carefully.",
-                "hr": "Autobusi zimi voze rjeđe; pažljivo provjerite plan."
+                "hr": "Autobusi voze rjeđe zimi; pažljivo provjerite raspored."
               }
             },
             {
@@ -1908,7 +1917,7 @@
                 "hu": "Élvezze a napsütést egy szélvédett teraszon.",
                 "ro": "Bucurați-vă de soare pe o terasă ferită de vânt.",
                 "en": "Enjoy the winter sun in a wind-sheltered outdoor area.",
-                "hr": "Uživajte u zimskom suncu na vanjskom prostoru zaštićenom od vjetra."
+                "hr": "Uživajte u zimskom suncu na zaštićenom vanjskom prostoru."
               }
             },
             {
@@ -1918,7 +1927,7 @@
                 "hu": "Ügyeljen a buszok korai visszaindulási időpontjaira.",
                 "ro": "Fiți atenți la orele de întoarcere timpurii ale autobuzelor.",
                 "en": "Be mindful of the early return times of the local buses.",
-                "hr": "Pripazite na rane termine povratka lokalnih autobusa."
+                "hr": "Imajte na umu rane povratke lokalnih autobusa."
               }
             },
             {
@@ -1928,7 +1937,7 @@
                 "hu": "Járatok gyakran csak hétvégén vagy délelőtt indulnak.",
                 "ro": "Cursele au loc adesea doar în weekend sau dimineața.",
                 "en": "Boat trips often run only on weekends or in the mornings.",
-                "hr": "Vožnje brodom često idu samo vikendom ili ujutro."
+                "hr": "Brodske vožnje često su dostupne samo vikendom ili ujutro."
               }
             },
             {
@@ -1938,7 +1947,7 @@
                 "hu": "Az utolsó visszajárat gyakran naplemente előtt indul.",
                 "ro": "Ultima cursă de întoarcere este adesea înainte de apus.",
                 "en": "The last return trip is often scheduled before sunset.",
-                "hr": "Zadnja povratna vožnja često je zakazana prije zalaska sunca."
+                "hr": "Posljednja povratna vožnja često je planirana prije zalaska sunca."
               }
             }
           ],
@@ -1972,11 +1981,11 @@
               "It gets dark early; stay close to the transit stops."
             ],
             "hr": [
-              "Pitajte lokalce o nedavnim nenajavljenim promjenama voznog reda.",
-              "Taxi ili Uber su dobre alternative ako propustite autobus.",
-              "Brodska linija 'Bura Line' ima specifičan zimski vozni red.",
-              "Iskoristite višak vremena za duge, ugodne pauze za ručak.",
-              "Rano mrači; ostanite blizu stanica prijevoza."
+              "Pitajte lokalce za nedavno neobjavljene promjene u rasporedu.",
+              "Taksi ili Uber su dobar rezervni plan ako propustite autobus.",
+              "Brodska linija 'Bura Line' ima poseban zimski raspored.",
+              "Iskoristite dodatno vrijeme za duge, ugodne pauze za ručak.",
+              "Rano se smrači; ostanite blizu stajališta javnog prijevoza."
             ]
           }
         }

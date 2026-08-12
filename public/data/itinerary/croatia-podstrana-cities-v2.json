@@ -21,7 +21,8 @@
             "de": "Plaža Strožanac",
             "hu": "Strožanac strand",
             "ro": "Plaja Strožanac",
-            "en": "Strožanac Beach"
+            "en": "Strožanac Beach",
+            "hr": "Plaža Strožanac"
           },
           "coords": [
             16.532,
@@ -45,7 +46,8 @@
             "de": "Hafenpromenade Strožanac",
             "hu": "Strožanac kikötői sétány",
             "ro": "Promenada Portului Strožanac",
-            "en": "Strožanac Harbor Walk"
+            "en": "Strožanac Harbor Walk",
+            "hr": "Šetnja lukom Strožanac"
           },
           "coords": [
             16.535,
@@ -61,7 +63,7 @@
             "hu": "Nézze meg a kikötőbe érkező halászhajókat.",
             "ro": "Urmăriți bărcile de pescuit care intră în port.",
             "en": "Watch the fishing boats entering the marina.",
-            "hr": "Gledajte ribarske brodove kako ulaze u marinu."
+            "hr": "Gledajte ribarske barke kako ulaze u marinu."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Ljetnikovac Cindro",
             "hu": "Cindro-nyaraló",
             "ro": "Conacul Cindro",
-            "en": "Cindro House"
+            "en": "Cindro House",
+            "hr": "Kuća Cindro"
           },
           "coords": [
             16.536,
@@ -85,7 +88,7 @@
             "hu": "Gyönyörű 17. századi kert és épületegyüttes.",
             "ro": "Grădini superbe din secolul al XVII-lea.",
             "en": "Beautiful 17th-century garden and mansion.",
-            "hr": "Prekrasan ljetnikovac i vrt iz 17. stoljeća."
+            "hr": "Prekrasan vrt i dvorac iz 17. stoljeća."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Mittagessen in der Konoba",
             "hu": "Ebéd egy konobában",
             "ro": "Prânz la o konoba",
-            "en": "Lunch at a Konoba"
+            "en": "Lunch at a Konoba",
+            "hr": "Ručak u konobi"
           },
           "coords": [
             16.541,
@@ -109,7 +113,7 @@
             "hu": "Kóstolja meg a grillezett halat vagy a pekát.",
             "ro": "Încercați peștele la grătar sau peka.",
             "en": "Try the grilled fish or traditional peka.",
-            "hr": "Probajte ribu na žaru ili tradicionalnu peku."
+            "hr": "Isprobajte grilanu ribu ili tradicionalnu peku."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Uferpromenade Riva",
             "hu": "Riva sétány",
             "ro": "Faleza Riva",
-            "en": "Waterfront Stroll"
+            "en": "Waterfront Stroll",
+            "hr": "Šetnja obalom"
           },
           "coords": [
             16.555,
@@ -133,7 +138,7 @@
             "hu": "Pihentető séta az Adria partja mentén.",
             "ro": "O plimbare relaxantă de-a lungul Adriaticii.",
             "en": "Relaxing walk along the Adriatic coast.",
-            "hr": "Opuštajuća šetnja duž jadranske obale."
+            "hr": "Opustajuća šetnja uz jadransku obalu."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Crkva svetog Martina",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sfântul Martin",
-            "en": "Church of St. Martin"
+            "en": "Church of St. Martin",
+            "hr": "Crkva sv. Martina"
           },
           "coords": [
             16.572,
@@ -157,7 +163,7 @@
             "hu": "Történelmi templom a római romok közelében.",
             "ro": "Biserică istorică lângă ruinele romane.",
             "en": "Historic church near the Roman ruins.",
-            "hr": "Povijesna crkva u blizini rimskih ostataka."
+            "hr": "Povijesna crkva blizu rimskih ruševina."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Sonnenuntergang am Strand",
             "hu": "Naplemente a tengerparton",
             "ro": "Apus de soare pe plajă",
-            "en": "Sunset at the Beach"
+            "en": "Sunset at the Beach",
+            "hr": "Zalazak sunca na plaži"
           },
           "coords": [
             16.574,
@@ -190,7 +197,7 @@
         "hu": "A napot Podstrana északi részén, a népszerű Strožanac strandon kezdheti. Egy frissítő reggeli úszás után sétáljon el a kikötőbe, és látogasson el a barokk kori Cindro-nyaralóba. Ebédre keressen egy hangulatos konobát a tengerpart közelében, ahol helyi tengeri finomságokat kóstolhat. Délután a part mentén sétáljon délre a Szent Márton-templomhoz, majd zárja a napot a tengerparton a lemenő nap sugaraiban gyönyörködve.",
         "ro": "Ziua începe în partea de nord a orașului Podstrana, pe populara plajă Strožanac. După o baie revigorantă de dimineață, mergeți spre port și vizitați conacul Cindro, o bijuterie barocă. La prânz, alegeți o konoba primitoare pentru a degusta specialități dalmate din pește. După-amiaza vă poartă de-a lungul coastei spre sud, până la biserica Sfântul Martin, înainte de a încheia ziua cu un apus spectaculos pe plajă.",
         "en": "Your day starts at the northern end of Podstrana at the popular Strožanac beach. After a refreshing morning swim, walk to the marina and visit the baroque Cindro House. For lunch, settle into a cozy local konoba for some authentic Dalmatian seafood. The afternoon takes you south along the scenic waterfront to the Church of St. Martin, finishing the day with a peaceful sunset by the sea.",
-        "hr": "Vaš dan počinje na sjevernom kraju Podstrane, na popularnoj plaži Strožanac. Nakon osvježavajućeg jutarnjeg kupanja, prošećite do marine i posjetite barokni ljetnikovac Cindro. Za ručak se smjestite u ugodnu lokalnu konobu i kušajte autentične dalmatinske morske plodove. Poslijepodne vas vodi južnije duž slikovite obale do crkve sv. Martina, a dan završite mirnim zalaskom sunca uz more."
+        "hr": "Vaš dan počinje na sjevernom kraju Podstrane na popularnoj plaži Strožanac. Nakon osvježavajućeg jutarnjeg kupanja, prošetajte do marine i posjetite baroknu Kuću Cindro. Za ručak smjestite se u ugodnu lokalnu konobu i uživajte u autentičnim dalmatinskim morskim plodovima. Poslijepodne vas vodi južno duž slikovite šetnice do Crkve sv. Martina, a dan završava mirnim zalaskom sunca uz more."
       },
       "gastro_picks": {
         "de": [
@@ -384,10 +391,10 @@
           "At noon, the Cindro garden is a pleasantly shady spot."
         ],
         "hr": [
-          "Podstrana je vrlo izdužena, udobna obuća je neophodna.",
+          "Podstrana je jako izdužena, potrebna je udobna obuća.",
           "Većina plaža je šljunčana, ponesite obuću za vodu.",
           "Obalna staza je ravna i laka za hodanje.",
-          "U podne je vrt ljetnikovca Cindro ugodno sjenovito mjesto."
+          "U podne je Cindro vrt ugodno sjenovito mjesto."
         ]
       },
       "variants": {
@@ -397,7 +404,7 @@
             "hu": "Az esős reggel Podstranában csendesen indul a Strožanac strandon, ahol a szürke hullámok morajlása hallatszik. Délben a Cindro-ház nyújt menedéket a csapadék elől, elmélyedve a történelemben. A délutánt egy barátságos konobában töltjük, meleg ételek mellett várakozva. Az estét a Szent Márton-templomnál zárjuk, figyelve az Adriára hulló esőcseppeket.",
             "ro": "O dimineață ploioasă în Podstrana începe liniștit pe plaja Strožanac, unde valurile gri se sparg de mal. La prânz, Casa Cindro oferă un adăpost istoric binevenit împotriva ploii. După-amiaza este petrecută confortabil într-o konoba locală, cu mâncare caldă. Seara se încheie la biserica Sf. Martin, în timp ce ploaia cade ușor peste Marea Adriatică.",
             "en": "A rainy morning in Podstrana starts quietly at Strožanac Beach, where gray waves lap the shore. At noon, the historic Cindro House provides a welcome shelter from the drizzle. The afternoon is spent cozily over a long lunch in a local konoba. We conclude the evening at the Church of St. Martin, watching the rain fall gently over the Adriatic Sea.",
-            "hr": "Kišno jutro u Podstrani počinje mirno na plaži Strožanac, gdje sivi valovi zapljuskuju obalu. U podne povijesni ljetnikovac Cindro pruža dobrodošao zaklon od kišice. Poslijepodne provodimo ugodno uz dugi ručak u lokalnoj konobi. Večer završavamo kod crkve sv. Martina, promatrajući kako kiša lagano pada nad Jadranskim morem."
+            "hr": "Kišno jutro u Podstrani započinje tiho na plaži Strožanac, gdje sivi valovi zapljuskuju obalu. U podne povijesna Kuća Cindro pruža dobrodošli zaklon od rosulje. Poslijepodne se provodi ugodno uz dug ručak u lokalnoj konobi. Večer zaključujemo kod Crkve sv. Martina, gledajući kako kiša lagano pada nad Jadranskim morem."
           },
           "stops": [
             {
@@ -407,7 +414,7 @@
                 "hu": "Vigyél esernyőt; a parti kávézók fedett teraszai jó menedékek.",
                 "ro": "Luați o umbrelă; cafenelele de pe margine oferă locuri uscate.",
                 "en": "Take an umbrella; the cafes along the edge offer dry seating.",
-                "hr": "Ponesite kišobran; kafići uz obalu nude suha mjesta."
+                "hr": "Ponesite kišobran; kafići uz obalu nude suha sjedala."
               }
             },
             {
@@ -417,7 +424,7 @@
                 "hu": "Vigyázat, a kikötői kövek esőben csúszósak lehetnek.",
                 "ro": "Atenție la pietrele alunecoase de pe digul portului.",
                 "en": "Be careful on the slippery stones along the harbor wall.",
-                "hr": "Budite oprezni na skliskom kamenju uz lučki zid."
+                "hr": "Budite oprezni na skliskim kamenima uz lukobran."
               }
             },
             {
@@ -427,7 +434,7 @@
                 "hu": "Tökéletes hely a legnagyobb zápor átvészelésére a belső udvaron.",
                 "ro": "Locul perfect pentru a aștepta trecerea ploii în curtea interioară.",
                 "en": "Perfect place to wait out the heaviest downpour in the dry courtyard.",
-                "hr": "Savršeno mjesto za čekanje da prođe najjači pljusak u suhom dvorištu."
+                "hr": "Savršeno mjesto za pričekati najjaču pljusku u suhom dvorištu."
               }
             },
             {
@@ -437,7 +444,7 @@
                 "hu": "Kóstolj meg egy meleg pekát, ami ideális lélekmelengető esőben.",
                 "ro": "Încercați o peka caldă, mâncarea ideală pentru o zi ploioasă.",
                 "en": "Try a warm peka, the ideal comfort food for a rainy day.",
-                "hr": "Probajte toplu peku, idealnu utjehu za kišni dan."
+                "hr": "Probajte toplu peka, idealnu utjehu za kišni dan."
               }
             },
             {
@@ -447,7 +454,7 @@
                 "hu": "Élvezd a viharos tenger látványát a parti sétányról.",
                 "ro": "Bucurați-vă de vederea dramatică a mării furtunoase de pe faleză.",
                 "en": "Enjoy the dramatic view of the stormy sea from the promenade.",
-                "hr": "Uživajte u dramatičnom pogledu na olujno more sa šetnice."
+                "hr": "Uživajte u dramatičnom pogledu na olujno more s promenade."
               }
             },
             {
@@ -457,7 +464,7 @@
                 "hu": "A belső tér csendje és védettsége megnyugtató az esőben.",
                 "ro": "O scurtă vizită în interior oferă protecție și liniște.",
                 "en": "A short visit inside offers protection and silence.",
-                "hr": "Kratak posjet unutrašnjosti nudi zaštitu i tišinu."
+                "hr": "Kratki unutarnji posjet nudi zaštitu i tišinu."
               }
             },
             {
@@ -467,7 +474,7 @@
                 "hu": "Az eső utáni felhők játéka ilyenkor is látványos lehet.",
                 "ro": "Formațiunile de nori după ploaie sunt adesea spectaculoase.",
                 "en": "The cloud formations after the rain are often spectacular.",
-                "hr": "Formacije oblaka nakon kiše često su spektakularne."
+                "hr": "Nakon kiše često su spektakularne formacije oblaka."
               }
             }
           ],
@@ -503,9 +510,9 @@
             "hr": [
               "Vodootporna obuća je neophodna za obalne staze.",
               "Iskoristite rezidenciju Cindro za duže pauze od kiše.",
-              "Lokalne konobe su često grijane izvan sezone.",
+              "Lokalne konobe često su grijane tijekom predsezone i niske sezone.",
               "Pazite na nalete vjetra koji mogu oštetiti kišobrane.",
-              "Pogled na otoke često je mističan po kiši."
+              "Pogled na otočiće u kiši često je mističan."
             ]
           }
         },
@@ -515,7 +522,7 @@
             "hu": "A téli reggel Podstranában friss, gyakran napsütéses, de hűvös. A Strožanac strand üressége ilyenkor igazi kikapcsolódást nyújt. Délben a Cindro-ház falai között melegszünk fel, majd egy konobában kóstolunk meg helyi téli finomságokat. Mivel a nap már 16:30 körül nyugszik, korábban látogatjuk meg a Szent Márton-templomot, hogy a naplementét még a parton érjük.",
             "ro": "Dimineața de iarnă în Podstrana este proaspătă și adesea însorită. O plimbare pe plaja goală Strožanac oferă relaxare pură. La prânz ne încălzim în Casa Cindro înainte de a merge la o konoba pentru specialități locale de iarnă. Deoarece soarele apune deja în jur de 16:30, vizităm biserica Sf. Martin după-amiaza devreme și savurăm apusul pe plajă.",
             "en": "Winter mornings in Podstrana are crisp and often sun-drenched. A stroll along the empty Strožanac Beach offers pure relaxation. At noon, we warm up at the Cindro House before heading to a konoba for local winter specialties. As the sun sets around 16:30, we visit the Church of St. Martin in the early afternoon and enjoy the early sunset at the beach.",
-            "hr": "Zimska jutra u Podstrani su svježa i često okupana suncem. Šetnja praznom plažom Strožanac nudi čisto opuštanje. U podne se grijemo u ljetnikovcu Cindro prije odlaska u konobu na lokalne zimske specijalitete. Kako sunce zalazi oko 16:30, posjećujemo crkvu sv. Martina rano poslijepodne i uživamo u ranom zalasku na plaži."
+            "hr": "Zimska jutra u Podstrani su svježa i često okupana suncem. Šetnja po praznoj plaži Strožanac pruža istinski odmor. U podne se ugrijemo u Kući Cindro prije odlaska u konobu na lokalne zimske specijalitete. Kako sunce zalazi oko 16:30, posjetimo crkvu sv. Martina ranije popodne i uživamo u ranom zalasku na plaži."
           },
           "stops": [
             {
@@ -525,7 +532,7 @@
                 "hu": "Szélálló dzseki kötelező; a Bóra szél nagyon hideg tud lenni.",
                 "ro": "Purtați o jachetă rezistentă la vânt; Bura poate fi foarte rece.",
                 "en": "Wear a windproof jacket; the Bura wind can be very cold.",
-                "hr": "Nosite jaknu otpornu na vjetar; bura može biti vrlo hladna."
+                "hr": "Nosite vjetrootpornu jaknu; bura može biti vrlo hladna."
               }
             },
             {
@@ -535,7 +542,7 @@
                 "hu": "Élvezd a tiszta téli levegőt és a kikötő téli nyugalmát.",
                 "ro": "Bucurați-vă de aerul curat de iarnă și de liniștea portului.",
                 "en": "Enjoy the crisp winter air and the quiet of the harbor.",
-                "hr": "Uživajte u svježem zimskom zraku i miru u luci."
+                "hr": "Uživajte u svježem zimskom zraku i tišini luke."
               }
             },
             {
@@ -545,7 +552,7 @@
                 "hu": "Télen a kőfalak hűvösek, de jól védenek a szél elől.",
                 "ro": "Iarna, zidurile de piatră sunt reci, dar protejate de vânt.",
                 "en": "In winter, the stone walls are cool but provide shelter from wind.",
-                "hr": "Zimi su kameni zidovi hladni, ali pružaju zaklon od vjetra."
+                "hr": "Zimske kamene zidine su hladne, ali pružaju zaklon od vjetra."
               }
             },
             {
@@ -555,7 +562,7 @@
                 "hu": "Kérj egy házi rakiját a bemelegítéshez az ebéd előtt.",
                 "ro": "Cereți un rachiu de casă (rakija) pentru a vă încălzi.",
                 "en": "Ask for a homemade brandy (rakija) to warm up.",
-                "hr": "Tražite domaću rakiju za zagrijavanje."
+                "hr": "Zatražite domaću rakiju da se ugrijete."
               }
             },
             {
@@ -565,7 +572,7 @@
                 "hu": "A nap alacsonyan jár, gyönyörűen csillog az Adriai-tengeren.",
                 "ro": "Soarele este jos și sclipește frumos pe suprafața apei.",
                 "en": "The sun is low and glitters beautifully on the water.",
-                "hr": "Sunce je nisko i prekrasno svjetluca na vodi."
+                "hr": "Sunce je nisko i lijepo se presijava na vodi."
               }
             },
             {
@@ -575,7 +582,7 @@
                 "hu": "Kora délutáni látogatás javasolt a kedvező fények miatt.",
                 "ro": "Vizită după-amiaza devreme datorită luminii favorabile.",
                 "en": "Early afternoon visit recommended for the best lighting.",
-                "hr": "Preporučuje se posjet rano poslijepodne zbog najboljeg svjetla."
+                "hr": "Preporuča se posjet ranih poslijepodnevnih sati za najbolje svjetlo."
               }
             },
             {
@@ -585,7 +592,7 @@
                 "hu": "A naplemente már 16:30 körül megtörténik, ne késd le!",
                 "ro": "Apusul este deja în jur de ora 16:30; nu îl ratați!",
                 "en": "Sunset is already around 16:30; don't miss it!",
-                "hr": "Zalazak sunca je već oko 16:30; ne propustite ga!"
+                "hr": "Zalazak je već oko 16:30; ne propustite ga!"
               }
             }
           ],
@@ -619,10 +626,10 @@
               "Paths are empty and ideal for solitary winter walks."
             ],
             "hr": [
-              "Odjenite se slojevito zbog sunca i hladnog vjetra.",
+              "Obucite se u slojevima kako biste podnijeli i sunce i hladan vjetar.",
               "Sunce zalazi već oko 16:30 u zimskim mjesecima.",
-              "Mnogi kafići rade s kraćim zimskim radnim vremenom.",
-              "Kvaliteta zraka je iznimna zimi zbog bure.",
+              "Mnogi kafići rade skraćeno tijekom zime.",
+              "Kvaliteta zraka je izvanredna zimi zbog bure.",
               "Staze su prazne i idealne za osamljene zimske šetnje."
             ]
           }
@@ -642,7 +649,8 @@
             "de": "Plaža Strožanac",
             "hu": "Strožanac strand",
             "ro": "Plaja Strožanac",
-            "en": "Strožanac Beach"
+            "en": "Strožanac Beach",
+            "hr": "Plaža Strožanac"
           },
           "coords": [
             16.532,
@@ -658,7 +666,7 @@
             "hu": "Itt kezdje a túrát egy fürdés után.",
             "ro": "Începeți turul aici după o baie.",
             "en": "Start your tour here after a swim.",
-            "hr": "Započnite turu ovdje nakon kupanja."
+            "hr": "Započnite svoju turu ovdje nakon plivanja."
           }
         },
         {
@@ -666,7 +674,8 @@
             "de": "Ljetnikovac Cindro",
             "hu": "Cindro-nyaraló",
             "ro": "Conacul Cindro",
-            "en": "Cindro House"
+            "en": "Cindro House",
+            "hr": "Kuća Cindro"
           },
           "coords": [
             16.536,
@@ -682,7 +691,7 @@
             "hu": "A kerékpárokat a kapu előtt le lehet tenni.",
             "ro": "Bicicletele pot fi parcate în fața porții.",
             "en": "Bikes can be parked in front of the gate.",
-            "hr": "Bicikli se mogu parkirati ispred vrata."
+            "hr": "Bicikle možete parkirati ispred kapije."
           }
         },
         {
@@ -690,7 +699,8 @@
             "de": "Mittagessen in einer Konoba",
             "hu": "Ebéd egy konobában",
             "ro": "Prânz la o konoba",
-            "en": "Lunch at a Konoba"
+            "en": "Lunch at a Konoba",
+            "hr": "Ručak u konobi"
           },
           "coords": [
             16.565,
@@ -714,7 +724,8 @@
             "de": "Crkva svetog Martina",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sfântul Martin",
-            "en": "Church of St. Martin"
+            "en": "Church of St. Martin",
+            "hr": "Crkva sv. Martina"
           },
           "coords": [
             16.572,
@@ -738,7 +749,8 @@
             "de": "Aussichtspunkt Perun-Hang",
             "hu": "Perun-lejtő kilátópont",
             "ro": "Punct de belvedere Perun",
-            "en": "Perun Slope Viewpoint"
+            "en": "Perun Slope Viewpoint",
+            "hr": "Vidikovac Perun Slope"
           },
           "coords": [
             16.568,
@@ -754,7 +766,7 @@
             "hu": "Kicsit meredek, de a kilátás megéri.",
             "ro": "Urcare puțin abruptă, dar priveliștea merită.",
             "en": "A bit of a climb, but the view is worth it.",
-            "hr": "Malo uspona, ali pogled je vrijedan truda."
+            "hr": "Malo je uspona, ali pogled se isplati."
           }
         },
         {
@@ -762,7 +774,8 @@
             "de": "Sonnenuntergang am Jachthafen",
             "hu": "Naplemente a kikötőben",
             "ro": "Apus de soare în port",
-            "en": "Sunset at the Marina"
+            "en": "Sunset at the Marina",
+            "hr": "Zalazak na marini"
           },
           "coords": [
             16.534,
@@ -787,7 +800,7 @@
         "hu": "Fedezze fel Podstranát két keréken. Északon kezdjen a Strožanac strandnál, majd kövesse a tengerparti kerékpárutat a Cindro-házhoz. Egy kellemes déli ebéd után tegyen egy kis kitérőt a Perun-hegy lankái felé, ahonnan pazar kilátás nyílik Splitre és a szigetekre, végül tekerjen vissza a kikötőbe.",
         "ro": "Descoperiți Podstrana pe două roți. Începeți în nord, la plaja Strožanac, și urmați pista de biciclete de pe coastă până la conacul Cindro. După un prânz pescăresc în sud, partea mai solicitantă vă duce puțin pe versantul Perun pentru o panoramă asupra Splitului și a insulelor, înainte de a reveni în port.",
         "en": "Explore Podstrana on two wheels. Start in the north at Strožanac Beach and follow the coastal bike path to the historic Cindro House. After a seafood lunch in the south, the more challenging part takes you slightly up the Perun slope for a panorama over Split and the islands, before cycling back to the marina.",
-        "hr": "Istražite Podstranu na dva kotača. Krenite sa sjevera s plaže Strožanac i pratite obalnu biciklističku stazu do povijesnog ljetnikovca Cindro. Nakon morskog ručka na jugu, izazovniji dio vodi vas lagano uz padinu brda Perun za panoramski pogled na Split i otoke, prije povratka u marinu."
+        "hr": "Istražite Podstranu na dva kotača. Započnite na sjeveru na plaži Strožanac i slijedite obalnu biciklističku stazu do povijesne Kuće Cindro. Nakon ribljeg ručka na jugu, zahtjevniji dio vodi vas blago uzbrdo na padinu Peruna s panoramom Splita i otoka, prije povratka u marinu."
       },
       "gastro_picks": {
         "de": [
@@ -916,10 +929,10 @@
           "Stay hydrated in the heat."
         ],
         "hr": [
-          "Glavna cesta ljeti može imati gust promet.",
-          "Koristite stazu uz more kad god je to moguće.",
-          "Uspon na Perun zahtijeva dobre brzine.",
-          "Pijte dovoljno tekućine po vrućini."
+          "Glavna cesta može biti prometna tijekom ljeta.",
+          "Koristite morsku stazu kad god je moguće.",
+          "Uspon na Perun zahtijeva dobro postavljene brzine.",
+          "Ostanite hidrirani u vrućini."
         ]
       },
       "variants": {
@@ -929,7 +942,7 @@
             "hu": "Az eső ellenére a Strožanac strandnál kezdjük a bringázást, az aszfaltozott utak jól bírják. Délben a Cindro-házban pihenünk meg, majd egy konobában pótoljuk az energiát. A Perun-lejtőt ma csak óvatosan közelítjük meg a csúszós terep miatt. Az estét a kikötőben zárjuk egy forró ital mellett, fedett helyen.",
             "ro": "În ciuda ploii, începem tura cu bicicleta la plaja Strožanac; drumurile asfaltate sunt practicabile. La prânz căutăm adăpost la Casa Cindro și ne refacem forțele într-o konoba. Abordăm panta Perun cu prudență astăzi din cauza terenului alunecos. Seara ne bucurăm de o băutură caldă în port, cu bicicletele la adăpost.",
             "en": "Despite the rain, we start our bike tour at Strožanac Beach; the paved paths remain manageable. At noon, we seek shelter at the Cindro House and refuel later in a konoba. We approach the Perun slope cautiously today due to the slippery conditions. We enjoy the evening with a warm drink at the harbor, keeping the bikes dry.",
-            "hr": "Unatoč kiši, započinjemo biciklističku turu na plaži Strožanac; asfaltirane staze su prohodne. U podne tražimo zaklon u ljetnikovcu Cindro, a kasnije se krijepimo u konobi. Padini Peruna danas pristupamo oprezno zbog skliskog terena. Večer provodimo uz topli napitak u luci, držeći bicikle na suhom."
+            "hr": "Unatoč kiši, započinjemo biciklističku turu na plaži Strožanac; asfaltirane staze ostaju prohodne. U podne tražimo zaklon u Kući Cindro i kasnije se okrepljujemo u konobi. Zbog klizavih uvjeta danas oprezno prilazimo padini Peruna. Večer provodimo uz topli napitak u luci, pazeći da bicikle držimo suhim."
           },
           "stops": [
             {
@@ -939,7 +952,7 @@
                 "hu": "Vigyázz a tócsákra a közvetlenül a tenger melletti úton.",
                 "ro": "Atenție la bălțile de pe pista de biciclete de lângă mare.",
                 "en": "Watch out for puddles on the bike path right by the sea.",
-                "hr": "Pazite na lokve na biciklističkoj stazi tik uz more."
+                "hr": "Pazite na lokve na biciklističkoj stazi uz more."
               }
             },
             {
@@ -959,7 +972,7 @@
                 "hu": "Válassz belső résszel rendelkező konobát a vizes ruhák miatt.",
                 "ro": "Alegeți o konoba cu spațiu interior pentru hainele ude.",
                 "en": "Choose a konoba with indoor seating for your wet gear.",
-                "hr": "Odaberite konobu s unutarnjim sjedištem zbog mokre opreme."
+                "hr": "Odaberite konobu s unutarnjim sjedenjem za svoju mokru opremu."
               }
             },
             {
@@ -979,7 +992,7 @@
                 "hu": "Vigyázz a lefelé úton; sár és kavicsok lehetnek az ösvényen.",
                 "ro": "Atenție la coborâre; noroi și pietre pe potecă.",
                 "en": "Careful on the descent; mud and loose stones on the path.",
-                "hr": "Oprezno pri spustu; blato i kamenčići na stazi."
+                "hr": "Budite oprezni pri spustu; blato i labavo kamenje na stazi."
               }
             },
             {
@@ -989,7 +1002,7 @@
                 "hu": "A kikötő kivilágított útjai szürke időben is jól járhatóak.",
                 "ro": "Marina oferă căi luminate chiar și pe vreme mohorâtă.",
                 "en": "The marina offers lit paths even in gloomy weather.",
-                "hr": "Marina nudi osvijetljene staze čak i po tmurnom vremenu."
+                "hr": "Marina nudi osvijetljene putove i u tmurnom vremenu."
               }
             }
           ],
@@ -1023,11 +1036,11 @@
               "Use waterproof panniers to keep your belongings dry."
             ],
             "hr": [
-              "Blatobrani su obavezni na biciklu po ovakvom vremenu.",
-              "Nosite reflektirajuću odjeću zbog loše vidljivosti.",
-              "Izbjegavajte neasfaltirane staze na Perunu tijekom jake kiše.",
-              "Provjerite kočnice prije spuštanja natrag u mjesto.",
-              "Koristite vodootporne torbe kako bi vaše stvari ostale suhe."
+              "Blatobrani su obvezni na biciklu u ovakvom vremenu.",
+              "Nosite reflektirajuće oznake zbog loših svjetlosnih uvjeta.",
+              "Izbjegavajte neasfaltirane staze na padini Peruna tijekom jake kiše.",
+              "Provjerite kočnice prije spuštanja natrag u selo.",
+              "Koristite vodootporne torbe za prtljagu kako biste stvari držali suhim."
             ]
           }
         },
@@ -1037,7 +1050,7 @@
             "hu": "A téli bringázáshoz meleg kesztyű kell. A Strožanac strandtól indulunk a ragyogó kék ég alatt. Délben megnézzük a Cindro-házat, élvezve a csendet. Egy laktató ebéd után tekerünk fel a Perun-lejtőre, ahonnan télen különösen tiszta a kilátás. Naplementekor már visszafelé tartunk a kikötőbe, mielőtt fagyossá válna a levegő.",
             "ro": "O tură de iarnă cu bicicleta necesită mănuși calde. Pornim de la plaja Strožanac sub un cer senin. La prânz vizităm Casa Cindro și ne bucurăm de liniște. Un prânz consistent ne dă putere pentru urcarea pe panta Perun, unde vederea este clară iarna. La apus pedalăm înapoi spre marină înainte de îngheț.",
             "en": "A winter bike tour requires warm gloves. We start at Strožanac Beach under a bright blue sky. At noon, we visit the Cindro House and enjoy the silence. A hearty lunch gives us strength for the climb to the Perun slope, where winter views are exceptionally clear. At sunset, we ride back to the marina before the frost sets in.",
-            "hr": "Zimska biciklistička tura zahtijeva tople rukavice. Krećemo s plaže Strožanac pod vedrim plavim nebom. U podne posjećujemo ljetnikovac Cindro i uživamo u tišini. Obilan ručak daje nam snagu za uspon na padinu Peruna, odakle su zimski vidici izuzetno bistri. U zalazak sunca vraćamo se u marinu prije mraza."
+            "hr": "Zimska biciklistička tura zahtijeva tople rukavice. Započinjemo na plaži Strožanac pod bistro plavim nebom. U podne posjećujemo Kuću Cindro i uživamo u tišini. Snažan ručak daje nam snagu za uspon na padinu Peruna, gdje su zimski vidici izuzetno jasni. Pri zalasku sunca vraćamo se u marinu prije nego što nastupi mraz."
           },
           "stops": [
             {
@@ -1047,7 +1060,7 @@
                 "hu": "A parti szél miatt a hőérzet sokkal alacsonyabb lehet.",
                 "ro": "Vântul de pe plajă poate scădea temperatura resimțită.",
                 "en": "The wind at the beach can significantly lower the wind chill.",
-                "hr": "Vjetar na plaži može značajno pojačati osjećaj hladnoće."
+                "hr": "Vjetar na plaži može značajno sniziti osjećaj temperature."
               }
             },
             {
@@ -1057,7 +1070,7 @@
                 "hu": "Rövid pihenő a régi falak szélvédett oldalán.",
                 "ro": "O scurtă pauză la adăpostul zidurilor vechi.",
                 "en": "A brief break in the wind shadow of the ancient walls.",
-                "hr": "Kratka pauza u zavjetrini drevnih zidova."
+                "hr": "Kratka pauza u zasjenjenju vjetra drevnih zidina."
               }
             },
             {
@@ -1067,7 +1080,7 @@
                 "hu": "Rendelj forró teát vagy kávét az ujjaid felmelegítéséhez.",
                 "ro": "Comandați un ceai sau o cafea fierbinte pentru mâini.",
                 "en": "Order hot tea or coffee to warm up your fingers.",
-                "hr": "Naručite topli čaj ili kavu da zagrijete prste."
+                "hr": "Naručite vrući čaj ili kavu da ugrijete prste."
               }
             },
             {
@@ -1077,7 +1090,7 @@
                 "hu": "A délutáni fények tökéletesek a templom fotózásához.",
                 "ro": "Lumina de după-amiază este perfectă pentru fotografii.",
                 "en": "The afternoon light is perfect for photographing the church.",
-                "hr": "Popodnevno svjetlo je savršeno za fotografiranje crkve."
+                "hr": "Poslijepodnevno svjetlo savršeno je za fotografiranje crkve."
               }
             },
             {
@@ -1087,7 +1100,7 @@
                 "hu": "Vigyázz a jeges foltokra a sziklák árnyékos oldalán.",
                 "ro": "Atenție la porțiunile înghețate în umbra stâncilor.",
                 "en": "Watch out for icy patches in the shadows of the rocks.",
-                "hr": "Pazite na zaleđene dijelove u sjenama stijena."
+                "hr": "Pazite na zaleđene mrlje u sjenama stijena."
               }
             },
             {
@@ -1097,7 +1110,7 @@
                 "hu": "Ellenőrizd a lámpákat; télen nagyon korán sötétedik.",
                 "ro": "Verificați luminile; se întunecă foarte devreme iarna.",
                 "en": "Check your lights; it gets dark very early in winter.",
-                "hr": "Provjerite svjetla; zimi mrak pada vrlo rano."
+                "hr": "Provjerite svjetla; vrlo rano pada mrak zimi."
               }
             }
           ],
@@ -1131,10 +1144,10 @@
               "The sun disappears behind the mountains around 16:30."
             ],
             "hr": [
-              "Spakirajte termosicu s toplim čajem za pauze.",
-              "Izbjegavajte intenzivan sprint kako biste spriječili znojenje i hlađenje.",
+              "Spakirajte termos s toplim čajem za pauze.",
+              "Izbjegavajte intenzivne sprintove kako biste spriječili znojenje i prohladu.",
               "Bura može otežati vožnju biciklom duž obale.",
-              "Odjenite se slojevito kako biste lakše dodavali ili skidali odjeću.",
+              "Nosite slojeve koje lako možete dodati ili skinuti.",
               "Sunce nestaje iza planina oko 16:30."
             ]
           }
@@ -1154,7 +1167,8 @@
             "de": "Brdo Perun (Gipfel)",
             "hu": "Perun-hegy (csúcs)",
             "ro": "Muntele Perun (vârf)",
-            "en": "Mount Perun (Summit)"
+            "en": "Mount Perun (Summit)",
+            "hr": "Planina Perun (Vrh)"
           },
           "coords": [
             16.561,
@@ -1170,7 +1184,7 @@
             "hu": "Lélegzetelállító kilátás az Adriára.",
             "ro": "Vedere uluitoare spre Marea Adriatică.",
             "en": "Breathtaking view of the Adriatic Sea.",
-            "hr": "Pogled na Jadransko more koji oduzima dah."
+            "hr": "Oduziman pogled na Jadransko more."
           }
         },
         {
@@ -1178,7 +1192,8 @@
             "de": "Wanderpause am Perun",
             "hu": "Túraszünet a Perunon",
             "ro": "Pauză de drumeție pe Perun",
-            "en": "Hiking break on Perun"
+            "en": "Hiking break on Perun",
+            "hr": "Odmor tijekom uspona na Perun"
           },
           "coords": [
             16.565,
@@ -1202,7 +1217,8 @@
             "de": "Ljetnikovac Cindro",
             "hu": "Cindro-nyaraló",
             "ro": "Conacul Cindro",
-            "en": "Cindro House"
+            "en": "Cindro House",
+            "hr": "Kuća Cindro"
           },
           "coords": [
             16.536,
@@ -1218,7 +1234,7 @@
             "hu": "A közelben van parkolóhely.",
             "ro": "Parcare disponibilă chiar în apropiere.",
             "en": "Parking available right nearby.",
-            "hr": "Parking dostupan u neposrednoj blizini."
+            "hr": "Parkiralište dostupno odmah u blizini."
           }
         },
         {
@@ -1226,7 +1242,8 @@
             "de": "Marina Strožanac",
             "hu": "Strožanac kikötő",
             "ro": "Marina Strožanac",
-            "en": "Strožanac Marina"
+            "en": "Strožanac Marina",
+            "hr": "Marina Strožanac"
           },
           "coords": [
             16.535,
@@ -1250,7 +1267,8 @@
             "de": "Mittagessen am Meer",
             "hu": "Ebéd a tengerparton",
             "ro": "Prânz la malul mării",
-            "en": "Lunch by the Sea"
+            "en": "Lunch by the Sea",
+            "hr": "Ručak uz more"
           },
           "coords": [
             16.533,
@@ -1266,7 +1284,7 @@
             "hu": "Élvezze a tenger gyümölcseit.",
             "ro": "Savurați fructele de mare.",
             "en": "Enjoy the fresh seafood.",
-            "hr": "Uživajte u svježim plodovima mora."
+            "hr": "Uživajte u svježim morskim plodovima."
           }
         },
         {
@@ -1274,7 +1292,8 @@
             "de": "Crkva svetog Martina",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sfântul Martin",
-            "en": "Church of St. Martin"
+            "en": "Church of St. Martin",
+            "hr": "Crkva sv. Martina"
           },
           "coords": [
             16.572,
@@ -1290,7 +1309,7 @@
             "hu": "Történelmi hely római sírkövekkel.",
             "ro": "Loc istoric cu pietre funerare romane.",
             "en": "Historic site with Roman tombstones.",
-            "hr": "Povijesno mjesto s rimskim nadgrobnim spomenicima."
+            "hr": "Povijesno mjesto s rimskim nadgrobnim pločama."
           }
         },
         {
@@ -1298,7 +1317,8 @@
             "de": "Plaža Strožanac",
             "hu": "Strožanac strand",
             "ro": "Plaja Strožanac",
-            "en": "Strožanac Beach"
+            "en": "Strožanac Beach",
+            "hr": "Plaža Strožanac"
           },
           "coords": [
             16.532,
@@ -1322,7 +1342,8 @@
             "de": "Sonnenuntergang am Aussichtspunkt",
             "hu": "Naplemente a kilátónál",
             "ro": "Apus de soare la belvedere",
-            "en": "Sunset Viewpoint"
+            "en": "Sunset Viewpoint",
+            "hr": "Vidikovac za zalazak sunca"
           },
           "coords": [
             16.568,
@@ -1347,7 +1368,7 @@
         "hu": "Autóval kényelmesen elérheti Podstrana legszebb kilátópontjait. Kezdje a napot a Perun-hegy csúcsán, ahonnan belátni az egész környéket. Ezután hajtson le a Cindro-nyaralóhoz és a Strožanac kikötőhöz egy finom ebédre. Látogassa meg a déli részen fekvő Szent Márton-templomot, majd zárja a napot egy tengerre néző panorámás ponton.",
         "ro": "Cu mașina, puteți ajunge fără efort la cele mai frumoase puncte de belvedere din Podstrana. Începeți pe vârful muntelui Perun pentru o vedere panoramică. Apoi coborâți spre conacul Cindro și marina Strožanac pentru un prânz relaxat. Vizitați biserica Sf. Martin din sud și încheiați ziua într-un punct de observație deasupra coastei.",
         "en": "By car, you can effortlessly reach Podstrana's best viewpoints. Start at the summit of Mount Perun for an expansive view. Then head down to the Cindro House and Strožanac Marina for a relaxed lunch. Visit the historic St. Martin Church in the south and finish the day at a panoramic spot overlooking the coast.",
-        "hr": "Automobilom možete bez napora doći do najboljih vidikovaca Podstrane. Počnite na vrhu brda Perun za prostran pogled. Zatim se spustite do ljetnikovca Cindro i marine Strožanac na opušteni ručak. Posjetite povijesnu crkvu sv. Martina na jugu i završite dan na panoramskom mjestu s pogledom na obalu."
+        "hr": "Autom možete bez napora doći do najboljih vidikovaca Podstrane. Započnite na vrhu Planine Perun za prostrani pogled. Zatim se spustite do Kuće Cindro i Marine Strožanac na opušteni ručak. Posjetite povijesnu crkvu sv. Martina na jugu i završite dan na panoramskom mjestu s pogledom na obalu."
       },
       "gastro_picks": {
         "de": [
@@ -1476,10 +1497,10 @@
           "Some viewpoints are only accessible via gravel roads."
         ],
         "hr": [
-          "Cesta za Perun je uska, vozite oprezno.",
-          "Postoje velika javna parkirališta u Strožancu.",
-          "Izbjegavajte prometne gužve prema Splitu.",
-          "Neki vidikovci su dostupni samo makadamskim cestama."
+          "Cesta prema Perunu je uska, vozite pažljivo.",
+          "U Strožancu postoje veliki javni parking prostori.",
+          "Izbjegavajte špice prema Splitu.",
+          "Neki vidikovci dostupni su samo preko makadamskih cesta."
         ]
       },
       "variants": {
@@ -1489,7 +1510,7 @@
             "hu": "Autóval Podstrana esőben is kényelmesen felfedezhető. Először a Perun-hegy csúcsára hajtunk, ahol ilyenkor alacsonyan szállnak a felhők. A délelőttöt a Cindro-házban töltjük szárazon. A tengerparti ebéd alatt nézzük az Adria feletti esőt. Délután meglátogatjuk a Szent Márton-templomot, majd a kocsiból figyeljük a Strožanac strandot.",
             "ro": "Cu mașina, Podstrana este confortabil de explorat chiar și pe ploaie. Conducem mai întâi spre vârful muntelui Perun, unde norii sunt joși. Dimineața o petrecem la adăpost în Casa Cindro. Un prânz la malul mării oferă o priveliște excelentă a ploii peste Adriatică. După-amiaza vizităm Sf. Martin și ne relaxăm la plaja Strožanac.",
             "en": "By car, Podstrana is comfortable to explore even in the rain. We first drive to the summit of Mount Perun, where the clouds hang low. We spend the morning dry inside the Cindro House. Lunch by the sea offers a great view of the rain over the Adriatic. In the afternoon, we visit St. Martin and later relax at Strožanac Beach from the car.",
-            "hr": "Automobilom je Podstrana ugodna za istraživanje čak i po kiši. Prvo se vozimo do vrha brda Perun, gdje su oblaci niski. Jutro provodimo na suhom unutar ljetnikovca Cindro. Ručak uz more nudi sjajan pogled na kišu nad Jadranom. Poslijepodne posjećujemo sv. Martina, a kasnije se opuštamo na plaži Strožanac iz automobila."
+            "hr": "Autom je ugodno istraživati Podstranu i po kiši. Prvo vozimo do vrha Planine Perun, gdje oblaci vise nisko. Jutro provodimo suhi u Kući Cindro. Ručak uz more nudi izvrstan pogled na kišu nad Jadranom. Poslijepodne posjećujemo sv. Martina, a kasnije se iz automobila opuštamo na plaži Strožanac."
           },
           "stops": [
             {
@@ -1509,7 +1530,7 @@
                 "hu": "Inkább maradj a kocsiban, és onnan nézd a kilátást.",
                 "ro": "Mai bine rămâneți în mașină și savurați priveliștea.",
                 "en": "Better to stay in the car and enjoy the view from there.",
-                "hr": "Bolje je ostati u autu i uživati u pogledu odande."
+                "hr": "Bolje je ostati u autu i uživati u pogledu od tamo."
               }
             },
             {
@@ -1519,7 +1540,7 @@
                 "hu": "A parkolóhelyek közvetlenül a bejárat mellett vannak.",
                 "ro": "Locurile de parcare sunt chiar lângă intrare.",
                 "en": "Parking spaces are located directly near the entrance.",
-                "hr": "Parkirna mjesta nalaze se izravno u blizini ulaza."
+                "hr": "Parkirna mjesta nalaze se neposredno uz ulaz."
               }
             },
             {
@@ -1529,7 +1550,7 @@
                 "hu": "Rövid megálló; a hajók az esőben nagyon békések.",
                 "ro": "O scurtă oprire; bărcile pe ploaie par foarte liniștite.",
                 "en": "A short stop; the boats in the rain look very peaceful.",
-                "hr": "Kratko zaustavljanje; brodovi po kiši izgledaju vrlo spokojno."
+                "hr": "Kratka stanka; čamci na kiši izgledaju vrlo miroljubivo."
               }
             },
             {
@@ -1539,7 +1560,7 @@
                 "hu": "Sok étterem nagy üvegablakokkal néz a tengerre.",
                 "ro": "Multe restaurante au ferestre mari spre mare.",
                 "en": "Many restaurants have large window fronts facing the sea.",
-                "hr": "Mnogi restorani imaju velike staklene stijene prema moru."
+                "hr": "Mnogi restorani imaju velike izloge okrenute prema moru."
               }
             },
             {
@@ -1549,7 +1570,7 @@
                 "hu": "Készülj egy rövid futásra a parkolótól a templomig.",
                 "ro": "Pregătiți-vă pentru un scurt sprint de la parcare la biserică.",
                 "en": "Plan for a short sprint from the parking lot to the church.",
-                "hr": "Planirajte kratki sprint od parkinga do crkve."
+                "hr": "Planirajte kratak sprint s parkirališta do crkve."
               }
             },
             {
@@ -1569,7 +1590,7 @@
                 "hu": "Ellenőrizd az ablaktörlőket a sós pára miatt.",
                 "ro": "Verificați ștergătoarele; spuma mării poate tulbura vederea.",
                 "en": "Check your wipers; sea spray can blur the vision.",
-                "hr": "Provjerite brisače; morska pjena može zamutiti vid."
+                "hr": "Provjerite brisače; morska prskalina može zamućiti vid."
               }
             }
           ],
@@ -1603,11 +1624,11 @@
               "Keep an umbrella in the trunk for quick dashes."
             ],
             "hr": [
-              "Koristite klima uređaj kako biste spriječili magljenje stakala.",
-              "Planinska cesta za Perun može biti skliska kad je mokra.",
-              "Mnogi parkirni prostori tik uz more su prazni po kiši.",
+              "Koristite klima-uređaj kako biste spriječili magljenje prozora.",
+              "Planinska cesta prema Perunu može biti skliska kad je mokro.",
+              "Mnoge lokacije za parkiranje tik uz more prazne su kada pada kiša.",
               "Pazite na lokve na obalnoj cesti (akvaplaning).",
-              "Držite kišobran u prtljažniku za brze izlaske."
+              "Držite kišobran u prtljažniku za brze dashes."
             ]
           }
         },
@@ -1617,7 +1638,7 @@
             "hu": "Télen a Perun-csúcsra vezető út az év legtisztább kilátását nyújtja. Az utak üresek, a levegő friss. A délelőttöt a történelmi Cindro-házban töltjük. Egy bőséges tengerparti ebéd után meglátogatjuk a Szent Márton-templomot. A korai naplementét egy kilátópontról csodáljuk meg, mielőtt a hőmérséklet hirtelen leesne.",
             "ro": "Iarna, drumul spre vârful Perun oferă cea mai clară vedere panoramică din an. Drumurile sunt goale, iar aerul este proaspăt. Dimineața o petrecem la reședința istorică Cindro. După un prânz copios lângă mare, vizităm biserica Sf. Martin. Savurăm apusul timpuriu de la un punct de belvedere înainte ca temperaturile să scadă.",
             "en": "In winter, the drive to the Perun summit offers the clearest views of the year. The roads are empty, and the air is crisp. We spend the morning at the historic Cindro residence. After a hearty lunch by the sea, we visit the Church of St. Martin. We enjoy the early sunset from a viewpoint before the temperatures drop significantly.",
-            "hr": "Zimi vožnja do vrha Peruna nudi najjasnije poglede u godini. Ceste su prazne, a zrak je svjež. Jutro provodimo u povijesnoj rezidenciji Cindro. Nakon obilnog ručka uz more, posjećujemo crkvu sv. Martina. Uživamo u ranom zalasku sunca s vidikovca prije nego temperature značajno padnu."
+            "hr": "Zimi vožnja do vrha Peruna nudi najsvježije poglede u godini. Ceste su prazne, a zrak je oštar. Provedemo jutro u povijesnom dvorcu Cindro. Nakon obilnog ručka uz more, posjećujemo Crkvu sv. Martina. Uživamo u ranom zalasku s vidikovca prije nego što se temperature znatno spuste."
           },
           "stops": [
             {
@@ -1637,7 +1658,7 @@
                 "hu": "Húzz túrabakancsot; a talaj télen gyakran fagyott.",
                 "ro": "Purtați bocanci de munte; solul este adesea înghețat iarna.",
                 "en": "Wear good hiking boots; the ground is often frozen in winter.",
-                "hr": "Nosite dobre planinarske cipele; tlo je zimi često smrznuto."
+                "hr": "Nosite dobre planinarske čizme; tlo je zimi često zaleđeno."
               }
             },
             {
@@ -1657,7 +1678,7 @@
                 "hu": "A kikötő téli nyugalma különösen pihentető.",
                 "ro": "Liniștea marinei este deosebit de relaxantă iarna.",
                 "en": "The tranquility of the marina is especially relaxing in winter.",
-                "hr": "Mir u marini posebno opušta zimi."
+                "hr": "Mir marine posebno je opuštajući zimi."
               }
             },
             {
@@ -1667,7 +1688,7 @@
                 "hu": "Kóstold meg a szezonális halételeket a főszezonon kívül.",
                 "ro": "Încercați mâncărurile sezoniere cu pește în extrasezon.",
                 "en": "Try seasonal fish dishes available during the off-season.",
-                "hr": "Probajte sezonska riblja jela dostupna izvan sezone."
+                "hr": "Isprobajte sezonska riblja jela dostupna u predsezoni."
               }
             },
             {
@@ -1677,7 +1698,7 @@
                 "hu": "A téli nap alacsony fénye szépen kiemeli az épületet.",
                 "ro": "Lumina caldă a soarelui de iarnă subliniază arhitectura.",
                 "en": "The warm light of the winter sun highlights the architecture.",
-                "hr": "Toplo svjetlo zimskog sunca ističe arhitekturu."
+                "hr": "Topla svjetlost zimskog sunca ističe arhitekturu."
               }
             },
             {
@@ -1687,7 +1708,7 @@
                 "hu": "Ideális egy rövid, frissítő téli sétához a parton.",
                 "ro": "Ideal pentru o plimbare scurtă și revigorantă de iarnă.",
                 "en": "Ideal for a short, refreshing winter walk on the beach.",
-                "hr": "Idealno za kratku, osvježavajuću zimsku šetnju plažom."
+                "hr": "Idealan za kratku, osvježavajuću zimsku šetnju plažom."
               }
             },
             {
@@ -1697,7 +1718,7 @@
                 "hu": "Öltözz melegen; naplemente után hirtelen lehűl a levegő.",
                 "ro": "Îmbrăcați-vă bine; se răcește repede după apus.",
                 "en": "Dress warmly; it cools down rapidly after sunset.",
-                "hr": "Odjenite se toplo; nakon zalaska sunca brzo zahladni."
+                "hr": "Obucite se toplo; brzo se hladi nakon zalaska sunca."
               }
             }
           ],
@@ -1731,10 +1752,10 @@
               "The sun sets as early as 16:30 in winter months."
             ],
             "hr": [
-              "Provjerite tlak u gumama jer temperature padaju.",
+              "Provjerite tlak u gumama dok temperature padaju.",
               "Bura može biti jaka na izloženim cestama prema Perunu.",
-              "Mraz je rijedak na obali, ali moguć u brdima.",
-              "Uživajte u jasnim vidicima u daljinu koji su jedinstveni za zimu.",
+              "Mraz je na obali rijedak, ali moguć u planinama.",
+              "Uživajte u jasnim udaljenim pogledima svojstvenim zimi.",
               "Sunce zalazi već oko 16:30 u zimskim mjesecima."
             ]
           }
@@ -1754,7 +1775,8 @@
             "de": "Plaža Strožanac",
             "hu": "Strožanac strand",
             "ro": "Plaja Strožanac",
-            "en": "Strožanac Beach"
+            "en": "Strožanac Beach",
+            "hr": "Plaža Strožanac"
           },
           "coords": [
             16.532,
@@ -1770,7 +1792,7 @@
             "hu": "Buszmegálló közvetlenül a strandnál.",
             "ro": "Stație de autobuz chiar lângă plajă.",
             "en": "Bus stop right at the beach entrance.",
-            "hr": "Autobusna stanica odmah na ulazu na plažu."
+            "hr": "Stajalište autobusa odmah kod ulaza na plažu."
           }
         },
         {
@@ -1778,7 +1800,8 @@
             "de": "Ljetnikovac Cindro",
             "hu": "Cindro-nyaraló",
             "ro": "Conacul Cindro",
-            "en": "Cindro House"
+            "en": "Cindro House",
+            "hr": "Kuća Cindro"
           },
           "coords": [
             16.536,
@@ -1794,7 +1817,7 @@
             "hu": "Rövid séta a megállótól.",
             "ro": "O scurtă plimbare de la stație.",
             "en": "A short walk from the stop.",
-            "hr": "Kratka šetnja od stanice."
+            "hr": "Kratka šetnja od stajališta."
           }
         },
         {
@@ -1802,7 +1825,8 @@
             "de": "Mittagessen in der Konoba",
             "hu": "Ebéd egy konobában",
             "ro": "Prânz la o konoba",
-            "en": "Lunch at a Konoba"
+            "en": "Lunch at a Konoba",
+            "hr": "Ručak u konobi"
           },
           "coords": [
             16.541,
@@ -1818,7 +1842,7 @@
             "hu": "Sok étterem van a főút mentén.",
             "ro": "Multe localuri de-a lungul drumului principal.",
             "en": "Many restaurants along the main road.",
-            "hr": "Mnogi restorani duž glavne ceste."
+            "hr": "Mnogi restorani uz glavnu cestu."
           }
         },
         {
@@ -1826,7 +1850,8 @@
             "de": "Spaziergang am Meer",
             "hu": "Tengerparti séta",
             "ro": "Plimbare pe malul mării",
-            "en": "Seaside Walk"
+            "en": "Seaside Walk",
+            "hr": "Šetnica uz more"
           },
           "coords": [
             16.555,
@@ -1842,7 +1867,7 @@
             "hu": "Kövesse a part menti utat délre.",
             "ro": "Urmați poteca de pe țărm spre sud.",
             "en": "Follow the coastal path south.",
-            "hr": "Pratite obalnu stazu prema jugu."
+            "hr": "Slijedite obalni put prema jugu."
           }
         },
         {
@@ -1850,7 +1875,8 @@
             "de": "Crkva svetog Martina",
             "hu": "Szent Márton-templom",
             "ro": "Biserica Sfântul Martin",
-            "en": "Church of St. Martin"
+            "en": "Church of St. Martin",
+            "hr": "Crkva sv. Martina"
           },
           "coords": [
             16.572,
@@ -1874,7 +1900,8 @@
             "de": "Abendlicher Strandaufenthalt",
             "hu": "Esti tengerpartozás",
             "ro": "Seară pe plajă",
-            "en": "Evening at the Beach"
+            "en": "Evening at the Beach",
+            "hr": "Večer na plaži"
           },
           "coords": [
             16.574,
@@ -1890,7 +1917,7 @@
             "hu": "Utolsó pihenés a hazautazás előtt.",
             "ro": "Ultima relaxare înainte de plecare.",
             "en": "Last relaxation before heading back.",
-            "hr": "Zadnje opuštanje prije povratka."
+            "hr": "Posljednje opuštanje prije povratka."
           }
         }
       ],
@@ -1899,7 +1926,7 @@
         "hu": "Podstrana kiválóan elérhető a 60-as busszal. Kezdje a napot a Strožanac strandon. A Cindro-ház megtekintése után utazzon pár megállót délebbre egy finom ebédhez. A délutánt töltse a Szent Márton-templomnál, amely fontos történelmi emlékhely, majd zárja a napot Podstrana déli strandján pihenve.",
         "ro": "Podstrana este ușor accesibilă cu autobuzul 60. Începeți ziua la plaja Strožanac. După ce vizitați conacul Cindro, mergeți câteva stații spre sud pentru prânz. Petreceți după-amiaza la biserica Sfântul Martin, un sit istoric important, înainte de a încheia ziua relaxat pe plaja din sudul orașului.",
         "en": "Podstrana is easily accessible via bus line 60. Start your day at Strožanac Beach. After visiting the historic Cindro House, take the bus a few stops south for lunch. Spend the afternoon at the Church of St. Martin, a significant historical site, before ending your day relaxing on the southern beach of Podstrana.",
-        "hr": "Podstrana je lako dostupna autobusnom linijom 60. Započnite dan na plaži Strožanac. Nakon posjeta povijesnom ljetnikovcu Cindro, idite autobusom nekoliko stanica južnije na ručak. Poslijepodne provedite kod crkve sv. Martina, značajnog povijesnog mjesta, prije završetka dana opuštanjem na južnoj plaži Podstrane."
+        "hr": "Podstrana je lako dostupna linijom 60. Dan započnite na plaži Strožanac. Nakon posjeta povijesnoj Kući Cindro, autobusom se uputite nekoliko stanica južno na ručak. Poslijepodne provedite kod Crkve sv. Martina, važnog povijesnog mjesta, prije nego što dan završite na južnoj plaži Podstrane."
       },
       "gastro_picks": {
         "de": [
@@ -2028,10 +2055,10 @@
           "Keep an eye on the schedule for your return trip."
         ],
         "hr": [
-          "Autobusna linija 60 vozi svakih 30 minuta između Splita i Omiša.",
-          "Kupite kartu izravno kod vozača.",
-          "Stanice su raspoređene duž cijele Podstrane.",
-          "Pazite na vozni red za povratak."
+          "Linija 60 vozi svakih 30 minuta između Splita i Omiša.",
+          "Kartu kupite izravno kod vozača.",
+          "Stajališta su rasprostranjena duž cijele Podstrane.",
+          "Pratite vozni red za povratak."
         ]
       },
       "variants": {
@@ -2041,7 +2068,7 @@
             "hu": "A 60-as buszjárat esőben is megbízhatóan visz végig Podstranán. A Strožanac strandnál kezdünk, kihasználva a fedett megállókat. Délben a könnyen elérhető Cindro-házat látogatjuk meg. Egy hangulatos ebéd a konobában segít átvészelni a záporokat. Délután a Szent Márton-templomot nézzük meg, majd busszal térünk vissza a tengerpartra.",
             "ro": "Linia de autobuz 60 ne poartă în siguranță prin Podstrana chiar și pe ploaie. Începem la plaja Strožanac și folosim refugiile din stații pentru protecție. La prânz vizităm Casa Cindro, care este ușor accesibilă. Un prânz plăcut într-o konoba ne ajută să trecem de averse. După-amiaza o petrecem la biserica Sf. Martin înainte de a lua autobuzul înapoi.",
             "en": "The bus line 60 safely takes us through Podstrana even in the rain. We start at Strožanac Beach, using the bus shelters for cover. At noon, we visit the easily accessible Cindro House. A cozy lunch in a konoba helps bridge the heaviest rain showers. We spend the afternoon at the Church of St. Martin before taking the bus back to the beach.",
-            "hr": "Autobusna linija 60 sigurno nas vozi kroz Podstranu čak i po kiši. Krećemo s plaže Strožanac, koristeći nadstrešnice na stanicama. U podne posjećujemo lako dostupan ljetnikovac Cindro. Ugodan ručak u konobi pomaže premostiti najjače pljuskove. Poslijepodne provodimo kod crkve sv. Martina prije povratka autobusom na plažu."
+            "hr": "Autobus linije 60 sigurno nas vodi kroz Podstranu čak i po kiši. Počinje na plaži Strožanac, koristeći autobusne čekaonice za zaklon. U podne posjećujemo lako dostupnu Kuću Cindro. Ugodan ručak u konobi pomaže prebroditi najjače pljuskove. Poslijepodne provodimo u Crkvi sv. Martina prije povratka autobusom na plažu."
           },
           "stops": [
             {
@@ -2051,7 +2078,7 @@
                 "hu": "A buszmegálló csak pár lépésre van a strandtól.",
                 "ro": "Stația de autobuz este la doar câțiva pași de plajă.",
                 "en": "The bus stop is just a few steps away from the beach.",
-                "hr": "Autobusna stanica je samo nekoliko koraka od plaže."
+                "hr": "Autobusno stajalište je samo nekoliko koraka od plaže."
               }
             },
             {
@@ -2061,7 +2088,7 @@
                 "hu": "Használd a buszt, hogy szárazon juss el a látnivalók között.",
                 "ro": "Folosiți autobuzul pentru a călători uscat între atracții.",
                 "en": "Use the bus to travel dry between the various sights.",
-                "hr": "Koristite autobus za suhu vožnju između različitih znamenitosti."
+                "hr": "Iskoristite autobus da putujete suhi između različitih atrakcija."
               }
             },
             {
@@ -2071,7 +2098,7 @@
                 "hu": "Válassz a főúthoz közeli helyet a rövid gyalogút miatt.",
                 "ro": "Alegeți localuri lângă drumul principal pentru acces rapid la bus.",
                 "en": "Choose places near the main road for short walks to the bus.",
-                "hr": "Odaberite mjesta blizu glavne ceste radi kratke šetnje do autobusa."
+                "hr": "Birajte mjesta blizu glavne ceste za kratke šetnje do autobusa."
               }
             },
             {
@@ -2135,11 +2162,11 @@
               "Allow extra time as rain can slow down the local traffic."
             ],
             "hr": [
-              "Linija 60 (Split-Omiš) često vozi duž obale.",
-              "Idealno je kupiti karte unaprijed ili putem mobilne aplikacije.",
-              "Nadstrešnice na stanicama pružaju zaklon, ali mogu biti male.",
-              "Pripremite sitniš ako kupujete kartu kod vozača.",
-              "Planirajte dodatno vrijeme jer kiša može usporiti lokalni promet."
+              "Linija 60 (Split–Omiš) često prometuje duž obale.",
+              "Po mogućnosti kupite karte unaprijed ili putem mobilne aplikacije.",
+              "Autobusne čekaonice pružaju zaklon, ali mogu biti prilično male.",
+              "Imajte sitniš pri ruci ako kupujete kartu kod vozača.",
+              "Predvidite dodatno vrijeme jer kiša može usporiti lokalni promet."
             ]
           }
         },
@@ -2149,7 +2176,7 @@
             "hu": "A téli buszozás a 60-assal kényelmes módja Podstrana bejárásának. A Strožanac strandon élvezzük a friss levegőt. Délben a szélvédett Cindro-házat látogatjuk meg. Egy meleg ebéd a konobában télen kifejezetten jólesik. A Szent Márton-templom után busszal megyünk vissza, miközben a nap már korán lenyugszik.",
             "ro": "Călătoria de iarnă cu autobuzul 60 este un mod relaxat de a vedea Podstrana. La plaja Strožanac ne bucurăm de aerul curat. La prânz vizităm Casa Cindro, ferită de vânt. Un prânz cald într-o konoba este deosebit de plăcut iarna. După vizitarea bisericii Sf. Martin, luăm busul înapoi, soarele apunând devreme.",
             "en": "A winter trip on bus 60 is a relaxed way to see Podstrana. At Strožanac Beach, we enjoy the crisp air. At noon, we visit the sheltered Cindro House. A warming lunch in a konoba is especially cozy in winter. After visiting the Church of St. Martin, we take the bus back as the sun disappears early behind the horizon.",
-            "hr": "Zimski izlet autobusom 60 opušten je način za obilazak Podstrane. Na plaži Strožanac uživamo u svježem zraku. U podne posjećujemo zaštićeni ljetnikovac Cindro. Ručak koji grije u konobi posebno je ugodan zimi. Nakon posjeta crkvi sv. Martina, vraćamo se autobusom jer sunce rano nestaje iza horizonta."
+            "hr": "Zimsko putovanje autobusom 60 opušten je način za razgledavanje Podstrane. Na plaži Strožanac uživamo u oštrom zraku. U podne posjećujemo zaštićenu Kuću Cindro. Zagrijavajući ručak u konobi posebno je ugodan zimi. Nakon posjeta Crkvi sv. Martina vraćamo se autobusom dok sunce rano nestaje iza horizonta."
           },
           "stops": [
             {
@@ -2159,7 +2186,7 @@
                 "hu": "Télen a buszok többnyire üresebbek és kényelmesebbek.",
                 "ro": "Iarna, autobuzele sunt adesea mai goale și mai confortabile.",
                 "en": "In winter, the buses are often less crowded and more comfortable.",
-                "hr": "Zimi su autobusi često manje popunjeni i udobniji."
+                "hr": "Zimi su autobusi često rjeđe popunjeni i udobniji."
               }
             },
             {
@@ -2169,7 +2196,7 @@
                 "hu": "A busz szinte közvetlenül a történelmi birtok előtt áll meg.",
                 "ro": "Autobuzul oprește aproape direct în fața domeniului istoric.",
                 "en": "The bus stops almost directly in front of the historic estate.",
-                "hr": "Autobus staje gotovo izravno ispred povijesnog imanja."
+                "hr": "Autobus staje gotovo neposredno ispred povijesnog imanja."
               }
             },
             {
@@ -2179,7 +2206,7 @@
                 "hu": "Élvezd a helyi vendégszeretetet a turistatömeg nélkül.",
                 "ro": "Bucurați-vă de hospitalitatea locală departe de mulțime.",
                 "en": "Enjoy local hospitality away from the tourist crowds.",
-                "hr": "Uživajte u lokalnom gostoprimstvu daleko od turističkih gužvi."
+                "hr": "Uživajte u lokalnoj gostoljubivosti daleko od turističkih gužvi."
               }
             },
             {
@@ -2189,7 +2216,7 @@
                 "hu": "A téli napsütés tökéletes egy tengerparti sétához.",
                 "ro": "Soarele de iarnă este perfect pentru o plimbare pe lângă mare.",
                 "en": "The winter sun is perfect for a brisk seaside stroll.",
-                "hr": "Zimsko sunce savršeno je za brzu šetnju uz more."
+                "hr": "Zimsko sunce idealno je za živahnu šetnju uz more."
               }
             },
             {
@@ -2199,7 +2226,7 @@
                 "hu": "Figyelj a téli menetrendre; a járatok ritkábbak lehetnek.",
                 "ro": "Atenție la orarul de iarnă; frecvența busurilor poate varia.",
                 "en": "Check the winter schedule; bus frequency may vary slightly.",
-                "hr": "Provjerite zimski vozni red; učestalost autobusa može varirati."
+                "hr": "Provjerite zimski vozni red; učestalost linija može se malo razlikovati."
               }
             },
             {
@@ -2209,7 +2236,7 @@
                 "hu": "Használd az utolsó buszt a korai sötétedés előtt.",
                 "ro": "Folosiți ultimul autobuz înainte de lăsarea întunericului.",
                 "en": "Catch the last convenient bus before it gets dark early.",
-                "hr": "Uhvatite zadnji prikladni autobus prije nego što padne mrak."
+                "hr": "Uhvatite posljednji prikladan autobus prije nego što se rano smrkne."
               }
             }
           ],
@@ -2244,10 +2271,10 @@
             ],
             "hr": [
               "Autobusi su obično dobro grijani tijekom zimskih mjeseci.",
-              "Provjerite vozni red online; intervali mogu biti duži izvan sezone.",
-              "Imajte na umu da sunce rano zalazi, oko 16:30.",
-              "Koristite aplikaciju 'Split Bus' za informacije u stvarnom vremenu.",
-              "Vožnja uz obalu posebno je slikovita uz čisto zimsko svjetlo."
+              "Provjerite rasporede online; intervali mogu biti dulji izvan sezone.",
+              "Imajte na umu da sunce zalazi rano, oko 16:30.",
+              "Koristite aplikaciju 'Split Bus' za informacije o prometu u stvarnom vremenu.",
+              "Obalna vožnja posebno je slikovita uz jasno zimsko svjetlo."
             ]
           }
         }

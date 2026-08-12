@@ -21,7 +21,8 @@
             "de": "Morgenkaffee am Hauptplatz",
             "hu": "Reggeli kávé a főtéren",
             "ro": "Cafeaua de dimineață în piața centrală",
-            "en": "Morning Coffee at the Main Square"
+            "en": "Morning Coffee at the Main Square",
+            "hr": "Jutarnja kava na Trgu"
           },
           "coords": [
             17.3665,
@@ -37,7 +38,7 @@
             "hu": "Kóstoljon meg egy helyi süteményt mellé.",
             "ro": "Încercați o patiserie locală alături.",
             "en": "Try a local pastry on the side.",
-            "hr": "Probajte usputni lokalni kolač."
+            "hr": "Probajte lokalnu slasticu uz to."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Rodna kuća Tina Ujevića",
             "hu": "Rodna kuća Tina Ujevića",
             "ro": "Rodna kuća Tina Ujevića",
-            "en": "Rodna kuća Tina Ujevića"
+            "en": "Rodna kuća Tina Ujevića",
+            "hr": "Rodna kuća Tina Ujevića"
           },
           "coords": [
             17.366,
@@ -61,7 +63,7 @@
             "hu": "A régió leghíresebb költőjének szülőháza.",
             "ro": "Casa natală a celui mai faimos poet al regiunii.",
             "en": "The birthplace of the region's most famous poet.",
-            "hr": "Rodna kuća najpoznatijeg pjesnika ove regije."
+            "hr": "Rodno mjesto najpoznatijeg pjesnika ovog kraja."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Crkva Navještenja Blažene Djevice Marije",
             "hu": "Crkva Navještenja Blažene Djevice Marije",
             "ro": "Crkva Navještenja Blažene Djevice Marije",
-            "en": "Crkva Navještenja Blažene Djevice Marije"
+            "en": "Crkva Navještenja Blažene Djevice Marije",
+            "hr": "Crkva Navještenja Blažene Djevice Marije"
           },
           "coords": [
             17.367,
@@ -85,7 +88,7 @@
             "hu": "Figyelje meg a belső tér barokk részleteit.",
             "ro": "Observați detaliile baroce din interior.",
             "en": "Note the baroque details inside.",
-            "hr": "Obratite pažnju na barokne detalje u unutrašnjosti."
+            "hr": "Obratite pažnju na barokne detalje unutra."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Lokaler Bauernmarkt",
             "hu": "Helyi termelői piac",
             "ro": "Piața locală de producători",
-            "en": "Local Farmers' Market"
+            "en": "Local Farmers' Market",
+            "hr": "Lokalna tržnica"
           },
           "coords": [
             17.3655,
@@ -109,7 +113,7 @@
             "hu": "Vásároljon itt friss pršutot vagy mézet.",
             "ro": "Cumpărați pršut proaspăt sau miere de aici.",
             "en": "Buy fresh pršut or honey here.",
-            "hr": "Ovdje kupite svježi pršut ili med."
+            "hr": "Kupite svježi pršut ili med ovdje."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Mittagessen in einer Konoba",
             "hu": "Ebéd egy helyi konobában",
             "ro": "Prânz într-o tavernă locală",
-            "en": "Lunch in a local Konoba"
+            "en": "Lunch in a local Konoba",
+            "hr": "Ručak u lokalnoj konobi"
           },
           "coords": [
             17.3662,
@@ -133,7 +138,7 @@
             "hu": "Kérje a vrgoraci sonkát (pršut).",
             "ro": "Cereți șunca de Vrgorac (pršut).",
             "en": "Ask for the Vrgorac ham (pršut).",
-            "hr": "Tražite vrgorački pršut."
+            "hr": "Zatražite vrgorački pršut (pršut)."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Kapetanova kula",
             "hu": "Kapetanova kula",
             "ro": "Kapetanova kula",
-            "en": "Kapetanova kula"
+            "en": "Kapetanova kula",
+            "hr": "Kapetanova kula"
           },
           "coords": [
             17.3675,
@@ -165,7 +171,8 @@
             "de": "Gradina",
             "hu": "Gradina",
             "ro": "Gradina",
-            "en": "Gradina"
+            "en": "Gradina",
+            "hr": "Gradina"
           },
           "coords": [
             17.368,
@@ -181,7 +188,7 @@
             "hu": "Meredek emelkedő, de a kilátás megéri.",
             "ro": "Urcare abruptă, dar priveliștea merită.",
             "en": "Steep climb, but the view is worth it.",
-            "hr": "Strm uspon, ali pogled je vrijedan truda."
+            "hr": "Strm uspon, ali pogled se isplati."
           }
         },
         {
@@ -189,7 +196,8 @@
             "de": "Aussichtspunkt und Park",
             "hu": "Kilátópont és park",
             "ro": "Punct de belvedere și parc",
-            "en": "Viewpoint and Park"
+            "en": "Viewpoint and Park",
+            "hr": "Vidikovac i park"
           },
           "coords": [
             17.367,
@@ -205,7 +213,7 @@
             "hu": "Tökéletes hely a naplementés fotókhoz.",
             "ro": "Locul perfect pentru poze la apus.",
             "en": "Perfect spot for sunset photos.",
-            "hr": "Savršeno mjesto za fotografije zalaska sunca."
+            "hr": "Savršeno mjesto za zalazak sunca."
           }
         }
       ],
@@ -214,7 +222,7 @@
         "hu": "Kezdje a napot Vrgorac szívében egy erős kávéval a főtéren. Ezután látogasson el Tin Ujević történelmi szülőházába, hogy elmerüljön az irodalmi világban. A délelőtt a barokk plébániatemplomhoz vezet tovább.\n\nDélben élvezze a híres pršutot a helyi piacon, majd egy bőséges dalmát ebédet egy hangulatos konobában a városközpontban.\n\nDélután fedezze fel a város erődítményeit. A Kapitány-torony és az impozáns Gradina vár mély betekintést nyújt a hely stratégiai jelentőségébe a török háborúk idején.\n\nZárja a napot egy pihentető sétával vissza a kilátóhoz, miközben a nap a Matokit-hegység csúcsai mögött nyugszik.",
         "ro": "Începeți ziua în inima orașului Vrgorac cu o cafea tare în piața principală. Apoi vizitați casa natală istorică a lui Tin Ujević pentru a vă cufunda în lumea literară. Dimineața vă poartă mai departe către biserica parohială barocă.\n\nLa prânz, savurați faimosul pršut la piața locală, urmat de un prânz dalmat copios într-o tavernă primitoare din centrul orașului.\n\nDupă-amiaza, explorați fortificațiile orașului. Turnul Căpitanului și impunătoarea cetate Gradina oferă o privire profundă asupra importanței strategice a locului în timpul războaielor turcești.\n\nÎncheiați ziua cu o plimbare relaxantă înapoi spre punctul de belvedere, în timp ce soarele apune după vârfurile munților Matokit.",
         "en": "Start your day in the heart of Vrgorac with a strong coffee at the main square. Then visit the historic birthplace of Tin Ujević to immerse yourself in the literary world. The morning continues to the baroque parish church.\n\nAt noon, enjoy the famous pršut at the local market, followed by a hearty Dalmatian lunch in a cozy konoba in the town center.\n\nIn the afternoon, explore the town's fortifications. The Captain's Tower and the imposing Gradina fortress offer deep insights into the strategic importance of the site during the Turkish wars.\n\nEnd the day with a relaxed stroll back to the viewpoint as the sun sets behind the peaks of the Matokit mountains.",
-        "hr": "Započnite dan u srcu Vrgorca uz jaku kavu na glavnom trgu. Zatim posjetite povijesnu rodnu kuću Tina Ujevića kako biste uronili u književni svijet. Jutro se nastavlja do barokne župne crkve.\n\nU podne uživajte u poznatom pršutu na lokalnoj tržnici, nakon čega slijedi krepki dalmatinski ručak u ugodnoj konobi u centru grada.\n\nPoslijepodne istražite gradske utvrde. Kapetanova kula i impozantna tvrđava Gradina nude duboki uvid u strateški značaj ovog mjesta tijekom turskih ratova.\n\nZavršite dan opuštenom šetnjom natrag do vidikovca dok sunce zalazi iza vrhova planine Matokit."
+        "hr": "Započnite dan u srcu Vrgorca jakom kavom na glavnom trgu. Potom posjetite rodnu kuću Tinna Ujevića kako biste se uronili u književni svijet. Jutro se nastavlja u baroknu župnu crkvu.\n\nU podne uživajte u poznatom pršutu na lokalnoj tržnici, a zatim u zasitnom dalmatinskom ručku u ugodnoj konobi u centru mjesta.\n\nPoslijepodne istražite gradsku utvrdu. Kapetanova kula i impozantna tvrđava Gradina pružaju duboke uvide u strateški značaj ovog mjesta tijekom turskih ratova.\n\nDan završite opuštenom šetnjom natrag do vidikovca dok sunce zalazi iza vrhova planine Matokit."
       },
       "gastro_picks": {
         "de": [
@@ -360,7 +368,7 @@
         ],
         "hr": [
           "Nosite udobnu obuću za uspon do tvrđave.",
-          "Posjetite grad u proljeće radi festivala jagoda.",
+          "Posjetite grad u proljeće zbog festivala jagoda.",
           "Ulice u starom gradu su uske i strme."
         ]
       },
@@ -371,7 +379,7 @@
             "hu": "Az esős Vrgorac melankolikus bájt áraszt. A reggel a főtéri kávézó fedett teraszán indul. Délben a múzeumok és templomok nyújtanak száraz menedéket. Délután esernyővel járjuk be a tornyokat, miközben a Gradina kövei fényesen csillognak. A napot egy meleg konobában zárjuk helyi borok társaságában.",
             "ro": "Vrgorac pe ploaie are un farmec melancolic. Dimineața începe la adăpost în cafeneaua din piața centrală. La prânz, muzeele și bisericile oferă refugiu uscat. După-amiaza explorăm turnurile sub umbrelă, în timp ce pietrele de la Gradina strălucesc. Ziua se încheie confortabil într-o tavernă caldă cu vin local.",
             "en": "Vrgorac in the rain has a melancholy charm. The morning starts sheltered in the main square café. At noon, museums and churches provide dry refuge. In the afternoon, we explore the towers under an umbrella while the stones of Gradina shine. The day ends cozily in a warm konoba with local wine.",
-            "hr": "Vrgorac na kiši ima melankoličan šarm. Jutro započinje u zaklonu kafića na glavnom trgu. U podne muzeji i crkve pružaju suho utočište. Poslijepodne istražujemo kule pod kišobranom dok kamenje Gradine sjaji. Dan završava ugodno u toploj konobi uz lokalno vino."
+            "hr": "Vrgorac po kiši ima melankoličan šarm. Jutro započinje u zaklonu kafića na glavnom trgu. U podne muzeji i crkve pružaju suhi zaklon. Poslijepodne istražujemo kule pod kišobranom dok kameni blokovi Gradine sjaje. Dan završava ugodno u toploj konobi uz lokalno vino."
           },
           "stops": [
             {
@@ -381,7 +389,7 @@
                 "hu": "Válassz benti asztalt, és figyeld az eső áztatta főteret.",
                 "ro": "Alegeți o masă în interior pentru a privi ploaia.",
                 "en": "Choose an indoor table to watch the rain outside.",
-                "hr": "Odaberite stol u zatvorenom kako biste gledali kišu vani."
+                "hr": "Odaberite stol unutra kako biste gledali kišu izvana."
               }
             },
             {
@@ -401,7 +409,7 @@
                 "hu": "A benti csend ideális a kopogó eső idején.",
                 "ro": "Liniștea din interior este ideală în timpul ploii.",
                 "en": "The interior silence is ideal during the pattering rain.",
-                "hr": "Tišina unutrašnjosti idealna je dok vani bubnja kiša."
+                "hr": "Tišina u unutrašnjosti idealna je tijekom škropljenja kiše."
               }
             },
             {
@@ -411,7 +419,7 @@
                 "hu": "Keress menedéket az árusok ponyvái alatt.",
                 "ro": "Căutați adăpost sub copertinele tarabelor.",
                 "en": "Seek shelter under the awnings of the market stalls.",
-                "hr": "Potražite zaklon pod tendama tržnice."
+                "hr": "Potražite zaklon ispod tendi trgovačkih štandova."
               }
             },
             {
@@ -421,7 +429,7 @@
                 "hu": "Élvezd a sűrű egytálételeket, amik esőben a legjobbak.",
                 "ro": "Savurați tocănițe consistente, cele mai bune în zilele ploioase.",
                 "en": "Enjoy hearty stews that taste best on rainy days.",
-                "hr": "Uživajte u krepkim varivima koja su najbolja za kišnih dana."
+                "hr": "Uživajte u raskošnim varivima koja najbolje pašu za kišne dane."
               }
             },
             {
@@ -431,7 +439,7 @@
                 "hu": "A vastag falak védelmet nyújtanak a szél és nedvesség ellen.",
                 "ro": "Zidurile groase oferă protecție împotriva vântului și umezelii.",
                 "en": "The thick walls provide protection from wind and wetness.",
-                "hr": "Debeli zidovi pružaju zaštitu od vjetra i vlage."
+                "hr": "Debeli zidovi štite od vjetra i vlage."
               }
             },
             {
@@ -441,7 +449,7 @@
                 "hu": "Vigyázat, a régi kövek vizesen csúszósak lehetnek.",
                 "ro": "Atenție, pietrele vechi pot fi alunecoase când sunt ude.",
                 "en": "Caution, the old stones can be slippery when wet.",
-                "hr": "Oprez, stari kamen može biti sklizak kad je mokar."
+                "hr": "Pažnja, stari su kameni mogu biti klizavi kad su mokri."
               }
             },
             {
@@ -451,7 +459,7 @@
                 "hu": "A ködös völgyre vetett rövid pillantás ma is elég.",
                 "ro": "O scurtă privire asupra văii încetoșate este suficientă astăzi.",
                 "en": "A short glance at the misty valley is enough for today.",
-                "hr": "Kratak pogled na maglovitu dolinu danas je dovoljan."
+                "hr": "Kratki pogled na maglovitu dolinu dovoljan je za danas."
               }
             }
           ],
@@ -481,10 +489,10 @@
               "Museums are ideal 'dry zones' in the itinerary."
             ],
             "hr": [
-              "Nosite nepromočivu obuću za popločane ulice.",
-              "Čvrst kišobran je važan zbog mogućih naleta vjetra.",
-              "Koristite konobe za duže pauze za zagrijavanje.",
-              "Muzeji su idealne 'suhe zone' u planu puta."
+              "Nosite vodootpornu obuću za kaldrmisane ulice.",
+              "Zbog mogućih naleta vjetra važan je čvrst kišobran.",
+              "Iskoristite konobe za duže pauze za zagrijavanje.",
+              "Muzeji su idealne \"suhe zone\" u itinereru."
             ]
           }
         },
@@ -494,7 +502,7 @@
             "hu": "A tél Vrgoracban friss és csendes. Reggel egy kávézó kandallójánál melegszünk. A történelmi helyszíneket délben látogatjuk, amikor a legmagasabban jár a nap. A Gradina felé tiszta kilátás nyílik. Mivel korán sötétedik, a napot korán zárjuk egy kiadós vacsorával.",
             "ro": "Iarna în Vrgorac este proaspătă și liniștită. Dimineața ne încălzim lângă șemineul unei cafenele. Vizităm siturile istorice la prânz, când soarele este cel mai sus. Urcarea la Gradina oferă o vizibilitate clară. Deoarece se întunecă devreme, ziua se încheie devreme cu o cină copioasă.",
             "en": "Winter in Vrgorac is fresh and quiet. In the morning, we warm up by a café fireplace. We visit historical sites at noon when the sun is highest. The climb to Gradina offers clear distant views. Since it gets dark early, the day ends early with a hearty dinner.",
-            "hr": "Zima u Vrgorcu je svježa i tiha. Ujutro se grijemo uz kamin u kafiću. Povijesna mjesta posjećujemo u podne kada je sunce najviše. Uspon na Gradinu nudi čiste poglede u daljinu. Budući da rano pada mrak, dan završava ranije uz krepku večeru."
+            "hr": "Zima u Vrgorcu je svježa i mirna. Ujutro se grijemo uz kamin u kafiću. Posjećujemo povijesne lokalitete u podne kad je sunce najviše. Uspon do Gradine nudi jasne daleke vidike. Budući da se rano smrkava, dan završava ranije uz obilnu večeru."
           },
           "stops": [
             {
@@ -504,7 +512,7 @@
                 "hu": "Kérj asztalt a fűtőtest vagy a kandalló közelében.",
                 "ro": "Cereți un loc lângă sursa de căldură.",
                 "en": "Ask for a seat near the heater or fireplace.",
-                "hr": "Tražite mjesto u blizini grijača ili kamina."
+                "hr": "Zatražite mjesto blizu grijača ili kamina."
               }
             },
             {
@@ -524,7 +532,7 @@
                 "hu": "A templomok télen hidegek lehetnek, maradj kabátban.",
                 "ro": "Bisericile pot fi reci iarna, păstrați haina pe dvs.",
                 "en": "Churches can be cold in winter, keep your coat on.",
-                "hr": "Crkve zimi mogu biti hladne, ne skidajte kaput."
+                "hr": "Crkve mogu biti hladne zimi, zadržite kaput na sebi."
               }
             },
             {
@@ -534,7 +542,7 @@
                 "hu": "Vegyél aszalt fügét energiapótlónak az útra.",
                 "ro": "Cumpărați smochine uscate ca gustare energizantă.",
                 "en": "Buy dried figs as an energy boost for the walk.",
-                "hr": "Kupite suhe smokve kao energetski poticaj za šetnju."
+                "hr": "Kupite suhe smokve kao energetski dodatak za šetnju."
               }
             },
             {
@@ -544,7 +552,7 @@
                 "hu": "Kóstolj pršutot és bort a belső melegségért.",
                 "ro": "Gustați pršut și vin pentru a vă încălzi din interior.",
                 "en": "Taste pršut and wine to boost your inner warmth.",
-                "hr": "Kušajte pršut i vino za unutarnju toplinu."
+                "hr": "Probajte pršut i vino za dodatno unutarnje zagrijavanje."
               }
             },
             {
@@ -554,7 +562,7 @@
                 "hu": "Használd ki a déli fényt a toronyból való fotózáshoz.",
                 "ro": "Profită de lumina prânzului pentru poze din turn.",
                 "en": "Take advantage of the noon light for photos from the tower.",
-                "hr": "Iskoristite podnevno svjetlo za fotografije s kule."
+                "hr": "Iskoristite podnevnu svjetlost za fotografije s kule."
               }
             },
             {
@@ -564,7 +572,7 @@
                 "hu": "Fent jeges lehet a szél, sapka és kesztyű kötelező.",
                 "ro": "Vântul sus poate fi înghețat, luați căciulă și mănuși.",
                 "en": "The wind at the top can be icy, pack a hat and gloves.",
-                "hr": "Vjetar na vrhu može biti leden, ponesite kapu i rukavice."
+                "hr": "Vjetar na vrhu može biti leden, spakirajte kapu i rukavice."
               }
             },
             {
@@ -574,7 +582,7 @@
                 "hu": "Nézd meg a naplementét 16:30 körül.",
                 "ro": "Urmăriți apusul soarelui în jurul orei 16:30.",
                 "en": "Watch the sunset around 16:30.",
-                "hr": "Promatrajte zalazak sunca oko 16:30."
+                "hr": "Promatrajte zalazak oko 16:30."
               }
             }
           ],
@@ -604,10 +612,10 @@
               "Hot herbal teas are available throughout the town."
             ],
             "hr": [
-              "Slojevita odjeća je važna za uspon pješice.",
-              "Sunce zimi zalazi oko 17:00 sati.",
-              "Neki vanjski prostori mogu biti zatvoreni, planirajte pauze u zatvorenom.",
-              "Vrući biljni čajevi dostupni su diljem grada."
+              "Višeslojna odjeća važna je za uspon uzbrdo.",
+              "Sunce zalazi oko 17:00 zimi.",
+              "Neka vanjska područja mogu biti zatvorena, planirajte unutarnje pauze.",
+              "Topli biljni čajevi dostupni su diljem mjesta."
             ]
           }
         }
@@ -626,7 +634,8 @@
             "de": "Hauptplatz und Café",
             "hu": "Főtér és kávézó",
             "ro": "Piața principală și cafenea",
-            "en": "Main Square and Café"
+            "en": "Main Square and Café",
+            "hr": "Glavni trg i kafić"
           },
           "coords": [
             17.3665,
@@ -642,7 +651,7 @@
             "hu": "Kerékpártúrák kiindulópontja.",
             "ro": "Punct de plecare pentru tururi cu bicicleta.",
             "en": "Starting point for bike tours.",
-            "hr": "Početna točka za biciklističke ture."
+            "hr": "Polazište za biciklističke ture."
           }
         },
         {
@@ -650,7 +659,8 @@
             "de": "Radfahrt durch das Vrgoračko polje",
             "hu": "Kerékpározás a Vrgoraci-mezőn",
             "ro": "Tur cu bicicleta prin câmpia Vrgorac",
-            "en": "Cycling through Vrgorac Field"
+            "en": "Cycling through Vrgorac Field",
+            "hr": "Bicikliranje kroz vrgoračko polje"
           },
           "coords": [
             17.38,
@@ -666,7 +676,7 @@
             "hu": "Lapos utak a szőlőültetvények között.",
             "ro": "Poteci plate între podgorii.",
             "en": "Flat paths between vineyards.",
-            "hr": "Ravne staze između vinograda."
+            "hr": "Ravni putevi između vinograda."
           }
         },
         {
@@ -674,7 +684,8 @@
             "de": "Mittagspause im Grünen",
             "hu": "Ebédszünet a zöldben",
             "ro": "Pauză de prânz în natură",
-            "en": "Lunch Break in Nature"
+            "en": "Lunch Break in Nature",
+            "hr": "Ručna pauza u prirodi"
           },
           "coords": [
             17.37,
@@ -698,7 +709,8 @@
             "de": "Kapetanova kula",
             "hu": "Kapetanova kula",
             "ro": "Kapetanova kula",
-            "en": "Kapetanova kula"
+            "en": "Kapetanova kula",
+            "hr": "Kapetanova kula"
           },
           "coords": [
             17.3675,
@@ -714,7 +726,7 @@
             "hu": "Kulturális megálló a bringázás után.",
             "ro": "Oprire culturală după turul cu bicicleta.",
             "en": "Cultural stop after the bike ride.",
-            "hr": "Kulturna postaja nakon vožnje biciklom."
+            "hr": "Kulturna stanica nakon vožnje biciklom."
           }
         },
         {
@@ -722,7 +734,8 @@
             "de": "Gradina",
             "hu": "Gradina",
             "ro": "Gradina",
-            "en": "Gradina"
+            "en": "Gradina",
+            "hr": "Gradina"
           },
           "coords": [
             17.368,
@@ -738,7 +751,7 @@
             "hu": "Tolja a bringát az utolsó szakaszon.",
             "ro": "Împingeți bicicleta pe ultima porțiune.",
             "en": "Push your bike for the last stretch.",
-            "hr": "Gurajte bicikl za zadnji dio uspona."
+            "hr": "Gurajte bicikl za posljednji dio puta."
           }
         },
         {
@@ -746,7 +759,8 @@
             "de": "Rodna kuća Tina Ujevića",
             "hu": "Rodna kuća Tina Ujevića",
             "ro": "Rodna kuća Tina Ujevića",
-            "en": "Rodna kuća Tina Ujevića"
+            "en": "Rodna kuća Tina Ujevića",
+            "hr": "Rodna kuća Tina Ujevića"
           },
           "coords": [
             17.366,
@@ -762,7 +776,7 @@
             "hu": "Befejezés a történelmi központban.",
             "ro": "Final în centrul istoric.",
             "en": "Conclusion in the historic center.",
-            "hr": "Završetak u povijesnoj jezgri."
+            "hr": "Zaključak u povijesnom centru."
           }
         }
       ],
@@ -771,7 +785,7 @@
         "hu": "Kezdje a kerékpártúrát a főtéren, és tekerjen le a termékeny Vrgoraci-mezőre. Élvezze a lapos utakat a szőlőültetvények és eperföldek mentén. Egy zöldben elköltött piknik után térjen vissza a városba, hogy meglátogassa a történelmi tornyokat és a várat. A napot Tin Ujević múzeumának meglátogatásával zárja.",
         "ro": "Începeți turul cu bicicleta în piața principală și coborâți în câmpia fertilă Vrgorac. Bucurați-vă de potecile plate de-a lungul podgoriilor și câmpurilor de căpșuni. După un picnic în natură, reveniți în oraș pentru a vizita turnurile istorice și cetatea. Încheiați ziua cu o vizită la muzeul lui Tin Ujević.",
         "en": "Start your bike tour at the main square and ride down into the fertile Vrgorac field. Enjoy the flat paths along the vineyards and strawberry fields. After a picnic in the countryside, return to the town to visit the historic towers and the fortress. The day concludes with a visit to Tin Ujević's museum.",
-        "hr": "Započnite biciklističku turu na glavnom trgu i spustite se u plodno Vrgoračko polje. Uživajte u ravnim stazama uz vinograde i polja jagoda. Nakon piknika u prirodi, vratite se u grad kako biste posjetili povijesne kule i tvrđavu. Dan završava posjetom muzeju Tina Ujevića."
+        "hr": "Započnite biciklističku turu na glavnom trgu i vozite se niz plodno vrgoračko polje. Uživajte u ravnim stazama uz vinograde i nasade jagoda. Nakon piknika u prirodi vratite se u grad da posjetite povijesne kule i tvrđavu. Dan završava posjetom muzeju Tina Ujevića."
       },
       "gastro_picks": {
         "de": [
@@ -896,9 +910,9 @@
           "Mountain roads require good fitness."
         ],
         "hr": [
-          "Provjerite tlak u gumama prije odlaska u polje.",
+          "Provjerite tlak u gumama prije polaska na polje.",
           "Ponesite dovoljno vode sa sobom.",
-          "Planinske ceste zahtijevaju dobru kondiciju."
+          "Planinski putevi zahtijevaju dobru kondiciju."
         ]
       },
       "variants": {
@@ -928,7 +942,7 @@
                 "hu": "Vigyázz a tócsákkal és a sáros utakkal.",
                 "ro": "Atenție la bălți și drumuri noroioase.",
                 "en": "Watch out for puddles and muddy paths.",
-                "hr": "Pazite na lokve i blatnjave staze."
+                "hr": "Pazite na lokve i blatne staze."
               }
             },
             {
@@ -938,7 +952,7 @@
                 "hu": "Keress fedett pihenőhelyet az ebédszünethez.",
                 "ro": "Folosiți locuri de popas acoperite pentru pauză.",
                 "en": "Use covered rest areas for the lunch break.",
-                "hr": "Koristite natkrivena odmarališta za pauzu za ručak."
+                "hr": "Koristite natkrivene odmorišne prostore za pauzu za ručak."
               }
             },
             {
@@ -958,7 +972,7 @@
                 "hu": "Az emelkedő nehéz, esőben óvatosan fékezz lefelé.",
                 "ro": "Urcarea e grea; pe ploaie frânați cu grijă la coborâre.",
                 "en": "The climb is tough; brake carefully on the descent in rain.",
-                "hr": "Uspon je težak; pažljivo kočite pri spustu po kiši."
+                "hr": "Uspon je težak; kočite pažljivo pri spustu po kiši."
               }
             },
             {
@@ -999,9 +1013,9 @@
             ],
             "hr": [
               "Potpuna kišna oprema i blatobrani su obavezni.",
-              "Put kočenja na mokrim cestama značajno se povećava.",
-              "Izbjegavajte brze ulaske u zavoje na skliskom asfaltu.",
-              "Vodootporni ruksak štiti vaše dragocjenosti."
+              "Kočioni putovi na mokroj cesti znatno se povećavaju.",
+              "Izbjegavajte brze zavoje na skliskom asfaltu.",
+              "Vodootporni ruksak štiti vaše vrijednosti."
             ]
           }
         },
@@ -1011,7 +1025,7 @@
             "hu": "A téli kerékpározás Vrgoracban friss levegőt és üres utakat ígér. A nap hűvösen indul a főtéren. A mezőn átvezető út meleg ruhát igényel a menetszél miatt. Délben betérünk egy meleg ételre. A délutáni történelmi megállók ideálisak a vérkeringés felpezsdítésére.",
             "ro": "Mersul pe bicicletă iarna în Vrgorac oferă aer curat și drumuri libere. Ziua începe răcoros în piață. Tura prin câmp necesită haine groase împotriva vântului. La prânz ne oprim pentru o masă caldă. Popasurile istorice de după-amiază sunt ideale pentru a vă reîncălzi.",
             "en": "Winter cycling in Vrgorac offers crisp air and empty paths. The day starts cool at the main square. The ride through the field requires warm clothing against the wind chill. At noon, we stop for a warm meal. The historical stops in the afternoon are ideal for getting the circulation going again.",
-            "hr": "Zimsko bicikliranje u Vrgorcu nudi oštar zrak i prazne staze. Dan počinje hladno na glavnom trgu. Vožnja kroz polje zahtijeva toplu odjeću zbog vjetra. U podne stajemo na topli obrok. Povijesne postaje poslijepodne idealne su za ponovno pokretanje cirkulacije."
+            "hr": "Zimsko bicikliranje u Vrgorcu nudi svjež zrak i prazne staze. Dan počinje svježinom na glavnom trgu. Vožnja kroz polje zahtijeva toplu odjeću protiv hladnog vjetra. U podne zastajemo na topao obrok. Povijesne stanice popodne idealne su za ponovno pokretanje cirkulacije."
           },
           "stops": [
             {
@@ -1021,7 +1035,7 @@
                 "hu": "Csak akkor indulj, ha a nap már felmelegítette az utat.",
                 "ro": "Porniți doar după ce soarele a încălzit drumurile.",
                 "en": "Start only after the sun has warmed the roads.",
-                "hr": "Krenite tek nakon što sunce zagrije ceste."
+                "hr": "Krenite tek kad sunce zagrije ceste."
               }
             },
             {
@@ -1031,7 +1045,7 @@
                 "hu": "Viselj szélálló ruhát, a mező nyitott és huzatos.",
                 "ro": "Purtați haine rezistente la vânt; câmpul este deschis.",
                 "en": "Wear windproof clothing; the field is open and drafty.",
-                "hr": "Nosite odjeću otpornu na vjetar; polje je otvoreno i vjetrovito."
+                "hr": "Nosite vjetrootpornu odjeću; polje je otvoreno i prohladno."
               }
             },
             {
@@ -1041,7 +1055,7 @@
                 "hu": "A piknik túl hideg, keress egy fűtött helyiséget.",
                 "ro": "Un picnic este prea rece; căutați un local încălzit.",
                 "en": "A picnic is too cold; find a warm indoor place.",
-                "hr": "Piknik je previše hladan; pronađite toplo mjesto u zatvorenom."
+                "hr": "Piknik je preslab; nađite toplo mjesto unutra."
               }
             },
             {
@@ -1061,7 +1075,7 @@
                 "hu": "Vigyázz a dérre vagy jégre az árnyékos kanyarokban.",
                 "ro": "Atenție la chiciură sau gheață în curbele umbrite.",
                 "en": "Watch out for frost or ice in shaded curves.",
-                "hr": "Pazite na mraz ili led u sjenovitim zavojima."
+                "hr": "Pazite na mraz ili led u zasjenjenim zavojima."
               }
             },
             {
@@ -1071,7 +1085,7 @@
                 "hu": "Kulturális zárás melegben a hazatekerés előtt.",
                 "ro": "Un final cultural la căldură înainte de drumul spre casă.",
                 "en": "A cultural finale in the warm before the ride home.",
-                "hr": "Kulturni finale na toplom prije povratka kući."
+                "hr": "Kulturološki završetak u toplom prije povratka kući."
               }
             }
           ],
@@ -1101,9 +1115,9 @@
               "E-bike batteries discharge faster in the cold."
             ],
             "hr": [
-              "Termalne rukavice i navlake za cipele su iznimno važni.",
+              "Termalne rukavice i navlake za cipele su iznimno važne.",
               "Tlak u gumama trebao bi biti malo niži za bolje prianjanje.",
-              "Pijte dovoljno čak i na hladnoći, po mogućnosti čaj iz termosice.",
+              "Pijte dovoljno i zimi, po mogućnosti čaj iz termosa.",
               "Baterije e-bicikala brže se prazne na hladnoći."
             ]
           }
@@ -1123,7 +1137,8 @@
             "de": "Stadtzentrum (Cluster A)",
             "hu": "Városközpont (A klaszter)",
             "ro": "Centrul orașului (Cluster A)",
-            "en": "Town Center (Cluster A)"
+            "en": "Town Center (Cluster A)",
+            "hr": "Centar grada (Klaster A)"
           },
           "coords": [
             17.3665,
@@ -1147,7 +1162,8 @@
             "de": "Rodna kuća Tina Ujevića",
             "hu": "Rodna kuća Tina Ujevića",
             "ro": "Rodna kuća Tina Ujevića",
-            "en": "Rodna kuća Tina Ujevića"
+            "en": "Rodna kuća Tina Ujevića",
+            "hr": "Rodna kuća Tina Ujevića"
           },
           "coords": [
             17.366,
@@ -1163,7 +1179,7 @@
             "hu": "Gyalogosan elérhető az A klasztertől.",
             "ro": "Accesibil pe jos din Cluster A.",
             "en": "Walkable from Cluster A.",
-            "hr": "Dostupno pješice iz Klastera A."
+            "hr": "Prohodno iz Klastera A."
           }
         },
         {
@@ -1171,7 +1187,8 @@
             "de": "Crkva Navještenja Blažene Djevice Marije",
             "hu": "Crkva Navještenja Blažene Djevice Marije",
             "ro": "Crkva Navještenja Blažene Djevice Marije",
-            "en": "Crkva Navještenja Blažene Djevice Marije"
+            "en": "Crkva Navještenja Blažene Djevice Marije",
+            "hr": "Crkva Navještenja Blažene Djevice Marije"
           },
           "coords": [
             17.367,
@@ -1195,7 +1212,8 @@
             "de": "Oberstadt (Cluster B)",
             "hu": "Felsőváros (B klaszter)",
             "ro": "Orașul de sus (Cluster B)",
-            "en": "Upper Town (Cluster B)"
+            "en": "Upper Town (Cluster B)",
+            "hr": "Gornji grad (Klaster B)"
           },
           "coords": [
             17.3675,
@@ -1219,7 +1237,8 @@
             "de": "Kapetanova kula",
             "hu": "Kapetanova kula",
             "ro": "Kapetanova kula",
-            "en": "Kapetanova kula"
+            "en": "Kapetanova kula",
+            "hr": "Kapetanova kula"
           },
           "coords": [
             17.3675,
@@ -1235,7 +1254,7 @@
             "hu": "Közvetlenül a B klaszterben.",
             "ro": "Direct în Cluster B.",
             "en": "Right in Cluster B.",
-            "hr": "Izravno u Klasteru B."
+            "hr": "Smještena u Klasteru B."
           }
         },
         {
@@ -1243,7 +1262,8 @@
             "de": "Gradina",
             "hu": "Gradina",
             "ro": "Gradina",
-            "en": "Gradina"
+            "en": "Gradina",
+            "hr": "Gradina"
           },
           "coords": [
             17.368,
@@ -1267,7 +1287,8 @@
             "de": "Aussicht auf das Tal (Cluster C)",
             "hu": "Völgyi kilátás (C klaszter)",
             "ro": "Vedere spre vale (Cluster C)",
-            "en": "Valley View (Cluster C)"
+            "en": "Valley View (Cluster C)",
+            "hr": "Pogled na dolinu (Klaster C)"
           },
           "coords": [
             17.35,
@@ -1292,7 +1313,7 @@
         "hu": "Autóval három kényelmes szakaszban fedezheti fel Vrgoracot. Először parkoljon a központban (A klaszter), hogy gyalogosan meglátogassa az Ujević-házat és a templomot. Ezután hajtson a felsővárosba (B klaszter), ahol a tornyok és a vár található. A délutánt egy panorámaautózással tölti (C klaszter), kilátással a széles Vrgoraci-mezőre.",
         "ro": "Cu mașina, explorați Vrgorac în trei etape confortabile. Mai întâi parcați în centru (Cluster A) pentru a vizita pe jos casa Ujević și biserica. Apoi conduceți spre orașul de sus (Cluster B), unde se află turnurile și cetatea. După-amiaza o petreceți pe un drum panoramic (Cluster C) cu vedere spre marea câmpie Vrgorac.",
         "en": "By car, you explore Vrgorac in three comfortable stages. First, park in the center (Cluster A) to visit the Ujević house and the church on foot. Then drive to the upper town (Cluster B), where the towers and the fortress are located. Spend the afternoon on a panoramic drive (Cluster C) with a view of the vast Vrgorac field.",
-        "hr": "Automobilom istražite Vrgorac u tri udobne faze. Prvo se parkirajte u centru (Klaster A) kako biste pješice posjetili kuću Ujević i crkvu. Zatim se odvezite do gornjeg grada (Klaster B), gdje se nalaze kule i tvrđava. Poslijepodne provedite na panoramskoj vožnji (Klaster C) s pogledom na prostrano Vrgoračko polje."
+        "hr": "Autom ćete istražiti Vrgorac u tri udobna etapa. Prvo parkirajte u centru (Klaster A) da pješice posjetite Ujevićevu kuću i crkvu. Zatim se vozite do Gornjeg grada (Klaster B), gdje su kule i utvrda. Popodne provedite panoramskom vožnjom (Klaster C) s pogledom na široko vrgoračko polje."
       },
       "gastro_picks": {
         "de": [
@@ -1417,8 +1438,8 @@
           "The gas station is located on the outskirts of town."
         ],
         "hr": [
-          "Pazite na uske ulice u gornjem gradu.",
-          "Malo parkiralište nalazi se izravno ispod tvrđave.",
+          "Pazite na uske ulice u Gornjem gradu.",
+          "Malo parkiralište nalazi se neposredno ispod utvrde.",
           "Benzinska postaja nalazi se na rubu grada."
         ]
       },
@@ -1429,7 +1450,7 @@
             "hu": "Autóval Vrgorac esőben a legkényelmesebb választás. Biztonságosan ingázunk a látnivalók között. Délelőtt a szülőházat és a templomot látogatjuk meg, csak egy rövid sprintre a parkolótól. Délben az autóból élvezzük a nedves völgy látványát, mielőtt felhajtanánk a Gradinához.",
             "ro": "Vrgorac cu mașina este cea mai confortabilă alegere pe ploaie. Navigăm în siguranță între obiective. Dimineața vizităm casa natală și biserica, la doar un scurt sprint de parcare. La prânz admirăm valea umedă din mașină înainte de a urca spre Gradina.",
             "en": "Vrgorac by car is the most comfortable choice in the rain. We commute safely between the sights. In the morning, we visit the birthplace and the church, just a short sprint from the parking lot. At noon, we enjoy the view of the wet valley from the car before driving up to Gradina.",
-            "hr": "Vrgorac automobilom najudobniji je izbor po kiši. Sigurno putujemo između znamenitosti. Ujutro posjećujemo rodnu kuću i crkvu, samo kratak sprint od parkirališta. U podne uživamo u pogledu na mokru dolinu iz automobila prije vožnje do Gradine."
+            "hr": "Vrgorac automobilom je najudobniji izbor po kiši. Sigurno putujemo između znamenitosti. Ujutro posjećujemo rodnu kuću i crkvu, tek kratka dionica od parkirališta. U podne uživamo u pogledu na mokru dolinu iz automobila prije vožnje do Gradine."
           },
           "stops": [
             {
@@ -1439,7 +1460,7 @@
                 "hu": "Használd a közvetlenül a piacon lévő parkolókat.",
                 "ro": "Folosiți parcările direct din piață.",
                 "en": "Use the parking lots directly at the market square.",
-                "hr": "Koristite parkirališta izravno na trgu."
+                "hr": "Koristite parkirališta odmah na tržnom trgu."
               }
             },
             {
@@ -1449,7 +1470,7 @@
                 "hu": "Tartsd az esernyőt kéznél az autóban.",
                 "ro": "Țineți umbrela la îndemână în mașină.",
                 "en": "Keep your umbrella handy in the car.",
-                "hr": "Neka vam kišobran bude pri ruci u autu."
+                "hr": "Držite kišobran pri ruci u autu."
               }
             },
             {
@@ -1459,7 +1480,7 @@
                 "hu": "Parkolj az út szélén, közel a bejárathoz.",
                 "ro": "Parcați la marginea drumului, aproape de intrare.",
                 "en": "Park on the roadside near the entrance.",
-                "hr": "Parkirajte uz rub ceste blizu ulaza."
+                "hr": "Parkirajte uz cestu blizu ulaza."
               }
             },
             {
@@ -1469,7 +1490,7 @@
                 "hu": "A szűk utcák esőben csúszósak lehetnek.",
                 "ro": "Străzile înguste pot fi alunecoase pe ploaie.",
                 "en": "The narrow streets can be slippery in the rain.",
-                "hr": "Uske ulice mogu biti skliske na kiši."
+                "hr": "Uske ulice mogu biti skliske po kiši."
               }
             },
             {
@@ -1479,7 +1500,7 @@
                 "hu": "Tervezz rövid sétát a parkolótól a toronyig.",
                 "ro": "Planificați un scurt drum pe jos de la parcare la turn.",
                 "en": "Plan a short walk from the parking lot to the tower.",
-                "hr": "Planirajte kratku šetnju od parkirališta do kule."
+                "hr": "Isplanirajte kratku šetnju od parkirališta do kule."
               }
             },
             {
@@ -1489,7 +1510,7 @@
                 "hu": "A felhajtás vizes úton óvatosságot igényel.",
                 "ro": "Urcarea cu mașina necesită prudență pe carosabil umed.",
                 "en": "The drive up requires caution in wet conditions.",
-                "hr": "Vožnja gore zahtijeva oprez u mokrim uvjetima."
+                "hr": "Vožnja prema gore zahtijeva oprez po mokrom vremenu."
               }
             },
             {
@@ -1499,7 +1520,7 @@
                 "hu": "Élvezd a panorámát szárazon, a szélvédőn keresztül.",
                 "ro": "Bucurați-vă de panoramă la adăpost, prin parbriz.",
                 "en": "Enjoy the panorama dry through the windshield.",
-                "hr": "Uživajte u panorami na suhom kroz vjetrobransko staklo."
+                "hr": "Uživajte u panorami suhi kroz vjetrobran."
               }
             }
           ],
@@ -1529,10 +1550,10 @@
               "A towel in the car is useful for drying wet clothes."
             ],
             "hr": [
-              "Pazite na akvaplaning na prilaznim cestama.",
-              "Parkirajte što bliže ulazima.",
-              "Vidljivost može biti ograničena zbog jake kiše.",
-              "Ručnik u autu je koristan za sušenje mokre odjeće."
+              "Pazite na akvaplaning na pristupnim cestama.",
+              "Parkirajte što bliže ulazima moguće.",
+              "Vidljivost može biti smanjena zbog jake kiše.",
+              "Ručnik u autu koristan je za sušenje mokre odjeće."
             ]
           }
         },
@@ -1542,7 +1563,7 @@
             "hu": "A téli Vrgorac autóval lehetővé teszi az összes látnivaló felkeresését fagyoskodás nélkül. Reggel a meleg autóban indulunk. A történelmi megállók rövidek és intenzívek. Délben egy konobában melegszünk fel. A völgyre nyíló kilátás télen különösen tiszta.",
             "ro": "Iarna în Vrgorac cu mașina permite vizitarea tuturor punctelor de interes fără a îngheța. Pornim dimineața în mașina încălzită. Popasurile istorice sunt scurte și intense. La prânz ne încălzim într-o tavernă. Vederea de la Valley View este deosebit de clară iarna.",
             "en": "Winter in Vrgorac by car allows visiting all highlights without freezing. We start in the warm car in the morning. Historical stops are short and intense. At noon, we warm up in a konoba. The view from Valley View is particularly clear in winter.",
-            "hr": "Zima u Vrgorcu automobilom omogućuje posjet svim vrhuncima bez smrzavanja. Ujutro krećemo u toplom automobilu. Povijesne postaje su kratke i intenzivne. U podne se grijemo u konobi. Pogled na dolinu posebno je čist zimi."
+            "hr": "Zima u Vrgorcu automobilom omogućava posjetiti sve istaknuto bez smrzavanja. Ujutro krećemo iz toplog auta. Povijesni zastanci su kratki i intenzivni. U podne se grijemo u konobi. Pogled s Pogleda na dolinu posebno je jasan zimi."
           },
           "stops": [
             {
@@ -1552,7 +1573,7 @@
                 "hu": "Ne járasd feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul pornit inutil în staționare.",
                 "en": "Don't leave the engine idling unnecessarily.",
-                "hr": "Ne ostavljajte motor u praznom hodu nepotrebno."
+                "hr": "Ne ostavljajte motor nepotrebno upaljen."
               }
             },
             {
@@ -1562,7 +1583,7 @@
                 "hu": "Indulás előtt ellenőrizd a szélvédőt, nincs-e ráfagyva a jég.",
                 "ro": "Verificați parbrizul pentru îngheț înainte de plecare.",
                 "en": "Check the windshield for frost before leaving.",
-                "hr": "Provjerite vjetrobransko staklo zbog mraza prije polaska."
+                "hr": "Provjerite vjetrobran zbog mraza prije polaska."
               }
             },
             {
@@ -1572,7 +1593,7 @@
                 "hu": "Vigyázz a kiszállásnál az esetleg csúszós járdára.",
                 "ro": "Atenție la coborâre pe trotuarele posibil alunecoase.",
                 "en": "Be careful when getting out on possibly slippery sidewalks.",
-                "hr": "Budite oprezni pri izlasku na eventualno skliske nogostupe."
+                "hr": "Budite oprezni pri izlasku na moguće skliske pločnike."
               }
             },
             {
@@ -1582,7 +1603,7 @@
                 "hu": "A felhajtó út fagyban csalóka lehet.",
                 "ro": "Drumul de urcare poate fi înșelător la temperaturi negative.",
                 "en": "The drive up can be treacherous in freezing temperatures.",
-                "hr": "Vožnja gore može biti varljiva pri niskim temperaturama."
+                "hr": "Uspon može biti opasan pri ledom okovanim temperaturama."
               }
             },
             {
@@ -1602,7 +1623,7 @@
                 "hu": "Figyeld az útviszonyokról szóló jelentéseket a hegyi szakaszokon.",
                 "ro": "Verificați starea drumurilor pentru secțiunile montane.",
                 "en": "Check road condition reports for mountain sections.",
-                "hr": "Provjerite izvješća o stanju na cestama za planinske dionice."
+                "hr": "Provjerite izvještaje o stanju cesta za planinske dionice."
               }
             },
             {
@@ -1612,7 +1633,7 @@
                 "hu": "A legjobb idő a távoli fotókhoz a kora délután.",
                 "ro": "Cel mai bun moment pentru poze la distanță este după-amiaza devreme.",
                 "en": "Best time for long-distance photos is early afternoon.",
-                "hr": "Najbolje vrijeme za fotografije s velikom vidljivošću je rano poslijepodne."
+                "hr": "Najbolje vrijeme za dalekometne fotografije je rani poslijepodne."
               }
             }
           ],
@@ -1642,9 +1663,9 @@
               "Drive proactively and slowly in the mountains."
             ],
             "hr": [
-              "Zimske gume su obavezne u ovoj regiji tijekom zime.",
-              "Provjerite antifriz u tekućini za pranje stakla.",
-              "Imajte spreman strugač za led i četku.",
+              "Zimske gume su obavezne u ovom području tijekom zime.",
+              "Provjerite antifriz u tekućini za pranje vjetrobrana.",
+              "Držite strugač i četku spremne.",
               "Vozite proaktivno i polako u planinama."
             ]
           }
@@ -1664,7 +1685,8 @@
             "de": "Busbahnhof Vrgorac",
             "hu": "Vrgorac autóbusz-állomás",
             "ro": "Autogara Vrgorac",
-            "en": "Vrgorac Bus Station"
+            "en": "Vrgorac Bus Station",
+            "hr": "Autobusni kolodvor Vrgorac"
           },
           "coords": [
             17.365,
@@ -1680,7 +1702,7 @@
             "hu": "A távolsági buszok érkezési pontja.",
             "ro": "Punctul de sosire al autobuzelor pe distanțe lungi.",
             "en": "Arrival point for intercity buses.",
-            "hr": "Dolazna točka za međugradske autobuse."
+            "hr": "Mjestu dolaska za međugradske autobuse."
           }
         },
         {
@@ -1688,7 +1710,8 @@
             "de": "Rodna kuća Tina Ujevića",
             "hu": "Rodna kuća Tina Ujevića",
             "ro": "Rodna kuća Tina Ujevića",
-            "en": "Rodna kuća Tina Ujevića"
+            "en": "Rodna kuća Tina Ujevića",
+            "hr": "Rodna kuća Tina Ujevića"
           },
           "coords": [
             17.366,
@@ -1712,7 +1735,8 @@
             "de": "Crkva Navještenja Blažene Djevice Marije",
             "hu": "Crkva Navještenja Blažene Djevice Marije",
             "ro": "Crkva Navještenja Blažene Djevice Marije",
-            "en": "Crkva Navještenja Blažene Djevice Marije"
+            "en": "Crkva Navještenja Blažene Djevice Marije",
+            "hr": "Crkva Navještenja Blažene Djevice Marije"
           },
           "coords": [
             17.367,
@@ -1728,7 +1752,7 @@
             "hu": "Központi fekvésű templom.",
             "ro": "Biserică situată central.",
             "en": "Centrally located church.",
-            "hr": "Središnja crkva."
+            "hr": "Središnje smještena crkva."
           }
         },
         {
@@ -1736,7 +1760,8 @@
             "de": "Mittagessen im Zentrum",
             "hu": "Ebéd a központban",
             "ro": "Prânz în centru",
-            "en": "Lunch in the center"
+            "en": "Lunch in the center",
+            "hr": "Ručak u centru"
           },
           "coords": [
             17.3662,
@@ -1760,7 +1785,8 @@
             "de": "Kapetanova kula",
             "hu": "Kapetanova kula",
             "ro": "Kapetanova kula",
-            "en": "Kapetanova kula"
+            "en": "Kapetanova kula",
+            "hr": "Kapetanova kula"
           },
           "coords": [
             17.3675,
@@ -1776,7 +1802,7 @@
             "hu": "A város jelképe.",
             "ro": "Emblema orașului.",
             "en": "Landmark of the town.",
-            "hr": "Simbol grada."
+            "hr": "Znamenitost grada."
           }
         },
         {
@@ -1784,7 +1810,8 @@
             "de": "Gradina",
             "hu": "Gradina",
             "ro": "Gradina",
-            "en": "Gradina"
+            "en": "Gradina",
+            "hr": "Gradina"
           },
           "coords": [
             17.368,
@@ -1809,7 +1836,7 @@
         "hu": "Miután megérkezett a távolsági busszal az autóbusz-állomásra, kezdje meg városnéző körútját Vrgoracban. A városközpont kompakt, és minden fontos látnivaló, mint az Ujević-ház, a templom és a tornyok, könnyen elérhető gyalog. Élvezze a helyi ebédet, mielőtt nekivág a Gradina várba vezető emelkedőnek.",
         "ro": "După sosirea cu autobuzul la autogară, începeți turul orașului Vrgorac. Centrul orașului este compact, iar toate atracțiile importante, cum ar fi casa Ujević, biserica și turnurile, sunt ușor accesibile pe jos. Savurați un prânz local înainte de a începe urcarea spre cetatea Gradina.",
         "en": "After arriving by intercity bus at the bus station, start your tour of Vrgorac. The town center is compact, and all major sights like the Ujević house, the church, and the towers are easily reachable on foot. Enjoy a local lunch before attempting the climb to the Gradina fortress.",
-        "hr": "Nakon dolaska međugradskim autobusom na kolodvor, započnite obilazak Vrgorca. Centar grada je kompaktan i sve glavne znamenitosti poput kuće Ujević, crkve i kula lako su dostupne pješice. Uživajte u lokalnom ručku prije uspona na tvrđavu Gradina."
+        "hr": "Nakon dolaska međugradskim autobusom na kolodvor, započnite svoju turu Vrgorcem. Centar grada je kompaktan i sve glavne znamenitosti poput Ujevićeve kuće, crkve i kula lako su dostupne pješice. Uživajte u lokalnom ručku prije uspona prema tvrđavi Gradina."
       },
       "gastro_picks": {
         "de": [
@@ -1934,9 +1961,9 @@
           "The bus station offers shade and seating."
         ],
         "hr": [
-          "Rano provjerite red vožnje autobusa za povratak.",
+          "Provjerite vozne redove autobusa za povratak na vrijeme.",
           "Karte se obično mogu kupiti u autobusu.",
-          "Autobusni kolodvor nudi hlad i mjesta za sjedenje."
+          "Autobusni kolodvor nudi hlad i sjedenje."
         ]
       },
       "variants": {
@@ -1946,7 +1973,7 @@
             "hu": "Busszal Vrgoracban esőben védelmet kapunk az utazás alatt. A buszpályaudvarról indulunk, és rövid sétákat teszünk a múzeumokhoz. Délben visszatérünk a központba, ahol a kávézók melegek és szárazak. A toronylátogatásokat az esőszünetekhez igazítjuk.",
             "ro": "Cu autobuzul prin Vrgorac pe ploaie oferă protecție în timpul deplasării. Pornim de la autogară și facem scurte plimbări până la muzee. La prânz ne întoarcem în centru, unde cafenelele sunt calde și uscate. Planificăm vizitele la turnuri în pauzele dintre ploi.",
             "en": "By bus through Vrgorac in the rain offers protection during the journey. We start at the bus station and take short walks to the museums. At noon, we return to the center where cafés are warm and dry. We time the tower visits according to rain breaks.",
-            "hr": "Autobusom kroz Vrgorac po kiši nudi zaštitu tijekom putovanja. Počinjemo na kolodvoru i kratko šetamo do muzeja. U podne se vraćamo u centar gdje su kafići topli i suhi. Posjete kulama tempiramo prema pauzama u kiši."
+            "hr": "Putovanje autobusom kroz Vrgorac po kiši pruža zaštitu tijekom puta. Počinjemo na kolodvoru i pravimo kratke šetnje do muzeja. U podne se vraćamo u centar gdje su kafići topli i suhi. Posjete kulama usklađujemo s prestancima kiše."
           },
           "stops": [
             {
@@ -1956,7 +1983,7 @@
                 "hu": "Várj a pályaudvar fedett részén.",
                 "ro": "Așteptați în zona acoperită a gării.",
                 "en": "Wait in the covered area of the station.",
-                "hr": "Čekajte u natkrivenom dijelu kolodvora."
+                "hr": "Pričekajte u natkrivenom dijelu kolodvora."
               }
             },
             {
@@ -1976,7 +2003,7 @@
                 "hu": "Használd a buszt, hogy szárazon juss feljebb.",
                 "ro": "Folosiți autobuzul pentru a urca fără a vă uda.",
                 "en": "Use the bus to gain elevation while staying dry.",
-                "hr": "Koristite autobus za savladavanje visine dok ostajete suhi."
+                "hr": "Iskoristite autobus za dobivanje nadmorske visine ostajući suhi."
               }
             },
             {
@@ -1986,7 +2013,7 @@
                 "hu": "A központi megállók közvetlenül a legjobb éttermeknél vannak.",
                 "ro": "Stațiile centrale sunt chiar lângă cele mai bune restaurante.",
                 "en": "Central stops are located directly near the best restaurants.",
-                "hr": "Središnje stanice nalaze se u blizini najboljih restorana."
+                "hr": "Središnje stanice nalaze se neposredno uz najbolje restorane."
               }
             },
             {
@@ -1996,7 +2023,7 @@
                 "hu": "Tájékozódj a visszaindulási időkről eső esetén.",
                 "ro": "Informați-vă despre orele de întoarcere pe ploaie.",
                 "en": "Check return times in case of heavy rain.",
-                "hr": "Provjerite vremena povratka u slučaju jake kiše."
+                "hr": "Provjerite povratne polaske u slučaju jake kiše."
               }
             },
             {
@@ -2006,7 +2033,7 @@
                 "hu": "A Gradina útja meredek; esőben válassz tapadós talpú cipőt.",
                 "ro": "Drumul spre Gradina este abrupt; alegeți încălțăminte cu talpă aderentă.",
                 "en": "The path to Gradina is steep; choose shoes with good grip in rain.",
-                "hr": "Put do Gradine je strm; odaberite obuću s dobrim prianjanjem po kiši."
+                "hr": "Put do Gradine je strm; u kiši odaberite obuću s dobrim prianjanjem."
               }
             }
           ],
@@ -2036,10 +2063,10 @@
               "Use apps for real-time connection data."
             ],
             "hr": [
-              "Redovi vožnje mogu malo varirati u lošim vremenskim uvjetima.",
-              "Imajte spreman sitan novac za kartu.",
-              "Stanice ne pružaju uvijek savršenu zaštitu od kiše.",
-              "Koristite aplikacije za podatke o linijama u stvarnom vremenu."
+              "Vozni redovi autobusa mogu se neznatno mijenjati u lošem vremenu.",
+              "Imajte sitniš spreman za kartu.",
+              "Stajališta ne uvijek pružaju savršenu zaštitu od kiše.",
+              "Koristite aplikacije za podatke o vezi u stvarnom vremenu."
             ]
           }
         },
@@ -2049,7 +2076,7 @@
             "hu": "A tömegközlekedés télen Vrgoracban megbízható és meleg. A buszokat használjuk a városrészek összekötésére. Délelőtt a kulturális helyszíneket látogatjuk. A központi ebédszünet ideális a felmelegedésre. Mivel a buszok ritkábban járnak, pontosan tervezzük a megállókat.",
             "ro": "Transportul public iarna în Vrgorac este de încredere și călduros. Folosim autobuzele pentru a lega cartierele. Dimineața vizităm siturile culturale. Pauza de prânz în centru este locul ideal pentru încălzire. Deoarece autobuzele circulă mai rar, planificăm opririle precis.",
             "en": "Public transit in Vrgorac in winter is reliable and warm. We use buses to connect the districts. In the morning, we visit cultural sites. The lunch break in the center is the ideal spot to warm up. Since buses run less frequently, we plan the stops precisely to avoid waiting in the cold.",
-            "hr": "Javni prijevoz u Vrgorcu zimi je pouzdan i topao. Koristimo autobuse za povezivanje dijelova grada. Ujutro posjećujemo kulturna mjesta. Pauza za ručak u centru idealno je mjesto za zagrijavanje. Budući da autobusi voze rjeđe, precizno planiramo stajanja kako bismo izbjegli čekanje na hladnoći."
+            "hr": "Javni prijevoz u Vrgorcu zimi je pouzdan i topao. Koristimo autobuse za povezivanje kvartova. Ujutro posjećujemo kulturne znamenitosti. Pauza za ručak u centru idealno je mjesto za ugrijati se. Budući da autobusi voze rjeđe, precizno planiramo stanice kako bismo izbjegli čekanje na hladnoći."
           },
           "stops": [
             {
@@ -2059,7 +2086,7 @@
                 "hu": "A fűtött váróterem télen aranyat ér.",
                 "ro": "Sala de așteptare încălzită este prețioasă iarna.",
                 "en": "The heated waiting room is worth its weight in gold in winter.",
-                "hr": "Grijana čekaonica zlata vrijedi zimi."
+                "hr": "Grijana čekaonica zimi vrijedi kao zlato."
               }
             },
             {
@@ -2069,7 +2096,7 @@
                 "hu": "A rövid utak minimalizálják a fagyoskodást a busz és a múzeum között.",
                 "ro": "Drumurile scurte minimizează frigul între autobuz și muzeu.",
                 "en": "Short paths minimize freezing between the bus and the museum.",
-                "hr": "Kratki putovi smanjuju smrzavanje između autobusa i muzeja."
+                "hr": "Kraći putovi smanjuju smrzavanje između autobusa i muzeja."
               }
             },
             {
@@ -2079,7 +2106,7 @@
                 "hu": "Figyelj a megváltozott téli menetrendre.",
                 "ro": "Atenție la orarul de iarnă modificat.",
                 "en": "Check for modified winter schedules.",
-                "hr": "Provjerite izmijenjene zimske redove vožnje."
+                "hr": "Provjerite izmijenjene zimske rasporede."
               }
             },
             {
@@ -2089,7 +2116,7 @@
                 "hu": "Válassz megállóhoz közeli éttermeket.",
                 "ro": "Preferați restaurantele din apropierea stațiilor.",
                 "en": "Prefer restaurants near the bus stops.",
-                "hr": "Prednost dajte restoranima blizu autobusnih stanica."
+                "hr": "Preferirajte restorane blizu autobusnih stanica."
               }
             },
             {
@@ -2099,7 +2126,7 @@
                 "hu": "Csípd el az utolsó járatot naplemente előtt.",
                 "ro": "Luați ultima cursă înainte de apus.",
                 "en": "Catch the last ride before sunset.",
-                "hr": "Uhvatite zadnju vožnju prije zalaska sunca."
+                "hr": "Uzmite posljednju vožnju prije zalaska sunca."
               }
             },
             {
@@ -2109,7 +2136,7 @@
                 "hu": "Győződj meg róla, hogy tudod az utolsó buszt a völgybe.",
                 "ro": "Asigurați-vă că știți ora ultimului autobuz spre vale.",
                 "en": "Make sure you know the time of the last bus back to the valley.",
-                "hr": "Provjerite vrijeme zadnjeg autobusa za povratak u dolinu."
+                "hr": "Provjerite vrijeme posljednjeg autobusa natrag u dolinu."
               }
             }
           ],
@@ -2139,10 +2166,10 @@
               "Wear warm clothing for waiting at the stops."
             ],
             "hr": [
-              "Autobusi su zimi često bolje grijani od kafića.",
-              "Planirajte dodatno vrijeme za kašnjenja uzrokovana snijegom.",
-              "Kupite karte unaprijed ako je moguće.",
-              "Nosite toplu odjeću za čekanje na stanicama."
+              "Autobusi su često bolje grijani nego kafići zimi.",
+              "Planirajte rezervno vrijeme za kašnjenja uzrokovana snijegom.",
+              "Kupite karte unaprijed kad je moguće.",
+              "Nosite toplu odjeću za čekanje na stajalištima."
             ]
           }
         }

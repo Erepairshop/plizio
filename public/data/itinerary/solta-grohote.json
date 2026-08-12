@@ -32,7 +32,7 @@
             "hu": "Figyeljük meg a jellegzetes dalmát kőházak építészetét.",
             "ro": "Admirați arhitectura tipică a caselor de piatră dalmate.",
             "en": "Look for the typical Dalmatian stone house architecture.",
-            "hr": "Potražite tipičnu dalmatinsku kamenu arhitekturu."
+            "hr": "Potražite tipičnu dalmatinsku kamenu kuću arhitekturu."
           }
         },
         {
@@ -70,7 +70,7 @@
             "hu": "Fedezze fel a naiv művészet világát ebben a műteremben.",
             "ro": "Descoperiți lumea artei naive în acest atelier local.",
             "en": "Discover the world of naive art in this local studio.",
-            "hr": "Otkrijte svijet naivne umjetnosti u ovom lokalnom ateljeu."
+            "hr": "Otkrijte svijet naive u ovom lokalnom studiju."
           }
         },
         {
@@ -89,7 +89,7 @@
             "hu": "Kóstolja meg a sziget híres rozmaringmézét.",
             "ro": "Gustați faimoasa miere de rozmarin a insulei.",
             "en": "Taste the island's famous rosemary honey.",
-            "hr": "Kušajte poznati otočki med od ružmarina."
+            "hr": "Okusite otočni poznati ružmarinov med."
           }
         },
         {
@@ -108,7 +108,7 @@
             "hu": "Egy védőtorony, amely egykor a kalóztámadások ellen védett.",
             "ro": "Un turn de apărare care proteja odinioară de pirați.",
             "en": "A defensive tower that once protected from pirate attacks.",
-            "hr": "Obrambena kula koja je nekada štitila od gusarskih napada."
+            "hr": "Obrambeni toranj koji je nekad štitio od piratskih napada."
           }
         },
         {
@@ -127,7 +127,7 @@
             "hu": "A kulturális élet központja a régi Grohotéban.",
             "ro": "Centrul vieții culturale în vechiul Grohote.",
             "en": "The center of cultural life in old Grohote.",
-            "hr": "Središte kulturnog života u starim Grohotama."
+            "hr": "Središte kulturnog života u starom Grohotu."
           }
         },
         {
@@ -146,7 +146,7 @@
             "hu": "A római múlt nyomai közvetlenül a településen.",
             "ro": "Urme ale trecutului roman chiar în localitate.",
             "en": "Traces of the Roman past right in the village.",
-            "hr": "Tragovi rimske prošlosti u samom srcu sela."
+            "hr": "Tragovi rimskog prošlosti upravo u selu."
           }
         }
       ],
@@ -155,7 +155,7 @@
         "hu": "A reggel Grohote kanyargós utcáin kezdődik, ahol megállt az idő. A Szent István-templom után a naiv művészet színes világába csöppenhetünk. Délben megismerkedhetünk a méhészettel, majd délután a sziget védelmi múltját fedezhetjük fel a Slavić-toronynál. A nap békésen zárul a falu központjában található ókori maradványoknál.",
         "ro": "Dimineața începe pe străduțele întortocheate din Grohote, unde timpul pare să stea în loc. După biserica Sf. Ștefan, intrați în lumea colorată a artei naive. La prânz aflați totul despre apicultură, iar după-amiaza explorați istoria defensivă a insulei la turnul Slavić. Ziua se încheie liniștit lângă vestigiile antice din centrul satului.",
         "en": "Your morning starts in the winding alleys of Grohote, where time seems to stand still. After visiting St. Stephen's Church, dive into the colorful world of naive art. At midday, learn about beekeeping before exploring the island's defensive history at the Slavić Tower in the afternoon. The day ends peacefully by the ancient remains in the village center.",
-        "hr": "Vaše jutro započinje u vijugavim uličicama Grohota, gdje vrijeme kao da je stalo. Nakon posjeta crkvi sv. Stjepana, uronite u šareni svijet naivne umjetnosti. U podne naučite nešto o pčelarstvu prije nego što poslijepodne istražite obrambenu povijest otoka u kuli Slavić. Dan završava mirno uz antičke ostatke u centru sela."
+        "hr": "Vaše jutro započinje u vijugavim uličicama Grohota, gdje se čini da vrijeme stoji. Nakon posjeta crkvi sv. Stjepana, zaronite u šareni svijet naive. U podne se upoznajte s pčelarstvom prije nego što poslijepodne istražite obrambenu povijest otoka na Slavićevom tornju. Dan završava mirno kraj starih ostataka u središtu sela."
       },
       "gastro_picks": {
         "de": [
@@ -349,10 +349,10 @@
           "Mind the midday break: many small shops close between 1 pm and 5 pm."
         ],
         "hr": [
-          "Grohote su najstarije selo na otoku, idealno za istraživanje pješice.",
+          "Grohote je najstarije selo na otoku, savršeno za istraživanje pješice.",
           "Nosite udobnu obuću za popločane ulice.",
-          "Farmu meda često je potrebno unaprijed rezervirati za obilaske.",
-          "Pripazite na podnevnu pauzu: mnoge male trgovine zatvaraju se između 13:00 i 17:00 sati."
+          "Pčelinjak često zahtijeva prethodnu rezervaciju za ture.",
+          "Pazite na pauzu u podne: mnoge male trgovine zatvaraju između 13:00 i 17:00."
         ]
       },
       "variants": {
@@ -361,7 +361,8 @@
             "de": "Ihr Morgen beginnt in den verwinkelten Gassen von Grohote, wo die Zeit stillzustehen scheint. Nach dem Besuch der Stephanskirche tauchen Sie in die farbenfrohe Welt der naiven Kunst ein. Mittags erfahren Sie alles über die Bienenzucht, bevor Sie am Nachmittag die Verteidigungsgeschichte der Insel am Slavić-Turm erkunden. Der Tag endet friedlich bei den antiken Überresten im Dorfzentrum.",
             "hu": "A reggel Grohote kanyargós utcáin kezdődik, ahol megállt az idő. A Szent István-templom után a naiv művészet színes világába csöppenhetünk. Délben megismerkedhetünk a méhészettel, majd délután a sziget védelmi múltját fedezhetjük fel a Slavić-toronynál. A nap békésen zárul a falu központjában található ókori maradványoknál.",
             "ro": "Dimineața începe pe străduțele întortocheate din Grohote, unde timpul pare să stea în loc. După biserica Sf. Ștefan, intrați în lumea colorată a artei naive. La prânz aflați totul despre apicultură, iar după-amiaza explorați istoria defensivă a insulei la turnul Slavić. Ziua se încheie liniștit lângă vestigiile antice din centrul satului.",
-            "en": "Your morning starts in the winding alleys of Grohote, where time seems to stand still. After visiting St. Stephen's Church, dive into the colorful world of naive art. At midday, learn about beekeeping before exploring the island's defensive history at the Slavić Tower in the afternoon. The day ends peacefully by the ancient remains in the village center."
+            "en": "Your morning starts in the winding alleys of Grohote, where time seems to stand still. After visiting St. Stephen's Church, dive into the colorful world of naive art. At midday, learn about beekeeping before exploring the island's defensive history at the Slavić Tower in the afternoon. The day ends peacefully by the ancient remains in the village center.",
+            "hr": "Vaše jutro započinje u vijugavim uličicama Grohota, gdje se čini da vrijeme stoji. Nakon posjeta crkvi sv. Stjepana, zaronite u šareni svijet naive. U podne se upoznajte s pčelarstvom prije nego što poslijepodne istražite obrambenu povijest otoka na Slavićevom tornju. Dan završava mirno kraj starih ostataka u središtu sela."
           },
           "stops": [
             {
@@ -370,7 +371,8 @@
                 "de": "Achten Sie auf die typischen dalmatinischen Steinhäuser.",
                 "hu": "Figyeljük meg a jellegzetes dalmát kőházak építészetét.",
                 "ro": "Admirați arhitectura tipică a caselor de piatră dalmate.",
-                "en": "Look for the typical Dalmatian stone house architecture."
+                "en": "Look for the typical Dalmatian stone house architecture.",
+                "hr": "Potražite tipičnu dalmatinsku kamenu kuću arhitekturu."
               }
             },
             {
@@ -379,7 +381,8 @@
                 "de": "Die Kirche beherbergt wertvolle sakrale Kunstgegenstände.",
                 "hu": "A templom értékes szakrális művészeti tárgyakat őriz.",
                 "ro": "Biserica adăpostește obiecte de artă sacră valoroase.",
-                "en": "The church houses valuable sacred art objects."
+                "en": "The church houses valuable sacred art objects.",
+                "hr": "Crkva čuva vrijedne sakralne umjetnine."
               }
             },
             {
@@ -388,7 +391,8 @@
                 "de": "Entdecken Sie die Welt der naiven Kunst in diesem Atelier.",
                 "hu": "Fedezze fel a naiv művészet világát ebben a műteremben.",
                 "ro": "Descoperiți lumea artei naive în acest atelier local.",
-                "en": "Discover the world of naive art in this local studio."
+                "en": "Discover the world of naive art in this local studio.",
+                "hr": "Otkrijte svijet naive u ovom lokalnom studiju."
               }
             },
             {
@@ -397,7 +401,8 @@
                 "de": "Probieren Sie den berühmten Rosmarinhonig der Insel.",
                 "hu": "Kóstolja meg a sziget híres rozmaringmézét.",
                 "ro": "Gustați faimoasa miere de rozmarin a insulei.",
-                "en": "Taste the island's famous rosemary honey."
+                "en": "Taste the island's famous rosemary honey.",
+                "hr": "Okusite otočni poznati ružmarinov med."
               }
             },
             {
@@ -406,7 +411,8 @@
                 "de": "Ein Wehrturm, der einst vor Piratenangriffen schützte.",
                 "hu": "Egy védőtorony, amely egykor a kalóztámadások ellen védett.",
                 "ro": "Un turn de apărare care proteja odinioară de pirați.",
-                "en": "A defensive tower that once protected from pirate attacks."
+                "en": "A defensive tower that once protected from pirate attacks.",
+                "hr": "Obrambeni toranj koji je nekad štitio od piratskih napada."
               }
             },
             {
@@ -415,7 +421,8 @@
                 "de": "Zentrum des kulturellen Lebens im alten Grohote.",
                 "hu": "A kulturális élet központja a régi Grohotéban.",
                 "ro": "Centrul vieții culturale în vechiul Grohote.",
-                "en": "The center of cultural life in old Grohote."
+                "en": "The center of cultural life in old Grohote.",
+                "hr": "Središte kulturnog života u starom Grohotu."
               }
             },
             {
@@ -424,7 +431,8 @@
                 "de": "Spuren der römischen Vergangenheit direkt im Ort.",
                 "hu": "A római múlt nyomai közvetlenül a településen.",
                 "ro": "Urme ale trecutului roman chiar în localitate.",
-                "en": "Traces of the Roman past right in the village."
+                "en": "Traces of the Roman past right in the village.",
+                "hr": "Tragovi rimskog prošlosti upravo u selu."
               }
             }
           ],
@@ -586,6 +594,12 @@
               "Wear comfortable shoes for the cobblestone streets.",
               "The honey farm often requires advance booking for tours.",
               "Mind the midday break: many small shops close between 1 pm and 5 pm."
+            ],
+            "hr": [
+              "Grohote je najstarije selo na otoku, savršeno za istraživanje pješice.",
+              "Nosite udobnu obuću za popločane ulice.",
+              "Pčelinjak često zahtijeva prethodnu rezervaciju za ture.",
+              "Pazite na pauzu u podne: mnoge male trgovine zatvaraju između 13:00 i 17:00."
             ]
           }
         },
@@ -595,7 +609,7 @@
             "hu": "A szitáló eső Grohote kőutcáin különleges hangulatot áraszt. A Szent István-templom után az Eugen Buktenica galéria nyújt színes, száraz menedéket. Délben a Tvrdic méhészetben kóstolt méz melengeti a lelket, miközben kint kopog az eső. A délutánt a Bratska kuća kulturális központban töltjük, majd a napot az antik szarkofágoknál zárjuk, ahol az eső áztatta kövek történelmi illatot árasztanak.",
             "ro": "O dimineață ploioasă pe străzile de piatră din Grohote are farmecul ei. După vizitarea bisericii Sf. Ștefan, galeria Eugen Buktenica oferă un refugiu uscat și colorat. La prânz, mierea de la Tvrdic încălzește sufletul în timp ce ploaia bate pe acoperiș. După-amiaza este petrecută plăcut în centrul cultural Bratska kuća, înainte ca ziua să se încheie liniștit lângă sarcofagele antice.",
             "en": "A rainy morning in the stone alleys of Grohote has its own charm. After visiting St. Stephen's Church, the Eugen Buktenica Gallery provides a dry, colorful sanctuary. At noon, the honey at Tvrdic warms the soul while the rain patters outside. The afternoon is spent cozily in the Bratska kuća cultural center, before the day ends quietly by the ancient sarcophagi with the scent of wet history.",
-            "hr": "Kišno jutro u kamenim uličicama Grohota ima svoj poseban šarm. Nakon posjeta crkvi sv. Stjepana, Galerija Eugen Buktenica pruža suho i šareno utočište. U podne vas med kod Tvrdića grije dok kiša lupka vani. Poslijepodne provedite ugodno u kulturnom centru Bratska kuća, prije nego što dan završite mirno uz antičke sarkofage i miris vlažne povijesti."
+            "hr": "Kišno jutro u kamenim uličicama Grohota ima svoj šarm. Nakon posjeta crkvi sv. Stjepana, Galerija Eugen Buktenica pruža suhi, šareni zaklon. U podne med kod Tvrdica grije dušu dok kiša kuca izvana. Poslijepodne provedete ugodno u kulturnom centru Bratska kuća, prije nego dan mirno završi kraj starih sarkofaga s mirisom vlažne povijesti."
           },
           "stops": [
             {
@@ -604,7 +618,8 @@
                 "de": "Vorsicht auf dem Kalksteinpflaster, es wird bei Nässe sehr rutschig.",
                 "hu": "Vigyázz a mészkő burkolaton, esőben rendkívül csúszóssá válik.",
                 "ro": "Atenție pe pavajul de calcar, devine foarte alunecos când este ud.",
-                "en": "Be careful on the limestone pavement; it becomes very slippery when wet."
+                "en": "Be careful on the limestone pavement; it becomes very slippery when wet.",
+                "hr": "Pazite na vapnenačke kocke; postaju vrlo klizave kad su mokre."
               }
             },
             {
@@ -613,7 +628,8 @@
                 "de": "Nutzen Sie den ruhigen Innenraum, um den stärksten Schauer abzuwarten.",
                 "hu": "Használja a csendes belső teret a legerősebb zápor kivárására.",
                 "ro": "Folosiți interiorul liniștit pentru a aștepta trecerea celei mai puternice averse.",
-                "en": "Use the quiet interior to wait out the heaviest downpour."
+                "en": "Use the quiet interior to wait out the heaviest downpour.",
+                "hr": "Iskoristite mirni interijer da pričekate najjaču kišu."
               }
             },
             {
@@ -622,7 +638,8 @@
                 "de": "Ideale Zeit für eine ausführliche Führung durch die naive Kunst.",
                 "hu": "Ideális időpont egy alapos tárlatvezetéshez a naiv művészet világában.",
                 "ro": "Moment ideal pentru un tur detaliat al artei naive.",
-                "en": "Ideal time for a detailed tour of naive art."
+                "en": "Ideal time for a detailed tour of naive art.",
+                "hr": "Idealno vrijeme za detaljan razgled naive."
               }
             },
             {
@@ -631,7 +648,8 @@
                 "de": "Die überdachte Terrasse bietet Schutz bei der Honigverkostung.",
                 "hu": "A fedett terasz védelmet nyújt a mézkóstoló közben.",
                 "ro": "Terasa acoperită oferă protecție în timpul degustării de miere.",
-                "en": "The covered terrace provides shelter during the honey tasting."
+                "en": "The covered terrace provides shelter during the honey tasting.",
+                "hr": "Natkrivena terasa pruža zaklon tijekom kušanja meda."
               }
             },
             {
@@ -640,7 +658,8 @@
                 "de": "Der Aufstieg ist steil, halten Sie sich bei Regen gut am Geländer fest.",
                 "hu": "A felvezető út meredek, esőben kapaszkodjon erősen a korlátba.",
                 "ro": "Urcarea este abruptă, țineți-vă bine de balustradă pe ploaie.",
-                "en": "The climb is steep; hold onto the railing firmly in the rain."
+                "en": "The climb is steep; hold onto the railing firmly in the rain.",
+                "hr": "Uspon je strm; u kiši se čvrsto držite rukohvata."
               }
             },
             {
@@ -649,7 +668,8 @@
                 "de": "Ein perfekter Ort, um die lokale Kultur im Trockenen zu erleben.",
                 "hu": "Tökéletes hely a helyi kultúra megismeréséhez szárazon.",
                 "ro": "Un loc perfect pentru a experimenta cultura locală la adăpost.",
-                "en": "A perfect place to experience local culture while staying dry."
+                "en": "A perfect place to experience local culture while staying dry.",
+                "hr": "Savršeno mjesto za doživjeti lokalnu kulturu i ostati suhim."
               }
             },
             {
@@ -658,7 +678,8 @@
                 "de": "Ein kurzer Stopp reicht aus, da der Bereich ungeschützt ist.",
                 "hu": "Egy rövid megálló is elég, mivel a terület teljesen nyitott.",
                 "ro": "O oprire scurtă este suficientă, deoarece zona este neprotejată.",
-                "en": "A short stop is enough, as the area is unprotected."
+                "en": "A short stop is enough, as the area is unprotected.",
+                "hr": "Kratko zadržavanje je dovoljno, područje nije zaštićeno."
               }
             }
           ],
@@ -688,9 +709,9 @@
               "Utilize Bratska kuća for longer indoor breaks."
             ],
             "hr": [
-              "Nosite obuću koja se ne kliže zbog uglačanog mokrog kamenja.",
-              "Galerija Buktenica i centar za pčelarstvo idealna su skloništa od kiše.",
-              "Kišobran je praktičniji od kabanice za ove kratke udaljenosti.",
+              "Nosite obuću s dobrim prianjanjem zbog izlizane klizave kamene površine.",
+              "Galerija Buktenica i pčelarski centar idealni su zakloni od kiše.",
+              "Kišobran je praktičniji od ponča za ove kratke udaljenosti.",
               "Iskoristite Bratsku kuću za duže unutarnje pauze."
             ]
           }
@@ -701,7 +722,7 @@
             "hu": "Télen békés csend honol Grohotéban. Az óváros hűvös reggeli szelét a Szent István-templom meleg áhítata enyhíti. A Buktenica galéria színei a szürke napokon is ragyognak. A Tvrdic családnál tett szívélyes mézkóstoló után a Slavić-erőd különösen misztikus az alkonyati fényekben. Mivel korán sötétedik, a napot a történelmi szarkofágoknál zárjuk, mielőtt a téli éjszaka leszáll.",
             "ro": "Iarna, în Grohote domnește o liniște deplină. Vântul răcoros de dimineață din orașul vechi este atenuat de atmosfera caldă din biserica Sf. Ștefan. Galeria Buktenica emană culori vii chiar și în zilele gri. După o degustare caldă de miere la Tvrdic, cetatea Slavić pare deosebit de mistică în lumina serii. Deoarece se întunecă devreme, ziua se încheie lângă sarcofagele pline de istorie.",
             "en": "In winter, a peaceful silence reigns in Grohote. The cool morning wind in the old town is tempered by the warm atmosphere in St. Stephen's Church. The Buktenica Gallery radiates bright colors even on grey days. After a warm honey tasting at Tvrdic, the Slavić Fortress looks particularly mystical in the early evening light. As it gets dark early, the day ends by the history-steeped sarcophagi.",
-            "hr": "Zimi u Grohotama vlada mirna tišina. Hladan jutarnji vjetar u starom gradu ublažava topla atmosfera u crkvi sv. Stjepana. Galerija Buktenica zrači jarkim bojama čak i u sivim danima. Nakon tople degustacije meda kod Tvrdića, utvrda Slavić izgleda posebno mistično u ranom večernjem svjetlu. Budući da se rano mrači, dan završava uz sarkofage prožete poviješću."
+            "hr": "Zimi u Grohotu vlada mirna tišina. Hladni jutarnji vjetar u starom gradu ublažava se toplom atmosferom u crkvi sv. Stjepana. Galerija Buktenica zrači vedrim bojama čak i po sivim danima. Nakon toplog kušanja meda kod Tvrdica, Slavićevka tvrđava posebno izgleda mistično u ranom večernjem svjetlu. Kako se ranije smrkava, dan završava kraj poviješću prožetih sarkofaga."
           },
           "stops": [
             {
@@ -710,7 +731,8 @@
                 "de": "Kleiden Sie sich im Zwiebelprinzip gegen den kühlen Nordwind (Bura).",
                 "hu": "Öltözzön rétegesen a hűvös északi szél (Bura) ellen.",
                 "ro": "Îmbrăcați-vă în straturi împotriva vântului rece de nord (Bura).",
-                "en": "Dress in layers against the cool north wind (Bura)."
+                "en": "Dress in layers against the cool north wind (Bura).",
+                "hr": "Odjenite se u slojevima protiv hladnog sjevernog vjetra (Bura)."
               }
             },
             {
@@ -719,7 +741,8 @@
                 "de": "Genießen Sie die Stille, im Winter sind kaum Touristen hier.",
                 "hu": "Élvezze a csendet, télen alig van itt turista.",
                 "ro": "Bucurați-vă de liniște, iarna sunt foarte puțini turiști aici.",
-                "en": "Enjoy the silence; there are very few tourists here in winter."
+                "en": "Enjoy the silence; there are very few tourists here in winter.",
+                "hr": "Uživajte u tišini; ovdje je zimi vrlo malo turista."
               }
             },
             {
@@ -728,7 +751,8 @@
                 "de": "Prüfen Sie die Winteröffnungszeiten vorab telefonisch.",
                 "hu": "Érdemes előre telefonon ellenőrizni a téli nyitvatartást.",
                 "ro": "Verificați programul de iarnă prin telefon în prealabil.",
-                "en": "Check winter opening hours by phone in advance."
+                "en": "Check winter opening hours by phone in advance.",
+                "hr": "Provjerite zimska radna vremena telefonom unaprijed."
               }
             },
             {
@@ -737,7 +761,8 @@
                 "de": "Probieren Sie den dunklen Rosmarinhonig zur Stärkung der Abwehr.",
                 "hu": "Kóstolja meg a sötét rozmaringmézet az immunrendszer erősítésére.",
                 "ro": "Gustați mierea închisă de rozmarin pentru întărirea imunității.",
-                "en": "Taste the dark rosemary honey to boost your immune system."
+                "en": "Taste the dark rosemary honey to boost your immune system.",
+                "hr": "Probajte tamni ružmarinov med za jačanje imuniteta."
               }
             },
             {
@@ -746,7 +771,8 @@
                 "de": "Seien Sie um 16:00 Uhr hier, um das sanfte Winterlicht zu nutzen.",
                 "hu": "Legyen itt délután 4-re, hogy elkapja a lágy téli fényeket.",
                 "ro": "Fiți aici la ora 16:00 pentru a profita de lumina caldă de iarnă.",
-                "en": "Be here by 4:00 PM to catch the soft winter light."
+                "en": "Be here by 4:00 PM to catch the soft winter light.",
+                "hr": "Budite ovdje do 16:00 da uhvatite mekano zimsko svjetlo."
               }
             },
             {
@@ -755,7 +781,8 @@
                 "de": "Oft finden hier im Winter lokale Vereinsabende statt.",
                 "hu": "Télen gyakran tartanak itt helyi közösségi esteket.",
                 "ro": "Iarna, aici au loc adesea seri ale asociațiilor locale.",
-                "en": "Local community evenings are often held here in winter."
+                "en": "Local community evenings are often held here in winter.",
+                "hr": "Lokalna zajednička večer često se održava ovdje zimi."
               }
             },
             {
@@ -764,7 +791,8 @@
                 "de": "Die kalte Steinatmosphäre wirkt im Winter besonders authentisch.",
                 "hu": "A hideg kövek hangulata télen különösen autentikusnak hat.",
                 "ro": "Atmosfera rece de piatră pare deosebit de autentică iarna.",
-                "en": "The cold stone atmosphere feels particularly authentic in winter."
+                "en": "The cold stone atmosphere feels particularly authentic in winter.",
+                "hr": "Hladna kamena atmosfera posebno je autentična zimi."
               }
             }
           ],
@@ -794,10 +822,10 @@
               "Utilize the midday hours for outdoor sightseeing."
             ],
             "hr": [
-              "Zalazak sunca zimi je već oko 16:30 sati.",
-              "Bura može stvoriti osjećaj hladnoće puno veći nego što pokazuje termometar.",
-              "Neki kafići mogu imati ograničeno radno vrijeme tijekom zime.",
-              "Iskoristite podnevne sate za razgledavanje na otvorenom."
+              "Zalazak sunca zimi već oko 16:30.",
+              "Bura može djelovati puno hladnije nego što pokazuje termometar.",
+              "Neke kafiće zimi mogu imati skraćeno radno vrijeme.",
+              "Iskoristite podne za razgledavanje na otvorenom."
             ]
           }
         }
@@ -827,7 +855,7 @@
             "hu": "Kiindulópont a történelmi központban.",
             "ro": "Punct de plecare în centrul istoric.",
             "en": "Starting point in the historic center.",
-            "hr": "Početna točka u povijesnoj jezgri."
+            "hr": "Polazna točka u povijesnom središtu."
           }
         },
         {
@@ -903,7 +931,7 @@
             "hu": "Energialöket helyi mézzel.",
             "ro": "Plus de energie cu miere locală.",
             "en": "Energy boost with local honey.",
-            "hr": "Doza energije uz domaći med."
+            "hr": "Davanje energije s lokalnim medom."
           }
         },
         {
@@ -931,7 +959,7 @@
         "hu": "Kerékpárral nemcsak a falut, hanem a dombos környéket is felfedezheti a Szent Mihály-templomig. Visszatérés után a művészeté és az élvezeteké a főszerep.",
         "ro": "Cu bicicleta explorați nu doar satul, ci și împrejurimile deluroase până la biserica Sf. Mihail. După întoarcere, arta și deliciile locale sunt prioritare.",
         "en": "By bike, you explore not only the village but also the hilly surroundings up to St. Michael's Church. After returning, art and local treats take center stage.",
-        "hr": "Biciklom istražujete ne samo selo, već i brdovitu okolicu sve do crkve sv. Mihovila. Po povratku, u središtu pažnje su umjetnost i domaće delicije."
+        "hr": "Biciklom istražujete ne samo selo nego i brdovite okolne krajeve do crkve sv. Mihovila. Nakon povratka, umjetnost i lokalne delicije dolaze u prvi plan."
       },
       "gastro_picks": {
         "de": [
@@ -1056,9 +1084,9 @@
           "Watch out for light car traffic on side roads."
         ],
         "hr": [
-          "Staze su djelomično kamenite, preporučuju se brdski bicikli.",
+          "Staze su djelomično kamene, preporučuju se brdski bicikli.",
           "Ponesite dovoljno vode sa sobom.",
-          "Pripazite na lagani automobilski promet na sporednim cestama."
+          "Pazite na slabiji automobilni promet na sporednim cestama."
         ]
       },
       "variants": {
@@ -1067,7 +1095,8 @@
             "de": "Mit dem Fahrrad erkunden Sie nicht nur das Dorf, sondern auch die hügelige Umgebung bis zur Michaelskirche. Nach der Rückkehr stehen Kunst und Genuss im Vordergrund.",
             "hu": "Kerékpárral nemcsak a falut, hanem a dombos környéket is felfedezheti a Szent Mihály-templomig. Visszatérés után a művészeté és az élvezeteké a főszerep.",
             "ro": "Cu bicicleta explorați nu doar satul, ci și împrejurimile deluroase până la biserica Sf. Mihail. După întoarcere, arta și deliciile locale sunt prioritare.",
-            "en": "By bike, you explore not only the village but also the hilly surroundings up to St. Michael's Church. After returning, art and local treats take center stage."
+            "en": "By bike, you explore not only the village but also the hilly surroundings up to St. Michael's Church. After returning, art and local treats take center stage.",
+            "hr": "Biciklom istražujete ne samo selo nego i brdovite okolne krajeve do crkve sv. Mihovila. Nakon povratka, umjetnost i lokalne delicije dolaze u prvi plan."
           },
           "stops": [
             {
@@ -1076,7 +1105,8 @@
                 "de": "Startpunkt im historischen Zentrum.",
                 "hu": "Kiindulópont a történelmi központban.",
                 "ro": "Punct de plecare în centrul istoric.",
-                "en": "Starting point in the historic center."
+                "en": "Starting point in the historic center.",
+                "hr": "Polazna točka u povijesnom središtu."
               }
             },
             {
@@ -1085,7 +1115,8 @@
                 "de": "Kleine Kirche auf einem Hügel mit schöner Aussicht.",
                 "hu": "Kis templom egy dombon, gyönyörű kilátással.",
                 "ro": "Biserică mică pe un deal cu vedere frumoasă.",
-                "en": "Small church on a hill with a nice view."
+                "en": "Small church on a hill with a nice view.",
+                "hr": "Mala crkva na brdu s lijepim pogledom."
               }
             },
             {
@@ -1094,7 +1125,8 @@
                 "de": "Besichtigung der Hauptkirche nach der Rückfahrt.",
                 "hu": "A főtemplom megtekintése a visszautat követően.",
                 "ro": "Vizitarea bisericii principale după întoarcere.",
-                "en": "Visiting the main church after the return ride."
+                "en": "Visiting the main church after the return ride.",
+                "hr": "Posjet glavnoj crkvi nakon povratne vožnje."
               }
             },
             {
@@ -1103,7 +1135,8 @@
                 "de": "Kunstpause im Schatten.",
                 "hu": "Művészeti pihenő az árnyékban.",
                 "ro": "Pauză de artă la umbră.",
-                "en": "Art break in the shade."
+                "en": "Art break in the shade.",
+                "hr": "Umjetnička pauza u hladu."
               }
             },
             {
@@ -1112,7 +1145,8 @@
                 "de": "Energieschub mit lokalem Honig.",
                 "hu": "Energialöket helyi mézzel.",
                 "ro": "Plus de energie cu miere locală.",
-                "en": "Energy boost with local honey."
+                "en": "Energy boost with local honey.",
+                "hr": "Davanje energije s lokalnim medom."
               }
             },
             {
@@ -1121,7 +1155,8 @@
                 "de": "Letzter Blick über die Dächer von Grohote.",
                 "hu": "Utolsó pillantás Grohote háztetőire.",
                 "ro": "Ultima privire asupra acoperișurilor din Grohote.",
-                "en": "Last look over the roofs of Grohote."
+                "en": "Last look over the roofs of Grohote.",
+                "hr": "Posljednji pogled preko krovova Grohota."
               }
             }
           ],
@@ -1227,6 +1262,11 @@
               "Paths are partly stony, mountain bikes are recommended.",
               "Take plenty of water with you.",
               "Watch out for light car traffic on side roads."
+            ],
+            "hr": [
+              "Staze su djelomično kamene, preporučuju se brdski bicikli.",
+              "Ponesite dovoljno vode sa sobom.",
+              "Pazite na slabiji automobilni promet na sporednim cestama."
             ]
           }
         },
@@ -1236,7 +1276,7 @@
             "hu": "Az esőben való biciklizés Šoltán óvatosságot igényel, de magányos utakat kínál. Az óvárosból a Szent Mihály-templom felé vesszük az irányt, miközben a gumik halkan suhognak a vizes aszfalton. A Szent István-templomban tett rövid pihenő után a Buktenica galéria ideális hely a ruhák szárítására. A Tvrdic méhészet a jutalom a vizes tekerésért, mielőtt a Slavić-erőd felbukkanna a ködben.",
             "ro": "Mersul cu bicicleta pe ploaie în Šolta necesită prudență, dar oferă drumuri pustii. De la orașul vechi porniți spre biserica Sf. Mihail, în timp ce anvelopele șuieră pe asfaltul ud. După un scurt refugiu în biserica Sf. Ștefan, galeria Buktenica este locul perfect pentru a vă usca hainele. Degustarea de miere la Tvrdic este recompensa pentru drumul ud, înainte ca cetatea Slavić să apară prin ceață.",
             "en": "Cycling in the rain on Šolta requires caution but offers solitary paths. From the old town, head towards St. Michael's Church as the tires sing softly on the wet asphalt. After a brief refuge in St. Stephen's Church, the Buktenica Gallery is the perfect spot to dry your gear. The honey tasting at Tvrdic is the reward for the wet ride before the Slavić Fortress emerges through the mist.",
-            "hr": "Vožnja bicikla po kiši na Šolti zahtijeva oprez, ali nudi osamljene staze. Iz starog grada krenite prema crkvi sv. Mihovila dok gume tiho pjevaju na mokrom asfaltu. Nakon kratkog utočišta u crkvi sv. Stjepana, Galerija Buktenica savršeno je mjesto za sušenje opreme. Degustacija meda kod Tvrdića nagrada je za mokru vožnju prije nego što se utvrda Slavić pojavi kroz maglu."
+            "hr": "Bicikliranje po kiši na Šolti zahtijeva oprez, ali nudi osamljene staze. Iz starog grada krenite prema crkvi sv. Mihovila dok gume tiho šušte po mokrom asfaltu. Nakon kratkog skloništa u crkvi sv. Stjepana, Galerija Buktenica je idealno mjesto za sušenje opreme. Kušanje meda u Tvrdicu nagrada je za mokru vožnju prije nego što se kroz maglu pojavi tvrđava Slavić."
           },
           "stops": [
             {
@@ -1245,7 +1285,8 @@
                 "de": "Fahren Sie in den engen Gassen besonders langsam und vorausschauend.",
                 "hu": "A szűk utcákban tekerjen lassabban és körültekintőbben.",
                 "ro": "Mergeți deosebit de încet și preventiv pe străzile înguste.",
-                "en": "Ride particularly slowly and defensively in the narrow alleys."
+                "en": "Ride particularly slowly and defensively in the narrow alleys.",
+                "hr": "Vozite posebno polako i defenzivno u uskim sokacima."
               }
             },
             {
@@ -1254,7 +1295,8 @@
                 "de": "Die Landstraßen können bei Regen Schlamm von den Feldern führen.",
                 "hu": "Az országutakra az eső sarat moshat a környező földekről.",
                 "ro": "Drumurile rurale pot avea noroi de pe câmpuri în timpul ploii.",
-                "en": "Rural roads can carry mud from the fields during rain."
+                "en": "Rural roads can carry mud from the fields during rain.",
+                "hr": "Seoske ceste mogu nositi blato s polja tijekom kiše."
               }
             },
             {
@@ -1263,7 +1305,8 @@
                 "de": "Stellen Sie Ihr Rad unter dem Dachvorsprung in der Nähe ab.",
                 "hu": "Parkolja a biciklit a közeli tetőeresz alá.",
                 "ro": "Parcați bicicleta sub streașina din apropiere.",
-                "en": "Park your bike under the eaves nearby."
+                "en": "Park your bike under the eaves nearby.",
+                "hr": "Parkirajte bicikl ispod nadstrešnice u blizini."
               }
             },
             {
@@ -1272,7 +1315,8 @@
                 "de": "Nutzen Sie die Zeit für eine Aufwärmpause im Innenraum.",
                 "hu": "Használja ki az időt egy beltéri bemelegítő pihenőre.",
                 "ro": "Folosiți timpul pentru o pauză de încălzire la interior.",
-                "en": "Use the time for a warm-up break inside."
+                "en": "Use the time for a warm-up break inside.",
+                "hr": "Iskoristite vrijeme za pauzu za zagrijavanje unutra."
               }
             },
             {
@@ -1281,7 +1325,8 @@
                 "de": "Warmer Tee mit Honig ist jetzt die ideale Erfrischung.",
                 "hu": "A mézes meleg tea most a legideálisabb frissítő.",
                 "ro": "Un ceai cald cu miere este acum împrospătarea ideală.",
-                "en": "Warm tea with honey is the ideal refreshment now."
+                "en": "Warm tea with honey is the ideal refreshment now.",
+                "hr": "Topli čaj s medom sada je idealno osvježenje."
               }
             },
             {
@@ -1290,7 +1335,8 @@
                 "de": "Die Steine an der Festung sind sehr glatt, Vorsicht beim Absteigen.",
                 "hu": "Az erődnél a kövek nagyon simák, vigyázzon a leszálláskor.",
                 "ro": "Pietrele de la cetate sunt foarte lucioase, atenție la descălecare.",
-                "en": "The stones at the fortress are very smooth; watch your step when dismounting."
+                "en": "The stones at the fortress are very smooth; watch your step when dismounting.",
+                "hr": "Kamenje na tvrđavi je vrlo glatko; pazite pri iskakanju iz sedla."
               }
             }
           ],
@@ -1320,10 +1366,10 @@
               "Keep your valuables in waterproof panniers or bags."
             ],
             "hr": [
-              "Provjerite kočnice prije kretanja; mokri asfalt produljuje put kočenja.",
+              "Provjerite kočnice prije polaska; mokri asfalt povećava zaustavni put.",
               "Izbjegavajte lokve jer mogu skrivati duboke rupe.",
-              "Nosite uočljivu kabanicu radi bolje sigurnosti.",
-              "Držite dragocjenosti u vodootpornim torbama."
+              "Nosite nepromočivu jaknu visoke vidljivosti za veću sigurnost.",
+              "Držite vrijednosti u vodonepropusnim koferima ili torbama."
             ]
           }
         },
@@ -1333,7 +1379,7 @@
             "hu": "A téli biciklitúra Šoltán kristálytiszta levegőt és tágas kilátást kínál. A reggel frissen indul Grohote óvárosában. A Szent Mihály-templom felé tartó út a hűvös szélben élénkítő, míg a Szent István-templom rövid betérésre hív. A Buktenica galéria művészete melengeti az érzékeket. A Tvrdic családnál tett látogatás télen különösen szívélyes, mielőtt a túra a Slavić-erődnél a kora esti aranyfényekben véget érne.",
             "ro": "O tură cu bicicleta iarna prin Šolta oferă aer cristalinc și perspective largi. Dimineața începe proaspăt în orașul vechi din Grohote. Drumul spre biserica Sf. Mihail este înviorător datorită vântului rece, în timp ce biserica Sf. Ștefan invită la o scurtă oprire. Galeria Buktenica încălzește simțurile cu arta sa. O vizită la Tvrdic este deosebit de caldă iarna, înainte ca turul să se încheie la cetatea Slavić în lumina aurie a amurgului timpuriu.",
             "en": "A winter bike tour through Šolta offers crystal-clear air and expansive views. The morning starts fresh in the old town of Grohote. The ride to St. Michael's is invigorating in the cool wind, while St. Stephen's invites a brief stop. The Buktenica Gallery warms the senses with its art. A visit to Tvrdic is particularly heartfelt in winter, before the tour ends at the Slavić Fortress in the golden light of the early dusk.",
-            "hr": "Zimska tura biciklom kroz Šoltu nudi kristalno čist zrak i široke vidike. Jutro počinje svježe u starom gradu Grohota. Vožnja do sv. Mihovila okrepljuje na hladnom vjetru, dok sv. Stjepan poziva na kratki odmor. Galerija Buktenica svojim umjetninama grije osjetila. Posjet Tvrdiću posebno je srdačan zimi, prije nego što tura završi kod utvrde Slavić u zlatnom svjetlu ranog sumraka."
+            "hr": "Zimska biciklistička tura po Šolti nudi kristalno čist zrak i velike vidike. Jutro započinje svježe u starom gradu Grohotama. Vožnja do sv. Mihovila razgoni, dok sv. Stjepan poziva na kratak predah. Galerija Buktenica grije osjetila svojom umjetnošću. Posjet Tvrdicu posebno je dirljiv zimi, prije nego što tura završi na tvrđavi Slavić u zlatnoj svjetlosti ranog sumraka."
           },
           "stops": [
             {
@@ -1342,7 +1388,8 @@
                 "de": "Tragen Sie winddichte Handschuhe, da der Fahrtwind die Hände schnell kühlt.",
                 "hu": "Viseljen szélálló kesztyűt, mert a menetszél gyorsan lehűti a kezeket.",
                 "ro": "Purtați mănuși rezistente la vânt, deoarece curentul răcește repede mâinile.",
-                "en": "Wear windproof gloves as the headwind cools hands quickly."
+                "en": "Wear windproof gloves as the headwind cools hands quickly.",
+                "hr": "Nosite vjetrootporne rukavice jer vam jak protivvjetar brzo hladi ruke."
               }
             },
             {
@@ -1351,7 +1398,8 @@
                 "de": "Genießen Sie den weiten Blick, der im Winter oft klarer ist.",
                 "hu": "Élvezze a tágas kilátást, amely télen gyakran sokkal tisztább.",
                 "ro": "Bucurați-vă de priveliștea largă, care este adesea mai clară iarna.",
-                "en": "Enjoy the expansive view, which is often much clearer in winter."
+                "en": "Enjoy the expansive view, which is often much clearer in winter.",
+                "hr": "Uživajte u širokom pogledu koji je zimi često puno jasniji."
               }
             },
             {
@@ -1360,7 +1408,8 @@
                 "de": "Ein guter Ort, um kurz die Beine aufzuwärmen.",
                 "hu": "Jó hely egy rövid lábbemelegítő pihenőhöz.",
                 "ro": "Un loc bun pentru a vă încălzi picioarele pentru scurt timp.",
-                "en": "A good place to briefly warm up your legs."
+                "en": "A good place to briefly warm up your legs.",
+                "hr": "Dobar je to dio za kratko zagrijavanje nogu."
               }
             },
             {
@@ -1369,7 +1418,8 @@
                 "de": "Die Farben der Bilder bilden einen tollen Kontrast zum Wintergrau.",
                 "hu": "A képek színei remek kontrasztot alkotnak a téli szürkeséggel.",
                 "ro": "Culorile tablourilor oferă un contrast deosebit cu griul iernii.",
-                "en": "The colors of the paintings provide a great contrast to the winter grey."
+                "en": "The colors of the paintings provide a great contrast to the winter grey.",
+                "hr": "Boje slika daju sjajan kontrast zimskoj sivilu."
               }
             },
             {
@@ -1378,7 +1428,8 @@
                 "de": "Decken Sie sich mit Honigprodukten für die kalte Jahreszeit ein.",
                 "hu": "Vásároljon be méhészeti termékekből a hideg évszakra.",
                 "ro": "Aprovizionați-vă cu produse apicole pentru sezonul rece.",
-                "en": "Stock up on honey products for the cold season."
+                "en": "Stock up on honey products for the cold season.",
+                "hr": "Nabavite zalihe medenih proizvoda za hladnu sezonu."
               }
             },
             {
@@ -1387,7 +1438,8 @@
                 "de": "Stirnlampen einpacken, falls die Rückfahrt in die Dämmerung fällt.",
                 "hu": "Vigyen fejlámpát, ha a visszaút már sötétedésbe nyúlik.",
                 "ro": "Luați o lanternă frontală în caz că drumul de întoarcere va fi pe amurg.",
-                "en": "Pack headlamps in case the return trip falls into twilight."
+                "en": "Pack headlamps in case the return trip falls into twilight.",
+                "hr": "Spakirajte čelne svjetiljke u slučaju da se povratak poklopi s sumrakom."
               }
             }
           ],
@@ -1417,10 +1469,10 @@
               "Carry a warm drink in a thermos flask."
             ],
             "hr": [
-              "Koristite slojevitu odjeću kako biste odveli znoj od tijela.",
-              "Planirajte turu tako da se vratite do 16:30 sati.",
-              "Bura može otežati vožnju na otvorenim dionicama.",
-              "Ponesite topli napitak u termosici."
+              "Koristite donje slojeve koji odvode znoj s tijela.",
+              "Planirajte turu tako da se vratite do 16:30.",
+              "Bura može otežati bicikliranje na otvorenim dionicama.",
+              "Ponesite topao napitak u termosici."
             ]
           }
         }
@@ -1488,7 +1540,7 @@
             "hu": "Nagy parkolási lehetőség közvetlenül a helyszínen.",
             "ro": "Posibilități mari de parcare direct la fața locului.",
             "en": "Ample parking available directly on site.",
-            "hr": "Dostupno dovoljno parkirnih mjesta izravno na lokaciji."
+            "hr": "Dovoljno parkirnih mjesta odmah na lokaciji."
           }
         },
         {
@@ -1507,7 +1559,7 @@
             "hu": "Látogassa meg a művész unokaöccsének műtermét.",
             "ro": "Vizitați atelierul nepotului artistului.",
             "en": "Visit the studio of the artist's nephew.",
-            "hr": "Posjetite atelje umjetnikova nećaka."
+            "hr": "Posjetite atelje umjetnikovog nećaka."
           }
         },
         {
@@ -1545,7 +1597,7 @@
             "hu": "A nap kulturális lezárása.",
             "ro": "Finalul cultural al zilei.",
             "en": "Cultural conclusion of the day.",
-            "hr": "Kulturni završetak dana."
+            "hr": "Kulturni zaključak dana."
           }
         }
       ],
@@ -1554,7 +1606,7 @@
         "hu": "Az autó lehetővé teszi a kicsit távolabb fekvő Szent Mihály-templom meglátogatását, mielőtt felfedezné Grohote kulturális szívét.",
         "ro": "Mașina vă permite să vizitați biserica Sf. Mihail, situată puțin mai departe, înainte de a explora inima culturală din Grohote.",
         "en": "The car allows you to visit the slightly more distant St. Michael's Church before exploring the cultural heart of Grohote.",
-        "hr": "Automobil vam omogućuje posjet nešto udaljenijoj crkvi sv. Mihovila prije istraživanja kulturnog srca Grohota."
+        "hr": "Autom možete posjetiti nešto udaljeniju crkvu sv. Mihovila prije nego istražite kulturno srce Grohota."
       },
       "gastro_picks": {
         "de": [
@@ -1680,8 +1732,8 @@
         ],
         "hr": [
           "Ulice u Grohotama su uske, koristite vanjska parkirališta.",
-          "Natočite gorivo na kopnu, benzinske postaje su rijetke na otoku.",
-          "Pripazite na pješake na uskim cestama."
+          "Napunite gorivo na kopnu, benzinske su rijetke na otoku.",
+          "Pazite na planinare na uskim cestama."
         ]
       },
       "variants": {
@@ -1690,7 +1742,8 @@
             "de": "Das Auto ermöglicht Ihnen den Besuch der etwas weiter entfernten Michaelskirche, bevor Sie das kulturelle Herz von Grohote erkunden.",
             "hu": "Az autó lehetővé teszi a kicsit távolabb fekvő Szent Mihály-templom meglátogatását, mielőtt felfedezné Grohote kulturális szívét.",
             "ro": "Mașina vă permite să vizitați biserica Sf. Mihail, situată puțin mai departe, înainte de a explora inima culturală din Grohote.",
-            "en": "The car allows you to visit the slightly more distant St. Michael's Church before exploring the cultural heart of Grohote."
+            "en": "The car allows you to visit the slightly more distant St. Michael's Church before exploring the cultural heart of Grohote.",
+            "hr": "Autom možete posjetiti nešto udaljeniju crkvu sv. Mihovila prije nego istražite kulturno srce Grohota."
           },
           "stops": [
             {
@@ -1699,7 +1752,8 @@
                 "de": "Parken Sie am Dorfeingang.",
                 "hu": "Parkoljon a falu bejáratánál.",
                 "ro": "Parcați la intrarea în sat.",
-                "en": "Park at the village entrance."
+                "en": "Park at the village entrance.",
+                "hr": "Parkirajte na ulazu u selo."
               }
             },
             {
@@ -1708,7 +1762,8 @@
                 "de": "Abgelegene Kirche, gut erreichbar mit dem Auto.",
                 "hu": "Félreeső templom, autóval jól megközelíthető.",
                 "ro": "Biserică izolată, ușor accesibilă cu mașina.",
-                "en": "Remote church, easily accessible by car."
+                "en": "Remote church, easily accessible by car.",
+                "hr": "Udaljena crkva, lako dostupna automobilom."
               }
             },
             {
@@ -1717,7 +1772,8 @@
                 "de": "Große Parkmöglichkeiten direkt vor Ort.",
                 "hu": "Nagy parkolási lehetőség közvetlenül a helyszínen.",
                 "ro": "Posibilități mari de parcare direct la fața locului.",
-                "en": "Ample parking available directly on site."
+                "en": "Ample parking available directly on site.",
+                "hr": "Dovoljno parkirnih mjesta odmah na lokaciji."
               }
             },
             {
@@ -1726,7 +1782,8 @@
                 "de": "Besuchen Sie das Atelier des Neffen des Künstlers.",
                 "hu": "Látogassa meg a művész unokaöccsének műtermét.",
                 "ro": "Vizitați atelierul nepotului artistului.",
-                "en": "Visit the studio of the artist's nephew."
+                "en": "Visit the studio of the artist's nephew.",
+                "hr": "Posjetite atelje umjetnikovog nećaka."
               }
             },
             {
@@ -1735,7 +1792,8 @@
                 "de": "Kurzer Spaziergang vom Parkplatz zum Turm.",
                 "hu": "Rövid séta a parkolótól a toronyig.",
                 "ro": "Scurtă plimbare de la parcare la turn.",
-                "en": "Short walk from the parking lot to the tower."
+                "en": "Short walk from the parking lot to the tower.",
+                "hr": "Kratka šetnja od parkirališta do kule."
               }
             },
             {
@@ -1744,7 +1802,8 @@
                 "de": "Kultureller Abschluss des Tages.",
                 "hu": "A nap kulturális lezárása.",
                 "ro": "Finalul cultural al zilei.",
-                "en": "Cultural conclusion of the day."
+                "en": "Cultural conclusion of the day.",
+                "hr": "Kulturni zaključak dana."
               }
             }
           ],
@@ -1850,6 +1909,11 @@
               "Streets in Grohote are narrow, use outer parking lots.",
               "Fuel up on the mainland, gas stations are rare on the island.",
               "Watch out for hikers on narrow roads."
+            ],
+            "hr": [
+              "Ulice u Grohotama su uske, koristite vanjska parkirališta.",
+              "Napunite gorivo na kopnu, benzinske su rijetke na otoku.",
+              "Pazite na planinare na uskim cestama."
             ]
           }
         },
@@ -1859,7 +1923,7 @@
             "hu": "Autóval az esős Šolta kényelmesen felfedezhető. A grohotei indulás után a Szent Mihály-templom nyújt csendes első állomást. Az út a Tvrdic méhészetig rövid és száraz, ahol a méz valódi élvezet. A déli órákat a Buktenica galériában töltjük, védve az elemektől. A Slavić-erőd és a Bratska kuća zárja a napot, miközben az autó mindig meleg menedékként szolgál.",
             "ro": "Cu mașina, puteți explora relaxat insula Šolta pe ploaie. După plecarea din Grohote, biserica Sf. Mihail oferă o primă oprire liniștită. Drumul spre apicultura Tvrdic este scurt și uscat, unde mierea este o adevărată desfătare. Amiaza este petrecută în galeria Buktenica, protejat de elemente. Cetatea Slavić și Bratska kuća completează ziua, în timp ce mașina este mereu gata ca refugiu cald.",
             "en": "Rainy Šolta can be explored in a relaxed way by car. After starting in Grohote, St. Michael's Church offers a quiet first stop. The drive to Tvrdic is short and dry, where the honey is a true delight. Spend the midday at Buktenica Gallery, sheltered from the elements. The Slavić Fortress and Bratska kuća round off the day, with the car always ready as a warm retreat.",
-            "hr": "Kišnu Šoltu možete istražiti opušteno automobilom. Nakon kretanja iz Grohota, crkva sv. Mihovila nudi mirnu prvu stanicu. Vožnja do Tvrdića je kratka i suha, gdje je med pravi užitak. Provedite podne u Galeriji Buktenica, zaštićeni od elemenata. Utvrda Slavić i Bratska kuća zaokružuju dan, s automobilom koji je uvijek spreman kao toplo utočište."
+            "hr": "Kišnu Šoltu možete istražiti opušteno automobilom. Nakon polaska iz Grohota, crkva sv. Mihovila nudi miran prvi zastanak. Vožnja do Tvrdica je kratka i suha, gdje je med pravo zadovoljstvo. Poslijepodne provedite u Galeriji Buktenica, zaštićeni od vremenskih nepogoda. Tvrđava Slavić i Bratska kuća zaokružuju dan, s autom uvijek spremnim kao topao povratak."
           },
           "stops": [
             {
@@ -1868,7 +1932,8 @@
                 "de": "Parken Sie auf dem zentralen Parkplatz, um lange Fußwege im Regen zu vermeiden.",
                 "hu": "Parkoljon a központi parkolóban, hogy elkerülje a hosszú gyaloglást az esőben.",
                 "ro": "Parcați în parcarea centrală pentru a evita mersul lung pe jos prin ploaie.",
-                "en": "Park in the central parking lot to avoid long walks in the rain."
+                "en": "Park in the central parking lot to avoid long walks in the rain.",
+                "hr": "Parkirajte na centralnom parkiralištu kako biste izbjegli duge šetnje po kiši."
               }
             },
             {
@@ -1877,7 +1942,8 @@
                 "de": "Der Parkbereich bei der Kirche kann bei Regen etwas schlammig sein.",
                 "hu": "A templom melletti parkoló esőben sáros lehet.",
                 "ro": "Zona de parcare de lângă biserică poate fi noroioasă pe ploaie.",
-                "en": "The parking area near the church can be muddy in the rain."
+                "en": "The parking area near the church can be muddy in the rain.",
+                "hr": "Parkiralište blizu crkve može biti blatno za kiše."
               }
             },
             {
@@ -1886,7 +1952,8 @@
                 "de": "Ideal, um lokale Spezialitäten einzukaufen, ohne nass zu werden.",
                 "hu": "Ideális helyi különlegességek vásárlására anélkül, hogy megázna.",
                 "ro": "Ideal pentru a cumpăra specialități locale fără a vă uda.",
-                "en": "Ideal for shopping for local specialties without getting wet."
+                "en": "Ideal for shopping for local specialties without getting wet.",
+                "hr": "Idealno za kupovinu lokalnih specijaliteta bez da se smočite."
               }
             },
             {
@@ -1895,7 +1962,8 @@
                 "de": "Es gibt begrenzte Parkmöglichkeiten direkt vor dem Eingang.",
                 "hu": "Közvetlenül a bejárat előtt korlátozott számú parkolóhely áll rendelkezésre.",
                 "ro": "Există locuri de parcare limitate chiar în fața intrării.",
-                "en": "Limited parking is available directly in front of the entrance."
+                "en": "Limited parking is available directly in front of the entrance.",
+                "hr": "Ograničen broj mjesta dostupan je odmah ispred ulaza."
               }
             },
             {
@@ -1904,7 +1972,8 @@
                 "de": "Lassen Sie keine Wertsachen sichtbar im Auto liegen.",
                 "hu": "Ne hagyjon értéktárgyakat látható helyen az autóban.",
                 "ro": "Nu lăsați obiecte de valoare la vedere în mașină.",
-                "en": "Do not leave valuables visible in the car."
+                "en": "Do not leave valuables visible in the car.",
+                "hr": "Ne ostavljajte vrijednosti vidljive u automobilu."
               }
             },
             {
@@ -1913,7 +1982,8 @@
                 "de": "Nutzen Sie den kurzen Weg vom Auto in das warme Gebäude.",
                 "hu": "Használja ki a rövid utat az autótól a meleg épületig.",
                 "ro": "Profitați de drumul scurt de la mașină până în clădirea caldă.",
-                "en": "Take advantage of the short path from the car to the warm building."
+                "en": "Take advantage of the short path from the car to the warm building.",
+                "hr": "Iskoristite kratku stazu od auta do toplog objekta."
               }
             }
           ],
@@ -1943,9 +2013,9 @@
               "Check tire pressure before driving across the island."
             ],
             "hr": [
-              "Vozite posebno oprezno na uskim cestama zbog rizika od akvaplaninga.",
-              "Koristite klima uređaj kako biste spriječili magljenje vjetrobranskog stakla.",
-              "Držite ručnik u autu u slučaju da pokisnete pri ulasku.",
+              "Vozite pažljivije na uskim cestama zbog rizika od akvaplaninga.",
+              "Koristite klimatizaciju da spriječite zamagljivanje vjetrobrana.",
+              "Držite ručnik u autu u slučaju da se smočite pri ulasku.",
               "Provjerite tlak u gumama prije vožnje po otoku."
             ]
           }
@@ -1956,7 +2026,7 @@
             "hu": "A téli autózás Šoltán a sziget nyugodt arcát mutatja meg. A grohotei hűvös reggel könnyen átvészelhető a fűtött autóban. A Szent Mihály-templom után az út a Tvrdic méhészethez vezet, ahol téli mézkülönlegességek várnak. A Buktenica galéria színes szünetet kínál a téli szürkeségben. Mielőtt besötétedne, meglátogatjuk a Slavić-erődöt, majd a Bratska kuća épületében melegedünk fel.",
             "ro": "O plimbare de iarnă cu mașina prin Šolta dezvăluie fața liniștită a insulei. Dimineața rece din Grohote poate fi evitată în mașina încălzită. După biserica Sf. Mihail, drumul duce la apicultura Tvrdic pentru specialități de miere de iarnă. Galeria Buktenica oferă o pauză colorată de la griul iernii. Înainte de lăsarea întunericului, vizităm cetatea Slavić și ne încălzim apoi în Bratska kuća.",
             "en": "A winter drive through Šolta shows the quiet side of the island. The cool morning in Grohote is easily managed in a heated car. After visiting St. Michael's, the route leads to Tvrdic for winter honey specialties. Buktenica Gallery offers a colorful break from the winter grey. Before it gets dark, we visit the Slavić Fortress and then warm up in Bratska kuća.",
-            "hr": "Zimska vožnja kroz Šoltu pokazuje mirnu stranu otoka. Hladno jutro u Grohotama lako se svladava u grijanom automobilu. Nakon posjeta sv. Mihovilu, ruta vodi do Tvrdića na zimske specijalitete od meda. Galerija Buktenica nudi šareni predah od zimskog sivila. Prije nego što padne mrak, posjećujemo utvrdu Slavić, a zatim se grijemo u Bratskoj kući."
+            "hr": "Zimska vožnja kroz Šoltu pokazuje mirniju stranu otoka. Hladno jutro u Grohotama lako je podnošljivo u ugrijanom automobilu. Nakon posjeta sv. Mihovilu, ruta vodi do Tvrdica na zimske medne specijalitete. Galerija Buktenica nudi šareni predah od zimskog sivila. Prije nego padne mrak, posjećujemo tvrđavu Slavić i zatim se zagrijavamo u Bratskoj kući."
           },
           "stops": [
             {
@@ -1965,7 +2035,8 @@
                 "de": "Die Heizung des Autos ist Ihr bester Freund beim Umsteigen zwischen den Stopps.",
                 "hu": "Az autó fűtése a legjobb barátja az állomások közötti váltáskor.",
                 "ro": "Încălzirea mașinii este cel mai bun prieten la trecerea între opriri.",
-                "en": "The car's heater is your best friend when moving between stops."
+                "en": "The car's heater is your best friend when moving between stops.",
+                "hr": "Grijač u autu vaš je najbolji prijatelj pri kretanju između točaka."
               }
             },
             {
@@ -1974,7 +2045,8 @@
                 "de": "Im Winter finden Sie hier problemlos einen Parkplatz direkt vor der Tür.",
                 "hu": "Télen gond nélkül talál parkolót közvetlenül a templom előtt.",
                 "ro": "Iarna veți găsi fără probleme parcare chiar în fața porții.",
-                "en": "In winter, you'll easily find a parking spot right in front of the door."
+                "en": "In winter, you'll easily find a parking spot right in front of the door.",
+                "hr": "Zimi ćete lako naći parkirno mjesto odmah pred vratima."
               }
             },
             {
@@ -1983,7 +2055,8 @@
                 "de": "Ein idealer Ort, um Geschenke für Weihnachten oder den Winter zu kaufen.",
                 "hu": "Ideális hely karácsonyi vagy téli ajándékok beszerzésére.",
                 "ro": "Un loc ideal pentru a cumpăra cadouri de Crăciun sau de iarnă.",
-                "en": "An ideal place to buy gifts for Christmas or winter."
+                "en": "An ideal place to buy gifts for Christmas or winter.",
+                "hr": "Idealno mjesto za kupnju poklona za Božić ili zimu."
               }
             },
             {
@@ -1992,7 +2065,8 @@
                 "de": "Nutzen Sie den Innenraum für eine entspannte kunsthistorische Pause.",
                 "hu": "Használja a belső teret egy pihentető művészettörténeti szünetre.",
                 "ro": "Folosiți interiorul pentru o pauză relaxantă de istoria artei.",
-                "en": "Use the interior for a relaxed art-historical break."
+                "en": "Use the interior for a relaxed art-historical break.",
+                "hr": "Iskoristite unutrašnjost za opušteni umjetničko-povijesni predah."
               }
             },
             {
@@ -2001,7 +2075,8 @@
                 "de": "Achten Sie auf eventuelles Glatteis in schattigen Bereichen.",
                 "hu": "Ügyeljen az esetleges jegesedésre az árnyékos részeken.",
                 "ro": "Atenție la eventualul polei în zonele umbrite.",
-                "en": "Watch out for potential ice in shaded areas."
+                "en": "Watch out for potential ice in shaded areas.",
+                "hr": "Pazite na mogući led u zasjenjenim dijelovima."
               }
             },
             {
@@ -2010,7 +2085,8 @@
                 "de": "Perfekt, um den Tag gemütlich im Warmen Revue passieren zu lassen.",
                 "hu": "Tökéletes hely a nap eseményeinek melegben történő átgondolására.",
                 "ro": "Perfect pentru a recapitula ziua la căldură.",
-                "en": "Perfect for reviewing the day in the warmth."
+                "en": "Perfect for reviewing the day in the warmth.",
+                "hr": "Savršeno za pregled dana u toplini."
               }
             }
           ],
@@ -2040,10 +2116,10 @@
               "Parking fees are often lower or waived entirely in winter."
             ],
             "hr": [
-              "Dodajte antifriz u spremnik tekućine za pranje stakla.",
-              "Dani su kratki; krenite točno u 9:00 ujutro.",
-              "Neke ceste mogu biti blokirane srušenim granama tijekom bure.",
-              "Naknade za parkiranje zimi su često niže ili se uopće ne naplaćuju."
+              "Dodajte antifriz u spremnik tekućine za pranje vjetrobrana.",
+              "Dani su kratki; krenite točno u 9:00.",
+              "Neke ceste mogu biti blokirane zbog srušenih grana tijekom bure.",
+              "Parkirne naknade su zimi često niže ili potpuno ukinute."
             ]
           }
         }
@@ -2149,7 +2225,7 @@
             "hu": "Utolsó megálló a kikötőbe való visszatérés előtt.",
             "ro": "Ultima oprire înainte de întoarcerea în port.",
             "en": "Last stop before returning to the port.",
-            "hr": "Posljednja stanica prije povratka u luku."
+            "hr": "Zadnja stanica prije povratka u luku."
           }
         }
       ],
@@ -2158,7 +2234,7 @@
         "hu": "A szigeti busszal kényelmesen elérheti Grohotét a rogači kompkikötőből. Kulturális és hagyományőrző nap vár Önre.",
         "ro": "Cu autobuzul insulei ajungeți confortabil în Grohote din portul Rogač. Vă așteaptă o zi plină de cultură și tradiție.",
         "en": "With the island bus, you can easily reach Grohote from the Rogač ferry port. A day full of culture and tradition awaits you.",
-        "hr": "Otočnim autobusom možete jednostavno stići do Grohota iz trajektne luke Rogač. Očekuje vas dan pun kulture i tradicije."
+        "hr": "S otoknim autobusom lako ćete doći do Grohota iz trajektnog pristaništa Rogač. Čeka vas dan pun kulture i tradicije."
       },
       "gastro_picks": {
         "de": [
@@ -2283,9 +2359,9 @@
           "The timetable is posted at the central bus stop in Grohote."
         ],
         "hr": [
-          "Autobusi su usklađeni s terminima trajekata.",
-          "Karte se mogu kupiti izravno kod vozača.",
-          "Vozni red je istaknut na središnjem autobusnom stajalištu u Grohotama."
+          "Autobusi su usklađeni s vremenima trajekata.",
+          "Karte se mogu kupiti izravno od vozača.",
+          "Raspored je istaknut na glavnoj autobusnoj stanici u Grohotama."
         ]
       },
       "variants": {
@@ -2294,7 +2370,8 @@
             "de": "Mit dem Inselbus erreichen Sie Grohote bequem vom Fährhafen Rogač aus. Ein Tag voller Kultur und Tradition erwartet Sie.",
             "hu": "A szigeti busszal kényelmesen elérheti Grohotét a rogači kompkikötőből. Kulturális és hagyományőrző nap vár Önre.",
             "ro": "Cu autobuzul insulei ajungeți confortabil în Grohote din portul Rogač. Vă așteaptă o zi plină de cultură și tradiție.",
-            "en": "With the island bus, you can easily reach Grohote from the Rogač ferry port. A day full of culture and tradition awaits you."
+            "en": "With the island bus, you can easily reach Grohote from the Rogač ferry port. A day full of culture and tradition awaits you.",
+            "hr": "S otoknim autobusom lako ćete doći do Grohota iz trajektnog pristaništa Rogač. Čeka vas dan pun kulture i tradicije."
           },
           "stops": [
             {
@@ -2303,7 +2380,8 @@
                 "de": "Hier kommen die Fähren und Busse an.",
                 "hu": "Itt érkeznek a kompok és buszok.",
                 "ro": "Aici sosesc feriboturile și autobuzele.",
-                "en": "This is where ferries and buses arrive."
+                "en": "This is where ferries and buses arrive.",
+                "hr": "Ovdje dolaze trajekti i autobusi."
               }
             },
             {
@@ -2312,7 +2390,8 @@
                 "de": "Der Bus hält direkt im Zentrum.",
                 "hu": "A busz közvetlenül a központban áll meg.",
                 "ro": "Autobuzul oprește chiar în centru.",
-                "en": "The bus stops directly in the center."
+                "en": "The bus stops directly in the center.",
+                "hr": "Autobus staje izravno u centru."
               }
             },
             {
@@ -2321,7 +2400,8 @@
                 "de": "Zu Fuß vom Busstopp erreichbar.",
                 "hu": "Gyalogosan elérhető a buszmegállótól.",
                 "ro": "Accesibil pe jos de la stația de autobuz.",
-                "en": "Accessible on foot from the bus stop."
+                "en": "Accessible on foot from the bus stop.",
+                "hr": "Dostupno pješice od autobusne stanice."
               }
             },
             {
@@ -2330,7 +2410,8 @@
                 "de": "Einfacher Weg durch das Dorf.",
                 "hu": "Egyszerű útvonal a falun keresztül.",
                 "ro": "Drum simplu prin sat.",
-                "en": "Simple path through the village."
+                "en": "Simple path through the village.",
+                "hr": "Jednostavna staza kroz selo."
               }
             },
             {
@@ -2339,7 +2420,8 @@
                 "de": "Letzter Stop vor der Rückfahrt zum Hafen.",
                 "hu": "Utolsó megálló a kikötőbe való visszatérés előtt.",
                 "ro": "Ultima oprire înainte de întoarcerea în port.",
-                "en": "Last stop before returning to the port."
+                "en": "Last stop before returning to the port.",
+                "hr": "Zadnja stanica prije povratka u luku."
               }
             }
           ],
@@ -2445,6 +2527,11 @@
               "Buses are synchronized with ferry times.",
               "Tickets can be bought directly from the driver.",
               "The timetable is posted at the central bus stop in Grohote."
+            ],
+            "hr": [
+              "Autobusi su usklađeni s vremenima trajekata.",
+              "Karte se mogu kupiti izravno od vozača.",
+              "Raspored je istaknut na glavnoj autobusnoj stanici u Grohotama."
             ]
           }
         },
@@ -2454,7 +2541,7 @@
             "hu": "A közösségi közlekedés napja Rogač kikötőjében indul, ahol az eső kíséri a kompokat. Busszal utazunk a száraz Grohotéba. A Buktenica galéria menedéket és inspirációt nyújt a záporok alatt. Délben a Tvrdic méhészet szívélyes légköre melenget, mielőtt a túra az esőködbe burkolózó Slavić-erődnél érne véget. A buszok száraz pihenőket kínálnak a kulturális látnivalók között.",
             "ro": "Ziua de tranzit începe în portul Rogač, unde ploaia însoțește feriboturile. Cu autobuzul ajungeți în Grohote la uscat. Galeria Buktenica oferă adăpost și inspirație în timpul unei averse. La prânz, atmosfera caldă de la Tvrdic vă încălzește, înainte ca turul să se încheie la cetatea Slavić în ceața ploioasă. Mijloacele de transport oferă pauze uscate între punctele culturale.",
             "en": "The transit day starts at Rogač port, with rain accompanying the ferries. Take the bus to dry Grohote. Buktenica Gallery provides shelter and inspiration during a downpour. At noon, the warm atmosphere at Tvrdic honey farm warms you up before the tour ends at the Slavić Fortress in the rain mist. Public transport offers dry breaks between cultural highlights.",
-            "hr": "Dan u tranzitu počinje u luci Rogač, uz kišu koja prati trajekte. Idite autobusom do suhih Grohota. Galerija Buktenica pruža zaklon i inspiraciju tijekom pljuska. U podne vas topla atmosfera na pčelarstvu Tvrdić grije prije nego što tura završi kod utvrde Slavić u kišnoj magli. Javni prijevoz nudi suhe predahe između kulturnih znamenitosti."
+            "hr": "Dan tranzita započinje u luci Rogač, s kišom koja prati trajekte. Uzmite autobus do suhog Grohota. Galerija Buktenica pruža sklonište i inspiraciju tijekom pljuska. U podne vas ugreje topla atmosfera na pčelinjaku Tvrdic prije nego tura završi na tvrđavi Slavić u kišnoj izmaglici. Javni prijevoz nudi suhe predah između kulturnih točaka."
           },
           "stops": [
             {
@@ -2463,7 +2550,8 @@
                 "de": "Warten Sie im Terminalgebäude auf den Anschlussbus.",
                 "hu": "Várjon a buszcsatlakozásra a terminál épületében.",
                 "ro": "Așteptați autobuzul de legătură în clădirea terminalului.",
-                "en": "Wait for the connecting bus inside the terminal building."
+                "en": "Wait for the connecting bus inside the terminal building.",
+                "hr": "Pričekajte spojni autobus unutar zgrade terminala."
               }
             },
             {
@@ -2472,7 +2560,8 @@
                 "de": "Die Bushaltestelle liegt zentral, nur wenige Schritte zum ersten Schutz.",
                 "hu": "A buszmegálló központi helyen van, pár lépés az első fedett hely.",
                 "ro": "Stația de autobuz este centrală, la doar câțiva pași de primul adăpost.",
-                "en": "The bus stop is central, only a few steps to the first shelter."
+                "en": "The bus stop is central, only a few steps to the first shelter.",
+                "hr": "Autobusna stanica je centralna, samo nekoliko koraka do prvog skloništa."
               }
             },
             {
@@ -2481,7 +2570,8 @@
                 "de": "Ein idealer Ort, um die Zeit bis zur nächsten Busabfahrt zu verbringen.",
                 "hu": "Ideális hely a következő buszig hátralévő idő eltöltésére.",
                 "ro": "Un loc ideal pentru a petrece timpul până la următorul autobuz.",
-                "en": "An ideal place to spend time until the next bus departure."
+                "en": "An ideal place to spend time until the next bus departure.",
+                "hr": "Idealno mjesto za provesti vrijeme do sljedećeg polaska autobusa."
               }
             },
             {
@@ -2490,7 +2580,8 @@
                 "de": "Fragen Sie nach dem Fahrplan, falls sich Busse bei Regen verspäten.",
                 "hu": "Érdeklődjön a menetrendről, esőben előfordulhatnak buszkésések.",
                 "ro": "Întrebați despre program, autobuzele pot întârzia pe ploaie.",
-                "en": "Ask about the schedule, as buses may be delayed in the rain."
+                "en": "Ask about the schedule, as buses may be delayed in the rain.",
+                "hr": "Raspitajte se o voznom redu, jer autobusi mogu kasniti po kiši."
               }
             },
             {
@@ -2499,7 +2590,8 @@
                 "de": "Planen Sie genug Zeit für den Rückweg zur Haltestelle ein.",
                 "hu": "Tervezzen elég időt a buszmegállóhoz való visszatérésre.",
                 "ro": "Planificați suficient timp pentru drumul de întoarcere la stație.",
-                "en": "Plan enough time for the walk back to the bus stop."
+                "en": "Plan enough time for the walk back to the bus stop.",
+                "hr": "Planirajte dovoljno vremena za povratak pješice do autobusne stanice."
               }
             }
           ],
@@ -2529,10 +2621,10 @@
               "There are covered waiting areas at Rogač port."
             ],
             "hr": [
-              "Neka vam aplikacija s voznim redom otočnih autobusa bude pri ruci.",
-              "Autobusi na Šolti su uglavnom sinkronizirani s trajektima.",
-              "Nosite vodootpornu odjeću za šetnje između stanica.",
-              "U luci Rogač postoje natkriveni prostori za čekanje."
+              "Držite aplikaciju s rasporedom otočnih autobusa pri ruci.",
+              "Autobusi na Šolti uglavnom su usklađeni s trajektima.",
+              "Nosite vodonepropusnu odjeću za šetnje između stanica.",
+              "Na rivi u Rogaču postoje natkriveni čekaoni prostori."
             ]
           }
         },
@@ -2542,7 +2634,7 @@
             "hu": "Télen a közösségi közlekedés kényelmes módja Grohote felfedezésének. Rogač kikötője reggel csendes és békés. A busz gyorsan Grohote szívébe visz, ahol a Buktenica galéria melengető gondolatokat ébreszt. A Tvrdic méhészetben téli vendégszeretetet élvezünk. A Slavić-erőd a kora esti fényekben a nap fénypontja, mielőtt a busz visszavisz a kikötőbe.",
             "ro": "Iarna, transportul public oferă o modalitate confortabilă de a descoperi Grohote. Portul Rogač este liniștit și pașnic dimineața. Autobuzul vă duce rapid în inima localității Grohote, unde galeria Buktenica vă inspiră. La apicultura Tvrdic ne bucurăm de ospitalitatea de iarnă. Cetatea Slavić în lumina serii este finalul perfect înainte ca autobuzul să ne ducă înapoi în port.",
             "en": "In winter, public transit offers a cozy way to discover Grohote. Rogač port is quiet and peaceful in the morning. The bus quickly takes you to the heart of Grohote, where Buktenica Gallery provides warm inspiration. At Tvrdic honey farm, we enjoy winter hospitality. The Slavić Fortress in the early evening light is the perfect finale before the bus takes us back to the port.",
-            "hr": "Zimi javni prijevoz nudi ugodan način za otkrivanje Grohota. Luka Rogač je ujutro tiha i mirna. Autobus vas brzo vozi do srca Grohota, gdje Galerija Buktenica pruža toplu inspiraciju. Na pčelarstvu Tvrdić uživamo u zimskom gostoprimstvu. Utvrda Slavić u ranom večernjem svjetlu savršen je finale prije nego što nas autobus vrati u luku."
+            "hr": "Zimi javni prijevoz nudi ugodan način za otkrivanje Grohota. Luka Rogač ujutro je mirna i tiha. Autobus vas brzo vodi u srce Grohota, gdje Galerija Buktenica pruža toplu inspiraciju. Na pčelinjaku Tvrdic uživamo u zimskoj gostoljubivosti. Tvrđava Slavić u ranim večernjim satima je savršen završetak prije povratka autobusa do luke."
           },
           "stops": [
             {
@@ -2551,7 +2643,8 @@
                 "de": "Prüfen Sie den Winterfahrplan, da weniger Verbindungen bestehen.",
                 "hu": "Ellenőrizze a téli menetrendet, mert kevesebb járat indul.",
                 "ro": "Verificați programul de iarnă, deoarece sunt mai puține conexiuni.",
-                "en": "Check the winter schedule as there are fewer connections."
+                "en": "Check the winter schedule as there are fewer connections.",
+                "hr": "Provjerite zimski raspored jer ima manje veza."
               }
             },
             {
@@ -2560,7 +2653,8 @@
                 "de": "Die Cafés in der Nähe der Haltestelle sind ideal zum Aufwärmen.",
                 "hu": "A megálló közeli kávézók ideálisak egy kis melegedésre.",
                 "ro": "Cafenelele de lângă stație sunt ideale pentru încălzire.",
-                "en": "Cafes near the stop are ideal for warming up."
+                "en": "Cafes near the stop are ideal for warming up.",
+                "hr": "Kafići blizu stanice idealni su za ugrijavanje."
               }
             },
             {
@@ -2569,7 +2663,8 @@
                 "de": "Im Winter ist oft mehr Zeit für Gespräche mit den Galeristen.",
                 "hu": "Télen gyakran több idő jut beszélgetni a galéria tulajdonosaival.",
                 "ro": "Iarna există adesea mai mult timp pentru discuții cu galeriștii.",
-                "en": "In winter, there's often more time for conversations with the gallery staff."
+                "en": "In winter, there's often more time for conversations with the gallery staff.",
+                "hr": "Zimi je često više vremena za razgovore s osobljem galerije."
               }
             },
             {
@@ -2578,7 +2673,8 @@
                 "de": "Probieren Sie die warmen Honiggetränke der Saison.",
                 "hu": "Kóstolja meg a szezonális meleg mézes italokat.",
                 "ro": "Gustați băuturile calde cu miere ale sezonului.",
-                "en": "Taste the seasonal warm honey drinks."
+                "en": "Taste the seasonal warm honey drinks.",
+                "hr": "Probajte sezonske tople napitke s medom."
               }
             },
             {
@@ -2587,7 +2683,8 @@
                 "de": "Die letzte Busverbindung richtet sich oft nach der Abendfähre.",
                 "hu": "Az utolsó buszjárat gyakran az esti komp indulásához igazodik.",
                 "ro": "Ultima conexiune de autobuz se aliniază adesea cu feribotul de seară.",
-                "en": "The last bus connection often aligns with the evening ferry."
+                "en": "The last bus connection often aligns with the evening ferry.",
+                "hr": "Posljednja autobusna veza često je usklađena s večernjim trajektom."
               }
             }
           ],
@@ -2617,10 +2714,10 @@
               "Buy tickets directly from the bus driver (have cash ready)."
             ],
             "hr": [
-              "Vozni red autobusa znatno je smanjen zimi.",
-              "Iskoristite vrijeme čekanja za posjete toplim zatvorenim prostorima.",
-              "Bura može utjecati na plovidbu trajekata, a time i na vozni red autobusa.",
-              "Kupite karte izravno kod vozača (pripremite gotovinu)."
+              "Raspored autobusa zimi je značajno smanjen.",
+              "Iskoristite vrijeme čekanja za posjete toplim unutarnjim prostorima.",
+              "Bura može utjecati na rad trajekata, a time i na autobusne rasporede.",
+              "Kupujte karte direktno od vozača (imajte gotovinu spremnu)."
             ]
           }
         }
@@ -2634,7 +2731,8 @@
         "de": "Gemeinde Šolta",
         "hu": "Šolta önkormányzat",
         "ro": "Primăria Šolta",
-        "en": "Šolta Municipality"
+        "en": "Šolta Municipality",
+        "hr": "Općina Šolta"
       }
     },
     "national_tourism": {
@@ -2643,7 +2741,8 @@
         "de": "Kroatische Zentrale für Tourismus",
         "hu": "Horvát Idegenforgalmi Hivatal",
         "ro": "Oficiul Naţional de Turism al Croaţiei",
-        "en": "Croatian National Tourist Board"
+        "en": "Croatian National Tourist Board",
+        "hr": "Hrvatska turistička zajednica"
       }
     },
     "weather": {
@@ -2652,7 +2751,8 @@
         "de": "DHMZ Wetterdienst Kroatien",
         "hu": "DHMZ horvát meteorológiai szolgálat",
         "ro": "Serviciul meteo croat DHMZ",
-        "en": "DHMZ Croatian Meteorological Service"
+        "en": "DHMZ Croatian Meteorological Service",
+        "hr": "DHMZ Hrvatski meteorološki servis"
       }
     },
     "airport": {
@@ -2661,7 +2761,8 @@
         "de": "Flughafen Split (SPU)",
         "hu": "Split repülőtér (SPU)",
         "ro": "Aeroportul Split (SPU)",
-        "en": "Split Airport (SPU)"
+        "en": "Split Airport (SPU)",
+        "hr": "Zračna luka Split (SPU)"
       }
     },
     "roads": {
@@ -2670,7 +2771,8 @@
         "de": "HAK Verkehrsinfo Kroatien",
         "hu": "HAK horvát közlekedési info",
         "ro": "HAK info trafic Croaţia",
-        "en": "HAK Croatian road information"
+        "en": "HAK Croatian road information",
+        "hr": "HAK Hrvatski autoklub (cestovne informacije)"
       }
     },
     "_city_name": "Šolta-Grohote",
@@ -2680,7 +2782,8 @@
         "de": "Tourismusverband Šolta",
         "hu": "Šolta turisztikai iroda",
         "ro": "Consiliul turistic Šolta",
-        "en": "Šolta Tourist Board"
+        "en": "Šolta Tourist Board",
+        "hr": "Turistička zajednica Šolta"
       }
     },
     "transit_official": {
@@ -2689,7 +2792,8 @@
         "de": "Jadrolinija Fähre Split–Rogač",
         "hu": "Jadrolinija komp Split–Rogač",
         "ro": "Feribot Jadrolinija Split–Rogač",
-        "en": "Jadrolinija ferry Split–Rogač"
+        "en": "Jadrolinija ferry Split–Rogač",
+        "hr": "Jadrolinija trajekt Split–Rogač"
       }
     }
   }

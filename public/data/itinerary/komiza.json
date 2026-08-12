@@ -21,7 +21,8 @@
             "de": "Platz der sieben Palmen",
             "hu": "Hét pálma tere",
             "ro": "Piața celor șapte palmi",
-            "en": "Square of Seven Palms"
+            "en": "Square of Seven Palms",
+            "hr": "Trg Sedam Palmi"
           },
           "coords": [
             16.0885,
@@ -37,7 +38,7 @@
             "hu": "Kedvelt reggeli találkozóhely.",
             "ro": "Un loc de întâlnire popular dimineața.",
             "en": "A popular meeting spot in the morning.",
-            "hr": "Popularno mjesto za sastanke ujutro."
+            "hr": "Popularno mjesto sastajanja ujutro."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Venezianischer Turm",
             "hu": "Velencei torony",
             "ro": "Turnul Venețian",
-            "en": "Venetian Tower"
+            "en": "Venetian Tower",
+            "hr": "Mletačka kula"
           },
           "coords": [
             16.0881,
@@ -61,7 +63,7 @@
             "hu": "Érdekes halászati múzeumnak ad otthont.",
             "ro": "Găzduiește un interesant muzeu al pescuitului.",
             "en": "Houses the interesting Fishery Museum.",
-            "hr": "Dom zanimljivog Ribarskog muzeja."
+            "hr": "Sadrži zanimljiv Muzej ribarstva."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Kloster Hl. Nikolaus",
             "hu": "Szent Miklós kolostor",
             "ro": "Mănăstirea Sf. Nicolae",
-            "en": "Monastery of St. Nicholas"
+            "en": "Monastery of St. Nicholas",
+            "hr": "Samostan sv. Nikole"
           },
           "coords": [
             16.0915,
@@ -85,7 +88,7 @@
             "hu": "A kolostor egy dombon trónol a város felett.",
             "ro": "Mănăstirea tronează pe un deal deasupra orașului.",
             "en": "The monastery perches on a hill above the town.",
-            "hr": "Samostan se nalazi na brdu iznad grada."
+            "hr": "Samostan se uzdiže na brdu iznad mjesta."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Kirche Gospa Gusarica",
             "hu": "Gospa Gusarica templom",
             "ro": "Biserica Gospa Gusarica",
-            "en": "Church of Gospa Gusarica"
+            "en": "Church of Gospa Gusarica",
+            "hr": "Crkva Gospa Gusarica"
           },
           "coords": [
             16.0835,
@@ -109,7 +113,7 @@
             "hu": "A kalóz-Madonna legendájáról ismert.",
             "ro": "Cunoscută pentru legenda Madonei Piraților.",
             "en": "Known for the legend of the Pirate Madonna.",
-            "hr": "Poznata po legendi o Gusarskoj Madoni."
+            "hr": "Poznata po legendi o Piratskoj Gospi."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Strand Gusarica",
             "hu": "Gusarica strand",
             "ro": "Plaja Gusarica",
-            "en": "Gusarica Beach"
+            "en": "Gusarica Beach",
+            "hr": "Plaža Gusarica"
           },
           "coords": [
             16.0825,
@@ -141,7 +146,8 @@
             "de": "Riva von Komiža",
             "hu": "Komiža Riva",
             "ro": "Riva din Komiža",
-            "en": "Riva of Komiža"
+            "en": "Riva of Komiža",
+            "hr": "Riva Komiže"
           },
           "coords": [
             16.0883,
@@ -166,7 +172,7 @@
         "hu": "Komiža a gyalogosok ékköve. Kezdje a főtéren, és látogassa meg a toronyban lévő halászati múzeumot. A Szent Miklós kolostorhoz vezető út gyönyörű kilátást nyújt, majd a part mentén sétáljon a kalóztemplomhoz és a strandhoz. A napot a Riva nyüzsgése zárja.",
         "ro": "Komiža este o bijuterie pentru pietoni. Începeți în piața principală și vizitați muzeul pescuitului din turn. Urcarea la mănăstirea Sf. Nicolae oferă priveliști superbe, înainte de a lua drumul de coastă spre biserica piraților și plajă. Finalul aparține agitației vii de pe Riva.",
         "en": "Komiža is a pedestrian gem. Start at the main square and visit the Fishery Museum in the tower. The walk up to St. Nicholas Monastery offers splendid views before taking the coastal path to the Pirate Church and beach. Finish with the vibrant life on the Riva.",
-        "hr": "Komiža je pješački dragulj. Započnite na glavnom trgu i posjetite Ribarski muzej u kuli. Uspon do samostana sv. Nikole nudi prekrasan pogled prije nego što krenete obalnom stazom do Gusarske crkve i plaže. Završite uz živahnu atmosferu na Rivi."
+        "hr": "Komiža je pješački dragulj. Počnite na glavnom trgu i posjetite Ribarstvo muzej u kuli. Uspon do samostana sv. Nikole nudi prekrasne poglede prije nego što krenete obalnom stazom do Gospe Gusarice i plaže. Završite uživanjem u živosti na Rivi."
       },
       "gastro_picks": {
         "de": [
@@ -311,9 +317,9 @@
           "Fishermen often bring their catch directly to the Riva."
         ],
         "hr": [
-          "Put do samostana je strm, ali se isplati.",
-          "U Komiži ima mnogo fontana s pitkom vodom.",
-          "Ribari često donose svoj ulov izravno na Rivu."
+          "Staza do samostana je strma, ali nagrađujuća.",
+          "U Komiži ima mnogo česmi s pitkom vodom.",
+          "Ribari često dovode svoj ulov izravno na Rivu."
         ]
       },
       "variants": {
@@ -322,7 +328,8 @@
             "de": "Komiža ist ein Juwel für Fußgänger. Beginnen Sie am Hauptplatz und besuchen Sie das Fischereimuseum im Turm. Der Aufstieg zum Nikolaus-Kloster bietet herrliche Blicke, bevor Sie den Küstenweg zur Piratenkirche und zum Strand nehmen. Den Abschluss bildet das lebendige Treiben auf der Riva.",
             "hu": "Komiža a gyalogosok ékköve. Kezdje a főtéren, és látogassa meg a toronyban lévő halászati múzeumot. A Szent Miklós kolostorhoz vezető út gyönyörű kilátást nyújt, majd a part mentén sétáljon a kalóztemplomhoz és a strandhoz. A napot a Riva nyüzsgése zárja.",
             "ro": "Komiža este o bijuterie pentru pietoni. Începeți în piața principală și vizitați muzeul pescuitului din turn. Urcarea la mănăstirea Sf. Nicolae oferă priveliști superbe, înainte de a lua drumul de coastă spre biserica piraților și plajă. Finalul aparține agitației vii de pe Riva.",
-            "en": "Komiža is a pedestrian gem. Start at the main square and visit the Fishery Museum in the tower. The walk up to St. Nicholas Monastery offers splendid views before taking the coastal path to the Pirate Church and beach. Finish with the vibrant life on the Riva."
+            "en": "Komiža is a pedestrian gem. Start at the main square and visit the Fishery Museum in the tower. The walk up to St. Nicholas Monastery offers splendid views before taking the coastal path to the Pirate Church and beach. Finish with the vibrant life on the Riva.",
+            "hr": "Komiža je pješački dragulj. Počnite na glavnom trgu i posjetite Ribarstvo muzej u kuli. Uspon do samostana sv. Nikole nudi prekrasne poglede prije nego što krenete obalnom stazom do Gospe Gusarice i plaže. Završite uživanjem u živosti na Rivi."
           },
           "stops": [
             {
@@ -330,13 +337,15 @@
                 "de": "Platz der sieben Palmen",
                 "hu": "Hét pálma tere",
                 "ro": "Piața celor șapte palmi",
-                "en": "Square of Seven Palms"
+                "en": "Square of Seven Palms",
+                "hr": "Trg sedam palmi"
               },
               "tip_5lang": {
                 "de": "Ein beliebter Treffpunkt am Morgen.",
                 "hu": "Kedvelt reggeli találkozóhely.",
                 "ro": "Un loc de întâlnire popular dimineața.",
-                "en": "A popular meeting spot in the morning."
+                "en": "A popular meeting spot in the morning.",
+                "hr": "Popularno mjesto za susrete ujutro."
               }
             },
             {
@@ -344,13 +353,15 @@
                 "de": "Venezianischer Turm",
                 "hu": "Velencei torony",
                 "ro": "Turnul Venețian",
-                "en": "Venetian Tower"
+                "en": "Venetian Tower",
+                "hr": "Venecijanska kula"
               },
               "tip_5lang": {
                 "de": "Beherbergt das interessante Fischereimuseum.",
                 "hu": "Érdekes halászati múzeumnak ad otthont.",
                 "ro": "Găzduiește un interesant muzeu al pescuitului.",
-                "en": "Houses the interesting Fishery Museum."
+                "en": "Houses the interesting Fishery Museum.",
+                "hr": "U njoj je zanimljiv Ribarstvo muzej."
               }
             },
             {
@@ -358,13 +369,15 @@
                 "de": "Kloster Hl. Nikolaus",
                 "hu": "Szent Miklós kolostor",
                 "ro": "Mănăstirea Sf. Nicolae",
-                "en": "Monastery of St. Nicholas"
+                "en": "Monastery of St. Nicholas",
+                "hr": "Samostan sv. Nikole"
               },
               "tip_5lang": {
                 "de": "Das Kloster thront auf einem Hügel über der Stadt.",
                 "hu": "A kolostor egy dombon trónol a város felett.",
                 "ro": "Mănăstirea tronează pe un deal deasupra orașului.",
-                "en": "The monastery perches on a hill above the town."
+                "en": "The monastery perches on a hill above the town.",
+                "hr": "Samostan se smjestio na brežuljku iznad mjesta."
               }
             },
             {
@@ -372,13 +385,15 @@
                 "de": "Kirche Gospa Gusarica",
                 "hu": "Gospa Gusarica templom",
                 "ro": "Biserica Gospa Gusarica",
-                "en": "Church of Gospa Gusarica"
+                "en": "Church of Gospa Gusarica",
+                "hr": "Crkva Gospe Gusarice"
               },
               "tip_5lang": {
                 "de": "Bekannt für die Legende der Piraten-Madonna.",
                 "hu": "A kalóz-Madonna legendájáról ismert.",
                 "ro": "Cunoscută pentru legenda Madonei Piraților.",
-                "en": "Known for the legend of the Pirate Madonna."
+                "en": "Known for the legend of the Pirate Madonna.",
+                "hr": "Poznata po legendi o Piratskoj Gospi."
               }
             },
             {
@@ -386,13 +401,15 @@
                 "de": "Strand Gusarica",
                 "hu": "Gusarica strand",
                 "ro": "Plaja Gusarica",
-                "en": "Gusarica Beach"
+                "en": "Gusarica Beach",
+                "hr": "Plaža Gusarica"
               },
               "tip_5lang": {
                 "de": "Kiesstrand mit hervorragender Wasserqualität.",
                 "hu": "Kavicsos strand kiváló vízminőséggel.",
                 "ro": "Plajă cu pietriș și apă de o calitate excelentă.",
-                "en": "Pebble beach with excellent water quality."
+                "en": "Pebble beach with excellent water quality.",
+                "hr": "Šljunčana plaža s izvrsnom kvalitetom vode."
               }
             },
             {
@@ -400,13 +417,15 @@
                 "de": "Riva von Komiža",
                 "hu": "Komiža Riva",
                 "ro": "Riva din Komiža",
-                "en": "Riva of Komiža"
+                "en": "Riva of Komiža",
+                "hr": "Riva Komiže"
               },
               "tip_5lang": {
                 "de": "Genießen Sie einen Kaffee am Hafen.",
                 "hu": "Élvezzen egy kávét a kikötőben.",
                 "ro": "Savurați o cafea în port.",
-                "en": "Enjoy a coffee by the harbor."
+                "en": "Enjoy a coffee by the harbor.",
+                "hr": "Uživajte u kavi uz luku."
               }
             }
           ],
@@ -528,6 +547,11 @@
               "The path to the monastery is steep but rewarding.",
               "There are many drinking water fountains in Komiža.",
               "Fishermen often bring their catch directly to the Riva."
+            ],
+            "hr": [
+              "Staza do samostana je strma, ali nagrađujuća.",
+              "U Komiži ima mnogo česmi s pitkom vodom.",
+              "Ribari često dovode svoj ulov izravno na Rivu."
             ]
           }
         },
@@ -537,7 +561,7 @@
             "hu": "A nap a ködös Hét Pálma téren indul, ahol az eső áztatja a köveket. Gyors séta a velencei toronyig, amely ma tökéletes menedék és múzeum. A Szent Miklós-kolostor látogatása után a Gospa Gusarica templom nyújt lelki békét és védelmet a zápor elől. A séta a tengerparti sétányon zárul, ahol egy forró kávé mellett figyelhetjük a morajló Adrait.",
             "ro": "Ziua începe în Piața celor Șapte Palmieri, unde ploaia spală pietrele vechi. O scurtă plimbare duce la Turnul Venețian, care servește drept adăpost perfect și muzeu. După vizitarea Mănăstirii Sf. Nicolae, Biserica Gospa Gusarica oferă liniște și protecție împotriva aversei. Plimbarea se încheie pe faleză, admirând marea agitată dintr-o cafenea primitoare.",
             "en": "The day begins at the misty Square of Seven Palms, with wet leaves glistening in the rain. A short walk leads to the Venetian Tower, serving as a perfect shelter and museum today. After visiting St. Nicholas Monastery, the Gospa Gusarica Church provides spiritual peace and protection from the downpour. The walk ends at the Riva, watching the stormy Adriatic from a cozy café.",
-            "hr": "Dan počinje na maglovitom Trgu sedam palmi, dok mokro lišće blista na kiši. Kratka šetnja vodi do mletačke kule, koja danas služi kao savršeno utočište i muzej. Nakon posjeta samostanu sv. Nikole, crkva Gospa Gusarica pruža duhovni mir i zaštitu od pljuska. Šetnja završava na Rivi, gledajući olujni Jadran iz ugodnog kafića."
+            "hr": "Dan počinje na maglovitom Trgu sedam palmi, s mokrim lišćem koje svjetluca na kiši. Kratka šetnja vodi do Venecijanske kule, koja danas služi kao savršeno sklonište i muzej. Nakon posjeta samostanu sv. Nikole, crkva Gospe Gusarice pruža duhovni mir i zaštitu od pljuska. Šetnja završava na Rivi, promatrajući uzburkano Jadransko more iz ugodnog kafića."
           },
           "stops": [
             {
@@ -547,7 +571,7 @@
                 "hu": "Használja a pálmák sűrű lombozatát rövid eső elleni védelemként.",
                 "ro": "Folosiți coroanele dese ale palmierilor ca prim adăpost scurt.",
                 "en": "Use the thick palm crowns as a quick initial rain shelter.",
-                "hr": "Iskoristite guste krošnje palmi kao brzo početno sklonište od kiše."
+                "hr": "Iskoristite guste palmove krošnje kao brzo početno sklonište od kiše."
               }
             },
             {
@@ -557,7 +581,7 @@
                 "hu": "A belső halászati múzeum ideális hely a szárazon maradáshoz.",
                 "ro": "Muzeul de pescuit din interior este locul ideal pentru a rămâne uscat.",
                 "en": "The fishing museum inside is an ideal spot to stay dry.",
-                "hr": "Ribarski muzej unutra idealno je mjesto za ostati suh."
+                "hr": "Ribarstvo muzej unutra je idealno mjesto da ostanete suhi."
               }
             },
             {
@@ -567,7 +591,7 @@
                 "hu": "Látogasson be a belső térbe; a dombra vezető út csúszós lehet.",
                 "ro": "Vizitați interiorul; drumul spre deal poate fi alunecos.",
                 "en": "Visit the interior; the path up the hill can be slippery.",
-                "hr": "Posjetite unutrašnjost; put uz brdo može biti klizav."
+                "hr": "Posjetite unutrašnjost; staza uz brdo može biti skliska."
               }
             },
             {
@@ -577,7 +601,7 @@
                 "hu": "Csodálja meg a barokk oltárokat, miközben kint kopog az eső.",
                 "ro": "Admirați altarele baroce în timp ce afară plouă torențial.",
                 "en": "Admire the baroque altars while the rain drums outside.",
-                "hr": "Divite se baroknim oltarima dok vani bubnja kiša."
+                "hr": "Divite se baroknim oltarima dok kiša bubnja izvana."
               }
             },
             {
@@ -587,7 +611,7 @@
                 "hu": "A kavicsok vizesen nagyon csúsznak; óvatosan sétáljon a parton.",
                 "ro": "Pietrele sunt foarte alunecoase când sunt ude; atenție la mers.",
                 "en": "The pebbles are very slippery when wet; be careful walking.",
-                "hr": "Šljunak je vrlo klizav kad je mokar; budite oprezni pri hodanju."
+                "hr": "Šljunak je vrlo klizav kad je mokar; pazite pri hodu."
               }
             },
             {
@@ -631,11 +655,11 @@
               "Use the narrow alleys (kalos) as natural wind protection."
             ],
             "hr": [
-              "Nosite vodootpornu obuću zbog klizavih kamenih pločnika.",
-              "Muzeji u Komiži izvrsna su utočišta tijekom kiše.",
-              "Čvrst kišobran je neophodan zbog udara obalnog vjetra.",
-              "Kafići na Rivi često imaju prozirne zaštite od vjetra.",
-              "Koristite uske uličice (kale) kao prirodnu zaštitu od vjetra."
+              "Nosite vodootpornu obuću zbog klizavih kamenih ploča.",
+              "Komižini muzeji su odlična utočišta tijekom kiše.",
+              "Čvrst kišobran je nužan zbog naleta obalnog vjetra.",
+              "Kafići na Rivi često imaju prozirne vjetrobran-e.",
+              "Iskoristite uske uličice (kalos) kao prirodnu zaštitu od vjetra."
             ]
           }
         },
@@ -645,7 +669,7 @@
             "hu": "Télen Komiža varázslatosan csendes. A Hét Pálma tere elhagyatott és békés az enyhe januári fényben. A velencei torony dacol a bura széllel, míg a Szent Miklós-kolostorhoz vezető séta felpezsdíti a vérkeringést. A csendes Gusarica templom után a Riva mentén élvezhetjük az alacsonyan járó napot, mielőtt 17:00-kor leszáll az éj.",
             "ro": "Iarna, Komiža are o liniște magică. Piața celor Șapte Palmieri pare pustie și pașnică în lumina blândă de ianuarie. Turnul Venețian înfruntă vântul Bura, în timp ce urcarea la Mănăstirea Sf. Nicolae pune sângele în mișcare. După biserica Gusarica, bucurați-vă de soarele jos de pe faleză înainte de apusul de la ora 17:00.",
             "en": "In winter, Komiža is magically quiet. The Square of Seven Palms feels deserted and peaceful in the mild January light. The Venetian Tower braves the Bura wind, while the walk to St. Nicholas Monastery gets the circulation going. After the silent Gusarica Church, enjoy the low winter sun along the Riva before darkness falls at 17:00.",
-            "hr": "Zimi je Komiža čarobno tiha. Trg sedam palmi djeluje pusto i mirno u blagom siječanjskom svjetlu. Mletačka kula prkosi buri, dok šetnja do samostana sv. Nikole potiče cirkulaciju. Nakon tihe crkve Gusarice, uživajte u niskom zimskom suncu duž Rive prije nego što padne mrak u 17:00."
+            "hr": "Zimi je Komiža magično tiha. Trg sedam palmi djeluje pust i miran u blagom siječanjskom svjetlu. Venecijanska kula prkosi buri, dok šetnja do samostana sv. Nikole razgoni cirkulaciju. Nakon tihe crkve Gospe Gusarice, uživajte u niskom zimskom suncu duž Rive prije nego što se smrači u 17:00."
           },
           "stops": [
             {
@@ -655,7 +679,7 @@
                 "hu": "Élvezze a tér magányát a nyári tömeg nélkül.",
                 "ro": "Bucurați-vă de singurătatea pieței fără mulțimile de vară.",
                 "en": "Enjoy the solitude of the square without summer crowds.",
-                "hr": "Uživajte u osami trga bez ljetnih gužvi."
+                "hr": "Uživajte u samoći trga bez ljetnih gužvi."
               }
             },
             {
@@ -665,7 +689,7 @@
                 "hu": "Ellenőrizze a halászati múzeum téli nyitvatartását.",
                 "ro": "Verificați programul de iarnă al muzeului de pescuit.",
                 "en": "Check the winter opening hours of the fishing museum.",
-                "hr": "Provjerite zimsko radno vrijeme Ribarskog muzeja."
+                "hr": "Provjerite zimsko radno vrijeme Ribarstvo muzeja."
               }
             },
             {
@@ -675,7 +699,7 @@
                 "hu": "Az öbölre nyíló panoráma a tiszta téli levegőben a legszebb.",
                 "ro": "Panorama asupra golfului este cea mai bună în aerul clar de iarnă.",
                 "en": "The panorama over the bay is best in the clear winter air.",
-                "hr": "Panorama nad zaljevom najbolja je na čistom zimskom zraku."
+                "hr": "Panorama zaljeva najbolje se vidi u bistrom zimskom zraku."
               }
             },
             {
@@ -739,11 +763,11 @@
               "The winter air is extremely clear, perfect for photography."
             ],
             "hr": [
-              "Obucite se slojevito; svježe je u hladu uličica.",
-              "Zalazak sunca je već oko 16:45 - 17:00.",
-              "Bura može biti vrlo hladna; spakirajte vjetrovku i kapu.",
-              "Malo je restorana otvoreno, ali su ovi vrlo autentični.",
-              "Zimski zrak je iznimno čist, savršen za fotografiju."
+              "Obucite se slojevito; u hladu uličica je hladnije.",
+              "Sunce zalazi već oko 16:45–17:00.",
+              "Bura može biti vrlo hladna; ponesite vjetrovku i kapu.",
+              "Malo restorana radi, ali su vrlo autentični.",
+              "Zimski zrak je izuzetno čist, savršen za fotografiranje."
             ]
           }
         }
@@ -762,7 +786,8 @@
             "de": "Komiža Riva",
             "hu": "Komiža Riva",
             "ro": "Riva din Komiža",
-            "en": "Kiomiža Riva"
+            "en": "Kiomiža Riva",
+            "hr": "Riva Komiže"
           },
           "coords": [
             16.0883,
@@ -778,7 +803,7 @@
             "hu": "Gyűjtsön erőt a Hum megmászásához.",
             "ro": "Adunați-vă forțele pentru urcarea pe Hum.",
             "en": "Gather strength for the climb to Mount Hum.",
-            "hr": "Skupite snagu za uspon na brdo Hum."
+            "hr": "Okupite snagu za uspon na Hum."
           }
         },
         {
@@ -786,7 +811,8 @@
             "de": "Berg Hum",
             "hu": "Hum-hegy",
             "ro": "Muntele Hum",
-            "en": "Mount Hum"
+            "en": "Mount Hum",
+            "hr": "Hum"
           },
           "coords": [
             16.1155,
@@ -802,7 +828,7 @@
             "hu": "A sziget legmagasabb pontja panorámás kilátással.",
             "ro": "Cel mai înalt punct al insulei cu vedere panoramică.",
             "en": "Highest point of the island with panoramic views.",
-            "hr": "Najviša točka otoka s panoramskim pogledom."
+            "hr": "Najviša točka otoka s panoramskim pogledima."
           }
         },
         {
@@ -810,7 +836,8 @@
             "de": "Kloster Hl. Nikolaus",
             "hu": "Szent Miklós kolostor",
             "ro": "Mănăstirea Sf. Nicolae",
-            "en": "Monastery of St. Nicholas"
+            "en": "Monastery of St. Nicholas",
+            "hr": "Samostan sv. Nikole"
           },
           "coords": [
             16.0915,
@@ -826,7 +853,7 @@
             "hu": "Megálló a lefelé vezető úton.",
             "ro": "O oprire pe drumul de întoarcere la vale.",
             "en": "A stop on the way back downhill.",
-            "hr": "Stanica na putu natrag nizbrdo."
+            "hr": "Stajanje na povratku nizbrdo."
           }
         },
         {
@@ -834,7 +861,8 @@
             "de": "Strand Kamenice",
             "hu": "Kamenice strand",
             "ro": "Plaja Kamenice",
-            "en": "Kamenice Beach"
+            "en": "Kamenice Beach",
+            "hr": "Plaža Kamenice"
           },
           "coords": [
             16.0855,
@@ -850,7 +878,7 @@
             "hu": "Vulkanikus strand édesvízi forrásokkal.",
             "ro": "Plajă vulcanică cu izvoare de apă dulce.",
             "en": "Volcanic beach with freshwater springs.",
-            "hr": "Vulkanska plaža s izvorima pitke vode."
+            "hr": "Vulkanska plaža s izvorima slatke vode."
           }
         },
         {
@@ -858,7 +886,8 @@
             "de": "Zadruga-Gebäude",
             "hu": "Zadruga épület",
             "ro": "Clădirea Zadruga",
-            "en": "Zadruga Building"
+            "en": "Zadruga Building",
+            "hr": "Zgrada Zadruga"
           },
           "coords": [
             16.089,
@@ -874,7 +903,7 @@
             "hu": "Egykori halfeldolgozó üzem.",
             "ro": "Fosta fabrică de prelucrare a peștelui.",
             "en": "Former fish processing factory.",
-            "hr": "Bivša tvornica za preradu ribe."
+            "hr": "Bivša tvornica prerade ribe."
           }
         }
       ],
@@ -883,7 +912,7 @@
         "hu": "Egy kihívásokkal teli biciklitúra a Hum-hegyre, a sziget tetejére vezet. A leereszkedés után látogassa meg a történelmi Szent Miklós kolostort, majd pihenjen az egyedülálló Kamenice strandon. A túra a Zadruga épületnél, a halászat ipari örökségének megtekintésével zárul.",
         "ro": "O tură provocatoare cu bicicleta vă duce pe muntele Hum, acoperișul insulei. După coborâre, vizitați mănăstirea istorică Sf. Nicolae și relaxați-vă pe plaja unică Kamenice. Tura se încheie cu o privire asupra moștenirii industriale a pescuitului la clădirea Zadruga.",
         "en": "A challenging bike tour takes you up Mount Hum, the roof of the island. After the descent, visit the historical St. Nicholas Monastery and relax at the unique Kamenice Beach. The tour ends with a look at the industrial heritage of fishing at the Zadruga building.",
-        "hr": "Izazovna biciklistička tura vodi vas do brda Hum, krova otoka. Nakon spusta, posjetite povijesni samostan sv. Nikole i opustite se na jedinstvenoj plaži Kamenice. Tura završava pogledom na industrijsku baštinu ribarstva u zgradi Zadruge."
+        "hr": "Izazovan biciklistički izlet vodi vas na Hum, krov otoka. Nakon spusta posjetite povijesni samostan sv. Nikole i opustite se na jedinstvenoj plaži Kamenice. Izlet završava razgledom industrijske ribarske baštine u zgradi Zadruga."
       },
       "gastro_picks": {
         "de": [
@@ -1008,9 +1037,9 @@
           "Kamenice Beach offers natural shade in the afternoon."
         ],
         "hr": [
-          "Uspon na Hum je dug, preporučuje se e-bicikl.",
+          "Uspon na Hum je dug; preporučuje se e-bicikl.",
           "Provjerite kočnice prije spusta.",
-          "Plaža Kamenice nudi prirodni hlad poslijepodne."
+          "Plaža Kamenice nudi prirodnu hladovinu popodne."
         ]
       },
       "variants": {
@@ -1019,7 +1048,8 @@
             "de": "Eine anspruchsvolle Biketour führt Sie hinauf zum Berg Hum, dem Dach der Insel. Nach der Abfahrt besuchen Sie das historische Nikolaus-Kloster und entspannen am einzigartigen Kamenice-Strand. Die Tour endet mit einem Blick auf das industrielle Erbe der Fischerei im Zadruga-Gebäude.",
             "hu": "Egy kihívásokkal teli biciklitúra a Hum-hegyre, a sziget tetejére vezet. A leereszkedés után látogassa meg a történelmi Szent Miklós kolostort, majd pihenjen az egyedülálló Kamenice strandon. A túra a Zadruga épületnél, a halászat ipari örökségének megtekintésével zárul.",
             "ro": "O tură provocatoare cu bicicleta vă duce pe muntele Hum, acoperișul insulei. După coborâre, vizitați mănăstirea istorică Sf. Nicolae și relaxați-vă pe plaja unică Kamenice. Tura se încheie cu o privire asupra moștenirii industriale a pescuitului la clădirea Zadruga.",
-            "en": "A challenging bike tour takes you up Mount Hum, the roof of the island. After the descent, visit the historical St. Nicholas Monastery and relax at the unique Kamenice Beach. The tour ends with a look at the industrial heritage of fishing at the Zadruga building."
+            "en": "A challenging bike tour takes you up Mount Hum, the roof of the island. After the descent, visit the historical St. Nicholas Monastery and relax at the unique Kamenice Beach. The tour ends with a look at the industrial heritage of fishing at the Zadruga building.",
+            "hr": "Izazovan biciklistički izlet vodi vas na Hum, krov otoka. Nakon spusta posjetite povijesni samostan sv. Nikole i opustite se na jedinstvenoj plaži Kamenice. Izlet završava razgledom industrijske ribarske baštine u zgradi Zadruga."
           },
           "stops": [
             {
@@ -1027,13 +1057,15 @@
                 "de": "Komiža Riva",
                 "hu": "Komiža Riva",
                 "ro": "Riva din Komiža",
-                "en": "Kiomiža Riva"
+                "en": "Kiomiža Riva",
+                "hr": "Riva Komiže"
               },
               "tip_5lang": {
                 "de": "Sammeln Sie Kräfte für den Anstieg zum Hum.",
                 "hu": "Gyűjtsön erőt a Hum megmászásához.",
                 "ro": "Adunați-vă forțele pentru urcarea pe Hum.",
-                "en": "Gather strength for the climb to Mount Hum."
+                "en": "Gather strength for the climb to Mount Hum.",
+                "hr": "Okupite snagu za uspon na Hum."
               }
             },
             {
@@ -1041,13 +1073,15 @@
                 "de": "Berg Hum",
                 "hu": "Hum-hegy",
                 "ro": "Muntele Hum",
-                "en": "Mount Hum"
+                "en": "Mount Hum",
+                "hr": "Hum"
               },
               "tip_5lang": {
                 "de": "Höchster Punkt der Insel mit Panoramablick.",
                 "hu": "A sziget legmagasabb pontja panorámás kilátással.",
                 "ro": "Cel mai înalt punct al insulei cu vedere panoramică.",
-                "en": "Highest point of the island with panoramic views."
+                "en": "Highest point of the island with panoramic views.",
+                "hr": "Najviša točka otoka s panoramskim pogledima."
               }
             },
             {
@@ -1055,13 +1089,15 @@
                 "de": "Kloster Hl. Nikolaus",
                 "hu": "Szent Miklós kolostor",
                 "ro": "Mănăstirea Sf. Nicolae",
-                "en": "Monastery of St. Nicholas"
+                "en": "Monastery of St. Nicholas",
+                "hr": "Samostan sv. Nikole"
               },
               "tip_5lang": {
                 "de": "Ein Halt auf dem Rückweg bergab.",
                 "hu": "Megálló a lefelé vezető úton.",
                 "ro": "O oprire pe drumul de întoarcere la vale.",
-                "en": "A stop on the way back downhill."
+                "en": "A stop on the way back downhill.",
+                "hr": "Stajanje na povratku nizbrdo."
               }
             },
             {
@@ -1069,13 +1105,15 @@
                 "de": "Strand Kamenice",
                 "hu": "Kamenice strand",
                 "ro": "Plaja Kamenice",
-                "en": "Kamenice Beach"
+                "en": "Kamenice Beach",
+                "hr": "Plaža Kamenice"
               },
               "tip_5lang": {
                 "de": "Vulkanischer Strand mit Süßwasserquellen.",
                 "hu": "Vulkanikus strand édesvízi forrásokkal.",
                 "ro": "Plajă vulcanică cu izvoare de apă dulce.",
-                "en": "Volcanic beach with freshwater springs."
+                "en": "Volcanic beach with freshwater springs.",
+                "hr": "Vulkanska plaža s izvorima slatke vode."
               }
             },
             {
@@ -1083,13 +1121,15 @@
                 "de": "Zadruga-Gebäude",
                 "hu": "Zadruga épület",
                 "ro": "Clădirea Zadruga",
-                "en": "Zadruga Building"
+                "en": "Zadruga Building",
+                "hr": "Zgrada Zadruga"
               },
               "tip_5lang": {
                 "de": "Ehemalige Fischverarbeitungsfabrik.",
                 "hu": "Egykori halfeldolgozó üzem.",
                 "ro": "Fosta fabrică de prelucrare a peștelui.",
-                "en": "Former fish processing factory."
+                "en": "Former fish processing factory.",
+                "hr": "Bivša tvornica prerade ribe."
               }
             }
           ],
@@ -1195,6 +1235,11 @@
               "The Hum climb is long, an e-bike is recommended.",
               "Check your brakes before the descent.",
               "Kamenice Beach offers natural shade in the afternoon."
+            ],
+            "hr": [
+              "Uspon na Hum je dug; preporučuje se e-bicikl.",
+              "Provjerite kočnice prije spusta.",
+              "Plaža Kamenice nudi prirodnu hladovinu popodne."
             ]
           }
         },
@@ -1204,7 +1249,7 @@
             "hu": "Az esőben való kerékpározás óvatosságot igényel a Hum-hegy felé, ahol alacsonyan szállnak a felhők. A kapaszkodó fárasztó, de a hűvös levegő frissítő. Szent Miklós után óvatosan ereszkedünk a Kamenice strandhoz, majd a túra a Zadruga épületénél ér véget, ahol biztonságban leállíthatjuk a gépeket.",
             "ro": "Mersul pe bicicletă în ploaie necesită prudență spre Muntele Hum, unde norii sunt joși. Urcarea este obositoare, dar aerul rece este revigorant. După Sf. Nicolae, coborâm cu grijă spre plaja Kamenice. Turul se încheie la clădirea Zadruga, unde putem lăsa bicicletele în siguranță.",
             "en": "Cycling in the rain requires caution on the way to Mount Hum, where clouds hang low. The climb is tiring, but the cool air is refreshing. After St. Nicholas, descend carefully to Kamenice Beach. The tour ends at the Zadruga Building, where you can safely park the bikes.",
-            "hr": "Bicikliranje po kiši zahtijeva oprez na putu prema brdu Hum, gdje su oblaci niski. Uspon je naporan, ali hladan zrak osvježava. Nakon sv. Nikole, pažljivo se spustite do plaže Kamenice. Tura završava kod zgrade Zadruge, gdje možete sigurno parkirati bicikle."
+            "hr": "Vožnja biciklom po kiši zahtijeva oprez na putu prema Humu, gdje oblaci vise nisko. Uspon je naporan, ali svjež zrak osvježava. Nakon sv. Nikole spustite se pažljivo do plaže Kamenice. Izlet završava kod zgrade Zadruga, gdje možete sigurno parkirati bicikle."
           },
           "stops": [
             {
@@ -1214,7 +1259,7 @@
                 "hu": "Indulás előtt ellenőrizze a guminyomást a vizes útra való tekintettel.",
                 "ro": "Verificați presiunea pneurilor înainte de a porni pe carosabil ud.",
                 "en": "Check tire pressure before starting on wet roads.",
-                "hr": "Provjerite tlak u gumama prije kretanja po mokrim cestama."
+                "hr": "Provjerite tlak u gumama prije polaska po mokrim cestama."
               }
             },
             {
@@ -1224,7 +1269,7 @@
                 "hu": "Vigyázat a kanyarokban; az út az olaj és víz miatt csúszós lehet.",
                 "ro": "Atenție în curbe; drumul poate fi alunecos din cauza apei.",
                 "en": "Caution in corners; the road can be slick from oil and water.",
-                "hr": "Oprez u zavojima; cesta može biti skliska od ulja i vode."
+                "hr": "Općenito oprez u zavojima; cesta može biti skliska zbog ulja i vode."
               }
             },
             {
@@ -1234,7 +1279,7 @@
                 "hu": "Használja a fedett bejárati részt egy rövid pihenőre.",
                 "ro": "Folosiți zona de intrare acoperită pentru o scurtă pauză.",
                 "en": "Use the covered entrance area for a short break.",
-                "hr": "Koristite natkriveni ulazni prostor za kratku pauzu."
+                "hr": "Iskoristite natkriveni ulaz za kratku pauzu."
               }
             },
             {
@@ -1244,7 +1289,7 @@
                 "hu": "A sziklák a parton nedvesen rendkívül csúszósak.",
                 "ro": "Stâncile de pe plajă sunt extrem de alunecoase când sunt ude.",
                 "en": "The rocks on the beach are extremely slippery when wet.",
-                "hr": "Stijene na plaži su iznimno klizave kad su mokre."
+                "hr": "Kamenje na plaži je izuzetno sklisko kad je mokro."
               }
             },
             {
@@ -1254,7 +1299,7 @@
                 "hu": "A masszív épület jó szél- és esővédelmet nyújt.",
                 "ro": "Clădirea masivă oferă protecție bună împotriva vântului.",
                 "en": "The massive building offers good wind and rain protection.",
-                "hr": "Masivna zgrada nudi dobru zaštitu od vjetra i kiše."
+                "hr": "Masivna zgrada pruža dobru zaštitu od vjetra i kiše."
               }
             }
           ],
@@ -1288,11 +1333,11 @@
               "A waterproof backpack protects your valuables."
             ],
             "hr": [
-              "Nosite reflektirajuću kišnu kabanicu.",
-              "Kočite ranije jer se put kočenja produžuje na mokrim cestama.",
+              "Nosite reflektirajući nepropusni džemper visoke vidljivosti.",
+              "Kočite ranije jer se zaustavni put povećava na mokrim cestama.",
               "Blatobrani sprječavaju prskanje prljave vode.",
-              "Izbjegavajte cestovne oznake jer su iznimno klizave.",
-              "Vodootporni ruksak štiti vaše dragocjenosti."
+              "Izbjegavajte prometne oznake jer su izuzetno skliske.",
+              "Vodootporni ruksak štiti vaše vrijedne stvari."
             ]
           }
         },
@@ -1302,7 +1347,7 @@
             "hu": "A téli bringázás Komižán üres utakat és friss szellőt kínál. A Hum-hegyi emelkedő gyorsan bemelegíti a testet. Fentről látni a távoli szárazföld havas csúcsait. Szent Miklós érintésével gurulunk a csendes Kamenice strandhoz, ahol a hullámok erősebbek, mint nyáron. A túra naplementekor ér véget.",
             "ro": "Ciclismul de iarnă în Komiža oferă drumuri goale și briză rece. Urcarea pe Muntele Hum încălzește rapid corpul. De sus se văd vârfurile înzăpezite ale continentului în depărtare. Trecem pe la Sf. Nicolae spre plaja Kamenice, unde valurile sunt mai mari. Turul se încheie la apus.",
             "en": "Winter biking in Komiža offers empty roads and cool breezes. The climb to Mount Hum warms the body quickly. From the top, you can see the snowy peaks of the mainland in the distance. Pass by St. Nicholas to the quiet Kamenice Beach, where waves are stronger. The tour ends at sunset.",
-            "hr": "Zimsko bicikliranje u Komiži nudi prazne ceste i svjež povjetarac. Uspon na brdo Hum brzo zagrijava tijelo. S vrha se u daljini vide snježni vrhovi kopna. Prođite pored sv. Nikole do tihe plaže Kamenice, gdje su valovi jači. Tura završava u zalazak sunca."
+            "hr": "Zimski biciklizam u Komiži nudi prazne ceste i osvježavajuće povjetarce. Uspon na Hum brzo zagrijava tijelo. S vrha se u daljini vide snježni vrhovi kopna. Prođite pored sv. Nikole do mirne plaže Kamenice, gdje su valovi jači. Tura završava u sumrak."
           },
           "stops": [
             {
@@ -1312,7 +1357,7 @@
                 "hu": "Lassan melegítsen be; a levegő reggel hűvös.",
                 "ro": "Încălziți-vă treptat; aerul este rece dimineața.",
                 "en": "Warm up slowly; the air is cool in the morning.",
-                "hr": "Polako se zagrijte; zrak je ujutro svjež."
+                "hr": "Polako se ugrijte; zrak je ujutro hladan."
               }
             },
             {
@@ -1322,7 +1367,7 @@
                 "hu": "A lejtmenethez vegyen fel egy szélálló réteget.",
                 "ro": "Puneți un strat rezistent la vânt pentru coborâre.",
                 "en": "Put on a windproof layer for the descent.",
-                "hr": "Odjenite vjetronepropusni sloj za spust."
+                "hr": "Obucite vjetrootpornu jaknu za spust."
               }
             },
             {
@@ -1332,7 +1377,7 @@
                 "hu": "Alacsonyan jár a nap; figyeljen az árnyékos részekre.",
                 "ro": "Soarele este jos; atenție la zonele cu umbră.",
                 "en": "The sun is low; watch out for shaded areas.",
-                "hr": "Sunce je nisko; pripazite na zasjenjena područja."
+                "hr": "Sunce je nisko; pazite na zasjenjena mjesta."
               }
             },
             {
@@ -1342,7 +1387,7 @@
                 "hu": "Piknikezés lehetséges, ha van hőszigetelő alátétje.",
                 "ro": "Un picnic este posibil dacă aveți o izolație termică.",
                 "en": "A picnic is possible if you have insulating seating.",
-                "hr": "Piknik je moguć ako imate podlogu za sjedenje s izolacijom."
+                "hr": "Piknik je moguć ako imate izolirano sjedenje."
               }
             },
             {
@@ -1386,8 +1431,8 @@
               "Plan to return before 16:30."
             ],
             "hr": [
-              "Nosite rukavice; vjetar značajno hladi ruke.",
-              "Zimi uvijek koristite prednja i stražnja svjetla.",
+              "Nosite rukavice; osjećaj hladnoće od vjetra značajno hladi ruke.",
+              "U zimskim uvjetima uvijek koristite prednje i stražnje svjetlo.",
               "Zimsko sunce može zaslijepiti; sunčane naočale pomažu.",
               "Pijte dovoljno vode tijekom vožnje unatoč hladnoći.",
               "Planirajte povratak prije 16:30."
@@ -1409,7 +1454,8 @@
             "de": "Komiža Hafen",
             "hu": "Komiža kikötő",
             "ro": "Portul Komiža",
-            "en": "Komiža Harbor"
+            "en": "Komiža Harbor",
+            "hr": "Luka Komiža"
           },
           "coords": [
             16.0883,
@@ -1425,7 +1471,7 @@
             "hu": "Kezdjen korán a Kék barlanghoz induló hajótúrához.",
             "ro": "Începeți devreme pentru turul cu barca la Grota Albastră.",
             "en": "Start early for the boat tour to the Blue Cave.",
-            "hr": "Krenite rano na izlet brodom do Modre špilje."
+            "hr": "Krenite rano za brodsku turu do Modre špilje."
           }
         },
         {
@@ -1433,7 +1479,8 @@
             "de": "Blaue Grotte (Biševo)",
             "hu": "Kék barlang (Biševo)",
             "ro": "Grota Albastră (Biševo)",
-            "en": "Blue Cave (Biševo)"
+            "en": "Blue Cave (Biševo)",
+            "hr": "Modra špilja (Biševo)"
           },
           "coords": [
             16.0125,
@@ -1449,7 +1496,7 @@
             "hu": "Varázslatos kék fény délelőtt 11 és 12 között.",
             "ro": "Lumină albastră magică între orele 11 și 12.",
             "en": "Magical blue light between 11 AM and 12 PM.",
-            "hr": "Čarobno plavo svjetlo između 11 i 12 sati."
+            "hr": "Čarobna plava svjetlost između 11:00 i 12:00."
           }
         },
         {
@@ -1457,7 +1504,8 @@
             "de": "Berg Hum",
             "hu": "Hum-hegy",
             "ro": "Muntele Hum",
-            "en": "Mount Hum"
+            "en": "Mount Hum",
+            "hr": "Mount Hum"
           },
           "coords": [
             16.1155,
@@ -1473,7 +1521,7 @@
             "hu": "Autóval kényelmesen elérhető.",
             "ro": "Accesibil confortabil cu mașina.",
             "en": "Comfortably accessible by car.",
-            "hr": "Lako dostupno automobilom."
+            "hr": "Udobno dostupan automobilom."
           }
         },
         {
@@ -1481,7 +1529,8 @@
             "de": "Kirche Gospa Gusarica",
             "hu": "Gospa Gusarica templom",
             "ro": "Biserica Gospa Gusarica",
-            "en": "Church of Gospa Gusarica"
+            "en": "Church of Gospa Gusarica",
+            "hr": "Crkva Gospa Gusarica"
           },
           "coords": [
             16.0835,
@@ -1497,7 +1546,7 @@
             "hu": "Parkoljon az öböl bejáratánál.",
             "ro": "Parcați la intrarea în golf.",
             "en": "Park at the entrance of the bay.",
-            "hr": "Parkirajte na ulazu u zaljev."
+            "hr": "Parkirajte na ulazu u uvalu."
           }
         },
         {
@@ -1505,7 +1554,8 @@
             "de": "Riva von Komiža",
             "hu": "Komiža Riva",
             "ro": "Riva din Komiža",
-            "en": "Riva of Komiža"
+            "en": "Riva of Komiža",
+            "hr": "Riva Komiža"
           },
           "coords": [
             16.0883,
@@ -1521,7 +1571,7 @@
             "hu": "Zárja a napot nyugodt pihenéssel.",
             "ro": "Încheiați ziua într-un mod relaxat.",
             "en": "Finish the day in a relaxed way.",
-            "hr": "Završite dan opušteno."
+            "hr": "Završite dan na opušten način."
           }
         }
       ],
@@ -1530,7 +1580,7 @@
         "hu": "Használja az autót a természet és a kultúra kombinálásához. Kezdje egy hajótúrával Komižából a híres Kék barlanghoz Biševón. Visszatérés után autózzon a Hum-csúcsra a panorámáért. A délutánt töltse pihenéssel a Gospa Gusarica templomnál és a Riván.",
         "ro": "Folosiți mașina pentru o combinație de natură și cultură. Începeți cu un tur cu barca din Komiža spre celebra Grotă Albastră de pe Biševo. După întoarcere, conduceți pe vârful Hum pentru panoramă. Petreceți după-amiaza relaxându-vă la Gospa Gusarica și pe Riva.",
         "en": "Use a car for a combination of nature and culture. Start with a boat tour from Komiža to the famous Blue Cave on Biševo. After returning, drive to the Hum summit for the panorama. Spend the afternoon relaxing at Gospa Gusarica and on the Riva.",
-        "hr": "Koristite automobil za kombinaciju prirode i kulture. Započnite izletom brodom iz Komiže do poznate Modre špilje na Biševu. Po povratku, vozite do vrha Huma zbog panorame. Provedite poslijepodne opuštajući se kod Gospe Gusarice i na Rivi."
+        "hr": "Koristite automobil za kombinaciju prirode i kulture. Počnite brodskom turom iz Komiže do poznate Modre špilje na Biševu. Nakon povratka, vozite do vrha Huma zbog panorame. Poslijepodne provedite odmarajući se kod Gospe Gusarice i na Rivi."
       },
       "gastro_picks": {
         "de": [
@@ -1655,9 +1705,9 @@
           "The road to Mount Hum is well-paved."
         ],
         "hr": [
-          "Rezervirajte brod za Modru špilju unaprijed.",
-          "Parkiranje u Komiži se naplaćuje i broj mjesta je ograničen.",
-          "Cesta do brda Hum je dobro asfaltirana."
+          "Rezervirajte brod do Modre špilje unaprijed.",
+          "Parkiranje u Komiži je naplaćeno i mjesta su ograničena.",
+          "Cesta do Huma je dobro asfaltirana."
         ]
       },
       "variants": {
@@ -1666,7 +1716,8 @@
             "de": "Nutzen Sie das Auto für eine Kombination aus Natur und Kultur. Starten Sie mit einer Bootstour ab Komiža zur berühmten Blauen Grotte auf Biševo. Nach der Rückkehr fahren Sie zum Hum-Gipfel für das Panorama. Den Nachmittag verbringen Sie entspannt bei der Gospa Gusarica und an der Riva.",
             "hu": "Használja az autót a természet és a kultúra kombinálásához. Kezdje egy hajótúrával Komižából a híres Kék barlanghoz Biševón. Visszatérés után autózzon a Hum-csúcsra a panorámáért. A délutánt töltse pihenéssel a Gospa Gusarica templomnál és a Riván.",
             "ro": "Folosiți mașina pentru o combinație de natură și cultură. Începeți cu un tur cu barca din Komiža spre celebra Grotă Albastră de pe Biševo. După întoarcere, conduceți pe vârful Hum pentru panoramă. Petreceți după-amiaza relaxându-vă la Gospa Gusarica și pe Riva.",
-            "en": "Use a car for a combination of nature and culture. Start with a boat tour from Komiža to the famous Blue Cave on Biševo. After returning, drive to the Hum summit for the panorama. Spend the afternoon relaxing at Gospa Gusarica and on the Riva."
+            "en": "Use a car for a combination of nature and culture. Start with a boat tour from Komiža to the famous Blue Cave on Biševo. After returning, drive to the Hum summit for the panorama. Spend the afternoon relaxing at Gospa Gusarica and on the Riva.",
+            "hr": "Koristite automobil za kombinaciju prirode i kulture. Počnite brodskom turom iz Komiže do poznate Modre špilje na Biševu. Nakon povratka, vozite do vrha Huma zbog panorame. Poslijepodne provedite odmarajući se kod Gospe Gusarice i na Rivi."
           },
           "stops": [
             {
@@ -1674,13 +1725,15 @@
                 "de": "Komiža Hafen",
                 "hu": "Komiža kikötő",
                 "ro": "Portul Komiža",
-                "en": "Komiža Harbor"
+                "en": "Komiža Harbor",
+                "hr": "Luka Komiža"
               },
               "tip_5lang": {
                 "de": "Starten Sie früh für die Bootstour zur Blauen Grotte.",
                 "hu": "Kezdjen korán a Kék barlanghoz induló hajótúrához.",
                 "ro": "Începeți devreme pentru turul cu barca la Grota Albastră.",
-                "en": "Start early for the boat tour to the Blue Cave."
+                "en": "Start early for the boat tour to the Blue Cave.",
+                "hr": "Krenite rano za brodsku turu do Modre špilje."
               }
             },
             {
@@ -1688,13 +1741,15 @@
                 "de": "Blaue Grotte (Biševo)",
                 "hu": "Kék barlang (Biševo)",
                 "ro": "Grota Albastră (Biševo)",
-                "en": "Blue Cave (Biševo)"
+                "en": "Blue Cave (Biševo)",
+                "hr": "Modra špilja (Biševo)"
               },
               "tip_5lang": {
                 "de": "Magisches blaues Licht zwischen 11 und 12 Uhr.",
                 "hu": "Varázslatos kék fény délelőtt 11 és 12 között.",
                 "ro": "Lumină albastră magică între orele 11 și 12.",
-                "en": "Magical blue light between 11 AM and 12 PM."
+                "en": "Magical blue light between 11 AM and 12 PM.",
+                "hr": "Čarobna plava svjetlost između 11:00 i 12:00."
               }
             },
             {
@@ -1702,13 +1757,15 @@
                 "de": "Berg Hum",
                 "hu": "Hum-hegy",
                 "ro": "Muntele Hum",
-                "en": "Mount Hum"
+                "en": "Mount Hum",
+                "hr": "Mount Hum"
               },
               "tip_5lang": {
                 "de": "Bequem mit dem Auto erreichbar.",
                 "hu": "Autóval kényelmesen elérhető.",
                 "ro": "Accesibil confortabil cu mașina.",
-                "en": "Comfortably accessible by car."
+                "en": "Comfortably accessible by car.",
+                "hr": "Udobno dostupan automobilom."
               }
             },
             {
@@ -1716,13 +1773,15 @@
                 "de": "Kirche Gospa Gusarica",
                 "hu": "Gospa Gusarica templom",
                 "ro": "Biserica Gospa Gusarica",
-                "en": "Church of Gospa Gusarica"
+                "en": "Church of Gospa Gusarica",
+                "hr": "Crkva Gospa Gusarica"
               },
               "tip_5lang": {
                 "de": "Parken Sie am Eingang der Bucht.",
                 "hu": "Parkoljon az öböl bejáratánál.",
                 "ro": "Parcați la intrarea în golf.",
-                "en": "Park at the entrance of the bay."
+                "en": "Park at the entrance of the bay.",
+                "hr": "Parkirajte na ulazu u uvalu."
               }
             },
             {
@@ -1730,13 +1789,15 @@
                 "de": "Riva von Komiža",
                 "hu": "Komiža Riva",
                 "ro": "Riva din Komiža",
-                "en": "Riva of Komiža"
+                "en": "Riva of Komiža",
+                "hr": "Riva Komiža"
               },
               "tip_5lang": {
                 "de": "Lassen Sie den Tag entspannt ausklingen.",
                 "hu": "Zárja a napot nyugodt pihenéssel.",
                 "ro": "Încheiați ziua într-un mod relaxat.",
-                "en": "Finish the day in a relaxed way."
+                "en": "Finish the day in a relaxed way.",
+                "hr": "Završite dan na opušten način."
               }
             }
           ],
@@ -1842,6 +1903,11 @@
               "Book the boat to the Blue Cave in advance.",
               "Parking in Komiža is paid and spaces are limited.",
               "The road to Mount Hum is well-paved."
+            ],
+            "hr": [
+              "Rezervirajte brod do Modre špilje unaprijed.",
+              "Parkiranje u Komiži je naplaćeno i mjesta su ograničena.",
+              "Cesta do Huma je dobro asfaltirana."
             ]
           }
         },
@@ -1851,7 +1917,7 @@
             "hu": "Az autóban az eső csak díszlet. A kikötőből indulva a Biševo-szigeti Kék barlang felé vesszük az irányt – ha az időjárás engedi az átkelést. A Hum-hegy felhők közt is drámai látványt nyújt. Visszatérve a Gusarica templomhoz, a túra a Riván zárul, ahol a száraz kocsiból nézhetjük a hullámokat.",
             "ro": "În mașină, ploaia este doar un decor. Călătoria începe în port, apoi spre Grota Albastră de pe Biševo – dacă vremea permite traversarea. Muntele Hum oferă o vedere dramatică în ciuda norilor. Turul revine la biserica Gusarica și se încheie pe faleză, privind valurile din mașină.",
             "en": "In the car, the rain is just a backdrop. The journey begins at the harbor, then heads to the Blue Cave on Biševo – weather permitting. Mount Hum offers dramatic views despite the clouds. The tour returns to Gusarica Church and ends at the Riva, watching waves from the dry car.",
-            "hr": "U automobilu je kiša samo kulisa. Putovanje počinje u luci, zatim kreće prema Modroj špilji na Biševu – ako vremenski uvjeti dopuštaju. Brdo Hum nudi dramatične poglede unatoč oblacima. Tura se vraća do crkve Gusarice i završava na Rivi, gledajući valove iz suhog automobila."
+            "hr": "U autu je kiša samo pozadina. Putovanje počinje u luci, zatim ide prema Modroj špilji na Biševu – ako vrijeme dopusti. Hum nudi dramatične poglede unatoč oblacima. Tura se vraća do crkve Gusarica i završava na Rivi, promatrajući valove kroz suho vozilo."
           },
           "stops": [
             {
@@ -1861,7 +1927,7 @@
                 "hu": "Parkoljon közel a központhoz, hogy ne kelljen sokat áznia.",
                 "ro": "Parcați aproape de centru pentru a merge puțin prin ploaie.",
                 "en": "Park close to the center to minimize walking in the rain.",
-                "hr": "Parkirajte blizu centra kako biste što manje hodali po kiši."
+                "hr": "Parkirajte blizu centra kako biste smanjili hodanje po kiši."
               }
             },
             {
@@ -1881,7 +1947,7 @@
                 "hu": "Figyeljen a kőomlásra a kanyargós hegyi úton.",
                 "ro": "Atenție la căderile de pietre pe drumul montan sinuos.",
                 "en": "Watch out for rockfalls on the winding mountain road.",
-                "hr": "Pripazite na odrone kamenja na zavojitoj planinskoj cesti."
+                "hr": "Pazite na odrone na zavojitoj planinskoj cesti."
               }
             },
             {
@@ -1891,7 +1957,7 @@
                 "hu": "Közvetlenül a templom előtt van parkoló; esőben ideális.",
                 "ro": "Există parcare chiar în fața bisericii; ideal pe ploaie.",
                 "en": "There is parking right in front of the church; ideal for rain.",
-                "hr": "Parking je tik ispred crkve; idealno za kišu."
+                "hr": "Ima parkiralište odmah ispred crkve; idealno za kišu."
               }
             },
             {
@@ -1935,11 +2001,11 @@
               "Take an umbrella for the walk from the parking lot."
             ],
             "hr": [
-              "Provjerite jesu li brisači vjetrobranskog stakla u dobrom stanju.",
-              "Vozite oprezno jer se voda može nakupljati na cesti.",
-              "Koristite klima uređaj kako biste spriječili zamagljivanje stakala.",
+              "Provjerite jesu li brisači vjetrobrana u dobrom stanju.",
+              "Vozite pažljivo jer se voda može skupljati na cesti.",
+              "Koristite klima-uređaj kako biste spriječili magljenje stakala.",
               "Provjerite status trajekata i brodova prije polaska.",
-              "Uzmite kišobran za šetnju od parkirališta."
+              "Ponesite kišobran za šetnju od parkirališta."
             ]
           }
         },
@@ -1949,7 +2015,7 @@
             "hu": "A téli autózás Vison nyugodt, alig van forgalom. Komiža kikötője csillog a hűvös levegőben. A Kék barlang télen ritkábban elérhető, de a Hum-hegyi út kristálytiszta kilátással jutalmaz. A Gusarica templom után a Riván zárjuk a napot, miközben a nap korán a tengerbe vész.",
             "ro": "Condusul iarna pe Vis este relaxant, traficul fiind redus. Portul Komiža strălucește în aerul rece. Grota Albastră este greu accesibilă iarna, dar drumul spre Muntele Hum oferă o vizibilitate clară. După biserica Gusarica, încheiem ziua pe faleză la apus.",
             "en": "Winter driving on Vis is relaxed with very little traffic. Komiža harbor sparkles in the cool air. The Blue Cave is less accessible in winter, but the drive to Mount Hum rewards with crystal clear views. After Gusarica Church, end the day at the Riva as the sun sinks early into the sea.",
-            "hr": "Zimska vožnja Visom je opuštena uz vrlo malo prometa. Komiška luka blista na svježem zraku. Modra špilja je manje dostupna zimi, ali vožnja do brda Hum nagrađuje kristalno čistim pogledom. Nakon crkve Gusarice, završite dan na Rivi dok sunce rano tone u more."
+            "hr": "Zimska vožnja po Visu je opuštena s malo prometa. Luka Komiža sjaji u hladnom zraku. Modra špilja je zimi manje dostupna, ali vožnja do Huma nagrađuje kristalno čistim pogledima. Nakon crkve Gusarice, završite dan na Rivi dok sunce rano zalazi u more."
           },
           "stops": [
             {
@@ -1959,7 +2025,7 @@
                 "hu": "Télen bőségesen áll rendelkezésre parkolóhely.",
                 "ro": "Locurile de parcare sunt abundente în timpul iernii.",
                 "en": "Parking spaces are abundant during winter.",
-                "hr": "Parkirnih mjesta zimi ima u izobilju."
+                "hr": "Parkirna mjesta su obilna tijekom zime."
               }
             },
             {
@@ -1969,7 +2035,7 @@
                 "hu": "A túrák télen korlátozottak; foglaljon előre.",
                 "ro": "Tururile sunt limitate iarna; rezervați în avans.",
                 "en": "Tours are very limited in winter; book in advance.",
-                "hr": "Ture su zimi vrlo ograničene; rezervirajte unaprijed."
+                "hr": "Ture su vrlo ograničene zimi; rezervirajte unaprijed."
               }
             },
             {
@@ -1989,7 +2055,7 @@
                 "hu": "Élvezze a csendet a település nyugati végén.",
                 "ro": "Bucurați-vă de liniște la marginea de vest a localității.",
                 "en": "Enjoy the silence at the western end of the town.",
-                "hr": "Uživajte u tišini na zapadnom rubu grada."
+                "hr": "Uživajte u tišini na zapadnom kraju mjesta."
               }
             },
             {
@@ -1999,7 +2065,7 @@
                 "hu": "Tökéletes hely a naplemente megtekintéséhez az autóból.",
                 "ro": "Locul perfect pentru a vedea apusul din mașină.",
                 "en": "Perfect spot to watch the sunset from the car.",
-                "hr": "Savršeno mjesto za promatranje zalaska sunca iz automobila."
+                "hr": "Savršeno mjesto za gledanje zalaska sunca iz auta."
               }
             }
           ],
@@ -2034,10 +2100,10 @@
             ],
             "hr": [
               "Provjerite tlak u gumama; niske temperature utječu na njega.",
-              "Vozite uz poseban oprez tijekom jake bure.",
+              "Vozite s dodatnim oprezom tijekom jakih vjetrova (Bura).",
               "Strugač leda rijetko je potreban, ali vidljivost je ključna.",
-              "Benzinske postaje zimi često imaju kraće radno vrijeme.",
-              "Pripazite na divlje životinje koje zimi prelaze cestu."
+              "Benzinske postaje često imaju kraće radno vrijeme zimi.",
+              "Pazite na životinje koje zimi prelaze cestu."
             ]
           }
         }
@@ -2056,7 +2122,8 @@
             "de": "Bushaltestelle Komiža",
             "hu": "Komiža buszmegálló",
             "ro": "Stația de autobuz Komiža",
-            "en": "Komiža Bus Stop"
+            "en": "Komiža Bus Stop",
+            "hr": "Komiža Autobusna Stanica"
           },
           "coords": [
             16.0895,
@@ -2072,7 +2139,7 @@
             "hu": "A Vis városából érkező busz érkezési helye.",
             "ro": "Locul de sosire al autobuzului din orașul Vis.",
             "en": "Arrival point of the bus from Vis town.",
-            "hr": "Mjesto dolaska autobusa iz grada Visa."
+            "hr": "Dolazna točka autobusa iz mjesta Vis."
           }
         },
         {
@@ -2080,7 +2147,8 @@
             "de": "Venezianischer Turm",
             "hu": "Velencei torony",
             "ro": "Turnul Venețian",
-            "en": "Venetian Tower"
+            "en": "Venetian Tower",
+            "hr": "Mletačka Kula"
           },
           "coords": [
             16.0881,
@@ -2096,7 +2164,7 @@
             "hu": "Történelemkedvelőknek kötelező.",
             "ro": "Obligatoriu pentru pasionații de istorie.",
             "en": "A must for history buffs.",
-            "hr": "Obavezno mjesto za ljubitelje povijesti."
+            "hr": "Obavezno za ljubitelje povijesti."
           }
         },
         {
@@ -2104,7 +2172,8 @@
             "de": "Riva von Komiža",
             "hu": "Komiža Riva",
             "ro": "Riva din Komiža",
-            "en": "Riva of Komiža"
+            "en": "Riva of Komiža",
+            "hr": "Riva Komiža"
           },
           "coords": [
             16.0883,
@@ -2120,7 +2189,7 @@
             "hu": "Kirándulóhajók központi mólója.",
             "ro": "Debarcader central pentru bărcile de excursie.",
             "en": "Central pier for excursion boats.",
-            "hr": "Središnji mol za izletničke brodove."
+            "hr": "Središnje pristanište za izletničke brodove."
           }
         },
         {
@@ -2128,7 +2197,8 @@
             "de": "Strand Gusarica",
             "hu": "Gusarica strand",
             "ro": "Plaja Gusarica",
-            "en": "Gusarica Beach"
+            "en": "Gusarica Beach",
+            "hr": "Plaža Gusarica"
           },
           "coords": [
             16.0825,
@@ -2144,7 +2214,7 @@
             "hu": "Gyalogosan könnyen elérhető a központból.",
             "ro": "Accesibil ușor pe jos din centru.",
             "en": "Easily accessible on foot from the center.",
-            "hr": "Lako dostupno pješice iz centra."
+            "hr": "Lako dostupna pješice iz centra."
           }
         },
         {
@@ -2152,7 +2222,8 @@
             "de": "Platz der sieben Palmen",
             "hu": "Hét pálma tere",
             "ro": "Piața celor șapte palmi",
-            "en": "Square of Seven Palms"
+            "en": "Square of Seven Palms",
+            "hr": "Trg Sedam Palma"
           },
           "coords": [
             16.0885,
@@ -2168,7 +2239,7 @@
             "hu": "A buszmegálló közelében a visszautazáshoz.",
             "ro": "În apropierea stației de autobuz pentru întoarcere.",
             "en": "Near the bus stop for the return trip.",
-            "hr": "Blizu autobusne stanice za povratak."
+            "hr": "Blizu autobusnog stajališta za povratak."
           }
         }
       ],
@@ -2177,7 +2248,7 @@
         "hu": "Fedezze fel Komižát kényelmesen a Visről érkező szigeti busszal. A kompakt városközpont lehetővé teszi a legfontosabb látnivalók, mint a velencei torony és a Riva stresszmentes megtekintését. Egy nyugodt pihenés a Gusarica strandon zárja az utazást, mielőtt a busz visszaviszi.",
         "ro": "Descoperiți Komiža confortabil cu autobuzul insular din Vis. Centrul compact al localității permite vizitarea celor mai importante obiective, precum turnul venețian și Riva, fără stres. O ședere relaxată pe plaja Gusarica completează excursia înainte ca autobuzul să vă ducă înapoi.",
         "en": "Discover Komiža comfortably by taking the island bus from Vis. The compact town center allows for a stress-free visit to the main sights like the Venetian Tower and the Riva. A relaxed stay at Gusarica Beach completes the trip before the bus takes you back.",
-        "hr": "Otkrijte Komižu udobno koristeći otočki autobus iz Visa. Kompaktni centar grada omogućuje posjet glavnim znamenitostima poput mletačke kule i Rive bez stresa. Opušten boravak na plaži Gusarica upotpunjuje izlet prije povratka autobusom."
+        "hr": "Istražite Komižu udobno vozeći se otočnim autobusom iz Visa. Kompaktan centar omogućuje bezstresan obilazak glavnih znamenitosti poput Mletačke kule i Rive. Opušteni boravak na plaži Gusarica zaokružuje izlet prije povratka autobusom."
       },
       "gastro_picks": {
         "de": [
@@ -2303,8 +2374,8 @@
         ],
         "hr": [
           "Red vožnje autobusa usklađen je s dolascima trajekata u Vis.",
-          "Stanica u Komiži udaljena je samo 2 minute od Rive.",
-          "Brodovi za Modru špilju polaze svakih 30-60 minuta."
+          "Stajalište u Komiži je samo 2 minute od Rive.",
+          "Brodovi za Modru špilju polaze svakih 30–60 minuta."
         ]
       },
       "variants": {
@@ -2313,7 +2384,8 @@
             "de": "Entdecken Sie Komiža bequem mit dem Inselbus von Vis. Das kompakte Ortszentrum ermöglicht es, die wichtigsten Sights wie den venezianischen Turm und die Riva stressfrei zu besuchen. Ein entspannter Aufenthalt am Gusarica-Strand rundet den Ausflug ab, bevor der Bus Sie zurückbringt.",
             "hu": "Fedezze fel Komižát kényelmesen a Visről érkező szigeti busszal. A kompakt városközpont lehetővé teszi a legfontosabb látnivalók, mint a velencei torony és a Riva stresszmentes megtekintését. Egy nyugodt pihenés a Gusarica strandon zárja az utazást, mielőtt a busz visszaviszi.",
             "ro": "Descoperiți Komiža confortabil cu autobuzul insular din Vis. Centrul compact al localității permite vizitarea celor mai importante obiective, precum turnul venețian și Riva, fără stres. O ședere relaxată pe plaja Gusarica completează excursia înainte ca autobuzul să vă ducă înapoi.",
-            "en": "Discover Komiža comfortably by taking the island bus from Vis. The compact town center allows for a stress-free visit to the main sights like the Venetian Tower and the Riva. A relaxed stay at Gusarica Beach completes the trip before the bus takes you back."
+            "en": "Discover Komiža comfortably by taking the island bus from Vis. The compact town center allows for a stress-free visit to the main sights like the Venetian Tower and the Riva. A relaxed stay at Gusarica Beach completes the trip before the bus takes you back.",
+            "hr": "Istražite Komižu udobno vozeći se otočnim autobusom iz Visa. Kompaktan centar omogućuje bezstresan obilazak glavnih znamenitosti poput Mletačke kule i Rive. Opušteni boravak na plaži Gusarica zaokružuje izlet prije povratka autobusom."
           },
           "stops": [
             {
@@ -2321,13 +2393,15 @@
                 "de": "Bushaltestelle Komiža",
                 "hu": "Komiža buszmegálló",
                 "ro": "Stația de autobuz Komiža",
-                "en": "Komiža Bus Stop"
+                "en": "Komiža Bus Stop",
+                "hr": "Komiža Autobusna Stanica"
               },
               "tip_5lang": {
                 "de": "Ankunftsort des Busses aus Vis Stadt.",
                 "hu": "A Vis városából érkező busz érkezési helye.",
                 "ro": "Locul de sosire al autobuzului din orașul Vis.",
-                "en": "Arrival point of the bus from Vis town."
+                "en": "Arrival point of the bus from Vis town.",
+                "hr": "Dolazna točka autobusa iz mjesta Vis."
               }
             },
             {
@@ -2335,13 +2409,15 @@
                 "de": "Venezianischer Turm",
                 "hu": "Velencei torony",
                 "ro": "Turnul Venețian",
-                "en": "Venetian Tower"
+                "en": "Venetian Tower",
+                "hr": "Mletačka Kula"
               },
               "tip_5lang": {
                 "de": "Ein Muss für Geschichtsinteressierte.",
                 "hu": "Történelemkedvelőknek kötelező.",
                 "ro": "Obligatoriu pentru pasionații de istorie.",
-                "en": "A must for history buffs."
+                "en": "A must for history buffs.",
+                "hr": "Obavezno za ljubitelje povijesti."
               }
             },
             {
@@ -2349,13 +2425,15 @@
                 "de": "Riva von Komiža",
                 "hu": "Komiža Riva",
                 "ro": "Riva din Komiža",
-                "en": "Riva of Komiža"
+                "en": "Riva of Komiža",
+                "hr": "Riva Komiža"
               },
               "tip_5lang": {
                 "de": "Zentraler Anleger für Ausflugsboote.",
                 "hu": "Kirándulóhajók központi mólója.",
                 "ro": "Debarcader central pentru bărcile de excursie.",
-                "en": "Central pier for excursion boats."
+                "en": "Central pier for excursion boats.",
+                "hr": "Središnje pristanište za izletničke brodove."
               }
             },
             {
@@ -2363,13 +2441,15 @@
                 "de": "Strand Gusarica",
                 "hu": "Gusarica strand",
                 "ro": "Plaja Gusarica",
-                "en": "Gusarica Beach"
+                "en": "Gusarica Beach",
+                "hr": "Plaža Gusarica"
               },
               "tip_5lang": {
                 "de": "Leicht zu Fuß vom Zentrum erreichbar.",
                 "hu": "Gyalogosan könnyen elérhető a központból.",
                 "ro": "Accesibil ușor pe jos din centru.",
-                "en": "Easily accessible on foot from the center."
+                "en": "Easily accessible on foot from the center.",
+                "hr": "Lako dostupna pješice iz centra."
               }
             },
             {
@@ -2377,13 +2457,15 @@
                 "de": "Platz der sieben Palmen",
                 "hu": "Hét pálma tere",
                 "ro": "Piața celor șapte palmi",
-                "en": "Square of Seven Palms"
+                "en": "Square of Seven Palms",
+                "hr": "Trg Sedam Palmi"
               },
               "tip_5lang": {
                 "de": "In der Nähe der Bushaltestelle für die Rückfahrt.",
                 "hu": "A buszmegálló közelében a visszautazáshoz.",
                 "ro": "În apropierea stației de autobuz pentru întoarcere.",
-                "en": "Near the bus stop for the return trip."
+                "en": "Near the bus stop for the return trip.",
+                "hr": "Blizu autobusnog stajališta za povratak."
               }
             }
           ],
@@ -2489,6 +2571,11 @@
               "The bus schedule is coordinated with ferry arrivals in Vis.",
               "The stop in Komiža is only 2 minutes from the Riva.",
               "Boats to the Blue Cave depart every 30-60 minutes."
+            ],
+            "hr": [
+              "Vozni red autobusa usklađen je s dolascima trajekta za Vis.",
+              "Stajalište u Komiži udaljeno je samo 2 minute od Rive.",
+              "Brodovi za Modru špilju polaze svakih 30–60 minuta."
             ]
           }
         },
@@ -2498,7 +2585,7 @@
             "hu": "Busszal Komižán esőben is könnyű a közlekedés. Megérkezés után a velencei torony felé vesszük az irányt, amely menedéket ad. A Riva felé tartó séta rövid és kávézók mellett vezet. Az eső ellenére a Gusarica templom megér egy látogatást, mielőtt a Hét Pálma terénél buszra szállnánk.",
             "ro": "Cu autobuzul, sunteți mobil în Komiža chiar și pe ploaie. După sosire, mergeți la Turnul Venețian pentru adăpost. Plimbarea spre faleză este scurtă. În ciuda ploii, biserica Gusarica merită o vizită înainte de a lua următorul autobuz din Piața celor Șapte Palmieri.",
             "en": "By bus, you stay mobile in Komiža during rain. After arrival, head to the Venetian Tower for shelter. The walk to the Riva is short and passes by cafés. Despite the rain, Gusarica Church is worth a visit before catching the next bus back at the Square of Seven Palms.",
-            "hr": "Autobusom ostajete mobilni u Komiži tijekom kiše. Nakon dolaska, uputite se prema mletačkoj kuli radi skloništa. Šetnja do Rive je kratka i prolazi pored kafića. Unatoč kiši, crkva Gusarica vrijedna je posjeta prije povratka sljedećim autobusom na Trgu sedam palmi."
+            "hr": "Autobusom ostajete mobilni u Komiži za vrijeme kiše. Nakon dolaska u sklonište se uputite prema Mletačkoj kuli. Šetnja do Rive je kratka i prolazi pored kafića. Unatoč kiši, crkva Gusarica vrijedi posjeta prije nego što uhvatite sljedeći autobus natrag na Trg Sedam Palmi."
           },
           "stops": [
             {
@@ -2508,7 +2595,7 @@
                 "hu": "A buszváró védelmet nyújt az első esőzápor elől.",
                 "ro": "Stația de autobuz oferă adăpost împotriva primei averse.",
                 "en": "The bus shelter provides protection from the first shower.",
-                "hr": "Nadstrešnica na stanici pruža zaštitu od prvog pljuska."
+                "hr": "Autobusno stajalište pruža zaklon od prve pljuske."
               }
             },
             {
@@ -2518,7 +2605,7 @@
                 "hu": "Mindössze 5 perc sétára a buszmegállótól.",
                 "ro": "La doar 5 minute de mers pe jos de stația de autobuz.",
                 "en": "Only a 5-minute walk from the bus stop.",
-                "hr": "Samo 5 minuta hoda od autobusne stanice."
+                "hr": "Samo 5 minuta hoda od autobusnog stajališta."
               }
             },
             {
@@ -2528,7 +2615,7 @@
                 "hu": "A buszmegálló sétatávolságra van, ha eleredne az eső.",
                 "ro": "Stația de autobuz este aproape dacă ploaia se întețește.",
                 "en": "The bus stop is within walking distance if rain intensifies.",
-                "hr": "Autobusna stanica je na pješačkoj udaljenosti ako kiša pojača."
+                "hr": "Autobusno stajalište je pješačkom udaljenošću ako kiša pojača."
               }
             },
             {
@@ -2538,7 +2625,7 @@
                 "hu": "Kicsit hosszabb séta; vigyen magával esernyőt.",
                 "ro": "Un drum ceva mai lung; luați o umbrelă cu voi.",
                 "en": "A slightly longer walk; bring an umbrella with you.",
-                "hr": "Nešto duža šetnja; ponesite kišobran sa sobom."
+                "hr": "Nešto dulja šetnja; ponesite kišobran sa sobom."
               }
             },
             {
@@ -2548,7 +2635,7 @@
                 "hu": "Ideális pont a Vis városba induló busz bevárásához.",
                 "ro": "Punct ideal pentru a aștepta autobuzul spre orașul Vis.",
                 "en": "Ideal spot to wait for the bus back to Vis town.",
-                "hr": "Idealno mjesto za čekanje autobusa natrag u grad Vis."
+                "hr": "Idealno mjesto za čekanje autobusa natrag za grad Vis."
               }
             }
           ],
@@ -2582,11 +2669,11 @@
               "Stops are good meeting points during a sudden downpour."
             ],
             "hr": [
-              "Red vožnje autobusa može malo varirati po lošem vremenu.",
-              "Pripremite nešto gotovine za kartu u slučaju da plaćanje karticom ne uspije.",
-              "Nosite obuću koja se ne kliže za ulazak i izlazak na kiši.",
+              "Vozni red autobusa može se malo promijeniti za lošeg vremena.",
+              "Imajte gotovinu spremnu za kartu u slučaju da plaćanje karticom ne uspije.",
+              "Nosite obuću protiv klizanja pri ulasku i izlasku po kiši.",
               "Autobusi su klimatizirani, pa su obično suhi i topli.",
-              "Stanice su dobra mjesta za sastanak tijekom iznenadnog pljuska."
+              "Stajališta su dobri sastajni punktovi tijekom naglog pljuska."
             ]
           }
         },
@@ -2596,7 +2683,7 @@
             "hu": "Télen a Vis és Komiža közötti buszjárat az életvonal. Megérkezés után teljes nyugalomban fedezhetjük fel a velencei toronyt. A Riva szinte üres, ami különleges hangulatot áraszt. A Gusarica templom felé tett séta után visszatérünk a Hét Pálma terére a délutáni buszhoz.",
             "ro": "Iarna, serviciul de autobuz între Vis și Komiža este vital. După sosire, explorați Turnul Venețian în liniște. Faleza este aproape goală, creând o atmosferă specială. După o plimbare la biserica Gusarica, reveniți la Piața celor Șapte Palmieri pentru bus.",
             "en": "In winter, the bus service between Vis and Komiža is a lifeline. After arrival, explore the Venetian Tower in complete peace. The Riva is almost empty, creating a special atmosphere. After a walk to Gusarica Church, return to the Square of Seven Palms for the afternoon bus.",
-            "hr": "Zimi je autobusna linija između Visa i Komiže spas. Nakon dolaska, istražite mletačku kulu u potpunom miru. Riva je gotovo prazna, što stvara posebnu atmosferu. Nakon šetnje do crkve Gusarice, vratite se na Trg sedam palmi na poslijepodnevni autobus."
+            "hr": "Zimi je autobusna linija između Visa i Komiže životna važnost. Nakon dolaska istražite Mletačku kulu u potpunom miru. Riva je gotovo prazna, što stvara posebnu atmosferu. Nakon šetnje do crkve Gusarica vratite se na Trg Sedam Palmi na poslijepodnevni autobus."
           },
           "stops": [
             {
@@ -2606,7 +2693,7 @@
                 "hu": "Ellenőrizze a téli menetrendet; kevesebb busz jár.",
                 "ro": "Verificați programul de iarnă; circulă mai puține autobuze.",
                 "en": "Check the winter schedule; fewer buses are running.",
-                "hr": "Provjerite zimski red vožnje; vozi manje autobusa."
+                "hr": "Provjerite zimski vozni red; vozi se rjeđe."
               }
             },
             {
@@ -2616,7 +2703,7 @@
                 "hu": "A belső tér télen gyakran melegebb, mint a szeles Riva.",
                 "ro": "Interiorul este adesea mai cald iarna decât faleza vântoasă.",
                 "en": "The interior is often warmer in winter than the windy Riva.",
-                "hr": "Unutrašnjost je zimi često toplija od vjetrovite Rive."
+                "hr": "Unutrašnjost je često toplija zimi nego vjetrovita Riva."
               }
             },
             {
@@ -2626,7 +2713,7 @@
                 "hu": "Élvezze a csendet; télen a padok csak az Önéi.",
                 "ro": "Bucurați-vă de liniște; iarna băncile vă aparțin.",
                 "en": "Enjoy the silence; in winter, the benches are all yours.",
-                "hr": "Uživajte u tišini; zimi su klupe samo vaše."
+                "hr": "Uživajte u tišini; zimi su klupe sve vaše."
               }
             },
             {
@@ -2636,7 +2723,7 @@
                 "hu": "Szép séta, hogy melegen tartsa magát a téli időben.",
                 "ro": "O plimbare frumoasă pentru a vă menține cald iarna.",
                 "en": "A nice walk to keep yourself warm in the winter.",
-                "hr": "Lijepa šetnja da se zagrijete zimi."
+                "hr": "Lijepa šetnja da se ugrijete zimi."
               }
             },
             {
@@ -2646,7 +2733,7 @@
                 "hu": "Érkezzen időben; a busz télen nem vár sokat.",
                 "ro": "Veniți la timp; autobuzul nu așteaptă mult iarna.",
                 "en": "Arrive on time; the bus doesn't wait long in winter.",
-                "hr": "Dođite na vrijeme; autobus zimi ne čeka dugo."
+                "hr": "Stignite na vrijeme; autobus zimi ne čeka dugo."
               }
             }
           ],
@@ -2680,11 +2767,11 @@
               "Ask the driver about the last return trip of the day."
             ],
             "hr": [
-              "Autobusi zimi voze rjeđe, često usklađeni s trajektom.",
-              "Vožnja preko prijevoja nudi sjajne zimske poglede na otok.",
-              "Nosite toplu jaknu, jer je čekanje na stanici svježe.",
+              "Autobusi voze rjeđe zimi, često usklađeni s trajektom.",
+              "Voznja preko prijevoja nudi prekrasan zimski pogled na otok.",
+              "Obucite toplu jaknu, čekanje na stajalištu je hladno.",
               "Autobusi su obično ugodno grijani.",
-              "Pitajte vozača o posljednjem povratnom putovanju tog dana."
+              "Pitajte vozača o zadnjem povratnom polasku tog dana."
             ]
           }
         }
@@ -2712,19 +2799,22 @@
       "de": "Auf Vis spricht man Kroatisch; Deutsch und Englisch in Restaurants und Pensionen verbreitet, abseits des Hafens kaum.",
       "hu": "Vis szigetén horvátul beszélnek; éttermekben és panziókban gyakori az angol, kikötőn kívül kevés idegen nyelvtudás.",
       "ro": "Pe insula Vis se vorbește croată; engleza este uzuală în restaurante și pensiuni, în afara portului mai rar.",
-      "en": "Croatian is the local language; English is common in restaurants and guesthouses, less so outside the harbor."
+      "en": "Croatian is the local language; English is common in restaurants and guesthouses, less so outside the harbor.",
+      "hr": "Hrvatski je lokalni jezik; engleski je uobičajen u restoranima i sobama za iznajmljivanje, manje izvan luke."
     },
     "best_time_to_visit": {
       "de": "Mitte Juni bis Mitte September für Baden und Bootsausflüge; Juli und August sehr voll, Mai und Oktober ruhig aber kühler.",
       "hu": "Június közepétől szeptember közepéig ideális fürdéshez és hajókirándulásokhoz; július, augusztus zsúfolt, május és október nyugodt.",
       "ro": "De la mijlocul lui iunie până la mijlocul lui septembrie pentru plajă și excursii cu barca; iulie, august aglomerate, mai și octombrie liniștite.",
-      "en": "Mid-June to mid-September is best for swimming and boat trips; July and August are crowded, May and October quiet but cooler."
+      "en": "Mid-June to mid-September is best for swimming and boat trips; July and August are crowded, May and October quiet but cooler.",
+      "hr": "Sredinom lipnja do sredine rujna najbolje je za kupanje i izlete brodom; srpanj i kolovoz su gužvoviti, svibanj i listopad mirniji, ali hladniji."
     },
     "neighborhood_warnings": {
       "de": "Sehr sicheres Fischerdorf; Vorsicht auf rutschigen Hafenrampen und beim Schwimmen in der offenen Bucht.",
       "hu": "Nagyon biztonságos halászfalu; figyeljünk a csúszós kikötői rámpákra és a nyílt öbölbeli úszásra.",
       "ro": "Sat pescăresc foarte sigur; atenție la rampele alunecoase din port și la înotul în golful deschis.",
-      "en": "Very safe fishing village; watch out for slippery harbor ramps and currents when swimming in the open bay."
+      "en": "Very safe fishing village; watch out for slippery harbor ramps and currents when swimming in the open bay.",
+      "hr": "Vrlo sigurno ribarsko mjesto; pazite na sklone lučke rampe i struje prilikom kupanja u otvorenom akvatoriju."
     }
   }
 }

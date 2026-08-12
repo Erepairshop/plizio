@@ -21,7 +21,8 @@
             "de": "Lokales Café im Zentrum",
             "hu": "Helyi kávézó a központban",
             "ro": "Cafenea locală în centru",
-            "en": "Local Café in the Center"
+            "en": "Local Café in the Center",
+            "hr": "Lokalni kafić u centru"
           },
           "coords": [
             17.1761,
@@ -37,7 +38,7 @@
             "hu": "Rendelj egy eszpresszót a helyiek módjára.",
             "ro": "Comandă un espresso ca localnicii.",
             "en": "Order an espresso like the locals do.",
-            "hr": "Naručite espresso kao što to čine mještani."
+            "hr": "Naručite espresso kao lokalci."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Crkva sv. Luke",
             "hu": "Szent Lukács-templom",
             "ro": "Biserica Sf. Luca",
-            "en": "Church of St. Luke"
+            "en": "Church of St. Luke",
+            "hr": "Crkva Svetog Luke"
           },
           "coords": [
             17.1765,
@@ -61,7 +63,7 @@
             "hu": "Csendes kőtemplom helyi jelentőséggel.",
             "ro": "O biserică de piatră liniștită, cu importanță locală.",
             "en": "A quiet stone church with local significance.",
-            "hr": "Mirna kamena crkva od lokalnog značaja."
+            "hr": "Tiha kamena crkvica lokalnog značaja."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Dorfspaziergang durch Podbablje",
             "hu": "Falusi séta Podbablje utcáin",
             "ro": "Plimbare prin satul Podbablje",
-            "en": "Village Stroll through Podbablje"
+            "en": "Village Stroll through Podbablje",
+            "hr": "Seoska šetnja kroz Podbablje"
           },
           "coords": [
             17.178,
@@ -93,7 +96,8 @@
             "de": "Mittagessen in einer Konoba",
             "hu": "Ebéd egy konobában",
             "ro": "Prânz la o konoba",
-            "en": "Lunch in a Konoba"
+            "en": "Lunch in a Konoba",
+            "hr": "Ručak u konobi"
           },
           "coords": [
             17.181,
@@ -109,7 +113,7 @@
             "hu": "Kóstold meg a pekát, ha előre rendeltél.",
             "ro": "Încearcă peka, dacă ai comandat în avans.",
             "en": "Try peka if ordered in advance.",
-            "hr": "Probajte peku ako je unaprijed naručena."
+            "hr": "Probajte peka ako je naručena unaprijed."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Kamenmost",
             "hu": "Kamenmost (Kőhíd)",
             "ro": "Kamenmost (Podul de Piatră)",
-            "en": "Kamenmost (Stone Bridge)"
+            "en": "Kamenmost (Stone Bridge)",
+            "hr": "Kamenmost"
           },
           "coords": [
             17.1983,
@@ -133,7 +138,7 @@
             "hu": "Történelmi építmény a folyó felett.",
             "ro": "O structură istorică peste râu.",
             "en": "A historical structure over the river.",
-            "hr": "Povijesna građevina iznad rijeke."
+            "hr": "Povijesna građevina preko rijeke."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Rijeka Vrljika",
             "hu": "Vrljika-folyó partja",
             "ro": "Râul Vrljika",
-            "en": "Vrljika River Bank"
+            "en": "Vrljika River Bank",
+            "hr": "Obala rijeke Vrljike"
           },
           "coords": [
             17.195,
@@ -157,7 +163,7 @@
             "hu": "Élvezd a hűvös, tiszta vizet.",
             "ro": "Bucură-te de apa rece și limpede.",
             "en": "Enjoy the cool, clear water.",
-            "hr": "Uživajte u hladnoj, čistoj vodi."
+            "hr": "Uživajte u hladnoj, bistroj vodi."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Vidikovac",
             "hu": "Vidikovac kilátópont",
             "ro": "Punctul de belvedere Vidikovac",
-            "en": "Vidikovac Viewpoint"
+            "en": "Vidikovac Viewpoint",
+            "hr": "Vidikovac"
           },
           "coords": [
             17.165,
@@ -189,7 +196,8 @@
             "de": "Abschlusspause",
             "hu": "Búcsúpihenő",
             "ro": "Pauză de final",
-            "en": "Final Rest"
+            "en": "Final Rest",
+            "hr": "Zadnji odmor"
           },
           "coords": [
             17.1761,
@@ -214,7 +222,7 @@
         "hu": "Kezdje a napot Podbablje központjában egy kényelmes kávéval, majd látogasson el a Szent Lukács-templomba. Egy falusi séta után délben kóstolja meg a helyi ízeket egy konobában. A délutánt a történelmi Kamenmost kőhídnál és a Vrljika-folyó frissítő partján töltheti. A napot a Vidikovac kilátópontnál zárja, ahonnan lenyűgöző panoráma nyílik az egész Imotski-mezőre.",
         "ro": "Începeți ziua în centrul localității Podbablje cu o cafea relaxantă, urmată de o vizită la Biserica Sf. Luca. După o plimbare prin sat, bucurați-vă de un prânz tradițional la o konoba. După-amiaza este dedicată podului istoric Kamenmost și malurilor limpezi ale râului Vrljika. Încheiați ziua la punctul de belvedere Vidikovac, admirând vederea panoramică asupra câmpului Imotski.",
         "en": "Start your day in Podbablje with a leisurely coffee in the center, followed by a visit to the historic St. Luke's Church. After a village stroll, enjoy a traditional lunch at a local konoba. Spend the afternoon at the historic Kamenmost stone bridge and by the crystal-clear waters of the Vrljika River. Finish the day at the Vidikovac viewpoint, taking in the wide panorama of the Imotski field.",
-        "hr": "Započnite dan u Podbablju laganom kavom u centru, a zatim posjetite povijesnu crkvu sv. Luke. Nakon šetnje selom, uživajte u tradicionalnom ručku u lokalnoj konobi. Poslijepodne provedite kod povijesnog kamenog mosta Kamenmost i uz kristalno čistu rijeku Vrljiku. Dan završite na vidikovcu, uživajući u širokoj panorami Imotskog polja."
+        "hr": "Započnite dan u Podbabljem s opuštenom kavom u centru, zatim posjetite povijesnu crkvu Svetog Luke. Nakon seoske šetnje, uživajte u tradicionalnom ručku u lokalnoj konobi. Poslijepodne provedite kod povijesnog kamenog mosta Kamenmost i uz kristalno čistu rijeku Vrljiku. Dan završite na vidikovcu, upijajući široku panoramu Imotskog polja."
       },
       "gastro_picks": {
         "de": [
@@ -335,8 +343,8 @@
           "The region is very hot in summer, bring water with you."
         ],
         "hr": [
-          "Nosite udobnu obuću za seoske staze.",
-          "Regija je ljeti vrlo vruća, ponesite vodu sa sobom."
+          "Nosite udobnu obuću za seoske putove.",
+          "Regija je vrlo vruća ljeti, povedite vodu sa sobom."
         ]
       },
       "variants": {
@@ -346,7 +354,7 @@
             "hu": "Kezdje a napot a helyi kávézóban, figyelve a kinti esőt. A Szent Lukács-templom békés és száraz menedéket nyújt a délelőtti záporok idejére.\nEgy séta a faluban felfedi Podbablje rusztikus báját a szürke égbolt alatt is. Élvezze a hosszú, hagyományos ebédet egy konobában, amíg ruhái megszáradnak.\nA Kamenmost kőhíd még történelmibbnek tűnik az esőben és a ködben. A Vrljika folyó ma különösen sebesen folyik, lenyűgöző látványt nyújtva.\nZárja a napot a kilátónál, amely a korlátozott látási viszonyok ellenére is misztikus hangulatot áraszt. Egy utolsó pihenő a központban teszi teljessé az esős napot.",
             "ro": "Începeți ziua confortabil în cafeneaua locală, în timp ce priviți ploaia de afară. Biserica Sf. Luca oferă apoi un loc liniștit și uscat pentru momente de reflexie.\nO plimbare prin sat dezvăluie farmecul rustic al Podbablje sub un cer cenușiu. Savurați un prânz tradițional lung într-o konoba pentru a vă încălzi și usca.\nPodul de piatră Kamenmost pare și mai istoric în mijlocul ploii și al ceții. Râul Vrljika curge astăzi deosebit de puternic, oferind un spectacol natural impresionant.\nÎncheiați ziua la punctul de observație, care, în ciuda vizibilității reduse, oferă o atmosferă mistică. O ultimă oprire în centrul satului completează ziua ploioasă.",
             "en": "Start your day cozily in the local café while watching the rain outside. The Church of St. Luke then offers a peaceful, dry place for reflection during the morning.\nA stroll through the village reveals the rustic charm of Podbablje even under a grey sky. Enjoy a long, traditional lunch in a konoba while your clothes dry off.\nThe stone bridge of Kamenmost looks even more historic amidst the rain and mist. The Vrljika river flows especially strongly today, offering an impressive natural spectacle.\nEnd the day at the viewpoint, which offers a mystical atmosphere despite the limited visibility. A final rest in the village center rounds off the rainy day itinerary.",
-            "hr": "Započnite dan ugodno u lokalnom kafiću promatrajući kišu. Crkva sv. Luke nudi mirno i suho utočište za jutarnje razmišljanje. Šetnja selom otkriva rustikalni šarm Podbablja čak i pod sivim nebom. Uživajte u dugom, tradicionalnom ručku u konobi dok se vaša odjeća suši. Kameni most Kamenmost izgleda još povijesnije usred kiše i magle. Rijeka Vrljika danas teče posebno snažno, nudeći impresivan prirodni spektakl. Završite dan na vidikovcu koji nudi mističnu atmosferu unatoč ograničenoj vidljivosti. Posljednji odmor u centru sela zaokružuje ovaj kišni plan puta."
+            "hr": "Započnite dan ugodno u lokalnom kafiću gledajući kišu vani. Crkva Svetog Luke nudi mirno, suho mjesto za jutarnju refleksiju.\nŠetnja kroz selo otkriva rustikalni šarm Podbablja čak i pod sivim nebom. Uživajte u dugom, tradicionalnom ručku u konobi dok se odjeća suši.\nKamenmost izgleda još povijesnije usred kiše i magle. Rijeka Vrljika danas je posebno snažna, pružajući impresivan prirodni prizor.\nDan završite na vidikovcu, koji unatoč ograničenoj vidljivosti nudi mističnu atmosferu. Završni odmor u centru sela zaokružuje kišni dnevni itinerar."
           },
           "stops": [
             {
@@ -356,7 +364,7 @@
                 "hu": "Ideális hely az első zápor kivárására.",
                 "ro": "Un loc ideal pentru a aștepta trecerea primei averse.",
                 "en": "An ideal place to wait out the first shower.",
-                "hr": "Idealno mjesto za pričekati da prođe prvi pljusak."
+                "hr": "Idealno mjesto za pričekati prvu pljusku."
               }
             },
             {
@@ -386,7 +394,7 @@
                 "hu": "Kóstoljon meg egy meleg levest a felmelegedéshez.",
                 "ro": "Încercați o supă caldă pentru a vă încălzi.",
                 "en": "Try a warm soup to warm yourself up.",
-                "hr": "Probajte toplu juhu da se zagrijete."
+                "hr": "Probajte toplu juhu da se ugrijete."
               }
             },
             {
@@ -396,7 +404,7 @@
                 "hu": "Vigyázat, a régi kövek csúszósak lehetnek.",
                 "ro": "Atenție, pietrele vechi pot fi alunecoase.",
                 "en": "Careful, the old stones can be slippery.",
-                "hr": "Oprez, stari kamen može biti klizav."
+                "hr": "Pažljivo, stari kameni mogu biti sklizki."
               }
             },
             {
@@ -406,7 +414,7 @@
                 "hu": "A part menti ösvény esőben nagyon saras lehet.",
                 "ro": "Poteca de pe mal poate fi foarte noroioasă pe ploaie.",
                 "en": "The riverbank path can be very muddy in the rain.",
-                "hr": "Staza uz obalu rijeke može biti vrlo blatnjava po kiši."
+                "hr": "Staza uz obalu rijeke može biti vrlo blatna po kiši."
               }
             },
             {
@@ -416,7 +424,7 @@
                 "hu": "A kilátás ködben különösen hangulatos.",
                 "ro": "Priveliștea este deosebit de sugestivă în condiții de ceață.",
                 "en": "The view is particularly atmospheric in foggy conditions.",
-                "hr": "Pogled je posebno atmosferski u uvjetima magle."
+                "hr": "Pogled je osobito atmosferičan u maglovitim uvjetima."
               }
             },
             {
@@ -426,7 +434,7 @@
                 "hu": "Melegedjen fel egy helyi gyógyteával.",
                 "ro": "Încălziți-vă cu un ceai de plante local.",
                 "en": "Warm up with a local herbal tea.",
-                "hr": "Zagrijte se domaćim biljnim čajem."
+                "hr": "Ugrijte se lokalnim biljnim čajem."
               }
             }
           ],
@@ -456,10 +464,10 @@
               "The konobas provide a cozy refuge during the rain."
             ],
             "hr": [
-              "Ponesite čvrst kišobran sa sobom.",
-              "Preporučuju se vodootporne cipele zbog blata.",
-              "Planirajte više vremena za unutarnja stajališta.",
-              "Konobe pružaju ugodno utočište tijekom kiše."
+              "Ponesite čvrst kišobran.",
+              "Preporučuju se vodootporne planinarske čizme zbog blata.",
+              "Planirajte više vremena za unutarnja zaustavljanja.",
+              "Konobe pružaju ugodan zaklon tijekom kiše."
             ]
           }
         },
@@ -469,7 +477,7 @@
             "hu": "A tiszta téli reggeli levegőben különösen fontos az első kávé a központban. A Szent Lukács-templom télen mély nyugalmat áraszt.\nEgy tempós séta a hűvös faluban felpezsdíti a vérkeringést. A táj a téli napsütésben zord és őszinte arcát mutatja.\nEgy kiadós ebéd a ropogó kandalló mellett a nap fénypontja. Kóstolja meg a dalmát hátország helyi téli specialitásait.\nLátogasson el a kőhídhoz és a folyóhoz, mielőtt időben felérne a kilátóba a korai naplementére. A nap forró itallal zárul a kávézóban.",
             "ro": "Aerul curat de iarnă de dimineață face prima cafea din centrul satului deosebit de importantă. Biserica Sf. Luca emană o liniște profundă în timpul iernii.\nO plimbare rapidă prin satul răcoros stimulează circulația. Peisajul pare aspre și autentic în lumina soarelui de iarnă.\nUn prânz copios lângă un foc de șemineu trosnind este punctul culminant al zilei. Savurați specialitățile locale de iarnă din hinterlandul dalmat.\nVizitați podul de piatră și râul înainte de a ajunge la punctul de observație la timp pentru apusul timpuriu. Ziua se încheie cu o băutură caldă la cafenea.",
             "en": "The crisp winter air in the morning makes the first coffee in the village center especially important. The Church of St. Luke radiates a deep tranquility in winter.\nA brisk stroll through the cool village stimulates the circulation. The landscape looks rugged and honest in the winter sun.\nA hearty lunch by a crackling fireplace is the highlight of the day. Enjoy local winter specialties of the Dalmatian hinterland.\nVisit the stone bridge and the river before reaching the viewpoint in time for the early sunset. The day ends warmly in the café back in the center.",
-            "hr": "Oštar zimski zrak ujutro čini prvu kavu u centru sela posebno važnom. Crkva sv. Luke zimi zrači dubokim mirom. Brza šetnja kroz hladno selo potiče cirkulaciju. Krajolik izgleda surovo i iskreno na zimskom suncu. Obilan ručak uz pucketanje vatre u kaminu vrhunac je dana. Uživajte u lokalnim zimskim specijalitetima dalmatinskog zaleđa. Posjetite kameni most i rijeku prije dolaska na vidikovac na vrijeme za rani zalazak sunca. Dan završava u toplini kafića natrag u centru."
+            "hr": "Hladan zrak zimi ujutro čini prvu kavu u središtu sela posebno važnom. Crkva sv. Luke zrači dubokom mirom zimi.\nBrzi šetnja kroz svježe selo potiče cirkulaciju. Krajolik izgleda grub i iskren na zimsko sunce.\nSrdačni ručak kraj pucketajućeg kamina vrhunac je dana. Uživajte u lokalnim zimskim specijalitetima dalmatinske zagore.\nPosjetite kameni most i rijeku prije nego što stignete do vidikovca na vrijeme za rani zalazak sunca. Dan završava toplo u kafiću u središtu."
           },
           "stops": [
             {
@@ -479,7 +487,7 @@
                 "hu": "Kérjen helyet a fűtőtest közelében.",
                 "ro": "Cereți un loc lângă sursa de căldură.",
                 "en": "Ask for a seat near the heater.",
-                "hr": "Tražite mjesto blizu grijalice."
+                "hr": "Zatražite mjesto blizu grijača."
               }
             },
             {
@@ -489,7 +497,7 @@
                 "hu": "Hagyja magán a kabátját, a templomban hűvös van.",
                 "ro": "Păstrați haina pe voi, în biserică este răcoare.",
                 "en": "Keep your coat on, it's cool inside the church.",
-                "hr": "Ostanite u kaputu, unutar crkve je hladno."
+                "hr": "Držite kaput na sebi, unutra je hladno u crkvi."
               }
             },
             {
@@ -509,7 +517,7 @@
                 "hu": "Ideális egy hosszabb pihenőre a meleg kandalló mellett.",
                 "ro": "Ideal pentru o pauză lungă lângă șemineul cald.",
                 "en": "Ideal for a longer break by the warm fireplace.",
-                "hr": "Idealno za dužu pauzu uz topli kamin."
+                "hr": "Idealno za dužu pauzu kraj toplog kamina."
               }
             },
             {
@@ -519,7 +527,7 @@
                 "hu": "A tiszta téli fény tökéletes a fotózáshoz.",
                 "ro": "Lumina clară de iarnă este perfectă pentru fotografii.",
                 "en": "The clear winter light is perfect for photos.",
-                "hr": "Čisto zimsko svjetlo savršeno je za fotografije."
+                "hr": "Bistro zimsko svjetlo savršeno je za fotografije."
               }
             },
             {
@@ -539,7 +547,7 @@
                 "hu": "Figyelem: a naplemente már 16:30 körül bekövetkezik.",
                 "ro": "Atenție: apusul are loc deja în jurul orei 16:30.",
                 "en": "Note: sunset occurs as early as around 16:30.",
-                "hr": "Napomena: zalazak sunca je već oko 16:30."
+                "hr": "Napomena: zalazak sunca događa se već oko 16:30."
               }
             },
             {
@@ -549,7 +557,7 @@
                 "hu": "Egy helyi pálinka belülről melegít fel.",
                 "ro": "Un rachiul local vă va încălzi din interior.",
                 "en": "A local brandy will warm you up from the inside.",
-                "hr": "Domaća rakija će vas zagrijati iznutra."
+                "hr": "Domaća rakija ugrijat će vas iznutra."
               }
             }
           ],
@@ -579,10 +587,10 @@
               "Paths can be slippery in case of frost."
             ],
             "hr": [
-              "Odjenite se slojevito.",
-              "Imajte na umu da mrak pada brzo nakon 16:30.",
+              "Obucite se u slojevima.",
+              "Imajte na umu da se brzo smrači nakon 16:30.",
               "Nosite tople čarape i rukavice.",
-              "Staze mogu biti klizave u slučaju mraza."
+              "Staze mogu biti sklizke u slučaju mraza."
             ]
           }
         }
@@ -601,7 +609,8 @@
             "de": "Frühstück im Dorf",
             "hu": "Reggeli a faluban",
             "ro": "Mic dejun în sat",
-            "en": "Breakfast in the Village"
+            "en": "Breakfast in the Village",
+            "hr": "Doručak u selu"
           },
           "coords": [
             17.1761,
@@ -617,7 +626,7 @@
             "hu": "Kezd a napot friss pékáruval.",
             "ro": "Începe ziua cu produse de patiserie proaspete.",
             "en": "Start the day with fresh pastries.",
-            "hr": "Započnite dan svježim pecivima."
+            "hr": "Započnite dan s svježim pecivima."
           }
         },
         {
@@ -625,7 +634,8 @@
             "de": "Crkva sv. Luke",
             "hu": "Szent Lukács-templom",
             "ro": "Biserica Sf. Luca",
-            "en": "Church of St. Luke"
+            "en": "Church of St. Luke",
+            "hr": "Crkva sv. Luke"
           },
           "coords": [
             17.1765,
@@ -641,7 +651,7 @@
             "hu": "Biztonságos biciklitároló a közelben.",
             "ro": "Loc sigur de parcare pentru biciclete în apropiere.",
             "en": "Secure bike parking available nearby.",
-            "hr": "Siguran parking za bicikle dostupan u blizini."
+            "hr": "Osigurano parkiranje za bicikle dostupno u blizini."
           }
         },
         {
@@ -649,7 +659,8 @@
             "de": "Radfahrt entlang der Vrljika",
             "hu": "Kerékpározás a Vrljika mentén",
             "ro": "Ciclism de-a lungul râului Vrljika",
-            "en": "Cycling along the Vrljika"
+            "en": "Cycling along the Vrljika",
+            "hr": "Vožnja biciklom uz Vrljiku"
           },
           "coords": [
             17.185,
@@ -673,7 +684,8 @@
             "de": "Kamenmost",
             "hu": "Kamenmost (Kőhíd)",
             "ro": "Kamenmost (Podul de Piatră)",
-            "en": "Kamenmost (Stone Bridge)"
+            "en": "Kamenmost (Stone Bridge)",
+            "hr": "Kamenmost (Kameni most)"
           },
           "coords": [
             17.1983,
@@ -689,7 +701,7 @@
             "hu": "Jó fotómegálló a hídon.",
             "ro": "Un loc bun pentru fotografii pe pod.",
             "en": "Good photo stop on the bridge.",
-            "hr": "Dobro mjesto za fotografiranje na mostu."
+            "hr": "Dobar foto-stanek na mostu."
           }
         },
         {
@@ -697,7 +709,8 @@
             "de": "Mittagessen und Pause",
             "hu": "Ebéd és pihenő",
             "ro": "Prânz și odihnă",
-            "en": "Lunch and Rest"
+            "en": "Lunch and Rest",
+            "hr": "Ručak i odmor"
           },
           "coords": [
             17.181,
@@ -713,7 +726,7 @@
             "hu": "Töltsd fel a vizeskulacsodat.",
             "ro": "Umple-ți sticlele cu apă.",
             "en": "Refill your water bottles.",
-            "hr": "Dopunite boce vodom."
+            "hr": "Napunite boce s vodom."
           }
         },
         {
@@ -721,7 +734,8 @@
             "de": "Auffahrt zum Vidikovac",
             "hu": "Tekerés a Vidikovac kilátóhoz",
             "ro": "Urcare către Vidikovac",
-            "en": "Ride to Vidikovac Viewpoint"
+            "en": "Ride to Vidikovac Viewpoint",
+            "hr": "Vožnja do vidikovca Vidikovac"
           },
           "coords": [
             17.165,
@@ -737,7 +751,7 @@
             "hu": "Rövid, de meredek emelkedő a végén.",
             "ro": "Urcare scurtă dar abruptă la final.",
             "en": "Short but steep climb at the end.",
-            "hr": "Kratak, ali strm uspon na kraju."
+            "hr": "Na kraju kratak ali strm uspon."
           }
         },
         {
@@ -745,7 +759,8 @@
             "de": "Rückkehr ins Dorf",
             "hu": "Visszatérés a faluba",
             "ro": "Întoarcerea în sat",
-            "en": "Return to Village"
+            "en": "Return to Village",
+            "hr": "Povratak u selo"
           },
           "coords": [
             17.1761,
@@ -770,7 +785,7 @@
         "hu": "Fedezze fel Podbablje környékét kerékpárral. Kezdjen a központban, látogassa meg a templomot, majd tekerjen a Vrljika-folyó menti sík utakon. Haladjon át a történelmi Kamenmost kőhídon, és élvezze a kiadós ebédet. Egy rövid emelkedő után a Vidikovac kilátópontnál panorámás kilátás lesz a jutalma, mielőtt visszatérne a faluba.",
         "ro": "Explorați împrejurimile localității Podbablje cu bicicleta. Începeți în centru, vizitați biserica, apoi pedalați pe drumurile plate de-a lungul râului Vrljika. Traversați podul istoric de piatră Kamenmost și bucurați-vă de un prânz copios. După o scurtă urcare către Vidikovac, veți fi răsplătiți cu o vedere panoramică înainte de a reveni relaxați în sat.",
         "en": "Explore the surroundings of Podbablje by bike. Start in the center, visit the church, then ride on flat paths along the Vrljika River. Cross the historic Kamenmost stone bridge and enjoy a hearty lunch. After a short climb to the Vidikovac viewpoint, you'll be rewarded with a panoramic view before returning to the village for a rest.",
-        "hr": "Istražite okolicu Podbablja biciklom. Krenite iz centra, posjetite crkvu, a zatim vozite ravnim stazama uz rijeku Vrljiku. Prijeđite povijesni kameni most Kamenmost i uživajte u obilnom ručku. Nakon kratkog uspona do vidikovca, bit ćete nagrađeni panoramskim pogledom prije povratka u selo na odmor."
+        "hr": "Istražite okolinu Podbabljeg biciklom. Počnite u centru, posjetite crkvu, zatim vozite ravnim stazama uz rijeku Vrljiku. Prijeđite povijesni kameni Kamenmost i uživajte u obilnom ručku. Nakon kratkog uspona do vidikovca Vidikovac bit će vam nagrada panoramski pogled prije povratka u selo na odmor."
       },
       "gastro_picks": {
         "de": [
@@ -892,7 +907,7 @@
         ],
         "hr": [
           "Provjerite tlak u gumama prije polaska.",
-          "Držite se označenih staza u polju."
+          "Ostanite na označenim stazama na polju."
         ]
       },
       "variants": {
@@ -902,7 +917,7 @@
             "hu": "Reggeli közben készüljön fel mentálisan és esőruházattal a túrára. Egy rövid megálló a templomnál száraz pillanatot kínál.\nA Vrljika menti tekerés esőben az igazi kalandoroknak való, a zúgó víz hangjával kísérve. A kőhídnál csak egy gyors fotóra álljunk meg.\nAz ebédnél szánjon extra időt a ruhák szárítására és az energiapótlásra. A meleg italok most nagyon jól fognak esni.\nA kilátóhoz vezető út óvatosságot igényel a vizes aszfalton, de ködös panorámával jutalmaz. Ezután térjen vissza gyorsan a faluba.",
             "ro": "Pregătiți-vă mental și cu echipament de ploaie în timpul micului dejun. O scurtă oprire la biserică oferă un moment de respiro uscat.\nCiclismul de-a lungul râului Vrljika pe ploaie este o experiență pentru aventurieri, însoțită de vuietul apei. Podul de piatră este o oprire rapidă pentru poze.\nAlocați mai mult timp la prânz pentru a vă usca lucrurile și pentru a vă reîncărca bateriile. Băuturile calde sunt exact ce aveți nevoie acum.\nDrumul spre punctul de observație necesită prudență pe șoselele ude, dar vă răsplătește cu o vedere cețoasă. Întoarceți-vă apoi rapid în sat.",
             "en": "Prepare yourself mentally and with rain gear during breakfast. A short stop at the church offers a dry moment before the ride.\nCycling along the Vrljika in the rain is an experience for adventurers, accompanied by the sound of rushing water. The stone bridge is a quick photo stop.\nTake extra time at lunch to dry your things and recharge your energy. Warm drinks are exactly what you need right now.\nThe ride to the viewpoint requires caution on wet roads but rewards you with a misty view. Return swiftly to the village afterwards.",
-            "hr": "Pripremite se psihički i opremom za kišu tijekom doručka. Kratko zaustavljanje u crkvi nudi suhi trenutak prije vožnje. Vožnja biciklom uz Vrljiku po kiši doživljaj je za avanturiste, uz zvuk žubora vode. Kameni most je brzo mjesto za fotografiju. Odvojite više vremena za ručak kako biste osušili stvari i napunili energiju. Topli napici su upravo ono što vam sada treba. Vožnja do vidikovca zahtijeva oprez na mokrim cestama, ali nagrađuje maglovitim pogledom. Brzo se vratite u selo nakon toga."
+            "hr": "Pripremite se mentalno i s kišnom opremom tijekom doručka. Kratko zaustavljanje u crkvi pruža suh trenutak prije vožnje.\nVožnja biciklom uz Vrljiku po kiši iskustvo je za pustolove, uz zvuk žuborenja vode. Kameni most je brza fotopauza.\nOdvojite dodatno vrijeme za ručak kako biste posušili stvari i napunili energiju. Topli napitci su upravo ono što vam treba sada.\nVožnja do vidikovca zahtijeva oprez na mokrim cestama, ali nagrađuje vas maglovitim pogledom. Nakon toga brzo se vratite u selo."
           },
           "stops": [
             {
@@ -912,7 +927,7 @@
                 "hu": "Indulás előtt ellenőrizze az esőruházatát.",
                 "ro": "Verificați-vă echipamentul de ploaie înainte de start.",
                 "en": "Check your rain gear before starting.",
-                "hr": "Provjerite svoju opremu za kišu prije početka."
+                "hr": "Provjerite kišnu opremu prije polaska."
               }
             },
             {
@@ -922,7 +937,7 @@
                 "hu": "Jó hely a térkép tanulmányozására szárazon.",
                 "ro": "Un loc bun pentru a studia harta la adăpost.",
                 "en": "A good place to study the map in the dry.",
-                "hr": "Dobro mjesto za proučavanje karte na suhom."
+                "hr": "Dobar je to mjesto za proučavanje karte u suhom."
               }
             },
             {
@@ -932,7 +947,7 @@
                 "hu": "Vigyázat, felúszhat a kerék a vízre a parti utakon.",
                 "ro": "Atenție la acvaplanare pe potecile de pe mal.",
                 "en": "Watch out for aquaplaning on the riverbank paths.",
-                "hr": "Pazite na akvaplaning na stazama uz rijeku."
+                "hr": "Pazite na aquaplaning na stazama uz obalu rijeke."
               }
             },
             {
@@ -942,7 +957,7 @@
                 "hu": "Rövid megálló; a fém részek csúszósak lehetnek.",
                 "ro": "Oprire scurtă; părțile metalice pot fi alunecoase.",
                 "en": "Short stop; metal parts can be slippery.",
-                "hr": "Kratko stajanje; metalni dijelovi mogu biti klizavi."
+                "hr": "Kratka pauza; metalni dijelovi mogu biti sklizki."
               }
             },
             {
@@ -962,7 +977,7 @@
                 "hu": "A kanyarokban vezessen különösen óvatosan.",
                 "ro": "Conduceți cu deosebită prudență în curbe.",
                 "en": "Ride with extra caution in the corners.",
-                "hr": "Vozite s posebnim oprezom u zavojima."
+                "hr": "Vozite s dodatnim oprezom u zavoju."
               }
             },
             {
@@ -972,7 +987,7 @@
                 "hu": "A túra után egy forró fürdő erősen ajánlott.",
                 "ro": "O baie fierbinte după tură este foarte recomandată.",
                 "en": "A hot bath after the tour is highly recommended.",
-                "hr": "Topla kupka nakon ture se toplo preporučuje."
+                "hr": "Topla kupka nakon ture toplo se preporučuje."
               }
             }
           ],
@@ -1002,10 +1017,10 @@
               "Brake early on wet pavement."
             ],
             "hr": [
-              "Blatobrani na biciklu su obavezni po ovakvom vremenu.",
+              "Blatobrani na biciklu obavezni su u ovom vremenu.",
               "Nosite vodootporne rukavice i navlake za cipele.",
-              "Smanjite tlak u gumama za bolje prianjanje.",
-              "Kočite ranije na mokrom kolniku."
+              "Smanjite tlak u gumama za bolje prijanjanje.",
+              "Kočite ranije na mokroj površini."
             ]
           }
         },
@@ -1015,7 +1030,7 @@
             "hu": "Egy kiadós reggeli az alapja ennek a hideg bringás napnak. Tekerjen kitartóan, hogy testhőmérsékletét fenntartsa.\nA téli útvonal a Vrljika mentén békés, a levegő pedig csodálatosan tiszta. A kőhíd monumentumként áll a csendes tájban.\nEgy bőséges ebédszünet egy meleg vendéglőben elengedhetetlen, hogy kiűzze a hideget a csontjaiból.\nInduljon időben a kilátóhoz, hogy megtapasztalja az aranyló téli fényeket. A sötétedés és a lehűlés előtt térjen vissza a faluba.",
             "ro": "Un mic dejun consistent este baza pentru această zi rece de ciclism. Pedalați cu spor pentru a vă menține temperatura corpului.\nRuta de iarnă de-a lungul râului Vrljika este liniștită, iar aerul este minunat de curat. Podul de piatră stă ca un monument în peisajul tăcut.\nO pauză de prânz prelungită într-un restaurant călduros este absolut necesară pentru a alunga frigul din oase.\nMergeți din timp spre punctul de observație pentru a experimenta lumina aurie de iarnă. Întoarceți-vă în sat înainte de lăsarea întunericului și a gerului.",
             "en": "A hearty breakfast is the basis for this cold cycling day. Pedal diligently to keep your body temperature up.\nThe winter route along the Vrljika is peaceful, and the air is wonderfully clear. The stone bridge stands like a monument in the silent landscape.\nAn extensive lunch break in a warm restaurant is mandatory to drive the cold out of your bones.\nRide to the viewpoint in time to experience the golden winter light. Return to the village before dark and the drop in temperature.",
-            "hr": "Obilan doručak temelj je za ovaj hladni biciklistički dan. Vrijedno okrećite pedale kako biste održali tjelesnu temperaturu. Zimska ruta uz Vrljiku je mirna, a zrak je prekrasno čist. Kameni most stoji kao spomenik u tihom krajoliku. Opsežna pauza za ručak u toplom restoranu obavezna je kako biste istjerali hladnoću iz kostiju. Vozite do vidikovca na vrijeme kako biste doživjeli zlatno zimsko svjetlo. Vratite se u selo prije mraka i pada temperature."
+            "hr": "Hodan doručak čvrst je temelj za ovaj hladni biciklistički dan. Pedalirajte marljivo kako biste održali temperaturu tijela.\nZimska ruta uz Vrljiku mirna je, a zrak izvrsno bistar. Kameni most stoji poput spomenika u tihom krajoliku.\nOpsežna pauza za ručak u toplom restoranu obavezna je kako biste istjerali hladnoću iz kostiju.\nVozite do vidikovca na vrijeme da doživite zlatno zimsko svjetlo. Vratite se u selo prije mraka i pada temperature."
           },
           "stops": [
             {
@@ -1025,7 +1040,7 @@
                 "hu": "Egyen szénhidrátdúsan a szükséges energiáért.",
                 "ro": "Mâncați alimente bogate în carbohidrați pentru energie.",
                 "en": "Eat a high-carb breakfast for the necessary energy.",
-                "hr": "Jedite doručak bogat ugljikohidratima za potrebnu energiju."
+                "hr": "Pojedite doručak bogat ugljikohidratima za potrebnu energiju."
               }
             },
             {
@@ -1035,7 +1050,7 @@
                 "hu": "Rövid megálló elég; ne hűljön ki túlságosan.",
                 "ro": "O oprire scurtă este suficientă; nu vă răciți prea tare.",
                 "en": "A short stop is enough; don't cool down too much.",
-                "hr": "Kratko zaustavljanje je dovoljno; nemojte se previše ohladiti."
+                "hr": "Dovoljna je kratka pauza; nemojte se previše ohladiti."
               }
             },
             {
@@ -1045,7 +1060,7 @@
                 "hu": "Viseljen szélálló réteget a menetszél ellen.",
                 "ro": "Purtați un strat rezistent la vânt împotriva curentului.",
                 "en": "Wear a windproof layer against the headwind.",
-                "hr": "Nosite sloj otporan na vjetar protiv čeonog vjetra."
+                "hr": "Nosite vjetrootpornu slojevitu odjeću protiv protivvjetra."
               }
             },
             {
@@ -1055,7 +1070,7 @@
                 "hu": "Vigyázat, a hídon jegesedés fordulhat elő.",
                 "ro": "Atenție la eventualul polei de pe pod.",
                 "en": "Watch out for potential ice on the bridge.",
-                "hr": "Pazite na mogući led na mostu."
+                "hr": "Pazite na moguć led na mostu."
               }
             },
             {
@@ -1065,7 +1080,7 @@
                 "hu": "Melegítse fel alaposan a lábait és kezeit.",
                 "ro": "Încălziți-vă bine picioarele și mâinile.",
                 "en": "Warm up your feet and hands thoroughly.",
-                "hr": "Temeljito zagrijte stopala i ruke."
+                "hr": "Temeljito ugrijte stopala i ruke."
               }
             },
             {
@@ -1115,10 +1130,10 @@
               "Dusk begins very early in winter."
             ],
             "hr": [
-              "Odjeća otporna na vjetar ključna je na niskim temperaturama.",
+              "Vjetrootporna odjeća presudna je na niskim temperaturama.",
               "Nosite termo donje rublje.",
               "Koristite zimske biciklističke rukavice.",
-              "Sumrak zimi počinje vrlo rano."
+              "Sumrak počinje vrlo rano zimi."
             ]
           }
         }
@@ -1137,7 +1152,8 @@
             "de": "Dorfzentrum Podbablje (Cluster A)",
             "hu": "Podbablje központ (A-csoport)",
             "ro": "Centrul Podbablje (Cluster A)",
-            "en": "Podbablje Village Center (Cluster A)"
+            "en": "Podbablje Village Center (Cluster A)",
+            "hr": "Središte sela Podbablje (Klaster A)"
           },
           "coords": [
             17.1761,
@@ -1161,7 +1177,8 @@
             "de": "Crkva sv. Luke (Cluster A)",
             "hu": "Szent Lukács-templom (A-csoport)",
             "ro": "Biserica Sf. Luca (Cluster A)",
-            "en": "Church of St. Luke (Cluster A)"
+            "en": "Church of St. Luke (Cluster A)",
+            "hr": "Crkva sv. Luke (Klaster A)"
           },
           "coords": [
             17.1765,
@@ -1185,7 +1202,8 @@
             "de": "Kamenmost (Cluster B)",
             "hu": "Kamenmost kőhíd (B-csoport)",
             "ro": "Podul Kamenmost (Cluster B)",
-            "en": "Kamenmost Bridge (Cluster B)"
+            "en": "Kamenmost Bridge (Cluster B)",
+            "hr": "Kamenmost (Klaster B)"
           },
           "coords": [
             17.1983,
@@ -1201,7 +1219,7 @@
             "hu": "Parkolj közvetlenül a hídnál.",
             "ro": "Parchează direct lângă pod.",
             "en": "Park directly near the bridge.",
-            "hr": "Parkirajte izravno blizu mosta."
+            "hr": "Parkirajte neposredno kraj mosta."
           }
         },
         {
@@ -1209,7 +1227,8 @@
             "de": "Rijeka Vrljika Spaziergang (Cluster B)",
             "hu": "Séta a Vrljika mentén (B-csoport)",
             "ro": "Plimbare pe râul Vrljika (Cluster B)",
-            "en": "Vrljika River Walk (Cluster B)"
+            "en": "Vrljika River Walk (Cluster B)",
+            "hr": "Šetnica uz rijeku Vrljiku (Klaster B)"
           },
           "coords": [
             17.195,
@@ -1225,7 +1244,7 @@
             "hu": "Árnyékos út a víz mellett.",
             "ro": "O potecă umbrită lângă apă.",
             "en": "A shaded path by the water.",
-            "hr": "Zasjenjena staza uz vodu."
+            "hr": "Sjenovita staza uz vodu."
           }
         },
         {
@@ -1233,7 +1252,8 @@
             "de": "Mittagessen in der Nähe (Cluster B)",
             "hu": "Ebéd a közelben (B-csoport)",
             "ro": "Prânz în apropiere (Cluster B)",
-            "en": "Lunch Nearby (Cluster B)"
+            "en": "Lunch Nearby (Cluster B)",
+            "hr": "Ručak u blizini (Klaster B)"
           },
           "coords": [
             17.181,
@@ -1257,7 +1277,8 @@
             "de": "Vidikovac (Cluster C)",
             "hu": "Vidikovac kilátó (C-csoport)",
             "ro": "Vidikovac (Cluster C)",
-            "en": "Vidikovac (Cluster C)"
+            "en": "Vidikovac (Cluster C)",
+            "hr": "Vidikovac (Klaster C)"
           },
           "coords": [
             17.165,
@@ -1281,7 +1302,8 @@
             "de": "Sonnenuntergangs-Kaffee",
             "hu": "Naplemente kávé",
             "ro": "Cafea la apus",
-            "en": "Sunset Coffee"
+            "en": "Sunset Coffee",
+            "hr": "Kava za zalazak sunca"
           },
           "coords": [
             17.1761,
@@ -1297,7 +1319,7 @@
             "hu": "Zárás a falu központjában.",
             "ro": "Încheiere în centrul satului.",
             "en": "Finish in the village center.",
-            "hr": "Završite u centru sela."
+            "hr": "Završite u središtu sela."
           }
         }
       ],
@@ -1306,7 +1328,7 @@
         "hu": "Autóval kényelmesen elérheti Podbablje legszebb pontjait. Kezdjen a falu központjában és nézze meg a templomot (A-csoport). Ezután hajtson a történelmi Kamenmost hídhoz, tegyen egy pihentető sétát a Vrljika-folyó partján, majd ebédeljen meg (B-csoport). A nap csúcspontja az út a Vidikovac kilátóhoz, ahonnan az egész völgyet beláthatja (C-csoport).",
         "ro": "Cu mașina, puteți ajunge confortabil la cele mai frumoase puncte din Podbablje. Începeți în centrul satului și vizitați biserica (Cluster A). Apoi conduceți către podul istoric Kamenmost, faceți o plimbare relaxantă pe malul râului Vrljika și luați prânzul (Cluster B). Punctul culminant al zilei este drumul către belvederea Vidikovac, de unde puteți vedea întreaga vale (Cluster C).",
         "en": "By car, you can easily reach the various highlights of Podbablje. Start in the village center and visit the church (Cluster A). Then drive to the historic Kamenmost bridge and take a relaxing walk along the Vrljika river, followed by lunch (Cluster B). The highlight of the day is the drive to the Vidikovac viewpoint, from where you can overlook the entire valley (Cluster C).",
-        "hr": "Automobilom lako možete doći do raznih znamenitosti Podbablja. Počnite u centru sela i posjetite crkvu (Klaster A). Zatim se odvezite do povijesnog mosta Kamenmost i lagano prošećite uz rijeku Vrljiku, nakon čega slijedi ručak (Klaster B). Vrhunac dana je vožnja do vidikovca s kojeg se pruža pogled na cijelu dolinu (Klaster C)."
+        "hr": "Autom možete lako doći do različitih znamenitosti Podbabljeg. Počnite u središtu sela i posjetite crkvu (Klaster A). Zatim se vozite do povijesnog kamenog Kamenmosta i prošećite uz rijeku Vrljiku, nakon čega slijedi ručak (Klaster B). Vrhunac dana je vožnja do vidikovca Vidikovac, odakle se pruža pogled na čitavu dolinu (Klaster C)."
       },
       "gastro_picks": {
         "de": [
@@ -1427,8 +1449,8 @@
           "Parking in the village is mostly free."
         ],
         "hr": [
-          "Ceste su uske, vozite oprezno.",
-          "Parking u selu je uglavnom besplatan."
+          "Ceste su uske, vozite pažljivo.",
+          "Parkiranje u selu uglavnom je besplatno."
         ]
       },
       "variants": {
@@ -1438,7 +1460,7 @@
             "hu": "Használja ki az autó kényelmét a nyugodt kezdéshez. Egy rövid sprint a parkolóból a kávézóba megvédi az elázástól.\nLátogassa meg a templomot és a Kamenmost hidat; a rövid kinti szakaszok esőben is könnyen teljesíthetők.\nEgy rövid folyóparti séta esernyővel felfrissítő. A konoba ezután remek száraz menedéket nyújt az ebédhez.\nA kilátót kényelmesen, autóval érheti el, és szárazon, az utastérből élvezheti a panorámát. Zárja a napot egy kávéval a faluban.",
             "ro": "Folosiți confortul mașinii pentru un start relaxat. Un scurt sprint de la parcare la cafenea vă va feri de umezeală.\nVizitați biserica și podul Kamenmost; distanțele scurte în aer liber sunt ușor de parcurs chiar și pe ploaie.\nO scurtă plimbare pe malul râului cu umbrela este revigorantă. Konoba oferă apoi un refugiu uscat minunat pentru prânz.\nAjungeți confortabil la punctul de observație cu mașina și bucurați-vă de panoramă la adăpost. Încheiați ziua cu o cafea în sat.",
             "en": "Use the convenience of your car for a relaxed start. A quick sprint from the parking lot to the café keeps you dry.\nVisit the church and the Kamenmost bridge; the short outdoor stretches are manageable even in the rain.\nA short stroll along the riverbank with an umbrella is refreshing. The konoba then offers a wonderful dry haven for lunch.\nYou can reach the viewpoint comfortably by car and enjoy the panorama dry from inside the vehicle. End the day with a coffee in the village.",
-            "hr": "Iskoristite udobnost svog automobila za opušten početak. Kratki sprint od parkirališta do kafića čuva vas suhima. Posjetite crkvu i most Kamenmost; kratke dionice na otvorenom podnošljive su čak i po kiši. Lagana šetnja obalom rijeke s kišobranom je osvježavajuća. Konoba potom nudi prekrasno suho utočište za ručak. Do vidikovca možete udobno doći automobilom i uživati u panorami na suhom iz unutrašnjosti vozila. Završite dan uz kavu u selu."
+            "hr": "Iskoristite pogodnosti automobila za opušten početak. Brzi sprint od parkirališta do kafića održat će vas suhima.\nPosjetite crkvu i Kamenmost; kratki vanjski dijelovi su upravljivi čak i po kiši.\nKratka šetnja uz obalu rijeke s kišobranom osvježava. Konoba zatim nudi prekrasan suh zaklon za ručak.\nDo vidikovca možete udobno doći automobilom i uživati u panorami suhi iz unutrašnjosti vozila. Završite dan kavom u selu."
           },
           "stops": [
             {
@@ -1458,7 +1480,7 @@
                 "hu": "Tartsa készenlétben az esernyőt a rövid útra.",
                 "ro": "Țineți umbrela la îndemână pentru drumul scurt.",
                 "en": "Keep the umbrella ready for the short walk.",
-                "hr": "Imajte kišobran spreman za kratku šetnju."
+                "hr": "Držite kišobran pri ruci za kratku šetnju."
               }
             },
             {
@@ -1468,7 +1490,7 @@
                 "hu": "Egy gyors fotó erejéig szinte közvetlenül a hídon is megállhat.",
                 "ro": "Puteți opri aproape direct pe pod pentru o fotografie rapidă.",
                 "en": "You can stop almost directly on the bridge for a quick photo.",
-                "hr": "Možete se zaustaviti gotovo izravno na mostu za brzu fotografiju."
+                "hr": "Možete stati gotovo na mostu za brzu fotografiju."
               }
             },
             {
@@ -1478,7 +1500,7 @@
                 "hu": "Egy rövid séta a vízhez eső ellenére is megéri.",
                 "ro": "O scurtă plimbare până la apă merită în ciuda ploii.",
                 "en": "A short walk to the water is worth it despite the rain.",
-                "hr": "Kratka šetnja do vode isplati se unatoč kiši."
+                "hr": "Kratka šetnja do vode vrijedi unatoč kiši."
               }
             },
             {
@@ -1498,7 +1520,7 @@
                 "hu": "Élvezze a kilátást közvetlenül az autóból.",
                 "ro": "Bucurați-vă de priveliște direct din mașină.",
                 "en": "Enjoy the view directly from the car.",
-                "hr": "Uživajte u pogledu izravno iz automobila."
+                "hr": "Uživajte u pogledu direktno iz automobila."
               }
             },
             {
@@ -1508,7 +1530,7 @@
                 "hu": "Egy esős nap nyugodt lezárása.",
                 "ro": "O încheiere relaxată a unei zile ploioase.",
                 "en": "A relaxed end to a rainy day.",
-                "hr": "Opušten kraj kišnog dana."
+                "hr": "Opustio završetak kišnog dana."
               }
             }
           ],
@@ -1540,8 +1562,8 @@
             "hr": [
               "Pazite na akvaplaning na seoskim cestama.",
               "Ne ostavljajte mokre kišobrane na sjedalima.",
-              "Provjerite stanje metlica brisača.",
-              "Koristite klima uređaj kako biste spriječili zamagljivanje stakala."
+              "Provjerite stanje brisača vjetrobranskog stakla.",
+              "Koristite klima-uređaj da spriječite zamagljivanje prozora."
             ]
           }
         },
@@ -1551,7 +1573,7 @@
             "hu": "Egy fűtött autó élvezetté teszi Podbablje téli felfedezését. Kezdjen egy meleg kávézólátogatással.\nFedezze fel a templomot és a Kamenmost hidat; a hideg levegő felfrissítő a rövid kinti tartózkodások alatt.\nA folyóparti séta a tiszta téli levegőben különösen élénkítő. A falu konobája hívogatóan barátságos az ebédhez.\nA kilátóhoz vezető út garantálja, hogy időben és melegben érkezzen a korai naplementére. Zárja a napot a központban egy forró itallal.",
             "ro": "O mașină încălzită transformă explorarea hibernală a Podbablje într-o plăcere. Începeți cu o vizită la o cafenea călduroasă.\nExplorați biserica și podul Kamenmost; aerul rece este revigorant în timpul scurtelor opriri în aer liber.\nPlimbarea pe malul râului în aerul curat de iarnă este deosebit de tonifiantă. Konoba din sat este minunat de primitoare pentru prânz.\nDrumul spre punctul de observație vă asigură că ajungeți la timp și la căldură pentru apusul timpuriu. Încheiați ziua în centru cu o băutură fierbinte.",
             "en": "A heated car makes the winter exploration of Podbablje a delight. Start with a warm café visit before exploring.\nVisit the church and the Kamenmost bridge; the cold air is refreshing during the short outdoor stays.\nThe river walk is especially invigorating in the clear winter air. The konoba in the village is wonderfully cozy and inviting for lunch.\nThe drive to the viewpoint ensures you arrive in time and in warmth for the early sunset. End the day in the center with a hot beverage.",
-            "hr": "Grijani automobil čini zimsko istraživanje Podbablja užitkom. Započnite posjetom toplom kafiću prije istraživanja. Posjetite crkvu i most Kamenmost; hladan zrak je osvježavajući tijekom kratkih boravaka na otvorenom. Šetnja uz rijeku posebno okrepljuje na čistom zimskom zraku. Konoba u selu je prekrasno ugodna i poziva na ručak. Vožnja do vidikovca osigurava da stignete na vrijeme i u toplini na rani zalazak sunca. Završite dan u centru uz topli napitak."
+            "hr": "Grijan automobil čini zimsko istraživanje Podbablja užitkom. Započnite toplim posjetom kafiću prije razgledavanja.\nPosjetite crkvu i kamenmost; hladan zrak osvježava tijekom kratkih boravaka na otvorenom.\nŠetnja uz rijeku posebno je osvježavajuća u bistrom zimskom zraku. Konoba u selu je izvanredno ugodna i primamljiva za ručak.\nVožnja do vidikovca osigurava da stignete na vrijeme i u toplini za rani zalazak sunca. Završite dan u centru uz topao napitak."
           },
           "stops": [
             {
@@ -1561,7 +1583,7 @@
                 "hu": "Ne járassa feleslegesen a motort álló helyzetben.",
                 "ro": "Nu lăsați motorul pornit inutil în staționare.",
                 "en": "Do not leave the engine idling unnecessarily.",
-                "hr": "Ne ostavljajte motor da radi u praznom hodu nepotrebno."
+                "hr": "Ne ostavljajte motor nepotrebno u praznom hodu."
               }
             },
             {
@@ -1571,7 +1593,7 @@
                 "hu": "Egy rövid, frissítő séta a templomhoz.",
                 "ro": "O plimbare scurtă și revigorantă până la biserică.",
                 "en": "A short, crisp walk to the church.",
-                "hr": "Kratka, britka šetnja do crkve."
+                "hr": "Kratka, svježa šetnja do crkve."
               }
             },
             {
@@ -1581,7 +1603,7 @@
                 "hu": "Ügyeljen a zúzmarára az úttesten.",
                 "ro": "Atenție la chiciură pe carosabil.",
                 "en": "Watch out for hoarfrost on the roadway.",
-                "hr": "Pazite na mraz na kolniku."
+                "hr": "Pazite na poledicu na kolniku."
               }
             },
             {
@@ -1591,7 +1613,7 @@
                 "hu": "A friss levegő jót fog tenni.",
                 "ro": "Aerul curat vă va face bine.",
                 "en": "The fresh air will do you good.",
-                "hr": "Svježi zrak će vam goditi."
+                "hr": "Svježi zrak će vam dobro doći."
               }
             },
             {
@@ -1611,7 +1633,7 @@
                 "hu": "Az autó fűtése gondoskodik a kényelmes nézelődésről.",
                 "ro": "Căldura din mașină asigură o vizionare confortabilă.",
                 "en": "The car's heater ensures comfortable viewing.",
-                "hr": "Grijanje automobila osigurava udobno promatranje."
+                "hr": "Grijač u automobilu osigurava ugodno razgledavanje."
               }
             },
             {
@@ -1621,7 +1643,7 @@
                 "hu": "Melegedjen fel jól a hazautazás előtt.",
                 "ro": "Încălziți-vă bine înainte de drumul de întoarcere.",
                 "en": "Warm up well before the drive back.",
-                "hr": "Dobro se zagrijte prije vožnje natrag."
+                "hr": "Dovoljno se dobro ugrijte prije povratka vožnje."
               }
             }
           ],
@@ -1651,10 +1673,10 @@
               "Drive with extra caution at dusk."
             ],
             "hr": [
-              "Provjerite antifriz u tekućini za pranje stakla.",
-              "Pazite na zaleđene dijelove u sjenovitim područjima.",
+              "Provjerite antifriz u tekućini za brisače.",
+              "Pazite na zaleđene dijelove na zasjenjenim mjestima.",
               "Držite strugač za led pri ruci.",
-              "Vozite s posebnim oprezom u sumrak."
+              "Vozite s dodatnom opreznošću u sumrak."
             ]
           }
         }
@@ -1673,7 +1695,8 @@
             "de": "Bushaltestelle Zentrum",
             "hu": "Központi buszmegálló",
             "ro": "Stația de autobuz centru",
-            "en": "Center Bus Stop"
+            "en": "Center Bus Stop",
+            "hr": "Autobusna stanica Centar"
           },
           "coords": [
             17.1761,
@@ -1697,7 +1720,8 @@
             "de": "Crkva sv. Luke",
             "hu": "Szent Lukács-templom",
             "ro": "Biserica Sf. Luca",
-            "en": "Church of St. Luke"
+            "en": "Church of St. Luke",
+            "hr": "Crkva sv. Luke"
           },
           "coords": [
             17.1765,
@@ -1713,7 +1737,7 @@
             "hu": "Könnyen elérhető gyalog.",
             "ro": "Ușor de ajuns pe jos.",
             "en": "Easily reachable on foot.",
-            "hr": "Lako dostupno pješice."
+            "hr": "Lako dostupna pješice."
           }
         },
         {
@@ -1721,7 +1745,8 @@
             "de": "Kamenmost (Transit-Halt)",
             "hu": "Kamenmost (buszos megálló)",
             "ro": "Kamenmost (oprire tranzit)",
-            "en": "Kamenmost (Transit Stop)"
+            "en": "Kamenmost (Transit Stop)",
+            "hr": "Kamenmost (stanica)"
           },
           "coords": [
             17.1983,
@@ -1737,7 +1762,7 @@
             "hu": "Szállj le a híd közelében.",
             "ro": "Coboară în apropierea podului.",
             "en": "Get off near the bridge.",
-            "hr": "Siđite blizu mosta."
+            "hr": "Iskrcajte se blizu mosta."
           }
         },
         {
@@ -1745,7 +1770,8 @@
             "de": "Rijeka Vrljika Erholung",
             "hu": "Pihenés a Vrljika-parton",
             "ro": "Relaxare pe malul Vrljika",
-            "en": "Vrljika River Relaxation"
+            "en": "Vrljika River Relaxation",
+            "hr": "Odmor uz rijeku Vrljiku"
           },
           "coords": [
             17.195,
@@ -1769,7 +1795,8 @@
             "de": "Spätes Mittagessen im Dorf",
             "hu": "Késői ebéd a faluban",
             "ro": "Prânz târziu în sat",
-            "en": "Late Lunch in the Village"
+            "en": "Late Lunch in the Village",
+            "hr": "Kasni ručak u selu"
           },
           "coords": [
             17.181,
@@ -1785,7 +1812,7 @@
             "hu": "Kérdezd a napi menüt.",
             "ro": "Întreabă de meniul zilei.",
             "en": "Ask for the daily menu.",
-            "hr": "Pitajte za dnevni meni."
+            "hr": "Raspitajte se za dnevni meni."
           }
         },
         {
@@ -1793,7 +1820,8 @@
             "de": "Búcsúpihenő a központban",
             "hu": "Búcsúpihenő a központban",
             "ro": "Pauză de final în centru",
-            "en": "Final Rest in Center"
+            "en": "Final Rest in Center",
+            "hr": "Zadnji odmor u centru"
           },
           "coords": [
             17.1761,
@@ -1818,7 +1846,7 @@
         "hu": "Podbablje tömegközlekedéssel is felfedezhető, bár némi tervezést igényel. Kezdjen a központban egy kávéval, és látogassa meg a közeli templomot. A helyi busszal eljuthat a történelmi Kamenmost kőhídhoz és a Vrljika-folyóhoz, ahol élvezheti a természetet. A faluba való visszatérés után hagyományos ebéd várja, mielőtt nyugodtan befejezné a napot.",
         "ro": "Podbablje poate fi explorat și cu transportul public, deși necesită puțină planificare. Începeți în centru cu o cafea și vizitați biserica din apropiere. Cu autobuzul local puteți ajunge la podul istoric Kamenmost și la râul Vrljika, unde vă puteți bucura de natură. După revenirea în sat, vă așteaptă un prânz tradițional înainte de a încheia ziua relaxat.",
         "en": "Podbablje can also be explored by public transport, though it requires some planning. Start in the center with a coffee and visit the nearby church. Take the local bus to the historic Kamenmost stone bridge and the Vrljika river, where you can enjoy nature. After returning to the village, a traditional lunch awaits you before ending the day leisurely.",
-        "hr": "Podbablje se može istražiti i javnim prijevozom, iako to zahtijeva planiranje. Započnite u centru kavom i posjetite obližnju crkvu. Idite lokalnim autobusom do povijesnog kamenog mosta Kamenmost i rijeke Vrljike, gdje možete uživati u prirodi. Nakon povratka u selo čeka vas tradicionalni ručak prije opuštenog završetka dana."
+        "hr": "Podbablje se može istražiti i javnim prijevozom, iako to zahtijeva malo planiranja. Započnite u centru uz kavu i posjetite obližnju crkvu. Uzmite lokalni autobus do povijesnog kamenog mosta Kamenmost i rijeke Vrljike, gdje možete uživati u prirodi. Nakon povratka u selo očekuje vas tradicionalni ručak prije mirnog završetka dana."
       },
       "gastro_picks": {
         "de": [
@@ -1939,8 +1967,8 @@
           "Bus tickets can usually be bought from the driver."
         ],
         "hr": [
-          "Pitajte mještane za trenutno vrijeme polaska autobusa.",
-          "Autobusne karte se obično mogu kupiti kod vozača."
+          "Pitajte mještane za aktualne polaske autobusa.",
+          "Autobusne karte obično se kupuju kod vozača."
         ]
       },
       "variants": {
@@ -1950,7 +1978,7 @@
             "hu": "Használja a buszt, hogy elérje a központot az első kávéhoz. A templom utána tökéletes beltéri helyszín.\nA Kamenmostba tartó járat hatékony, bár a hídhoz vezető úton szüksége lesz esernyőre.\nA folyóparti pihenés ma kicsit nedvesebb, de még így is békés. Egy késői ebéd a faluban segít kivárni a következő buszt.\nTérjen vissza a központba, hogy ezt az esős napot kényelmesen zárja. Előre ellenőrizze az indulási időket.",
             "ro": "Folosiți autobuzul pentru a ajunge în centru pentru prima cafea. Biserica este apoi un loc perfect la interior.\nTranzitul spre Kamenmost este eficient, deși veți avea nevoie de o umbrelă pentru drumul spre pod.\nRelaxarea pe malul râului este ceva mai umedă astăzi, dar totuși liniștită. Un prânz târziu în sat vă ajută să așteptați următorul autobuz.\nÎntoarceți-vă în centru pentru a încheia această zi ploioasă într-un mod confortabil. Verificați orele de plecare în prealabil.",
             "en": "Use the bus to reach the center for your first coffee. The church is a perfect indoor stop afterwards.\nTransit to Kamenmost is efficient, though you'll need an umbrella for the walk to the bridge.\nRiver relaxation is a bit damper today but still serene. A late lunch in the village helps you wait for the next bus.\nReturn to the center to wrap up this rainy day comfortably. Check the departure times in advance.",
-            "hr": "Idite autobusom do centra na prvu kavu. Crkva je savršeno zatvoreno stajalište nakon toga. Prijevoz do Kamenmosta je učinkovit, iako će vam trebati kišobran za šetnju do mosta. Opuštanje uz rijeku danas je malo vlažnije, ali i dalje spokojno. Kasni ručak u selu pomaže vam da dočekate sljedeći autobus. Vratite se u centar kako biste ugodno završili ovaj kišni dan. Provjerite vremena polaska unaprijed."
+            "hr": "Koristite autobus da stignete u centar na prvu kavu. Crkva je savršen unutarnji postaj potom.\nPrijevoz do Kamenmosta je učinkovit, iako će vam trebati kišobran za šetnju do mosta.\nOdmor uz rijeku danas je malo vlažniji, ali i dalje miran. Kasni ručak u selu pomaže pričekati sljedeći autobus.\nPovratak u centar zaokružuje ovaj kišni dan ugodno. Provjerite vrijeme polazaka unaprijed."
           },
           "stops": [
             {
@@ -1960,7 +1988,7 @@
                 "hu": "Álljon be a buszváró alá.",
                 "ro": "Adăpostiți-vă sub copertina stației.",
                 "en": "Stand under the bus shelter.",
-                "hr": "Stanite ispod nadstrešnice autobusne stanice."
+                "hr": "Stanite ispod autobusnog čekaonog zaklona."
               }
             },
             {
@@ -1990,7 +2018,7 @@
                 "hu": "Keressen menedéket a sűrű lombok alatt.",
                 "ro": "Căutați adăpost sub copacii deși.",
                 "en": "Seek shelter under dense trees.",
-                "hr": "Potražite zaklon ispod gustog drveća."
+                "hr": "Potražite zaklon pod gustom krošnjom drveća."
               }
             },
             {
@@ -2000,7 +2028,7 @@
                 "hu": "Érdeklődjön az aktuális buszindulásokról.",
                 "ro": "Întrebați despre orele actuale de plecare a autobuzelor.",
                 "en": "Inquire about the current bus departures.",
-                "hr": "Raspitajte se o trenutnim polascima autobusa."
+                "hr": "Raspitajte se o trenutačnim polascima autobusa."
               }
             },
             {
@@ -2010,7 +2038,7 @@
                 "hu": "Várja itt kényelmesen a csatlakozását.",
                 "ro": "Așteptați-vă conexiunea aici în mod confortabil.",
                 "en": "Wait for your connection here comfortably.",
-                "hr": "Udobno pričekajte svoju vezu ovdje."
+                "hr": "Ovdje udobno pričekajte svoju vezu."
               }
             }
           ],
@@ -2040,10 +2068,10 @@
               "An umbrella is important for the walks between stops."
             ],
             "hr": [
-              "Provjerite vozni red autobusa online jer može biti kašnjenja.",
+              "Provjerite raspored autobusa online jer mogu biti kašnjenja.",
               "Nosite vodootpornu odjeću za vrijeme čekanja.",
-              "Pripremite sitan novac za kartu.",
-              "Kišobran je važan za šetnje između stajališta."
+              "Imate sitniš pri ruci za kartu.",
+              "Kišobran je važan za šetnje između stanica."
             ]
           }
         },
@@ -2053,7 +2081,7 @@
             "hu": "Öltözzön fel melegen a Podbablje-ba tartó buszúthoz. A reggeli kávé jól felmelegíti a templomlátogatás előtt.\nA Kamenmostba tartó járat kilátást nyújt a téli mezőkre. A folyópartok a hidegben csendesek és érintetlenek.\nÉlvezze a hosszú, meleg ebédet a faluban, miközben kint fúj a téli szél. A vendégszeretet most különösen szívélyes.\nMivel a nap korán nyugszik, érje el az utolsó buszt vissza a központba a pihentető estéhez. Gondosan tervezze meg a visszautat.",
             "ro": "Îmbrăcați-vă gros pentru călătoria cu autobuzul spre Podbablje. Cafeaua de dimineață vă va încălzi bine înainte de vizitarea bisericii.\nTranzitul spre Kamenmost oferă priveliști asupra câmpurilor înghețate. Malurile râului sunt liniștite și neatinse în frigul iernii.\nSavurați un prânz lung și cald în sat, în timp ce vântul de iarnă suflă afară. Ospitalitatea este acum deosebit de caldă.\nDeoarece soarele apune devreme, luați ultimul autobuz înapoi spre centru pentru o seară relaxantă. Planificați-vă cu atenție drumul de întoarcere.",
             "en": "Dress warmly for the bus ride to Podbablje. The morning coffee warms you up well before the church visit.\nTransit to Kamenmost offers views of the winter fields. The riverbanks are silent and untouched in the cold.\nEnjoy a long, warm lunch in the village while the winter wind blows outside. The hospitality is especially warm now.\nAs the sun sets early, catch the last bus back to the center for a restful evening. Plan your return trip carefully.",
-            "hr": "Toplo se odjenite za vožnju autobusom do Podbablja. Jutarnja kava dobro će vas zagrijati prije posjeta crkvi. Prijevoz do Kamenmosta nudi pogled na zimska polja. Obale rijeke su tihe i netaknute na hladnoći. Uživajte u dugom, toplom ručku u selu dok vani puše zimski vjetar. Gostoprimstvo je sada posebno toplo. Kako sunce rano zalazi, uhvatite posljednji autobus natrag u centar za mirnu večer. Pažljivo isplanirajte povratak."
+            "hr": "Obucite se toplo za vožnju autobusom do Podbavlja. Jutarnja kava dobro vas ugrije prije posjeta crkvi.\nPrijevoz do Kamenmosta nudi poglede na zimska polja. Riverske obale su tihe i netaknute u hladnoći.\nUživajte u dugom, toplom ručku u selu dok vanjski zimski vjetar puše. Gostoljubivost je sada posebno srdačna.\nKako sunce zalazi rano, uhvatite zadnji autobus natrag u centar za odmoran večernji odmor. Pažljivo isplanirajte povratak."
           },
           "stops": [
             {
@@ -2073,7 +2101,7 @@
                 "hu": "A belső elcsendesedés és a melegség helye.",
                 "ro": "Un loc de reculegere și căldură.",
                 "en": "A place of inner reflection and warmth.",
-                "hr": "Mjesto unutarnjeg mira i topline."
+                "hr": "Mjesto unutarnje refleksije i topline."
               }
             },
             {
@@ -2083,7 +2111,7 @@
                 "hu": "Ügyeljen a pontos téli indulási időkre.",
                 "ro": "Atenție la orele exacte de plecare pe timp de iarnă.",
                 "en": "Pay attention to the exact winter departure times.",
-                "hr": "Obratite pozornost na točna zimska vremena polaska."
+                "hr": "Obratite pozornost na točna zimska vremena polazaka."
               }
             },
             {
@@ -2093,7 +2121,7 @@
                 "hu": "Rövid tartózkodás is elég fagy esetén.",
                 "ro": "O ședere scurtă este suficientă în caz de îngheț.",
                 "en": "A short stay is enough in frosty conditions.",
-                "hr": "Kratki boravak je dovoljan u uvjetima mraza."
+                "hr": "Kratan boravak je dovoljan u mraznim uvjetima."
               }
             },
             {
@@ -2103,7 +2131,7 @@
                 "hu": "Várja a buszt a melegben.",
                 "ro": "Așteptați autobuzul la căldură.",
                 "en": "Wait for the bus in the warmth.",
-                "hr": "Čekajte autobus na toplom."
+                "hr": "Pričekajte autobus u toplini."
               }
             },
             {
@@ -2113,7 +2141,7 @@
                 "hu": "Zárja a napot egy forró itallal.",
                 "ro": "Încheiați ziua cu o băutură fierbinte.",
                 "en": "End the day with a hot drink.",
-                "hr": "Završite dan toplim napitkom."
+                "hr": "Završite dan s toplim napitkom."
               }
             }
           ],
@@ -2144,9 +2172,9 @@
             ],
             "hr": [
               "Nosite tople zimske cipele za vrijeme čekanja.",
-              "Obratite pozornost na moguće promjene voznog reda zimi.",
-              "Boravite u grijanim zatvorenim prostorima tijekom pauza.",
-              "Nosite reflektirajuće elemente po mraku."
+              "Imajte na umu moguće promjene rasporeda zimi.",
+              "Boravite u zagrijanim unutarnjim prostorima tijekom pauza.",
+              "Nosite reflektirajuće oznake u mraku."
             ]
           }
         }

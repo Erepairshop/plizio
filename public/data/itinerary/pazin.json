@@ -21,7 +21,8 @@
             "de": "Pfarrkirche des Heiligen Nikolaus",
             "hu": "Szent Miklós plébániatemplom",
             "ro": "Biserica Sfântul Nicolae",
-            "en": "Parish Church of St. Nicholas"
+            "en": "Parish Church of St. Nicholas",
+            "hr": "Župna crkva sv. Nikole"
           },
           "coords": [
             13.937,
@@ -37,7 +38,7 @@
             "hu": "Csodálja meg a gótikus freskókat.",
             "ro": "Admirați frescele gotice.",
             "en": "Admire the Gothic frescoes inside.",
-            "hr": "Divite se gotičkim freskama u unutrašnjosti."
+            "hr": "Divite se gotičkim freskama unutra."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Jules-Verne-Denkmal",
             "hu": "Jules Verne-emlékmű",
             "ro": "Monumentul Jules Verne",
-            "en": "Jules Verne Monument"
+            "en": "Jules Verne Monument",
+            "hr": "Spomenik Julesu Vernu"
           },
           "coords": [
             13.935,
@@ -61,7 +63,7 @@
             "hu": "A Sándor Mátyás című regényre emlékeztet.",
             "ro": "Amintește de romanul Mathias Sandorf.",
             "en": "Commemorates the novel Mathias Sandorf.",
-            "hr": "Spomen na roman Mathias Sandorf."
+            "hr": "Uspomena na roman Mathias Sandorf."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Kastell Pazin",
             "hu": "Pazini vár",
             "ro": "Castelul Pazin",
-            "en": "Pazin Castle"
+            "en": "Pazin Castle",
+            "hr": "Pazinski kaštel"
           },
           "coords": [
             13.934,
@@ -93,7 +96,8 @@
             "de": "Ethnographisches Museum Istriens",
             "hu": "Isztriai Néprajzi Múzeum",
             "ro": "Muzeul Etnografic al Istriei",
-            "en": "Ethnographic Museum of Istria"
+            "en": "Ethnographic Museum of Istria",
+            "hr": "Etnografski muzej Istre"
           },
           "coords": [
             13.934,
@@ -109,7 +113,7 @@
             "hu": "A vár belsejében található.",
             "ro": "Situat în interiorul castelului.",
             "en": "Located inside the castle complex.",
-            "hr": "Nalazi se unutar kompleksa kaštela."
+            "hr": "Smješten unutar kompleksa kaštela."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Paziner Grube",
             "hu": "Pazini-barlang (nyelő)",
             "ro": "Groapa Pazin",
-            "en": "Pazin Abyss"
+            "en": "Pazin Abyss",
+            "hr": "Pazinska jama"
           },
           "coords": [
             13.9335,
@@ -141,7 +146,8 @@
             "de": "Paziner Brücke",
             "hu": "Pazini híd",
             "ro": "Podul Pazin",
-            "en": "Pazin Bridge"
+            "en": "Pazin Bridge",
+            "hr": "Pazinski most"
           },
           "coords": [
             13.933,
@@ -157,7 +163,7 @@
             "hu": "A legjobb kilátás a mélységbe.",
             "ro": "Cea mai bună vedere spre adâncime.",
             "en": "The best view down into the abyss.",
-            "hr": "Najbolji pogled dolje u ponor."
+            "hr": "Najbolji pogled dolje u jamu."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Franziskanerkloster",
             "hu": "Ferences kolostor",
             "ro": "Mănăstirea Franciscană",
-            "en": "Franciscan Monastery"
+            "en": "Franciscan Monastery",
+            "hr": "Franjevački samostan"
           },
           "coords": [
             13.938,
@@ -181,7 +188,7 @@
             "hu": "Csendes keresztfolyosó és könyvtár.",
             "ro": "Claustru liniștit și bibliotecă.",
             "en": "Quiet cloister and historic library.",
-            "hr": "Tihi samostanski klaustar i povijesna knjižnica."
+            "hr": "Tihi klaustar i povijesna knjižnica."
           }
         }
       ],
@@ -190,7 +197,7 @@
         "hu": "Kezdje a napot Isztria szívében a Szent Miklós-templomnál, mielőtt felfedezné Jules Verne irodalmi nyomait. A tekintélyes pazini vár fenségesen trónol a szakadék felett.\n\nDélben merüljön el az Isztriai Néprajzi Múzeumban a helyi kultúrába. A várfalakon belül található, és hűvös tereket kínál a forró napokon.\n\nA délután a Pazini-barlang természeti csodájáé. Csodálja meg a mélységet a hídról, vagy sétáljon a szakadék peremén.\n\nAz estét a ferences kolostor spirituális csendjében zárja, amely csodálatos kontrasztot alkot a barlang drámai torkával.",
         "ro": "Începeți ziua în inima Istriei la Biserica Sf. Nicolae, înainte de a descoperi urmele literare ale lui Jules Verne. Impunătorul castel din Pazin tronează maiestuos deasupra abisului.\n\nLa prânz, aprofundați cultura istriană la Muzeul Etnografic. Se află chiar între zidurile cetății și oferă spații răcoroase în zilele toride.\n\nDupă-amiaza este dedicată minunii naturale a Gropii Pazin. Admirați adâncimea de pe pod sau plimbați-vă pe marginea prăpastiei.\n\nÎncheiați seara în liniștea spirituală a mănăstirii franciscane, care oferă un contrast minunat cu gura dramatică a gropii.",
         "en": "Start your day in the heart of Istria at St. Nicholas Church before discovering the literary traces of Jules Verne. The imposing Pazin Castle sits majestically above the abyss.\n\nAt midday, dive deep into Istrian culture at the Ethnographic Museum. It is located directly within the fortress walls and offers cool rooms on hot days.\n\nIn the afternoon, focus on the natural wonder of the Pazin Abyss. Marvel at the depth from the bridge or hike along the edge.\n\nEnd your evening in the spiritual silence of the Franciscan monastery, which provides a wonderful contrast to the dramatic maw of the abyss.",
-        "hr": "Započnite dan u srcu Istre kod crkve sv. Nikole prije nego što otkrijete književne tragove Julesa Vernea. Impresivni Pazinski kaštel veličanstveno se uzdiže iznad ponora.\n\nU podne uronite duboko u istarsku kulturu u Etnografskom muzeju. Nalazi se izravno unutar zidina tvrđave i nudi svježe prostorije tijekom vrućih dana.\n\nPoslijepodne se posvetite prirodnom čudu Pazinske jame. Divite se dubini s mosta ili pješačite stazom uz sam rub.\n\nVečer završite u duhovnoj tišini franjevačkog samostana, koji pruža predivan kontrast dramatičnom ždrijelu ponora."
+        "hr": "Započnite dan u srcu Istre u crkvi sv. Nikole prije nego otkrijete književne tragove Julesa Vernea. Impozantni Pazinski kaštel ponosno se uzdiže iznad jame.\n\nU podne zaronite u istarsku kulturu u Etnografskom muzeju. Nalazi se izravno unutar zidina tvrđave i nudi hladne prostorije u vrućim danima.\n\nPoslijepodne se usredotočite na prirodno čudo Pazinske jame. Zadivite se dubinom s mosta ili pješačite uz rub.\n\nVečer završite u duhovnoj tišini franjevačkog samostana, koja daje prekrasan kontrast dramatičnom ponoru jame."
       },
       "gastro_picks": {
         "de": [
@@ -364,8 +371,8 @@
           "Wear sturdy shoes for the hiking trail along the abyss."
         ],
         "hr": [
-          "Pazinska jama može se prijeći i ziplineom.",
-          "Parkiranje u centru grada često je vremenski ograničeno.",
+          "Pazinsku jamu moguće je prijeći i ziplineom.",
+          "Parkiranje u centru grada često ima vremensko ograničenje.",
           "Muzeji u kaštelu često su zatvoreni ponedjeljkom.",
           "Nosite čvrstu obuću za pješačku stazu uz jamu."
         ]
@@ -376,7 +383,8 @@
             "de": "Beginnen Sie Ihren Tag im Herzen Istriens bei der St. Nikolaus Kirche, bevor Sie die literarischen Spuren von Jules Verne entdecken. Das imposante Kastell von Pazin thront majestätisch über dem Abgrund.\n\nMittags tauchen Sie im Ethnographischen Museum tief in die istrische Kultur ein. Es befindet sich direkt in den Mauern der Festung und bietet kühle Räume an heißen Tagen.\n\nDer Nachmittag steht ganz im Zeichen des Naturwunders der Paziner Grube. Bestaunen Sie die Tiefe von der Brücke aus oder wandern Sie entlang des Randes.\n\nDen Abend lassen Sie in der spirituellen Stille des Franziskanerklosters ausklingen, das einen wunderbaren Kontrast zum dramatischen Schlund der Grube bildet.",
             "hu": "Kezdje a napot Isztria szívében a Szent Miklós-templomnál, mielőtt felfedezné Jules Verne irodalmi nyomait. A tekintélyes pazini vár fenségesen trónol a szakadék felett.\n\nDélben merüljön el az Isztriai Néprajzi Múzeumban a helyi kultúrába. A várfalakon belül található, és hűvös tereket kínál a forró napokon.\n\nA délután a Pazini-barlang természeti csodájáé. Csodálja meg a mélységet a hídról, vagy sétáljon a szakadék peremén.\n\nAz estét a ferences kolostor spirituális csendjében zárja, amely csodálatos kontrasztot alkot a barlang drámai torkával.",
             "ro": "Începeți ziua în inima Istriei la Biserica Sf. Nicolae, înainte de a descoperi urmele literare ale lui Jules Verne. Impunătorul castel din Pazin tronează maiestuos deasupra abisului.\n\nLa prânz, aprofundați cultura istriană la Muzeul Etnografic. Se află chiar între zidurile cetății și oferă spații răcoroase în zilele toride.\n\nDupă-amiaza este dedicată minunii naturale a Gropii Pazin. Admirați adâncimea de pe pod sau plimbați-vă pe marginea prăpastiei.\n\nÎncheiați seara în liniștea spirituală a mănăstirii franciscane, care oferă un contrast minunat cu gura dramatică a gropii.",
-            "en": "Start your day in the heart of Istria at St. Nicholas Church before discovering the literary traces of Jules Verne. The imposing Pazin Castle sits majestically above the abyss.\n\nAt midday, dive deep into Istrian culture at the Ethnographic Museum. It is located directly within the fortress walls and offers cool rooms on hot days.\n\nIn the afternoon, focus on the natural wonder of the Pazin Abyss. Marvel at the depth from the bridge or hike along the edge.\n\nEnd your evening in the spiritual silence of the Franciscan monastery, which provides a wonderful contrast to the dramatic maw of the abyss."
+            "en": "Start your day in the heart of Istria at St. Nicholas Church before discovering the literary traces of Jules Verne. The imposing Pazin Castle sits majestically above the abyss.\n\nAt midday, dive deep into Istrian culture at the Ethnographic Museum. It is located directly within the fortress walls and offers cool rooms on hot days.\n\nIn the afternoon, focus on the natural wonder of the Pazin Abyss. Marvel at the depth from the bridge or hike along the edge.\n\nEnd your evening in the spiritual silence of the Franciscan monastery, which provides a wonderful contrast to the dramatic maw of the abyss.",
+            "hr": "Započnite dan u srcu Istre u crkvi sv. Nikole prije nego otkrijete književne tragove Julesa Vernea. Impozantni Pazinski kaštel ponosno se uzdiže iznad jame.\n\nU podne zaronite u istarsku kulturu u Etnografskom muzeju. Nalazi se izravno unutar zidina tvrđave i nudi hladne prostorije u vrućim danima.\n\nPoslijepodne se usredotočite na prirodno čudo Pazinske jame. Zadivite se dubinom s mosta ili pješačite uz rub.\n\nVečer završite u duhovnoj tišini franjevačkog samostana, koja daje prekrasan kontrast dramatičnom ponoru jame."
           },
           "stops": [
             {
@@ -384,13 +392,15 @@
                 "de": "Pfarrkirche des Heiligen Nikolaus",
                 "hu": "Szent Miklós plébániatemplom",
                 "ro": "Biserica Sfântul Nicolae",
-                "en": "Parish Church of St. Nicholas"
+                "en": "Parish Church of St. Nicholas",
+                "hr": "Župna crkva sv. Nikole"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die gotischen Fresken.",
                 "hu": "Csodálja meg a gótikus freskókat.",
                 "ro": "Admirați frescele gotice.",
-                "en": "Admire the Gothic frescoes inside."
+                "en": "Admire the Gothic frescoes inside.",
+                "hr": "Divite se gotičkim freskama unutra."
               }
             },
             {
@@ -398,13 +408,15 @@
                 "de": "Jules-Verne-Denkmal",
                 "hu": "Jules Verne-emlékmű",
                 "ro": "Monumentul Jules Verne",
-                "en": "Jules Verne Monument"
+                "en": "Jules Verne Monument",
+                "hr": "Spomenik Julesu Vernu"
               },
               "tip_5lang": {
                 "de": "Erinnert an den Roman Mathias Sandorf.",
                 "hu": "A Sándor Mátyás című regényre emlékeztet.",
                 "ro": "Amintește de romanul Mathias Sandorf.",
-                "en": "Commemorates the novel Mathias Sandorf."
+                "en": "Commemorates the novel Mathias Sandorf.",
+                "hr": "Uspomena na roman Mathias Sandorf."
               }
             },
             {
@@ -412,13 +424,15 @@
                 "de": "Kastell Pazin",
                 "hu": "Pazini vár",
                 "ro": "Castelul Pazin",
-                "en": "Pazin Castle"
+                "en": "Pazin Castle",
+                "hr": "Pazinski kaštel"
               },
               "tip_5lang": {
                 "de": "Die größte Festung Istriens.",
                 "hu": "Isztria legnagyobb vára.",
                 "ro": "Cea mai mare cetate din Istria.",
-                "en": "The largest and best-preserved castle in Istria."
+                "en": "The largest and best-preserved castle in Istria.",
+                "hr": "Najveći i najbolje očuvani kaštel u Istri."
               }
             },
             {
@@ -426,13 +440,15 @@
                 "de": "Ethnographisches Museum Istriens",
                 "hu": "Isztriai Néprajzi Múzeum",
                 "ro": "Muzeul Etnografic al Istriei",
-                "en": "Ethnographic Museum of Istria"
+                "en": "Ethnographic Museum of Istria",
+                "hr": "Etnografski muzej Istre"
               },
               "tip_5lang": {
                 "de": "Im Inneren des Kastells gelegen.",
                 "hu": "A vár belsejében található.",
                 "ro": "Situat în interiorul castelului.",
-                "en": "Located inside the castle complex."
+                "en": "Located inside the castle complex.",
+                "hr": "Smješten unutar kompleksa kaštela."
               }
             },
             {
@@ -440,13 +456,15 @@
                 "de": "Paziner Grube",
                 "hu": "Pazini-barlang (nyelő)",
                 "ro": "Groapa Pazin",
-                "en": "Pazin Abyss"
+                "en": "Pazin Abyss",
+                "hr": "Pazinska jama"
               },
               "tip_5lang": {
                 "de": "Naturphänomen unter dem Kastell.",
                 "hu": "Természeti jelenség a vár alatt.",
                 "ro": "Fenomen natural sub castel.",
-                "en": "A natural phenomenon below the castle."
+                "en": "A natural phenomenon below the castle.",
+                "hr": "Prirodni fenomen ispod kaštela."
               }
             },
             {
@@ -454,13 +472,15 @@
                 "de": "Paziner Brücke",
                 "hu": "Pazini híd",
                 "ro": "Podul Pazin",
-                "en": "Pazin Bridge"
+                "en": "Pazin Bridge",
+                "hr": "Pazinski most"
               },
               "tip_5lang": {
                 "de": "Bester Blick in die Tiefe.",
                 "hu": "A legjobb kilátás a mélységbe.",
                 "ro": "Cea mai bună vedere spre adâncime.",
-                "en": "The best view down into the abyss."
+                "en": "The best view down into the abyss.",
+                "hr": "Najbolji pogled dolje u jamu."
               }
             },
             {
@@ -468,13 +488,15 @@
                 "de": "Franziskanerkloster",
                 "hu": "Ferences kolostor",
                 "ro": "Mănăstirea Franciscană",
-                "en": "Franciscan Monastery"
+                "en": "Franciscan Monastery",
+                "hr": "Franjevački samostan"
               },
               "tip_5lang": {
                 "de": "Ruhiger Kreuzgang und Bibliothek.",
                 "hu": "Csendes keresztfolyosó és könyvtár.",
                 "ro": "Claustru liniștit și bibliotecă.",
-                "en": "Quiet cloister and historic library."
+                "en": "Quiet cloister and historic library.",
+                "hr": "Tihi klaustar i povijesna knjižnica."
               }
             }
           ],
@@ -620,6 +642,12 @@
               "Parking in the city center is often time-limited.",
               "The castle museums are often closed on Mondays.",
               "Wear sturdy shoes for the hiking trail along the abyss."
+            ],
+            "hr": [
+              "Pazinsku jamu moguće je prijeći i ziplineom.",
+              "Parkiranje u centru grada često ima vremensko ograničenje.",
+              "Muzeji u kaštelu često su zatvoreni ponedjeljkom.",
+              "Nosite čvrstu obuću za pješačku stazu uz jamu."
             ]
           }
         },
@@ -629,7 +657,7 @@
             "hu": "A reggel a Szent Miklós-templom védelmező falai között indul, miközben az eső kopog a macskaköveken. Délben a pazini vár és a Néprajzi Múzeum vastag falai nyújtanak tökéletes menedéket, ahol elmélyülhetünk az isztriai kultúrában. Délután a Pazini-szakadék különösen drámai látványt nyújt, ahogy a víz dübörögve zúdul a mélybe. A napot a ferences kolostor csendje zárja, az eső megnyugtató neszével kísérve.",
             "ro": "Dimineața începe sub acoperișul protector al Bisericii Sf. Nicolae, în timp ce ploaia bate în caldarâm. La prânz, zidurile groase ale Castelului Pazin și Muzeul Etnografic oferă adăpostul perfect pentru a explora cultura istriană. După-amiaza, Abisul Pazin devine deosebit de dramatic, cu apele curgând zgomotos spre adâncuri. Ziua se încheie liniștit la Mănăstirea Franciscană, sub sunetul relaxant al ploii.",
             "en": "The morning begins under the protective roof of St. Nicholas Church as rain taps on the cobblestones. At noon, the thick walls of Pazin Castle and the Ethnographic Museum provide perfect shelter for exploring Istrian culture. In the afternoon, the Pazin Abyss is particularly dramatic as water thunders into the depths. The day ends quietly at the Franciscan Monastery, accompanied by the soothing sound of the rain.",
-            "hr": "Jutro počinje pod zaštitnim krovom crkve sv. Nikole dok kiša bubnja po kalsdrmi. U podne, debeli zidovi Pazinskog kaštela i Etnografski muzej pružaju savršeno utočište za istraživanje istarske kulture. Poslijepodne je Pazinska jama posebno dramatična dok voda grmi u dubine. Dan završava mirno u franjevačkom samostanu, uz opuštajući zvuk kiše."
+            "hr": "Jutro započinje pod zaštitnim svodom crkve sv. Nikole dok kiša kuca po kaldrmi. U podne debele zidine Pazinskog kaštela i Etnografski muzej pružaju savršeno sklonište za istraživanje istarske kulture. Poslijepodne Pazinska jama posebno je dramatična dok voda grmi u dubine. Dan završava tiho u franjevačkom samostanu, uz umirujući zvuk kiše."
           },
           "stops": [
             {
@@ -639,7 +667,7 @@
                 "hu": "Használja a boltívet menedékként, amíg a freskókat csodálja.",
                 "ro": "Folosiți portalul ca adăpost în timp ce admirați frescele.",
                 "en": "Use the portal as shelter while admiring the frescoes.",
-                "hr": "Iskoristite portal kao zaklon dok se divite freskama."
+                "hr": "Iskoristite trijem kao sklonište dok divite freskama."
               }
             },
             {
@@ -649,7 +677,7 @@
                 "hu": "Egy gyors fotómegálló esernyő alatt is bőven elegendő.",
                 "ro": "O scurtă oprire pentru poze sub umbrelă este suficientă.",
                 "en": "A quick photo stop under an umbrella is plenty.",
-                "hr": "Kratko fotografiranje pod kišobranom bit će dovoljno."
+                "hr": "Kratka fotografska stanka pod kišobranom sasvim je dovoljna."
               }
             },
             {
@@ -659,7 +687,7 @@
                 "hu": "A belső udvar védett, a belső terek pedig teljesen szárazak.",
                 "ro": "Curtea interioară oferă protecție, iar interiorul este complet uscat.",
                 "en": "The inner courtyard offers protection, and the interiors are dry.",
-                "hr": "Unutarnje dvorište nudi zaštitu, a unutrašnjost je suha."
+                "hr": "Unutarnje dvorište pruža zaštitu, a interijeri su suhi."
               }
             },
             {
@@ -669,7 +697,7 @@
                 "hu": "Ideális hely a legnagyobb felhőszakadás kényelmes kivárására.",
                 "ro": "Locul ideal pentru a aștepta trecerea celei mai puternice ploi.",
                 "en": "Ideal place to comfortably wait out the heaviest downpour.",
-                "hr": "Idealno mjesto za ugodno čekanje da prođe najjači pljusak."
+                "hr": "Idealno mjesto za ugodno čekanje najjače pljuskove."
               }
             },
             {
@@ -679,7 +707,7 @@
                 "hu": "Vigyázat, az ösvények csúszósak! A zárt cipő ma kötelező.",
                 "ro": "Atenție, potecile sunt alunecoase! Încălțămintea solidă este obligatorie.",
                 "en": "Caution, paths are slippery! Solid footwear is a must today.",
-                "hr": "Oprez, staze su skliske! Čvrsta obuća je danas obavezna."
+                "hr": "Upozorenje, putovi su klizavi! Danas je čvrsta obuća obavezna."
               }
             },
             {
@@ -689,7 +717,7 @@
                 "hu": "A híd korlátjától különösen jól látszik a megáradt folyó.",
                 "ro": "De la balustrada podului se vede excelent râul învolburat.",
                 "en": "The rushing river is clearly visible from the bridge railings.",
-                "hr": "Bujna rijeka jasno je vidljiva s ograde mosta."
+                "hr": "Bujna rijeka jasno se vidi s ograda mosta."
               }
             },
             {
@@ -699,7 +727,7 @@
                 "hu": "A kolostori csend tökéletesen illik az esős hangulathoz.",
                 "ro": "Liniștea monahală se potrivește perfect cu atmosfera ploioasă.",
                 "en": "The monastic silence fits perfectly with the rainy mood.",
-                "hr": "Samostanska tišina savršeno se uklapa u kišno raspoloženje."
+                "hr": "Monaška tišina savršeno odgovara kišnom raspoloženju."
               }
             }
           ],
@@ -729,10 +757,10 @@
               "Cafes near the castle offer cozy retreats."
             ],
             "hr": [
-              "Ponesite čvrst kišobran jer u Pazinu može biti vjetrovito.",
-              "Nosite nepromočivu obuću za posjet jami.",
-              "Planirajte vrijeme u muzeju tijekom najjačih pljuskova.",
-              "Kafići u blizini kaštela nude ugodna utočišta."
+              "Ponesite čvrst kišobran, jer može puhati u Pazinu.",
+              "Nosite vodootporne planinarske cipele za posjet jami.",
+              "Rasporedite vrijeme u muzejima tijekom najjačih pljuskova.",
+              "Kafići blizu kaštela nude ugodne oaze."
             ]
           }
         },
@@ -742,7 +770,7 @@
             "hu": "A hűvös reggeli levegőben a Szent Miklós-templom különösen áhítatosnak tűnik. Délben a vár történelmi termeiben melegedhetünk fel, ahol a falak kint tartják a fagyot. A szakadéknál töltött délutánt gyakran misztikus köd lengi be, ami a Jules Verne-emlékműnek is titokzatos aurát kölcsönöz. Mivel a nap korán eltűnik a dombok mögött, a híd az utolsó kilátást nyújtja a szürkületben, mielőtt a ferences kolostorba érünk.",
             "ro": "În aerul răcoros al dimineții, Biserica Sf. Nicolae pare deosebit de solemnă. La prânz, vă puteți încălzi în sălile istorice ale castelului, unde frigul rămâne afară. După-amiaza la abis este adesea marcată de o ceață mistică, oferind monumentului Jules Verne o aură misterioasă. Deoarece soarele apune devreme după dealuri, podul oferă o ultimă panoramă în amurg înainte de a vizita Mănăstirea Franciscană.",
             "en": "In the cool morning air, St. Nicholas Church feels particularly solemn. At noon, warm up in the historical halls of the castle, where the cold stays outside. The afternoon at the abyss is often marked by mystical fog, giving the Jules Verne monument a mysterious aura. As the sun sets early behind the hills, the bridge offers a final view in the twilight before visiting the Franciscan Monastery.",
-            "hr": "U svježem zimskom jutru, crkva sv. Nikole djeluje posebno svečano. U podne se ugrijte u povijesnim dvoranama kaštela, gdje hladnoća ostaje vani. Poslijepodne kod jame često je obilježeno mističnom maglom, što spomeniku Julesu Verneu daje tajanstvenu auru. Dok sunce rano zalazi iza brda, most nudi posljednji pogled u sumrak prije posjeta franjevačkom samostanu."
+            "hr": "U svježem jutarnjem zraku crkva sv. Nikole posebno djeluje svečano. U podne se ugrijte u povijesnim dvoranama kaštela, gdje hladnoća ostaje vani. Poslijepodne je uz jamu često obilježeno tajanstvenom maglom, koja daje spomeniku Julesa Vernea mističan izgled. Kako sunce rano zalazi iza brežuljaka, most nudi posljednji pogled u sumrak prije posjeta franjevačkom samostanu."
           },
           "stops": [
             {
@@ -752,7 +780,7 @@
                 "hu": "Öltözzön rétegesen, a templomban télen elég hűvös van.",
                 "ro": "Îmbrăcați-vă bine, în biserică este destul de frig iarna.",
                 "en": "Dress warmly, as the church is quite cool in winter.",
-                "hr": "Odjenite se toplo jer je u crkvi zimi prilično hladno."
+                "hr": "Odjenite se toplo, jer je crkva zimi prilično hladna."
               }
             },
             {
@@ -772,7 +800,7 @@
                 "hu": "Élvezze a nyugalmat; télen szinte egyedül fedezheti fel a kiállításokat.",
                 "ro": "Bucurați-vă de liniște; iarna aveți expozițiile aproape doar pentru voi.",
                 "en": "Enjoy the quiet; in winter, you'll have the exhibitions almost to yourself.",
-                "hr": "Uživajte u miru; zimi ćete izložbe imati gotovo samo za sebe."
+                "hr": "Uživajte u tišini; zimi ćete izložbe gotovo imati za sebe."
               }
             },
             {
@@ -782,7 +810,7 @@
                 "hu": "Meleg hely, ahol bőven jut idő az isztriai történelem megismerésére.",
                 "ro": "Un loc călduros unde puteți petrece mult timp cu istoria istriană.",
                 "en": "A warm place to spend plenty of time with Istrian history.",
-                "hr": "Toplo mjesto za provođenje vremena uz istarsku povijest."
+                "hr": "Toplo mjesto za provesti puno vremena s istarskom poviješću."
               }
             },
             {
@@ -792,7 +820,7 @@
                 "hu": "Fagy esetén a kilátópontok jegesek lehetnek, óvatosan közlekedjen.",
                 "ro": "În caz de îngheț, punctele de observație pot fi lunecoase, mergeți cu grijă.",
                 "en": "In case of frost, viewpoints may be icy; please walk carefully.",
-                "hr": "U slučaju mraza, vidikovci mogu biti zaleđeni; molimo hodajte oprezno."
+                "hr": "U slučaju mraza vidikovci mogu biti poledjeli; molimo hodajte oprezno."
               }
             },
             {
@@ -812,7 +840,7 @@
                 "hu": "A naplementekori látogatás különleges csendet ad a helynek.",
                 "ro": "Vizita la apus oferă locului o liniște aparte.",
                 "en": "Visiting at sunset lends a special silence to the place.",
-                "hr": "Posjet u zalazak sunca daje mjestu poseban mir."
+                "hr": "Posjet u zalazak sunca daje mjestu posebnu tišinu."
               }
             }
           ],
@@ -843,8 +871,8 @@
             ],
             "hr": [
               "Imajte na umu da sunce zimi zalazi već oko 16:30.",
-              "Odjenite se slojevito jer je u sjeni jame znatno hladnije.",
-              "Mnogi muzeji imaju kraće zimsko radno vrijeme; provjerite unaprijed.",
+              "Nosite slojevitu odjeću, jer je u sjeni ponora značajno hladnije.",
+              "Mnogi muzeji imaju skraćeno zimsko radno vrijeme; provjerite unaprijed.",
               "Topli čaj u lokalnoj konobi ugrijat će vas nakon šetnje."
             ]
           }
@@ -864,7 +892,8 @@
             "de": "Kastell Pazin",
             "hu": "Pazini vár",
             "ro": "Castelul Pazin",
-            "en": "Pazin Castle"
+            "en": "Pazin Castle",
+            "hr": "Pazinski kaštel"
           },
           "coords": [
             13.934,
@@ -880,7 +909,7 @@
             "hu": "Kiindulópont történelmi hangulattal.",
             "ro": "Punct de plecare cu fler istoric.",
             "en": "Starting point with historic flair.",
-            "hr": "Početna točka s povijesnim duhom."
+            "hr": "Polazište s povijesnim štihom."
           }
         },
         {
@@ -888,7 +917,8 @@
             "de": "Paziner Brücke",
             "hu": "Pazini híd",
             "ro": "Podul Pazin",
-            "en": "Pazin Bridge"
+            "en": "Pazin Bridge",
+            "hr": "Pazinski most"
           },
           "coords": [
             13.933,
@@ -904,7 +934,7 @@
             "hu": "Vigyázzon a széllel a hídon.",
             "ro": "Atenție la vânt pe pod.",
             "en": "Be careful with the wind on the bridge.",
-            "hr": "Budite oprezni s vjetrom na mostu."
+            "hr": "Budite oprezni zbog vjetra na mostu."
           }
         },
         {
@@ -912,7 +942,8 @@
             "de": "Franziskanerkloster",
             "hu": "Ferences kolostor",
             "ro": "Mănăstirea Franciscană",
-            "en": "Franciscan Monastery"
+            "en": "Franciscan Monastery",
+            "hr": "Franjevački samostan"
           },
           "coords": [
             13.938,
@@ -928,7 +959,7 @@
             "hu": "Enyhe emelkedő a városi területen.",
             "ro": "Urcare ușoară în zona urbană.",
             "en": "Slight incline within the urban area.",
-            "hr": "Blagi uspon unutar gradskog područja."
+            "hr": "Blagi uspon u gradskom području."
           }
         },
         {
@@ -936,7 +967,8 @@
             "de": "Zarečki krov Wasserfall",
             "hu": "Zarečki krov vízesés",
             "ro": "Cascada Zarečki krov",
-            "en": "Zarečki krov Waterfall"
+            "en": "Zarečki krov Waterfall",
+            "hr": "Vodopad Zarečki krov"
           },
           "coords": [
             13.961,
@@ -952,7 +984,7 @@
             "hu": "Gyönyörű hely a piknikezéshez.",
             "ro": "Loc superb pentru picnic.",
             "en": "Beautiful spot for a picnic by the water.",
-            "hr": "Predivno mjesto za piknik uz vodu."
+            "hr": "Prekrasno mjesto za piknik uz vodu."
           }
         },
         {
@@ -960,7 +992,8 @@
             "de": "Staatsarchiv in Pazin",
             "hu": "Pazini Állami Levéltár",
             "ro": "Arhivele Statului din Pazin",
-            "en": "State Archives in Pazin"
+            "en": "State Archives in Pazin",
+            "hr": "Državni arhiv u Pazinu"
           },
           "coords": [
             13.936,
@@ -976,7 +1009,7 @@
             "hu": "A lenyűgöző egykori gimnáziumban.",
             "ro": "În fostul gimnaziu impresionant.",
             "en": "Located in the impressive former gymnasium.",
-            "hr": "Nalazi se u impresivnoj zgradi bivše gimnazije."
+            "hr": "Smješten u impresivnom bivšem gimnazijskom prostoru."
           }
         }
       ],
@@ -985,7 +1018,7 @@
         "hu": "Fedezze fel Pazint és környékét két keréken. A vár meglátogatása és a szakadékba vetett pillantás után az útvonal a városon keresztül a kolostorhoz vezet.\n\nDélben hagyja el a központot, és tekerjen a Zarečki krov vízeséshez. Az odavezető út tájilag elragadó, a vízesés pedig ideális helyszín egy hosszabb pihenőhöz.\n\nDélután tekerjen vissza a városba, hogy megtekintse a monumentális Állami Levéltár épületét.\n\nEz a túra egyesíti a városi történelmet az isztriai hátország természeti szépségével.",
         "ro": "Explorați Pazin și împrejurimile sale pe două roți. După vizitarea castelului și o privire în abis, traseul trece prin oraș spre mănăstire.\n\nLa prânz, părăsiți centrul pentru o plimbare spre cascada Zarečki krov. Drumul este pitoresc, iar cascada oferă cadrul ideal pentru o pauză prelungită.\n\nDupă-amiaza, pedalați înapoi în oraș pentru a vizita Arhivele Statului monumentale.\n\nAcest tur combină istoria urbană cu frumusețea naturală a interiorului Istriei.",
         "en": "Explore Pazin and its surroundings on two wheels. After visiting the castle and glancing into the abyss, the route leads through town to the monastery.\n\nAt midday, leave the center for a ride to the Zarečki krov waterfall. The path there is scenic, and the waterfall provides an ideal backdrop for an extended break.\n\nIn the afternoon, cycle back to town to visit the monumental State Archives.\n\nThis tour combines urban history with the natural beauty of the Istrian hinterland.",
-        "hr": "Istražite Pazin i njegovu okolicu na dva kotača. Nakon posjeta kaštelu i pogleda u jamu, ruta vodi kroz grad do samostana.\n\nU podne napustite centar i odvezite se do slapa Zarečki krov. Put do tamo je slikovit, a slap pruža idealnu kulisu za duži odmor.\n\nPoslijepodne se vratite biciklom u grad kako biste posjetili monumentalni Državni arhiv.\n\nA ova tura kombinira urbanu povijest s prirodnim ljepotama istarskog zaleđa."
+        "hr": "Istražite Pazin i okolicu na dva kotača. Nakon posjeta kaštelu i pogleda u ponor, ruta vodi kroz grad do samostana.\n\nU podne napustite centar i krenite prema vodopadu Zarečki krov. Staza je slikovita, a vodopad pruža idealnu pozadinu za dužu pauzu.\n\nPoslijepodne se vratite biciklom u grad i posjetite monumentalni Državni arhiv.\n\nOva tura ujedinjuje gradsku povijest s prirodnom ljepotom istarskog zaleđa."
       },
       "gastro_picks": {
         "de": [
@@ -1110,9 +1143,9 @@
           "There are some steep climbs within Pazin."
         ],
         "hr": [
-          "Ruta do slapa dijelom ide po makadamu.",
-          "Ponesite dovoljno vode jer u zaleđu može biti vruće.",
-          "U samom Pazinu ima nekoliko strmih uspona."
+          "Ruta do vodopada djelomično je na šljunku.",
+          "Ponesite dovoljno vode jer može biti vruće u zaleđu.",
+          "U Pazinu ima nekoliko strmih uspona."
         ]
       },
       "variants": {
@@ -1121,7 +1154,8 @@
             "de": "Erkunden Sie Pazin und seine Umgebung auf zwei Rädern. Nach dem Besuch des Kastells und einem Blick in den Abgrund führt die Route durch die Stadt zum Kloster.\n\nMittags verlassen Sie das Zentrum für eine Fahrt zum Zarečki krov Wasserfall. Der Weg dorthin ist landschaftlich reizvoll und der Wasserfall bietet eine ideale Kulisse für eine ausgiebige Pause.\n\nAm Nachmittag radeln Sie zurück in die Stadt, um das monumentale Staatsarchiv zu besichtigen.\n\nDiese Tour verbindet städtische Geschichte mit der natürlichen Schönheit des istrischen Hinterlandes.",
             "hu": "Fedezze fel Pazint és környékét két keréken. A vár meglátogatása és a szakadékba vetett pillantás után az útvonal a városon keresztül a kolostorhoz vezet.\n\nDélben hagyja el a központot, és tekerjen a Zarečki krov vízeséshez. Az odavezető út tájilag elragadó, a vízesés pedig ideális helyszín egy hosszabb pihenőhöz.\n\nDélután tekerjen vissza a városba, hogy megtekintse a monumentális Állami Levéltár épületét.\n\nEz a túra egyesíti a városi történelmet az isztriai hátország természeti szépségével.",
             "ro": "Explorați Pazin și împrejurimile sale pe două roți. După vizitarea castelului și o privire în abis, traseul trece prin oraș spre mănăstire.\n\nLa prânz, părăsiți centrul pentru o plimbare spre cascada Zarečki krov. Drumul este pitoresc, iar cascada oferă cadrul ideal pentru o pauză prelungită.\n\nDupă-amiaza, pedalați înapoi în oraș pentru a vizita Arhivele Statului monumentale.\n\nAcest tur combină istoria urbană cu frumusețea naturală a interiorului Istriei.",
-            "en": "Explore Pazin and its surroundings on two wheels. After visiting the castle and glancing into the abyss, the route leads through town to the monastery.\n\nAt midday, leave the center for a ride to the Zarečki krov waterfall. The path there is scenic, and the waterfall provides an ideal backdrop for an extended break.\n\nIn the afternoon, cycle back to town to visit the monumental State Archives.\n\nThis tour combines urban history with the natural beauty of the Istrian hinterland."
+            "en": "Explore Pazin and its surroundings on two wheels. After visiting the castle and glancing into the abyss, the route leads through town to the monastery.\n\nAt midday, leave the center for a ride to the Zarečki krov waterfall. The path there is scenic, and the waterfall provides an ideal backdrop for an extended break.\n\nIn the afternoon, cycle back to town to visit the monumental State Archives.\n\nThis tour combines urban history with the natural beauty of the Istrian hinterland.",
+            "hr": "Istražite Pazin i okolicu na dva kotača. Nakon posjeta kaštelu i pogleda u ponor, ruta vodi kroz grad do samostana.\n\nU podne napustite centar i krenite prema vodopadu Zarečki krov. Staza je slikovita, a vodopad pruža idealnu pozadinu za dužu pauzu.\n\nPoslijepodne se vratite biciklom u grad i posjetite monumentalni Državni arhiv.\n\nOva tura ujedinjuje gradsku povijest s prirodnom ljepotom istarskog zaleđa."
           },
           "stops": [
             {
@@ -1129,13 +1163,15 @@
                 "de": "Kastell Pazin",
                 "hu": "Pazini vár",
                 "ro": "Castelul Pazin",
-                "en": "Pazin Castle"
+                "en": "Pazin Castle",
+                "hr": "Pazinski kaštel"
               },
               "tip_5lang": {
                 "de": "Startpunkt mit historischem Flair.",
                 "hu": "Kiindulópont történelmi hangulattal.",
                 "ro": "Punct de plecare cu fler istoric.",
-                "en": "Starting point with historic flair."
+                "en": "Starting point with historic flair.",
+                "hr": "Polazište s povijesnim štihom."
               }
             },
             {
@@ -1143,13 +1179,15 @@
                 "de": "Paziner Brücke",
                 "hu": "Pazini híd",
                 "ro": "Podul Pazin",
-                "en": "Pazin Bridge"
+                "en": "Pazin Bridge",
+                "hr": "Pazinski most"
               },
               "tip_5lang": {
                 "de": "Vorsicht bei Wind auf der Brücke.",
                 "hu": "Vigyázzon a széllel a hídon.",
                 "ro": "Atenție la vânt pe pod.",
-                "en": "Be careful with the wind on the bridge."
+                "en": "Be careful with the wind on the bridge.",
+                "hr": "Budite oprezni zbog vjetra na mostu."
               }
             },
             {
@@ -1157,13 +1195,15 @@
                 "de": "Franziskanerkloster",
                 "hu": "Ferences kolostor",
                 "ro": "Mănăstirea Franciscană",
-                "en": "Franciscan Monastery"
+                "en": "Franciscan Monastery",
+                "hr": "Franjevački samostan"
               },
               "tip_5lang": {
                 "de": "Leichte Steigung im Stadtgebiet.",
                 "hu": "Enyhe emelkedő a városi területen.",
                 "ro": "Urcare ușoară în zona urbană.",
-                "en": "Slight incline within the urban area."
+                "en": "Slight incline within the urban area.",
+                "hr": "Blagi uspon u gradskom području."
               }
             },
             {
@@ -1171,13 +1211,15 @@
                 "de": "Zarečki krov Wasserfall",
                 "hu": "Zarečki krov vízesés",
                 "ro": "Cascada Zarečki krov",
-                "en": "Zarečki krov Waterfall"
+                "en": "Zarečki krov Waterfall",
+                "hr": "Vodopad Zarečki krov"
               },
               "tip_5lang": {
                 "de": "Wunderschöner Ort zum Picknicken.",
                 "hu": "Gyönyörű hely a piknikezéshez.",
                 "ro": "Loc superb pentru picnic.",
-                "en": "Beautiful spot for a picnic by the water."
+                "en": "Beautiful spot for a picnic by the water.",
+                "hr": "Prekrasno mjesto za piknik uz vodu."
               }
             },
             {
@@ -1185,13 +1227,15 @@
                 "de": "Staatsarchiv in Pazin",
                 "hu": "Pazini Állami Levéltár",
                 "ro": "Arhivele Statului din Pazin",
-                "en": "State Archives in Pazin"
+                "en": "State Archives in Pazin",
+                "hr": "Državni arhiv u Pazinu"
               },
               "tip_5lang": {
                 "de": "Im beeindruckenden ehemaligen Gymnasium.",
                 "hu": "A lenyűgöző egykori gimnáziumban.",
                 "ro": "În fostul gimnaziu impresionant.",
-                "en": "Located in the impressive former gymnasium."
+                "en": "Located in the impressive former gymnasium.",
+                "hr": "Smješten u impresivnom bivšem gimnazijskom prostoru."
               }
             }
           ],
@@ -1297,6 +1341,11 @@
               "The route to the waterfall is partly on gravel.",
               "Bring enough water as it can get hot in the hinterland.",
               "There are some steep climbs within Pazin."
+            ],
+            "hr": [
+              "Ruta do vodopada djelomično je na šljunku.",
+              "Ponesite dovoljno vode jer može biti vruće u zaleđu.",
+              "U Pazinu ima nekoliko strmih uspona."
             ]
           }
         },
@@ -1306,7 +1355,7 @@
             "hu": "A kaland a várnál kezdődik, ahol a kövek csillognak az esőben. A hídhoz vezető út óvatosságot igényel nedves időben, de kárpótol a tajtékzó patak látványa. Délben a Zarečki krov vízesés hatalmas természeti látványosság, mivel a vízhozam az eső után megnő. A délutánt szárazon, az Állami Levéltárban töltjük, amíg a biciklik a tető alatt várják a visszautat.",
             "ro": "Aventura începe la castel, unde piatra strălucește în ploaie. Drumul spre pod necesită atenție pe carosabil umed, dar răsplătește cu vederea pârâului învolburat. La prânz, cascada Zarečki krov este un spectacol natural grandios, deoarece debitul crește după ploaie. După-amiaza o petreceți la adăpost în Arhivele Statului, în timp ce bicicletele așteaptă sub acoperiș.",
             "en": "The adventure starts at the castle, where the stone glistens in the rain. The ride to the bridge requires caution when wet but rewards with the view of the foaming stream. At noon, the Zarečki krov waterfall is a massive natural spectacle as water volume increases after the rain. Spend the afternoon dry in the State Archives while the bikes wait under cover for the return journey.",
-            "hr": "Avantura počinje kod kaštela, gdje kamen blista na kiši. Vožnja do mosta zahtijeva oprez po mokrom, ali nagrađuje pogledom na zapjenjeni potok. U podne je slap Zarečki krov masivan prirodni spektakl jer se volumen vode povećava nakon kiše. Poslijepodne provedite na suhom u Državnom arhivu dok bicikli čekaju pod natstrešnicom na povratak."
+            "hr": "Avantura počinje u kaštelu, gdje kamen blista na kiši. Vožnja do mosta zahtijeva oprez kada je mokro, ali nagrađuje pogledom na pjenušavu rijeku. U podne je vodopad Zarečki krov impresivno prirodno fenomenu kad se protok vode poveća nakon kiše. Poslijepodne provedite suhi u Državnom arhivu dok bicikli čekaju pod skloništem za povratak."
           },
           "stops": [
             {
@@ -1316,7 +1365,7 @@
                 "hu": "Parkolja le a biciklit a fedett bejárati részen.",
                 "ro": "Parcați bicicleta în zona de intrare acoperită.",
                 "en": "Park your bike in the covered entrance area.",
-                "hr": "Parkirajte bicikl u natkrivenom ulaznom prostoru."
+                "hr": "Ostavite bicikl u natkrivenom ulaznom prostoru."
               }
             },
             {
@@ -1326,7 +1375,7 @@
                 "hu": "Vigyázat a fémkorlátokon és a nedves útburkolati jeleken.",
                 "ro": "Atenție la balustradele metalice și marcajele rutiere umede.",
                 "en": "Caution on the metal railings and wet road markings.",
-                "hr": "Oprez na metalnim ogradama i mokrim oznakama na cesti."
+                "hr": "Pazite na metalne ograde i mokre prometne oznake."
               }
             },
             {
@@ -1346,7 +1395,7 @@
                 "hu": "A talaj sáros, maradjon a rögzített köveken.",
                 "ro": "Terenul este noroios, rămâneți pe pietrele stabile.",
                 "en": "The ground is muddy; stay on the stable rocks.",
-                "hr": "Tlo je blatno; ostanite na stabilnim stijenama."
+                "hr": "Tlo je blato; ostanite na stabilnim stijenama."
               }
             },
             {
@@ -1356,7 +1405,7 @@
                 "hu": "Tökéletes hely a ruházat kicsit kiszárítására.",
                 "ro": "Locul perfect pentru a lăsa hainele să se usuce puțin.",
                 "en": "Perfect place to let your gear dry off a bit.",
-                "hr": "Savršeno mjesto da se vaša oprema malo osuši."
+                "hr": "Savršeno mjesto da se oprema malo osuši."
               }
             }
           ],
@@ -1386,10 +1435,10 @@
               "Check your brakes before descending to the waterfall."
             ],
             "hr": [
-              "Blatobrani su danas neophodni na istarskim cestama.",
-              "Izbjegavajte naglo kočenje na mokrom 'pazinskom kamenu'.",
-              "Dobra kabanica štiti od hladnog vjetra tijekom vožnje.",
-              "Provjerite kočnice prije spuštanja prema slapu."
+              "Blatobrani su danas nužni na istarskim cestama.",
+              "Izbjegavajte naglo kočenje na mokrom „pazinskom kamenu”.",
+              "Dobar kabanica drži hladan vjetar podalje tijekom vožnje.",
+              "Provjerite kočnice prije spusta prema vodopadu."
             ]
           }
         },
@@ -1399,7 +1448,7 @@
             "hu": "A téli túra frissen indul a várnál, ahol a tiszta levegő messzi kilátást enged. A hídi megálló után az út a kolostorhoz vezet, melynek falai ragyognak a téli fényben. A Zarečki krov vízesés gyakran vad arcát mutatja, talán már jégcsapokkal a sziklákon. A zárást az Állami Levéltár látogatása jelenti, ahol újra felmelegedhetünk az utolsó szakasz előtt.",
             "ro": "Turul de iarnă începe cu prospețime la castel, unde aerul curat oferă vizibilitate mare. După o oprire la pod, drumul duce la mănăstire, ale cărei ziduri strălucesc în lumina iernii. Cascada Zarečki krov își arată adesea latura sălbatică, poate chiar cu primele margini de gheață pe stânci. Finalul este marcat de vizita la Arhivele Statului, unde vă puteți reîncălzi.",
             "en": "The winter tour starts fresh at the castle, where the clear air offers wide views. After a stop at the bridge, the path leads to the monastery, whose walls shine brightly in the winter light. The Zarečki krov waterfall often shows its wild side, perhaps even with the first icy edges on the rocks. The tour concludes with a visit to the State Archives, where you can warm up before the final leg.",
-            "hr": "Zimska tura počinje svježe kod kaštela, gdje čisti zrak nudi široke vidike. Nakon zaustavljanja na mostu, put vodi do samostana čiji zidovi jarko sjaje na zimskom svjetlu. Slap Zarečki krov često pokazuje svoju divlju stranu, možda čak i s prvim zaleđenim rubovima na stijenama. Tura završava posjetom Državnom arhivu, gdje se možete ugrijati prije posljednje dionice."
+            "hr": "Zimska tura počinje svježe u kaštelu, gdje čist zrak nudi široke vidike. Nakon stajanja na mostu, put vodi do samostana čiji zidovi u zimskom svjetlu sjaje. Vodopad Zarečki krov često pokazuje svoju divlju stranu, možda čak i s prvim zaleđenim rubovima na stijenama. Tura završava posjetom Državnom arhivu, gdje se možete ugrijati prije posljednje etape."
           },
           "stops": [
             {
@@ -1409,7 +1458,7 @@
                 "hu": "Csak napfelkelte után induljon, amikor a zúzmara már eltűnt az utakról.",
                 "ro": "Porniți abia după răsărit, când chiciura a dispărut de pe drumuri.",
                 "en": "Start only after sunrise when the frost has cleared from the roads.",
-                "hr": "Krenite tek nakon izlaska sunca kada nestane mraz s cesta."
+                "hr": "Krenite tek nakon izlaska sunca kada je mraz nestao s cesta."
               }
             },
             {
@@ -1419,7 +1468,7 @@
                 "hu": "A szakadékban fújó szél itt különösen metsző lehet.",
                 "ro": "Vântul din prăpastie poate fi tăios aici.",
                 "en": "The wind in the abyss can be particularly biting here.",
-                "hr": "Vjetar u ponoru ovdje može biti posebno oštar."
+                "hr": "Vjetar u ponoru ovdje može biti osobito oštar."
               }
             },
             {
@@ -1429,7 +1478,7 @@
                 "hu": "Szélvédett hely egy rövid energiaszelet-szünethez.",
                 "ro": "Un loc ferit pentru o scurtă pauză de gustare.",
                 "en": "A sheltered spot for a quick snack break.",
-                "hr": "Zaklonjeno mjesto za brzu pauzu uz međuobrok."
+                "hr": "Zaštićeno mjesto za brzi zalogaj."
               }
             },
             {
@@ -1439,7 +1488,7 @@
                 "hu": "A sziklák rendkívül csúszósak lehetnek, vigyázzon a leszállásnál.",
                 "ro": "Stâncile pot fi extrem de alunecoase, atenție la descălecare.",
                 "en": "The rocks can be extremely slippery; be careful when dismounting.",
-                "hr": "Stijene mogu biti izuzetno skliske; budite oprezni pri silasku."
+                "hr": "Stijene mogu biti izuzetno klizave; budite oprezni pri silasku s bicikla."
               }
             },
             {
@@ -1479,10 +1528,10 @@
               "Humidity at the waterfall makes it feel colder than it is."
             ],
             "hr": [
-              "Zimske rukavice i navlake za cipele su obavezne za ovu turu.",
+              "Zimske rukavice i navlake za cipele obavezni su za ovu turu.",
               "Pazite na mraz u sjenovitim kutovima oko Pazina.",
-              "Dan rano završava; ponesite potpuno napunjena svjetla.",
-              "Vlaga kod slapa čini subjektivni osjećaj hladnoće većim."
+              "Dnevna svjetlost završava rano; ponesite potpuno napunjene svjetiljke.",
+              "Vlaga kod vodopada čini da je osjet hladnoće veći nego što jest."
             ]
           }
         }
@@ -1501,7 +1550,8 @@
             "de": "Kastell Pazin",
             "hu": "Pazini vár",
             "ro": "Castelul Pazin",
-            "en": "Pazin Castle"
+            "en": "Pazin Castle",
+            "hr": "Pazinski kaštel"
           },
           "coords": [
             13.934,
@@ -1525,7 +1575,8 @@
             "de": "Paziner Grube",
             "hu": "Pazini-barlang",
             "ro": "Groapa Pazin",
-            "en": "Pazin Abyss"
+            "en": "Pazin Abyss",
+            "hr": "Pazinski ponor"
           },
           "coords": [
             13.9335,
@@ -1549,7 +1600,8 @@
             "de": "Staatsarchiv in Pazin",
             "hu": "Pazini Állami Levéltár",
             "ro": "Arhivele Statului din Pazin",
-            "en": "State Archives in Pazin"
+            "en": "State Archives in Pazin",
+            "hr": "Državni arhiv u Pazinu"
           },
           "coords": [
             13.936,
@@ -1565,7 +1617,7 @@
             "hu": "A város építészeti fénypontja.",
             "ro": "Punctul culminant arhitectural al orașului.",
             "en": "Architectural highlight of the town.",
-            "hr": "Arhitektonski dragulj grada."
+            "hr": "Arhitektonski vrhunac grada."
           }
         },
         {
@@ -1573,7 +1625,8 @@
             "de": "Franziskanerkloster",
             "hu": "Ferences kolostor",
             "ro": "Mănăstirea Franciscană",
-            "en": "Franciscan Monastery"
+            "en": "Franciscan Monastery",
+            "hr": "Franjevački samostan"
           },
           "coords": [
             13.938,
@@ -1589,7 +1642,7 @@
             "hu": "Parkolás közvetlenül a kolostor előtt lehetséges.",
             "ro": "Parcare posibilă chiar în fața mănăstirii.",
             "en": "Parking possible directly in front of the monastery.",
-            "hr": "Parkiranje moguće izravno ispred samostana."
+            "hr": "Moguće parkiranje neposredno ispred samostana."
           }
         },
         {
@@ -1597,7 +1650,8 @@
             "de": "Zarečki krov Wasserfall",
             "hu": "Zarečki krov vízesés",
             "ro": "Cascada Zarečki krov",
-            "en": "Zarečki krov Waterfall"
+            "en": "Zarečki krov Waterfall",
+            "hr": "Vodopad Zarečki krov"
           },
           "coords": [
             13.961,
@@ -1613,7 +1667,7 @@
             "hu": "Megközelítés keskeny úton.",
             "ro": "Acces printr-un drum îngust.",
             "en": "Access via a narrow road.",
-            "hr": "Pristup putem uske ceste."
+            "hr": "Pristup uskom cestom."
           }
         }
       ],
@@ -1622,7 +1676,7 @@
         "hu": "Használja az autót, hogy Pazin történelmi központját és természeti csodáit egyaránt megtapasztalja. Kezdjen a várnál és a lenyűgöző szakadéknál.\n\nDélben látogassa meg a monumentális Állami Levéltárat és a csendes ferences kolostort, amelyek mindketten jól megközelíthetők járművel.\n\nA délután fénypontja a Zarečki krov vízeséshez vezető út, amely egy rejtett paradicsom a város közelében.\n\nEz az útvonal maximális kényelmet nyújt, és bemutatja a régió sokszínűségét.",
         "ro": "Utilizați mașina pentru a experimenta atât centrul istoric, cât și minunile naturale din Pazin. Începeți la castel și la impresionantul abis.\n\nLa prânz, vizitați Arhivele Statului monumentale și mănăstirea franciscană liniștită, ambele fiind ușor accesibile cu vehiculul.\n\nPunctul culminant al după-amiezii este drumul spre cascada Zarečki krov, un paradis ascuns nu departe de oraș.\n\nAcest traseu oferă confort maxim și arată diversitatea regiunii.",
         "en": "Use your car to experience both the historic center and the natural wonders of Pazin. Start at the castle and the impressive abyss.\n\nAt midday, visit the monumental State Archives and the quiet Franciscan monastery, both easily reachable by vehicle.\n\nThe highlight of the afternoon is the drive to the Zarečki krov waterfall, a hidden paradise not far from the city.\n\nThis route offers maximum comfort and shows the region's diversity.",
-        "hr": "Koristite automobil kako biste doživjeli i povijesni centar i prirodna čuda Pazina. Počnite kod kaštela i impresivne jame.\n\nU podne posjetite monumentalni Državni arhiv i tihi franjevački samostan, oba lako dostupna vozilom.\n\nRhunac poslijepodneva je vožnja do slapa Zarečki krov, skrivenog raja nedaleko od grada.\n\nOva ruta nudi maksimalnu udobnost i pokazuje raznolikost regije."
+        "hr": "Iskoristite automobil za iskustvo i povijesne jezgre i prirodnih ljepota Pazina. Počnite kod kaštela i impresivnog ponora.\n\nU podne posjetite monumentalni Državni arhiv i mirni franjevački samostan, oba lako dostupna vozilom.\n\nVrhunac poslijepodneva je vožnja do vodopada Zarečki krov, skrivenog raja nedaleko od grada.\n\nOva ruta nudi maksimalnu udobnost i pokazuje raznolikost regije."
       },
       "gastro_picks": {
         "de": [
@@ -1747,9 +1801,9 @@
           "Combine your visit with a trip to nearby Beram (5 km)."
         ],
         "hr": [
-          "Jutarnje parkiranje u Pazinu može biti otežano.",
-          "Cesta do slapa je uska, vozite oprezno.",
-          "Kombinirajte posjet s izletom u obližnji Beram (5 km)."
+          "Jutarnje parkiranje u Pazinu može biti teško.",
+          "Cesta do vodopada je uska, vozite oprezno.",
+          "Kombinirajte posjet s izletom do obližnjeg Berama (5 km)."
         ]
       },
       "variants": {
@@ -1758,7 +1812,8 @@
             "de": "Nutzen Sie das Auto, um sowohl das historische Zentrum als auch die Naturwunder von Pazin zu erleben. Starten Sie beim Kastell und dem beeindruckenden Abgrund.\n\nMittags besuchen Sie das monumentale Staatsarchiv und das ruhige Franziskanerkloster, die beide gut mit dem Fahrzeug erreichbar sind.\n\nDer Höhepunkt des Nachmittags ist die Fahrt zum Zarečki krov Wasserfall, einem versteckten Paradies unweit der Stadt.\n\nDiese Route bietet maximalen Komfort und zeigt die Vielfalt der Region.",
             "hu": "Használja az autót, hogy Pazin történelmi központját és természeti csodáit egyaránt megtapasztalja. Kezdjen a várnál és a lenyűgöző szakadéknál.\n\nDélben látogassa meg a monumentális Állami Levéltárat és a csendes ferences kolostort, amelyek mindketten jól megközelíthetők járművel.\n\nA délután fénypontja a Zarečki krov vízeséshez vezető út, amely egy rejtett paradicsom a város közelében.\n\nEz az útvonal maximális kényelmet nyújt, és bemutatja a régió sokszínűségét.",
             "ro": "Utilizați mașina pentru a experimenta atât centrul istoric, cât și minunile naturale din Pazin. Începeți la castel și la impresionantul abis.\n\nLa prânz, vizitați Arhivele Statului monumentale și mănăstirea franciscană liniștită, ambele fiind ușor accesibile cu vehiculul.\n\nPunctul culminant al după-amiezii este drumul spre cascada Zarečki krov, un paradis ascuns nu departe de oraș.\n\nAcest traseu oferă confort maxim și arată diversitatea regiunii.",
-            "en": "Use your car to experience both the historic center and the natural wonders of Pazin. Start at the castle and the impressive abyss.\n\nAt midday, visit the monumental State Archives and the quiet Franciscan monastery, both easily reachable by vehicle.\n\nThe highlight of the afternoon is the drive to the Zarečki krov waterfall, a hidden paradise not far from the city.\n\nThis route offers maximum comfort and shows the region's diversity."
+            "en": "Use your car to experience both the historic center and the natural wonders of Pazin. Start at the castle and the impressive abyss.\n\nAt midday, visit the monumental State Archives and the quiet Franciscan monastery, both easily reachable by vehicle.\n\nThe highlight of the afternoon is the drive to the Zarečki krov waterfall, a hidden paradise not far from the city.\n\nThis route offers maximum comfort and shows the region's diversity.",
+            "hr": "Iskoristite automobil za iskustvo i povijesne jezgre i prirodnih ljepota Pazina. Počnite kod kaštela i impresivnog ponora.\n\nU podne posjetite monumentalni Državni arhiv i mirni franjevački samostan, oba lako dostupna vozilom.\n\nVrhunac poslijepodneva je vožnja do vodopada Zarečki krov, skrivenog raja nedaleko od grada.\n\nOva ruta nudi maksimalnu udobnost i pokazuje raznolikost regije."
           },
           "stops": [
             {
@@ -1766,13 +1821,15 @@
                 "de": "Kastell Pazin",
                 "hu": "Pazini vár",
                 "ro": "Castelul Pazin",
-                "en": "Pazin Castle"
+                "en": "Pazin Castle",
+                "hr": "Pazinski kaštel"
               },
               "tip_5lang": {
                 "de": "Großer Parkplatz in der Nähe.",
                 "hu": "Nagy parkoló a közelben.",
                 "ro": "Parcare mare în apropiere.",
-                "en": "Large parking lot nearby."
+                "en": "Large parking lot nearby.",
+                "hr": "Veliko parkiralište u blizini."
               }
             },
             {
@@ -1780,13 +1837,15 @@
                 "de": "Paziner Grube",
                 "hu": "Pazini-barlang",
                 "ro": "Groapa Pazin",
-                "en": "Pazin Abyss"
+                "en": "Pazin Abyss",
+                "hr": "Pazinski ponor"
               },
               "tip_5lang": {
                 "de": "Aussichtspunkte sind gut beschildert.",
                 "hu": "A kilátópontok jól ki vannak táblázva.",
                 "ro": "Punctele de belvedere sunt bine semnalizate.",
-                "en": "Viewpoints are well signposted."
+                "en": "Viewpoints are well signposted.",
+                "hr": "Vidikovci su dobro označeni."
               }
             },
             {
@@ -1794,13 +1853,15 @@
                 "de": "Staatsarchiv in Pazin",
                 "hu": "Pazini Állami Levéltár",
                 "ro": "Arhivele Statului din Pazin",
-                "en": "State Archives in Pazin"
+                "en": "State Archives in Pazin",
+                "hr": "Državni arhiv u Pazinu"
               },
               "tip_5lang": {
                 "de": "Architektonisches Highlight der Stadt.",
                 "hu": "A város építészeti fénypontja.",
                 "ro": "Punctul culminant arhitectural al orașului.",
-                "en": "Architectural highlight of the town."
+                "en": "Architectural highlight of the town.",
+                "hr": "Arhitektonski vrhunac grada."
               }
             },
             {
@@ -1808,13 +1869,15 @@
                 "de": "Franziskanerkloster",
                 "hu": "Ferences kolostor",
                 "ro": "Mănăstirea Franciscană",
-                "en": "Franciscan Monastery"
+                "en": "Franciscan Monastery",
+                "hr": "Franjevački samostan"
               },
               "tip_5lang": {
                 "de": "Parken direkt vor dem Kloster möglich.",
                 "hu": "Parkolás közvetlenül a kolostor előtt lehetséges.",
                 "ro": "Parcare posibilă chiar în fața mănăstirii.",
-                "en": "Parking possible directly in front of the monastery."
+                "en": "Parking possible directly in front of the monastery.",
+                "hr": "Moguće parkiranje neposredno ispred samostana."
               }
             },
             {
@@ -1822,13 +1885,15 @@
                 "de": "Zarečki krov Wasserfall",
                 "hu": "Zarečki krov vízesés",
                 "ro": "Cascada Zarečki krov",
-                "en": "Zarečki krov Waterfall"
+                "en": "Zarečki krov Waterfall",
+                "hr": "Vodopad Zarečki krov"
               },
               "tip_5lang": {
                 "de": "Zufahrt über eine schmale Straße.",
                 "hu": "Megközelítés keskeny úton.",
                 "ro": "Acces printr-un drum îngust.",
-                "en": "Access via a narrow road."
+                "en": "Access via a narrow road.",
+                "hr": "Pristup uskom cestom."
               }
             }
           ],
@@ -1934,6 +1999,11 @@
               "Morning parking in Pazin can be difficult.",
               "The road to the waterfall is narrow, drive carefully.",
               "Combine your visit with a trip to nearby Beram (5 km)."
+            ],
+            "hr": [
+              "Jutarnje parkiranje u Pazinu može biti teško.",
+              "Cesta do vodopada je uska, vozite oprezno.",
+              "Kombinirajte posjet s izletom do obližnjeg Berama (5 km)."
             ]
           }
         },
@@ -1943,7 +2013,7 @@
             "hu": "Az autónak köszönhetően szárazon maradhatunk a látnivalók között. A vár délelőtt kulturális élményt nyújt anélkül, hogy megáznánk. A szakadékhoz és a vízeséshez vezető út megmutatja a víz erejét; közelről tapasztalhatjuk meg a természetet, majd gyorsan visszatérhetünk a meleg autóba. Az Állami Levéltár látogatása informatív módon zárja az esős napot.",
             "ro": "Datorită mașinii, rămâneți uscați între obiective. Castelul oferă o experiență culturală matinală fără a vă uda. Drumul spre abis și cascadă arată forța apei; experimentați natura de aproape, apoi vă puteți retrage rapid în vehiculul cald. O vizită la Arhivele Statului încheie ziua ploioasă într-un mod informativ.",
             "en": "Thanks to the car, you stay dry between the sights. The castle offers a cultural highlight in the morning without getting wet. The drive to the abyss and the waterfall shows the power of water; experience nature up close and then quickly warm up again in your vehicle. A visit to the State Archives rounds off the rainy day informatively.",
-            "hr": "Zahvaljujući automobilu, ostajete suhi između znamenitosti. Kaštel nudi kulturni vrhunac ujutro bez močenja. Vožnja do jame i slapa pokazuje snagu vode; doživite prirodu izbliza i zatim se brzo ponovno ugrijte u svom vozilu. Posjet Državnom arhivu informativno zaokružuje kišni dan."
+            "hr": "Zahvaljujući automobilu ostajete suhi između atrakcija. Kaštel nudi kulturni vrhunac ujutro bez da se smočite. Vožnja do ponora i vodopada pokazuje snagu vode; doživite prirodu izbliza i brzo se ponovno ugrijte u vozilu. Posjet Državnom arhivu informativno zaokružuje kišni dan."
           },
           "stops": [
             {
@@ -1953,7 +2023,7 @@
                 "hu": "Parkoljon a közeli parkolóban, hogy minimalizálja a gyaloglást.",
                 "ro": "Parcați în parcarea apropiată pentru a minimiza mersul pe jos.",
                 "en": "Park in the nearby lot to minimize the walk.",
-                "hr": "Parkirajte na obližnjem parkingu kako biste smanjili hodanje."
+                "hr": "Parkirajte na obližnjem parkiralištu kako biste smanjili pješačenje."
               }
             },
             {
@@ -1963,7 +2033,7 @@
                 "hu": "Az út menti kilátópont esőben is ideális.",
                 "ro": "Punctul de observație de lângă drum este ideal pe ploaie.",
                 "en": "The viewpoint right by the road is ideal in the rain.",
-                "hr": "Vidikovac uz samu cestu idealan je po kiši."
+                "hr": "Vidikovac tik uz cestu idealan je za kišu."
               }
             },
             {
@@ -1973,7 +2043,7 @@
                 "hu": "Egyszerű parkolás közvetlenül az impozáns épület előtt.",
                 "ro": "Parcare ușoară chiar în fața clădirii impunătoare.",
                 "en": "Easy parking directly in front of the imposing building.",
-                "hr": "Jednostavno parkiranje izravno ispred impresivne zgrade."
+                "hr": "Lako parkiranje neposredno ispred impozantne zgrade."
               }
             },
             {
@@ -2023,10 +2093,10 @@
               "Visibility in the abyss can be limited during heavy rain."
             ],
             "hr": [
-              "Pazite na aquaplaning na cesti prema Pazinu.",
-              "Držite ručnik u autu kako biste obrisali mokre jakne.",
+              "Pazite na akvaplaning na cesti prema Pazinu.",
+              "Držite ručnik u autu za sušenje mokrih jakni.",
               "Koristite parkirna mjesta u neposrednoj blizini ulaza.",
-              "Vidljivost u jami može biti ograničena tijekom jake kiše."
+              "Vidljivost u ponoru može biti ograničena za jake kiše."
             ]
           }
         },
@@ -2036,7 +2106,7 @@
             "hu": "A téli autózás Pazinban a várnál kezdődik, ahol a nyári tömeg nélkül élvezhetjük a történelmet. A szakadékba való letekintést télen gyakran drámai köd kíséri, amit a meleg autóból is megfigyelhetünk. Délben az Állami Levéltár és a kolostor nyújt meleg, kulturális menedéket. Zárásként az út a Zarečki krov vízeséshez vezet, amely ragyog a téli napsütésben.",
             "ro": "Călătoria de iarnă prin Pazin începe la castel, unde vă bucurați de istorie fără aglomerația de vară. Privirea spre abis este adesea însoțită iarna de o ceață dramatică, ce poate fi observată din interiorul cald al mașinii. La prânz, Arhivele Statului și mănăstirea oferă refugii culturale calde. La final, drumul duce spre cascada Zarečki krov, care strălucește în soarele de iarnă.",
             "en": "The winter drive through Pazin starts at the castle, where you can enjoy history without the summer crowds. The view into the abyss is often accompanied by dramatic fog in winter, which can be observed from the warm car interior. At noon, the State Archives and the monastery offer warm cultural retreats. Finally, the drive leads to the Zarečki krov waterfall, glistening in the winter sun.",
-            "hr": "Zimska vožnja kroz Pazin počinje kod kaštela, gdje možete uživati u povijesti bez ljetnih gužvi. Pogled u jamu zimi često prati dramatična magla, što se može promatrati iz tople unutrašnjosti automobila. U podne, Državni arhiv i samostan nude topla kulturna utočišta. Na kraju, vožnja vodi do slapa Zarečki krov koji blista na zimskom suncu."
+            "hr": "Zimska vožnja kroz Pazin počinje na dvorcu, gdje možete uživati u povijesti bez ljetnih gužvi. Pogled u ponor zimi je često praćen dramatičnom maglom, koju možete promatrati iz toplog unutrašnjeg prostora automobila. U podne Državni arhiv i samostan nude tople kulturne utočišta. Na kraju vožnja vodi do vodopada Zarečki krov, koji se u zimskom suncu presijava."
           },
           "stops": [
             {
@@ -2046,7 +2116,7 @@
                 "hu": "Élvezze a múzeumi rész működő fűtését.",
                 "ro": "Bucurați-vă de încălzirea funcțională din zona muzeului.",
                 "en": "Enjoy the functioning heating in the museum area.",
-                "hr": "Uživajte u funkcionalnom grijanju u muzejskom prostoru."
+                "hr": "Uživajte u ispravnom grijanju u muzejskoj zoni."
               }
             },
             {
@@ -2056,7 +2126,7 @@
                 "hu": "A parkoló csúszós lehet, ügyeljen a jégre kiszálláskor.",
                 "ro": "Parcarea poate fi lunecoasă, atenție la gheață când coborâți.",
                 "en": "The parking lot can be slippery; watch for ice when getting out.",
-                "hr": "Parkiralište može biti sklisko; pazite na led pri izlasku."
+                "hr": "Parkiralište može biti sklizko; pazite na led prilikom izlaska."
               }
             },
             {
@@ -2066,7 +2136,7 @@
                 "hu": "Egy rövid megálló a melegben tökéletes a déli pihenőhöz.",
                 "ro": "O scurtă oprire la căldură este perfectă pentru pauza de prânz.",
                 "en": "A short stop in the warmth is perfect for a midday break.",
-                "hr": "Kratko stajanje na toplom savršeno je za podnevnu pauzu."
+                "hr": "Kratka stanka u toplom savršena je za dnevni odmor."
               }
             },
             {
@@ -2076,7 +2146,7 @@
                 "hu": "A téli fényben fürdő esti nyugalom itt különösen érezhető.",
                 "ro": "Liniștea serii în lumina iernii este deosebit de resimțită aici.",
                 "en": "The evening peace in the winter light is especially palpable here.",
-                "hr": "Večernji mir na zimskom svjetlu ovdje je posebno opipljiv."
+                "hr": "Večerni mir u zimskom svjetlu ovdje je posebno opipljiv."
               }
             },
             {
@@ -2086,7 +2156,7 @@
                 "hu": "Maradjon a kijelölt utakon, hogy elkerülje a sarat.",
                 "ro": "Rămâneți pe drumurile amenajate pentru a evita noroiul.",
                 "en": "Stay on the paved paths to avoid mud.",
-                "hr": "Ostanite na asfaltiranim stazama kako biste izbjegli blato."
+                "hr": "Ostanite na asfaltiranim stazama da izbjegnete blato."
               }
             }
           ],
@@ -2116,10 +2186,10 @@
               "The car heater provides the necessary regeneration between stops."
             ],
             "hr": [
-              "Zimske gume su preporučljive u ovom dijelu Istre od studenog.",
-              "Provjerite antifriz u tekućini za pranje stakla.",
-              "Pazite na džepove magle u udolinama oko Pazina.",
-              "Grijanje u autu pruža potrebnu regeneraciju između postaja."
+              "Zimske gume su preporučljive u ovom dijelu Istre od studenog nadalje.",
+              "Provjerite antifriz u tekućini za pranje vjetrobrana.",
+              "Pazite na maglene gomile u udolinama oko Pazina.",
+              "Grijač u autu osigurava potrebnu regeneraciju između stajanja."
             ]
           }
         }
@@ -2138,7 +2208,8 @@
             "de": "Kastell Pazin",
             "hu": "Pazini vár",
             "ro": "Castelul Pazin",
-            "en": "Pazin Castle"
+            "en": "Pazin Castle",
+            "hr": "Pazinski kaštel"
           },
           "coords": [
             13.934,
@@ -2154,7 +2225,7 @@
             "hu": "A vasútállomástól kb. 15 perc gyalog.",
             "ro": "La aproximativ 15 minute de mers pe jos de la gară.",
             "en": "About a 15-minute walk from the station.",
-            "hr": "Oko 15 minuta hoda od kolodvora."
+            "hr": "Otprilike 15 minuta hoda od kolodvora."
           }
         },
         {
@@ -2162,7 +2233,8 @@
             "de": "Paziner Grube",
             "hu": "Pazini-barlang",
             "ro": "Groapa Pazin",
-            "en": "Pazin Abyss"
+            "en": "Pazin Abyss",
+            "hr": "Pazinski ponor"
           },
           "coords": [
             13.9335,
@@ -2178,7 +2250,7 @@
             "hu": "Közvetlenül a vár mellett.",
             "ro": "Chiar lângă castel.",
             "en": "Located right next to the castle.",
-            "hr": "Nalazi se odmah do kaštela."
+            "hr": "Smješten odmah uz dvorac."
           }
         },
         {
@@ -2186,7 +2258,8 @@
             "de": "Pfarrkirche des Heiligen Nikolaus",
             "hu": "Szent Miklós-templom",
             "ro": "Biserica Sf. Nicolae",
-            "en": "Church of St. Nicholas"
+            "en": "Church of St. Nicholas",
+            "hr": "Crkva sv. Nikole"
           },
           "coords": [
             13.937,
@@ -2202,7 +2275,7 @@
             "hu": "Központban található.",
             "ro": "Situată central în oraș.",
             "en": "Centrally located in the town.",
-            "hr": "Središnji položaj u gradu."
+            "hr": "Središnje smještena u gradu."
           }
         },
         {
@@ -2210,7 +2283,8 @@
             "de": "Staatsarchiv in Pazin",
             "hu": "Pazini Állami Levéltár",
             "ro": "Arhivele Statului din Pazin",
-            "en": "State Archives in Pazin"
+            "en": "State Archives in Pazin",
+            "hr": "Državni arhiv u Pazinu"
           },
           "coords": [
             13.936,
@@ -2234,7 +2308,8 @@
             "de": "Franziskanerkloster",
             "hu": "Ferences kolostor",
             "ro": "Mănăstirea Franciscană",
-            "en": "Franciscan Monastery"
+            "en": "Franciscan Monastery",
+            "hr": "Franjevački samostan"
           },
           "coords": [
             13.938,
@@ -2259,7 +2334,7 @@
         "hu": "Pazin Isztria fontos közlekedési csomópontja. Kezdje a napot a várnál, amely kényelmesen elérhető a vasútállomástól.\n\nDélben fedezze fel a Pazini-barlangot és a Szent Miklós-templomot a központban. Minden jól megközelíthető gyalogosan.\n\nA délután az Állami Levéltáré és a ferences kolostoré, mielőtt folytatná útját busszal vagy vonattal.\n\nIdeális túra az isztriai vasutat vagy buszokat használó utazók számára.",
         "ro": "Pazin este un nod de transport important în Istria. Începeți ziua la castel, care este ușor accesibil de la gară.\n\nLa prânz, explorați Groapa Pazin și biserica Sf. Nicolae din centru. Totul este ușor accesibil pe jos.\n\nDupă-amiaza este dedicată Arhivelor Statului și mănăstirii franciscane, înainte de a continua călătoria cu autobuzul sau trenul.\n\nUn tur ideal pentru călătorii care folosesc trenurile sau autobuzele istriene.",
         "en": "Pazin is an important transport hub in Istria. Start your day at the castle, which is easily accessible from the train station.\n\nAt midday, explore the Pazin Abyss and St. Nicholas Church in the center. Everything is within walking distance.\n\nSpend the afternoon at the State Archives and the Franciscan monastery before continuing your journey by bus or train.\n\nAn ideal tour for travelers using Istrian rail or bus services.",
-        "hr": "Pazin je važno prometno čvorište u Istri. Započnite dan kod kaštela, koji je lako dostupan s željezničkog kolodvora.\n\nU podne istražite Pazinsku jamu i crkvu sv. Nikole u centru. Sve je unutar pješačke udaljenosti.\n\nProvedite poslijepodne u Državnom arhivu i franjevačkom samostanu prije nego nastavite putovanje autobusom ili vlakom.\n\nIdealna tura za putnike koji koriste istarski vlak ili autobusne linije."
+        "hr": "Pazin je važno prometno čvorište u Istri. Započnite dan na dvorcu, koji je lako dostupan iz željezničke stanice.\n\nU podne istražite Pazinski ponor i crkvu sv. Nikole u centru. Sve je na pješačkoj udaljenosti.\n\nPopodne provedite u Državnom arhivu i franjevačkom samostanu prije nego nastavite put autobusom ili vlakom.\n\nIdealna tura za putnike koji koriste istarske željeznice ili autobusne linije."
       },
       "gastro_picks": {
         "de": [
@@ -2384,9 +2459,9 @@
           "Use the Croatian Railways (HŽ) app for real-time information."
         ],
         "hr": [
-          "Željeznički kolodvor Pazin nalazi se nešto iznad grada.",
-          "Provjerite veze vlakom jer nisu jako česte.",
-          "Koristite aplikaciju Hrvatskih željeznica (HŽ) za informacije u stvarnom vremenu."
+          "Željeznička stanica Pazin nalazi se nešto iznad grada.",
+          "Provjerite povezanost vlakova jer nisu vrlo česti.",
+          "Koristite aplikaciju Hrvatske željeznice (HŽ) za informacije u stvarnom vremenu."
         ]
       },
       "variants": {
@@ -2395,7 +2470,8 @@
             "de": "Pazin ist ein wichtiger Verkehrsknotenpunkt in Istrien. Beginnen Sie Ihren Tag beim Kastell, das Sie bequem vom Bahnhof erreichen können.\n\nMittags erkunden Sie die Paziner Grube und die Nikolauskirche im Zentrum. Alles ist gut zu Fuß erreichbar.\n\nDer Nachmittag widmet sich dem Staatsarchiv und dem Franziskanerkloster, bevor Sie Ihre Reise mit dem Bus oder Zug fortsetzen.\n\nEine ideale Tour für Reisende, die die istrische Bahn oder Busse nutzen.",
             "hu": "Pazin Isztria fontos közlekedési csomópontja. Kezdje a napot a várnál, amely kényelmesen elérhető a vasútállomástól.\n\nDélben fedezze fel a Pazini-barlangot és a Szent Miklós-templomot a központban. Minden jól megközelíthető gyalogosan.\n\nA délután az Állami Levéltáré és a ferences kolostoré, mielőtt folytatná útját busszal vagy vonattal.\n\nIdeális túra az isztriai vasutat vagy buszokat használó utazók számára.",
             "ro": "Pazin este un nod de transport important în Istria. Începeți ziua la castel, care este ușor accesibil de la gară.\n\nLa prânz, explorați Groapa Pazin și biserica Sf. Nicolae din centru. Totul este ușor accesibil pe jos.\n\nDupă-amiaza este dedicată Arhivelor Statului și mănăstirii franciscane, înainte de a continua călătoria cu autobuzul sau trenul.\n\nUn tur ideal pentru călătorii care folosesc trenurile sau autobuzele istriene.",
-            "en": "Pazin is an important transport hub in Istria. Start your day at the castle, which is easily accessible from the train station.\n\nAt midday, explore the Pazin Abyss and St. Nicholas Church in the center. Everything is within walking distance.\n\nSpend the afternoon at the State Archives and the Franciscan monastery before continuing your journey by bus or train.\n\nAn ideal tour for travelers using Istrian rail or bus services."
+            "en": "Pazin is an important transport hub in Istria. Start your day at the castle, which is easily accessible from the train station.\n\nAt midday, explore the Pazin Abyss and St. Nicholas Church in the center. Everything is within walking distance.\n\nSpend the afternoon at the State Archives and the Franciscan monastery before continuing your journey by bus or train.\n\nAn ideal tour for travelers using Istrian rail or bus services.",
+            "hr": "Pazin je važno prometno čvorište u Istri. Započnite dan na dvorcu, koji je lako dostupan iz željezničke stanice.\n\nU podne istražite Pazinski ponor i crkvu sv. Nikole u centru. Sve je na pješačkoj udaljenosti.\n\nPopodne provedite u Državnom arhivu i franjevačkom samostanu prije nego nastavite put autobusom ili vlakom.\n\nIdealna tura za putnike koji koriste istarske željeznice ili autobusne linije."
           },
           "stops": [
             {
@@ -2403,13 +2479,15 @@
                 "de": "Kastell Pazin",
                 "hu": "Pazini vár",
                 "ro": "Castelul Pazin",
-                "en": "Pazin Castle"
+                "en": "Pazin Castle",
+                "hr": "Pazinski kaštel"
               },
               "tip_5lang": {
                 "de": "Vom Bahnhof ca. 15 Min zu Fuß.",
                 "hu": "A vasútállomástól kb. 15 perc gyalog.",
                 "ro": "La aproximativ 15 minute de mers pe jos de la gară.",
-                "en": "About a 15-minute walk from the station."
+                "en": "About a 15-minute walk from the station.",
+                "hr": "Otprilike 15 minuta hoda od kolodvora."
               }
             },
             {
@@ -2417,13 +2495,15 @@
                 "de": "Paziner Grube",
                 "hu": "Pazini-barlang",
                 "ro": "Groapa Pazin",
-                "en": "Pazin Abyss"
+                "en": "Pazin Abyss",
+                "hr": "Pazinski ponor"
               },
               "tip_5lang": {
                 "de": "Direkt neben dem Kastell.",
                 "hu": "Közvetlenül a vár mellett.",
                 "ro": "Chiar lângă castel.",
-                "en": "Located right next to the castle."
+                "en": "Located right next to the castle.",
+                "hr": "Smješten odmah uz dvorac."
               }
             },
             {
@@ -2431,13 +2511,15 @@
                 "de": "Pfarrkirche des Heiligen Nikolaus",
                 "hu": "Szent Miklós-templom",
                 "ro": "Biserica Sf. Nicolae",
-                "en": "Church of St. Nicholas"
+                "en": "Church of St. Nicholas",
+                "hr": "Crkva sv. Nikole"
               },
               "tip_5lang": {
                 "de": "Zentral in der Stadt gelegen.",
                 "hu": "Központban található.",
                 "ro": "Situată central în oraș.",
-                "en": "Centrally located in the town."
+                "en": "Centrally located in the town.",
+                "hr": "Središnje smještena u gradu."
               }
             },
             {
@@ -2445,13 +2527,15 @@
                 "de": "Staatsarchiv in Pazin",
                 "hu": "Pazini Állami Levéltár",
                 "ro": "Arhivele Statului din Pazin",
-                "en": "State Archives in Pazin"
+                "en": "State Archives in Pazin",
+                "hr": "Državni arhiv u Pazinu"
               },
               "tip_5lang": {
                 "de": "Kurzer Weg von der Kirche.",
                 "hu": "Rövid séta a templomtól.",
                 "ro": "Scurtă plimbare de la biserică.",
-                "en": "Short walk from the church."
+                "en": "Short walk from the church.",
+                "hr": "Kratka šetnja od crkve."
               }
             },
             {
@@ -2459,13 +2543,15 @@
                 "de": "Franziskanerkloster",
                 "hu": "Ferences kolostor",
                 "ro": "Mănăstirea Franciscană",
-                "en": "Franciscan Monastery"
+                "en": "Franciscan Monastery",
+                "hr": "Franjevački samostan"
               },
               "tip_5lang": {
                 "de": "Die Bushaltestelle ist nah.",
                 "hu": "A buszmegálló közel van.",
                 "ro": "Stația de autobuz este aproape.",
-                "en": "The bus stop is nearby."
+                "en": "The bus stop is nearby.",
+                "hr": "Autobusna stanica je u blizini."
               }
             }
           ],
@@ -2571,6 +2657,11 @@
               "Pazin train station is located slightly above the town.",
               "Check train connections as they are not very frequent.",
               "Use the Croatian Railways (HŽ) app for real-time information."
+            ],
+            "hr": [
+              "Željeznička stanica Pazin nalazi se nešto iznad grada.",
+              "Provjerite povezanost vlakova jer nisu vrlo česti.",
+              "Koristite aplikaciju Hrvatske željeznice (HŽ) za informacije u stvarnom vremenu."
             ]
           }
         },
@@ -2580,7 +2671,7 @@
             "hu": "Az esős nap kényelmesen indul a várnál, amely busszal vagy gyalog is könnyen elérhető. A vastag falak megvédenek az időjárástól, amíg a kiállításokat tanulmányozzuk. Délben a Pazini-szakadék látványos, vizes élményt nyújt. A délutánt a Szent Miklós-templom és az Állami Levéltár száraz biztonságában tölthetjük, mielőtt a napot a ferences kolostornál zárnánk.",
             "ro": "Ziua ploioasă începe confortabil la castel, ușor accesibil cu autobuzul local sau pe jos. Zidurile groase protejează de vreme în timp ce studiați exponatele. La prânz, Abisul Pazin oferă un spectacol umed spectaculos. După-amiaza o petreceți în siguranță la uscat în Biserica Sf. Nicolae și Arhivele Statului, înainte de a încheia ziua la mănăstire.",
             "en": "The rainy day starts comfortably at the castle, easily accessible by local bus or on foot. Thick walls protect against the weather while you study the exhibits. At noon, the Pazin Abyss offers a spectacular, wet experience. Spend the afternoon in the dry safety of St. Nicholas Church and the State Archives before concluding the day at the Franciscan Monastery.",
-            "hr": "Kišni dan počinje ugodno u kaštelu, lako dostupnom lokalnim autobusom ili pješice. Debeli zidovi štite od vremena dok proučavate izloške. U podne Pazinska jama nudi spektakularno, mokro iskustvo. Poslijepodne provedite u suhoj sigurnosti crkve sv. Nikole i Državnog arhiva prije nego što završite dan u franjevačkom samostanu."
+            "hr": "Kišni dan počinje udobno na dvorcu, lako dostupan lokalnim autobusom ili pješice. Debeli zidovi štite od vremena dok proučavate izložbe. U podne Pazinski ponor nudi spektakularno, mokro iskustvo. Popodne provedite u suhoj sigurnosti crkve sv. Nikole i Državnog arhiva prije nego dan zaključite u franjevačkom samostanu."
           },
           "stops": [
             {
@@ -2590,7 +2681,7 @@
                 "hu": "A busz gyakran a központ közelében áll meg, rövid séta.",
                 "ro": "Autobuzul oprește adesea aproape de centru, drum scurt pe jos.",
                 "en": "The bus often stops near the center; it's a short walk.",
-                "hr": "Autobus često staje blizu centra; to je kratka šetnja."
+                "hr": "Autobus često staje blizu centra; kratka je šetnja."
               }
             },
             {
@@ -2600,7 +2691,7 @@
                 "hu": "Használja a fedett információs pultot hirtelen eső esetén.",
                 "ro": "Folosiți standul de informații acoperit în caz de ploaie bruscă.",
                 "en": "Use the covered info stand if there's a sudden downpour.",
-                "hr": "Iskoristite natkriveni info-pult u slučaju iznenadnog pljuska."
+                "hr": "Koristite natkriveni info pult ako počne padati nagla ploha kiše."
               }
             },
             {
@@ -2610,7 +2701,7 @@
                 "hu": "Csendes, száraz hely az elmélyüléshez.",
                 "ro": "Un loc liniștit și uscat pentru reculegere.",
                 "en": "A quiet, dry place to pause.",
-                "hr": "Mirno, suho mjesto za predah."
+                "hr": "Tih, suh prostor za predah."
               }
             },
             {
@@ -2620,7 +2711,7 @@
                 "hu": "A tágas bejárati rész védelmet nyújt a buszra várakozáskor.",
                 "ro": "Zona de intrare generoasă oferă protecție în timp ce așteptați autobuzul.",
                 "en": "The spacious entrance area provides shelter while waiting for the bus.",
-                "hr": "Prostrani ulazni prostor nudi zaklon dok čekate autobus."
+                "hr": "Prostrano ulazno područje pruža zaklon dok čekate autobus."
               }
             },
             {
@@ -2630,7 +2721,7 @@
                 "hu": "Ellenőrizze a visszautat, az esőben kellemetlen a várakozás.",
                 "ro": "Verificați orele de întoarcere, așteptarea în ploaie e neplăcută.",
                 "en": "Check return times; waiting in the rain is uncomfortable.",
-                "hr": "Provjerite vrijeme povratka; čekanje na kiši je neugodno."
+                "hr": "Provjerite povratna vremena; čekanje na kiši je neugodno."
               }
             }
           ],
@@ -2660,10 +2751,10 @@
               "Small cafes at the bus station are good retreats."
             ],
             "hr": [
-              "Autobusni kolodvor u Pazinu je natkriven i pruža zaklon.",
-              "Nosite odjeću koja se brzo suši za presjedanja.",
-              "Iskoristite vrijeme čekanja za planiranje sljedeće suhe postaje.",
-              "Mali kafići na autobusnom kolodvoru dobra su utočišta."
+              "Autobusna stanica Pazin je natkrivena i pruža zaklon.",
+              "Nosite brzo-sušeću odjeću za presjedanja.",
+              "Iskoristite vrijeme čekanja za planiranje sljedeće suhe stanice.",
+              "Mali kafići na autobusnom kolodvoru dobri su skloništa."
             ]
           }
         },
@@ -2673,7 +2764,7 @@
             "hu": "A téli nap buszozással indul a várhoz, amely fenségesen magasodik a szakadék fölé. A belső terek meleg kontrasztot alkotnak a tiszta téli levegővel. A szakadék lélegzetelállító kilátást nyújt a völgy fagyos részleteire. Délben és délután a templom és az Állami Levéltár ideális megállók a felmelegedéshez és a történelem megismeréséhez, mielőtt a nap a kolostor nyugalmában zárulna.",
             "ro": "Ziua de iarnă începe cu o călătorie cu autobuzul spre castel, care domină maiestuos prăpastia. Interioarele sunt un contrast cald față de aerul curat de iarnă. Abisul oferă panorame uluitoare asupra detaliilor înghețate din vale. La prânz și după-amiază, biserica și Arhivele Statului sunt opriri ideale pentru a vă încălzi, înainte ca ziua să se încheie în liniștea mănăstirii.",
             "en": "The winter day begins with a bus ride to the castle, majestically perched above the abyss. The interiors are a warm contrast to the clear winter air. The abyss offers breathtaking views of frozen details in the valley. Midday and afternoon, the church and the State Archives are ideal stops to warm up and experience history before the day ends in the peace of the monastery.",
-            "hr": "Zimski dan počinje vožnjom autobusom do kaštela, veličanstveno smještenog iznad jame. Unutrašnjost je topli kontrast čistom zimskom zraku. Jama nudi prekrasne poglede na zaleđene detalje u dolini. Podne i poslijepodne, crkva i Državni arhiv idealne su postaje za grijanje i doživljaj povijesti prije nego dan završi u miru samostana."
+            "hr": "Zimski dan započinje autobusnom vožnjom do dvorca, veličanstveno smještenog iznad ponora. Unutrašnjost je topao kontrast prema bistrom zimskom zraku. Ponor nudi zapanjujuće poglede na zaledenjele detalje u dolini. U podne i popodne crkva i Državni arhiv idealne su stanice za podgrijavanje i doživljaj povijesti prije nego dan završi u miru samostana."
           },
           "stops": [
             {
@@ -2683,7 +2774,7 @@
                 "hu": "A buszmenetrend télen némileg eltérhet, ellenőrizze online.",
                 "ro": "Orarele autobuzelor pot varia ușor iarna, verificați online.",
                 "en": "Bus schedules may vary slightly in winter; check online.",
-                "hr": "Vozni redovi autobusa mogu se zimi malo razlikovati; provjerite online."
+                "hr": "Autobusni redovi vožnje mogu se zimi neznatno razlikovati; provjerite online."
               }
             },
             {
@@ -2693,7 +2784,7 @@
                 "hu": "A talaj gyakran fagyott, lépjen óvatosan.",
                 "ro": "Solul este adesea înghețat, pășiți cu grijă.",
                 "en": "The ground is often frozen; step carefully.",
-                "hr": "Tlo je često zaleđeno; hodajte oprezno."
+                "hr": "Tlo je često smrznuto; hodajte oprezno."
               }
             },
             {
@@ -2703,7 +2794,7 @@
                 "hu": "A csend helye, tökéletes a kezek felmelegítésére.",
                 "ro": "Un loc al liniștii, perfect pentru a vă încălzi mâinile.",
                 "en": "A place of silence, perfect for warming up your hands.",
-                "hr": "Mjesto tišine, savršeno za grijanje ruku."
+                "hr": "Mjesto tišine, savršeno za zagrijavanje ruku."
               }
             },
             {
@@ -2713,7 +2804,7 @@
                 "hu": "Az épület jól fűtött és nagyon hívogató.",
                 "ro": "Clădirea este bine încălzită și foarte primitoare.",
                 "en": "The building is well-heated and very welcoming.",
-                "hr": "Zgrada je dobro grijana i vrlo gostoljubiva."
+                "hr": "Zgrada je dobro grijana i vrlo dobrodošla."
               }
             },
             {
@@ -2723,7 +2814,7 @@
                 "hu": "Öltözzön fel jól a megállóhoz való visszasétához.",
                 "ro": "Îmbrăcați-vă bine pentru drumul de întoarcere la stație.",
                 "en": "Dress warmly for the walk back to the stop.",
-                "hr": "Odjenite se toplo za šetnju natrag do stanice."
+                "hr": "Obucite se toplo za povratak do stajališta."
               }
             }
           ],
@@ -2753,10 +2844,10 @@
               "Istrian buses are usually well-heated in winter."
             ],
             "hr": [
-              "Koristite autobus za najhladnije dijelove rute.",
+              "Koristite autobus za premostiti najhladnije dijelove rute.",
               "Čekajte autobus u grijanim prostorima ili kafićima.",
-              "Nosite tople čarape jer čekanje na peronu može biti hladno.",
-              "Istarski autobusi zimi su obično dobro grijani."
+              "Nosite tople čarape, jer čekanje na peronu može biti hladno.",
+              "Istarski autobusi obično su dobro grijani zimi."
             ]
           }
         }
@@ -2920,7 +3011,8 @@
       "de": "Wikipedia Pazin",
       "hu": "Wikipédia Pazin",
       "ro": "Wikipedia Pazin",
-      "en": "Wikipedia Pazin"
+      "en": "Wikipedia Pazin",
+      "hr": "Wikipedia Pazin"
     },
     "best_time": {
       "de": [
@@ -2952,7 +3044,8 @@
       "de": "Pazin Sicherheit",
       "hu": "Pazin biztonság",
       "ro": "Siguranță Pazin",
-      "en": "Pazin safety (Istria TB)"
+      "en": "Pazin safety (Istria TB)",
+      "hr": "Pazin sigurnost (Istria TB)"
     },
     "tourism_office": {
       "de": [

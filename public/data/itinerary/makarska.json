@@ -21,7 +21,8 @@
             "de": "Kačić-Platz",
             "hu": "Kačić tér",
             "ro": "Piața Kačić",
-            "en": "Kačić Square"
+            "en": "Kačić Square",
+            "hr": "Kačićev trg"
           },
           "coords": [
             17.0195,
@@ -36,14 +37,15 @@
             "de": "Besuchen Sie den morgendlichen Blumenmarkt.",
             "hu": "Látogassa meg a reggeli virágpiacot.",
             "ro": "Vizitați piața de flori de dimineață.",
-            "en": "Visit the morning flower market."
+            "en": "Visit the morning flower market.",
+            "hr": "Posjetite jutarnju cvjetnu tržnicu."
           },
           "tip_5lang": {
             "de": "Das Kačić-Denkmal in der Mitte ehrt den dalmatinischen Dichter Andrija Kačić Miošić.",
             "hu": "A téren álló Kačić-szobor a dalmát költőnek, Andrija Kačić Miošićnak állít emléket.",
             "ro": "Statuia Kačić din centru îl onorează pe poetul dalmațian Andrija Kačić Miošić.",
             "en": "The Kačić statue at its centre honours Dalmatian poet Andrija Kačić Miošić.",
-            "hr": "Kip Andrije Kačića Miošića u središtu odaje počast dalmatinskom pjesniku."
+            "hr": "Kip Kačića u sredini odaje počast dalmatinskom pjesniku Andriji Kačiću Miošiću."
           }
         },
         {
@@ -51,7 +53,8 @@
             "de": "Kirche des Heiligen Markus",
             "hu": "Szent Márk-templom",
             "ro": "Biserica Sfântul Marcu",
-            "en": "St. Mark's Church"
+            "en": "St. Mark's Church",
+            "hr": "Crkva sv. Marka"
           },
           "coords": [
             17.0198,
@@ -66,14 +69,15 @@
             "de": "Bewundern Sie den silbernen Altar im Inneren.",
             "hu": "Csodálja meg az ezüst oltárt odabent.",
             "ro": "Admirați altarul de argint din interior.",
-            "en": "Admire the silver altar inside."
+            "en": "Admire the silver altar inside.",
+            "hr": "Divite se srebrnom oltaru unutra."
           },
           "tip_5lang": {
             "de": "Treten Sie ein — der Marmorboden und die barocken Altäre sind beeindruckend.",
             "hu": "Lépjen be, a márványpadló és a barokk oltárok lenyűgözőek.",
             "ro": "Intrați, pardoseala de marmură și altarele baroce sunt impresionante.",
             "en": "Step inside — the marble floor and Baroque side altars are quietly impressive.",
-            "hr": "Zakoračite unutra — mramorni pod i barokni oltari ostavljaju snažan dojam."
+            "hr": "Uđite — mramorni pod i barokni bočni oltari tiho impresioniraju."
           }
         },
         {
@@ -81,7 +85,8 @@
             "de": "Malakologisches Museum",
             "hu": "Malakológiai Múzeum",
             "ro": "Muzeul Malacologic",
-            "en": "Malacological Museum"
+            "en": "Malacological Museum",
+            "hr": "Malakološki muzej"
           },
           "coords": [
             17.021,
@@ -96,14 +101,15 @@
             "de": "Eine der weltweit größten Muschelsammlungen.",
             "hu": "A világ egyik legnagyobb kagylógyűjteménye.",
             "ro": "Una dintre cele mai mari colecții de scoici.",
-            "en": "One of the world's largest shell collections."
+            "en": "One of the world's largest shell collections.",
+            "hr": "Jedna od najvećih zbirki školjki na svijetu."
           },
           "tip_5lang": {
             "de": "Die Muschelsammlung umfasst über 3000 Arten — etwa eine Stunde einplanen.",
             "hu": "A kagylógyűjtemény több mint 3000 fajt foglal magába, számoljon egy órát.",
             "ro": "Colecția de scoici cuprinde peste 3000 de specii, alocați aproximativ o oră.",
             "en": "The shell collection covers more than 3,000 species — allow about an hour.",
-            "hr": "Zbirka školjaka sadrži više od 3.000 vrsta — odvojite oko sat vremena."
+            "hr": "Zbirka školjki obuhvaća više od 3.000 vrsta — predvidite oko sat vremena."
           }
         },
         {
@@ -111,7 +117,8 @@
             "de": "Riva Makarska",
             "hu": "Makarskai Riva",
             "ro": "Faleza Riva",
-            "en": "Makarska Riva"
+            "en": "Makarska Riva",
+            "hr": "Makarska riva"
           },
           "coords": [
             17.0185,
@@ -126,14 +133,15 @@
             "de": "Perfekt für einen Kaffee im Schatten der Palmen.",
             "hu": "Tökéletes egy kávéhoz a pálmák árnyékában.",
             "ro": "Perfect pentru o cafea la umbra palmierilor.",
-            "en": "Perfect for a coffee in the shade of palms."
+            "en": "Perfect for a coffee in the shade of palms.",
+            "hr": "Savršeno za kavu u hladu palmi."
           },
           "tip_5lang": {
             "de": "Der Sonnenuntergang hinter der Halbinsel Sveti Petar ist hier am schönsten.",
             "hu": "A naplemente a Szent Péter-félsziget mögött innen a legszebb látvány.",
             "ro": "Apusul de soare în spatele peninsulei Sveti Petar este cel mai frumos de aici.",
             "en": "Sunset behind the Sveti Petar peninsula looks its best from this stretch.",
-            "hr": "Zalazak sunca iza poluotoka Sveti Petar najbolje izgleda s ove dionice."
+            "hr": "Zalazak sunca iza poluotoka Sveti Petar najbolje izgleda s ovog dijela."
           }
         },
         {
@@ -141,7 +149,8 @@
             "de": "Statue des Heiligen Petrus",
             "hu": "Szent Péter-szobor",
             "ro": "Statuia Sfântului Petru",
-            "en": "Statue of St. Peter"
+            "en": "Statue of St. Peter",
+            "hr": "Kip sv. Petra"
           },
           "coords": [
             17.0135,
@@ -156,14 +165,15 @@
             "de": "Hängen Sie ein Liebesschloss an den Zaun.",
             "hu": "Akasszon egy lakatot a szerelmesek kerítésére.",
             "ro": "Puneți un lacăt al iubirii pe gard.",
-            "en": "Hang a love lock on the fence."
+            "en": "Hang a love lock on the fence.",
+            "hr": "Objesite lokot ljubavi na ogradu."
           },
           "tip_5lang": {
             "de": "Die Statue zeigt Petrus mit Schlüsseln, eine Bronze von Ivan Meštrović-Schule.",
             "hu": "A szobor Pétert kulcsokkal ábrázolja, Meštrović-iskolához tartozó bronzmű.",
             "ro": "Statuia îl arată pe Petru cu chei, un bronz al școlii lui Meštrović.",
             "en": "The bronze shows Peter with the keys, sculpted in the Meštrović school style.",
-            "hr": "Brončani kip prikazuje Petra s ključevima, klesan u stilu Meštrovićeve škole."
+            "hr": "Brončani prikazuje Petra s ključevima, skulptiran u stilu Meštrovićeve škole."
           }
         },
         {
@@ -171,7 +181,8 @@
             "de": "Leuchtturm St. Peter",
             "hu": "Szent Péter-világítótorony",
             "ro": "Farul Sfântul Petru",
-            "en": "St. Peter Lighthouse"
+            "en": "St. Peter Lighthouse",
+            "hr": "Svjetionik sv. Petar"
           },
           "coords": [
             17.0125,
@@ -186,14 +197,15 @@
             "de": "Toller Ort für Panoramafotos der Stadt.",
             "hu": "Remek hely a városi panorámafotókhoz.",
             "ro": "Loc excelent pentru fotografii panoramice.",
-            "en": "Great spot for panoramic photos of the city."
+            "en": "Great spot for panoramic photos of the city.",
+            "hr": "Odlično mjesto za panoramske fotografije grada."
           },
           "tip_5lang": {
             "de": "Auf dem Weg zum Leuchtturm liegt eine kleine, oft leere Kiesbucht.",
             "hu": "A világítótoronyhoz vezető úton egy kis, gyakran üres kavicsos öböl rejtőzik.",
             "ro": "Pe drumul către far se află un mic golf cu pietriș, adesea gol.",
             "en": "On the way to the lighthouse you'll pass a small, often-empty pebble cove.",
-            "hr": "Na putu do svjetionika proći ćete pored male, često prazne šljunčane uvale."
+            "hr": "Na putu do svjetionika prolazite pored male, često prazne šljunčane uvale."
           }
         },
         {
@@ -201,7 +213,8 @@
             "de": "Napoleon-Denkmal",
             "hu": "Napóleon-emlékmű",
             "ro": "Monumentul lui Napoleon",
-            "en": "Napoleon Monument"
+            "en": "Napoleon Monument",
+            "hr": "Spomenik Napoleonu"
           },
           "coords": [
             17.0115,
@@ -216,14 +229,15 @@
             "de": "Ein historisches Zeugnis der französischen Ära.",
             "hu": "A francia korszak történelmi tanúja.",
             "ro": "O mărturie istorică a epocii franceze.",
-            "en": "A historical witness of the French era."
+            "en": "A historical witness of the French era.",
+            "hr": "Povijesni svjedok francuskog doba."
           },
           "tip_5lang": {
             "de": "Das Denkmal erinnert an die kurze, aber prägende französische Verwaltung 1806-1813.",
             "hu": "Az emlékmű a rövid, de meghatározó francia kormányzásra emlékeztet (1806-1813).",
             "ro": "Monumentul amintește de scurta dar marcanta administrație franceză 1806-1813.",
             "en": "The monument recalls the brief but formative French rule of 1806-1813.",
-            "hr": "Spomenik podsjeća na kratku, ali značajnu francusku vladavinu 1806.-1813."
+            "hr": "Spomenik podsjeća na kratku ali oblikovnu francusku vlast 1806.–1813."
           }
         }
       ],
@@ -232,7 +246,7 @@
         "hu": "Kezdje a napot a nyüzsgő Kačić téren, a Szent Márk-székesegyház árnyékában. Sétáljon végig a pálmafás Riva mentén a Szent Péter-félsziget és a romantikus világítótorony felé. Csodálja meg az Adria és a Biokovo-hegység találkozását a tengerparti sétányról. Zárja az estét helyi halételekkel és egy felejthetetlen dalmát naplementével.",
         "ro": "Începeți dimineața în vibranta Piață Kačić, lângă Catedrala Sfântul Marcu. Plimbați-vă pe faleza Riva spre peninsula Sfântul Petru și farul său pitoresc. Admirați priveliștea panoramică asupra Adriaticii și a munților Biokovo de pe promontoriu. Încheiați ziua cu delicatese marine locale și un apus auriu dalmat.",
         "en": "Start at the historic Kačić Square with its vibrant market and St. Mark’s Cathedral. Stroll along the bustling Riva promenade toward the serene St. Peter peninsula and its iconic lighthouse. Enjoy the panoramic views of the Adriatic and the Biokovo mountains from the headland. End the day with local seafood and the golden glow of a Dalmatian sunset.",
-        "hr": "Započnite na povijesnom Kačićevom trgu s njegovom živahnom tržnicom i katedralom sv. Marka. Prošećite užurbanom rivom prema mirnom poluotoku Sv. Petar i njegovom kultnom svjetioniku. Uživajte u panoramskom pogledu na Jadran i planinu Biokovo s rta. Završite dan uz domaće plodove mora i zlatni sjaj dalmatinskog zalaska sunca."
+        "hr": "Započnite na povijesnom Kačićevom trgu s živahnom tržnicom i katedralom sv. Marka. Prošetajte užurbanom rivom prema mirnom poluotoku sv. Petra i njegovom ikoničnom svjetioniku. Uživajte u panoramskom pogledu na Jadran i planinu Biokovo s rta. Završite dan domaćim plodovima mora i zlatnim sjajem dalmatinskog zalaska sunca."
       },
       "gastro_picks": {
         "de": [
@@ -475,11 +489,11 @@
           "Visit the churches in the morning to enjoy cooler temperatures."
         ],
         "hr": [
-          "Istražite uske kamene uličice starog grada u hladu.",
-          "Udobna obuća za hodanje neophodna je za kamene ulice.",
-          "Poluotok Sv. Petar nudi najbolje lokacije za fotografiranje luke.",
+          "Istražite uske kamene uličice stare jezgre u hladu.",
+          "Udobna obuća za hodanje nužna je zbog kaldrme.",
+          "Poluotok sv. Petra nudi najbolje fotomjesta na luku.",
           "Uvijek nosite dovoljno vode tijekom vrućih ljetnih mjeseci.",
-          "Posjetite crkve ujutro kako biste uživali u nižim temperaturama."
+          "Posjetite crkve ujutro da biste uživali u hladnijoj temperaturi."
         ]
       },
       "variants": {
@@ -488,7 +502,8 @@
             "de": "Beginnen Sie am historischen Kačić-Platz mit seinem Markt und der St.-Markus-Kathedrale. Schlendern Sie entlang der Riva-Promenade zur Halbinsel St. Peter mit ihrem malerischen Leuchtturm. Genießen Sie den Panoramablick auf die Adria und das Biokovo-Gebirge vom Kap aus. Lassen Sie den Tag bei frischen Meeresfrüchten und einem goldenen dalmatinischen Sonnenuntergang ausklingen.",
             "hu": "Kezdje a napot a nyüzsgő Kačić téren, a Szent Márk-székesegyház árnyékában. Sétáljon végig a pálmafás Riva mentén a Szent Péter-félsziget és a romantikus világítótorony felé. Csodálja meg az Adria és a Biokovo-hegység találkozását a tengerparti sétányról. Zárja az estét helyi halételekkel és egy felejthetetlen dalmát naplementével.",
             "ro": "Începeți dimineața în vibranta Piață Kačić, lângă Catedrala Sfântul Marcu. Plimbați-vă pe faleza Riva spre peninsula Sfântul Petru și farul său pitoresc. Admirați priveliștea panoramică asupra Adriaticii și a munților Biokovo de pe promontoriu. Încheiați ziua cu delicatese marine locale și un apus auriu dalmat.",
-            "en": "Start at the historic Kačić Square with its vibrant market and St. Mark’s Cathedral. Stroll along the bustling Riva promenade toward the serene St. Peter peninsula and its iconic lighthouse. Enjoy the panoramic views of the Adriatic and the Biokovo mountains from the headland. End the day with local seafood and the golden glow of a Dalmatian sunset."
+            "en": "Start at the historic Kačić Square with its vibrant market and St. Mark’s Cathedral. Stroll along the bustling Riva promenade toward the serene St. Peter peninsula and its iconic lighthouse. Enjoy the panoramic views of the Adriatic and the Biokovo mountains from the headland. End the day with local seafood and the golden glow of a Dalmatian sunset.",
+            "hr": "Započnite na povijesnom Kačićevom trgu s živahnom tržnicom i katedralom sv. Marka. Prošetajte užurbanom rivom prema mirnom poluotoku sv. Petra i njegovom ikoničnom svjetioniku. Uživajte u panoramskom pogledu na Jadran i planinu Biokovo s rta. Završite dan domaćim plodovima mora i zlatnim sjajem dalmatinskog zalaska sunca."
           },
           "stops": [
             {
@@ -496,7 +511,8 @@
                 "de": "Kačić-Platz",
                 "hu": "Kačić tér",
                 "ro": "Piața Kačić",
-                "en": "Kačić Square"
+                "en": "Kačić Square",
+                "hr": "Kačićev trg"
               },
               "tip_5lang": null
             },
@@ -505,7 +521,8 @@
                 "de": "Kirche des Heiligen Markus",
                 "hu": "Szent Márk-templom",
                 "ro": "Biserica Sfântul Marcu",
-                "en": "St. Mark's Church"
+                "en": "St. Mark's Church",
+                "hr": "Crkva sv. Marka"
               },
               "tip_5lang": null
             },
@@ -514,7 +531,8 @@
                 "de": "Malakologisches Museum",
                 "hu": "Malakológiai Múzeum",
                 "ro": "Muzeul Malacologic",
-                "en": "Malacological Museum"
+                "en": "Malacological Museum",
+                "hr": "Malakološki muzej"
               },
               "tip_5lang": null
             },
@@ -523,7 +541,8 @@
                 "de": "Riva Makarska",
                 "hu": "Makarskai Riva",
                 "ro": "Faleza Riva",
-                "en": "Makarska Riva"
+                "en": "Makarska Riva",
+                "hr": "Makarska riva"
               },
               "tip_5lang": null
             },
@@ -532,7 +551,8 @@
                 "de": "Statue des Heiligen Petrus",
                 "hu": "Szent Péter-szobor",
                 "ro": "Statuia Sfântului Petru",
-                "en": "Statue of St. Peter"
+                "en": "Statue of St. Peter",
+                "hr": "Kip sv. Petra"
               },
               "tip_5lang": null
             },
@@ -541,7 +561,8 @@
                 "de": "Leuchtturm St. Peter",
                 "hu": "Szent Péter-világítótorony",
                 "ro": "Farul Sfântul Petru",
-                "en": "St. Peter Lighthouse"
+                "en": "St. Peter Lighthouse",
+                "hr": "Svjetionik sv. Petar"
               },
               "tip_5lang": null
             },
@@ -550,7 +571,8 @@
                 "de": "Napoleon-Denkmal",
                 "hu": "Napóleon-emlékmű",
                 "ro": "Monumentul lui Napoleon",
-                "en": "Napoleon Monument"
+                "en": "Napoleon Monument",
+                "hr": "Spomenik Napoleonu"
               },
               "tip_5lang": null
             }
@@ -753,6 +775,13 @@
               "St. Peter peninsula offers the best photo spots of the harbor.",
               "Always carry enough water during the hot summer months.",
               "Visit the churches in the morning to enjoy cooler temperatures."
+            ],
+            "hr": [
+              "Istražite uske kamene uličice stare jezgre u hladu.",
+              "Udobna obuća za hodanje nužna je zbog kaldrme.",
+              "Poluotok sv. Petra nudi najbolje fotomjesta na luku.",
+              "Uvijek nosite dovoljno vode tijekom vrućih ljetnih mjeseci.",
+              "Posjetite crkve ujutro da biste uživali u hladnijoj temperaturi."
             ]
           }
         },
@@ -762,7 +791,7 @@
             "hu": "A nap a Kačić téren indul, az árkádok alatt keresve menedéket. Egy gyors séta a Szent Márk-templomba, ahol a kinti eső zaja elcsendesül.\n\nDélben a Malakológiai Múzeum nyújt tökéletes búvóhelyet. A kolostor falai között csodálatos kagylókat láthatunk, miközben odakint esik.\n\nDélután esernyővel sétálunk a fénylő Riván. A Szent Péter-világítótorony felé az út szeles, de a tajtékzó tenger látványa lenyűgöző.\n\nAz este a kikötői sétány egyik hangulatos kávézójában ér véget. A vizes köveken megcsillanó fények különleges, romantikus hangulatot árasztanak.",
             "ro": "Ziua începe în Piața Kačić, sub protecția arcadelor. O scurtă fugă până la Biserica Sf. Marcu oferă liniște în timp ce ploaia bate în geamuri.\n\nLa prânz, Muzeul Malacologic este refugiul perfect. Între zidurile mănăstirii, explorăm lumea scoicilor în timp ce afară plouă torențial.\n\nDupă-amiaza, ne plimbăm cu umbrela pe faleza Riva. Drumul spre far este vântos, dar oferă o priveliște dramatică asupra valurilor Adriaticii.\n\nSeara se încheie într-o cafenea primitoare de pe faleză. Reflexiile luminilor pe pavajul umed creează o atmosferă magică în portul Makarska.",
             "en": "The day begins at Kačić Square, seeking shelter under the stone arches. A quick dash to St. Mark's Church provides a quiet escape from the rain.\n\nAt noon, the Malacological Museum offers the perfect indoor refuge. Inside the monastery, explore the shell collection while the storm passes outside.\n\nIn the afternoon, stroll along the shiny Riva with an umbrella. The path to the lighthouse is windy but offers dramatic views of the crashing waves.\n\nThe evening winds down in a cozy café on the promenade. The city lights reflecting on the wet pavement create a magical, cinematic atmosphere.",
-            "hr": "Dan počinje na Kačićevom trgu, tražeći zaklon pod kamenim lukovima. Kratki bijeg u crkvu sv. Marka pruža miran zaklon od kiše.\n\nU podne, Malakološki muzej nudi savršeno utočište u zatvorenom. Unutar samostana istražite zbirku školjaka dok oluja prolazi vani.\n\nPoslijepodne prošećite sjajnom rivom s kišobranom. Staza do svjetionika je vjetrovita, ali nudi dramatičan pogled na valove.\n\nVečer završava u ugodnom kafiću na rivi. Gradska svjetla koja se ogledaju na mokrom pločniku stvaraju čarobnu, filmsku atmosferu."
+            "hr": "Dan počinje na Kačićevom trgu, tražeći zaklon pod kamenim lukovima. Brzi skok do crkve sv. Marka pruža miran bijeg od kiše.\n\nU podne je Malakološki muzej savršen unutarnji zaklon. U samostanu razgledajte zbirku školjki dok oluja prolazi vani.\n\nPoslijepodne prošetajte blistavom Rivom s kišobranom. Put do svjetionika vjetrovit je, ali nudi dramatične poglede na razbijajuće valove.\n\nVečer se smiruje u ugodnom kafiću na rivi. Gradska svjetla koja se ogledaju na mokrom popločenju stvaraju čarobnu, filmsku atmosferu."
           },
           "stops": [
             {
@@ -782,7 +811,7 @@
                 "hu": "Ideális egy száraz pihenőhöz és kulturális városnézéshez.",
                 "ro": "Ideal pentru o pauză uscată și o vizită culturală.",
                 "en": "Ideal for a dry break and cultural sightseeing.",
-                "hr": "Idealno za suhu pauzu i kulturno razgledavanje."
+                "hr": "Idealno za suhi predah i kulturno razgledavanje."
               }
             },
             {
@@ -792,7 +821,7 @@
                 "hu": "A legjobb úti cél esőben; teljesen fedett, a kolostoron belül.",
                 "ro": "Cea mai bună destinație pe ploaie; complet acoperit în mănăstire.",
                 "en": "The best destination in the rain; fully indoor within the monastery.",
-                "hr": "Najbolje odredište po kiši; potpuno zatvoren prostor unutar samostana."
+                "hr": "Najbolje odredište za kišu; potpuno zatvoreno unutar samostana."
               }
             },
             {
@@ -802,7 +831,7 @@
                 "hu": "Vigyázat, a mészkő burkolat vizesen rendkívül csúszós!",
                 "ro": "Atenție, pietrele de calcar sunt extrem de alunecoase când sunt ude!",
                 "en": "Be careful, the limestone pavement is extremely slippery when wet!",
-                "hr": "Budite oprezni, kameni pločnik je izuzetno sklizak kad je mokar!"
+                "hr": "Pazite, vapnenačke ploče su izuzetno skliske kad su mokre!"
               }
             },
             {
@@ -812,7 +841,7 @@
                 "hu": "Gyors fotómegálló; kapaszkodjon erősen az esernyőjébe.",
                 "ro": "Scurt popas pentru poze; țineți bine umbrela din cauza vântului.",
                 "en": "Quick photo stop; hold onto your umbrella tightly due to wind.",
-                "hr": "Kratko zaustavljanje za fotografiju; čvrsto držite kišobran zbog vjetra."
+                "hr": "Kratka fotografija; čvrsto držite kišobran zbog vjetra."
               }
             },
             {
@@ -822,7 +851,7 @@
                 "hu": "Keressen szélvédett sarkokat az épület hátoldalán.",
                 "ro": "Căutați colțuri ferite de vânt în spatele clădirii.",
                 "en": "Look for wind-sheltered corners at the back of the building.",
-                "hr": "Potražite kutove zaštićene od vjetra iza zgrade."
+                "hr": "Potražite zaklonjene kutke na stražnjoj strani zgrade."
               }
             },
             {
@@ -832,7 +861,7 @@
                 "hu": "Gyors megtekintés, aztán irány vissza egy meleg kávézóba.",
                 "ro": "O privire rapidă și apoi înapoi la o cafenea caldă.",
                 "en": "A quick look and then head back to a warm café.",
-                "hr": "Kratak pogled, a zatim povratak u topli kafić."
+                "hr": "Brzi pogled pa natrag u topao kafić."
               }
             }
           ],
@@ -862,10 +891,10 @@
               "A sturdy storm umbrella is recommended over light ones due to coastal winds."
             ],
             "hr": [
-              "Nosite obuću koja se ne skliže jer kamene ulice starog grada postaju vrlo skliske kad su mokre.",
-              "Provedite više vremena u Malakološkom muzeju kako biste pričekali da prođu jaki pljuskovi.",
-              "Potražite kafiće s tendama duž rive za sjedenje na otvorenom.",
-              "Preporučuje se čvrst kišobran zbog obalnih vjetrova."
+              "Nosite obuću protiv klizanja jer stare gradske kocke postaju vrlo skliske kad su mokre.",
+              "Provedite više vremena u Malakološkom muzeju da pričekate jake pljuskove.",
+              "Potražite kafiće s tendama uz Rivu za vanjsko sjedenje.",
+              "Preporučuje se čvrst olujni kišobran umjesto lakih zbog obalnih vjetrova."
             ]
           }
         },
@@ -875,7 +904,7 @@
             "hu": "A friss téli levegő a Kačić téren felfrissít. A tömeg nélkül a Szent Márk-templom még monumentálisabbnak és békésebbnek tűnik.\n\nDélben az alacsonyan járó nap melegíti a ferences kolostor falait. A múzeumban kellemes az idő egy hosszabb felfedezéshez.\n\nDélután a Riva a legjobb hely a napsütés élvezetére. A Szent Péter-világítótorony felé sétálva tiszta kilátás nyílik Brač és Hvar szigeteire.\n\nA naplemente már fél 5 körül bekövetkezik. A Napóleon-emlékmű ideális hely, hogy megcsodáljuk az aranyló fényeket a nyugodt Adria felett.",
             "ro": "Aerul curat de iarnă din Piața Kačić este revigorant. Fără mulțimile de vară, Biserica Sf. Marcu pare și mai monumentală și liniștită.\n\nLa prânz, soarele blând încălzește zidurile mănăstirii franciscane. Muzeul oferă o temperatură plăcută pentru o explorare detaliată.\n\nDupă-amiaza, faleza Riva este locul ideal pentru a prinde câteva raze de soare. Plimbarea spre far oferă o vizibilitate excelentă către insulele Brač și Hvar.\n\nApusul are loc devreme, în jurul orei 16:30. Monumentul lui Napoleon este punctul perfect pentru a admira lumina aurie peste Adriatica liniștită.",
             "en": "The crisp winter air at Kačić Square is refreshing. Without the summer crowds, St. Mark's Church feels even more monumental and peaceful.\n\nAt noon, the low sun warms the walls of the Franciscan monastery. The museum provides a pleasant temperature for a long discovery tour.\n\nIn the afternoon, the Riva is the best place to soak up some winter sun. The walk to St. Peter Lighthouse offers exceptionally clear views of Brač and Hvar.\n\nSunset occurs early, around 4:30 PM. The Napoleon Monument is the ideal spot to watch the golden light fade over the calm Adriatic Sea.",
-            "hr": "Oštar zimski zrak na Kačićevom trgu osvježava. Bez ljetnih gužvi, crkva sv. Marka djeluje još monumentalnije i mirnije.\n\nU podne, nisko sunce grije zidove franjevačkog samostana. Muzej nudi ugodnu temperaturu za dugu istraživačku turu.\n\nPoslijepodne je riva najbolje mjesto za upijanje zimskog sunca. Šetnja do svjetionika Sv. Petar nudi iznimno jasan pogled na Brač i Hvar.\n\nZalazak sunca je rano, oko 16:30. Napoleonov spomenik je idealno mjesto za promatranje zlatne svjetlosti nad mirnim Jadranom."
+            "hr": "Svježi zimski zrak na Kačićevu trgu je osvježavajući. Bez ljetnih gužvi, crkva sv. Marka djeluje još monumentalnije i miračnije.\n\nU podne nisko sunce grije zidove franjevačkog samostana. Muzej pruža ugodnu temperaturu za dugo otkrivanje.\n\nPopodne je Riva najbolje mjesto za hvatanje zimskog sunca. Šetnja do svjetionika sv. Petra nudi iznimno bistre poglede na Brač i Hvar.\n\nZalazak sunca je rano, oko 16:30. Napoleonov spomenik je idealno mjesto za promatranje kako zlatna svjetlost blijedi nad mirnim Jadranom."
           },
           "stops": [
             {
@@ -905,7 +934,7 @@
                 "hu": "Egész évben nyitva; ideális, amikor fúj a bóra.",
                 "ro": "Deschis tot anul; ideal când bate vântul Bura.",
                 "en": "Open year-round; ideal when the Bura wind is blowing.",
-                "hr": "Otvoreno tijekom cijele godine; idealno kada puše bura."
+                "hr": "Otvoreno tijekom cijele godine; idealno kad puše bura."
               }
             },
             {
@@ -925,7 +954,7 @@
                 "hu": "Meleg ruha kell, itt télen gyakran húz a szél.",
                 "ro": "Haine groase necesare, vântul bate tare aici iarna.",
                 "en": "Warm clothing needed as it's often windy here in winter.",
-                "hr": "Potrebna topla odjeća jer je ovdje zimi često vjetrovito."
+                "hr": "Potrebna je topla odjeća jer je zimi često vjetrovito."
               }
             },
             {
@@ -935,7 +964,7 @@
                 "hu": "A legjobb hely a korai téli esti fényekhez.",
                 "ro": "Cel mai bun loc pentru lumina apusului de iarnă.",
                 "en": "Best spot for the early winter evening light.",
-                "hr": "Najbolje mjesto za rano zimsko večernje svjetlo."
+                "hr": "Najbolje mjesto za ranu zimsku večernju svjetlost."
               }
             },
             {
@@ -945,7 +974,7 @@
                 "hu": "Tervezze a látogatást 16:30 előtt a nappali fényhez.",
                 "ro": "Planificați vizita înainte de 16:30 pentru lumină.",
                 "en": "Plan your visit before 4:30 PM to have daylight.",
-                "hr": "Planirajte posjet prije 16:30 kako biste imali dnevno svjetlo."
+                "hr": "Planirajte posjet prije 16:30 da biste imali dnevnog svjetla."
               }
             }
           ],
@@ -975,10 +1004,10 @@
               "Wear layers as it can be warm in the sun but freezing in the shade."
             ],
             "hr": [
-              "Pazite na buru (jak sjeverni vjetar); zbog nje se čini mnogo hladnije.",
-              "Mnogi barovi na plaži su zatvoreni, ali kafići u starom gradu su grijani i ugodni.",
-              "Zimski zalasci sunca u Dalmaciji su iznimno šareni.",
-              "Odjenite se slojevito jer na suncu može biti toplo, a u hladu ledeno."
+              "Pazite na buru (snažan sjeverni vjetar); čini da je osjet hladnoće mnogo jači.",
+              "Mnogi beach barovi su zatvoreni, ali kafići u starom gradu su grijani i ugodni.",
+              "Zimski zalasci su iznimno šareni u Dalmaciji.",
+              "Nosite slojevitu odjeću jer može biti toplo na suncu, a smrznuto u sjeni."
             ]
           }
         }
@@ -997,7 +1026,8 @@
             "de": "Riva Makarska",
             "hu": "Makarskai Riva",
             "ro": "Faleza Riva",
-            "en": "Makarska Riva"
+            "en": "Makarska Riva",
+            "hr": "Makarska Riva"
           },
           "coords": [
             17.0185,
@@ -1012,14 +1042,15 @@
             "de": "Frühmorgens ist es hier am ruhigsten.",
             "hu": "Kora reggel itt a legnagyobb a nyugalom.",
             "ro": "Este cel mai liniștit aici dimineața devreme.",
-            "en": "It is most peaceful here early in the morning."
+            "en": "It is most peaceful here early in the morning.",
+            "hr": "Najmirnije je ovdje rano ujutro."
           },
           "tip_5lang": {
             "de": "Auf der Riva ist Radfahren nur außerhalb der Saison erlaubt — schieben Sie im Sommer.",
             "hu": "A Riván csak szezonon kívül szabad biciklizni, nyáron tolja a kerékpárt.",
             "ro": "Pe Riva, ciclismul este permis doar în afara sezonului, vara împingeți bicicleta.",
             "en": "Cycling on the Riva is only allowed off-season — walk your bike in summer.",
-            "hr": "Vožnja biciklom po rivi dopuštena je samo izvan sezone — ljeti gurajte bicikl."
+            "hr": "Vožnja biciklom po Rivi dozvoljena je izvan sezone — ljeti bicikl vodite pješice."
           }
         },
         {
@@ -1027,7 +1058,8 @@
             "de": "Leuchtturm St. Peter",
             "hu": "Szent Péter-világítótorony",
             "ro": "Farul Sfântul Petru",
-            "en": "St. Peter Lighthouse"
+            "en": "St. Peter Lighthouse",
+            "hr": "Svjetionik sv. Petra"
           },
           "coords": [
             17.0125,
@@ -1042,14 +1074,15 @@
             "de": "Der Radweg führt direkt am Meer entlang.",
             "hu": "A kerékpárút közvetlenül a tenger mellett halad.",
             "ro": "Pista de biciclete trece chiar pe lângă mare.",
-            "en": "The bike path runs right along the sea."
+            "en": "The bike path runs right along the sea.",
+            "hr": "Biciklistička staza vodi odmah uz more."
           },
           "tip_5lang": {
             "de": "Der Weg zum Leuchtturm hat ein leichtes Gefälle — angenehm bergab.",
             "hu": "A világítótoronyhoz vezető út enyhén lejt, kellemes lefelé tekerni.",
             "ro": "Drumul către far are o pantă ușoară, plăcut la coborâre cu bicicleta.",
             "en": "The path to the lighthouse has a gentle gradient — a pleasant downhill spin.",
-            "hr": "Staza do svjetionika ima blagi nagib — ugodna vožnja nizbrdo."
+            "hr": "Staza do svjetionika ima blag nagib — ugodno nizbrdo."
           }
         },
         {
@@ -1057,7 +1090,8 @@
             "de": "Statue des Heiligen Petrus",
             "hu": "Szent Péter-szobor",
             "ro": "Statuia Sfântului Petru",
-            "en": "Statue of St. Peter"
+            "en": "Statue of St. Peter",
+            "hr": "Spomenik sv. Petra"
           },
           "coords": [
             17.0135,
@@ -1072,14 +1106,15 @@
             "de": "Genießen Sie den Wind vom Meer.",
             "hu": "Élvezze a tenger felől érkező szellőt.",
             "ro": "Bucurați-vă de briza mării.",
-            "en": "Enjoy the breeze coming from the sea."
+            "en": "Enjoy the breeze coming from the sea.",
+            "hr": "Uživajte u povjetarcu s mora."
           },
           "tip_5lang": {
             "de": "Hier gibt es feste Fahrradständer, etwas seltener und meist frei.",
             "hu": "Itt vannak rögzített kerékpártartók, viszonylag ritkán használtak.",
             "ro": "Aici există suporturi fixe pentru biciclete, rar folosite și de obicei libere.",
             "en": "Fixed bike racks here are rarely full and almost always have a free slot.",
-            "hr": "Fiksni stalci za bicikle ovdje su rijetko puni i gotovo uvijek slobodni."
+            "hr": "Fiksne stojke za bicikle ovdje rijetko kada su pune i gotovo uvijek imaju slobodno mjesto."
           }
         },
         {
@@ -1087,7 +1122,8 @@
             "de": "Vepric-Heiligtum",
             "hu": "Vepric-szentély",
             "ro": "Sanctuarul Vepric",
-            "en": "Vepric Sanctuary"
+            "en": "Vepric Sanctuary",
+            "hr": "Svetište Vepric"
           },
           "coords": [
             17.0005,
@@ -1102,14 +1138,15 @@
             "de": "Eine angenehme Fahrt im Schatten der Pinien.",
             "hu": "Kellemes tekerés a fenyőfák árnyékában.",
             "ro": "O plimbare plăcută la umbra pinilor.",
-            "en": "A pleasant ride in the shade of pine trees."
+            "en": "A pleasant ride in the shade of pine trees.",
+            "hr": "Ugodna vožnja u hladu borova."
           },
           "tip_5lang": {
             "de": "Die letzten 800 Meter sind unbefestigt, fahren Sie langsam und vorsichtig.",
             "hu": "Az utolsó 800 méter földút, lassan és óvatosan tekerjen.",
             "ro": "Ultimii 800 de metri sunt nepavați, mergeți încet și cu grijă.",
             "en": "The final 800 metres are unpaved — ride slowly and watch your line.",
-            "hr": "Posljednjih 800 metara je neasfaltirano — vozite polako."
+            "hr": "Zadnjih 800 metara su neasfaltirani — vozite polako i pazite liniju."
           }
         },
         {
@@ -1117,7 +1154,8 @@
             "de": "Sternwarte Makarska",
             "hu": "Makarskai Csillagvizsgáló",
             "ro": "Observatorul Makarska",
-            "en": "Makarska Observatory"
+            "en": "Makarska Observatory",
+            "hr": "Opservatorij Makarska"
           },
           "coords": [
             17.0235,
@@ -1132,14 +1170,15 @@
             "de": "Ein kleiner Anstieg, der sich für die Sicht lohnt.",
             "hu": "Kis emelkedő, amely megéri a kilátásért.",
             "ro": "O mică urcare care merită pentru priveliște.",
-            "en": "A small climb that is worth it for the view."
+            "en": "A small climb that is worth it for the view.",
+            "hr": "Mali uspon koji se isplati zbog pogleda."
           },
           "tip_5lang": {
             "de": "Die Sternwarte liegt am Hang — der letzte Aufstieg ist steil, ein E-Bike hilft.",
             "hu": "A csillagvizsgáló dombon áll, az utolsó emelkedő meredek, e-bike-kal könnyebb.",
             "ro": "Observatorul este pe deal, ultima urcare este abruptă, un e-bike ajută.",
             "en": "The observatory sits on a hillside — the last climb is steep; an e-bike helps.",
-            "hr": "Zvjezdarnica je na brdu — posljednji uspon je strm; e-bicikl pomaže."
+            "hr": "Opservatorij se nalazi na obronku — zadnje penjanje je strmo; električni bicikl pomaže."
           }
         }
       ],
@@ -1148,7 +1187,7 @@
         "hu": "Tekerjen reggel a nyüzsgő Riva mentén egészen a Szent Péter-világítótoronyig. Kövesse a part menti utat északra, árnyas fenyőerdőkön át a Vepric-szentélyig. Kapaszkodjon fel a csillagvizsgálóhoz a háztetők feletti panorámáért. Zárja a túrát egy csobbanással a kristálytiszta tengerben valamelyik kavicsos strandon.",
         "ro": "Pedalați dimineața pe faleza Riva până la farul Sfântul Petru. Urmați poteca de coastă spre nord, prin păduri de pini, până la sanctuarul Vepric. Urcați spre observator pentru o priveliște superbă peste acoperișurile orașului. Încheiați turul cu o săritură în apa cristalină a unei plaje cu pietriș.",
         "en": "Cycle along the lively Riva in the morning and out to the St. Peter Lighthouse. Follow the coastal path north through shady pine forests to the Vepric Sanctuary. Climb the small hill to the observatory for a wide view over the city's rooftops. End your tour with a dip in the crystal-clear water at one of the pebble beaches.",
-        "hr": "Vozite bicikl duž živahne rive ujutro pa sve do svjetionika Sv. Petar. Slijedite obalnu stazu prema sjeveru kroz sjenovite borove šume do svetišta Vepric. Popnite se na malo brdo do zvjezdarnice za širok pogled na krovove grada. Završite turu kupanjem u kristalno čistoj vodi na jednoj od šljunčanih plaža."
+        "hr": "Vozite uz živahnu Rivu ujutro i prema svjetioniku sv. Petra. Slijedite obalnu stazu prema sjeveru kroz sjenovite borove šume do Svetišta Vepric. Popnite se na malo brdo do opservatorija za širok pogled preko gradskih krovova. Završite turu kupanjem u kristalno čistom moru na jednoj od šljunčanih plaža."
       },
       "gastro_picks": {
         "de": [
@@ -1326,11 +1365,11 @@
           "Take advantage of the early morning to beat the heat."
         ],
         "hr": [
-          "Obalna staza prema sjeveru je ravna i idealna za rekreativce.",
-          "Budite oprezni na rivi zbog velikog broja pješaka.",
-          "Cesta prema Vepricu ima blagi, ali savladiv uspon.",
-          "Uvijek sigurno zaključajte bicikl prilikom obilaska znamenitosti.",
-          "Iskoristite rano jutro kako biste izbjegli vrućinu."
+          "Obalna staza prema sjeveru je ravna i idealna za rekreativne vozače.",
+          "Pazite na Rivi zbog pojačanog pješačkog prometa.",
+          "Put prema Vepricu ima blag, ali podnošljiv uspon.",
+          "Uvijek dobro zaključajte svoj bicikl prilikom posjeta znamenitostima.",
+          "Iskoristite rano jutro da izbjegnete vrućinu."
         ]
       },
       "variants": {
@@ -1339,7 +1378,8 @@
             "de": "Radeln Sie am Morgen entlang der lebhaften Riva und hinaus zum Leuchtturm St. Peter. Folgen Sie dem Küstenweg nach Norden durch schattige Pinienwälder bis zum Vepric-Heiligtum. Erklimmen Sie den kleinen Hügel zur Sternwarte für einen weiten Blick über die Dächer. Beenden Sie Ihre Tour mit einem Sprung ins kristallklare Wasser an einem der Kieselstrände.",
             "hu": "Tekerjen reggel a nyüzsgő Riva mentén egészen a Szent Péter-világítótoronyig. Kövesse a part menti utat északra, árnyas fenyőerdőkön át a Vepric-szentélyig. Kapaszkodjon fel a csillagvizsgálóhoz a háztetők feletti panorámáért. Zárja a túrát egy csobbanással a kristálytiszta tengerben valamelyik kavicsos strandon.",
             "ro": "Pedalați dimineața pe faleza Riva până la farul Sfântul Petru. Urmați poteca de coastă spre nord, prin păduri de pini, până la sanctuarul Vepric. Urcați spre observator pentru o priveliște superbă peste acoperișurile orașului. Încheiați turul cu o săritură în apa cristalină a unei plaje cu pietriș.",
-            "en": "Cycle along the lively Riva in the morning and out to the St. Peter Lighthouse. Follow the coastal path north through shady pine forests to the Vepric Sanctuary. Climb the small hill to the observatory for a wide view over the city's rooftops. End your tour with a dip in the crystal-clear water at one of the pebble beaches."
+            "en": "Cycle along the lively Riva in the morning and out to the St. Peter Lighthouse. Follow the coastal path north through shady pine forests to the Vepric Sanctuary. Climb the small hill to the observatory for a wide view over the city's rooftops. End your tour with a dip in the crystal-clear water at one of the pebble beaches.",
+            "hr": "Vozite uz živahnu Rivu ujutro i prema svjetioniku sv. Petra. Slijedite obalnu stazu prema sjeveru kroz sjenovite borove šume do Svetišta Vepric. Popnite se na malo brdo do opservatorija za širok pogled preko gradskih krovova. Završite turu kupanjem u kristalno čistom moru na jednoj od šljunčanih plaža."
           },
           "stops": [
             {
@@ -1347,7 +1387,8 @@
                 "de": "Riva Makarska",
                 "hu": "Makarskai Riva",
                 "ro": "Faleza Riva",
-                "en": "Makarska Riva"
+                "en": "Makarska Riva",
+                "hr": "Makarska Riva"
               },
               "tip_5lang": null
             },
@@ -1356,7 +1397,8 @@
                 "de": "Leuchtturm St. Peter",
                 "hu": "Szent Péter-világítótorony",
                 "ro": "Farul Sfântul Petru",
-                "en": "St. Peter Lighthouse"
+                "en": "St. Peter Lighthouse",
+                "hr": "Svjetionik sv. Petra"
               },
               "tip_5lang": null
             },
@@ -1365,7 +1407,8 @@
                 "de": "Statue des Heiligen Petrus",
                 "hu": "Szent Péter-szobor",
                 "ro": "Statuia Sfântului Petru",
-                "en": "Statue of St. Peter"
+                "en": "Statue of St. Peter",
+                "hr": "Spomenik sv. Petra"
               },
               "tip_5lang": null
             },
@@ -1374,7 +1417,8 @@
                 "de": "Vepric-Heiligtum",
                 "hu": "Vepric-szentély",
                 "ro": "Sanctuarul Vepric",
-                "en": "Vepric Sanctuary"
+                "en": "Vepric Sanctuary",
+                "hr": "Svetište Vepric"
               },
               "tip_5lang": null
             },
@@ -1383,7 +1427,8 @@
                 "de": "Sternwarte Makarska",
                 "hu": "Makarskai Csillagvizsgáló",
                 "ro": "Observatorul Makarska",
-                "en": "Makarska Observatory"
+                "en": "Makarska Observatory",
+                "hr": "Opservatorij Makarska"
               },
               "tip_5lang": null
             }
@@ -1534,6 +1579,13 @@
               "The road to Vepric has a slight but manageable incline.",
               "Always lock your bike securely when visiting sights.",
               "Take advantage of the early morning to beat the heat."
+            ],
+            "hr": [
+              "Obalna staza prema sjeveru je ravna i idealna za rekreativne vozače.",
+              "Pazite na Rivi zbog pojačanog pješačkog prometa.",
+              "Put prema Vepricu ima blag, ali podnošljiv uspon.",
+              "Uvijek dobro zaključajte svoj bicikl prilikom posjeta znamenitostima.",
+              "Iskoristite rano jutro da izbjegnete vrućinu."
             ]
           }
         },
@@ -1543,7 +1595,7 @@
             "hu": "A túra óvatosan indul a vizes Riván. A gumik jól tapadnak az aszfalton, de a fehér kövek koncentrációt igényelnek.\n\nA Szent Péter-világítótoronynál oldalról vág az eső. Egy rövid megálló a szobornál megmutatja a természet nyers erejét.\n\nA Vepric-szentélyhez vezető emelkedő fárasztó, de a sűrű fák természetes védelmet nyújtanak a felhőszakadás ellen.\n\nA végén az obszervatórium felé vesszük az irányt. Még ha felhős is az ég, a létesítmény titokzatosnak tűnik az esőben.",
             "ro": "Călătoria începe cu prudență pe faleza Riva udă. Anvelopele aderă bine pe asfalt, dar pietrele albe necesită concentrare.\n\nLa farul Sf. Petru, ploaia bate din lateral. O scurtă oprire la statuie dezvăluie forța brută a naturii.\n\nUrcarea spre sanctuarul Vepric este solicitantă, dar copacii deși oferă o protecție naturală împotriva ploii torențiale.\n\nLa final, drumul duce spre observator. Chiar dacă cerul este acoperit, locația pare misterioasă și pustie în ploaie.",
             "en": "The ride starts cautiously on the wet Riva. Tires grip well on asphalt, but the white stones require focused concentration.\n\nAt St. Peter Lighthouse, the rain lashes from the side. A brief pause at the statue reveals the raw power of the coastal weather.\n\nThe climb to Vepric Sanctuary is strenuous, but the dense trees offer natural shelter from the worst of the downpour.\n\nFinally, the route heads to the Observatory. Even with overcast skies, the facility feels mysterious and evocative in the rain.",
-            "hr": "Vožnja počinje oprezno na mokroj rivi. Gume dobro drže na asfaltu, ali bijeli kamen zahtijeva usredotočenost.\n\nKod svjetionika Sv. Petar kiša udara sa strane. Kratka pauza kod kipa otkriva sirovu snagu obalnog vremena.\n\nUspon do svetišta Vepric je naporan, ali gusto drveće nudi prirodni zaklon od najgore kiše.\n\nNa kraju, ruta vodi do zvjezdarnice. Čak i pod oblačnim nebom, objekt djeluje tajanstveno na kiši."
+            "hr": "Vožnja počinje oprezno po mokroj Rivi. Gume dobro prianjaju na asfaltu, ali bijele kamene ploče zahtijevaju potpunu koncentraciju.\n\nKod svjetionika sv. Petra kiša šiba sa strane. Kratak zastanak kod spomenika otkriva sirovu snagu obalnog vremena.\n\nUspon do Svetišta Vepric je zahtjevan, ali gusta krošnja drveća nudi prirodni zaklon od najgoreg pljuska.\n\nNa kraju ruta vodi do Opservatorija. Čak i pri oblačnom nebu, objekt u kiši djeluje mistično i nadahnjujuće."
           },
           "stops": [
             {
@@ -1553,7 +1605,7 @@
                 "hu": "Kerülje a fehér kőlapokat; csúszásveszély!",
                 "ro": "Evitați plăcile de piatră albă; pericol de alunecare!",
                 "en": "Avoid the white stone slabs; high slip risk!",
-                "hr": "Izbjegavajte bijele kamene ploče; visok rizik od klizanja!"
+                "hr": "Izbjegavajte bijele kamene ploče; veliki rizik od klizanja!"
               }
             },
             {
@@ -1563,7 +1615,7 @@
                 "hu": "Vigyázzon a széllökésekre a parton kerékpározva.",
                 "ro": "Atenție la rafalele de vânt când mergeți pe bicicletă.",
                 "en": "Watch out for wind gusts while cycling along the coast.",
-                "hr": "Pazite na nalete vjetra dok vozite bicikl uz obalu."
+                "hr": "Pazite na nalete vjetra dok vozite uz obalu."
               }
             },
             {
@@ -1573,7 +1625,7 @@
                 "hu": "Rövid megálló; ellenőrizze a fékeket a vizes úton.",
                 "ro": "Scurt popas; testați frânele pe carosabil umed.",
                 "en": "Short stop; test your brakes on the wet surface.",
-                "hr": "Kratko zaustavljanje; testirajte kočnice na mokroj podlozi."
+                "hr": "Kratko zaustavljanje; isprobajte kočnice na mokroj podlozi."
               }
             },
             {
@@ -1583,7 +1635,7 @@
                 "hu": "A barlang-szentély tökéletes védelmet nyújt az eső elől.",
                 "ro": "Grota oferă protecție perfectă împotriva ploii.",
                 "en": "The grotto shrine offers perfect shelter from the rain.",
-                "hr": "Špiljsko svetište nudi savršen zaklon od kiše."
+                "hr": "Grotto-mlin svetište pruža savršen zaklon od kiše."
               }
             },
             {
@@ -1593,7 +1645,7 @@
                 "hu": "Ügyeljen a vizes levelekre a felvezető úton.",
                 "ro": "Atenție la frunzele ude pe drumul de acces.",
                 "en": "Watch out for wet leaves on the access road.",
-                "hr": "Pazite na mokro lišće na prilaznoj cesti."
+                "hr": "Pazite na mokro lišće na pristupnom putu."
               }
             }
           ],
@@ -1624,9 +1676,9 @@
             ],
             "hr": [
               "Nosite punu kišnu jaknu i vodootporne navlake za cipele.",
-              "Lagano smanjite tlak u gumama za bolje prianjanje na mokrom asfaltu.",
-              "Držite dvostruko veći razmak od ostalih sudionika u prometu.",
-              "Iskoristite svetište Vepric za dužu suhu pauzu."
+              "Smanjite tlak u gumama za bolje prianjanje na mokrom asfaltu.",
+              "Držite dvostruku uobičajenu udaljenost od drugih sudionika u prometu.",
+              "Iskoristite Svetište Vepric za duži suhi predah."
             ]
           }
         },
@@ -1636,7 +1688,7 @@
             "hu": "A Riva csendesen fekszik a téli hajnalban. Az arcunkba vágó hűvös szellő felébreszti az életkedvünket a mai túrához.\n\nA világítótoronynál élvezhetjük a magányt. Szent Péter szobra a mélykék, nyugodt téli tenger felett őrködik.\n\nA Vepric-szentélyhez vezető út hűvös fenyőerdőkön át visz. A levegő olyan tiszta, hogy a felettünk magasodó Biokovo szikláinak minden részlete látszik.\n\nA végén feltekerünk az obszervatóriumhoz. Télen a legtisztábbak az éjszakák, ideális a csillagnézéshez naplemente után.",
             "ro": "Faleza Riva este liniștită în zorii de iarnă. Briza rece pe față vă trezește simțurile pentru turul de astăzi.\n\nLa far, vă bucurați de singurătate. Statuia Sf. Petru privește peste o mare de iarnă albastră și calmă.\n\nDrumul spre sanctuarul Vepric trece prin păduri de pini răcoroase. Aerul este atât de curat încât se vede orice detaliu al stâncilor Biokovo.\n\nLa final, urcați la observator. Iarna nopțile sunt cele mai senine, ideale pentru observarea stelelor după apus.",
             "en": "The Riva lies quiet in the winter morning light. The cool breeze on your face awakens your spirit for today's cycling tour.\n\nAt the lighthouse, enjoy the rare solitude. St. Peter's statue gazes over a deep blue, calm winter sea.\n\nThe route to Vepric Sanctuary winds through cool pine forests. The air is so clear that every detail of the Biokovo cliffs above is visible.\n\nFinally, head up to the Observatory. Winter nights offer the clearest skies, perfect for stargazing right after the early sunset.",
-            "hr": "Riva miruje na zimskom jutarnjem svjetlu. Hladan povjetarac na licu budi duh za današnju biciklističku turu.\n\nKod svjetionika uživajte u rijetkoj samoći. Kip sv. Petra gleda na tamnoplavo, mirno zimsko more.\n\nRuta do svetišta Vepric vijuga kroz hladne borove šume. Zrak je toliko čist da se vidi svaki detalj litica Biokova.\n\nNa kraju, krenite prema zvjezdarnici. Zimske noći nude najjasnije nebo, savršeno za promatranje zvijezda odmah nakon ranog zalaska sunca."
+            "hr": "Riva leži tiho u zimskom jutarnjem svjetlu. Hladan povjetarac budi duh za današnju biciklističku turu.\n\nKod svjetionika uživajte u rijetkom osjećaju samoće. Kip sv. Petra gleda preko duboko plavog, mirnog zimskog mora.\n\nRuta do Svetišta Vepric vijuga kroz hladne borove šume. Zrak je toliko čist da je svaki detalj biokovskih stijena iznad vidljiv.\n\nNa kraju se uputite do Opservatorija. Zimske noći nude najsjanija neba, savršena za promatranje zvijezda odmah nakon ranog zalaska sunca."
           },
           "stops": [
             {
@@ -1646,7 +1698,7 @@
                 "hu": "Kesztyű kötelező a reggeli tekeréshez.",
                 "ro": "Mănușile sunt obligatorii pentru plimbarea de dimineață.",
                 "en": "Gloves are mandatory for the early morning ride.",
-                "hr": "Rukavice su obavezne za ranojutarnju vožnju."
+                "hr": "Rukavice su obavezne za ranu jutarnju vožnju."
               }
             },
             {
@@ -1656,7 +1708,7 @@
                 "hu": "Élvezze a tiszta kilátást egészen a szigetekig.",
                 "ro": "Bucurați-vă de vizibilitatea clară până la insule.",
                 "en": "Enjoy the crystal-clear views all the way to the islands.",
-                "hr": "Uživajte u kristalno čistom pogledu sve do otoka."
+                "hr": "Uživajte u kristalno čistim pogledima sve do otoka."
               }
             },
             {
@@ -1666,7 +1718,7 @@
                 "hu": "Rövid megálló; maradjon mozgásban a hideg ellen.",
                 "ro": "Oprire scurtă; mențineți corpul în mișcare.",
                 "en": "Short stop; keep your body moving to stay warm.",
-                "hr": "Kratko zaustavljanje; ostanite u pokretu kako biste se zagrijali."
+                "hr": "Kratko zaustavljanje; držite tijelo u pokretu da se ugrije."
               }
             },
             {
@@ -1676,7 +1728,7 @@
                 "hu": "Békés, csendes hely a főszezonon kívül.",
                 "ro": "Un loc liniștit și tăcut în afara sezonului.",
                 "en": "A peaceful, quiet place during the off-season.",
-                "hr": "Mirno i tiho mjesto tijekom izvansezone."
+                "hr": "Mirno, tiho mjesto tijekom izvansezone."
               }
             },
             {
@@ -1686,7 +1738,7 @@
                 "hu": "Csomagoljon meleg ruhát a sötétben való leguruláshoz.",
                 "ro": "Luați haine groase pentru coborârea pe întuneric.",
                 "en": "Pack warm clothes for the descent in the dark.",
-                "hr": "Spakirajte toplu odjeću za spust po mraku."
+                "hr": "Spakirajte toplu odjeću za spust u mraku."
               }
             }
           ],
@@ -1716,10 +1768,10 @@
               "Carry a thermos with warm tea to stay hydrated and warm."
             ],
             "hr": [
-              "Nosite odjeću otpornu na vjetar, posebno za nizbrdice.",
-              "Dani su kratki; započnite turu najkasnije do 9:00 ujutro.",
-              "Provjerite svjetla na biciklu za povratak u kasno poslijepodne.",
-              "Nosite termosicu s toplim čajem kako biste ostali hidrirani i ugrijani."
+              "Nosite vjetrootpornu odjeću, posebno za spusteve.",
+              "Dani su kratki; započnite turu najkasnije do 9:00.",
+              "Provjerite svjetla na biciklu za povratak kasno popodne.",
+              "Ponesite termosicu s toplim čajem za hidrataciju i zagrijavanje."
             ]
           }
         }
@@ -1738,7 +1790,8 @@
             "de": "Kačić-Platz",
             "hu": "Kačić tér",
             "ro": "Piața Kačić",
-            "en": "Kačić Square"
+            "en": "Kačić Square",
+            "hr": "Kačićev trg"
           },
           "coords": [
             17.0195,
@@ -1753,14 +1806,15 @@
             "de": "Parken Sie am besten am Busbahnhof.",
             "hu": "A legjobb a buszpályaudvarnál parkolni.",
             "ro": "Cel mai bine este să parcați la autogară.",
-            "en": "Best to park near the bus station."
+            "en": "Best to park near the bus station.",
+            "hr": "Najbolje je parkirati blizu autobusnog kolodvora."
           },
           "tip_5lang": {
             "de": "Der Platz ist autofrei — der nächste kostenpflichtige Parkplatz liegt 300 Meter entfernt.",
             "hu": "A tér forgalom elől elzárt, a legközelebbi fizetős parkoló 300 méterre van.",
             "ro": "Piața este pietonală, cea mai apropiată parcare cu plată este la 300 de metri.",
             "en": "The square is pedestrianised — the nearest paid car park is 300 metres away.",
-            "hr": "Trg je pješačka zona — najbliži plaćeni parking udaljen je 300 metara."
+            "hr": "Trg je pješačka zona — najbliži plaćeni parking je 300 metara udaljen."
           }
         },
         {
@@ -1768,7 +1822,8 @@
             "de": "Malakologisches Museum",
             "hu": "Malakológiai Múzeum",
             "ro": "Muzeul Malacologic",
-            "en": "Malacological Museum"
+            "en": "Malacological Museum",
+            "hr": "Malakološki muzej"
           },
           "coords": [
             17.021,
@@ -1783,14 +1838,15 @@
             "de": "Befindet sich in einem alten Franziskanerkloster.",
             "hu": "Egy régi ferences kolostorban található.",
             "ro": "Se află într-o veche mănăstire franciscană.",
-            "en": "Located in an old Franciscan monastery."
+            "en": "Located in an old Franciscan monastery.",
+            "hr": "Smešten u starom franjevačkom samostanu."
           },
           "tip_5lang": {
             "de": "Vor dem Museum stehen einige Behindertenparkplätze, die strikt kontrolliert werden.",
             "hu": "A múzeum előtt mozgáskorlátozott helyek vannak, ezeket szigorúan ellenőrzik.",
             "ro": "În fața muzeului sunt locuri pentru persoane cu dizabilități, strict controlate.",
             "en": "The spots outside the museum are disabled-only and are checked strictly.",
-            "hr": "Mjesta ispred muzeja su samo za osobe s invaliditetom i strogo se kontroliraju."
+            "hr": "Mjesta ispred muzeja su samo za osobe s invaliditetom i strogo se provjeravaju."
           }
         },
         {
@@ -1798,7 +1854,8 @@
             "de": "Biokovo-Naturpark",
             "hu": "Biokovo Natúrpark",
             "ro": "Parcul Natural Biokovo",
-            "en": "Biokovo Nature Park"
+            "en": "Biokovo Nature Park",
+            "hr": "Park prirode Biokovo"
           },
           "coords": [
             17.085,
@@ -1813,14 +1870,15 @@
             "de": "Der Skywalk bietet einen spektakulären Glasbodenblick.",
             "hu": "A Skywalk látványos üvegpadlós kilátást nyújt.",
             "ro": "Skywalk oferă o priveliște spectaculoasă prin podeaua de sticlă.",
-            "en": "The Skywalk offers spectacular glass-floor views."
+            "en": "The Skywalk offers spectacular glass-floor views.",
+            "hr": "Skywalk nudi spektakularne poglede kroz staklenu podnu ploču."
           },
           "tip_5lang": {
             "de": "Die Bergstraße ist eng und einspurig — fragen Sie nach den Anmeldezeiten am Eingang.",
             "hu": "A hegyi út keskeny és egysávos, érdeklődjön a bejáratnál az időablakokról.",
             "ro": "Drumul de munte este îngust și cu o singură bandă, întrebați despre orarul la intrare.",
             "en": "The mountain road is narrow and single-lane — ask about timed entry slots at the gate.",
-            "hr": "Planinska cesta je uska i jednosmjerna — raspitajte se o terminima ulaza na kapiji."
+            "hr": "Planinska cesta je uska i jednosmjerna — raspitajte se o vremenskim terminima ulaska na šaltere."
           }
         },
         {
@@ -1828,7 +1886,8 @@
             "de": "Vepric-Heiligtum",
             "hu": "Vepric-szentély",
             "ro": "Sanctuarul Vepric",
-            "en": "Vepric Sanctuary"
+            "en": "Vepric Sanctuary",
+            "hr": "Svetište Vepric"
           },
           "coords": [
             17.0005,
@@ -1843,14 +1902,15 @@
             "de": "Großer kostenloser Parkplatz direkt am Eingang.",
             "hu": "Nagy ingyenes parkoló közvetlenül a bejáratnál.",
             "ro": "Parcare mare gratuită chiar la intrare.",
-            "en": "Large free parking right at the entrance."
+            "en": "Large free parking right at the entrance.",
+            "hr": "Veliko besplatno parkiralište odmah na ulazu."
           },
           "tip_5lang": {
             "de": "Der große Pilgerparkplatz vor dem Heiligtum ist kostenlos und meist halbleer.",
             "hu": "A szentély előtti nagy zarándokparkoló ingyenes és általában félig üres.",
             "ro": "Parcarea mare pentru pelerini din fața sanctuarului este gratuită și de obicei pe jumătate goală.",
             "en": "The large pilgrim car park at the sanctuary is free and rarely more than half full.",
-            "hr": "Veliki parking za hodočasnike u svetištu je besplatan i rijetko pun."
+            "hr": "Veliko parkiralište za hodočasnike kod svetišta besplatno je i rijetko je više od pola popunjeno."
           }
         },
         {
@@ -1858,7 +1918,8 @@
             "de": "Riva Makarska",
             "hu": "Makarskai Riva",
             "ro": "Faleza Riva",
-            "en": "Makarska Riva"
+            "en": "Makarska Riva",
+            "hr": "Makarska Riva"
           },
           "coords": [
             17.0185,
@@ -1873,14 +1934,15 @@
             "de": "Genießen Sie ein spätes Mittagessen am Meer.",
             "hu": "Élvezzen egy kései ebédet a tengerparton.",
             "ro": "Bucurați-vă de un prânz târziu lângă mare.",
-            "en": "Enjoy a late lunch by the sea."
+            "en": "Enjoy a late lunch by the sea.",
+            "hr": "Uživajte u kasnom ručku uz more."
           },
           "tip_5lang": {
             "de": "Parken Sie im Garažni dom Vrh — bequeme 5 Minuten zur Riva.",
             "hu": "Parkoljon a Garažni dom Vrh fedett parkolóban, 5 perc séta a Riváig.",
             "ro": "Parcați la Garažni dom Vrh, sunt 5 minute confortabile pe jos până la Riva.",
             "en": "Park at the Garažni dom Vrh garage — a comfortable five-minute walk to the Riva.",
-            "hr": "Parkirajte u garaži Garažni dom Vrh — pet minuta ugodne šetnje do rive."
+            "hr": "Parkirajte u garaži Garažni dom Vrh — ugodnih pet minuta hoda do Rive."
           }
         }
       ],
@@ -1889,7 +1951,7 @@
         "hu": "Kezdje a napot az óvárosban és a lenyűgöző kagylómúzeumban. Autózzon fel a Biokovo Natúrparkba a Skywalkhoz a felejthetetlen panorámáért. Délután látogasson el a békés Vepric-szentélyhez, amely egy természetes barlangban található. Zárja a napot lazítással a Riván, figyelve a kikötőbe érkező hajókat és az Adriát.",
         "ro": "Începeți cu o vizită în orașul vechi și la fascinantul muzeu al scoicilor. Conduceți apoi spre Parcul Natural Biokovo pentru Skywalk și o panoramă de neuitat. După-amiaza, vizitați liniștitul sanctuar Vepric, situat într-o grotă naturală. Încheiați ziua relaxat pe Riva, admirând bărcile care intră în port și Marea Adriatică.",
         "en": "Start with a visit to the old town and the fascinating shell museum. Then drive up to the Biokovo Nature Park to the Skywalk for an unforgettable panorama. In the afternoon, visit the peaceful Vepric Sanctuary, located in a natural rock cave. End the day relaxing on the Riva, watching the incoming boats and the Adriatic sea.",
-        "hr": "Započnite posjetom starom gradu i fascinantnom muzeju školjaka. Zatim se odvezite do Parka prirode Biokovo na Skywalk za nezaboravnu panoramu. Poslijepodne posjetite mirno svetište Vepric, smješteno u prirodnoj stijeni. Završite dan opuštajući se na rivi, promatrajući brodove i Jadransko more."
+        "hr": "Započnite posjetom starom gradu i fascinantnom muzeju školjki. Zatim se vozite do Parka prirode Biokovo do Skywalka za nezaboravnu panoramu. Poslijepodne posjetite mirno svetište Vepric, smješteno u prirodnoj kamenoj špilji. Dan završite opuštanjem na Rivi, promatrajući pristajuće brodove i Jadransko more."
       },
       "gastro_picks": {
         "de": [
@@ -2067,11 +2129,11 @@
           "Check the weather conditions before heading to the nature park."
         ],
         "hr": [
-          "Parking na rivi je ograničen; koristite parkirališta blizu autobusnog kolodvora.",
-          "Cesta u parku Biokovo je vrlo uska i strma.",
-          "Planirajte izlet na Biokovo rano ujutro kako biste izbjegli gužve.",
-          "Vepric ima besplatan parking i vrlo je lako dostupan automobilom.",
-          "Provjerite vremenske uvjete prije odlaska u park prirode."
+          "Parkiranje na Rivi je ograničeno; koristite parkirališta u blizini autobusnog kolodvora.",
+          "Cesta u Parku Biokovo je vrlo uska i strma.",
+          "Isplanirajte izlet na Biokovo rano ujutro kako biste izbjegli prometne gužve.",
+          "Vepric ima besplatno parkiralište i vrlo je lako dostupan autom.",
+          "Provjerite vremenske uvjete prije polaska u park prirode."
         ]
       },
       "variants": {
@@ -2080,7 +2142,8 @@
             "de": "Starten Sie mit einem Besuch der Altstadt und des faszinierenden Muschelmuseums. Fahren Sie dann hoch in den Biokovo-Naturpark zum Skywalk für ein unvergessliches Panorama. Besuchen Sie am Nachmittag das friedliche Vepric-Heiligtum, das in einer natürlichen Felsengrotte liegt. Beenden Sie den Tag entspannt an der Riva mit Blick auf die einlaufenden Boote und die Adria.",
             "hu": "Kezdje a napot az óvárosban és a lenyűgöző kagylómúzeumban. Autózzon fel a Biokovo Natúrparkba a Skywalkhoz a felejthetetlen panorámáért. Délután látogasson el a békés Vepric-szentélyhez, amely egy természetes barlangban található. Zárja a napot lazítással a Riván, figyelve a kikötőbe érkező hajókat és az Adriát.",
             "ro": "Începeți cu o vizită în orașul vechi și la fascinantul muzeu al scoicilor. Conduceți apoi spre Parcul Natural Biokovo pentru Skywalk și o panoramă de neuitat. După-amiaza, vizitați liniștitul sanctuar Vepric, situat într-o grotă naturală. Încheiați ziua relaxat pe Riva, admirând bărcile care intră în port și Marea Adriatică.",
-            "en": "Start with a visit to the old town and the fascinating shell museum. Then drive up to the Biokovo Nature Park to the Skywalk for an unforgettable panorama. In the afternoon, visit the peaceful Vepric Sanctuary, located in a natural rock cave. End the day relaxing on the Riva, watching the incoming boats and the Adriatic sea."
+            "en": "Start with a visit to the old town and the fascinating shell museum. Then drive up to the Biokovo Nature Park to the Skywalk for an unforgettable panorama. In the afternoon, visit the peaceful Vepric Sanctuary, located in a natural rock cave. End the day relaxing on the Riva, watching the incoming boats and the Adriatic sea.",
+            "hr": "Započnite posjetom starom gradu i fascinantnom muzeju školjki. Zatim se vozite do Parka prirode Biokovo do Skywalka za nezaboravnu panoramu. Poslijepodne posjetite mirno svetište Vepric, smješteno u prirodnoj kamenoj špilji. Dan završite opuštanjem na Rivi, promatrajući pristajuće brodove i Jadransko more."
           },
           "stops": [
             {
@@ -2088,7 +2151,8 @@
                 "de": "Kačić-Platz",
                 "hu": "Kačić tér",
                 "ro": "Piața Kačić",
-                "en": "Kačić Square"
+                "en": "Kačić Square",
+                "hr": "Kačićev trg"
               },
               "tip_5lang": null
             },
@@ -2097,7 +2161,8 @@
                 "de": "Malakologisches Museum",
                 "hu": "Malakológiai Múzeum",
                 "ro": "Muzeul Malacologic",
-                "en": "Malacological Museum"
+                "en": "Malacological Museum",
+                "hr": "Malakološki muzej"
               },
               "tip_5lang": null
             },
@@ -2106,7 +2171,8 @@
                 "de": "Biokovo-Naturpark",
                 "hu": "Biokovo Natúrpark",
                 "ro": "Parcul Natural Biokovo",
-                "en": "Biokovo Nature Park"
+                "en": "Biokovo Nature Park",
+                "hr": "Park prirode Biokovo"
               },
               "tip_5lang": null
             },
@@ -2115,7 +2181,8 @@
                 "de": "Vepric-Heiligtum",
                 "hu": "Vepric-szentély",
                 "ro": "Sanctuarul Vepric",
-                "en": "Vepric Sanctuary"
+                "en": "Vepric Sanctuary",
+                "hr": "Svetište Vepric"
               },
               "tip_5lang": null
             },
@@ -2124,7 +2191,8 @@
                 "de": "Riva Makarska",
                 "hu": "Makarskai Riva",
                 "ro": "Faleza Riva",
-                "en": "Makarska Riva"
+                "en": "Makarska Riva",
+                "hr": "Makarska Riva"
               },
               "tip_5lang": null
             }
@@ -2275,6 +2343,13 @@
               "Plan your Biokovo trip early in the morning to avoid traffic jams.",
               "Vepric has free parking and is very easily accessible by car.",
               "Check the weather conditions before heading to the nature park."
+            ],
+            "hr": [
+              "Parkiranje na Rivi je ograničeno; koristite parkirališta u blizini autobusnog kolodvora.",
+              "Cesta u Parku Biokovo je vrlo uska i strma.",
+              "Isplanirajte izlet na Biokovo rano ujutro kako biste izbjegli prometne gužve.",
+              "Vepric ima besplatno parkiralište i vrlo je lako dostupan autom.",
+              "Provjerite vremenske uvjete prije polaska u park prirode."
             ]
           }
         },
@@ -2284,7 +2359,7 @@
             "hu": "A Kačić térről a száraz autóval egyenesen a Malakológiai Múzeumhoz hajtunk. Ideális délelőtt a benti kultúrához.\n\nDélben az út a Biokovo Natúrparkba vezet. Esőben is misztikus a ködös hangulat a hegyekben, de óvatosságot igényel.\n\nDélután látogassa meg a Vepric-szentélyt. A barlang védelmet nyújt, miközben az eső a sűrű lombkoronán kopog.\n\nA nap a Riván ér véget. Parkoljon közel a központhoz, hogy száraz lábbal érjen be az egyik kiváló étterembe.",
             "ro": "De la Piața Kačić, mergem cu mașina direct la Muzeul Malacologic. O dimineață ideală pentru cultură la interior.\n\nLa prânz, drumul urcă în Parcul Natural Biokovo. Chiar și pe ploaie, atmosfera cu ceață este mistică, dar necesită prudență maximă.\n\nDupă-amiaza vizitați sanctuarul Vepric. Grota oferă adăpost în timp ce ploaia bate în frunzișul des de deasupra.\n\nZiua se termină pe faleza Riva. Parcați aproape de centru pentru a ajunge uscați la unul dintre restaurantele de top.",
             "en": "From Kačić Square, drive in the comfort of your car straight to the Malacological Museum. An ideal morning for indoor culture.\n\nAt noon, head up to Biokovo Nature Park. Even in rain, the misty mountain atmosphere is mystical, though it requires extreme driving caution.\n\nIn the afternoon, visit the Vepric Sanctuary. The grotto provides shelter while the rain drums on the dense canopy above.\n\nThe day concludes at the Riva. Park close to the center to reach one of the local restaurants without getting wet.",
-            "hr": "S Kačićevog trga odvezite se udobno automobilom izravno do Malakološkog muzeja. Idealno jutro za kulturu u zatvorenom.\n\nU podne krenite prema Parku prirode Biokovo. Čak i po kiši, maglovita planinska atmosfera je mistična, iako zahtijeva izuzetan oprez u vožnji.\n\nPoslijepodne posjetite svetište Vepric. Špilja pruža zaklon dok kiša bubnja po gustom lišću iznad.\n\nDan završava na rivi. Parkirajte blizu centra kako biste došli do restorana bez kvašenja."
+            "hr": "Iz Kačićevog trga vozite u udobnosti automobila ravno do Malakološkog muzeja. Idealno jutro za unutarnju kulturu.\n\nU podne krenite prema Parku prirode Biokovo. Čak i po kiši, maglovita planinska atmosfera je mistična, iako zahtijeva izniman oprez u vožnji.\n\nPoslijepodne posjetite svetište Vepric. Grotla pruža zaklon dok kiša bubnja po gustom krovu iznad.\n\nDan zaključite na Rivi. Parkirajte blizu centra kako biste do jednog od lokalnih restorana stigli bez da se smočite."
           },
           "stops": [
             {
@@ -2314,7 +2389,7 @@
                 "hu": "Vigyázat: a látótávolság ködben jelentősen csökkenhet.",
                 "ro": "Atenție: vizibilitatea poate scădea drastic în ceață.",
                 "en": "Caution: visibility can drop significantly in foggy rain.",
-                "hr": "Oprez: vidljivost može značajno pasti u maglovitoj kiši."
+                "hr": "Upozorenje: vidljivost može znatno pasti tijekom maglovite kiše."
               }
             },
             {
@@ -2334,7 +2409,7 @@
                 "hu": "Használja a rövid távú parkolókat az étteremhez.",
                 "ro": "Folosiți parcările pe termen scurt pentru restaurante.",
                 "en": "Use short-term parking spots for your restaurant visit.",
-                "hr": "Koristite kratkotrajna parkirna mjesta za posjet restoranu."
+                "hr": "Koristite kratkotrajna parkirališna mjesta za posjet restoranu."
               }
             }
           ],
@@ -2364,10 +2439,10 @@
               "In the off-season, parking right at the harbor is much easier to find."
             ],
             "hr": [
-              "Izbjegavajte vožnju na Biokovo Skywalk tijekom grmljavine.",
-              "Planinske ceste mogu biti skliske kad su mokre; vozite polako i oprezno.",
-              "Koristite odmagljivač stakala u automobilu.",
-              "Izvan sezone je parking u samoj luci mnogo lakše pronaći."
+              "Izbjegavajte vožnju do Biokova Skywalka tijekom grmljavinskih oluja.",
+              "Planinske ceste mogu biti skliske kad su mokre; vozite polako i pažljivo.",
+              "Upotrijebite odmrzivač za stakla kako biste spriječili zamagljivanje prozora.",
+              "U izvansezoni je parkiranje odmah u luci mnogo lakše pronaći."
             ]
           }
         },
@@ -2377,7 +2452,7 @@
             "hu": "A Kačić téren hűvös a reggel, de az autó hamar bemelegszik. Az út a múzeumhoz rövid és kellemes.\n\nDélben a Biokovo Natúrparkba tett kirándulás a fénypont. Gyakran hó fekszik fent, miközben lent süt a nap – varázslatos kontraszt.\n\nDélután látogassa meg a csendes Vepric-szentélyt. Télen különleges, áhítatos csend honol itt.\n\nA nap a Riván ér véget. Parkoljon kényelmesen, és élvezze a tiszta csillagos eget, amely az alvó kikötő felett ragyog.",
             "ro": "În Piața Kačić este frig dimineața, dar mașina se încălzește repede. Drumul spre muzeu este scurt și plăcut.\n\nLa prânz, excursia în Parcul Natural Biokovo este punctul culminant. Adesea e zăpadă sus, în timp ce jos e soare – un contrast magic.\n\nDupă-amiaza vizitați sanctuarul liniștit Vepric. Iarna domină aici o tăcere solemnă și deosebită.\n\nZiua se termină pe faleza Riva. Parcați confortabil și admirați cerul înstelat care strălucește peste portul adormit.",
             "en": "It's a chilly morning at Kačić Square, but the car warms up quickly. The drive to the museum is short and convenient.\n\nAt noon, the trip to Biokovo Nature Park is the highlight. Often there's snow at the top while the sun shines below – a magical contrast.\n\nIn the afternoon, visit the quiet Vepric Sanctuary. In winter, a special, prayerful silence reigns here.\n\nThe day ends at the Riva. Park easily and enjoy the brilliant starry sky shining over the sleeping harbor.",
-            "hr": "Hladno je jutro na Kačićevom trgu, ali auto se brzo zagrijava. Vožnja do muzeja je kratka i praktična.\n\nU podne je izlet u Park prirode Biokovo vrhunac dana. Često je na vrhu snijeg dok dolje sja sunce – čaroban kontrast.\n\nPoslijepodne posjetite mirno svetište Vepric. Zimi ovdje vlada poseban, molitveni mir.\n\nDan završava na rivi. Lako parkirajte i uživajte u sjajnom zvjezdanom nebu nad usnulom lukom."
+            "hr": "Hladno je jutro na Kačićevu trgu, ali se automobil brzo zagrije. Vožnja do muzeja kratka je i praktična.\n\nU podne je izlet do Parka prirode Biokovo glavna atrakcija. Često ima snijega na vrhu dok dolje sja sunce – čaroban kontrast.\n\nPoslijepodne posjetite tihi Vepric. Zimi ovdje vlada posebno, molitveno tišina.\n\nDan završava na Rivi. Parkirajte lako i uživajte u blistavom zvjezdanoj noći koja se prelijeva nad uspavanom lukom."
           },
           "stops": [
             {
@@ -2387,7 +2462,7 @@
                 "hu": "Jégtelenítse a szélvédőt, ha fagyos éjszaka volt.",
                 "ro": "Dezghețați parbrizul dacă a fost o noapte geroasă.",
                 "en": "De-ice the windshield if it was a freezing night.",
-                "hr": "Odmrznite vjetrobransko staklo ako je bila ledena noć."
+                "hr": "Odmrznite vjetrobransko staklo ako je bila mrazna noć."
               }
             },
             {
@@ -2397,7 +2472,7 @@
                 "hu": "Élvezze a rövid utat a parkolótól a melegbe.",
                 "ro": "Bucurați-vă de drumul scurt de la parcare la căldură.",
                 "en": "Enjoy the short walk from the car to the warm interior.",
-                "hr": "Uživajte u kratkoj šetnji od auta do toplog interijera."
+                "hr": "Uživajte u kratkom hodu od automobila do toplog interijera."
               }
             },
             {
@@ -2407,7 +2482,7 @@
                 "hu": "Téli felszerelés (hólánc) fent szükséges lehet.",
                 "ro": "Echipamentul de iarnă (lanțuri) poate fi necesar sus.",
                 "en": "Winter equipment (chains) might be required at the top.",
-                "hr": "Zimska oprema (lanci) može biti potrebna na vrhu."
+                "hr": "Zimska oprema (lančići) može biti obvezna na vrhu."
               }
             },
             {
@@ -2417,7 +2492,7 @@
                 "hu": "Meleg ruházat a szabadtéri tartózkodáshoz.",
                 "ro": "Haine groase pentru timpul petrecut afară.",
                 "en": "Warm clothing recommended for the outdoor visit.",
-                "hr": "Preporučuje se topla odjeća za obilazak na otvorenom."
+                "hr": "Preporučuje se topla odjeća za boravak na otvorenom."
               }
             },
             {
@@ -2457,10 +2532,10 @@
               "Watch out for black ice in shaded curves of the mountain road."
             ],
             "hr": [
-              "Provjerite izvješća o stanju na cestama prije vožnje na Biokovo.",
-              "Provjerite imate li antifriz u tekućini za pranje stakala.",
-              "Sunce rano zalazi; planirajte vožnju na Biokovo do podneva.",
-              "Pazite na poledicu u sjenovitim zavojima planinske ceste."
+              "Provjerite izvještaje o stanju cesta prije uspona na Biokovo.",
+              "Provjerite imate li antifriz u tekućini za brisače vjetrobrana.",
+              "Sunce zalazi rano; planirajte vožnju na Biokovo do podneva.",
+              "Pazite na crni led u zasjenjenim zavojima planinske ceste."
             ]
           }
         }
@@ -2479,7 +2554,8 @@
             "de": "Kačić-Platz",
             "hu": "Kačić tér",
             "ro": "Piața Kačić",
-            "en": "Kačić Square"
+            "en": "Kačić Square",
+            "hr": "Kačićev trg"
           },
           "coords": [
             17.0195,
@@ -2494,14 +2570,15 @@
             "de": "Zentraler Treffpunkt der Stadt.",
             "hu": "A város központi találkozóhelye.",
             "ro": "Locul central de întâlnire al orașului.",
-            "en": "Central meeting point of the city."
+            "en": "Central meeting point of the city.",
+            "hr": "Središnje mjesto za susrete u gradu."
           },
           "tip_5lang": {
             "de": "Vom Busbahnhof gehen Sie 7 Minuten leicht bergab zum Kačić-Platz.",
             "hu": "A buszpályaudvarról 7 perces enyhén lejtős séta a Kačić térre.",
             "ro": "De la autogară sunt 7 minute de mers ușor la vale până în Piața Kačić.",
             "en": "From the bus terminal it's a seven-minute, slightly downhill walk to Kačić Square.",
-            "hr": "Od kolodvora do Kačićevog trga je sedam minuta hoda nizbrdo."
+            "hr": "Od autobusnog kolodvora do Kačićevog trga hoda se sedam minuta, blago nizbrdo."
           }
         },
         {
@@ -2509,7 +2586,8 @@
             "de": "Kirche des Heiligen Markus",
             "hu": "Szent Márk-templom",
             "ro": "Biserica Sfântul Marcu",
-            "en": "St. Mark's Church"
+            "en": "St. Mark's Church",
+            "hr": "Crkva sv. Marka"
           },
           "coords": [
             17.0198,
@@ -2524,14 +2602,15 @@
             "de": "Klassische dalmatinische Architektur.",
             "hu": "Klasszikus dalmát építészet.",
             "ro": "Arhitectură dalmată clasică.",
-            "en": "Classic Dalmatian architecture."
+            "en": "Classic Dalmatian architecture.",
+            "hr": "Klasična dalmatinska arhitektura."
           },
           "tip_5lang": {
             "de": "Die Bushaltestelle Katedrala liegt direkt vor dem Eingang der Kirche.",
             "hu": "A Katedrala buszmegálló közvetlenül a templom bejárata előtt van.",
             "ro": "Stația de autobuz Katedrala este chiar în fața intrării în biserică.",
             "en": "The Katedrala bus stop sits directly in front of the church entrance.",
-            "hr": "Autobusna stanica Katedrala nalazi se točno ispred ulaza u crkvu."
+            "hr": "Stajalište Katedrala nalazi se izravno ispred ulaza u crkvu."
           }
         },
         {
@@ -2539,7 +2618,8 @@
             "de": "Malakologisches Museum",
             "hu": "Malakológiai Múzeum",
             "ro": "Muzeul Malacologic",
-            "en": "Malacological Museum"
+            "en": "Malacological Museum",
+            "hr": "Malakološki muzej"
           },
           "coords": [
             17.021,
@@ -2554,14 +2634,15 @@
             "de": "Vom Busbahnhof aus in wenigen Minuten zu Fuß.",
             "hu": "A buszpályaudvartól pár perc alatt elérhető gyalog.",
             "ro": "La câteva minute de mers pe jos de autogară.",
-            "en": "A few minutes walk from the bus station."
+            "en": "A few minutes walk from the bus station.",
+            "hr": "Par minuta hoda od autobusnog kolodvora."
           },
           "tip_5lang": {
             "de": "Mit der Citykarte erhalten Sie 20 Prozent Eintrittsrabatt — am Schalter vorzeigen.",
             "hu": "A city kártyával 20% kedvezményt kap a belépőre, mutassa fel a pénztárnál.",
             "ro": "Cu cardul orașului obțineți 20% reducere la intrare, prezentați-l la casă.",
             "en": "The city card gets you 20% off admission — show it at the ticket counter.",
-            "hr": "Gradska kartica daje 20% popusta na ulaznicu — pokažite je na blagajni."
+            "hr": "Gradska kartica daje 20% popusta na ulaz — pokažite je na blagajni."
           }
         },
         {
@@ -2569,7 +2650,8 @@
             "de": "Riva Makarska",
             "hu": "Makarskai Riva",
             "ro": "Faleza Riva",
-            "en": "Makarska Riva"
+            "en": "Makarska Riva",
+            "hr": "Makarska Riva"
           },
           "coords": [
             17.0185,
@@ -2584,14 +2666,15 @@
             "de": "Das Herz des öffentlichen Lebens.",
             "hu": "A közösségi élet szíve.",
             "ro": "Inima vieții publice locale.",
-            "en": "The heart of local public life."
+            "en": "The heart of local public life.",
+            "hr": "Srce lokalnog javnog života."
           },
           "tip_5lang": {
             "de": "Die Buslinie 2 fährt am Sommerabend bis Mitternacht entlang der Riva.",
             "hu": "Nyári estéken a 2-es busz éjfélig közlekedik a Riva mentén.",
             "ro": "Linia 2 de autobuz circulă în serile de vară până la miezul nopții pe Riva.",
             "en": "On summer evenings, bus line 2 runs along the Riva until midnight.",
-            "hr": "Ljetnim večerima linija 2 vozi duž rive do ponoći."
+            "hr": "Ljeti autobusna linija 2 vozi uz Rivu do ponoći."
           }
         },
         {
@@ -2599,7 +2682,8 @@
             "de": "Vepric-Heiligtum",
             "hu": "Vepric-szentély",
             "ro": "Sanctuarul Vepric",
-            "en": "Vepric Sanctuary"
+            "en": "Vepric Sanctuary",
+            "hr": "Svetište Vepric"
           },
           "coords": [
             17.0005,
@@ -2614,14 +2698,15 @@
             "de": "Mit dem lokalen Küstenbus erreichbar.",
             "hu": "Helyi távolsági busszal megközelíthető.",
             "ro": "Accesibil cu autobuzul local de coastă.",
-            "en": "Accessible with the local coastal bus."
+            "en": "Accessible with the local coastal bus.",
+            "hr": "Dostupno lokalnim obalnim autobusom."
           },
           "tip_5lang": {
             "de": "Der Pendelbus zum Vepric-Heiligtum fährt nur Samstag und Sonntag.",
             "hu": "A Vepric-szentélyhez tartó ingajárat csak szombaton és vasárnap közlekedik.",
             "ro": "Naveta către Sanctuarul Vepric circulă doar sâmbăta și duminica.",
             "en": "The shuttle to the Vepric Sanctuary runs only on Saturdays and Sundays.",
-            "hr": "Prijevoz do svetišta Vepric vozi samo subotom i nedjeljom."
+            "hr": "Šatl do svetišta Vepric vozi samo subotom i nedjeljom."
           }
         }
       ],
@@ -2630,7 +2715,7 @@
         "hu": "Használja a központi buszpályaudvart bázisként a felfedezéshez. Látogassa meg az óváros történelmi kincseit és az egyedülálló kagylómúzeumot kényelmesen gyalog. Szálljon fel egy északnyugat felé tartó buszra, hogy megnézze a festői Vepric-szentélyt. Térjen vissza a Rivára egy pihentető tengerparti délutánra az utazás folytatása előtt.",
         "ro": "Folosiți autogara centrală ca bază pentru explorările voastre. Vizitați comorile istorice ale orașului vechi și muzeul unic al scoicilor la pas. Luați un autobuz local spre nord-vest pentru a vizita pitorescul sanctuar Vepric. Reveniți pe Riva pentru o după-amiază relaxantă lângă mare înainte de plecare.",
         "en": "Use the central bus station as a base for your exploration. Visit the historical treasures of the old town and the unique shell museum comfortably on foot. Take a local bus heading northwest to visit the picturesque Vepric Sanctuary. Return to the Riva for a relaxing afternoon by the sea before continuing your journey.",
-        "hr": "Koristite središnji autobusni kolodvor kao bazu za svoje istraživanje. Pješice posjetite povijesno blago starog grada i jedinstveni muzej školjaka. Lokalnim autobusom krenite prema sjeverozapadu kako biste posjetili slikovito svetište Vepric. Vratite se na rivu za opušteno poslijepodne uz more."
+        "hr": "Koristite središnji autobusni kolodvor kao bazu za istraživanje. Posjetite povijesne dragulje starog grada i jedinstveni muzej školjki ugodno pješice. Uzmite lokalni autobus prema sjeverozapadu za posjet slikovitom svetištu Vepric. Vratite se na Rivu za opuštajuće poslijepodne uz more prije nastavka putovanja."
       },
       "gastro_picks": {
         "de": [
@@ -2808,11 +2893,11 @@
           "Check the departure times for the last buses in the evening."
         ],
         "hr": [
-          "Autobusi povezuju glavni kolodvor s obalnim mjestima.",
-          "Karte se mogu kupiti izravno kod vozača.",
-          "Tijekom sezone česte su gužve na obalnoj cesti.",
-          "Većina znamenitosti u centru je na pješačkoj udaljenosti.",
-          "Provjerite vremena polaska posljednjih autobusa navečer."
+          "Autobusi povezuju glavni kolodvor s obalnim selima.",
+          "Karte se mogu kupiti izravno od vozača.",
+          "U visokoj sezoni često su prometne gužve na obalnoj cesti.",
+          "Većina znamenitosti u centru nalazi se na lakoj pješačkoj udaljenosti.",
+          "Provjerite vrijeme polazaka za posljednje autobuse navečer."
         ]
       },
       "variants": {
@@ -2821,7 +2906,8 @@
             "de": "Nutzen Sie den zentralen Busbahnhof als Basis für Ihre Erkundung. Besuchen Sie die historischen Schätze der Altstadt und das einzigartige Muschelmuseum bequem zu Fuß. Nehmen Sie einen lokalen Bus Richtung Nordwesten, um das malerische Vepric-Heiligtum zu besuchen. Kehren Sie zurück zur Riva für einen entspannten Nachmittag am Meer, bevor Sie Ihre Weiterreise antreten.",
             "hu": "Használja a központi buszpályaudvart bázisként a felfedezéshez. Látogassa meg az óváros történelmi kincseit és az egyedülálló kagylómúzeumot kényelmesen gyalog. Szálljon fel egy északnyugat felé tartó buszra, hogy megnézze a festői Vepric-szentélyt. Térjen vissza a Rivára egy pihentető tengerparti délutánra az utazás folytatása előtt.",
             "ro": "Folosiți autogara centrală ca bază pentru explorările voastre. Vizitați comorile istorice ale orașului vechi și muzeul unic al scoicilor la pas. Luați un autobuz local spre nord-vest pentru a vizita pitorescul sanctuar Vepric. Reveniți pe Riva pentru o după-amiază relaxantă lângă mare înainte de plecare.",
-            "en": "Use the central bus station as a base for your exploration. Visit the historical treasures of the old town and the unique shell museum comfortably on foot. Take a local bus heading northwest to visit the picturesque Vepric Sanctuary. Return to the Riva for a relaxing afternoon by the sea before continuing your journey."
+            "en": "Use the central bus station as a base for your exploration. Visit the historical treasures of the old town and the unique shell museum comfortably on foot. Take a local bus heading northwest to visit the picturesque Vepric Sanctuary. Return to the Riva for a relaxing afternoon by the sea before continuing your journey.",
+            "hr": "Koristite središnji autobusni kolodvor kao bazu za istraživanje. Posjetite povijesne dragulje starog grada i jedinstveni muzej školjki ugodno pješice. Uzmite lokalni autobus prema sjeverozapadu za posjet slikovitom svetištu Vepric. Vratite se na Rivu za opuštajuće poslijepodne uz more prije nastavka putovanja."
           },
           "stops": [
             {
@@ -2829,7 +2915,8 @@
                 "de": "Kačić-Platz",
                 "hu": "Kačić tér",
                 "ro": "Piața Kačić",
-                "en": "Kačić Square"
+                "en": "Kačić Square",
+                "hr": "Kačićev trg"
               },
               "tip_5lang": null
             },
@@ -2838,7 +2925,8 @@
                 "de": "Kirche des Heiligen Markus",
                 "hu": "Szent Márk-templom",
                 "ro": "Biserica Sfântul Marcu",
-                "en": "St. Mark's Church"
+                "en": "St. Mark's Church",
+                "hr": "Crkva sv. Marka"
               },
               "tip_5lang": null
             },
@@ -2847,7 +2935,8 @@
                 "de": "Malakologisches Museum",
                 "hu": "Malakológiai Múzeum",
                 "ro": "Muzeul Malacologic",
-                "en": "Malacological Museum"
+                "en": "Malacological Museum",
+                "hr": "Malakološki muzej"
               },
               "tip_5lang": null
             },
@@ -2856,7 +2945,8 @@
                 "de": "Riva Makarska",
                 "hu": "Makarskai Riva",
                 "ro": "Faleza Riva",
-                "en": "Makarska Riva"
+                "en": "Makarska Riva",
+                "hr": "Makarska Riva"
               },
               "tip_5lang": null
             },
@@ -2865,7 +2955,8 @@
                 "de": "Vepric-Heiligtum",
                 "hu": "Vepric-szentély",
                 "ro": "Sanctuarul Vepric",
-                "en": "Vepric Sanctuary"
+                "en": "Vepric Sanctuary",
+                "hr": "Svetište Vepric"
               },
               "tip_5lang": null
             }
@@ -3016,6 +3107,13 @@
               "During high season, traffic jams on the coastal road are common.",
               "Most sights in the center are within easy walking distance.",
               "Check the departure times for the last buses in the evening."
+            ],
+            "hr": [
+              "Autobusi povezuju glavni kolodvor s obalnim selima.",
+              "Karte se mogu kupiti izravno od vozača.",
+              "U visokoj sezoni često su prometne gužve na obalnoj cesti.",
+              "Većina znamenitosti u centru nalazi se na lakoj pješačkoj udaljenosti.",
+              "Provjerite vrijeme polazaka za posljednje autobuse navečer."
             ]
           }
         },
@@ -3025,7 +3123,7 @@
             "hu": "A Kačić térről csak egy rövid séta a legközelebbi megálló. A busz szárazon viszi a Szent Márk-templom közelébe.\n\nDélben a Malakológiai Múzeum a tökéletes végállomás. A következő buszra való várakozást kellemesen töltheti a kiállítási tárgyak között.\n\nDélután a járat a Rivához viszi. A megállótól csak pár méter egy kávézó előtetője.\n\nA nap a Vepric-szentély felé tartó úttal zárul. A buszok megbízhatóan járnak, a rövid várakozás esernyővel kibírható.",
             "ro": "De la Piața Kačić este doar o scurtă plimbare până la cea mai apropiată stație. Autobuzul vă duce la adăpost lângă Biserica Sf. Marcu.\n\nLa prânz, Muzeul Malacologic este destinația ideală. Timpul de așteptare pentru următorul autobuz trece repede printre exponate.\n\nDupă-amiaza, linia vă duce pe faleza Riva. De la stație sunt doar câțiva metri până la copertina unei cafenele.\n\nZiua se încheie cu drumul spre sanctuarul Vepric. Autobuzele circulă regulat, iar așteptarea scurtă se poate face sub umbrelă.",
             "en": "It's just a short walk from Kačić Square to the nearest stop. The bus keeps you dry on your way to St. Mark's Church.\n\nAt noon, the Malacological Museum is the perfect stop. Spend the waiting time for the next bus comfortably among the exhibits.\n\nIn the afternoon, take the line to the Riva. From the bus stop, it's only a few meters to the shelter of a cafe awning.\n\nThe day concludes with a trip to Vepric Sanctuary. Buses are reliable, and the short wait is easily managed with an umbrella.",
-            "hr": "S Kačićevog trga je samo kratka šetnja do najbliže stanice. Autobus vas drži na suhom na putu do crkve sv. Marka.\n\nU podne je Malakološki muzej savršena postaja. Vrijeme čekanja na sljedeći autobus ugodno provedite među izlošcima.\n\nPoslijepodne krenite linijom do rive. Od autobusne stanice je samo nekoliko metara do zaklona tende kafića.\n\nDan završava izletom u svetište Vepric. Autobusi su pouzdani, a kratko čekanje lako se rješava kišobranom."
+            "hr": "Samo je kratak hod od Kačićevog trga do najbližeg stajališta. Autobus vas štiti od kiše na putu do Crkve sv. Marka.\n\nU podne je Malakološki muzej savršena stanica. Provedite vrijeme čekanja sljedećeg autobusa udobno među eksponatima.\n\nPoslijepodne uzmite liniju do Rive. Od stajališta je samo nekoliko metara do zaklona nadstrešnice kafića.\n\nDan se zaključuje izletom do svetišta Vepric. Autobusi su pouzdani, a kratko čekanje lako je premostiti kišobranom."
           },
           "stops": [
             {
@@ -3035,7 +3133,7 @@
                 "hu": "Használja a fedett buszmegállókat.",
                 "ro": "Folosiți stațiile de autobuz cu adăpost.",
                 "en": "Use the bus stops that have shelters.",
-                "hr": "Koristite autobusne stanice koje imaju nadstrešnice."
+                "hr": "Koristite autobusna stajališta koja imaju zaklon."
               }
             },
             {
@@ -3055,7 +3153,7 @@
                 "hu": "Kérdezze a sofőrt a legközelebbi megállóról.",
                 "ro": "Întrebați șoferul care este cea mai apropiată stație.",
                 "en": "Ask the driver for the closest stop to the museum.",
-                "hr": "Pitajte vozača za stanicu koja je najbliža muzeju."
+                "hr": "Upitajte vozača za najbliže stajalište muzeju."
               }
             },
             {
@@ -3065,7 +3163,7 @@
                 "hu": "Központi megálló; sok kávézó van a közelben.",
                 "ro": "Stație centrală; multe cafenele pentru adăpost.",
                 "en": "Central stop; many cafes nearby for shelter.",
-                "hr": "Središnja stanica; mnogo kafića u blizini za zaklon."
+                "hr": "Središnje stajalište; mnogo kafića u blizini za zaklon."
               }
             },
             {
@@ -3075,7 +3173,7 @@
                 "hu": "A busz közvetlenül a terület bejáratánál áll meg.",
                 "ro": "Autobuzul oprește chiar la intrarea în complex.",
                 "en": "The bus stops right at the entrance to the grounds.",
-                "hr": "Autobus staje točno na ulazu u posjed."
+                "hr": "Autobus staje točno kod ulaza u kompleks."
               }
             }
           ],
@@ -3106,9 +3204,9 @@
             ],
             "hr": [
               "Preuzmite aplikaciju s voznim redom kako biste smanjili čekanje na kiši.",
-              "Pripremite sitan novac ili karticu za autobusnu kartu.",
-              "Autobusi mogu imati manja kašnjenja tijekom jake kiše.",
-              "Nosite vodootpornu odjeću za šetnje između stanica."
+              "Imajte sitniš ili karticu spremnu za kartu za autobus.",
+              "Autobusi mogu kasniti tijekom jake kiše.",
+              "Nosite vodootpornu odjeću za hod između stajališta."
             ]
           }
         },
@@ -3118,7 +3216,7 @@
             "hu": "A Kačić tér üvegtiszta a téli reggeli fényben. A fűtött busz meleg kezdést biztosít a naphoz.\n\nDélben kényelmesen eléri a Malakológiai Múzeumot. A megálló és a múzeum közötti rövid távolság hidegben sem probléma.\n\nDélután irány a Riva. A nap melegít a busz ablakán keresztül, miközben élvezi a kilátást.\n\nA nap a Vepric-szentélynél zárul. Ügyeljen a téli menetrendre, mert egyes járatok este ritkábban járnak.",
             "ro": "Piața Kačić este clară ca cristalul în lumina dimineții de iarnă. Autobuzul încălzit oferă un start cald zilei.\n\nLa prânz, ajungeți confortabil la Muzeul Malacologic. Distanțele scurte dintre stație și muzeu nu sunt o problemă nici pe frig.\n\nDupă-amiaza mergem pe faleza Riva. Soarele încălzește prin geamurile autobuzului în timp ce admirați peisajul.\n\nZiua se termină la sanctuarul Vepric. Atenție la orarul de iarnă, unele linii circulă mai rar seara.",
             "en": "Kačić Square is crystal clear in the winter morning light. The heated bus offers a warm and cozy start to your day.\n\nAt noon, you can easily reach the Malacological Museum. The short distances between the stop and the museum are manageable even in the cold.\n\nIn the afternoon, head to the Riva. The sun warms you through the bus windows while you enjoy the coastal views.\n\nThe day concludes at Vepric Sanctuary. Be sure to check the winter schedule, as some lines run less frequently in the evening.",
-            "hr": "Kačićev trg je kristalno čist na zimskom jutarnjem svjetlu. Grijani autobus nudi topao i ugodan početak dana.\n\nU podne lako možete doći do Malakološkog muzeja. Kratke udaljenosti između stanice i muzeja su savladive i na hladnoći.\n\nPoslijepodne krenite na rivu. Sunce vas grije kroz prozore autobusa dok uživate u pogledu na obalu.\n\nDan završava u svetištu Vepric. Obavezno provjerite zimski vozni red jer neke linije rjeđe voze navečer."
+            "hr": "Kačićev trg je kristalno jasan u zimskom jutarnjem svjetlu. Grijani autobus nudi topao i ugodan početak dana.\n\nU podne lako možete stići do Malakološkog muzeja. Male udaljenosti između stajališta i muzeja podnošljive su i po hladnoći.\n\nPoslijepodne krenite prema Rivi. Sunce vas grije kroz prozore autobusa dok uživate u obalnim pogledima.\n\nDan se završava u svetištu Vepric. Obavezno provjerite zimski raspored, jer neke linije navečer voze rjeđe."
           },
           "stops": [
             {
@@ -3128,7 +3226,7 @@
                 "hu": "Várjon egy közeli kávézóban, amíg jön a busz.",
                 "ro": "Așteptați într-o cafenea apropiată până vine autobuzul.",
                 "en": "Wait in a nearby cafe until the bus is due.",
-                "hr": "Pričekajte u obližnjem kafiću dok autobus ne dođe."
+                "hr": "Pričekajte u obližnjem kafiću dok ne stigne autobus."
               }
             },
             {
@@ -3138,7 +3236,7 @@
                 "hu": "Központi megálló jó összeköttetésekkel.",
                 "ro": "Stație centrală cu conexiuni bune.",
                 "en": "Central stop with good connections to other lines.",
-                "hr": "Središnja stanica s dobrim vezama s drugim linijama."
+                "hr": "Središnja stanica s dobrim vezama na druge linije."
               }
             },
             {
@@ -3148,7 +3246,7 @@
                 "hu": "Használja a 'Franjevački samostan' megállót.",
                 "ro": "Folosiți stația 'Franjevački samostan'.",
                 "en": "Use the 'Franjevački samostan' stop for the museum.",
-                "hr": "Koristite stanicu 'Franjevački samostan' za muzej."
+                "hr": "Za muzej koristite stajalište 'Franjevački samostan'."
               }
             },
             {
@@ -3158,7 +3256,7 @@
                 "hu": "Élvezze a kilátást a meleg buszból.",
                 "ro": "Bucurați-vă de priveliște din autobuzul cald.",
                 "en": "Enjoy the coastal views from the warm bus.",
-                "hr": "Uživajte u pogledu na obalu iz toplog autobusa."
+                "hr": "Uživajte u obalnim pogledima iz toplog autobusa."
               }
             },
             {
@@ -3168,7 +3266,7 @@
                 "hu": "Ellenőrizze az utolsó visszautat sötétedés előtt.",
                 "ro": "Verificați ultima cursă de întoarcere înainte de seară.",
                 "en": "Check the last return trip before darkness falls.",
-                "hr": "Provjerite posljednji povratni termin prije mraka."
+                "hr": "Provjerite posljednji povratak prije nego padne tama."
               }
             }
           ],
@@ -3198,10 +3296,10 @@
               "Wear a warm hat against the cold wind at the bus stops."
             ],
             "hr": [
-              "Provjerite zimski vozni red (smanjena učestalost).",
-              "Autobusi su dobro grijani; idealno za zagrijavanje između postaja.",
+              "Provjerite poseban zimski raspored (smanjena učestalost).",
+              "Autobusi su dobro grijani; idealni za zagrijavanje između stanica.",
               "Koristite glavne regionalne linije (prema Splitu/Dubrovniku) za Vepric.",
-              "Nosite toplu kapu protiv hladnog vjetra na stanicama."
+              "Nosite toplu kapu protiv hladnog vjetra na autobusnim stajalištima."
             ]
           }
         }
@@ -3229,19 +3327,22 @@
       "de": "Amtssprache Kroatisch; in Tourismusbetrieben Deutsch und Englisch weit verbreitet, Italienisch entlang der Adriaküste hilfreich.",
       "hu": "Hivatalos nyelv a horvát; a turisztikai szektorban a német és angol elterjedt, az olasz is gyakran használt a tengerparton.",
       "ro": "Limba oficială este croata; în turism se vorbește frecvent germană și engleză, iar italiana este utilă pe litoralul adriatic.",
-      "en": "Official language is Croatian; German and English are widely spoken in tourism, Italian is also useful along the Adriatic coast."
+      "en": "Official language is Croatian; German and English are widely spoken in tourism, Italian is also useful along the Adriatic coast.",
+      "hr": "Službeni jezik je hrvatski; njemački i engleski su široko rasprostranjeni u turizmu, talijanski je također koristan uz Jadran."
     },
     "best_time_to_visit": {
       "de": "Mai bis Juni und September für angenehme Temperaturen und weniger Andrang; Juli/August Hochsaison mit warmem Meer.",
       "hu": "Május–június és szeptember a legkellemesebb, kevesebb tömeggel; július–augusztus főszezon, meleg tenger.",
       "ro": "Mai–iunie și septembrie sunt ideale, mai puțin aglomerate; iulie–august sunt sezonul vârf, cu mare caldă.",
-      "en": "May–June and September are best for pleasant weather and fewer crowds; July–August is peak season with warm sea."
+      "en": "May–June and September are best for pleasant weather and fewer crowds; July–August is peak season with warm sea.",
+      "hr": "Svibanj–lipanj i rujan su najbolji za ugodno vrijeme i manje gužve; srpanj–kolovoz je vršna sezona s toplim morem."
     },
     "neighborhood_warnings": {
       "de": "Promenade abends sehr belebt, auf Taschendiebe achten; steile Strandzugänge können rutschig sein.",
       "hu": "A sétány este nagyon zsúfolt, figyelj a zsebtolvajokra; a meredek strandlejárók csúszósak lehetnek.",
       "ro": "Promenada este foarte aglomerată seara, atenție la hoții de buzunare; accesele abrupte la plajă pot fi alunecoase.",
-      "en": "The promenade is very busy at night, watch for pickpockets; steep beach access paths can be slippery."
+      "en": "The promenade is very busy at night, watch for pickpockets; steep beach access paths can be slippery.",
+      "hr": "Promenada je vrlo prometna noću, pazite na džeparoše; pristupi strmim plažama mogu biti sklizavi."
     }
   }
 }

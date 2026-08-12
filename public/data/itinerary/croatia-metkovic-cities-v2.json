@@ -21,7 +21,8 @@
             "de": "Prirodoslovni muzej",
             "hu": "Prirodoslovni muzej",
             "ro": "Prirodoslovni muzej",
-            "en": "Prirodoslovni muzej"
+            "en": "Prirodoslovni muzej",
+            "hr": "Prirodoslovni muzej"
           },
           "coords": [
             17.648316,
@@ -36,7 +37,8 @@
             "de": "Entdecken Sie die reiche ornithologische Sammlung des Neretva-Deltas und erkundigen Sie sich beim Kurator nach geführten Vogelbeobachtungstouren.",
             "hu": "Fedezze fel a Neretva-delta gazdag madárvilágát bemutató ornitológiai gyűjteményt, és érdeklődjön a kurátornál a vezetett madármegfigyelő túrákról.",
             "ro": "Descoperiți bogata colecție ornitologică care reprezintă fauna diversă din Delta Neretvei și întrebați curatorul despre tururile ghidate pentru observarea păsărilor.",
-            "en": "Discover the rich ornithological collection representing the diverse bird life of the Neretva Delta, and ask the curator about guided birdwatching tours."
+            "en": "Discover the rich ornithological collection representing the diverse bird life of the Neretva Delta, and ask the curator about guided birdwatching tours.",
+            "hr": "Otkrijte bogatu ornitološku zbirku koja predstavlja raznolik ptičji svijet Neretvanske delta i pitajte kustosa za vođene izlete promatranja ptica."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "crkva svetog Ilije",
             "hu": "crkva svetog Ilije",
             "ro": "crkva svetog Ilije",
-            "en": "crkva svetog Ilije"
+            "en": "crkva svetog Ilije",
+            "hr": "crkva svetog Ilije"
           },
           "coords": [
             17.650421,
@@ -59,7 +62,8 @@
             "de": "Bewundern Sie die markante Lage auf dem Hügel und die schöne Architektur dieser historischen Kirche, aber tragen Sie für den steilen Aufstieg bequeme Schuhe.",
             "hu": "Csodálja meg e történelmi templom kiemelkedő dombtetői elhelyezkedését és gyönyörű építészetét, de viseljen kényelmes cipőt a meredek sétához.",
             "ro": "Admirați locația proeminentă pe deal și arhitectura frumoasă a acestei biserici istorice, dar purtați încălțăminte confortabilă pentru urcarea abruptă.",
-            "en": "Admire the prominent hilltop location and beautiful architecture of this historic church, but wear comfortable shoes for the steep walk up."
+            "en": "Admire the prominent hilltop location and beautiful architecture of this historic church, but wear comfortable shoes for the steep walk up.",
+            "hr": "Divite se istaknutom položaju na brdu i lijepoj arhitekturi ove povijesne crkve, ali nosite udobnu obuću za strmi uspon."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Ljetno kino",
             "hu": "Ljetno kino",
             "ro": "Ljetno kino",
-            "en": "Ljetno kino"
+            "en": "Ljetno kino",
+            "hr": "Ljetno kino"
           },
           "coords": [
             17.653007,
@@ -82,7 +87,8 @@
             "de": "Erleben Sie die lokale Kultur an diesem stimmungsvollen Freiluft-Veranstaltungsort, den Sie am besten an lauen Sommerabenden besuchen.",
             "hu": "Tapasztalja meg a helyi kultúrát ezen a hangulatos szabadtéri helyszínen, amelyet a legjobb a meleg nyári estéken meglátogatni, amikor a helyi események zajlanak.",
             "ro": "Experimentați cultura locală în acest spațiu în aer liber plin de atmosferă, cel mai bine vizitat în serile calde de vară când au loc evenimente locale.",
-            "en": "Experience local culture at this atmospheric open-air venue, which is best visited during the warm summer evenings when local events take place."
+            "en": "Experience local culture at this atmospheric open-air venue, which is best visited during the warm summer evenings when local events take place.",
+            "hr": "Doživite lokalnu kulturu na ovom atmosferičnom otvorenom prostoru, najbolje posjećenom tijekom toplih ljetnih večeri kada se održavaju događaji."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Lučki most",
             "hu": "Lučki most",
             "ro": "Lučki most",
-            "en": "Lučki most"
+            "en": "Lučki most",
+            "hr": "Lučki most"
           },
           "coords": [
             17.652341,
@@ -105,7 +112,8 @@
             "de": "Halten Sie auf dieser ikonischen Brücke über die Neretva inne, um atemberaubende Fotos der Stadt zu schießen, die zur goldenen Stunde besonders schön ist.",
             "hu": "Álljon meg ezen az ikonikus hídon, amely keresztezi a Neretva folyót, hogy lenyűgöző fotókat készítsen a városról, amely különösen szép az aranyórában.",
             "ro": "Opriți-vă pe acest pod iconic peste râul Neretva pentru a surprinde fotografii uimitoare ale orașului, deosebit de frumos în timpul orei de aur.",
-            "en": "Pause on this iconic bridge crossing the Neretva river to capture stunning photos of the town, especially beautiful during the golden hour."
+            "en": "Pause on this iconic bridge crossing the Neretva river to capture stunning photos of the town, especially beautiful during the golden hour.",
+            "hr": "Zastanite na ovom ikoničnom mostu preko Neretve kako biste snimili zapanjujuće fotografije grada, posebno lijepe tijekom zlatnog sata."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Cave in Predolac",
             "hu": "Cave in Predolac",
             "ro": "Cave in Predolac",
-            "en": "Cave in Predolac"
+            "en": "Cave in Predolac",
+            "hr": "Cave in Predolac"
           },
           "coords": [
             17.658349,
@@ -128,7 +137,8 @@
             "de": "Erkunden Sie dieses faszinierende natürliche Höhlensystem, um mehr über die lokale Karstgeologie zu erfahren, und bringen Sie eine leichte Jacke mit.",
             "hu": "Fedezze fel ezt a lenyűgöző természetes barlangrendszert, hogy megismerje a helyi karsztgeológiát, és ne felejtsen el egy könnyű kabátot hozni.",
             "ro": "Explorați acest fascinant sistem de peșteri naturale pentru a afla despre geologia carstică locală și nu uitați să aduceți o jachetă ușoară.",
-            "en": "Explore this fascinating natural cave system to learn about local karst geology, and remember to bring a light jacket as temperatures inside are quite cool."
+            "en": "Explore this fascinating natural cave system to learn about local karst geology, and remember to bring a light jacket as temperatures inside are quite cool.",
+            "hr": "Istražite ovaj fascinantni prirodni špiljski sustav da biste saznali o lokalnoj krškoj geologiji i ne zaboravite ponijeti laganu jaknu jer su temperature unutra prilično svježe."
           }
         }
       ],
@@ -136,7 +146,8 @@
         "de": "Beginnen Sie Ihren Morgen mit der reichen Naturgeschichte im örtlichen Museum. Spazieren Sie gegen Mittag zur historischen Kirche des Heiligen Elias, um die Aussicht zu genießen. Am Nachmittag erleben Sie die kulturelle Atmosphäre im Sommerkino und überqueren die Hafenbrücke. Beenden Sie den Tag mit einer faszinierenden Höhlenerkundung.",
         "hu": "Kezdje a reggelt a helyi múzeum gazdag természettudományi kiállításával. Délben sétáljon fel a történelmi Szent Illés-templomhoz a panorámáért. Délután élvezze a kulturális hangulatot a nyári moziban, és keljen át az ikonikus kikötői hídon. Zárja a napot a Predolac-barlang lenyűgöző felfedezésével.",
         "ro": "Începeți dimineața explorând istoria naturală la muzeul local. La prânz, urcați la biserica istorică Sf. Ilie pentru vederi panoramice. După-amiaza, bucurați-vă de atmosfera culturală de la Cinema de vară și traversați emblematicul Pod al Portului. Încheiați-vă ziua cu o explorare fascinantă a Peșterii Predolac.",
-        "en": "Start your morning exploring the rich natural history at the local museum. As midday approaches, stroll up to the historic Church of St. Elijah for panoramic views. In the afternoon, enjoy the cultural vibe at the Summer Cinema and cross the iconic Port Bridge. Conclude your day with a fascinating exploration of the Predolac Cave."
+        "en": "Start your morning exploring the rich natural history at the local museum. As midday approaches, stroll up to the historic Church of St. Elijah for panoramic views. In the afternoon, enjoy the cultural vibe at the Summer Cinema and cross the iconic Port Bridge. Conclude your day with a fascinating exploration of the Predolac Cave.",
+        "hr": "Jutro započnite istraživanjem bogate prirodne povijesti u lokalnom muzeju. Kako će se približavati podne, prošećite do povijesne Crkve sv. Ilije za panoramske poglede. Poslijepodne uživajte u kulturnom ugođaju Ljetnog kina i prijeđite ikonični Lučki most. Zaključite dan fascinantnom eksploracijom špilje Predolac."
       },
       "variants": {
         "rainy": {
@@ -144,7 +155,8 @@
             "de": "Beginnen Sie den regnerischen Morgen trocken im Naturkundemuseum. Mittags geht es mit Regenschirm zur Kirche und zum Sommerkino. Überqueren Sie nachmittags vorsichtig die nasse Lučki-Brücke. Beenden Sie den Tag geschützt in der Predolac-Höhle, wo Sie das faszinierende unterirdische Ökosystem bewundern können.",
             "hu": "Esős reggelét kezdje a fedett természettudományi múzeumban. Délben esernyővel a kézben sétáljon át a templomhoz és a nyári mozihoz. Délután óvatosan keljen át a csúszós Lučki hídon. A napot a Predolac barlang természetes menedékében, a különleges földalatti világ felfedezésével zárhatja.",
             "ro": "Începeți dimineața ploioasă la adăpost, în muzeul de istorie naturală. La prânz, vizitați biserica și cinematograful de vară, având umbrela la îndemână. După-amiaza, traversați cu grijă podul Lučki care poate fi alunecos. Încheiați ziua explorând peștera Predolac, un refugiu subteran perfect.",
-            "en": "Start your rainy morning exploring the natural history museum indoors. By midday, make your way to the church and the summer cinema, keeping your umbrella handy. In the afternoon, cross the wet Lučki most carefully. Wrap up your day exploring the fascinating, naturally sheltered Predolac cave."
+            "en": "Start your rainy morning exploring the natural history museum indoors. By midday, make your way to the church and the summer cinema, keeping your umbrella handy. In the afternoon, cross the wet Lučki most carefully. Wrap up your day exploring the fascinating, naturally sheltered Predolac cave.",
+            "hr": "Započnite kišno jutro istražujući prirodoslovni muzej unutra. Do podneva uputite se do crkve i ljetnog kina, držeći kišobran pri ruci. Poslijepodne pažljivo prijeđite mokri Lučki most. Završite dan istražujući fascinantnu, prirodno zaklonjenu špilju Predolac."
           },
           "stops": [
             {
@@ -152,13 +164,15 @@
                 "de": "Prirodoslovni muzej",
                 "hu": "Prirodoslovni muzej",
                 "ro": "Prirodoslovni muzej",
-                "en": "Prirodoslovni muzej"
+                "en": "Prirodoslovni muzej",
+                "hr": "Prirodoslovni muzej"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die umfangreiche ornithologische Sammlung; ein perfekter trockener Zufluchtsort.",
                 "hu": "Csodálja meg a gazdag madártani gyűjteményt; tökéletes száraz menedék a reggeli eső elől.",
                 "ro": "Admirați colecția ornitologică bogată; este un refugiu uscat perfect împotriva ploii de dimineață.",
-                "en": "Admire the extensive ornithological collection; it's a perfect dry refuge from the morning rain."
+                "en": "Admire the extensive ornithological collection; it's a perfect dry refuge from the morning rain.",
+                "hr": "Divite se opsežnoj ornitološkoj zbirci; savršeno suho utočište od jutarnje kiše."
               }
             },
             {
@@ -166,13 +180,15 @@
                 "de": "crkva svetog Ilije",
                 "hu": "crkva svetog Ilije",
                 "ro": "crkva svetog Ilije",
-                "en": "crkva svetog Ilije"
+                "en": "crkva svetog Ilije",
+                "hr": "crkva svetog Ilije"
               },
               "tip_5lang": {
                 "de": "Suchen Sie Schutz in dieser schönen Kirche und bewundern Sie das friedliche Innere bei Regen.",
                 "hu": "Keressen menedéket ebben a gyönyörű templomban, és élvezze a békés belső teret az eső elől bújva.",
                 "ro": "Căutați adăpost în această biserică frumoasă și admirați interiorul său liniștit în timp ce plouă.",
-                "en": "Seek shelter inside this beautiful church and admire its peaceful interior while the rain falls outside."
+                "en": "Seek shelter inside this beautiful church and admire its peaceful interior while the rain falls outside.",
+                "hr": "Potražite zaklon unutar ove lijepe crkve i divite se njezinom mirnom interijeru dok vani pada kiša."
               }
             },
             {
@@ -180,13 +196,15 @@
                 "de": "Ljetno kino",
                 "hu": "Ljetno kino",
                 "ro": "Ljetno kino",
-                "en": "Ljetno kino"
+                "en": "Ljetno kino",
+                "hr": "Ljetno kino"
               },
               "tip_5lang": {
                 "de": "Besichtigen Sie die Kulturstätte, aber tragen Sie wasserfeste Schuhe, da die Wege schlammig werden.",
                 "hu": "Nézze meg a kulturális helyszínt, de viseljen vízálló cipőt, mert a környékbeli utak sárosak lehetnek.",
                 "ro": "Vizitați acest spațiu cultural, dar purtați încălțăminte impermeabilă, deoarece aleile pot fi noroioase.",
-                "en": "Check out the cultural venue, but wear waterproof shoes as the surrounding paths can get quite muddy."
+                "en": "Check out the cultural venue, but wear waterproof shoes as the surrounding paths can get quite muddy.",
+                "hr": "Pogledajte kulturni prostor, ali nosite vodootpornu obuću jer se okolne staze mogu jako zamrljati."
               }
             },
             {
@@ -194,13 +212,15 @@
                 "de": "Lučki most",
                 "hu": "Lučki most",
                 "ro": "Lučki most",
-                "en": "Lučki most"
+                "en": "Lučki most",
+                "hr": "Lučki most"
               },
               "tip_5lang": {
                 "de": "Beobachten Sie den Regen über der Neretva, aber halten Sie Ihren Regenschirm bei Windböen gut fest.",
                 "hu": "Nézze a hídról, ahogy az eső veri a Neretva vizét, de tartsa erősen az esernyőjét a széllökések miatt.",
                 "ro": "Priviți ploaia căzând pe râul Neretva de pe pod, dar țineți bine umbrela din cauza rafalelor de vânt.",
-                "en": "Watch the rain hit the Neretva river from the bridge, but hold onto your umbrella against strong gusts."
+                "en": "Watch the rain hit the Neretva river from the bridge, but hold onto your umbrella against strong gusts.",
+                "hr": "Gledajte kako kiša pogađa rijeku Neretvu s mosta, ali čvrsto držite kišobran protiv jakih naleta vjetra."
               }
             },
             {
@@ -208,13 +228,15 @@
                 "de": "Cave in Predolac",
                 "hu": "Cave in Predolac",
                 "ro": "Cave in Predolac",
-                "en": "Cave in Predolac"
+                "en": "Cave in Predolac",
+                "hr": "Cave in Predolac"
               },
               "tip_5lang": {
                 "de": "Die Höhle bietet hervorragenden natürlichen Regenschutz; erkunden Sie die unterirdische Wasserwelt.",
                 "hu": "A barlang kiváló természetes védelmet nyújt az eső ellen; fedezze fel a földalatti vízi világot.",
                 "ro": "Peștera oferă o protecție naturală excelentă împotriva ploii; explorați viața acvatică subterană.",
-                "en": "The cave offers excellent natural protection from the rain; explore its unique underground aquatic life."
+                "en": "The cave offers excellent natural protection from the rain; explore its unique underground aquatic life.",
+                "hr": "Špilja nudi odličnu prirodnu zaštitu od kiše; istražite njezin jedinstveni podzemni vodeni život."
               }
             }
           ]
@@ -224,7 +246,8 @@
             "de": "Beginnen Sie den frischen Wintermorgen im beheizten Naturkundemuseum. Mittags warm anziehen für die Kirche und das Kulturzentrum. Nachmittags genießen Sie die klare Luft auf der Lučki-Brücke vor dem frühen Sonnenuntergang. Beenden Sie den Tag in der Predolac-Höhle, bevor es um 17 Uhr dunkel wird.",
             "hu": "Kezdje a csípős téli reggelt a fűtött természettudományi múzeumban. Délben öltözzön melegen a templom és a kulturális központ felkereséséhez. Délután élvezze a friss levegőt a Lučki hídon a korai naplemente előtt. Zárja a napot a Predolac barlangban, még mielőtt délután 5 órakor teljesen besötétedik.",
             "ro": "Începeți dimineața rece de iarnă în interior, la muzeul de istorie naturală. La prânz, îmbrăcați-vă gros pentru biserică și centrul cultural. După-amiaza, bucurați-vă de aerul proaspăt pe podul Lučki înaintea apusului timpuriu. Încheiați ziua în peștera Predolac înainte de întunericul de la ora 17:00.",
-            "en": "Start your brisk winter morning indoors at the natural history museum. Around midday, bundle up to visit the church and the cultural center. In the afternoon, enjoy the crisp air on the Lučki bridge before sunset. Wrap up your day early inside the Predolac cave before the 5 PM winter darkness sets in."
+            "en": "Start your brisk winter morning indoors at the natural history museum. Around midday, bundle up to visit the church and the cultural center. In the afternoon, enjoy the crisp air on the Lučki bridge before sunset. Wrap up your day early inside the Predolac cave before the 5 PM winter darkness sets in.",
+            "hr": "Započnite svježe zimsko jutro unutra u prirodoslovnom muzeju. Oko podne upakirajte se toplo za posjet crkvi i kulturnom centru. Poslijepodne uživajte u oštrom zraku na Lučkom mostu prije zalaska sunca. Završite dan ranije unutar špilje Predolac prije nego što se zimska tama spusti u 17:00."
           },
           "stops": [
             {
@@ -232,13 +255,15 @@
                 "de": "Prirodoslovni muzej",
                 "hu": "Prirodoslovni muzej",
                 "ro": "Prirodoslovni muzej",
-                "en": "Prirodoslovni muzej"
+                "en": "Prirodoslovni muzej",
+                "hr": "Prirodoslovni muzej"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie sich auf, während Sie die Vogelsammlung erkunden; ein gemütlicher Start in den Wintertag.",
                 "hu": "Melegedjen fel a híres madárgyűjtemény felfedezése közben; remek, barátságos kezdés egy hideg téli napon.",
                 "ro": "Încălziți-vă explorând faimoasa colecție de păsări; este un început perfect pentru o zi de iarnă.",
-                "en": "Warm up while exploring the famous bird collection; it's a great cozy start to a chilly winter day."
+                "en": "Warm up while exploring the famous bird collection; it's a great cozy start to a chilly winter day.",
+                "hr": "Ugrijte se istražujući poznatu zbirku ptica; izvrstan je ugodan početak hladnog zimskog dana."
               }
             },
             {
@@ -246,13 +271,15 @@
                 "de": "crkva svetog Ilije",
                 "hu": "crkva svetog Ilije",
                 "ro": "crkva svetog Ilije",
-                "en": "crkva svetog Ilije"
+                "en": "crkva svetog Ilije",
+                "hr": "crkva svetog Ilije"
               },
               "tip_5lang": {
                 "de": "Bewundern Sie die Architektur; die ruhige Winteratmosphäre macht das Innere noch friedlicher.",
                 "hu": "Csodálja meg az építészetet; a csendes téli atmoszféra még békésebbé teszi a templom belső terét.",
                 "ro": "Admirați arhitectura acestei clădiri; atmosfera de iarnă liniștită face interiorul și mai pașnic.",
-                "en": "Admire the architecture of this landmark; the quiet winter atmosphere makes the interior even more peaceful."
+                "en": "Admire the architecture of this landmark; the quiet winter atmosphere makes the interior even more peaceful.",
+                "hr": "Divite se arhitekturi ovog znamenitog mjesta; mirna zimska atmosfera čini unutrašnjost još spokojnijom."
               }
             },
             {
@@ -260,13 +287,15 @@
                 "de": "Ljetno kino",
                 "hu": "Ljetno kino",
                 "ro": "Ljetno kino",
-                "en": "Ljetno kino"
+                "en": "Ljetno kino",
+                "hr": "Ljetno kino"
               },
               "tip_5lang": {
                 "de": "Erkunden Sie diesen Ort, aber ziehen Sie sich warm an, da die Winterbrise hier sehr beißend sein kann.",
                 "hu": "Fedezze fel a szabadtéri kulturális helyszínt, de öltözzön rétegesen, mert a téli szellő csípős lehet.",
                 "ro": "Explorați acest spațiu cultural, dar purtați haine groase, deoarece briza de iarnă poate fi tăioasă.",
-                "en": "Explore this outdoor cultural spot, but dress in warm layers as the winter breeze here can be biting."
+                "en": "Explore this outdoor cultural spot, but dress in warm layers as the winter breeze here can be biting.",
+                "hr": "Istražite ovo vanjsko kulturno mjesto, ali obucite tople slojeve jer ovdje zimski vjetar može biti oštar."
               }
             },
             {
@@ -274,13 +303,15 @@
                 "de": "Lučki most",
                 "hu": "Lučki most",
                 "ro": "Lučki most",
-                "en": "Lučki most"
+                "en": "Lučki most",
+                "hr": "Lučki most"
               },
               "tip_5lang": {
                 "de": "Fangen Sie das Winterlicht über dem Fluss ein, aber wickeln Sie Ihren Schal eng gegen die kalte Zugluft.",
                 "hu": "Örökítse meg a gyönyörű téli fényeket a folyó felett, de húzza szorosra a sálját a hideg huzat ellen.",
                 "ro": "Capturați lumina frumoasă de iarnă peste râu, dar înfășurați-vă bine fularul împotriva curenților reci.",
-                "en": "Capture the beautiful winter light over the river, but wrap your scarf tight against the cold drafts."
+                "en": "Capture the beautiful winter light over the river, but wrap your scarf tight against the cold drafts.",
+                "hr": "Zabilježite prekrasno zimsko svjetlo nad rijekom, ali čvrsto zavežite šal protiv hladnih propuha."
               }
             },
             {
@@ -288,13 +319,15 @@
                 "de": "Cave in Predolac",
                 "hu": "Cave in Predolac",
                 "ro": "Cave in Predolac",
-                "en": "Cave in Predolac"
+                "en": "Cave in Predolac",
+                "hr": "Špilja u Predolcu"
               },
               "tip_5lang": {
                 "de": "Entdecken Sie die konstante Temperatur der Höhle, die eine überraschend milde Flucht vor der Winterkälte bietet.",
                 "hu": "Fedezze fel a barlang állandó hőmérsékletét, amely meglepően enyhe menedéket nyújt a téli hideg elől.",
                 "ro": "Descoperiți temperatura constantă a peșterii, oferind o evadare surprinzător de blândă din frigul iernii.",
-                "en": "Discover the cave's constant year-round temperature, offering a surprisingly mild escape from winter cold."
+                "en": "Discover the cave's constant year-round temperature, offering a surprisingly mild escape from winter cold.",
+                "hr": "Otkrijte stalnu godišnju temperaturu špilje, koja nudi iznenađujuće ugodan bijeg od zimske hladnoće."
               }
             }
           ]
@@ -314,7 +347,8 @@
             "de": "igraliste vrtica",
             "hu": "igraliste vrtica",
             "ro": "igraliste vrtica",
-            "en": "igraliste vrtica"
+            "en": "igraliste vrtica",
+            "hr": "igra­lište vrtića"
           },
           "coords": [
             17.644192,
@@ -329,7 +363,8 @@
             "de": "Lassen Sie die Kinder auf diesem sicheren und farbenfrohen örtlichen Spielplatz Energie abbauen, der auch schattige Sitzbereiche für Eltern bietet.",
             "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a biztonságos helyi játszótéren, amely árnyékos ülőhelyeket is kínál a szülők számára.",
             "ro": "Lăsați copiii să-și consume energia pe acest loc de joacă local sigur și colorat, care oferă și zone cu scaune umbrite pentru relaxarea părinților.",
-            "en": "Let the kids burn off some energy at this safe and colorful local playground, which also offers shaded seating areas for parents to relax."
+            "en": "Let the kids burn off some energy at this safe and colorful local playground, which also offers shaded seating areas for parents to relax.",
+            "hr": "Pustite djecu da se razigraju na ovom sigurnom i šarenom lokalnom igralištu, koje također nudi sjenovita mjesta za sjedenje roditeljima."
           }
         },
         {
@@ -337,7 +372,8 @@
             "de": "Prirodoslovni muzej",
             "hu": "Prirodoslovni muzej",
             "ro": "Prirodoslovni muzej",
-            "en": "Prirodoslovni muzej"
+            "en": "Prirodoslovni muzej",
+            "hr": "Prirodoslovni muzej"
           },
           "coords": [
             17.648316,
@@ -352,7 +388,8 @@
             "de": "Entdecken Sie die reiche ornithologische Sammlung des Neretva-Deltas und erkundigen Sie sich beim Kurator nach geführten Vogelbeobachtungstouren.",
             "hu": "Fedezze fel a Neretva-delta gazdag madárvilágát bemutató ornitológiai gyűjteményt, és érdeklődjön a kurátornál a vezetett madármegfigyelő túrákról.",
             "ro": "Descoperiți bogata colecție ornitologică care reprezintă fauna diversă din Delta Neretvei și întrebați curatorul despre tururile ghidate pentru observarea păsărilor.",
-            "en": "Discover the rich ornithological collection representing the diverse bird life of the Neretva Delta, and ask the curator about guided birdwatching tours."
+            "en": "Discover the rich ornithological collection representing the diverse bird life of the Neretva Delta, and ask the curator about guided birdwatching tours.",
+            "hr": "Otkrijte bogatu ornitološku zbirku koja predstavlja raznolik ptičji svijet Neretvanskog delta i pitajte kustosa za vođene obilaske promatranja ptica."
           }
         },
         {
@@ -360,7 +397,8 @@
             "de": "crkva svetog Ilije",
             "hu": "crkva svetog Ilije",
             "ro": "crkva svetog Ilije",
-            "en": "crkva svetog Ilije"
+            "en": "crkva svetog Ilije",
+            "hr": "crkva svetog Ilije"
           },
           "coords": [
             17.650421,
@@ -375,7 +413,8 @@
             "de": "Bewundern Sie die markante Lage auf dem Hügel und die schöne Architektur dieser historischen Kirche, aber tragen Sie für den steilen Aufstieg bequeme Schuhe.",
             "hu": "Csodálja meg e történelmi templom kiemelkedő dombtetői elhelyezkedését és gyönyörű építészetét, de viseljen kényelmes cipőt a meredek sétához.",
             "ro": "Admirați locația proeminentă pe deal și arhitectura frumoasă a acestei biserici istorice, dar purtați încălțăminte confortabilă pentru urcarea abruptă.",
-            "en": "Admire the prominent hilltop location and beautiful architecture of this historic church, but wear comfortable shoes for the steep walk up."
+            "en": "Admire the prominent hilltop location and beautiful architecture of this historic church, but wear comfortable shoes for the steep walk up.",
+            "hr": "Divite se istaknutom položaju na brežuljku i lijepoj arhitekturi ove povijesne crkve, ali nosite udobne cipele za strmi uspon."
           }
         },
         {
@@ -383,7 +422,8 @@
             "de": "Ljetno kino",
             "hu": "Ljetno kino",
             "ro": "Ljetno kino",
-            "en": "Ljetno kino"
+            "en": "Ljetno kino",
+            "hr": "Ljetno kino"
           },
           "coords": [
             17.653007,
@@ -398,7 +438,8 @@
             "de": "Erleben Sie die lokale Kultur an diesem stimmungsvollen Freiluft-Veranstaltungsort, den Sie am besten an lauen Sommerabenden besuchen.",
             "hu": "Tapasztalja meg a helyi kultúrát ezen a hangulatos szabadtéri helyszínen, amelyet a legjobb a meleg nyári estéken meglátogatni, amikor a helyi események zajlanak.",
             "ro": "Experimentați cultura locală în acest spațiu în aer liber plin de atmosferă, cel mai bine vizitat în serile calde de vară când au loc evenimente locale.",
-            "en": "Experience local culture at this atmospheric open-air venue, which is best visited during the warm summer evenings when local events take place."
+            "en": "Experience local culture at this atmospheric open-air venue, which is best visited during the warm summer evenings when local events take place.",
+            "hr": "Iskusite lokalnu kulturu na ovom atmosferičnom otvorenom mjestu, najbolje posjetiti tijekom toplih ljetnih večeri kada se održavaju lokalni događaji."
           }
         },
         {
@@ -406,7 +447,8 @@
             "de": "Lučki most",
             "hu": "Lučki most",
             "ro": "Lučki most",
-            "en": "Lučki most"
+            "en": "Lučki most",
+            "hr": "Lučki most"
           },
           "coords": [
             17.652341,
@@ -421,7 +463,8 @@
             "de": "Halten Sie auf dieser ikonischen Brücke über die Neretva inne, um atemberaubende Fotos der Stadt zu schießen, die zur goldenen Stunde besonders schön ist.",
             "hu": "Álljon meg ezen az ikonikus hídon, amely keresztezi a Neretva folyót, hogy lenyűgöző fotókat készítsen a városról, amely különösen szép az aranyórában.",
             "ro": "Opriți-vă pe acest pod iconic peste râul Neretva pentru a surprinde fotografii uimitoare ale orașului, deosebit de frumos în timpul orei de aur.",
-            "en": "Pause on this iconic bridge crossing the Neretva river to capture stunning photos of the town, especially beautiful during the golden hour."
+            "en": "Pause on this iconic bridge crossing the Neretva river to capture stunning photos of the town, especially beautiful during the golden hour.",
+            "hr": "Zastanite na ovom ikonografskom mostu preko rijeke Neretve kako biste snimili zapanjujuće fotografije grada, posebno lijepo za zlatni sat."
           }
         },
         {
@@ -429,7 +472,8 @@
             "de": "Cave in Predolac",
             "hu": "Cave in Predolac",
             "ro": "Cave in Predolac",
-            "en": "Cave in Predolac"
+            "en": "Cave in Predolac",
+            "hr": "Špilja u Predolcu"
           },
           "coords": [
             17.658349,
@@ -444,7 +488,8 @@
             "de": "Erkunden Sie dieses faszinierende natürliche Höhlensystem, um mehr über die lokale Karstgeologie zu erfahren, und bringen Sie eine leichte Jacke mit.",
             "hu": "Fedezze fel ezt a lenyűgöző természetes barlangrendszert, hogy megismerje a helyi karsztgeológiát, és ne felejtsen el egy könnyű kabátot hozni.",
             "ro": "Explorați acest fascinant sistem de peșteri naturale pentru a afla despre geologia carstică locală și nu uitați să aduceți o jachetă ușoară.",
-            "en": "Explore this fascinating natural cave system to learn about local karst geology, and remember to bring a light jacket as temperatures inside are quite cool."
+            "en": "Explore this fascinating natural cave system to learn about local karst geology, and remember to bring a light jacket as temperatures inside are quite cool.",
+            "hr": "Istražite ovaj fascinantan prirodni sustav špilja kako biste saznali o lokalnoj krškoj geologiji, i ne zaboravite ponijeti laganu jaknu jer je unutra prilično svježe."
           }
         },
         {
@@ -452,7 +497,8 @@
             "de": "crkva svetog Nikole biskupa",
             "hu": "crkva svetog Nikole biskupa",
             "ro": "crkva svetog Nikole biskupa",
-            "en": "crkva svetog Nikole biskupa"
+            "en": "crkva svetog Nikole biskupa",
+            "hr": "crkva svetog Nikole biskupa"
           },
           "coords": [
             17.644289,
@@ -467,7 +513,8 @@
             "de": "Besuchen Sie diese ruhige, dem Heiligen Nikolaus gewidmete Pfarrkirche, um ihre modernen Buntglasfenster zu bewundern, und prüfen Sie vorher den Messeplan.",
             "hu": "Látogasson el ebbe a Szent Miklósnak szentelt békés plébániatemplomba, hogy megcsodálja modern ólomüveg ablakait, de előtte ellenőrizze a misék rendjét.",
             "ro": "Vizitați această biserică parohială senină dedicată Sfântului Nicolae pentru a aprecia vitraliile sale moderne, asigurându-vă că verificați programul slujbelor.",
-            "en": "Visit this serene parish church dedicated to St. Nicholas to appreciate its modern stained glass windows, ensuring you check the mass schedule before visiting."
+            "en": "Visit this serene parish church dedicated to St. Nicholas to appreciate its modern stained glass windows, ensuring you check the mass schedule before visiting.",
+            "hr": "Posjetite ovu spokojnu župnu crkvu posvećenu sv. Nikoli i uživajte u modernim vitrajima; provjerite raspored misa prije posjeta."
           }
         }
       ],
@@ -475,7 +522,8 @@
         "de": "Beginnen Sie den Tag auf dem örtlichen Spielplatz, bevor Sie zum Naturkundemuseum fahren. Mittags geht es zur historischen Kirche des Heiligen Elias und zum Sommerkino. Am Nachmittag radeln Sie über die Hafenbrücke, um die Predolac-Höhle zu erkunden. Abends genießen Sie eine friedliche Fahrt zur modernen Kirche des Heiligen Nikolaus.",
         "hu": "Kezdje a napot a helyi játszótéren, mielőtt a Természettudományi Múzeumba kerekezne. Délben a történelmi Szent Illés-templomhoz és a nyári mozihoz vezet az útja. Délután kerékpározzon át a kikötői hídon a Predolac-barlanghoz. Kora este élvezze a békés tekerést a modern Szent Miklós-templomhoz.",
         "ro": "Începeți-vă ziua la locul de joacă local înainte de a merge la Muzeul de Istorie Naturală. Prânzul vă duce la biserica istorică Sf. Ilie și la zona animată a cinematografului. După-amiaza, pedalați peste Podul Portului pentru a explora Peștera Predolac. Seara, bucurați-vă de o plimbare liniștită până la biserica modernă Sf. Nicolae.",
-        "en": "Kick off your day at the local playground before heading to the Natural History Museum. Midday takes you to the historic Church of St. Elijah and the lively Summer Cinema area. In the afternoon, cycle across the Port Bridge to explore the Predolac Cave. As evening falls, enjoy a peaceful ride to the modern Church of St. Nicholas."
+        "en": "Kick off your day at the local playground before heading to the Natural History Museum. Midday takes you to the historic Church of St. Elijah and the lively Summer Cinema area. In the afternoon, cycle across the Port Bridge to explore the Predolac Cave. As evening falls, enjoy a peaceful ride to the modern Church of St. Nicholas.",
+        "hr": "Započnite dan na lokalnom igralištu prije posjeta Prirodoslovnom muzeju. U podne obiđite povijesnu crkvu sv. Ilije i živahno područje Ljetnog kina. Popodne se provozajte biciklom preko Lučkog mosta do špilje u Predolcu. Po večeri uživajte u mirnoj vožnji do moderne crkve sv. Nikole."
       },
       "variants": {
         "rainy": {
@@ -483,7 +531,8 @@
             "de": "Starten Sie den regnerischen Morgen mit Poncho zur Kirche und zum Museum. Mittags fahren Sie vorsichtig zu Kirche und Kino; Vorsicht vor rutschigem Kopfsteinpflaster. Nachmittags geht es über die nasse Brücke zur Höhle. Beenden Sie die Tour an der Nikolauskirche mit gutem Fahrradlicht.",
             "hu": "Esős reggelét kezdje vízálló poncsóban a játszótér és a múzeum felé tekerve. Délben óvatosan kerékpározzon a templomhoz és a mozihoz; vigyázzon a csúszós utakra. Délután keljen át a vizes hídon a barlang felé. Az esti utat a Szent Miklós templomnál fejezze be, jól működő kerékpárlámpákkal.",
             "ro": "Începeți dimineața ploioasă pedalând spre locul de joacă și muzeu, purtând un poncho bun. La prânz, mergeți cu grijă la biserică și cinema; atenție la drumul alunecos. După-amiaza traversați podul ud spre peșteră. Terminați seara la biserica Sf. Nicolae cu luminile bicicletei aprinse.",
-            "en": "Start a wet morning biking to the playground and museum, wearing a good poncho. By noon, ride carefully to the church and cinema; beware of slippery cobblestones. In the afternoon, cross the wet bridge to the sheltered cave. Finish the evening ride at St. Nicholas church with functioning bike lights."
+            "en": "Start a wet morning biking to the playground and museum, wearing a good poncho. By noon, ride carefully to the church and cinema; beware of slippery cobblestones. In the afternoon, cross the wet bridge to the sheltered cave. Finish the evening ride at St. Nicholas church with functioning bike lights.",
+            "hr": "Započnite mokro jutro vožnje do igrališta i muzeja s dobrim pončom. U podne vozite oprezno prema crkvi i kinu; pazite na klizave kaldrme. Popodne prijeđite mokri most do zaklonjene špilje. Završite večernju vožnju kod crkve sv. Nikole s ispravnim svjetlima na biciklu."
           },
           "stops": [
             {
@@ -491,13 +540,15 @@
                 "de": "igraliste vrtica",
                 "hu": "igraliste vrtica",
                 "ro": "igraliste vrtica",
-                "en": "igraliste vrtica"
+                "en": "igraliste vrtica",
+                "hr": "igra­lište vrtića"
               },
               "tip_5lang": {
                 "de": "Sehen Sie sich den Spielplatz an, aber achten Sie auf regenfeste Kleidung und rutschige, nasse Oberflächen.",
                 "hu": "Nézze meg a játszóteret, de adjon a gyerekekre vízálló ruhát, és ügyeljen a csúszós, nedves felületekre.",
                 "ro": "Vizitați locul de joacă, dar îmbrăcați copiii în haine impermeabile și atenție la suprafețele alunecoase.",
-                "en": "Check out the playground area, but keep kids in waterproof gear and watch out for slippery wet surfaces."
+                "en": "Check out the playground area, but keep kids in waterproof gear and watch out for slippery wet surfaces.",
+                "hr": "Pogledajte igralište, ali držite djecu u vodoodbojnoj odjeći i pripazite na klizave mokre površine."
               }
             },
             {
@@ -505,13 +556,15 @@
                 "de": "Prirodoslovni muzej",
                 "hu": "Prirodoslovni muzej",
                 "ro": "Prirodoslovni muzej",
-                "en": "Prirodoslovni muzej"
+                "en": "Prirodoslovni muzej",
+                "hr": "Prirodoslovni muzej"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad und trocknen Sie sich drinnen ab, während Sie die beeindruckende Vogelsammlung genießen.",
                 "hu": "Parkolja le a kerékpárt, és száradjon meg odabent, miközben a lenyűgöző madárgyűjteményt tanulmányozza.",
                 "ro": "Parcați bicicleta și uscați-vă în interior în timp ce admirați impresionanta colecție de istorie naturală.",
-                "en": "Park your bike and dry off inside while enjoying the impressive natural history and bird collections."
+                "en": "Park your bike and dry off inside while enjoying the impressive natural history and bird collections.",
+                "hr": "Parkirajte bicikl i posušite se unutra uživajući u impresivnim zbirkama prirodne povijesti i ptica."
               }
             },
             {
@@ -519,13 +572,15 @@
                 "de": "crkva svetog Ilije",
                 "hu": "crkva svetog Ilije",
                 "ro": "crkva svetog Ilije",
-                "en": "crkva svetog Ilije"
+                "en": "crkva svetog Ilije",
+                "hr": "crkva svetog Ilije"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine Regenpause in dieser markanten Kirche; schließen Sie das Rad ab und achten Sie auf Stufen.",
                 "hu": "Tartson szünetet az eső elől a templomban; zárja le jól a biciklit, és vigyázzon a csúszós lépcsőkön.",
                 "ro": "Luați o pauză de la ploaie în această biserică; asigurați bicicleta și atenție la treptele alunecoase.",
-                "en": "Take a break from the rain inside this prominent church; lock your bike securely and beware of slippery steps."
+                "en": "Take a break from the rain inside this prominent church; lock your bike securely and beware of slippery steps.",
+                "hr": "Odmorite od kiše unutar ove istaknute crkve; zaključajte bicikl sigurno i pazite na klizave stepenice."
               }
             },
             {
@@ -533,13 +588,15 @@
                 "de": "Ljetno kino",
                 "hu": "Ljetno kino",
                 "ro": "Ljetno kino",
-                "en": "Ljetno kino"
+                "en": "Ljetno kino",
+                "hr": "Ljetno kino"
               },
               "tip_5lang": {
                 "de": "Radeln Sie vorsichtig am Kino vorbei, da sich bei starkem Regen große Pfützen auf den Wegen bilden können.",
                 "hu": "Óvatosan tekerjen el a mozi környékén, mivel az utakon nagy tócsák gyűlhetnek össze a heves esőzések során.",
                 "ro": "Pedalați cu grijă pe lângă cinematograf, deoarece pe alei se pot forma bălți mari în timpul ploilor abundente.",
-                "en": "Cycle past the cinema area carefully, as the paths can accumulate puddles during heavy rainstorms."
+                "en": "Cycle past the cinema area carefully, as the paths can accumulate puddles during heavy rainstorms.",
+                "hr": "Provozajte se pored kinozone oprezno, jer se staze mogu napuniti lokvama tijekom obilnih pljuskova."
               }
             },
             {
@@ -547,13 +604,15 @@
                 "de": "Lučki most",
                 "hu": "Lučki most",
                 "ro": "Lučki most",
-                "en": "Lučki most"
+                "en": "Lučki most",
+                "hr": "Lučki most"
               },
               "tip_5lang": {
                 "de": "Überqueren Sie die Brücke vorsichtig; der nasse Asphalt kann für Fahrradreifen im Regen sehr tückisch sein.",
                 "hu": "Óvatosan keljen át a hídon; a nedves aszfalt vagy fémfelület nagyon csúszós lehet a kerékpárgumik számára.",
                 "ro": "Traversati podul cu grijă; asfaltul umed poate fi extrem de periculos pentru anvelopele de bicicletă.",
-                "en": "Cross the bridge carefully; the wet metal or asphalt can be treacherous for bike tires in the rain."
+                "en": "Cross the bridge carefully; the wet metal or asphalt can be treacherous for bike tires in the rain.",
+                "hr": "Prijeđite most pažljivo; mokri metal ili asfalt mogu biti opasni za gume bicikla na kiši."
               }
             },
             {
@@ -561,13 +620,15 @@
                 "de": "Cave in Predolac",
                 "hu": "Cave in Predolac",
                 "ro": "Cave in Predolac",
-                "en": "Cave in Predolac"
+                "en": "Cave in Predolac",
+                "hr": "Špilja u Predolcu"
               },
               "tip_5lang": {
                 "de": "Lassen Sie das Rad draußen und suchen Sie Schutz in der Höhle, während Sie die unterirdischen Seen bewundern.",
                 "hu": "Hagyja kint a biciklit, és keressen természetes menedéket a barlangban, megcsodálva a földalatti tavakat.",
                 "ro": "Lăsați bicicleta afară și căutați adăpost în peșteră în timp ce admirați lacurile sale subterane unice.",
-                "en": "Leave your bike outside and seek natural shelter in the cave while admiring its unique underground lakes."
+                "en": "Leave your bike outside and seek natural shelter in the cave while admiring its unique underground lakes.",
+                "hr": "Ostavite bicikl vani i potražite prirodni zaklon u špilji dok se divite njezinim jedinstvenim podzemnim jezerima."
               }
             },
             {
@@ -575,13 +636,15 @@
                 "de": "crkva svetog Nikole biskupa",
                 "hu": "crkva svetog Nikole biskupa",
                 "ro": "crkva svetog Nikole biskupa",
-                "en": "crkva svetog Nikole biskupa"
+                "en": "crkva svetog Nikole biskupa",
+                "hr": "crkva svetog Nikole biskupa"
               },
               "tip_5lang": {
                 "de": "Beenden Sie die Regentour hier; achten Sie auf helles Fahrradlicht, da Regen die Sicht stark einschränkt.",
                 "hu": "Itt fejezze be az esős utat; gondoskodjon erős kerékpárlámpákról, mert az eső rontja a látási viszonyokat.",
                 "ro": "Terminați plimbarea aici; asigurați-vă că luminile funcționează, deoarece ploaia reduce vizibilitatea.",
-                "en": "Finish your rainy ride here; ensure your bike lights are bright as rain reduces visibility drastically."
+                "en": "Finish your rainy ride here; ensure your bike lights are bright as rain reduces visibility drastically.",
+                "hr": "Završite svoju kišnu vožnju ovdje; pobrinite se da svjetla na biciklu dobro svijetle jer kiša drastično smanjuje vidljivost."
               }
             }
           ]
@@ -591,7 +654,8 @@
             "de": "Ziehen Sie sich warm an für die Wintermorgenfahrt zum Spielplatz und beheizten Museum. Mittags radeln Sie mit Handschuhen zu den Kirchen und zum Kino. Genießen Sie nachmittags den Sonnenuntergang auf der Brücke und besuchen Sie die Höhle. Beenden Sie die Tour um 17 Uhr vor der frühen Dunkelheit.",
             "hu": "Öltözzön melegen a csípős reggeli kerékpározáshoz a játszótér és a fűtött múzeum felé. Délben kesztyűben és sálban tekerjen a templomokhoz és a mozihoz. Délután élvezze a naplementét a hídon, majd nézze meg a barlangot. Fejezze be az utat délután 5-kor, mert a sötétben gyorsan lehűl a levegő.",
             "ro": "Îmbrăcați-vă gros pentru o plimbare rece de dimineață spre locul de joacă și muzeu. La prânz, pedalați spre biserici și cinema purtând mănuși și fular. După-amiaza, bucurați-vă de apusul de pe pod și vizitați peștera. Terminați la ora 17:00, deoarece temperaturile scad rapid după lăsarea întunericului.",
-            "en": "Bundle up for a brisk winter morning ride to the playground and warm museum. Midday, cycle to the churches and cinema with gloves and a thick scarf. In the afternoon, enjoy the sunset over the bridge and visit the cave. Finish by 5 PM at St. Nicholas, as temperatures drop quickly in the early dark."
+            "en": "Bundle up for a brisk winter morning ride to the playground and warm museum. Midday, cycle to the churches and cinema with gloves and a thick scarf. In the afternoon, enjoy the sunset over the bridge and visit the cave. Finish by 5 PM at St. Nicholas, as temperatures drop quickly in the early dark.",
+            "hr": "Slojevito se obucite za svježu zimsku jutarnju vožnju do igrališta i toplog muzeja. U podne vozite do crkava i kina s rukavicama i debelim šalovima. Popodne uživajte u zalasku sunca preko mosta i posjetite špilju. Završite do 17:00 kod sv. Nikole, jer temperature brzo padaju s ranom tamom."
           },
           "stops": [
             {
@@ -599,13 +663,15 @@
                 "de": "igraliste vrtica",
                 "hu": "igraliste vrtica",
                 "ro": "igraliste vrtica",
-                "en": "igraliste vrtica"
+                "en": "igraliste vrtica",
+                "hr": "igra­lište vrtića"
               },
               "tip_5lang": {
                 "de": "Ein kurzer Stopp am Spielplatz; bleiben Sie in Bewegung, um in der kalten Winterluft warm zu bleiben.",
                 "hu": "Gyors megálló a játszótéren; maradjon mozgásban, hogy melegen tartsa magát a csípős téli levegőn.",
                 "ro": "O scurtă oprire la locul de joacă; continuați să vă mișcați pentru a vă încălzi în aerul rece de iarnă.",
-                "en": "A quick stop at the playground; keep moving to stay warm in the crisp winter morning air."
+                "en": "A quick stop at the playground; keep moving to stay warm in the crisp winter morning air.",
+                "hr": "Kratka stanica na igralištu; nastavite se kretati kako biste ostali topli u svježem zimskom jutarnjem zraku."
               }
             },
             {
@@ -613,13 +679,15 @@
                 "de": "Prirodoslovni muzej",
                 "hu": "Prirodoslovni muzej",
                 "ro": "Prirodoslovni muzej",
-                "en": "Prirodoslovni muzej"
+                "en": "Prirodoslovni muzej",
+                "hr": "Prirodoslovni muzej"
               },
               "tip_5lang": {
                 "de": "Wärmen Sie Ihre Finger drinnen auf, während Sie die unglaublichen naturhistorischen Exponate studieren.",
                 "hu": "Olvassza ki az ujjait odabent, miközben időt szakít a hihetetlen helyi természettudományi kiállításokra.",
                 "ro": "Încălziți-vă degetele în interior în timp ce studiați expozițiile incredibile de istorie naturală locală.",
-                "en": "Defrost your fingers indoors while taking time to study the incredible local natural history exhibits."
+                "en": "Defrost your fingers indoors while taking time to study the incredible local natural history exhibits.",
+                "hr": "Odmrznite prste unutra dok odvajate vrijeme za proučavanje nevjerojatnih lokalnih izložaka prirodne povijesti."
               }
             },
             {
@@ -627,13 +695,15 @@
                 "de": "crkva svetog Ilije",
                 "hu": "crkva svetog Ilije",
                 "ro": "crkva svetog Ilije",
-                "en": "crkva svetog Ilije"
+                "en": "crkva svetog Ilije",
+                "hr": "crkva svetog Ilije"
               },
               "tip_5lang": {
                 "de": "Parken Sie Ihr Rad und gehen Sie hinein, um sich in der ruhigen Winteratmosphäre der Kirche aufzuwärmen.",
                 "hu": "Állítsa le a biciklit, és menjen be felmelegedni, miközben megcsodálja a templom békés téli hangulatát.",
                 "ro": "Parcați bicicleta și intrați să vă încălziți în timp ce admirați atmosfera senină de iarnă a bisericii.",
-                "en": "Park your bike and step inside to warm up while admiring the serene winter atmosphere of the church."
+                "en": "Park your bike and step inside to warm up while admiring the serene winter atmosphere of the church.",
+                "hr": "Parkirajte bicikl i uđite unutra da se ugrijete dok uživate u spokojnoj zimskoj atmosferi crkve."
               }
             },
             {
@@ -641,13 +711,15 @@
                 "de": "Ljetno kino",
                 "hu": "Ljetno kino",
                 "ro": "Ljetno kino",
-                "en": "Ljetno kino"
+                "en": "Ljetno kino",
+                "hr": "Ljetno kino"
               },
               "tip_5lang": {
                 "de": "Radeln Sie am Kino vorbei; der Winterwind erfordert eine warme Mütze unter Ihrem Fahrradhelm.",
                 "hu": "Tekerjen el a mozi mellett; az itteni téli szelek miatt meleg sapka viselése ajánlott a sisak alatt.",
                 "ro": "Pedalați pe lângă cinema; vânturile de iarnă necesită o căciulă călduroasă pe sub casca de bicicletă.",
-                "en": "Cycle past the cinema; the winter winds here require a warm hat under your bicycle helmet."
+                "en": "Cycle past the cinema; the winter winds here require a warm hat under your bicycle helmet.",
+                "hr": "Provozajte se pored kina; zimski vjetrovi ovdje zahtijevaju toplu kapu ispod biciklističke kacige."
               }
             },
             {
@@ -655,13 +727,15 @@
                 "de": "Lučki most",
                 "hu": "Lučki most",
                 "ro": "Lučki most",
-                "en": "Lučki most"
+                "en": "Lučki most",
+                "hr": "Lučki most"
               },
               "tip_5lang": {
                 "de": "Die Aussicht auf den frostigen Fluss ist atemberaubend, aber überqueren Sie ihn schnell wegen des Windes.",
                 "hu": "A fagyos folyó látványa lenyűgöző, de haladjon át gyorsan a hídon, hogy elkerülje a dermesztő szelet.",
                 "ro": "Priveliștea râului înghețat este superbă, dar traversați repede pentru a evita briza rece de iarnă.",
-                "en": "The view of the frosty river is stunning, but cross quickly to avoid the chilling winter breeze."
+                "en": "The view of the frosty river is stunning, but cross quickly to avoid the chilling winter breeze.",
+                "hr": "Pogled na mrazom okovanu rijeku je zadivljujuć, ali prijeđite brzo da izbjegnete prohladni zimski vjetar."
               }
             },
             {
@@ -669,13 +743,15 @@
                 "de": "Cave in Predolac",
                 "hu": "Cave in Predolac",
                 "ro": "Cave in Predolac",
-                "en": "Cave in Predolac"
+                "en": "Cave in Predolac",
+                "hr": "Špilja u Predolcu"
               },
               "tip_5lang": {
                 "de": "Die stabile Temperatur in der Höhle bietet eine bemerkenswert angenehme Pause von der beißenden Winterkälte.",
                 "hu": "A barlang stabil belső hőmérséklete figyelemre méltóan kellemes menedéket nyújt a csípős téli hideg elől.",
                 "ro": "Temperatura stabilă din interiorul peșterii oferă o pauză remarcabil de plăcută de la frigul tăios al iernii.",
-                "en": "The stable temperature inside the cave provides a remarkably pleasant break from the biting winter cold."
+                "en": "The stable temperature inside the cave provides a remarkably pleasant break from the biting winter cold.",
+                "hr": "Stabilna temperatura unutar špilje pruža iznenađujuće ugodan predah od oštre zimske hladnoće."
               }
             },
             {
@@ -683,13 +759,15 @@
                 "de": "crkva svetog Nikole biskupa",
                 "hu": "crkva svetog Nikole biskupa",
                 "ro": "crkva svetog Nikole biskupa",
-                "en": "crkva svetog Nikole biskupa"
+                "en": "crkva svetog Nikole biskupa",
+                "hr": "crkva svetog Nikole biskupa"
               },
               "tip_5lang": {
                 "de": "Beenden Sie Ihre Tour hier vor 17 Uhr; schalten Sie die Radbeleuchtung ein, da die Dämmerung früh einsetzt.",
                 "hu": "Fejezze be a téli utat délután 5 előtt; kapcsolja be a lámpákat, mert hamar és hirtelen sötétedik.",
                 "ro": "Terminați plimbarea de iarnă aici înainte de ora 17:00; aprindeți luminile, deoarece se întunecă devreme.",
-                "en": "End your winter ride here before 5 PM; make sure your bike lights are on as dusk falls early."
+                "en": "End your winter ride here before 5 PM; make sure your bike lights are on as dusk falls early.",
+                "hr": "Završite zimsku vožnju ovdje prije 17:00; provjerite da su svjetla na biciklu uključena jer sumrak dolazi rano."
               }
             }
           ]
@@ -709,7 +787,8 @@
             "de": "crkva svetog Nikole biskupa",
             "hu": "crkva svetog Nikole biskupa",
             "ro": "crkva svetog Nikole biskupa",
-            "en": "crkva svetog Nikole biskupa"
+            "en": "crkva svetog Nikole biskupa",
+            "hr": "crkva svetog Nikole biskupa"
           },
           "coords": [
             17.644289,
@@ -724,7 +803,8 @@
             "de": "Besuchen Sie diese ruhige, dem Heiligen Nikolaus gewidmete Pfarrkirche, um ihre modernen Buntglasfenster zu bewundern, und prüfen Sie vorher den Messeplan.",
             "hu": "Látogasson el ebbe a Szent Miklósnak szentelt békés plébániatemplomba, hogy megcsodálja modern ólomüveg ablakait, de előtte ellenőrizze a misék rendjét.",
             "ro": "Vizitați această biserică parohială senină dedicată Sfântului Nicolae pentru a aprecia vitraliile sale moderne, asigurându-vă că verificați programul slujbelor.",
-            "en": "Visit this serene parish church dedicated to St. Nicholas to appreciate its modern stained glass windows, ensuring you check the mass schedule before visiting."
+            "en": "Visit this serene parish church dedicated to St. Nicholas to appreciate its modern stained glass windows, ensuring you check the mass schedule before visiting.",
+            "hr": "Posjetite ovu spokojnu župnu crkvu posvećenu sv. Nikoli i uživajte u modernim vitrajima; provjerite raspored misa prije posjeta."
           }
         },
         {
@@ -732,7 +812,8 @@
             "de": "igraliste vrtica",
             "hu": "igraliste vrtica",
             "ro": "igraliste vrtica",
-            "en": "igraliste vrtica"
+            "en": "igraliste vrtica",
+            "hr": "igra­lište vrtića"
           },
           "coords": [
             17.644192,
@@ -747,7 +828,8 @@
             "de": "Lassen Sie die Kinder auf diesem sicheren und farbenfrohen örtlichen Spielplatz Energie abbauen, der auch schattige Sitzbereiche für Eltern bietet.",
             "hu": "Hagyja, hogy a gyerekek levezessék az energiájukat ezen a biztonságos helyi játszótéren, amely árnyékos ülőhelyeket is kínál a szülők számára.",
             "ro": "Lăsați copiii să-și consume energia pe acest loc de joacă local sigur și colorat, care oferă și zone cu scaune umbrite pentru relaxarea părinților.",
-            "en": "Let the kids burn off some energy at this safe and colorful local playground, which also offers shaded seating areas for parents to relax."
+            "en": "Let the kids burn off some energy at this safe and colorful local playground, which also offers shaded seating areas for parents to relax.",
+            "hr": "Pustite djecu da se razigraju na ovom sigurnom i šarenom lokalnom igralištu, koje također nudi sjenovita mjesta za sjedenje roditeljima."
           }
         },
         {
@@ -755,7 +837,8 @@
             "de": "Prirodoslovni muzej",
             "hu": "Prirodoslovni muzej",
             "ro": "Prirodoslovni muzej",
-            "en": "Prirodoslovni muzej"
+            "en": "Prirodoslovni muzej",
+            "hr": "Prirodoslovni muzej"
           },
           "coords": [
             17.648316,
@@ -770,7 +853,8 @@
             "de": "Entdecken Sie die reiche ornithologische Sammlung des Neretva-Deltas und erkundigen Sie sich beim Kurator nach geführten Vogelbeobachtungstouren.",
             "hu": "Fedezze fel a Neretva-delta gazdag madárvilágát bemutató ornitológiai gyűjteményt, és érdeklődjön a kurátornál a vezetett madármegfigyelő túrákról.",
             "ro": "Descoperiți bogata colecție ornitologică care reprezintă fauna diversă din Delta Neretvei și întrebați curatorul despre tururile ghidate pentru observarea păsărilor.",
-            "en": "Discover the rich ornithological collection representing the diverse bird life of the Neretva Delta, and ask the curator about guided birdwatching tours."
+            "en": "Discover the rich ornithological collection representing the diverse bird life of the Neretva Delta, and ask the curator about guided birdwatching tours.",
+            "hr": "Otkrijte bogatu ornitološku zbirku koja predstavlja raznolik ptičji svijet Neretvanskog delta i pitajte kustosa za vođene obilaske promatranja ptica."
           }
         },
         {
@@ -778,7 +862,8 @@
             "de": "crkva svetog Ilije",
             "hu": "crkva svetog Ilije",
             "ro": "crkva svetog Ilije",
-            "en": "crkva svetog Ilije"
+            "en": "crkva svetog Ilije",
+            "hr": "crkva svetog Ilije"
           },
           "coords": [
             17.650421,
@@ -793,7 +878,8 @@
             "de": "Bewundern Sie die markante Lage auf dem Hügel und die schöne Architektur dieser historischen Kirche, aber tragen Sie für den steilen Aufstieg bequeme Schuhe.",
             "hu": "Csodálja meg e történelmi templom kiemelkedő dombtetői elhelyezkedését és gyönyörű építészetét, de viseljen kényelmes cipőt a meredek sétához.",
             "ro": "Admirați locația proeminentă pe deal și arhitectura frumoasă a acestei biserici istorice, dar purtați încălțăminte confortabilă pentru urcarea abruptă.",
-            "en": "Admire the prominent hilltop location and beautiful architecture of this historic church, but wear comfortable shoes for the steep walk up."
+            "en": "Admire the prominent hilltop location and beautiful architecture of this historic church, but wear comfortable shoes for the steep walk up.",
+            "hr": "Divite se istaknutom položaju na brežuljku i lijepoj arhitekturi ove povijesne crkve, ali nosite udobne cipele za strmi uspon."
           }
         },
         {
@@ -801,7 +887,8 @@
             "de": "Cave in Predolac",
             "hu": "Cave in Predolac",
             "ro": "Cave in Predolac",
-            "en": "Cave in Predolac"
+            "en": "Cave in Predolac",
+            "hr": "Špilja u Predolcu"
           },
           "coords": [
             17.658349,
@@ -816,7 +903,8 @@
             "de": "Erkunden Sie dieses faszinierende natürliche Höhlensystem, um mehr über die lokale Karstgeologie zu erfahren, und bringen Sie eine leichte Jacke mit.",
             "hu": "Fedezze fel ezt a lenyűgöző természetes barlangrendszert, hogy megismerje a helyi karsztgeológiát, és ne felejtsen el egy könnyű kabátot hozni.",
             "ro": "Explorați acest fascinant sistem de peșteri naturale pentru a afla despre geologia carstică locală și nu uitați să aduceți o jachetă ușoară.",
-            "en": "Explore this fascinating natural cave system to learn about local karst geology, and remember to bring a light jacket as temperatures inside are quite cool."
+            "en": "Explore this fascinating natural cave system to learn about local karst geology, and remember to bring a light jacket as temperatures inside are quite cool.",
+            "hr": "Istražite ovaj fascinantan prirodni sustav špilja kako biste saznali o lokalnoj krškoj geologiji, i ne zaboravite ponijeti laganu jaknu jer je unutra prilično svježe."
           }
         },
         {
@@ -824,7 +912,8 @@
             "de": "Svitavsko jezero",
             "hu": "Svitavsko jezero",
             "ro": "Svitavsko jezero",
-            "en": "Svitavsko jezero"
+            "en": "Svitavsko jezero",
+            "hr": "Svitavsko jezero"
           },
           "coords": [
             17.773338,
@@ -839,7 +928,8 @@
             "de": "Genießen Sie einen ruhigen Nachmittag an diesem malerischen natürlichen See, ideal für ein Picknick, aber bringen Sie eigene Vorräte mit, da es kaum Einrichtungen gibt.",
             "hu": "Töltsön el egy békés délutánt e festői természetes tó mellett, amely tökéletes piknikezéshez és madármegfigyeléshez, de hozzon magával enni- és innivalót.",
             "ro": "Bucurați-vă de o după-amiază liniștită la acest lac natural pitoresc, perfect pentru un picnic, dar nu uitați să aduceți propriile provizii.",
-            "en": "Enjoy a tranquil afternoon by this picturesque natural lake, perfect for a picnic and birdwatching, but remember to bring your own supplies as facilities are sparse."
+            "en": "Enjoy a tranquil afternoon by this picturesque natural lake, perfect for a picnic and birdwatching, but remember to bring your own supplies as facilities are sparse.",
+            "hr": "Uživajte u mirnom popodnevu kraj ovog slikovitog prirodnog jezera, idealnog za piknik i promatranje ptica, ali ponesite vlastite potrepštine jer su sadržaji oskudni."
           }
         }
       ],
@@ -847,7 +937,8 @@
         "de": "Beginnen Sie Ihre Fahrt mit einem Besuch der ruhigen Kirche St. Nikolaus und des familienfreundlichen Spielplatzes. Mittags tauchen Sie im Naturkundemuseum in die lokale Ökologie ein und besuchen die Kirche des Heiligen Elias. Am Nachmittag steht die faszinierende Predolac-Höhle an. Beenden Sie Ihren Roadtrip mit dem Sonnenuntergang am Svitavsko-See.",
         "hu": "Kezdje az autós túrát a békés Szent Miklós-templom és a családbarát játszótér meglátogatásával. Délben merüljön el a helyi ökológiában a Természettudományi Múzeumban, majd nézze meg a történelmi Szent Illés-templomot. Délután a lenyűgöző Predolac-barlang következik. Fejezze be az utat a Svitavsko-tó naplementéjének élvezetével.",
         "ro": "Începeți-vă plimbarea cu o vizită la biserica senină Sf. Nicolae și la locul de joacă pentru familii. La prânz, aprofundați ecologia locală la Muzeul de Istorie Naturală și vizitați biserica istorică Sf. Ilie. După-amiaza include o oprire la fascinanta Peșteră Predolac. Încheiați-vă excursia bucurându-vă de apusul soarelui la Lacul Svitavsko.",
-        "en": "Begin your scenic drive with a visit to the serene Church of St. Nicholas and the family-friendly playground. At midday, dive into local ecology at the Natural History Museum and visit the historic Church of St. Elijah. Your afternoon features a stop at the fascinating Predolac Cave. Finish your road trip enjoying the sunset at Svitavsko Lake."
+        "en": "Begin your scenic drive with a visit to the serene Church of St. Nicholas and the family-friendly playground. At midday, dive into local ecology at the Natural History Museum and visit the historic Church of St. Elijah. Your afternoon features a stop at the fascinating Predolac Cave. Finish your road trip enjoying the sunset at Svitavsko Lake.",
+        "hr": "Započnite slikovitu vožnju posjetom mirnoj crkvi sv. Nikole i obiteljskom igralištu. U podne zaronite u lokalnu ekologiju u Prirodoslovnom muzeju i posjetite povijesnu crkvu sv. Ilije. Popodne se zaustavite kod fascinantne špilje u Predolcu. Završite izlet uživajući u zalasku sunca na Svitavskom jezeru."
       },
       "variants": {
         "rainy": {
@@ -855,7 +946,8 @@
             "de": "Beginnen Sie den regnerischen Morgen mit einer Fahrt zu den Kirchen und zum Spielplatz. Parken Sie mittags nah am Museum, um trocken zu bleiben. Fahren Sie nachmittags vorsichtig zur Höhle und dann zum See. Die nassen Straßen erfordern abends am See besondere Vorsicht und gute Reifen.",
             "hu": "Az esős reggelt kezdje kényelmes, fűtött autózással a templomok és a játszótér felé. Délben parkoljon minél közelebb a múzeumhoz, hogy száraz maradjon. Délután vezessen óvatosan a barlanghoz, majd a tóhoz. A vizes utak, különösen a tó környékén, extra figyelmet igényelnek az esti órákban.",
             "ro": "Începeți dimineața ploioasă conducând confortabil spre biserici și locul de joacă, folosind căldura din mașină. La prânz, parcați aproape de muzeu pentru a rămâne uscat. După-amiaza, conduceți cu grijă spre peșteră și apoi spre lac. Drumurile ude necesită prudență suplimentară seara.",
-            "en": "Start your rainy morning driving comfortably to the churches and playground, using the car heater. Midday, park close to the museum to stay dry. In the afternoon, drive carefully to the cave and finally out to the lake. The wet roads require extra caution, especially near the lake in the evening."
+            "en": "Start your rainy morning driving comfortably to the churches and playground, using the car heater. Midday, park close to the museum to stay dry. In the afternoon, drive carefully to the cave and finally out to the lake. The wet roads require extra caution, especially near the lake in the evening.",
+            "hr": "Započnite kišno jutro vožnje udobno do crkava i igrališta uz grijanje u autu. U podne parkirajte blizu muzeja da ostanete suhi. Popodne vozite oprezno do špilje i naposljetku do jezera. Mokri kolnici zahtijevaju dodatni oprez, osobito kraj jezera u večernjim satima."
           },
           "stops": [
             {
@@ -863,13 +955,15 @@
                 "de": "crkva svetog Nikole biskupa",
                 "hu": "crkva svetog Nikole biskupa",
                 "ro": "crkva svetog Nikole biskupa",
-                "en": "crkva svetog Nikole biskupa"
+                "en": "crkva svetog Nikole biskupa",
+                "hr": "crkva svetog Nikole biskupa"
               },
               "tip_5lang": {
                 "de": "Parken Sie in der Nähe und eilen Sie hinein, um das Innere zu bewundern und dem Morgenschauer zu entgehen.",
                 "hu": "Parkoljon a közelben, és szaladjon be gyorsan, hogy megcsodálja a belső teret, elmenekülve az eső elől.",
                 "ro": "Parcați în apropiere și fugiți rapid înăuntru pentru a admira interiorul, scăpând de ploile de dimineață.",
-                "en": "Park nearby and make a quick dash inside to admire the interior while escaping the morning showers."
+                "en": "Park nearby and make a quick dash inside to admire the interior while escaping the morning showers.",
+                "hr": "Parkirajte u blizini i brzo utrčite unutra da biste se divili interijeru i izbjegli jutarnju kišu."
               }
             },
             {
@@ -877,13 +971,15 @@
                 "de": "igraliste vrtica",
                 "hu": "igraliste vrtica",
                 "ro": "igraliste vrtica",
-                "en": "igraliste vrtica"
+                "en": "igraliste vrtica",
+                "hr": "igra­lište vrtića"
               },
               "tip_5lang": {
                 "de": "Bei strömendem Regen betrachten Sie die Gegend besser aus dem Auto; ansonsten nehmen Sie den Regenschirm.",
                 "hu": "Szakadó esőben inkább az autóból szemlélje a környéket, vagy kapja elő az esernyőjét egy gyors sétához.",
                 "ro": "Dacă toarnă, observați zona din confortul mașinii; altfel, luați umbrela pentru o scurtă plimbare.",
-                "en": "If it's pouring, observe the area from the comfort of your car; otherwise, grab your umbrella for a quick walk."
+                "en": "If it's pouring, observe the area from the comfort of your car; otherwise, grab your umbrella for a quick walk.",
+                "hr": "Ako lije, promatrajte područje iz udobnosti auta; inače uzmite kišobran za kratki hod."
               }
             },
             {
@@ -891,13 +987,15 @@
                 "de": "Prirodoslovni muzej",
                 "hu": "Prirodoslovni muzej",
                 "ro": "Prirodoslovni muzej",
-                "en": "Prirodoslovni muzej"
+                "en": "Prirodoslovni muzej",
+                "hr": "Prirodoslovni muzej"
               },
               "tip_5lang": {
                 "de": "Dieses Museum ist das perfekte Ziel für Regentage; parken Sie so nah wie möglich, um trocken zu bleiben.",
                 "hu": "Ez a múzeum tökéletes úti cél esős napokon; parkoljon a lehető legközelebb, hogy ne ázzon meg.",
                 "ro": "Acest muzeu interior este destinația perfectă pentru o zi ploioasă; parcați cât mai aproape pentru a nu vă uda.",
-                "en": "This indoor museum is the perfect rainy day destination; park as close as possible to avoid getting wet."
+                "en": "This indoor museum is the perfect rainy day destination; park as close as possible to avoid getting wet.",
+                "hr": "Ovaj zatvoreni muzej je savršena destinacija za kišni dan; parkirajte što bliže kako ne biste smočili."
               }
             },
             {
@@ -905,13 +1003,15 @@
                 "de": "crkva svetog Ilije",
                 "hu": "crkva svetog Ilije",
                 "ro": "crkva svetog Ilije",
-                "en": "crkva svetog Ilije"
+                "en": "crkva svetog Ilije",
+                "hr": "crkva svetog Ilije"
               },
               "tip_5lang": {
                 "de": "Halten Sie Ihren Regenschirm bereit, wenn Sie aussteigen, um diese historische religiöse Stätte zu besuchen.",
                 "hu": "Tartsa kéznél az esernyőjét, amikor kiszáll az autóból, hogy meglátogassa ezt a történelmi templomot.",
                 "ro": "Păstrați umbrela la îndemână când coborâți din mașină pentru a vizita acest sit religios istoric bogat.",
-                "en": "Keep your umbrella handy as you step out of the car to visit this historically rich religious site."
+                "en": "Keep your umbrella handy as you step out of the car to visit this historically rich religious site.",
+                "hr": "Držite kišobran pri ruci kad izlazite iz automobila da posjetite ovo povijesno bogato vjersko mjesto."
               }
             },
             {
@@ -919,13 +1019,15 @@
                 "de": "Cave in Predolac",
                 "hu": "Cave in Predolac",
                 "ro": "Cave in Predolac",
-                "en": "Cave in Predolac"
+                "en": "Cave in Predolac",
+                "hr": "Špilja u Predolcu"
               },
               "tip_5lang": {
                 "de": "Ein kurzer, nasser Fußweg vom Parkplatz führt Sie in die faszinierende, völlig trockene Tropfsteinhöhle.",
                 "hu": "A parkolóból egy rövid, esős séta vezet be a lenyűgöző és teljesen száraz földalatti barlangrendszerbe.",
                 "ro": "O scurtă plimbare prin ploaie de la parcare vă conduce în peștera subterană fascinantă și complet uscată.",
-                "en": "A brief wet walk from the parking area leads you into the fascinating, completely dry subterranean cave."
+                "en": "A brief wet walk from the parking area leads you into the fascinating, completely dry subterranean cave.",
+                "hr": "Kratka mokra šetnja od parkirališta vodi vas u fascinantnu, potpuno suhu podzemnu špilju."
               }
             },
             {
@@ -933,13 +1035,15 @@
                 "de": "Svitavsko jezero",
                 "hu": "Svitavsko jezero",
                 "ro": "Svitavsko jezero",
-                "en": "Svitavsko jezero"
+                "en": "Svitavsko jezero",
+                "hr": "Svitavsko jezero"
               },
               "tip_5lang": {
                 "de": "Fahren Sie vorsichtig um den See; starker Regen kann die unbefestigten Naturstraßen sehr rutschig machen.",
                 "hu": "Vezessen óvatosan a tó körül; a heves esőzés a környező földutakat nagyon csúszóssá és sarassá teheti.",
                 "ro": "Conduceți cu prudență în jurul lacului; ploaia puternică poate face drumurile de pământ foarte alunecoase.",
-                "en": "Drive cautiously around the lake; heavy rain can make the surrounding natural dirt roads very slippery."
+                "en": "Drive cautiously around the lake; heavy rain can make the surrounding natural dirt roads very slippery.",
+                "hr": "Vozite oprezno oko jezera; obilna kiša može učiniti okolne prirodne zemljane ceste vrlo skliskima."
               }
             }
           ]
@@ -949,7 +1053,8 @@
             "de": "Wärmen Sie das Auto vor für die frostige Morgenfahrt zur Kirche und zum Spielplatz. Mittags genießen Sie das beheizte Museum und die Kirche. Nachmittags besuchen Sie die Höhle und fahren zum See für das frühe goldene Licht. Fahren Sie vor 17 Uhr zurück, bevor der eisige Winterabend beginnt.",
             "hu": "Melegítse elő az autót a fagyos reggeli úthoz a templom és a játszótér felé. Délben élvezze a fűtött múzeumot és a második templomot. Délután nézze meg a barlangot, majd vezessen a tóhoz a korai aranyórában. Mindenképpen induljon vissza délután 5 előtt, amikor a sötét, jeges téli este beköszönt.",
             "ro": "Încălziți mașina pentru o plimbare de dimineață înghețată spre biserică și locul de joacă. La prânz, bucurați-vă de muzeul încălzit. După-amiaza, vizitați peștera și conduceți spre lac pentru a prinde ora de aur timpurie. Asigurați-vă că vă întoarceți înainte de 17:00, când începe seara de iarnă.",
-            "en": "Warm up your car for a frosty morning drive to the church and playground. Midday, enjoy the well-heated museum and the second church. In the afternoon, visit the cave and drive out to the lake to catch the early golden hour. Ensure you drive back before 5 PM when the dark, icy winter evening begins."
+            "en": "Warm up your car for a frosty morning drive to the church and playground. Midday, enjoy the well-heated museum and the second church. In the afternoon, visit the cave and drive out to the lake to catch the early golden hour. Ensure you drive back before 5 PM when the dark, icy winter evening begins.",
+            "hr": "Ugrijte auto za mrazno jutro vožnje do crkve i igrališta. U podne uživajte u dobro zagrijanom muzeju i drugoj crkvi. Popodne posjetite špilju i vozite do jezera da uhvatite rani zlatni sat. Pobrinite se da se vratite prije 17:00 kad počinje tamna, zaleđena zimska večer."
           },
           "stops": [
             {
@@ -957,13 +1062,15 @@
                 "de": "crkva svetog Nikole biskupa",
                 "hu": "crkva svetog Nikole biskupa",
                 "ro": "crkva svetog Nikole biskupa",
-                "en": "crkva svetog Nikole biskupa"
+                "en": "crkva svetog Nikole biskupa",
+                "hr": "crkva svetog Nikole biskupa"
               },
               "tip_5lang": {
                 "de": "Steigen Sie aus dem warmen Auto in die klare Luft, um dieses Wahrzeichen zu sehen; ziehen Sie sich warm an.",
                 "hu": "Szálljon ki a meleg autóból a friss levegőre, hogy megnézze a templomot; öltözzön fel jól a téli kabátjában.",
                 "ro": "Coborâți din mașina caldă în aerul rece pentru a vedea această clădire; îmbrăcați-vă bine cu haina de iarnă.",
-                "en": "Step out of the warm car into the crisp air to view this landmark; wrap up well in your winter coat."
+                "en": "Step out of the warm car into the crisp air to view this landmark; wrap up well in your winter coat.",
+                "hr": "Izađite iz toplog auta u svježi zrak da pogledate ovu znamenitost; dobro se utoplite u zimskom kaputu."
               }
             },
             {
@@ -971,13 +1078,15 @@
                 "de": "igraliste vrtica",
                 "hu": "igraliste vrtica",
                 "ro": "igraliste vrtica",
-                "en": "igraliste vrtica"
+                "en": "igraliste vrtica",
+                "hr": "igra­lište vrtića"
               },
               "tip_5lang": {
                 "de": "Lassen Sie die Kinder sich kurz die Beine vertreten, aber lassen Sie die Heizung fürs Aufwärmen laufen.",
                 "hu": "Hagyja, hogy a gyerekek gyorsan kinyújtóztassák a lábukat, de járassa a fűtést a gyors felmelegedéshez.",
                 "ro": "Lăsați copiii să-și întindă picioarele rapid, dar lăsați căldura mașinii pornită pentru o încălzire rapidă.",
-                "en": "Let the kids stretch their legs quickly, but keep the car heater running for a fast warm-up afterwards."
+                "en": "Let the kids stretch their legs quickly, but keep the car heater running for a fast warm-up afterwards.",
+                "hr": "Dopustite djeci da se brzo razgibaju, ali držite grijač auta uključenim za brzo zagrijavanje nakon toga."
               }
             },
             {
@@ -985,13 +1094,15 @@
                 "de": "Prirodoslovni muzej",
                 "hu": "Prirodoslovni muzej",
                 "ro": "Prirodoslovni muzej",
-                "en": "Prirodoslovni muzej"
+                "en": "Prirodoslovni muzej",
+                "hr": "Prirodoslovni muzej"
               },
               "tip_5lang": {
                 "de": "Machen Sie eine gemütliche, warme Pause in diesem exzellenten Museum, geschützt vor den Minustemperaturen.",
                 "hu": "Tartson egy kényelmes, meleg szünetet ebben a kiváló múzeumban, védve a fagyos kinti hőmérséklettől.",
                 "ro": "Luați o pauză relaxantă și caldă în interiorul acestui muzeu excelent, la adăpost de temperaturile de îngheț.",
-                "en": "Take a leisurely, warm break inside this excellent museum, sheltered from the freezing outdoor temperatures."
+                "en": "Take a leisurely, warm break inside this excellent museum, sheltered from the freezing outdoor temperatures.",
+                "hr": "Uzmíte ležernu, toplu pauzu unutar ovog izvrsnog muzeja, zaštićeni od hladnih vanjskih temperatura."
               }
             },
             {
@@ -999,13 +1110,15 @@
                 "de": "crkva svetog Ilije",
                 "hu": "crkva svetog Ilije",
                 "ro": "crkva svetog Ilije",
-                "en": "crkva svetog Ilije"
+                "en": "crkva svetog Ilije",
+                "hr": "crkva svetog Ilije"
               },
               "tip_5lang": {
                 "de": "Parken Sie nah und gehen Sie hinein; das steinerne Innere der Kirche fängt eine ruhige Winteressenz ein.",
                 "hu": "Parkoljon közel, és menjen be; a templom kőből épült belső tere a csendes, ünnepélyes téli hangulatot őrzi.",
                 "ro": "Parcați aproape și intrați repede; interiorul de piatră al bisericii surprinde o esență de iarnă solemnă.",
-                "en": "Park closely and dash inside; the stone interior of the church captures a quiet, solemn winter essence."
+                "en": "Park closely and dash inside; the stone interior of the church captures a quiet, solemn winter essence.",
+                "hr": "Parkirajte blizu i uđite brzo; kamena unutrašnjost crkve zadržava tihu, svečanu zimsku atmosferu."
               }
             },
             {
@@ -1013,13 +1126,15 @@
                 "de": "Cave in Predolac",
                 "hu": "Cave in Predolac",
                 "ro": "Cave in Predolac",
-                "en": "Cave in Predolac"
+                "en": "Cave in Predolac",
+                "hr": "Pećina u Predolcu"
               },
               "tip_5lang": {
                 "de": "Lassen Sie Ihre Winterjacke im Auto; das natürliche Klima der Höhle ist bemerkenswert wärmer als draußen.",
                 "hu": "Hagyja a téli kabátját az autóban; a barlang természetes klímája figyelemre méltóan melegebb a kinti levegőnél.",
                 "ro": "Lăsați geaca de iarnă în mașină; clima naturală a peșterii este remarcabil de caldă față de aerul de afară.",
-                "en": "Leave your winter jacket in the car; the cave's natural climate is remarkably warmer than the winter air."
+                "en": "Leave your winter jacket in the car; the cave's natural climate is remarkably warmer than the winter air.",
+                "hr": "Ostavite zimsku jaknu u autu; prirodna klima pećine je znatno toplija od zimskog zraka."
               }
             },
             {
@@ -1027,13 +1142,15 @@
                 "de": "Svitavsko jezero",
                 "hu": "Svitavsko jezero",
                 "ro": "Svitavsko jezero",
-                "en": "Svitavsko jezero"
+                "en": "Svitavsko jezero",
+                "hr": "Svitavsko jezero"
               },
               "tip_5lang": {
                 "de": "Kommen Sie vor 16 Uhr an, um das kurze Winterlicht einzufangen, das sich wunderschön auf dem See spiegelt.",
                 "hu": "Érkezzen délután 4 előtt, hogy elcsípje a hatalmas, nyugodt tóról gyönyörűen visszaverődő rövid téli fényt.",
                 "ro": "Ajungeți înainte de ora 16:00 pentru a prinde lumina scurtă a zilei de iarnă reflectându-se frumos pe lac.",
-                "en": "Arrive before 4 PM to catch the brief winter daylight reflecting beautifully off the vast, tranquil lake."
+                "en": "Arrive before 4 PM to catch the brief winter daylight reflecting beautifully off the vast, tranquil lake.",
+                "hr": "Stignite prije 16:00 da uhvatite kratko zimsko dnevno svjetlo koje se lijepo odbija od prostranog, mirnog jezera."
               }
             }
           ]

@@ -21,7 +21,8 @@
             "de": "Hauptplatz mit venezianischer Zisterne",
             "hu": "Főtér a velencei ciszternával",
             "ro": "Piața Centrală cu cisternă venețiană",
-            "en": "Main Square with Venetian Cistern"
+            "en": "Main Square with Venetian Cistern",
+            "hr": "Glavni trg s mletačkom cisternom"
           },
           "coords": [
             13.7667,
@@ -37,7 +38,7 @@
             "hu": "Nézd meg a ciszternán látható velencei címert.",
             "ro": "Admirați blazonul venețian de pe cisternă.",
             "en": "Check out the Venetian coat of arms on the cistern.",
-            "hr": "Pogledajte venecijanski grb na cisterni."
+            "hr": "Pogledajte mletački grb na cisterni."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Kirche des Hl. Hieronymus",
             "hu": "Szt. Jeromos-templom",
             "ro": "Biserica Sf. Ieronim",
-            "en": "Church of St. Jerome"
+            "en": "Church of St. Jerome",
+            "hr": "Crkva sv. Jeronima"
           },
           "coords": [
             13.7662,
@@ -61,7 +63,7 @@
             "hu": "Klasszicista stílusú épület a tér szélén.",
             "ro": "Arhitectură neoclasică la marginea pieței.",
             "en": "Neoclassical architecture at the edge of the square.",
-            "hr": "Neoklasicistička arhitektura na rubu trga."
+            "hr": "Neoklasična arhitektura na rubu trga."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Kaffee- und Gelatopause",
             "hu": "Kávé és fagylalt szünet",
             "ro": "Pauză de cafea și gelato",
-            "en": "Coffee and Gelato Break"
+            "en": "Coffee and Gelato Break",
+            "hr": "Kava i gelato pauza"
           },
           "coords": [
             13.766,
@@ -93,7 +96,8 @@
             "de": "Haus der Ballerina Carlotta Grisi",
             "hu": "Carlotta Grisi balerina háza",
             "ro": "Casa balerinei Carlotta Grisi",
-            "en": "House of Ballerina Carlotta Grisi"
+            "en": "House of Ballerina Carlotta Grisi",
+            "hr": "Kuća balerine Carlotte Grisi"
           },
           "coords": [
             13.7672,
@@ -109,7 +113,7 @@
             "hu": "A híres 19. századi balerina szülőháza.",
             "ro": "Locul de naștere al celebrei balerine din secolul XIX.",
             "en": "Birthplace of the famous 19th-century ballerina.",
-            "hr": "Rodno mjesto slavne balerine iz 19. stoljeća."
+            "hr": "Rodno mjesto poznate balerine iz 19. stoljeća."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Kirche des Hl. Barnabas",
             "hu": "Szent Barnabás-templom",
             "ro": "Biserica Sf. Barnaba",
-            "en": "Church of St. Barnabas"
+            "en": "Church of St. Barnabas",
+            "hr": "Crkva sv. Barnabe"
           },
           "coords": [
             13.768,
@@ -133,7 +138,7 @@
             "hu": "Híres a középkori freskóiról.",
             "ro": "Faimoasă pentru frescele sale medievale.",
             "en": "Famous for its medieval frescoes.",
-            "hr": "Poznato po srednjovjekovnim freskama."
+            "hr": "Poznata po svojim srednjovjekovnim freskama."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Mittagessen in einer lokalen Konoba",
             "hu": "Ebéd egy helyi konobában",
             "ro": "Prânz la o konoba locală",
-            "en": "Lunch in a Local Konoba"
+            "en": "Lunch in a Local Konoba",
+            "hr": "Ručak u lokalnoj konobi"
           },
           "coords": [
             13.7665,
@@ -157,7 +163,7 @@
             "hu": "Kóstold meg az isztriai szarvasgombás tésztát (Fuži).",
             "ro": "Încercați pastele istriene cu trufe (Fuži).",
             "en": "Try Istrian truffle pasta (Fuži).",
-            "hr": "Probajte istarsku tjesteninu s tartufima (fuži)."
+            "hr": "Probajte istarsku tartuf-pastu (Fuži)."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Parenzana Aussichtspunkt",
             "hu": "Parenzana kilátópont",
             "ro": "Punct de belvedere Parenzana",
-            "en": "Parenzana Viewpoint"
+            "en": "Parenzana Viewpoint",
+            "hr": "Vidikovac Parenzane"
           },
           "coords": [
             13.77,
@@ -181,7 +188,7 @@
             "hu": "Séta az egykori vasútvonal nyomvonalán.",
             "ro": "Plimbare pe traseul fostei căi ferate.",
             "en": "Walk along the former railway line.",
-            "hr": "Šetajte uz bivšu željezničku prugu."
+            "hr": "Prošetajte uz nekadašnju željezničku prugu."
           }
         }
       ],
@@ -190,7 +197,7 @@
         "hu": "A délelőttöt Vižinada történelmi központjában töltjük, felfedezve a velencei stílusú főteret és a hangulatos templomokat. Egy finom, helyi alapanyagokból készült ebéd után a Parenzana útvonal felé vesszük az irányt, amely egykor vasútvonal volt, ma pedig festői túraútvonal. Itt az isztriai táj nyugalmát és a szőlőültetvények látványát élvezhetjük.",
         "ro": "Dimineața explorăm centrul istoric din Vižinada în jurul pieței venețiene și bisericile remarcabile. După un prânz relaxat cu specialități locale, drumul ne poartă spre Parenzana, legendara rută feroviară transformată astăzi într-o cărare pitorească. Aici ne bucurăm de liniștea peisajului istrian și de panorama podgoriilor.",
         "en": "In the morning, we explore the historical core of Vižinada around the Venetian square and the prominent churches. After a leisurely lunch featuring local specialties, our path leads to the Parenzana, the legendary railway route that is now a picturesque hiking trail. Here, we enjoy the tranquility of the Istrian landscape and the panorama of the vineyards.",
-        "hr": "Ujutro istražujemo povijesnu jezgru Vižinade oko venecijanskog trga i istaknutih crkava. Nakon opuštenog ručka uz lokalne specijalitete, put nas vodi na Parenzanu, legendarnu željezničku rutu koja je danas slikovita pješačka staza. Ovdje uživamo u miru istarskog krajolika i panorami vinograda."
+        "hr": "Ujutro istražujemo povijesno središte Vižinade oko mletačkog trga i istaknutih crkava. Nakon opuštenog ručka s lokalnim specijalitetima, put nas vodi prema Parenzani, legendarnom željezničkom putu koji je danas slikovita pješačka staza. Ovdje uživamo u spokojstvu istarske krajolike i panorami vinograda."
       },
       "gastro_picks": {
         "de": [
@@ -316,7 +323,7 @@
         ],
         "hr": [
           "Vižinada je mala, gotovo sve je dostupno pješice.",
-          "Nosite udobnu obuću za stazu Parenzana.",
+          "Nosite udobnu obuću za stazu Parenzane.",
           "Posjetite tijekom festivala 'Slatka Istra' u kolovozu."
         ]
       },
@@ -327,7 +334,7 @@
             "hu": "Kezdje a reggelt a velencei kútnál, ahol az árkádok védelmet nyújtanak a szemerkélő esőben. A Szent Jeromos és Szent Barnabás templomok belső terei kiváló menedéket és kulturális élményt adnak. Az ebédet nyújtsa hosszúra egy helyi konobában, majd csodálja meg a misztikus, ködbe burkolózó tájat a Parenzana sétányról.",
             "ro": "Începeți ziua la cisterna venețiană, unde arcadele oferă protecție împotriva ploii. Vizitați bisericile Sf. Ieronim și Sf. Barnaba pentru a admira arta sacră la adăpost. Un prânz prelungit într-o tavernă locală este refugiul perfect, urmat de o plimbare spre punctul de belvedere Parenzana, adesea învăluit într-o ceață pitorească.",
             "en": "Start your day at the Venetian cistern, using the stone arches for cover. Focus on the interiors of St. Jerome and St. Barnabas churches to stay dry while enjoying local history. A long, cozy lunch in a traditional konoba provides the best refuge before heading to the Parenzana viewpoint, where the rain adds a misty charm to the Istrian hills.",
-            "hr": "Započnite dan kod venecijanske cisterne, koristeći kamene lukove kao zaklon. Usredotočite se na unutrašnjost crkava sv. Jeronima i sv. Barnabe kako biste ostali suhi dok uživate u lokalnoj povijesti. Dugi, ugodni ručak u tradicionalnoj konobi pruža najbolje utočište prije odlaska do vidikovca Parenzana, gdje kiša dodaje maglovit šarm istarskim brežuljcima."
+            "hr": "Započnite dan kod mletačke cisterne, koristeći kamene svodove za zaklon. Usredotočite se na unutrašnjost crkvi sv. Jeronima i sv. Barnabe kako biste ostali suhi dok uživate u lokalnoj povijesti. Dug i ugodan ručak u tradicionalnoj konobi pruža najbolji zaklon prije odlaska prema vidikovcu Parenzane, gdje kiša doda maglovit šarm istarskim brežuljcima."
           },
           "stops": [
             {
@@ -337,7 +344,7 @@
                 "hu": "A főtér épületeinek ereszei alatt szárazon maradhat a záporok idején.",
                 "ro": "Clădirile din jurul pieței oferă un adăpost bun împotriva averselor.",
                 "en": "The surrounding buildings provide decent cover during sudden downpours.",
-                "hr": "Okolne zgrade pružaju pristojan zaklon tijekom iznenadnih pljuskova."
+                "hr": "Okolišne zgrade daju pristojan zaklon tijekom iznenadnih pljuskova."
               }
             },
             {
@@ -367,7 +374,7 @@
                 "hu": "Csak egy gyors fotómegálló; tartsa készenlétben az esernyőjét.",
                 "ro": "O oprire scurtă pentru o fotografie; țineți umbrela la îndemână.",
                 "en": "A quick photo stop; keep your umbrella handy for the walk.",
-                "hr": "Kratko mjesto za fotografiranje; imajte kišobran pri ruci za šetnju."
+                "hr": "Brza fotostanka; držite kišobran pri ruci za hod."
               }
             },
             {
@@ -377,7 +384,7 @@
                 "hu": "A belső freskók megtekintése száraz és kulturális élmény marad.",
                 "ro": "Frescele din interior sunt un punct culminant uscat al turului.",
                 "en": "The indoor frescoes are a dry highlight of the walking tour.",
-                "hr": "Unutarnje freske su suhi vrhunac pješačke ture."
+                "hr": "Unutarnje freske su suha posebnost pješačke ture."
               }
             },
             {
@@ -387,7 +394,7 @@
                 "hu": "Élvezze az isztriai szarvasgombás ételeket a barátságos, meleg belsőben.",
                 "ro": "Savurați preparate cu trufe într-o atmosferă caldă și primitoare.",
                 "en": "Enjoy Istrian truffle dishes in a cozy, dry indoor atmosphere.",
-                "hr": "Uživajte u istarskim jelima s tartufima u ugodnoj, suhoj atmosferi."
+                "hr": "Uživajte u istarskim jelima s tartufima u ugodnoj, suhoj unutarnjoj atmosferi."
               }
             },
             {
@@ -397,7 +404,7 @@
                 "hu": "Vigyázzon a sétányon, esőben a talaj csúszóssá válhat.",
                 "ro": "Atenție pe potecă, poate fi puțin alunecoasă când este umedă.",
                 "en": "Be careful on the path; it can be slightly slippery when wet.",
-                "hr": "Budite oprezni na stazi; može biti pomalo skliska kad je mokra."
+                "hr": "Budite oprezni na stazi; može biti malo skliska kad je mokro."
               }
             }
           ],
@@ -431,11 +438,11 @@
               "The Parenzana viewpoint offers a unique, misty atmosphere in the rain."
             ],
             "hr": [
-              "Nosite vodootpornu obuću za popločane ulice i makadamske staze.",
+              "Nosite vodootpornu obuću za kaldrmisane ulice i šljunčane putove.",
               "Crkve nude najbolji zaklon i kulturnu vrijednost tijekom pljuskova.",
-              "Veliki kišobran je praktičniji od kabanice u uskim uličicama.",
-              "Koristite lokalne konobe za duže pauze ako kiša postane jaka.",
-              "Vidikovac Parenzana nudi jedinstvenu, maglovitu atmosferu na kiši."
+              "Veliki kišobran je praktičniji od ponča u uskim ulicama.",
+              "Koristite lokalne konobe za duže pauze ako padne jaka kiša.",
+              "Vidikovac Parenzana nudi jedinstvenu, maglovitu atmosferu za kišnog vremena."
             ]
           }
         },
@@ -445,7 +452,7 @@
             "hu": "Fedezze fel Vižinadát a tiszta téli levegőn, amikor a történelmi utcák különösen békések. A délelőtti alacsony napfény gyönyörűen világítja meg a templomok homlokzatát. Egy bőséges, meleg ebéd után látogasson el a Parenzana sétányra, hogy még a korai, 17 óra előtti naplemente előtt élvezhesse a panorámát.",
             "ro": "Experimentați Vižinada în aerul curat de iarnă, când străzile istorice sunt liniștite. Soarele blând de dimineață luminează fațadele bisericilor într-un mod spectaculos. Un prânz cald cu specialități locale vă va încălzi înainte de a admira apusul de pe Parenzana, care are loc devreme, înainte de ora 17:00.",
             "en": "Experience Vižinada in the crisp winter air, when the historic streets are at their most peaceful. The morning sun illuminates the stone churches beautifully. After a warming lunch of local Istrian stew, head to the Parenzana viewpoint to catch the clear winter horizon before the early sunset around 5 PM.",
-            "hr": "Doživite Vižinadu na svježem zimskom zraku, kada su povijesne ulice najmirnije. Jutarnje sunce prekrasno obasjava kamene crkve. Nakon okrepljujućeg ručka uz istarsku maneštru, uputite se do vidikovca Parenzana kako biste uhvatili čisti zimski horizont prije ranog zalaska sunca oko 17 sati."
+            "hr": "Doživite Vižinadu u svježem zimskom zraku, kad su povijesne ulice najmirnije. Jutarnje sunce prekrasno obasjava kamene crkve. Nakon okrepljujućeg ručka s lokalnim istarskim gulašem, uputite se na vidikovac Parenzana kako biste uhvatili jasan zimski horizont prije ranog zalaska sunca oko 17:00."
           },
           "stops": [
             {
@@ -455,7 +462,7 @@
                 "hu": "A téli nap alacsonyan jár, tökéletes fényeket adva a fotózáshoz.",
                 "ro": "Soarele de iarnă este jos, oferind o lumină excelentă pentru fotografii.",
                 "en": "The winter sun is low, providing great lighting for photography.",
-                "hr": "Zimsko sunce je nisko, pružajući izvrsno osvjetljenje za fotografiju."
+                "hr": "Zimsko sunce je nisko, što daje izvrsno svjetlo za fotografiranje."
               }
             },
             {
@@ -465,7 +472,7 @@
                 "hu": "A belső tér hűvös lehet, ne vegye le a kabátját a látogatáskor.",
                 "ro": "Interiorul poate fi răcoros, păstrați haina pe dvs. în timpul vizitei.",
                 "en": "The interior is chilly; keep your coat on during the visit.",
-                "hr": "U unutrašnjosti je prohladno; ostavite kaput tijekom posjeta."
+                "hr": "Unutrašnjost je hladna; zadržite kaput tijekom posjeta."
               }
             },
             {
@@ -475,7 +482,7 @@
                 "hu": "Próbálja ki a forró csokoládét vagy teát a fagylalt helyett.",
                 "ro": "Încercați o ciocolată caldă sau un ceai în loc de înghețată.",
                 "en": "Try a hot chocolate or tea instead of gelato for this break.",
-                "hr": "Probajte toplu čokoladu ili čaj umjesto sladoleda tijekom ove pauze."
+                "hr": "Umjesto sladoleda isprobajte topli kakao ili čaj tijekom ove pauze."
               }
             },
             {
@@ -485,7 +492,7 @@
                 "hu": "A kőburkolat fagy esetén csúszós lehet, lépjen óvatosan.",
                 "ro": "Pardoseala din piatră poate fi alunecoasă în caz de îngheț.",
                 "en": "The stone pavement might be slippery if there is frost.",
-                "hr": "Kameni pločnik mogao bi biti sklizak ako ima mraza."
+                "hr": "Kamenita popločavanja mogu biti skliska ako ima mraza."
               }
             },
             {
@@ -495,7 +502,7 @@
                 "hu": "A freskók a visszafogott téli fényben különösen átszellemültek.",
                 "ro": "Frescele par deosebit de solemne în lumina slabă a iernii.",
                 "en": "The frescoes look particularly solemn in the soft winter light.",
-                "hr": "Freske izgledaju posebno svečano u mekom zimskom svjetlu."
+                "hr": "Freske izgledaju osobito svečano u blagom zimskom svjetlu."
               }
             },
             {
@@ -505,7 +512,7 @@
                 "hu": "Rendeljen egy tartalmas Maneštra levest, hogy jól átmelegedjen.",
                 "ro": "Comandați o supă Maneštra consistentă pentru a vă încălzi.",
                 "en": "Order a hearty Maneštra soup to warm up from the inside.",
-                "hr": "Naručite krepku maneštru da se zagrijete iznutra."
+                "hr": "Naručite bogatu Maneštru da se ugrijete iznutra."
               }
             },
             {
@@ -515,7 +522,7 @@
                 "hu": "Élvezze a tiszta kilátást a korai naplemente előtt (kb. 16:30).",
                 "ro": "Bucurați-vă de vizibilitatea clară înainte de apusul devreme.",
                 "en": "Enjoy the clear views before the early sunset around 4:30 PM.",
-                "hr": "Uživajte u čistim vidicima prije ranog zalaska sunca oko 16:30 sati."
+                "hr": "Uživajte u jasnim pogledima prije ranog zalaska sunca oko 16:30."
               }
             }
           ],
@@ -549,11 +556,11 @@
               "Long-distance visibility is often superior on clear winter days."
             ],
             "hr": [
-              "Odjenite se slojevito jer zasjenjene ulice mogu biti vrlo hladne.",
-              "Zalazak sunca zimi je rano, obično između 16:30 i 17:00 sati.",
-              "Provjerite radno vrijeme crkava jer može biti kraće tijekom zime.",
-              "Guste istarske juhe (maneštra) idealan su izbor za zimski ručak.",
-              "Vidljivost na velike udaljenosti često je bolja tijekom vedrih zimskih dana."
+              "Obucite se u slojevima jer zasjenjene ulice mogu biti vrlo hladne.",
+              "Zalazak sunca dolazi rano zimi, obično između 16:30 i 17:00.",
+              "Provjerite radno vrijeme crkava, jer može biti kraće tijekom zime.",
+              "Topla istarska juha (Maneštra) idealan je izbor zimskog ručka.",
+              "Vidljivost na daljinu često je bolja tijekom jasnih zimskih dana."
             ]
           }
         }
@@ -572,7 +579,8 @@
             "de": "Vižinada Rundfahrt Start",
             "hu": "Vižinada körtúra rajt",
             "ro": "Start circuit Vižinada",
-            "en": "Vižinada Loop Start"
+            "en": "Vižinada Loop Start",
+            "hr": "Polazak Vižinada petlja"
           },
           "coords": [
             13.7667,
@@ -588,7 +596,7 @@
             "hu": "Rövid megálló a ciszternánál indulás előtt.",
             "ro": "Scurt popas la cisternă înainte de plecare.",
             "en": "Quick stop at the cistern before heading out.",
-            "hr": "Brzo zaustavljanje kod cisterne prije polaska."
+            "hr": "Kratko zaustavljanje kod cisternе prije polaska."
           }
         },
         {
@@ -596,7 +604,8 @@
             "de": "Parenzana (ehemalige Bahnstrecke)",
             "hu": "Parenzana (egykori vasútvonal)",
             "ro": "Parenzana (fosta cale ferată)",
-            "en": "Parenzana (Former Railway)"
+            "en": "Parenzana (Former Railway)",
+            "hr": "Parenzana (bivša željeznica)"
           },
           "coords": [
             13.785,
@@ -612,7 +621,7 @@
             "hu": "Isztria legjobb kerékpáros útvonala remek kilátással.",
             "ro": "Cea mai bună rută de bicicletă din Istria cu vederi superbe.",
             "en": "Istria's best cycling route with great views.",
-            "hr": "Najbolja biciklistička ruta u Istri s prekrasnim pogledima."
+            "hr": "Najbolja istarska biciklistička ruta s prekrasnim pogledima."
           }
         },
         {
@@ -620,7 +629,8 @@
             "de": "Panoramapause im Grünen",
             "hu": "Panoráma pihenő a zöldben",
             "ro": "Pauză panoramică în natură",
-            "en": "Panorama Break in the Green"
+            "en": "Panorama Break in the Green",
+            "hr": "Panoramska pauza u zelenilu"
           },
           "coords": [
             13.8,
@@ -636,7 +646,7 @@
             "hu": "Kilátás a Mirna-völgyre.",
             "ro": "Vedere asupra văii Mirna.",
             "en": "View over the Mirna Valley.",
-            "hr": "Pogled na dolinu Mirne."
+            "hr": "Pogled na dolinu rijeke Mirne."
           }
         },
         {
@@ -644,7 +654,8 @@
             "de": "Rückkehr nach Vižinada & Mittagessen",
             "hu": "Visszatérés Vižinadába & Ebéd",
             "ro": "Revenire la Vižinada și prânz",
-            "en": "Return to Vižinada & Lunch"
+            "en": "Return to Vižinada & Lunch",
+            "hr": "Povratak u Vižinadu i ručak"
           },
           "coords": [
             13.7665,
@@ -660,7 +671,7 @@
             "hu": "Megérdemelt pihenő egy konobában.",
             "ro": "Pauză pelustrată la o konoba.",
             "en": "Well-deserved break in a konoba.",
-            "hr": "Zasluženi odmor u konobi."
+            "hr": "Zasluženi predah u konobi."
           }
         },
         {
@@ -668,7 +679,8 @@
             "de": "Crkva sv. Barnabe (Fresken)",
             "hu": "Szent Barnabás-templom (Freskók)",
             "ro": "Biserica Sf. Barnaba (Fresce)",
-            "en": "Church of St. Barnabas (Frescoes)"
+            "en": "Church of St. Barnabas (Frescoes)",
+            "hr": "Crkva sv. Barnabe (freske)"
           },
           "coords": [
             13.768,
@@ -684,7 +696,7 @@
             "hu": "Kulturális ékszerdoboz a túra végére.",
             "ro": "O bijuterie culturală la finalul turului.",
             "en": "A cultural gem to finish the trip.",
-            "hr": "Kulturni dragulj za kraj izleta."
+            "hr": "Kulturni dragulj za završetak izleta."
           }
         }
       ],
@@ -693,7 +705,7 @@
         "hu": "Ez a kerékpártúra ötvözi a történelmet a természettel. A falu központjából indulunk, majd a Parenzana útvonalra hajtunk, amely alagutakon és viaduktokon vezet át. Az út látványos kilátást nyújt a Mirna-völgyre. A faluba visszatérve isztriai ételekkel frissülünk fel, és meglátogatjuk a freskókkal díszített Barnabás-templomot.",
         "ro": "Acest tur pe bicicletă combină istoria cu natura. Pornim din centrul satului și apoi intrăm pe Parenzana, care ne conduce prin tuneluri și peste viaducte. Traseul oferă vederi spectaculoase asupra văii Mirna. Reveniți în localitate, ne refacem forțele cu bucătăria istriană și vizităm biserica Sf. Barnaba, decorată cu fresce.",
         "en": "This bike tour combines history with nature. We start in the village center and then ride onto the Parenzana, which leads us through tunnels and over viaducts. The route offers spectacular views of the Mirna Valley. Back in town, we recharge with Istrian cuisine and visit the frescoed Church of St. Barnabas.",
-        "hr": "Ova biciklistička tura spaja povijest s prirodom. Krećemo iz centra mjesta, a zatim se vozimo na Parenzanu koja nas vodi kroz tunele i preko vijadukata. Ruta nudi spektakularne vidike na dolinu Mirne. Po povratku u grad, punimo baterije istarskom kuhinjom i posjećujemo crkvu sv. Barnabe s freskama."
+        "hr": "Ova biciklistička tura spaja povijest i prirodu. Počinjemo u središtu sela, a zatim se vozimo Parenzanom koja nas vodi kroz tunele i preko vijadukata. Ruta nudi spektakularne poglede na dolinu Mirne. Natrag u selu, napunimo energiju istarskom kuhinjom i posjetimo crkvu sv. Barnabe s freskama."
       },
       "gastro_picks": {
         "de": [
@@ -818,7 +830,7 @@
           "The route is mostly flat but unpaved."
         ],
         "hr": [
-          "Brdski ili gravel bicikl idealan je za stazu Parenzana.",
+          "Planinski ili gravel bicikl idealan je za stazu Parenzana.",
           "Ponesite dovoljno vode sa sobom.",
           "Ruta je uglavnom ravna, ali neasfaltirana."
         ]
@@ -830,7 +842,7 @@
             "hu": "Indítsa kerékpártúráját Vižinadából vízálló felszerelésben. A Parenzana útvonala esőben is látványos, de a nedves talajon fokozott figyelmet igényel. Melegedjen fel egy kiadós ebéd mellett, majd látogasson el a Szent Barnabás templomhoz, végül zárja a napot egy forró itallal.",
             "ro": "Începeți turul cu bicicleta purtând echipament impermeabil. Traseul Parenzana oferă vederi frumoase chiar și pe ploaie, dar necesită atenție pe terenul umed. Încălziți-vă cu un prânz consistent înainte de a vizita frescele de la Sf. Barnaba și de a încheia ziua relaxat.",
             "en": "Start your cycling trip in Vižinada with waterproof gear. The Parenzana trail remains scenic in the rain, though the wet gravel requires extra focus. Warm up with an extended lunch in the village before visiting the frescoes of St. Barnabas and ending your ride with a well-deserved break.",
-            "hr": "Započnite svoj biciklistički izlet u Vižinadi s vodootpornom opremom. Staza Parenzana ostaje slikovita i po kiši, iako mokri makadam zahtijeva dodatni fokus. Zagrijte se uz duži ručak u mjestu prije posjeta freskama sv. Barnabe i završite vožnju zasluženim odmorom."
+            "hr": "Započnite biciklistički izlet u Vižinadi s vodonepropusnom opremom. Staza Parenzana ostaje slikovita i po kiši, iako mokri šljunak zahtijeva dodatnu pažnju. Ugrijte se produženim ručkom u selu prije posjeta freskama sv. Barnabe i završite vožnju zasluženim predahom."
           },
           "stops": [
             {
@@ -840,7 +852,7 @@
                 "hu": "Indulás előtt ellenőrizze a fékeket és a guminyomást az eső miatt.",
                 "ro": "Verificați frânele și presiunea pneurilor înainte de a pleca pe ploaie.",
                 "en": "Check your brakes and tire pressure before starting in the rain.",
-                "hr": "Provjerite kočnice i tlak u gumama prije kretanja po kiši."
+                "hr": "Provjerite kočnice i tlak u gumama prije polaska po kiši."
               }
             },
             {
@@ -850,7 +862,7 @@
                 "hu": "A murva felázhat; óvatosan közlekedjen a kanyarokban.",
                 "ro": "Pietrișul poate fi moale; conduceți cu prudență în curbe.",
                 "en": "The gravel might be soft; ride carefully through the turns.",
-                "hr": "Makadam bi mogao biti mekan; vozite oprezno kroz zavoje."
+                "hr": "Šljunak može biti mekan; pažljivo prolazite kroz zavoje."
               }
             },
             {
@@ -860,7 +872,7 @@
                 "hu": "Csak rövid pihenőt tartson, maradjon mozgásban a megfázás ellen.",
                 "ro": "O oprire scurtă e suficientă; rămâneți în mișcare pentru a nu răci.",
                 "en": "Keep the break short; stay in motion to avoid getting chilled.",
-                "hr": "Neka pauza bude kratka; ostanite u pokretu kako se ne biste ohladili."
+                "hr": "Ograničite pauzu; ostanite u pokretu kako se ne biste ohladili."
               }
             },
             {
@@ -870,7 +882,7 @@
                 "hu": "Parkolja le a kerékpárját egy fedett helyen az ebéd idejére.",
                 "ro": "Parcați bicicleta într-un loc acoperit pe durata prânzului.",
                 "en": "Park your bike in a sheltered spot during your lunch break.",
-                "hr": "Parkirajte bicikl na zaklonjenom mjestu tijekom pauze za ručak."
+                "hr": "Parkirajte bicikl na zaštićeno mjesto tijekom ručka."
               }
             },
             {
@@ -880,7 +892,7 @@
                 "hu": "Használja ki a látogatást egy száraz, fedett pihenőre.",
                 "ro": "Folosiți vizita ca pe o pauză de încălzire la adăpost.",
                 "en": "Use this visit as a dry warm-up break during your ride.",
-                "hr": "Iskoristite ovaj posjet kao suhu pauzu za zagrijavanje tijekom vožnje."
+                "hr": "Iskoristite ovaj posjet kao suhi predah za zagrijavanje tijekom vožnje."
               }
             }
           ],
@@ -914,11 +926,11 @@
               "The Parenzana surface can become muddy in certain sections."
             ],
             "hr": [
-              "Blatobrani su neophodni za vožnju Parenzanom po kiši.",
-              "Izbjegavajte naglo kočenje na mokrom makadamu ili skliskoj kaldrmi.",
-              "Nosite uočljivu vodootpornu odjeću radi sigurnosti na cesti.",
-              "Koristite vodootpornu torbu ili bisage kako bi vaše dragocjenosti ostale suhe.",
-              "Površina Parenzane može postati blatna na određenim dijelovima."
+              "Blatobrani su nužni za vožnju Parenzanom po kiši.",
+              "Izbjegavajte naglo kočenje na mokrom šljunkovitom ili skliskom kaldrmom.",
+              "Nosite visokovidljivu vodonepropusnu odjeću radi sigurnosti na cesti.",
+              "Koristite vodonepropusnu torbu ili kofer da vrijedne stvari ostanu suhe.",
+              "Površina Parenzane može postati blatna na određenim dionicama."
             ]
           }
         },
@@ -928,7 +940,7 @@
             "hu": "Élvezze a frissítő téli tekerést Vižinada dombjai között. A hűvös levegő tiszta kilátást biztosít a Parenzana útvonalán, de szélálló ruházatot igényel. Térjen vissza a faluba egy laktató ebédre, majd nézze meg a történelmi freskókat, mielőtt délután fogyni kezd a fény.",
             "ro": "Bucurați-vă de o tură răcoritoare de iarnă prin dealurile din Vižinada. Aerul rece oferă o vizibilitate clară pe Parenzana, dar necesită haine rezistente la vânt. Reveniți în sat pentru un prânz copios și vizitați frescele istorice înainte ca lumina zilei să scadă.",
             "en": "Enjoy a refreshing winter ride through the hills of Vižinada. The cool air provides exceptional visibility on the Parenzana trail, but windproof layers are a must. Return to the village for a hearty lunch and explore the historic frescoes before the daylight starts to fade in the afternoon.",
-            "hr": "Uživajte u osvježavajućoj zimskoj vožnji brežuljcima Vižinade. Hladan zrak pruža iznimnu vidljivost na stazi Parenzana, ali slojevi otporni na vjetar su obavezni. Vratite se u mjesto na krepki ručak i istražite povijesne freske prije nego što dnevno svjetlo počne blijedjeti poslijepodne."
+            "hr": "Uživajte u osvježavajućoj zimskoj vožnji kroz brežuljke Vižinade. Hladan zrak pruža izvanrednu vidljivost na stazi Parenzana, ali vjetrootporne slojeve treba imati obavezno. Vratite se u selo na obilni ručak i razgledajte povijesne freske prije nego što dnevno svjetlo počne slabiti poslijepodne."
           },
           "stops": [
             {
@@ -938,7 +950,7 @@
                 "hu": "Viseljen meleg kesztyűt, hogy ujjai mozgékonyak maradjanak a fékezéshez.",
                 "ro": "Purtați mănuși groase pentru a menține mobilitatea degetelor.",
                 "en": "Wear warm gloves to maintain finger dexterity for braking.",
-                "hr": "Nosite tople rukavice kako biste zadržali spretnost prstiju za kočenje."
+                "hr": "Nosite tople rukavice kako biste održali spretnost prstiju za kočenje."
               }
             },
             {
@@ -958,7 +970,7 @@
                 "hu": "Használja ki a téli napsütést egy kis melegedésre ennél a pontnál.",
                 "ro": "Folosiți soarele de iarnă pentru a vă încălzi la această oprire.",
                 "en": "Take advantage of the winter sun to warm up at this stop.",
-                "hr": "Iskoristite zimsko sunce da se zagrijete na ovom stajalištu."
+                "hr": "Iskoristite zimsko sunce za zagrijavanje na ovom stajalištu."
               }
             },
             {
@@ -968,7 +980,7 @@
                 "hu": "Válasszon olyan éttermet, ahol van kandalló vagy jó a fűtés.",
                 "ro": "Alegeți un restaurant cu șemineu sau încălzire bună.",
                 "en": "Choose a restaurant with a fireplace or good indoor heating.",
-                "hr": "Odaberite restoran s kaminom ili dobrim unutarnjim grijanjem."
+                "hr": "Odaberite restoran s kaminom ili dobrom unutarnjom grijanjem."
               }
             },
             {
@@ -978,7 +990,7 @@
                 "hu": "A túra csendes lezárása a védett belső térben.",
                 "ro": "O încheiere liniștită a turului în spațiul interior protejat.",
                 "en": "A peaceful conclusion to your tour in a sheltered interior.",
-                "hr": "Mirni završetak vaše ture u zaklonjenoj unutrašnjosti."
+                "hr": "Mirni završetak ture u zaštićenoj unutrašnjosti."
               }
             }
           ],
@@ -1012,10 +1024,10 @@
               "Wear a thin thermal cap under your helmet to prevent heat loss."
             ],
             "hr": [
-              "Odjeća otporna na vjetar ključna je za zimske spustove u brdima.",
-              "Pazite na zaleđene dijelove u zasjenjenim zavojima Parenzane.",
-              "Nosite topli napitak u termosu kako biste ostali hidrirani i zagrijani.",
-              "Svjetlosni uvjeti se brzo mijenjaju nakon 16:00 sati u prosincu i siječnju.",
+              "Vjetrootporna odjeća ključna je za zimske spusteve po brežuljcima.",
+              "Pazite na zaleđene mrlje u zasjenjenim zavojima Parenzane.",
+              "Ponesite toplu tekućinu u termosu da ostanete hidrirani i topli.",
+              "Svjetlosni uvjeti brzo se mijenjaju nakon 16:00 u prosincu/siječnju.",
               "Nosite tanku termo kapu ispod kacige kako biste spriječili gubitak topline."
             ]
           }
@@ -1035,7 +1047,8 @@
             "de": "Ankunft Vižinada (Cluster A)",
             "hu": "Érkezés Vižinadába (A klaszter)",
             "ro": "Sosire Vižinada (Cluster A)",
-            "en": "Arrival Vižinada (Cluster A)"
+            "en": "Arrival Vižinada (Cluster A)",
+            "hr": "Dolazak Vižinada (Skupina A)"
           },
           "coords": [
             13.7667,
@@ -1051,7 +1064,7 @@
             "hu": "Parkolj a központ közelében.",
             "ro": "Parcați aproape de centru.",
             "en": "Park near the center.",
-            "hr": "Parkirajte u blizini centra."
+            "hr": "Parkirajte blizu centra."
           }
         },
         {
@@ -1059,7 +1072,8 @@
             "de": "Venezianische Zisterne",
             "hu": "Velencei ciszterna",
             "ro": "Cisterna venețiană",
-            "en": "Venetian Cistern"
+            "en": "Venetian Cistern",
+            "hr": "Mletačka cisterna"
           },
           "coords": [
             13.7668,
@@ -1075,7 +1089,7 @@
             "hu": "A velencei fennhatóság egyik jelképe.",
             "ro": "Un simbol al stăpânirii venețiene.",
             "en": "A symbol of Venetian rule.",
-            "hr": "Simbol mletačke vladavine."
+            "hr": "Simbol mletačke vlasti."
           }
         },
         {
@@ -1083,7 +1097,8 @@
             "de": "Kirche sv. Jeronima",
             "hu": "Szt. Jeromos-templom",
             "ro": "Biserica Sf. Ieronim",
-            "en": "Church of St. Jerome"
+            "en": "Church of St. Jerome",
+            "hr": "Crkva sv. Jeronima"
           },
           "coords": [
             13.7662,
@@ -1107,7 +1122,8 @@
             "de": "Fahrt zum Parenzana Viadukt (Cluster B)",
             "hu": "Autózás a Parenzana viadukthoz (B klaszter)",
             "ro": "Drum spre viaductul Parenzana (Cluster B)",
-            "en": "Drive to Parenzana Viaduct (Cluster B)"
+            "en": "Drive to Parenzana Viaduct (Cluster B)",
+            "hr": "Voznja do vijadukta Parenzana (Skupina B)"
           },
           "coords": [
             13.795,
@@ -1123,7 +1139,7 @@
             "hu": "Rövid autózás a nagyszerű kilátásért.",
             "ro": "O scurtă călătorie pentru o vedere excelentă.",
             "en": "A short drive for a great view.",
-            "hr": "Kratka vožnja za izvrstan pogled."
+            "hr": "Kratka vožnja do izvrsnog vidikovca."
           }
         },
         {
@@ -1131,7 +1147,8 @@
             "de": "Mittagessen in der Umgebung",
             "hu": "Ebéd a környéken",
             "ro": "Prânz în zonă",
-            "en": "Lunch in the Vicinity"
+            "en": "Lunch in the Vicinity",
+            "hr": "Ručak u okolici"
           },
           "coords": [
             13.77,
@@ -1155,7 +1172,8 @@
             "de": "Crkva sv. Barnabe",
             "hu": "Szent Barnabás-templom",
             "ro": "Biserica Sf. Barnaba",
-            "en": "Church of St. Barnabas"
+            "en": "Church of St. Barnabas",
+            "hr": "Crkva sv. Barnabe"
           },
           "coords": [
             13.768,
@@ -1171,7 +1189,7 @@
             "hu": "Ne hagyd ki a belső freskókat.",
             "ro": "Nu ratați frescele din interior.",
             "en": "Don't miss the frescoes inside.",
-            "hr": "Ne propustite freske u unutrašnjosti."
+            "hr": "Ne propustite freske unutra."
           }
         },
         {
@@ -1179,7 +1197,8 @@
             "de": "Weinverkostung & Ausklang",
             "hu": "Borkóstoló & Búcsú",
             "ro": "Degustare de vin și final",
-            "en": "Wine Tasting & Farewell"
+            "en": "Wine Tasting & Farewell",
+            "hr": "Degustacija vina i oproštaj"
           },
           "coords": [
             13.766,
@@ -1204,7 +1223,7 @@
         "hu": "Autóval felfedezzük Vižinada falu központját és a festői környéket is. A velencei örökség megtekintése után a közeli Parenzana egyik kilátópontjához autózunk. Egy tradicionális ebéd és a híres Barnabás-templom meglátogatása teszi teljessé a napot, mielőtt egy borkóstoló keretében megismerkednénk a helyi borokkal.",
         "ro": "Cu mașina descoperim atât centrul satului, cât și împrejurimile pitorești din Vižinada. După vizitarea moștenirii venețiene din localitate, conducem spre un punct de belvedere apropiat de pe Parenzana. Un prânz tradițional și vizitarea faimoasei biserici Sf. Barnaba completează ziua, înainte de a savura vinurile locale la o degustare.",
         "en": "By car, we discover both the village center and the picturesque surroundings of Vižinada. After viewing the Venetian heritage in town, we drive to a nearby viewpoint on the Parenzana. A traditional lunch and a visit to the famous Church of St. Barnabas complete the day before we enjoy local wines at a tasting.",
-        "hr": "Automobilom otkrivamo centar mjesta i slikovitu okolicu Vižinade. Nakon razgledavanja mletačke baštine u gradu, vozimo se do obližnjeg vidikovca na Parenzani. Tradicionalni ručak i posjet poznatoj crkvi sv. Barnabe upotpunjuju dan prije nego što uživamo u lokalnim vinima na degustaciji."
+        "hr": "Autom otkrivamo i središte sela i slikovitu okolinu Vižinade. Nakon razgledavanja mletačke baštine u gradu, vozimo do obližnjeg vidikovca na Parenzani. Tradicionalni ručak i posjet poznatoj crkvi sv. Barnabe zaokružuju dan prije nego što uživamo u lokalnim vinima na degustaciji."
       },
       "gastro_picks": {
         "de": [
@@ -1330,7 +1349,7 @@
         ],
         "hr": [
           "Ulice su uske, parkirajte samo na označenim mjestima.",
-          "Kombinirajte posjet s izletom u Motovun.",
+          "Kombinirajte posjet s izletom do Motovuna.",
           "Pijte odgovorno tijekom degustacija vina."
         ]
       },
@@ -1341,7 +1360,7 @@
             "hu": "Élvezze a kényelmes autózást az isztriai tájon, miközben az eső mossa a szőlőtőkéket. Vižinada kulturális kincseit szárazon érheti el, közel parkolva a látnivalókhoz. Egy hangulatos ebéd és egy fedett borkóstoló teszi teljessé a napot a barátságtalan időjárás ellenére is.",
             "ro": "Bucurați-vă de o călătorie relaxantă prin peisajul istrian în timp ce ploaia împrospătează viile. Vizitați comorile culturale din Vižinada confortabil, parcând aproape de obiective. Un prânz plăcut și o degustare de vinuri la adăpost vor transforma ziua într-o experiență culinară reușită.",
             "en": "Enjoy a relaxed drive through the Istrian countryside as rain refreshes the local vineyards. Visit Vižinada's cultural gems comfortably by car, parking close to each site to stay dry. A cozy lunch and an indoor wine tasting session will make this day a culinary delight despite the grey weather.",
-            "hr": "Uživajte u opuštenoj vožnji istarskim krajolikom dok kiša osvježava lokalne vinograde. Kulturne dragulje Vižinade posjetite udobno automobilom, parkirajući blizu svakog mjesta kako biste ostali suhi. Ugodan ručak i degustacija vina u zatvorenom učinit će ovaj dan kulinarskim užitkom usprkos sivom vremenu."
+            "hr": "Uživajte u opuštenoj vožnji kroz istarsko zaleđe dok kiša osvježava lokalne vinograde. Posjetite kulturne dragulje Vižinade udobno automobilom, parkirajući blizu svake lokacije kako biste ostali suhi. Ugodan ručak i unutarnja degustacija vina učinit će ovaj dan kulinarskim užitkom unatoč sivom vremenu."
           },
           "stops": [
             {
@@ -1351,7 +1370,7 @@
                 "hu": "Közvetlenül a központ bejáratánál is található parkolóhely.",
                 "ro": "Există locuri de parcare chiar la intrarea principală în centru.",
                 "en": "There are parking spots available right at the main entrance to the center.",
-                "hr": "Dostupna su parkirna mjesta odmah uz glavni ulaz u centar."
+                "hr": "Ima parkirnih mjesta odmah kod glavnog ulaza u centar."
               }
             },
             {
@@ -1361,7 +1380,7 @@
                 "hu": "Csak pár lépés az autótól; ideális egy gyors fotóhoz.",
                 "ro": "La doar câțiva pași de mașină; ideal pentru o fotografie rapidă.",
                 "en": "Just a short walk from the car; ideal for a quick photo.",
-                "hr": "Samo kratka šetnja od automobila; idealno za brzu fotografiju."
+                "hr": "Samo kratak pješaci od auta; idealno za brz fotografiranje."
               }
             },
             {
@@ -1371,7 +1390,7 @@
                 "hu": "Használja esernyőjét arra a rövid sétára, amíg eléri a templomot.",
                 "ro": "Folosiți umbrela pentru scurta plimbare până la biserică.",
                 "en": "Use your umbrella for the short walk from the car to the church.",
-                "hr": "Koristite kišobran za kratku šetnju od automobila do crkve."
+                "hr": "Koristite kišobran za kratku šetnju od auta do crkve."
               }
             },
             {
@@ -1381,7 +1400,7 @@
                 "hu": "Élvezze a panorámát közvetlenül a meleg autóból.",
                 "ro": "Bucurați-vă de priveliște direct din vehiculul cald.",
                 "en": "Enjoy the panoramic views directly from the warmth of your car.",
-                "hr": "Uživajte u panoramskom pogledu izravno iz topline svog automobila."
+                "hr": "Uživajte u panoramskim pogledima iz udobnosti topline vašeg automobila."
               }
             },
             {
@@ -1401,7 +1420,7 @@
                 "hu": "Újabb száraz kulturális megálló könnyű megközelíthetőséggel.",
                 "ro": "O altă oprire culturală uscată cu acces ușor.",
                 "en": "Another dry cultural stop with easy access from your vehicle.",
-                "hr": "Još jedna suha kulturna postaja s lakim pristupom iz vašeg vozila."
+                "hr": "Još jedna suha kulturna stanica s lakim pristupom iz vozila."
               }
             },
             {
@@ -1411,7 +1430,7 @@
                 "hu": "Tökéletes befejezés fedett helyen; vásároljon be hazai készleteiből.",
                 "ro": "Încheierea perfectă la adăpost; cumpărați provizii pentru acasă.",
                 "en": "The perfect indoor finale; buy some local wine to take home.",
-                "hr": "Savršen završetak u zatvorenom; kupite lokalno vino za ponijeti kući."
+                "hr": "Savršen zatvarač u zatvorenom; kupite malo lokalnog vina za ponijeti kući."
               }
             }
           ],
@@ -1445,10 +1464,10 @@
               "Avoid unpaved side roads which might be muddy in rainy weather."
             ],
             "hr": [
-              "Imajte kišobran pri ruci u automobilu za kratke šetnje do znamenitosti.",
-              "Ceste mogu biti skliske kad su mokre, posebno zbog poljoprivrednih strojeva.",
-              "Uživajte u slikovitoj vožnji kroz prozore automobila tijekom pljuskova.",
-              "Unaprijed rezervirajte termin za degustaciju vina kako biste osigurali mjesto.",
+              "Držite kišobran pri ruci u automobilu za kratke šetnje do lokacija.",
+              "Ceste mogu biti skliske kad su mokre, posebno s prometom s poljoprivrednim vozilima.",
+              "Uživajte u slikovitim vožnjama kroz prozore automobila tijekom pljuskova.",
+              "Rezervirajte unutarnju degustaciju vina unaprijed kako biste osigurali mjesto.",
               "Izbjegavajte neasfaltirane sporedne ceste koje bi mogle biti blatne po kiši."
             ]
           }
@@ -1459,7 +1478,7 @@
             "hu": "Fedezze fel Vižinada borvidékét téli díszben. Az autó lehetővé teszi, hogy gyorsan és melegben érje el a különböző kilátópontokat és templomokat. Egy laktató ebéd után egy barátságos borospincében tartott kóstoló a legjobb befejezés, mielőtt az alkonyat varázslatos fénybe vonja a falut.",
             "ro": "Explorați regiunea viticolă din jurul Vižinadei în splendoarea iernii. Mașina vă permite să ajungeți rapid și la căldură la diverse puncte de belvedere și biserici. După un prânz consistent, o degustare într-o cramă primitoare este finalul ideal înainte ca amurgul să îmbrace satul în lumină magică.",
             "en": "Explore the wine region of Vižinada in its winter glory. Your car allows you to hop between viewpoints and historic churches while staying warm and comfortable. After a satisfying lunch, an indoor wine tasting session is the perfect way to wrap up the day before winter twilight settles over the village.",
-            "hr": "Istražite vinsku regiju Vižinade u njenom zimskom sjaju. Vaš automobil vam omogućuje da prelazite između vidikovaca i povijesnih crkava dok vam je toplo i udobno. Nakon zadovoljavajućeg ručka, unutarnja degustacija vina savršen je način za završetak dana prije nego što se zimski sumrak spusti nad selo."
+            "hr": "Istražite vinsku regiju Vižinade u njenoj zimskoj ljepoti. Autom možete lako skakati između vidikovaca i povijesnih crkava dok ostajete topli i udobni. Nakon zadovoljavajućeg ručka, unutarnja degustacija vina savršen je način da završite dan prije nego što se zimska sumrak spusti nad selo."
           },
           "stops": [
             {
@@ -1469,7 +1488,7 @@
                 "hu": "Parkoljon napos helyre, hogy az autó meleg maradjon a következő útig.",
                 "ro": "Parcați la soare pentru a menține mașina caldă pentru următorul drum.",
                 "en": "Park in a sunny spot to keep the car interior warmer for your return.",
-                "hr": "Parkirajte na sunčanom mjestu kako bi unutrašnjost automobila ostala toplija."
+                "hr": "Parkirajte na sunčanoj strani kako bi vam unutrašnjost automobila bila toplija pri povratku."
               }
             },
             {
@@ -1479,7 +1498,7 @@
                 "hu": "A hideg kőépítészet különösen kontrasztos a téli fényben.",
                 "ro": "Arhitectura din piatră pare deosebit de clară în lumina iernii.",
                 "en": "The cold stone architecture looks particularly sharp in winter light.",
-                "hr": "Hladna kamena arhitektura izgleda posebno oštro na zimskom svjetlu."
+                "hr": "Hladna kamena arhitektura izgleda posebno oštro u zimskom svjetlu."
               }
             },
             {
@@ -1499,7 +1518,7 @@
                 "hu": "Tiszta téli napokon akár az Alpokig is ellátni a viadukttól.",
                 "ro": "Vederea spre Alpi poate fi grandioasă în zilele senine de iarnă.",
                 "en": "Long-distance views of the Alps can be stunning on clear winter days.",
-                "hr": "Pogledi na Alpe u daljini mogu biti zadivljujući u vedrim zimskim danima."
+                "hr": "Pogledi na Alpe na dugim udaljenostima mogu biti zapanjujući u bistrim zimskim danima."
               }
             },
             {
@@ -1509,7 +1528,7 @@
                 "hu": "Élvezze a belső tér melegét a fotómegállók után.",
                 "ro": "Bucurați-vă de căldura interiorului după pauzele pentru fotografii.",
                 "en": "Enjoy the warmth of the restaurant interior after your photo stops.",
-                "hr": "Uživajte u toplini unutrašnjosti restorana nakon pauza za fotografiranje."
+                "hr": "Uživajte u toplini restorana iznutra nakon foto-stanki."
               }
             },
             {
@@ -1519,7 +1538,7 @@
                 "hu": "Látogasson el ide kora délután a legjobb fényviszonyokért.",
                 "ro": "Vizitați acest loc la începutul după-amiezii pentru cea mai bună lumină.",
                 "en": "Visit this site in the early afternoon for the best natural light.",
-                "hr": "Posjetite ovo mjesto rano poslijepodne za najbolje prirodno svjetlo."
+                "hr": "Posjetite ovo mjesto ranih poslijepodneva za najbolje prirodno osvjetljenje."
               }
             },
             {
@@ -1529,7 +1548,7 @@
                 "hu": "Egy testes vörösbor (Teran) tökéletes választás egy téli napon.",
                 "ro": "Un vin roșu corpolent (Teran) este perfect pentru o zi de iarnă.",
                 "en": "A full-bodied red wine (Teran) is perfect for a winter's day.",
-                "hr": "Odležano crno vino (Teran) savršeno je za zimski dan."
+                "hr": "Punog okusa crno vino (Teran) savršeno odgovara za zimski dan."
               }
             }
           ],
@@ -1563,11 +1582,11 @@
               "Take advantage of the clear air, which often reveals the distant Alps."
             ],
             "hr": [
-              "Provjerite ima li tekućina za pranje stakla dovoljno antifriza.",
-              "Pazite na mraz ili zaleđene dijelove na cestama na većim nadmorskim visinama.",
-              "Koristite grijanje sjedala za maksimalnu udobnost između različitih postaja.",
-              "Završite razgledavanje prije ranog zimskog mraka u 17 sati.",
-              "Iskoristite čisti zrak koji često otkriva udaljene Alpe."
+              "Provjerite ima li tekućina za pranje stakala dovoljnu koncentraciju antifriza.",
+              "Pazite na mraz ili poledicu na cestama na većim nadmorskim visinama.",
+              "Koristite grijače sjedala za maksimalnu udobnost između različitih stanica.",
+              "Završite razgledavanje prije rane zimske tame u 17:00.",
+              "Iskoristite prozračnost zraka, koja često otkriva udaljene Alpe."
             ]
           }
         }
@@ -1586,7 +1605,8 @@
             "de": "Bushaltestelle Vižinada & Zentrum",
             "hu": "Vižinada buszmegálló & Központ",
             "ro": "Stația de autobuz Vižinada și Centru",
-            "en": "Vižinada Bus Stop & Center"
+            "en": "Vižinada Bus Stop & Center",
+            "hr": "Vižinada Bus Stop & Center"
           },
           "coords": [
             13.7667,
@@ -1602,7 +1622,7 @@
             "hu": "Kiindulópont a falu szívében.",
             "ro": "Punct de plecare în inima satului.",
             "en": "Starting point in the heart of the village.",
-            "hr": "Početna točka u srcu mjesta."
+            "hr": "Polazna točka u srcu sela."
           }
         },
         {
@@ -1610,7 +1630,8 @@
             "de": "Vormittagsspaziergang zu den Kirchen",
             "hu": "Délelőtti séta a templomokhoz",
             "ro": "Plimbare de dimineață la biserici",
-            "en": "Morning Walk to the Churches"
+            "en": "Morning Walk to the Churches",
+            "hr": "Jutarnja šetnja do crkava"
           },
           "coords": [
             13.7675,
@@ -1634,7 +1655,8 @@
             "de": "Mittagessen im Ort",
             "hu": "Ebéd a faluban",
             "ro": "Prânz în localitate",
-            "en": "Lunch in the Village"
+            "en": "Lunch in the Village",
+            "hr": "Ručak u selu"
           },
           "coords": [
             13.7665,
@@ -1650,7 +1672,7 @@
             "hu": "Élvezd a helyi specialitásokat sietség nélkül.",
             "ro": "Bucurați-vă de specialități locale fără grabă.",
             "en": "Enjoy local specialties without time pressure.",
-            "hr": "Uživajte u lokalnim specijalitetima bez pritiska vremena."
+            "hr": "Uživajte u lokalnim specijalitetima bez žurbe."
           }
         },
         {
@@ -1658,7 +1680,8 @@
             "de": "Wanderung zum Parenzana Pfad",
             "hu": "Séta a Parenzana ösvényhez",
             "ro": "Drumeție spre cărarea Parenzana",
-            "en": "Hike to Parenzana Path"
+            "en": "Hike to Parenzana Path",
+            "hr": "Pješačenje do staze Parenzana"
           },
           "coords": [
             13.775,
@@ -1682,7 +1705,8 @@
             "de": "Letzter Kaffee am Hauptplatz",
             "hu": "Utolsó kávé a főtéren",
             "ro": "Ultima cafea în piața centrală",
-            "en": "Last Coffee at the Main Square"
+            "en": "Last Coffee at the Main Square",
+            "hr": "Zadnja kava na glavnom trgu"
           },
           "coords": [
             13.7667,
@@ -1698,7 +1722,7 @@
             "hu": "Pihenés a visszautazás előtt.",
             "ro": "Relaxare înainte de plecare.",
             "en": "Relaxation before the return trip.",
-            "hr": "Opuštanje prije povratnog putovanja."
+            "hr": "Opustite se prije povratka."
           }
         }
       ],
@@ -1707,7 +1731,7 @@
         "hu": "Vižinada ideális egy lassú, tömegközlekedéssel töltött naphoz. Gyalogosan fedezzük fel a történelmi kincseket, mint a velencei ciszterna és a templomok. Egy kiadós ebéd és egy kis túra a Parenzana útvonalon segít elmélyedni az isztriai hangulatban, mielőtt a busz visszavinne minket.",
         "ro": "Vižinada este ideală pentru o zi relaxată cu transportul public. Explorăm pe jos comorile istorice, precum cisterna venețiană și bisericile. Un prânz copios și o mică drumeție pe traseul Parenzana ne permit să ne cufundăm în atmosfera istriană, înainte ca autobuzul să ne ducă înapoi.",
         "en": "Vižinada is ideal for a slow-paced day using public transport. We explore the historical treasures like the Venetian cistern and the churches on foot. A hearty lunch and a short hike on the Parenzana route allow us to immerse ourselves deeply in the Istrian atmosphere before the bus takes us back.",
-        "hr": "Vižinada je idealna za polagani dan koristeći javni prijevoz. Pješice istražujemo povijesna blaga poput venecijanske cisterne i crkava. Krepak ručak i kratko pješačenje rutom Parenzane omogućuju nam da duboko uronimo u istarsku atmosferu prije povratka autobusom."
+        "hr": "Vižinada je idealna za polagani dan korištenjem javnog prijevoza. Istražujemo povijesna blaga poput venecijanskog cisterne i crkava pješke. Srdačan ručak i kratka šetnja Parenzanom omogućuju nam da se duboko uronimo u istarsku atmosferu prije nego nas autobus vrati."
       },
       "gastro_picks": {
         "de": [
@@ -1832,8 +1856,8 @@
           "Vižinada is very safe and peaceful."
         ],
         "hr": [
-          "Unaprijed provjerite vozni red autobusa, linije su rijetke.",
-          "Većina autobusa vozi iz Poreča.",
+          "Provjerite vozne redove autobusa unaprijed, polasci su rijetki.",
+          "Većina autobusa polazi iz Poreča.",
           "Vižinada je vrlo sigurna i mirna."
         ]
       },
@@ -1844,7 +1868,7 @@
             "hu": "Fedezze fel Vižinadát tömegközlekedéssel esős időben is. Rövid séták kötik össze a buszmegállót a történelmi templomokkal és a barátságos éttermekkel. Egy hosszú ebéd a falu központjában ideális időtöltés egy zápor alatt. Mielőtt visszabuszozna, csodálja meg a faluszéli ködös panorámát.",
             "ro": "Descoperiți Vižinada folosind transportul public, chiar și pe ploaie. Scurte plimbări leagă stațiile de bisericile istorice și tavernele primitoare. Un prânz prelungit în centrul satului este activitatea ideală în timpul unei averse. Înainte de a lua autobuzul înapoi, admirați peisajul cețos de la marginea satului.",
             "en": "Explore Vižinada by public transport even on a rainy day. Short walks connect the bus stops to the historic churches and welcoming local taverns. A long lunch in the village center is the perfect way to wait out a downpour. Before catching your return bus, enjoy the atmospheric misty views at the edge of the village.",
-            "hr": "Istražite Vižinadu javnim prijevozom čak i u kišnom danu. Kratke šetnje povezuju autobusne postaje s povijesnim crkvama i gostoljubivim lokalnim konobama. Dugi ručak u centru mjesta savršen je način da pričekate da pljusak prođe. Prije povratnog autobusa uživajte u atmosferskim maglovitim vidicima na rubu mjesta."
+            "hr": "Istražite Vižinadu javnim prijevozom i po kišnom danu. Kratke šetnje povezuju autobusne stanice s povijesnim crkvama i ugodnim lokalnim konobama. Dug ručak u središtu sela savršen je način da pričekate prestanak pljuska. Prije povratnog autobusa uživajte u mističnim pogledima na rubu sela."
           },
           "stops": [
             {
@@ -1854,7 +1878,7 @@
                 "hu": "Várja a buszt a megálló fedett beállója alatt.",
                 "ro": "Așteptați autobuzul sub adăpostul stației.",
                 "en": "Wait for your bus under the shelter at the stop.",
-                "hr": "Pričekajte svoj autobus pod zaklonom na stanici."
+                "hr": "Pričekajte autobus pod skloništem na stanici."
               }
             },
             {
@@ -1874,7 +1898,7 @@
                 "hu": "Az éttermek csupán pár lépésre találhatók a falu központjától.",
                 "ro": "Restaurantele sunt la doar câțiva pași de centrul satului.",
                 "en": "Restaurants are located just a few steps from the village center.",
-                "hr": "Restorani se nalaze na samo nekoliko koraka od centra mjesta."
+                "hr": "Restorani su smješteni samo nekoliko koraka od središta sela."
               }
             },
             {
@@ -1884,7 +1908,7 @@
                 "hu": "Erős esőben ez az út sáros lehet; viseljen bakancsot.",
                 "ro": "Pe ploaie torențială, această potecă poate fi noroioasă; purtați bocanci.",
                 "en": "In heavy rain, this path can be muddy; wear suitable boots.",
-                "hr": "Po jakoj kiši ova staza može biti blatna; nosite prikladne čizme."
+                "hr": "U jakoj kiši ovaj put može biti blatnjav; nosite odgovarajuću obuću."
               }
             },
             {
@@ -1894,7 +1918,7 @@
                 "hu": "Ideális hely a következő buszig tartó idő szárazon való eltöltéséhez.",
                 "ro": "Ideal pentru a petrece timpul până la următorul autobuz la adăpost.",
                 "en": "Ideal spot to spend time dry while waiting for your next bus.",
-                "hr": "Idealno mjesto za provođenje vremena na suhom dok čekate sljedeći autobus."
+                "hr": "Idealno mjesto za suho čekanje na sljedeći autobus."
               }
             }
           ],
@@ -1928,11 +1952,11 @@
               "Wear waterproof outerwear for the walk to and from the bus stop."
             ],
             "hr": [
-              "Provjerite vozni red; autobusi bi mogli kasniti zbog kiše.",
-              "Autobusna stanica nudi ograničen zaklon; kišobran je vrlo koristan.",
-              "Držite se središnjih dijelova mjesta kako biste pješačenje sveli na minimum.",
-              "Lokalne konobe su izvrsna mjesta za sušenje i prilagodbu opreme.",
-              "Nosite vodootpornu vanjsku odjeću za šetnju do i od autobusne postaje."
+              "Provjerite raspored; autobusi mogu imati manja kašnjenja u kiši.",
+              "Autobusna stanica nudi ograničeno sklonište; kišobran je vrlo koristan.",
+              "Držite se središnjih dijelova sela kako biste smanjili udaljenosti za hodanje.",
+              "Lokalne konobe odlične su za sušenje i prilagodbu opreme.",
+              "Nosite vodonepropusnu gornju odjeću za šetnju do i od stanice."
             ]
           }
         },
@@ -1942,7 +1966,7 @@
             "hu": "Látogasson el a téli Vižinadába busszal, és élvezze a nyugodt hangulatot. A látnivalók közötti rövid távolságok ideálisak egy frissítő téli sétához. Egy melengető ebéd után még marad idő egy kávéra a főtéren, mielőtt a korai sötétedés előtt felszállna a visszatérő buszra.",
             "ro": "Vizitați Vižinada iarna cu autobuzul și bucurați-vă de atmosfera relaxată. Distanțele scurte între obiective sunt ideale pentru o plimbare revigorantă. După un prânz cald în centrul satului, mai aveți timp de o cafea în piață înainte de a lua autobuzul înapoi spre seară.",
             "en": "Visit wintery Vižinada by bus and soak in the peaceful off-season vibe. The short distances between historical sites are perfect for a crisp winter walk. After a warming lunch in the village center, enjoy a final coffee on the main square before catching your bus back before the early sunset.",
-            "hr": "Posjetite zimsku Vižinadu autobusom i upijte mirnu atmosferu izvan sezone. Kratke udaljenosti između povijesnih znamenitosti savršene su za svježu zimsku šetnju. Nakon okrepljujućeg ručka u centru mjesta, uživajte u posljednjoj kavi na glavnom trgu prije povratka autobusom prije ranog zalaska sunca."
+            "hr": "Posjetite zimski Vižinadu autobusom i upijte mirnu izvansezonsku atmosferu. Kratke udaljenosti između povijesnih mjesta savršene su za oštru zimsku šetnju. Nakon zagrijavajućeg ručka u središtu sela, uživajte u posljednjoj kavi na glavnom trgu prije povratka autobusom prije ranog zalaska sunca."
           },
           "stops": [
             {
@@ -1962,7 +1986,7 @@
                 "hu": "A mozgás melegen tartja; élvezze a friss, tiszta téli levegőt.",
                 "ro": "Mișcarea vă menține cald; bucurați-vă de aerul curat de iarnă.",
                 "en": "The walk will keep you warm; enjoy the crisp winter air.",
-                "hr": "Šetnja će vas zagrijati; uživajte u svježem zimskom zraku."
+                "hr": "Šetnja će vas ugrijati; uživajte u svježem zimskom zraku."
               }
             },
             {
@@ -1972,7 +1996,7 @@
                 "hu": "Ideális hely az átmelegedésre a két látnivaló között.",
                 "ro": "Un loc ideal pentru a vă încălzi între vizitarea obiectivelor.",
                 "en": "A great place to warm up between your sightseeing stops.",
-                "hr": "Izvrsno mjesto za zagrijavanje između razgledavanja."
+                "hr": "Odlično mjesto za zagrijavanje između razgledavanja."
               }
             },
             {
@@ -1982,7 +2006,7 @@
                 "hu": "Ezt a részt délután 4 óra előtt tegye meg a fényviszonyok miatt.",
                 "ro": "Efectuați această parte a turului înainte de ora 16:00.",
                 "en": "Complete this part of the tour before 4 PM to have enough daylight.",
-                "hr": "Završite ovaj dio ture prije 16 sati kako biste imali dovoljno dnevnog svjetla."
+                "hr": "Dovršite ovaj dio ture prije 16:00 kako biste imali dovoljno dnevnog svjetla."
               }
             },
             {
@@ -1992,7 +2016,7 @@
                 "hu": "Élvezze a kávézó meghitt hangulatát az indulás előtt.",
                 "ro": "Bucurați-vă de atmosfera primitoare a cafenelei înainte de plecare.",
                 "en": "Enjoy the cozy indoor cafe atmosphere before your departure.",
-                "hr": "Uživajte u ugodnoj atmosferi unutarnjeg kafića prije odlaska."
+                "hr": "Uživajte u ugodnoj atmosferi zatvorenog kafića prije polaska."
               }
             }
           ],
@@ -2026,11 +2050,11 @@
               "Ask locals for any unannounced winter schedule adjustments."
             ],
             "hr": [
-              "Autobusi zimi često voze rjeđe; pažljivo isplanirajte putovanje.",
-              "Nosite toplu odjeću kako bi vam bilo ugodno dok čekate na stanici.",
-              "Koordinirajte svoja stajališta kako biste smanjili vrijeme čekanja na otvorenom.",
-              "Ciljajte na povratni autobus prije 17 sati kako biste izbjegli mrak.",
-              "Pitajte mještane za bilo kakve nenajavljene promjene zimskog voznog reda."
+              "Autobusi često voze rjeđe zimi; pažljivo isplanirajte putovanje.",
+              "Nosite toplu odjeću kako biste ostali ugodni dok čekate na stanici.",
+              "Koordinirajte svoje zaustavljanja kako biste smanjili vrijeme čekanja na otvorenom.",
+              "Pokušajte uhvatiti povratni autobus prije 17:00 kako biste izbjegli mrak.",
+              "Pitajte lokalce za eventualne nena najavljene zimske promjene u redu vožnje."
             ]
           }
         }

@@ -21,7 +21,8 @@
             "de": "Frane Petrić Platz",
             "hu": "Frane Petrić tér",
             "ro": "Piața Frane Petrić",
-            "en": "Frane Petrić Square"
+            "en": "Frane Petrić Square",
+            "hr": "Trg Frane Petrića"
           },
           "coords": [
             14.4072,
@@ -37,7 +38,7 @@
             "hu": "Kóstoljon meg egy reggeli kávét az egyik kávézóban, kilátással a Mandraćra.",
             "ro": "Încercați o cafea de dimineață la una dintre cafenelele cu vedere la Mandrač.",
             "en": "Try a morning coffee at one of the cafés overlooking the Mandrač.",
-            "hr": "Popijte jutarnju kavu u jednom od kafića s pogledom na Mandrač."
+            "hr": "Probajte jutarnju kavu u jednom od kafića s pogledom na Mandrač."
           }
         },
         {
@@ -45,7 +46,8 @@
             "de": "Stadtloggia und Glockenturm",
             "hu": "Városi Loggia és Óratorony",
             "ro": "Loggia orașului și Turnul cu Ceas",
-            "en": "City Loggia and Clock Tower"
+            "en": "City Loggia and Clock Tower",
+            "hr": "Gradska loža i zvonik"
           },
           "coords": [
             14.4078,
@@ -61,7 +63,7 @@
             "hu": "Keresse meg a régi 'szégyenkövet' a Loggia mellett.",
             "ro": "Observați vechea 'coloană a rușinii' de lângă Loggia.",
             "en": "Look for the old 'Pillar of Shame' next to the Loggia.",
-            "hr": "Potražite stari 'stup srama' pored lože."
+            "hr": "Potražite staru 'Stup srama' pokraj Lože."
           }
         },
         {
@@ -69,7 +71,8 @@
             "de": "Kirche St. Maria im Schnee",
             "hu": "Havas Boldogasszony-templom",
             "ro": "Biserica Sf. Maria a Zăpezii",
-            "en": "Church of St. Mary of the Snow"
+            "en": "Church of St. Mary of the Snow",
+            "hr": "Crkva Gospe od Snijega"
           },
           "coords": [
             14.4082,
@@ -85,7 +88,7 @@
             "hu": "A 15. századi harangtorony a város egyik jelképe.",
             "ro": "Clopotnița sa din secolul al XV-lea este un simbol al orașului.",
             "en": "Its 15th-century bell tower is a landmark of the town.",
-            "hr": "Zvonik iz 15. stoljeća prepoznatljiv je simbol grada."
+            "hr": "Njezin zvonik iz 15. stoljeća znak je grada."
           }
         },
         {
@@ -93,7 +96,8 @@
             "de": "Cres Museum (Arsan Palast)",
             "hu": "Cres Múzeum (Arsan-palota)",
             "ro": "Muzeul din Cres (Palatul Arsan)",
-            "en": "Cres Museum (Arsan Palace)"
+            "en": "Cres Museum (Arsan Palace)",
+            "hr": "Muzej Cres (Arsan palača)"
           },
           "coords": [
             14.4069,
@@ -109,7 +113,7 @@
             "hu": "A kiállítás tengerből kiemelt amforákat is bemutat.",
             "ro": "Expoziția include amfore recuperate de pe fundul mării.",
             "en": "The exhibition includes amphorae recovered from the sea.",
-            "hr": "Izložba uključuje amfore izvučene iz mora."
+            "hr": "Izložba uključuje amfore izvađene iz mora."
           }
         },
         {
@@ -117,7 +121,8 @@
             "de": "Mittagessen in der Konoba Bukaleta",
             "hu": "Ebéd a Bukaleta Konobában",
             "ro": "Prânz la Konoba Bukaleta",
-            "en": "Lunch at Konoba Bukaleta"
+            "en": "Lunch at Konoba Bukaleta",
+            "hr": "Ručak u konobi Bukaleta"
           },
           "coords": [
             14.4085,
@@ -133,7 +138,7 @@
             "hu": "A bárányhús kihagyhatatlan, ez a helyi specialitás.",
             "ro": "Mielul este o specialitate locală care trebuie încercată.",
             "en": "The lamb is a must-try, it's a local specialty.",
-            "hr": "Janjetinu morate probati, to je lokalni specijalitet."
+            "hr": "Janjetina je obavezno za probati, lokalna je specijalnost."
           }
         },
         {
@@ -141,7 +146,8 @@
             "de": "Spaziergang am Hafen",
             "hu": "Séta a kikötőben",
             "ro": "Promenadă în port",
-            "en": "Harborfront Walk"
+            "en": "Harborfront Walk",
+            "hr": "Šetnica uz obalu"
           },
           "coords": [
             14.407,
@@ -157,7 +163,7 @@
             "hu": "Figyelje a halászhajókat és élvezze a tengeri szellőt.",
             "ro": "Priviți bărcile de pescuit și bucurați-vă de briza mării.",
             "en": "Watch the fishing boats and enjoy the sea breeze.",
-            "hr": "Promatrajte ribarske brodice i uživajte u morskom povjetarcu."
+            "hr": "Promatrajte ribarske brodove i uživajte u morskom povjetarcu."
           }
         },
         {
@@ -165,7 +171,8 @@
             "de": "Strand Grabar",
             "hu": "Grabar strand",
             "ro": "Plaja Grabar",
-            "en": "Grabar Beach"
+            "en": "Grabar Beach",
+            "hr": "Plaža Grabar"
           },
           "coords": [
             14.4021,
@@ -181,7 +188,7 @@
             "hu": "Szép, fenyőkkel övezett kavicsos strand.",
             "ro": "O plajă frumoasă cu pietriș, înconjurată de pini.",
             "en": "A lovely pebble beach surrounded by pine trees.",
-            "hr": "Prekrasna šljunčana plaža okružena borovom šumom."
+            "hr": "Lijepa šljunčana plaža okružena borovima."
           }
         },
         {
@@ -189,7 +196,8 @@
             "de": "Kaffee und Kuchen bei 'Gozinka'",
             "hu": "Kávé és süti a 'Gozinka'-ban",
             "ro": "Cafea și prăjitură la 'Gozinka'",
-            "en": "Coffee and cake at 'Gozinka'"
+            "en": "Coffee and cake at 'Gozinka'",
+            "hr": "Kava i kolač u 'Gozinki'"
           },
           "coords": [
             14.4065,
@@ -214,7 +222,7 @@
         "hu": "Kezdje a napot az óváros szívében, a Frane Petrić téren, és szívja magába a velencei hangulatot. Fedezze fel a történelmi épületeket, mint a Városi Loggiát és a lenyűgöző Havas Boldogasszony-templomot. A délelőtt Cres gazdag történelmének jegyében telik, amely az Arsan-palotában kel életre. Egy helyi specialitásokból álló finom ebéd után egy pihentető séta vezet a kikötő mentén és a közeli strandokhoz, ahol élvezheti az adriai napsütést. A napot egy kikötői kávézóban zárja, ahol egy sütemény mellett idézheti fel az élményeket.",
         "ro": "Începeți ziua în inima orașului vechi, în Piața Frane Petrić, și simțiți atmosfera venețiană. Explorați clădiri istorice precum Loggia orașului și impresionanta Biserică Sf. Maria a Zăpezii. Dimineața este dedicată istoriei bogate a insulei Cres, care prinde viață la Palatul Arsan. După un prânz delicios cu specialități locale, o plimbare relaxantă vă va duce de-a lungul portului și spre plajele din apropiere, unde vă puteți bucura de soarele Adriaticii. Ziua se încheie într-o cafenea din port, unde puteți reflecta la experiențele zilei savurând o prăjitură.",
         "en": "Start your day in the heart of the old town, at Frane Petrić Square, and soak up the Venetian atmosphere. Explore historic buildings like the City Loggia and the impressive Church of St. Mary of the Snow. The morning is dedicated to Cres's rich history, brought to life in the Arsan Palace. After a delicious lunch featuring local specialties, a relaxing walk takes you along the harbor and to the nearby beaches to enjoy the Adriatic sun. The day concludes cozily in a harbor café, reflecting on your experiences over a piece of cake.",
-        "hr": "Započnite dan u srcu starog grada, na Trgu Frane Petrića, i upijte mletačku atmosferu. Istražite povijesne građevine poput Gradske lože i impresivne crkve Gospe Snježne. Jutro je posvećeno bogatoj povijesti Cresa, koja oživljava u palači Arsan. Nakon ukusnog ručka s lokalnim specijalitetima, opuštajuća šetnja vodi vas uz luku do obližnjih plaža na uživanje u jadranskom suncu. Dan završava ugodno u lučkom kafiću, uz komad torte i sumiranje dojmova."
+        "hr": "Započnite dan u srcu starog grada, na Trgu Frane Petrića, i upijte venecijanski ugođaj. Istražite povijesne zgrade poput Gradske lože i impresivne Crkve Gospe od Snijega. Jutro je posvećeno bogatoj povijesti Cresa, oživljenoj u Arsan palači. Nakon ukusnog ručka s lokalnim specijalitetima, opuštajuća šetnja vodi vas uz luku i do obližnjih plaža gdje možete uživati u jadranskom suncu. Dan se ugodno završava u lučkom kafiću, razmišljajući o doživljajima uz komad kolača."
       },
       "gastro_picks": {
         "de": [
@@ -473,10 +481,10 @@
           "Avoid the midday heat in summer for longer walks."
         ],
         "hr": [
-          "Nosite udobnu obuću jer su ulice starog grada popločane kamenom.",
-          "Ponesite kupaći kostim jer se u blizini nalaze brojne male plaže.",
-          "Svakako probajte crešku janjetinu, lokalni specijalitet.",
-          "Izbjegavajte podnevne vrućine ljeti za duže šetnje."
+          "Nosite udobnu obuću jer su ulice starog grada popločane.",
+          "Ponesite kupaći kostim, ima mnogo malih plaža na pješačkoj udaljenosti.",
+          "Obavezno probajte cresku janjetinu, lokalnu deliciju.",
+          "Izbjegavajte podnevnu vrućinu ljeti za duže šetnje."
         ]
       }
     },
@@ -493,7 +501,8 @@
             "de": "Fahrradverleih am Hafen",
             "hu": "Kerékpárkölcsönző a kikötőben",
             "ro": "Închiriere de biciclete în port",
-            "en": "Bike Rental at the Harbor"
+            "en": "Bike Rental at the Harbor",
+            "hr": "Iznajmljivanje bicikala u luci"
           },
           "coords": [
             14.4068,
@@ -509,7 +518,7 @@
             "hu": "Válasszon mountain bike-ot a városon kívüli murvás utakra.",
             "ro": "Alegeți un mountain bike pentru drumurile cu pietriș din afara orașului.",
             "en": "Choose a mountain bike for the gravel paths outside the town.",
-            "hr": "Odaberite brdski bicikl za makadamske staze izvan grada."
+            "hr": "Odaberite brdski bicikl za makadamske puteve izvan grada."
           }
         },
         {
@@ -517,7 +526,8 @@
             "de": "Fahrt entlang der Bucht nach Melin",
             "hu": "Kerékpározás az öböl mentén Melinbe",
             "ro": "Plimbare cu bicicleta de-a lungul golfului spre Melin",
-            "en": "Ride along the bay to Melin"
+            "en": "Ride along the bay to Melin",
+            "hr": "Provozajte se uz uvalu do Melina"
           },
           "coords": [
             14.4152,
@@ -533,7 +543,7 @@
             "hu": "Festői útvonal, remek fotózási lehetőségekkel.",
             "ro": "Un traseu pitoresc cu oportunități excelente pentru fotografii.",
             "en": "A scenic route with great photo opportunities.",
-            "hr": "Slikovita ruta s izvrsnim prilikama za fotografiranje."
+            "hr": "Scenski put s izvrsnim foto-prilikama."
           }
         },
         {
@@ -541,7 +551,8 @@
             "de": "Besuch des Klosters St. Salvator",
             "hu": "A Szent Megváltó kolostor meglátogatása",
             "ro": "Vizită la Mănăstirea Sf. Salvator",
-            "en": "Visit to the Monastery of St. Salvator"
+            "en": "Visit to the Monastery of St. Salvator",
+            "hr": "Posjet samostanu Sv. Spasitelja"
           },
           "coords": [
             14.4178,
@@ -557,7 +568,7 @@
             "hu": "Rejtett gyöngyszem gazdag történelemmel.",
             "ro": "O bijuterie ascunsă cu o istorie bogată.",
             "en": "A hidden gem with a rich history.",
-            "hr": "Skriveni dragulj bogate povijesti."
+            "hr": "Skriveni dragulj s bogatom poviješću."
           }
         },
         {
@@ -565,7 +576,8 @@
             "de": "Zurück nach Cres und Mittagessen",
             "hu": "Vissza Cresbe és ebéd",
             "ro": "Înapoi la Cres și prânz",
-            "en": "Back to Cres and Lunch"
+            "en": "Back to Cres and Lunch",
+            "hr": "Povratak u Cres i ručak"
           },
           "coords": [
             14.408,
@@ -581,7 +593,7 @@
             "hu": "Pihenjen meg az egyik kikötői étteremben.",
             "ro": "Acordați-vă o pauză la unul dintre restaurantele din port.",
             "en": "Treat yourself to a break at one of the harbor restaurants.",
-            "hr": "Počastite se odmorom u jednom od restorana u luci."
+            "hr": "Priuštite si predah u jednom od lučkih restorana."
           }
         },
         {
@@ -589,7 +601,8 @@
             "de": "Fahrt zum Strand Kimen",
             "hu": "Kerékpártúra a Kimen strandra",
             "ro": "Plimbare cu bicicleta la plaja Kimen",
-            "en": "Ride to Kimen Beach"
+            "en": "Ride to Kimen Beach",
+            "hr": "Vožnja do plaže Kimen"
           },
           "coords": [
             14.401,
@@ -613,7 +626,8 @@
             "de": "Aussichtspunkt bei Sv. Bartolomej",
             "hu": "Kilátópont a Sv. Bartolomej-nál",
             "ro": "Punct de belvedere la Sf. Bartolomeu",
-            "en": "Viewpoint at Sv. Bartolomej"
+            "en": "Viewpoint at Sv. Bartolomej",
+            "hr": "Vidikovac Sv. Bartolomej"
           },
           "coords": [
             14.3985,
@@ -629,7 +643,7 @@
             "hu": "Élvezze a panorámás kilátást a városra és az öbölre.",
             "ro": "Bucurați-vă de vederea panoramică asupra orașului și a golfului.",
             "en": "Enjoy the panoramic view of the town and the bay.",
-            "hr": "Uživajte u panoramskom pogledu na grad i zaljev."
+            "hr": "Uživajte u panoramskom pogledu na grad i uvalu."
           }
         },
         {
@@ -637,7 +651,8 @@
             "de": "Rückgabe der Fahrräder und Ausklang",
             "hu": "Kerékpárok visszaadása és a nap lezárása",
             "ro": "Returnarea bicicletelor și încheierea zilei",
-            "en": "Return Bikes and Wind Down"
+            "en": "Return Bikes and Wind Down",
+            "hr": "Vraćanje bicikala i opuštanje"
           },
           "coords": [
             14.4068,
@@ -662,7 +677,7 @@
         "hu": "Pattanjon biciklire, és fedezze fel a festői Cres-öblöt. A túra először dél felé vezet a part mentén Melinbe és a történelmi Szent Megváltó kolostorhoz, ahol élvezheti a csendet. Miután visszatért a városba és megebédelt a kikötőben, észak felé veszi az irányt. A délután a jól felszerelt Kimen strandon való pihenésé. Végül tekerjen fel egy, a város feletti kilátóponthoz, ahonnan felejthetetlen panoráma nyílik, mielőtt a napot a kikötőben zárná.",
         "ro": "Urcați-vă pe bicicletă și explorați golful pitoresc Cres. Turul vă duce mai întâi spre sud, de-a lungul coastei, spre Melin și spre mănăstirea istorică Sf. Salvator, unde vă puteți bucura de liniște. După ce vă întoarceți în oraș și luați un prânz copios în port, vă îndreptați spre nord. După-amiaza este rezervată relaxării pe plaja bine echipată Kimen. La final, pedalați până la un punct de belvedere deasupra orașului pentru o priveliște panoramică de neuitat, înainte de a încheia ziua relaxându-vă în port.",
         "en": "Hop on a bike and explore the picturesque bay of Cres. The tour first takes you south along the coast to Melin and the historic Monastery of St. Salvator, where you can enjoy the tranquility. After returning to town for a hearty lunch at the harbor, you'll head north. The afternoon is reserved for relaxation at the well-equipped Kimen Beach. To finish, you'll cycle up to a viewpoint above the town for an unforgettable panoramic view before winding down your day at the harbor.",
-        "hr": "Sjednite na bicikl i istražite slikoviti creški zaljev. Tura vas prvo vodi južno uz obalu do Melina i povijesnog samostana sv. Spasitelja, gdje možete uživati u miru. Nakon povratka u grad na obilan ručak u luci, krenite prema sjeveru. Poslijepodne je rezervirano za opuštanje na uređenoj plaži Kimen. Za kraj, odvezite se do vidikovca iznad grada za nezaboravan panoramski pogled prije nego što završite dan u luci."
+        "hr": "Uskočite na bicikl i istražite slikovitu cresku uvalu. Tura vas prvo vodi južno duž obale do Melina i povijesnog samostana Sv. Spasitelja, gdje možete uživati u tišini. Nakon povratka u grad na obilni ručak u luci, uputit ćete se sjeverno. Poslijepodne je rezervirano za opuštanje na dobro opremljenoj plaži Kimen. Za kraj ćete se popeti do vidikovca iznad grada za nezaboravan panoramski pogled prije nego što zaključite dan u luci."
       },
       "gastro_picks": {
         "de": [
@@ -922,9 +937,9 @@
         ],
         "hr": [
           "Provjerite stanje bicikla prije polaska.",
-          "Ponesite dovoljno vode, posebno tijekom vrućih dana.",
-          "Neke staze mogu biti strme, pa budite spremni na uspone.",
-          "Kaciga se toplo preporučuje."
+          "Ponesite dovoljno vode, posebno za vruće dane.",
+          "Neki putevi mogu biti strmi, pa se pripremite na usponе.",
+          "Kaciga je toplo preporučena."
         ]
       }
     },
@@ -941,7 +956,8 @@
             "de": "Fahrt zum Dorf Lubenice",
             "hu": "Autózás Lubenice faluba",
             "ro": "Drum spre satul Lubenice",
-            "en": "Drive to the village of Lubenice"
+            "en": "Drive to the village of Lubenice",
+            "hr": "Voznja do sela Lubenice"
           },
           "coords": [
             14.3312,
@@ -957,7 +973,7 @@
             "hu": "Parkoljon a falu előtt, és élvezze a látványos kilátást már érkezéskor.",
             "ro": "Parcați în afara satului și bucurați-vă de priveliștea spectaculoasă la sosire.",
             "en": "Park outside the village and enjoy the spectacular view upon arrival.",
-            "hr": "Parkirajte izvan sela i uživajte u spektakularnom pogledu pri dolasku."
+            "hr": "Parkirajte izvan sela i uživajte u spektakularnom pogledu po dolasku."
           },
           "hop_mode": "car"
         },
@@ -966,7 +982,8 @@
             "de": "Erkundung von Lubenice",
             "hu": "Lubenice felfedezése",
             "ro": "Explorarea satului Lubenice",
-            "en": "Exploring Lubenice"
+            "en": "Exploring Lubenice",
+            "hr": "Istraživanje Lubenica"
           },
           "coords": [
             14.3305,
@@ -982,7 +999,7 @@
             "hu": "Egy 4000 éves, sziklára épült falu. Vesszen el a szűk utcácskákban.",
             "ro": "Un sat vechi de 4000 de ani, cocoțat pe o stâncă. Pierdeți-vă pe străduțele înguste.",
             "en": "A 4000-year-old village perched on a cliff. Get lost in its narrow alleys.",
-            "hr": "Selo staro 4000 godina na litici. Izgubite se u njegovim uskim uličicama."
+            "hr": "4 000 godina staro selo smješteno na litici. Izgubite se u njegovim uskim uličicama."
           },
           "hop_mode": "walk"
         },
@@ -991,7 +1008,8 @@
             "de": "Aussicht auf den Strand Sveti Ivan",
             "hu": "Kilátás a Sveti Ivan strandra",
             "ro": "Vedere spre plaja Sveti Ivan",
-            "en": "View of Sveti Ivan Beach"
+            "en": "View of Sveti Ivan Beach",
+            "hr": "Pogled na plažu Sveti Ivan"
           },
           "coords": [
             14.3298,
@@ -1007,7 +1025,7 @@
             "hu": "Horvátország egyik legszebb strandja, fentről nézve.",
             "ro": "Una dintre cele mai frumoase plaje din Croația, văzută de sus.",
             "en": "One of Croatia's most beautiful beaches, seen from above.",
-            "hr": "Jedna od najljepših hrvatskih plaža, gledana odozgo."
+            "hr": "Jedna od najljepših plaža Hrvatske, viđena iz zraka."
           },
           "hop_mode": "walk"
         },
@@ -1016,7 +1034,8 @@
             "de": "Fahrt nach Valun & Mittagessen",
             "hu": "Utazás Valunba és ebéd",
             "ro": "Drum spre Valun și prânz",
-            "en": "Drive to Valun & Lunch"
+            "en": "Drive to Valun & Lunch",
+            "hr": "Voznja do Valuna i ručak"
           },
           "coords": [
             14.3795,
@@ -1032,7 +1051,7 @@
             "hu": "Parkoljon a falu felett. Valun autómentes. Élvezze a friss halat.",
             "ro": "Parcați deasupra satului. Valun este o zonă fără mașini. Savurați pește proaspăt.",
             "en": "Park above the village. Valun is car-free. Enjoy some fresh fish.",
-            "hr": "Parkirajte iznad mjesta. Valun je zona bez automobila. Uživajte u svježoj ribi."
+            "hr": "Parkirajte iznad sela. Valun je bez automobila. Uživajte u svježoj ribi."
           },
           "hop_mode": "car"
         },
@@ -1041,7 +1060,8 @@
             "de": "Spaziergang durch Valun",
             "hu": "Séta Valunban",
             "ro": "Plimbare prin Valun",
-            "en": "Walk through Valun"
+            "en": "Walk through Valun",
+            "hr": "Šetnja kroz Valun"
           },
           "coords": [
             14.3788,
@@ -1057,7 +1077,7 @@
             "hu": "Látogassa meg a templomot, ahol a valuni táblát találták.",
             "ro": "Vizitați biserica unde a fost găsită Tăblița din Valun.",
             "en": "Visit the church where the Valun Tablet was found.",
-            "hr": "Posjetite crkvu u kojoj je pronađena Valunska ploča."
+            "hr": "Posjetite crkvu gdje je pronađen Valunski tablet."
           },
           "hop_mode": "walk"
         },
@@ -1066,7 +1086,8 @@
             "de": "Fahrt nach Osor",
             "hu": "Utazás Osorba",
             "ro": "Drum spre Osor",
-            "en": "Drive to Osor"
+            "en": "Drive to Osor",
+            "hr": "Voznja do Osora"
           },
           "coords": [
             14.394,
@@ -1082,7 +1103,7 @@
             "hu": "Ez a történelmi városka köti össze Cres és Lošinj szigetét.",
             "ro": "Acest orășel istoric leagă insulele Cres și Lošinj.",
             "en": "This historic town connects the islands of Cres and Lošinj.",
-            "hr": "Ovaj povijesni gradić spaja otoke Cres i Lošinj."
+            "hr": "Ovaj povijesni grad spaja otoke Cres i Lošinj."
           },
           "hop_mode": "car"
         },
@@ -1091,7 +1112,8 @@
             "de": "Skulpturengarten von Osor",
             "hu": "Osori Szoborpark",
             "ro": "Grădina de sculpturi din Osor",
-            "en": "Osor's Sculpture Garden"
+            "en": "Osor's Sculpture Garden",
+            "hr": "Skulpturalni vrt Osora"
           },
           "coords": [
             14.3935,
@@ -1116,7 +1138,8 @@
             "de": "Rückfahrt nach Cres-Stadt & Abendessen",
             "hu": "Visszaút Cres városába és vacsora",
             "ro": "Întoarcere în orașul Cres și cină",
-            "en": "Drive back to Cres Town & Dinner"
+            "en": "Drive back to Cres Town & Dinner",
+            "hr": "Povratak u Cres i večera"
           },
           "coords": [
             14.4075,
@@ -1132,7 +1155,7 @@
             "hu": "Zárja a napot egy kellemes vacsorával a cresi kikötőben.",
             "ro": "Încheiați ziua cu o cină relaxantă în portul din Cres.",
             "en": "End your day with a relaxing dinner at the Cres harbor.",
-            "hr": "Završite dan opuštajućom večerom u creškoj luci."
+            "hr": "Završite dan opuštajućom večerom u creskoj luci."
           },
           "hop_mode": "car"
         }
@@ -1142,7 +1165,7 @@
         "hu": "Használja ki az autót, hogy felfedezze Cres rejtett kincseit. A nap egy lélegzetelállító utazással kezdődik Lubenice sziklafalujába, ahol 4000 év történelme és hihetetlen kilátás várja. Ezen klaszter-látogatás után a festői Valun halászfaluba hajt, ahol egy autómentes zónában ebédel. A délután tovább viszi délre Osorba, egy történelmi városba, amely két szigetet köt össze, és egy egyedülálló szoborparkkal lepi meg. A napot a Cres városába való visszautazás zárja, ahol a kikötőben elköltött vacsora mellett idézheti fel az élményeket.",
         "ro": "Folosiți mașina pentru a descoperi comorile ascunse ale insulei Cres. Ziua începe cu o excursie la uimitorul sat de pe stâncă, Lubenice, unde vă așteaptă 4000 de ani de istorie și priveliști incredibile. După această vizită în cluster, conduceți spre pitorescul sat pescăresc Valun pentru prânz într-o zonă fără mașini. După-amiaza vă duce mai la sud, la Osor, un oraș istoric care leagă două insule și surprinde cu o grădină unică de sculpturi. Călătoria de întoarcere în orașul Cres încheie ziua, unde puteți rememora experiențele la o cină în port.",
         "en": "Use the car to discover the hidden gems of Cres. The day starts with a drive to the stunning cliff-top village of Lubenice, where 4000 years of history and incredible views await. After this cluster visit, you'll drive to the picturesque fishing village of Valun for lunch in a car-free zone. The afternoon takes you further south to Osor, a historic town that connects two islands and surprises with a unique sculpture garden. The return journey to Cres town rounds off the day, where you can reflect on your experiences over dinner at the harbor.",
-        "hr": "Automobilom otkrijte skrivene dragulje Cresa. Dan počinje vožnjom do zadivljujućeg sela Lubenice na litici, gdje vas čeka 4000 godina povijesti i nevjerojatan pogled. Nakon posjeta ovom klasteru, odvezite se do slikovitog ribarskog mjesta Valun na ručak u zoni bez automobila. Poslijepodne vas vodi dalje na jug do Osora, povijesnog gradića koji spaja dva otoka i iznenađuje jedinstvenim vrtom skulptura. Povratak u grad Cres zaokružuje dan, gdje uz večeru u luci možete sabrati dojmove."
+        "hr": "Koristite auto da otkrijete skrivene dragulje Cresa. Dan započinje vožnjom do zadivljujućeg sela Lubenice na litici, gdje vas očekuju 4 000 godina povijesti i nevjerojatni pogledi. Nakon ovog posjeta, vozit ćete do slikovitog ribarskog sela Valun na ručak u zoni bez automobila. Poslijepodne vas vodi južnije do Osora, povijesnog grada koji povezuje dva otoka i iznenađuje jedinstvenim skulpturalnim vrtom. Povratak u Cres zaokružuje dan, gdje možete prepričavati doživljaje uz večeru u luci."
       },
       "gastro_picks": {
         "de": [
@@ -1401,10 +1424,10 @@
           "Some villages are car-free, so plan for short walks from the parking area."
         ],
         "hr": [
-          "Ceste mogu biti uske i vijugave, vozite oprezno.",
-          "Pripazite na ovce na cesti, posebno izvan naselja.",
-          "Napunite spremnik u gradu Cresu jer su benzinske postaje rijetke na otoku.",
-          "Neka sela su pješačke zone, pa planirajte kratke šetnje od parkirališta."
+          "Ceste mogu biti uske i vijugave, vozite pažljivo.",
+          "Pazite na ovce na cesti, osobito izvan naselja.",
+          "Napunite spremnik u Cresu jer su benzinske postaje rijetke na otoku.",
+          "Neka sela su bez automobila, pa planirajte kratke šetnje od parkirališta."
         ]
       }
     },
@@ -1421,7 +1444,8 @@
             "de": "Bus von Cres nach Osor",
             "hu": "Busz Cresből Osorba",
             "ro": "Autobuz de la Cres la Osor",
-            "en": "Bus from Cres to Osor"
+            "en": "Bus from Cres to Osor",
+            "hr": "Autobus iz Cresa za Osor"
           },
           "coords": [
             14.394,
@@ -1437,7 +1461,7 @@
             "hu": "Előre ellenőrizze a buszmenetrendet, a járatok ritkán közlekednek.",
             "ro": "Verificați orarul autobuzelor în avans, deoarece nu circulă frecvent.",
             "en": "Check the bus schedule in advance as buses are not frequent.",
-            "hr": "Provjerite vozni red autobusa unaprijed jer nisu česti."
+            "hr": "Provjerite vozni red unaprijed jer autobusi nisu česti."
           },
           "hop_mode": "transit"
         },
@@ -1446,7 +1470,8 @@
             "de": "Erkundung von Osor",
             "hu": "Osor felfedezése",
             "ro": "Explorarea orașului Osor",
-            "en": "Exploring Osor"
+            "en": "Exploring Osor",
+            "hr": "Istraživanje Osora"
           },
           "coords": [
             14.3938,
@@ -1471,7 +1496,8 @@
             "de": "Kathedrale von Osor",
             "hu": "Osori katedrális",
             "ro": "Catedrala din Osor",
-            "en": "Osor Cathedral"
+            "en": "Osor Cathedral",
+            "hr": "Osorska katedrala"
           },
           "coords": [
             14.3945,
@@ -1496,7 +1522,8 @@
             "de": "Bus von Osor nach Valun",
             "hu": "Busz Osorból Valunba",
             "ro": "Autobuz de la Osor la Valun",
-            "en": "Bus from Osor to Valun"
+            "en": "Bus from Osor to Valun",
+            "hr": "Autobus iz Osora za Valun"
           },
           "coords": [
             14.3795,
@@ -1521,7 +1548,8 @@
             "de": "Mittagessen und Entspannung in Valun",
             "hu": "Ebéd és pihenés Valunban",
             "ro": "Prânz și relaxare în Valun",
-            "en": "Lunch and Relaxation in Valun"
+            "en": "Lunch and Relaxation in Valun",
+            "hr": "Ručak i opuštanje u Valunu"
           },
           "coords": [
             14.3788,
@@ -1537,7 +1565,7 @@
             "hu": "Élvezze ennek a bájos halászfalunak a nyugodt légkörét.",
             "ro": "Bucurați-vă de atmosfera liniștită a acestui fermecător sat pescăresc.",
             "en": "Enjoy the peaceful atmosphere of this charming fishing village.",
-            "hr": "Uživajte u mirnoj atmosferi ovog šarmantnog ribarskog mjesta."
+            "hr": "Uživajte u mirnoj atmosferi ovog šarmantnog ribarskog sela."
           },
           "hop_mode": "walk"
         },
@@ -1546,7 +1574,8 @@
             "de": "Rückfahrt mit dem Bus nach Cres-Stadt",
             "hu": "Vissza busszal Cres városába",
             "ro": "Întoarcere cu autobuzul în orașul Cres",
-            "en": "Bus ride back to Cres Town"
+            "en": "Bus ride back to Cres Town",
+            "hr": "Povratna vožnja autobusom do Cresa"
           },
           "coords": [
             14.4075,
@@ -1562,7 +1591,7 @@
             "hu": "Használja ki az időt egy utolsó sétára vagy ajándékvásárlásra.",
             "ro": "Folosiți timpul pentru o ultimă plimbare sau pentru cumpărături de suveniruri.",
             "en": "Use the time for a final stroll or souvenir shopping.",
-            "hr": "Iskoristite vrijeme za posljednju šetnju ili kupnju suvenira."
+            "hr": "Iskoristite vrijeme za posljednju šetnju ili kupovinu suvenira."
           },
           "hop_mode": "transit"
         }
@@ -1572,7 +1601,7 @@
         "hu": "Fedezze fel a szigetet kényelmesen, busszal. A nap egy utazással kezdődik a történelmi Osor városába, a nap déli klaszterébe, ahol megcsodálhatja a régi építészetet és a szomszédos Lošinj szigetére vezető hidat. Miután felfedezte ezt a történelmi helyet, a busz a festői Valun halászfaluba viszi. Itt nyugodtan megebédelhet és élvezheti az autómentes hangulatot. Késő délután visszatér Cres városába, ahol elegendő ideje lesz egy utolsó sétára a kikötőben, mielőtt a nap véget ér.",
         "ro": "Explorați insula confortabil cu autobuzul. Ziua începe cu o călătorie spre orașul istoric Osor, clusterul sudic al zilei, unde puteți admira arhitectura veche și podul către insula vecină Lošinj. După explorarea acestui loc încărcat de istorie, autobuzul vă duce în pitorescul sat pescăresc Valun. Aici puteți lua prânzul în liniște și vă puteți bucura de atmosfera fără mașini. Spre sfârșitul după-amiezii, vă întoarceți în orașul Cres, unde aveți suficient timp pentru o plimbare finală prin port înainte de încheierea zilei.",
         "en": "Explore the island comfortably by bus. The day starts with a ride to the historic town of Osor, the day's southern cluster, where you can admire the old architecture and the bridge to the neighboring island of Lošinj. After exploring this historic site, the bus takes you to the picturesque fishing village of Valun. Here you can have a leisurely lunch and enjoy the car-free atmosphere. In the late afternoon, you'll return to Cres town, with plenty of time for a final stroll through the harbor before the day ends.",
-        "hr": "Istražite otok udobno autobusom. Dan počinje vožnjom do povijesnog gradića Osora, južnog klastera dana, gdje se možete diviti staroj arhitekturi i mostu prema susjednom otoku Lošinju. Nakon razgledavanja, autobus vas vodi do slikovitog ribarskog mjesta Valun. Ovdje možete polako ručati i uživati u atmosferi bez automobila. Kasno poslijepodne vraćate se u grad Cres, uz dovoljno vremena za posljednju šetnju lukom prije kraja dana."
+        "hr": "Istražite otok udobno autobusom. Dan započinje vožnjom do povijesnog grada Osora, južnog klastera dana, gdje možete diviti se staroj arhitekturi i mostu prema susjednom otoku Lošinju. Nakon razgledavanja tog povijesnog mjesta, autobus vozi do slikovitog ribarskog sela Valun. Ovdje možete mirno ručati i uživati u zoni bez automobila. U kasnim poslijepodnevnim satima vratit ćete se u Cres, s dovoljno vremena za posljednju šetnju lukom prije kraja dana."
       },
       "gastro_picks": {
         "de": [
@@ -1831,10 +1860,10 @@
           "Plan for buffer time as buses can be delayed."
         ],
         "hr": [
-          "Kupite kartu za autobus unaprijed, posebno u jeku sezone.",
-          "Pripremite sitan novac za kartu.",
-          "Autobusi se možda neće zaustaviti na svim stanicama ako nitko ne čeka; budite uočljivi.",
-          "Planirajte dodatno vrijeme jer autobusi mogu kasniti."
+          "Kupite kartu za autobus unaprijed, osobito u visokoj sezoni.",
+          "Pripremite sitniš za kartu.",
+          "Autobusi možda neće stati na svim stajalištima ako nitko ne čeka; učinite sebe vidljivim.",
+          "Planirajte rezervno vrijeme jer autobusi mogu kasniti."
         ]
       }
     }

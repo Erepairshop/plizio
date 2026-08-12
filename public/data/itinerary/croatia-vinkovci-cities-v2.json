@@ -21,7 +21,8 @@
             "de": "Platz von Ban Josip Šokčević",
             "hu": "Ban Josip Šokčević tér",
             "ro": "Piața Ban Josip Šokčević",
-            "en": "Ban Josip Šokčević Square"
+            "en": "Ban Josip Šokčević Square",
+            "hr": "Trg bana Josipa Šokčevića"
           },
           "coords": [
             18.8055,
@@ -36,7 +37,8 @@
             "de": "Der perfekte Ausgangspunkt, um das lokale Leben zu beobachten.",
             "hu": "Tökéletes kiindulópont a helyi élet megfigyeléséhez.",
             "ro": "Punctul de plecare perfect pentru a observa viața locală.",
-            "en": "The perfect starting point to observe the local life."
+            "en": "The perfect starting point to observe the local life.",
+            "hr": "Savršena polazna točka za promatranje lokalnog života."
           }
         },
         {
@@ -44,7 +46,8 @@
             "de": "Kirche St. Eusebius und Pollio",
             "hu": "Szent Eusebius és Polio templom",
             "ro": "Biserica Sf. Eusebiu și Polion",
-            "en": "Church of St. Eusebius and Polion"
+            "en": "Church of St. Eusebius and Polion",
+            "hr": "Crkva sv. Euzebija i Poliona"
           },
           "coords": [
             18.806,
@@ -59,7 +62,8 @@
             "de": "Achten Sie auf die beeindruckenden barocken Details im Inneren.",
             "hu": "Figyelje meg a lenyűgöző barokk részleteket a belsejében.",
             "ro": "Fiți atenți la detaliile baroce impresionante din interior.",
-            "en": "Pay attention to the impressive baroque details inside."
+            "en": "Pay attention to the impressive baroque details inside.",
+            "hr": "Obratite pozornost na impresivne barokne detalje unutra."
           }
         },
         {
@@ -67,7 +71,8 @@
             "de": "Stadtmuseum Vinkovci",
             "hu": "Vinkovci Városi Múzeum",
             "ro": "Muzeul Municipal Vinkovci",
-            "en": "Vinkovci Town Museum"
+            "en": "Vinkovci Town Museum",
+            "hr": "Gradski muzej Vinkovci"
           },
           "coords": [
             18.8045,
@@ -82,7 +87,8 @@
             "de": "Verpassen Sie nicht die Ausstellung über den Orion-Kalender.",
             "hu": "Ne hagyja ki az Orion-naptárról szóló kiállítást.",
             "ro": "Nu ratați expoziția despre calendarul Orion.",
-            "en": "Don't miss the exhibition on the Orion calendar."
+            "en": "Don't miss the exhibition on the Orion calendar.",
+            "hr": "Ne propustite izložbu o Orionovu kalendaru."
           }
         },
         {
@@ -90,7 +96,8 @@
             "de": "Mittagessen in der Innenstadt",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the city center"
+            "en": "Lunch in the city center",
+            "hr": "Ručak u centru grada"
           },
           "coords": [
             18.805,
@@ -105,7 +112,8 @@
             "de": "Probieren Sie Čobanac, einen herzhaften slawonischen Eintopf.",
             "hu": "Kóstolja meg a Čobanacot, egy kiadós szlavón pörköltet.",
             "ro": "Încercați Čobanac, o tocană slavonă consistentă.",
-            "en": "Try Čobanac, a hearty Slavonian stew."
+            "en": "Try Čobanac, a hearty Slavonian stew.",
+            "hr": "Probajte Čobanac, zasitni slavonski gulaš."
           }
         },
         {
@@ -113,7 +121,8 @@
             "de": "Geburtshaus von Ivan Kozarac & Krnjaš",
             "hu": "Ivan Kozarac szülőháza és a Krnjaš negyed",
             "ro": "Casa memorială Ivan Kozarac & cartierul Krnjaš",
-            "en": "Birthplace of Ivan Kozarac & Krnjaš quarter"
+            "en": "Birthplace of Ivan Kozarac & Krnjaš quarter",
+            "hr": "Rodno mjesto Ivana Kozarca i četvrt Krnjaš"
           },
           "coords": [
             18.8085,
@@ -128,7 +137,8 @@
             "de": "Spüren Sie die Atmosphäre des alten Vinkovci in diesen Straßen.",
             "hu": "Érezze a régi Vinkovci hangulatát ezeken az utcákon.",
             "ro": "Simțiți atmosfera vechiului Vinkovci pe aceste străzi.",
-            "en": "Feel the atmosphere of old Vinkovci in these streets."
+            "en": "Feel the atmosphere of old Vinkovci in these streets.",
+            "hr": "Osjetite atmosferu starog Vinkovca u ovim ulicama."
           }
         },
         {
@@ -136,7 +146,8 @@
             "de": "Orion-Denkmal",
             "hu": "Orion-emlékmű",
             "ro": "Monumentul Orion",
-            "en": "Orion Monument"
+            "en": "Orion Monument",
+            "hr": "Spomenik Orion"
           },
           "coords": [
             18.8075,
@@ -151,7 +162,8 @@
             "de": "Ein Symbol für das reiche prähistorische Erbe der Stadt.",
             "hu": "A város gazdag őskori örökségének szimbóluma.",
             "ro": "Un simbol al bogatei moșteniri preistorice a orașului.",
-            "en": "A symbol of the city's rich prehistoric heritage."
+            "en": "A symbol of the city's rich prehistoric heritage.",
+            "hr": "Simbol bogate prapovijesne baštine grada."
           }
         },
         {
@@ -159,7 +171,8 @@
             "de": "Bosut-Promenade",
             "hu": "Bosut-parti sétány",
             "ro": "Promenada de pe Bosut",
-            "en": "Bosut River Promenade"
+            "en": "Bosut River Promenade",
+            "hr": "Šetnica uz rijeku Bosut"
           },
           "coords": [
             18.809,
@@ -174,7 +187,8 @@
             "de": "Ein entspannender Spaziergang am Fluss, perfekt für den Nachmittag.",
             "hu": "Egy pihentető séta a folyó mentén, tökéletes a délutánra.",
             "ro": "O plimbare relaxantă de-a lungul râului, perfectă pentru după-amiază.",
-            "en": "A relaxing walk along the river, perfect for the afternoon."
+            "en": "A relaxing walk along the river, perfect for the afternoon.",
+            "hr": "Opusťajuća šetnja uz rijeku, savršena za popodne."
           }
         }
       ],
@@ -182,7 +196,8 @@
         "de": "Beginnen Sie Ihren Tag im Herzen von Vinkovci am Ban-Šokčević-Platz. Tauchen Sie vormittags in die Geschichte ein, indem Sie die Barockkirche und das Stadtmuseum besuchen, wo Sie mehr über den ältesten Kalender Europas, den Orion, erfahren. Nach einem traditionellen slawonischen Mittagessen erkunden Sie die charmanten alten Straßen von Krnjaš. Beenden Sie Ihren Tag mit einem gemütlichen Spaziergang entlang der ruhigen Bosut-Promenade und genießen Sie die friedliche Atmosphäre, während die Sonne untergeht.",
         "hu": "Kezdje a napot Vinkovci szívében, a Ban Šokčević téren. Délelőtt merüljön el a történelemben a barokk templom és a városi múzeum meglátogatásával, ahol megismerheti Európa legrégebbi naptárát, az Oriont. Egy hagyományos szlavón ebéd után fedezze fel Krnjaš bájos, régi utcáit. Zárja a napot egy kellemes sétával a nyugodt Bosut-parti sétányon, élvezve a békés hangulatot naplementekor.",
         "ro": "Începeți ziua în inima orașului Vinkovci, în Piața Ban Šokčević. Dimineața, cufundați-vă în istorie vizitând biserica barocă și Muzeul Municipal, unde veți afla despre cel mai vechi calendar din Europa, Orion. După un prânz tradițional slavon, explorați străzile vechi și fermecătoare din Krnjaš. Încheiați ziua cu o plimbare pe îndelete de-a lungul promenadei liniștite de pe Bosut, bucurându-vă de atmosfera pașnică la apus.",
-        "en": "Start your day in the heart of Vinkovci at Ban Šokčević Square. In the morning, delve into history by visiting the baroque church and the Town Museum, where you'll learn about Europe's oldest calendar, the Orion. After a traditional Slavonian lunch, explore the charming old streets of Krnjaš. End your day with a leisurely stroll along the tranquil Bosut River Promenade, enjoying the peaceful atmosphere as the sun sets."
+        "en": "Start your day in the heart of Vinkovci at Ban Šokčević Square. In the morning, delve into history by visiting the baroque church and the Town Museum, where you'll learn about Europe's oldest calendar, the Orion. After a traditional Slavonian lunch, explore the charming old streets of Krnjaš. End your day with a leisurely stroll along the tranquil Bosut River Promenade, enjoying the peaceful atmosphere as the sun sets.",
+        "hr": "Započnite dan u srcu Vinkovaca na trgu bana Šokčevića. Ujutro zaronite u povijest posjetom baroknoj crkvi i Gradskom muzeju, gdje ćete saznati o najstarijem europskom kalendaru, Orionu. Nakon tradicionalnog slavonskog ručka istražite šarmantne stare ulice Krnjaša. Završite dan ugodnom šetnjom uz mirnu šetnicu uz Bosut, uživajući u spokojnoj atmosferi pred zalazak sunca."
       },
       "gastro_picks": {
         "de": [
@@ -354,6 +369,11 @@
           "Wear comfortable shoes as you will be doing a lot of walking.",
           "Keep water handy, especially on warm days.",
           "Most central sights are within easy walking distance."
+        ],
+        "hr": [
+          "Nosite udobnu obuću jer ćete puno hodati.",
+          "Imajte vodu pri ruci, osobito po toplom vremenu.",
+          "Većina središnjih znamenitosti udaljena je na lako pješačenje."
         ]
       },
       "variants": {
@@ -362,7 +382,8 @@
             "de": "Starten Sie den regnerischen Morgen am Ban Josip Šokčević Platz unter dem Schutz der Arkaden. Die St.-Eusebius-Kirche bietet eine trockene Zuflucht für Besinnung. Mittags ist das Stadtmuseum der ideale Ort, um der Nässe zu entfliehen und die Orion-Geschichte zu entdecken. Nach einem gemütlichen Mittagessen im beheizten Innenraum besuchen wir das Orion-Monument und das Krnjaš-Viertel. Den Tag lassen wir trotz Pfützen bei einem stimmungsvollen Spaziergang an der Bosut-Promenade ausklingen.",
             "hu": "Kezdje az esős reggelt a Ban Josip Šokčević téren, az épületek ereszei alatt menedéket keresve. A Szent Özséb-templom száraz és csendes hely a folytatáshoz. A délidőt töltse a Városi Múzeumban, amely a legjobb hely az eső elől való menekülésre és az Orion-kultúra megismerésére. Egy benti ebéd után érintjük az Orion-emlékművet és a Krnjaš negyedet. A napot a Bosut-parti sétányon zárjuk, ahol az esőcseppek különleges hangulatot adnak a folyónak.",
             "ro": "Începeți dimineața ploioasă în Piața Ban Josip Šokčević, căutând adăpost sub arcadele clădirilor. Biserica Sf. Eusebiu oferă un refugiu uscat pentru un moment de liniște. La prânz, Muzeul Orașului este locul ideal pentru a scăpa de umezeală și a descoperi istoria Orion. După un prânz cald în interior, vizităm Monumentul Orion și cartierul Krnjaš. Încheiem ziua cu o plimbare atmosferică pe promenada Bosut, în ciuda bălților de pe drum.",
-            "en": "Start the rainy morning at Ban Josip Šokčević Square, finding shelter under the building eaves. The Church of St. Eusebius offers a dry refuge for a moment of reflection. Spend the midday at the Town Museum, the perfect place to escape the wet weather and discover the Orion history. After a cozy indoor lunch, visit the Orion Monument and Krnjaš quarter. End the day with an atmospheric walk along the Bosut Promenade, despite the rain puddles."
+            "en": "Start the rainy morning at Ban Josip Šokčević Square, finding shelter under the building eaves. The Church of St. Eusebius offers a dry refuge for a moment of reflection. Spend the midday at the Town Museum, the perfect place to escape the wet weather and discover the Orion history. After a cozy indoor lunch, visit the Orion Monument and Krnjaš quarter. End the day with an atmospheric walk along the Bosut Promenade, despite the rain puddles.",
+            "hr": "Započnite kišno jutro na trgu bana Josipa Šokčevića, tražeći zaklon ispod napušta zgrada. Crkva sv. Euzebija nudi suhi zaklon za trenutak razmišljanja. Provedite podne u Gradskom muzeju, savršenom mjestu za bijeg od kiše i otkrivanje povijesti Oriona. Nakon ugodnog ručka u zatvorenom, posjetite spomenik Orionu i četvrt Krnjaš. Završite dan atmosferičnom šetnjom uz Bosut unatoč lokvama."
           },
           "stops": [
             {
@@ -371,7 +392,8 @@
                 "de": "Das Kopfsteinpflaster kann bei Nässe rutschig sein; tragen Sie rutschfeste Schuhe.",
                 "hu": "A macskakő vizesen csúszós lehet; viseljen tapadós talpú cipőt.",
                 "ro": "Piatra cubică poate fi alunecoasă când este udă; purtați încălțăminte aderentă.",
-                "en": "Cobblestones can be slippery when wet; wear shoes with good grip."
+                "en": "Cobblestones can be slippery when wet; wear shoes with good grip.",
+                "hr": "Kocke mogu biti klizave kad su mokre; nosite obuću s dobrim prianjanjem."
               }
             },
             {
@@ -380,7 +402,8 @@
                 "de": "Ein hervorragender Ort, um den Regenschirm kurz zu schließen und kurz zu verweilen.",
                 "hu": "Kiváló hely az esernyő összecsukására és egy rövid benti pihenőre.",
                 "ro": "Un loc excelent pentru a închide umbrela și a vă odihni puțin în interior.",
-                "en": "An excellent place to close your umbrella and take a short break indoors."
+                "en": "An excellent place to close your umbrella and take a short break indoors.",
+                "hr": "Izvrstan je prostor za sklopiti kišobran i kratko se odmoriti u zatvorenom."
               }
             },
             {
@@ -389,7 +412,8 @@
                 "de": "Nutzen Sie die Garderobe für nasse Mäntel, bevor Sie die Ausstellungen besuchen.",
                 "hu": "Használja a ruhatárat a vizes kabátoknak, mielőtt megnézné a kiállításokat.",
                 "ro": "Folosiți garderoba pentru haina umedă înainte de a vizita expozițiile.",
-                "en": "Use the cloakroom for wet coats before exploring the exhibits."
+                "en": "Use the cloakroom for wet coats before exploring the exhibits.",
+                "hr": "Iskoristite garderobu za mokre kapute prije razgledavanja izložbi."
               }
             },
             {
@@ -398,7 +422,8 @@
                 "de": "Wählen Sie ein Restaurant mit großem Innenbereich statt eines Straßencafés.",
                 "hu": "Válasszon tágas belső térrel rendelkező éttermet a terasz helyett.",
                 "ro": "Alegeți un restaurant cu un interior spațios în locul teraselor.",
-                "en": "Choose a restaurant with a spacious interior instead of outdoor seating."
+                "en": "Choose a restaurant with a spacious interior instead of outdoor seating.",
+                "hr": "Odaberite restoran s prostranim interijerom umjesto vanjskog sjedenja."
               }
             },
             {
@@ -407,7 +432,8 @@
                 "de": "Die engen Gassen im Krnjaš-Viertel haben oft Pfützen; Vorsicht beim Gehen.",
                 "hu": "A Krnjaš negyed szűk utcáin gyakran vannak tócsák; vigyázzon a lépteire.",
                 "ro": "Străzile înguste din cartierul Krnjaš au adesea bălți; atenție pe unde călcați.",
-                "en": "Narrow streets in Krnjaš quarter often have puddles; watch your step."
+                "en": "Narrow streets in Krnjaš quarter often have puddles; watch your step.",
+                "hr": "Uske ulice u četvrti Krnjaš često imaju lokve; pazite gdje gazite."
               }
             },
             {
@@ -416,7 +442,8 @@
                 "de": "Ein schneller Fotostopp zwischen den Regenschauern direkt am Boden.",
                 "hu": "Gyors fotómegálló az esőszünetekben közvetlenül a sétálóutcán.",
                 "ro": "O oprire rapidă pentru poze între averse, chiar pe zona pietonală.",
-                "en": "A quick photo stop between rain showers right on the pedestrian zone."
+                "en": "A quick photo stop between rain showers right on the pedestrian zone.",
+                "hr": "Brza fotostanica između pljuskova pravo na pješačkoj zoni."
               }
             },
             {
@@ -425,7 +452,8 @@
                 "de": "Die Bäume bieten nur wenig Schutz; ein stabiler Regenschirm ist hier wichtig.",
                 "hu": "A fák kevés védelmet nyújtanak; egy erős esernyő itt elengedhetetlen.",
                 "ro": "Copacii oferă puțin adăpost; o umbrelă rezistentă este esențială aici.",
-                "en": "The trees offer minimal shelter; a sturdy umbrella is essential here."
+                "en": "The trees offer minimal shelter; a sturdy umbrella is essential here.",
+                "hr": "Drveće nudi minimalan zaklon; čvrst kišobran je nužan ovdje."
               }
             }
           ],
@@ -457,6 +485,13 @@
               "Wear waterproof shoes as water tends to pool on the flat terrain.",
               "The Bosut promenade can be windy; a windproof umbrella is recommended.",
               "Many city center cafes have cozy interiors for warming up and drying off."
+            ],
+            "hr": [
+              "Centar Vinkovaca ima mnoge arkade koje možete koristiti kao pokrivene prolaze.",
+              "Gradski muzej je najbolji zaklon tijekom obilne kiše.",
+              "Nosite vodootpornu obuću jer se voda nakuplja na ravnom terenu.",
+              "Šetnica uz Bosut može biti vjetrovita; preporuča se vjetrootporan kišobran.",
+              "Mnogi kafići u centru imaju ugodan interijer za ugrijavanje i sušenje."
             ]
           }
         },
@@ -465,7 +500,8 @@
             "de": "Erleben Sie die winterliche Stille auf dem Ban Josip Šokčević Platz, während der kalte Wind aus der Pannonischen Tiefebene weht. Die Kirche bietet einen Moment der Wärme und Stille. Den Mittag verbringen wir im gut beheizten Stadtmuseum bei den faszinierenden Orion-Funden. Nach einem deftigen slawonischen Mittagessen besuchen wir Kozaracs Geburtshaus im Frost. Da die Sonne bereits gegen 16:30 Uhr untergeht, genießen wir die blaue Stunde an der Bosut-Promenade.",
             "hu": "Élje át a téli csendet a Ban Josip Šokčević téren, miközben a pannon szél fúj. A templom melegséget és nyugalmat áraszt a hidegben. A délidőt a jól fűtött Városi Múzeumban töltjük a lenyűgöző Orion-leletek között. Egy bőséges szlavón ebéd után meglátogatjuk Kozarac szülőházát a deres utcákon. Mivel a nap már 16:30 körül nyugszik, a kék órát a Bosut-parti sétányon csodálhatjuk meg.",
             "ro": "Experimentați liniștea iernii în Piața Ban Josip Šokčević, în timp ce vântul rece bate din câmpia panonică. Biserica oferă un moment de căldură și tăcere. Prânzul îl petrecem în Muzeul Orașului, bine încălzit, printre fascinantele descoperiri Orion. După un prânz slavon consistent, vizităm casa lui Kozarac prin ger. Deoarece soarele apune în jur de ora 16:30, ne bucurăm de ora albastră pe promenada Bosut.",
-            "en": "Experience the winter stillness at Ban Josip Šokčević Square while the cold wind blows from the Pannonian plain. The church offers a moment of warmth and silence. Spend midday inside the well-heated Town Museum among the fascinating Orion finds. After a hearty Slavonian lunch, visit Kozarac's birthplace in the frost. Since the sun sets around 16:30, enjoy the blue hour at the Bosut Promenade."
+            "en": "Experience the winter stillness at Ban Josip Šokčević Square while the cold wind blows from the Pannonian plain. The church offers a moment of warmth and silence. Spend midday inside the well-heated Town Museum among the fascinating Orion finds. After a hearty Slavonian lunch, visit Kozarac's birthplace in the frost. Since the sun sets around 16:30, enjoy the blue hour at the Bosut Promenade.",
+            "hr": "Iskusite zimski mir na trgu bana Josipa Šokčevića dok hladan vjetar puše s panonske ravnice. Crkva nudi trenutak topline i tišine. Provedite podne u dobro zagrijanom Gradskom muzeju među fascinantnim Orion nalazima. Nakon obilnog slavonskog ručka posjetite Kozarčevo rodno mjesto u mrazu. Budući da sunce zalazi oko 16:30, uživajte u plavom satu na šetnici uz Bosut."
           },
           "stops": [
             {
@@ -474,7 +510,8 @@
                 "de": "Ziehen Sie sich warm an; der Platz ist sehr offen und dem Wind ausgesetzt.",
                 "hu": "Öltözzön rétegesen; a tér nagyon nyitott és kitett a szélnek.",
                 "ro": "Îmbrăcați-vă gros; piața este foarte deschisă și expusă vântului.",
-                "en": "Dress warmly; the square is very open and exposed to the wind."
+                "en": "Dress warmly; the square is very open and exposed to the wind.",
+                "hr": "Obucite se toplo; trg je vrlo otvoren i izložen vjetru."
               }
             },
             {
@@ -483,7 +520,8 @@
                 "de": "Die dicken Mauern halten den Wind ab, aber es kann im Inneren kühl sein.",
                 "hu": "A vastag falak felfogják a szelet, de bent is hűvös lehet a levegő.",
                 "ro": "Zidurile groase opresc vântul, dar interiorul poate fi destul de răcoros.",
-                "en": "The thick walls block the wind, but the interior can still be chilly."
+                "en": "The thick walls block the wind, but the interior can still be chilly.",
+                "hr": "Debeli zidovi blokiraju vjetar, ali unutrašnjost može i dalje biti hladna."
               }
             },
             {
@@ -492,7 +530,8 @@
                 "de": "Der perfekte Ort, um sich für eine Stunde richtig aufzuwärmen.",
                 "hu": "A tökéletes hely, hogy egy órára alaposan átmelegedjen.",
                 "ro": "Locul perfect pentru a vă încălzi bine timp de o oră.",
-                "en": "The perfect place to properly warm up for an hour."
+                "en": "The perfect place to properly warm up for an hour.",
+                "hr": "Savršeno mjesto za dobro se zagrijati sat vremena."
               }
             },
             {
@@ -501,7 +540,8 @@
                 "de": "Probieren Sie eine traditionelle Čobanac-Suppe, um sich von innen zu wärmen.",
                 "hu": "Kóstoljon meg egy hagyományos čobanacot (pásztortokányt), hogy belülről melegedjen.",
                 "ro": "Gustați o supă tradițională Čobanac pentru a vă încălzi din interior.",
-                "en": "Try a traditional Čobanac stew to warm up from the inside."
+                "en": "Try a traditional Čobanac stew to warm up from the inside.",
+                "hr": "Probajte tradicionalni čobanac da se ugrijete iznutra."
               }
             },
             {
@@ -510,7 +550,8 @@
                 "de": "Die historischen Häuser wirken im Reif besonders malerisch.",
                 "hu": "A történelmi házak különösen festőiek a zúzmarás reggeleken.",
                 "ro": "Casele istorice par deosebit de pitorești când sunt acoperite de chiciură.",
-                "en": "The historical houses look particularly picturesque in the frost."
+                "en": "The historical houses look particularly picturesque in the frost.",
+                "hr": "Povijesne kuće izgledaju posebno slikovito u mrazu."
               }
             },
             {
@@ -519,7 +560,8 @@
                 "de": "In der Dämmerung ist das Monument oft dezent beleuchtet.",
                 "hu": "Szürkületkor az emlékmű gyakran visszafogott megvilágítást kap.",
                 "ro": "La crepuscul, monumentul este adesea iluminat discret.",
-                "en": "In the twilight, the monument is often subtly illuminated."
+                "en": "In the twilight, the monument is often subtly illuminated.",
+                "hr": "U sumrak spomenik je često suptilno osvijetljen."
               }
             },
             {
@@ -528,7 +570,8 @@
                 "de": "Bringen Sie ein heißes Getränk mit für den Spaziergang bei Sonnenuntergang.",
                 "hu": "Vigyen magával egy forró italt a naplementés sétához.",
                 "ro": "Luați o băutură caldă cu voi pentru plimbarea la apus.",
-                "en": "Bring a hot drink with you for the sunset stroll."
+                "en": "Bring a hot drink with you for the sunset stroll.",
+                "hr": "Ponesite toplu napitak za šetnju pri zalasku sunca."
               }
             }
           ],
@@ -560,6 +603,13 @@
               "Warm gloves are a must due to the biting Pannonian wind.",
               "The museums are well-heated and provide a welcome break from the cold.",
               "Many cafes serve homemade mulled wine or tea during winter."
+            ],
+            "hr": [
+              "Čuvajte se zaleđenih mrlja na stazama blizu rijeke Bosut.",
+              "U prosincu sunce zalazi već u 16:15.",
+              "Tople rukavice su obavezne zbog oštrog panonskog vjetra.",
+              "Muzeji su dobro grijani i pružaju dobrodošli predah od hladnoće.",
+              "Mnogi kafići poslužuju domaći kuhani vino ili čaj tijekom zime."
             ]
           }
         }
@@ -578,7 +628,8 @@
             "de": "Platz von Ban Josip Šokčević",
             "hu": "Ban Josip Šokčević tér",
             "ro": "Piața Ban Josip Šokčević",
-            "en": "Ban Josip Šokčević Square"
+            "en": "Ban Josip Šokčević Square",
+            "hr": "Trg bana Josipa Šokčevića"
           },
           "coords": [
             18.8055,
@@ -593,7 +644,8 @@
             "de": "Mieten Sie Ihr Fahrrad und machen Sie sich bereit für die Erkundung.",
             "hu": "Béreljen kerékpárt, és készüljön fel a felfedezésre.",
             "ro": "Închiriați-vă bicicleta și pregătiți-vă de explorare.",
-            "en": "Rent your bike and get ready to explore."
+            "en": "Rent your bike and get ready to explore.",
+            "hr": "Iznajmite bicikl i pripremite se za istraživanje."
           }
         },
         {
@@ -601,7 +653,8 @@
             "de": "Stadtmuseum Vinkovci",
             "hu": "Vinkovci Városi Múzeum",
             "ro": "Muzeul Municipal Vinkovci",
-            "en": "Vinkovci Town Museum"
+            "en": "Vinkovci Town Museum",
+            "hr": "Gradski muzej Vinkovci"
           },
           "coords": [
             18.8045,
@@ -616,7 +669,8 @@
             "de": "Parken Sie Ihr Fahrrad sicher, bevor Sie eintreten.",
             "hu": "Biztonságosan parkolja le a kerékpárját, mielőtt belép.",
             "ro": "Parcați-vă bicicleta în siguranță înainte de a intra.",
-            "en": "Park your bike securely before entering."
+            "en": "Park your bike securely before entering.",
+            "hr": "Parkirajte bicikl sigurno prije ulaska."
           }
         },
         {
@@ -624,7 +678,8 @@
             "de": "Archäologischer Park Sopot",
             "hu": "Sopot Régészeti Park",
             "ro": "Parcul Arheologic Sopot",
-            "en": "Sopot Archaeological Park"
+            "en": "Sopot Archaeological Park",
+            "hr": "Sopotski arheološki park"
           },
           "coords": [
             18.775,
@@ -639,7 +694,8 @@
             "de": "Genießen Sie die Fahrt aufs Land zu dieser bedeutenden Stätte.",
             "hu": "Élvezze az utat a vidékre ehhez a jelentős helyszínhez.",
             "ro": "Bucurați-vă de plimbarea spre acest sit important.",
-            "en": "Enjoy the ride out to the countryside to this significant site."
+            "en": "Enjoy the ride out to the countryside to this significant site.",
+            "hr": "Uživajte u vožnji van grada do ovog važnog nalazišta."
           }
         },
         {
@@ -647,7 +703,8 @@
             "de": "Mittagessen in der Nähe des Parks",
             "hu": "Ebéd a park közelében",
             "ro": "Prânz lângă parc",
-            "en": "Lunch near the park"
+            "en": "Lunch near the park",
+            "hr": "Ručak u blizini parka"
           },
           "coords": [
             18.778,
@@ -662,7 +719,8 @@
             "de": "Stärken Sie sich mit einer Mahlzeit, bevor Sie zurück in die Stadt fahren.",
             "hu": "Töltődjön fel egy étkezéssel, mielőtt visszaindul a városba.",
             "ro": "Refaceți-vă forțele cu o masă înainte de a vă întoarce în oraș.",
-            "en": "Refuel with a meal before heading back to the city."
+            "en": "Refuel with a meal before heading back to the city.",
+            "hr": "Okrijepite se obrokom prije povratka u grad."
           }
         },
         {
@@ -670,7 +728,8 @@
             "de": "Krnjaš & Geburtshaus von Ivan Kozarac",
             "hu": "Krnjaš és Ivan Kozarac szülőháza",
             "ro": "Krnjaš și Casa memorială Ivan Kozarac",
-            "en": "Krnjaš & Birthplace of Ivan Kozarac"
+            "en": "Krnjaš & Birthplace of Ivan Kozarac",
+            "hr": "Krnjaš i rodno mjesto Ivana Kozarca"
           },
           "coords": [
             18.8085,
@@ -685,7 +744,8 @@
             "de": "Radeln Sie durch die engen Gassen dieses historischen Viertels.",
             "hu": "Kerékpározzon végig ennek a történelmi negyednek a szűk utcáin.",
             "ro": "Plimbați-vă cu bicicleta pe străduțele înguste ale acestui cartier istoric.",
-            "en": "Cycle through the narrow streets of this historic quarter."
+            "en": "Cycle through the narrow streets of this historic quarter.",
+            "hr": "Biciklirajte kroz uske ulice ove povijesne četvrti."
           }
         },
         {
@@ -693,7 +753,8 @@
             "de": "Orion-Denkmal",
             "hu": "Orion-emlékmű",
             "ro": "Monumentul Orion",
-            "en": "Orion Monument"
+            "en": "Orion Monument",
+            "hr": "Spomenik Orion"
           },
           "coords": [
             18.8075,
@@ -708,7 +769,8 @@
             "de": "Ein kurzer Stopp, um das ikonische Symbol der Stadt zu bewundern.",
             "hu": "Egy rövid megálló, hogy megcsodálja a város ikonikus szimbólumát.",
             "ro": "O scurtă oprire pentru a admira simbolul iconic al orașului.",
-            "en": "A quick stop to admire the city's iconic symbol."
+            "en": "A quick stop to admire the city's iconic symbol.",
+            "hr": "Kratka stanica za divljenje gradskom simbolu."
           }
         },
         {
@@ -716,7 +778,8 @@
             "de": "Radtour entlang der Bosut-Promenade",
             "hu": "Kerékpártúra a Bosut-parti sétányon",
             "ro": "Tur cu bicicleta de-a lungul promenadei Bosut",
-            "en": "Bike ride along the Bosut Promenade"
+            "en": "Bike ride along the Bosut Promenade",
+            "hr": "Vožnja biciklom uz šetnicu Bosut"
           },
           "coords": [
             18.815,
@@ -731,7 +794,8 @@
             "de": "Beenden Sie den Tag mit einer entspannten Fahrt entlang des Flusses.",
             "hu": "Zárja a napot egy pihentető tekeréssel a folyó mentén.",
             "ro": "Încheiați ziua cu o plimbare relaxantă de-a lungul râului.",
-            "en": "End the day with a relaxing ride along the river."
+            "en": "End the day with a relaxing ride along the river.",
+            "hr": "Završite dan opuštajućom vožnjom uz rijeku."
           }
         }
       ],
@@ -739,7 +803,8 @@
         "de": "Starten Sie Ihre Fahrradtour im Zentrum von Vinkovci. Am Vormittag besuchen Sie das Stadtmuseum, bevor Sie eine landschaftlich reizvolle Fahrt zum Archäologischen Park Sopot unternehmen. Nach einem Mittagessen auf dem Land radeln Sie zurück in die Stadt, um die alten Gassen von Krnjaš zu erkunden. Der Nachmittag ist für eine gemütliche Fahrt entlang der Bosut-Promenade reserviert, wo Sie die Natur und die ruhige Atmosphäre genießen können, um Ihren Tag ausklingen zu lassen.",
         "hu": "Kezdje a kerékpártúrát Vinkovci központjában. Délelőtt látogasson el a városi múzeumba, mielőtt egy festői útra indul a Sopot Régészeti Parkba. Egy vidéki ebéd után tekerjen vissza a városba, hogy felfedezze Krnjaš régi sikátorait. A délután egy kellemes tekerésre van fenntartva a Bosut-parti sétányon, ahol élvezheti a természetet és a nyugodt légkört a nap lezárásaként.",
         "ro": "Începeți-vă turul cu bicicleta din centrul orașului Vinkovci. Dimineața, vizitați Muzeul Municipal înainte de a face o plimbare pitorească până la Parcul Arheologic Sopot. După prânzul la țară, pedalați înapoi în oraș pentru a explora străduțele vechi din Krnjaš. După-amiaza este rezervată unei plimbări relaxante de-a lungul promenadei Bosut, bucurându-vă de natură și de atmosfera liniștită pentru a încheia ziua.",
-        "en": "Start your bike tour in the center of Vinkovci. In the morning, visit the Town Museum before taking a scenic ride out to the Sopot Archaeological Park. After lunch in the countryside, pedal back to the city to explore the old alleys of Krnjaš. The afternoon is reserved for a leisurely ride along the Bosut Promenade, enjoying nature and the calm atmosphere to finish your day."
+        "en": "Start your bike tour in the center of Vinkovci. In the morning, visit the Town Museum before taking a scenic ride out to the Sopot Archaeological Park. After lunch in the countryside, pedal back to the city to explore the old alleys of Krnjaš. The afternoon is reserved for a leisurely ride along the Bosut Promenade, enjoying nature and the calm atmosphere to finish your day.",
+        "hr": "Započnite biciklističku turu u centru Vinkovaca. Ujutro posjetite Gradski muzej prije nego što se zaputite na slikovitu vožnju do Sopotskog arheološkog parka. Nakon ručka u prirodi, vratite se u grad da istražite stare uličice Krnjaša. Poslijepodne je rezervirano za laganu vožnju uz šetnicu Bosut, uživajući u prirodi i mirnoj atmosferi za kraj dana."
       },
       "gastro_picks": {
         "de": [
@@ -911,6 +976,11 @@
           "Check your tire pressure before heading out.",
           "Always lock your bike when leaving it.",
           "Some paths outside the city can be bumpy, ride with care."
+        ],
+        "hr": [
+          "Provjerite tlak guma prije polaska.",
+          "Uvijek zaključajte bicikl kad ga ostavljate.",
+          "Neki putovi izvan grada mogu biti neravni, vozite oprezno."
         ]
       },
       "variants": {
@@ -919,7 +989,8 @@
             "de": "Ein regnerischer Radtag beginnt am Hauptplatz mit Vorsicht auf dem nassen Pflaster. Nach dem Museumsbesuch radeln wir zum Archäologischen Park Sopot, wo die Schilfhütten etwas Schutz bieten. Ein stärkendes Mittagessen in der Nähe hilft beim Trocknen. Nachmittags geht es zurück zum Krnjaš-Viertel und zum Orion-Emlékmű. Den Tag beenden wir mit einer vorsichtigen Fahrt entlang der Bosut-Promenade bei feuchter Luft.",
             "hu": "Az esős kerékpáros nap óvatosan indul a vizes macskaköveken. A múzeumlátogatás után a Sopoti Régészeti Parkba tekerünk, ahol a nádtetős házak némi védelmet nyújtanak. Egy közeli ebéd segít megszáradni a folytatás előtt. Délután visszatérünk a Krnjaš negyedbe és az Orion-emlékműhöz. A napot egy óvatos tekeréssel zárjuk a Bosut-parton a párás levegőben.",
             "ro": "O zi ploioasă cu bicicleta începe cu atenție sporită pe pavajul ud. După muzeu, pedalăm spre Parcul Arheologic Sopot, unde colibele oferă puțin adăpost. Un prânz consistent în apropiere ajută la uscare. După-amiaza revenim în cartierul Krnjaš și la Monumentul Orion. Încheiem ziua cu o plimbare precaută pe bicicletă de-a lungul promenadei Bosut în aerul umed.",
-            "en": "A rainy cycling day starts with caution on the wet cobblestones. After the museum visit, we cycle to Sopot Archaeological Park, where the reed huts offer some shelter. A fortifying lunch nearby helps with drying off. In the afternoon, we return to the Krnjaš quarter and the Orion Monument. We end the day with a careful ride along the Bosut Promenade in the damp air."
+            "en": "A rainy cycling day starts with caution on the wet cobblestones. After the museum visit, we cycle to Sopot Archaeological Park, where the reed huts offer some shelter. A fortifying lunch nearby helps with drying off. In the afternoon, we return to the Krnjaš quarter and the Orion Monument. We end the day with a careful ride along the Bosut Promenade in the damp air.",
+            "hr": "Kišni dan na biciklu započinje oprezom na mokrim kockama. Nakon posjeta muzeju vozimo do Sopotskog arheološkog parka, gdje šibljike pružaju nešto zaklona. Utvrđujući ručak u blizini pomaže pri sušenju. Poslijepodne se vraćamo u četvrt Krnjaš i do spomenika Orion. Dan završavamo pažljivom vožnjom uz šetnicu Bosut u vlažnom zraku."
           },
           "stops": [
             {
@@ -928,7 +999,8 @@
                 "de": "Vorsicht beim Anfahren und Bremsen auf dem nassen Kopfsteinpflaster.",
                 "hu": "Legyen óvatos az elindulásnál és fékezésnél a vizes macskakövön.",
                 "ro": "Atenție la plecare și la frânare pe piatra cubică udă.",
-                "en": "Be careful when starting and braking on the wet cobblestones."
+                "en": "Be careful when starting and braking on the wet cobblestones.",
+                "hr": "Budite oprezni pri kretanju i kočenju na mokrim kockama."
               }
             },
             {
@@ -937,7 +1009,8 @@
                 "de": "Suchen Sie einen überdachten Platz für Ihr Rad, während Sie drinnen sind.",
                 "hu": "Keressen fedett helyet a kerékpárnak, amíg bent tartózkodik.",
                 "ro": "Căutați un loc acoperit pentru bicicletă cât timp sunteți în interior.",
-                "en": "Find a covered spot for your bike while you are inside."
+                "en": "Find a covered spot for your bike while you are inside.",
+                "hr": "Pronađite pokriveno mjesto za bicikl dok ste unutra."
               }
             },
             {
@@ -946,7 +1019,8 @@
                 "de": "Der Weg nach Sopot kann matschig sein; Schutzbleche sind hier wichtig.",
                 "hu": "A Sopot felé vezető út sáros lehet; a sárvédő itt nagyon fontos.",
                 "ro": "Drumul spre Sopot poate fi noroios; apărătorile sunt foarte importante.",
-                "en": "The path to Sopot can be muddy; mudguards are very important here."
+                "en": "The path to Sopot can be muddy; mudguards are very important here.",
+                "hr": "Staza do Sopota može biti blatna; blatobrani su ovdje vrlo važni."
               }
             },
             {
@@ -955,7 +1029,8 @@
                 "de": "Fragen Sie nach einem Platz, wo Sie Ihre nasse Regenjacke aufhängen können.",
                 "hu": "Kérjen olyan helyet, ahol felakaszthatja a vizes esőkabátját.",
                 "ro": "Cereți un loc unde să vă puteți agăța jacheta de ploaie udă.",
-                "en": "Ask for a place where you can hang up your wet rain jacket."
+                "en": "Ask for a place where you can hang up your wet rain jacket.",
+                "hr": "Zatražite mjesto gdje možete objesiti mokru kišnu jaknu."
               }
             },
             {
@@ -964,7 +1039,8 @@
                 "de": "Die Straßen in Krnjaš können bei Regen schmierig sein; langsam fahren.",
                 "hu": "A Krnjaš utcái esőben csúszósak lehetnek; hajtson lassan.",
                 "ro": "Străzile din Krnjaš pot fi alunecoase pe ploaie; pedalați încet.",
-                "en": "The streets in Krnjaš can be slippery in the rain; ride slowly."
+                "en": "The streets in Krnjaš can be slippery in the rain; ride slowly.",
+                "hr": "Ulice u Krnjašu mogu biti skliske na kiši; vozite polako."
               }
             },
             {
@@ -973,7 +1049,8 @@
                 "de": "Vermeiden Sie das Überfahren des Denkmals, da Metalloberflächen rutschig sind.",
                 "hu": "Kerülje a hajtást közvetlenül az emlékművön, a fémfelület csúszik.",
                 "ro": "Evitați să treceți peste monument, suprafețele metalice sunt alunecoase.",
-                "en": "Avoid riding directly over the monument; metal surfaces are slippery."
+                "en": "Avoid riding directly over the monument; metal surfaces are slippery.",
+                "hr": "Izbjegavajte prelazak preko samog spomenika; metalne površine su skliske."
               }
             },
             {
@@ -982,7 +1059,8 @@
                 "de": "Bremsen Sie frühzeitig, da Bremsbeläge bei Nässe weniger effektiv sind.",
                 "hu": "Fékezzen időben, mert a fékbetétek vizesen kevésbé hatékonyak.",
                 "ro": "Frânați din timp, deoarece plăcuțele de frână sunt mai puțin eficiente pe ud.",
-                "en": "Brake early as brake pads are less effective when wet."
+                "en": "Brake early as brake pads are less effective when wet.",
+                "hr": "Kočione pločice su manje učinkovite kad su mokre, kočite ranije."
               }
             }
           ],
@@ -1014,6 +1092,13 @@
               "Avoid sudden steering movements on wet surfaces.",
               "Use your bike lights even during the day in rainy weather.",
               "After the tour, clean and oil the chain to prevent rust."
+            ],
+            "hr": [
+              "Blatobrani su nezaobilazni na mokrim biciklističkim putevima.",
+              "Nosite kompletnu kišnu jaknu i vodootporne rukavice.",
+              "Izbjegavajte nagle pokrete upravljačem po mokrim površinama.",
+              "Koristite prednje i zadnje svjetlo čak i danju po kišnom vremenu.",
+              "Nakon ture, očistite i nauljite lanac kako biste spriječili hrđu."
             ]
           }
         },
@@ -1022,7 +1107,8 @@
             "de": "Ein frostiger Wintertag auf dem Rad führt uns über den Ban Josip Šokčević Platz zum wärmenden Museum. Die Fahrt nach Sopot erfordert gute Vorbereitung gegen den kalten Gegenwind auf freiem Feld. Nach einem heißen Mittagessen radeln wir durch das malerische Krnjaš-Viertel. Vorbei am Orion-Monument nutzen wir das letzte Tageslicht für eine Fahrt entlang der Bosut, bevor die Kälte am späten Nachmittag anzieht.",
             "hu": "A fagyos téli kerékpáros nap a Ban Josip Šokčević téren át vezet a melengető múzeumhoz. A sopoti tekerés jó felkészülést igényel a nyílt terepen fújó hideg ellenszél miatt. Egy forró ebéd után a festői Krnjaš negyeden át tekerünk. Az Orion-emlékművet érintve kihasználjuk az utolsó fényeket a Bosut-parti úton, mielőtt késő délután beköszönt a fagy.",
             "ro": "O zi de iarnă geroasă pe bicicletă ne duce prin Piața Ban Josip Šokčević spre muzeul primitor. Drumul spre Sopot necesită pregătire bună împotriva vântului rece din câmp deschis. După un prânz fierbinte, pedalăm prin cartierul pitoresc Krnjaš. Trecând pe lângă Monumentul Orion, profităm de ultima lumină pentru o tură de-a lungul Bosutului, înainte ca gerul să se intensifice.",
-            "en": "A frosty winter day on the bike leads us across Ban Josip Šokčević Square to the warming museum. The ride to Sopot requires good preparation against the cold headwind in the open fields. After a hot lunch, we cycle through the picturesque Krnjaš quarter. Passing the Orion Monument, we use the last daylight for a ride along the Bosut before the cold intensifies in the late afternoon."
+            "en": "A frosty winter day on the bike leads us across Ban Josip Šokčević Square to the warming museum. The ride to Sopot requires good preparation against the cold headwind in the open fields. After a hot lunch, we cycle through the picturesque Krnjaš quarter. Passing the Orion Monument, we use the last daylight for a ride along the Bosut before the cold intensifies in the late afternoon.",
+            "hr": "Mrazno zimsko jutro na biciklu vodi nas preko trga bana Josipa Šokčevića do zagrijanog muzeja. Vožnja do Sopota zahtijeva dobru pripremu protiv hladnog bočnog vjetra na otvorenim poljima. Nakon toplog ručka vozimo kroz slikovitu četvrt Krnjaš. Prolazeći pored spomenika Orion, iskoristimo zadnje dnevno svjetlo za vožnju uz Bosut prije nego što hladnoća pojača u kasnom poslijepodnevu."
           },
           "stops": [
             {
@@ -1031,7 +1117,8 @@
                 "de": "Achten Sie auf Raureif, der das Pflaster rutschig machen kann.",
                 "hu": "Vigyázzon a zúzmarára, amely csúszóssá teheti a macskakövet.",
                 "ro": "Atenție la chiciură, care poate face pavajul alunecos.",
-                "en": "Watch out for frost, which can make the pavement slippery."
+                "en": "Watch out for frost, which can make the pavement slippery.",
+                "hr": "Pazite na mraz koji može učiniti kolnik skliskim."
               }
             },
             {
@@ -1040,7 +1127,8 @@
                 "de": "Parken Sie Ihr Rad sicher und wärmen Sie Ihre Hände drinnen auf.",
                 "hu": "Parkolja le biztonságosan a bringát, és melegítse fel a kezét bent.",
                 "ro": "Parcați bicicleta în siguranță și încălziți-vă mâinile în interior.",
-                "en": "Park your bike securely and warm up your hands inside."
+                "en": "Park your bike securely and warm up your hands inside.",
+                "hr": "Parkirajte bicikl sigurno i zagrijte ruke unutra."
               }
             },
             {
@@ -1049,7 +1137,8 @@
                 "de": "Der Wind auf dem Feldweg kann sehr kalt sein; Gesichtsschutz nutzen.",
                 "hu": "A mezei úton a szél nagyon hideg lehet; használjon arcvédőt.",
                 "ro": "Vântul pe drumul de câmp poate fi foarte rece; folosiți protecție pentru față.",
-                "en": "The wind on the field path can be very cold; use face protection."
+                "en": "The wind on the field path can be very cold; use face protection.",
+                "hr": "Vjetar na poljskoj stazi može biti vrlo hladan; koristite zaštitu za lice."
               }
             },
             {
@@ -1058,7 +1147,8 @@
                 "de": "Suchen Sie einen Platz nahe der Heizung, um die Glieder zu lockern.",
                 "hu": "Keressen helyet a fűtőtest közelében, hogy átmozgassa a tagjait.",
                 "ro": "Căutați un loc lângă calorifer pentru a vă dezmorți membrele.",
-                "en": "Find a spot near the heater to loosen up your limbs."
+                "en": "Find a spot near the heater to loosen up your limbs.",
+                "hr": "Pronađite mjesto blizu grijalice da opustite mišiće."
               }
             },
             {
@@ -1067,7 +1157,8 @@
                 "de": "Die schattigen Gassen können vereiste Stellen haben.",
                 "hu": "Az árnyékos szűk utcákban jeges foltok lehetnek.",
                 "ro": "Străduțele umbrite pot avea porțiuni înghețate.",
-                "en": "The shaded narrow streets may have icy patches."
+                "en": "The shaded narrow streets may have icy patches.",
+                "hr": "Sjenovite uske ulice mogu imati zaleđene površine."
               }
             },
             {
@@ -1076,7 +1167,8 @@
                 "de": "Kurzer Stopp; bleiben Sie in Bewegung, um nicht auszukühlen.",
                 "hu": "Csak rövid megálló; maradjon mozgásban, hogy ne hűljön ki.",
                 "ro": "Oprire scurtă; rămâneți în mișcare pentru a nu îngheța.",
-                "en": "Short stop; keep moving to avoid getting too cold."
+                "en": "Short stop; keep moving to avoid getting too cold.",
+                "hr": "Kratka stanica; nastavite se kretati da ne zahladnite previše."
               }
             },
             {
@@ -1085,7 +1177,8 @@
                 "de": "Schalten Sie Ihr Licht ein, da es im Winter früh dunkel wird.",
                 "hu": "Kapcsolja be a lámpákat, mert télen korán sötétedik.",
                 "ro": "Aprindeți luminile, deoarece iarna se întunecă devreme.",
-                "en": "Turn on your lights as it gets dark early in winter."
+                "en": "Turn on your lights as it gets dark early in winter.",
+                "hr": "Uključite svjetla jer zimi rano pada mrak."
               }
             }
           ],
@@ -1117,6 +1210,13 @@
               "Don't underestimate the wind chill effect during the ride to Sopot.",
               "Use bright clothing or reflectors for the early twilight.",
               "A hot tea in a thermos will keep you warm during the tour."
+            ],
+            "hr": [
+              "Topli, vjetrootporni rukavice i navlake za cipele su neophodni.",
+              "Gume treba imati malo niži tlak za bolje prianjanje na hladnim površinama.",
+              "Nemojte podcjenjivati efekt hladnog vjetra tijekom vožnje do Sopota.",
+              "Koristite svijetlu odjeću ili reflektore za rano sumrak.",
+              "Topli čaj u termosu održat će vas toplima tijekom ture."
             ]
           }
         }
@@ -1135,7 +1235,8 @@
             "de": "Cluster A: Archäologischer Park Sopot",
             "hu": "A klaszter: Sopot Régészeti Park",
             "ro": "Cluster A: Parcul Arheologic Sopot",
-            "en": "Cluster A: Sopot Archaeological Park"
+            "en": "Cluster A: Sopot Archaeological Park",
+            "hr": "Skupina A: Sopotski arheološki park"
           },
           "coords": [
             18.775,
@@ -1151,7 +1252,8 @@
             "de": "Beginnen Sie mit einer Fahrt in die Vergangenheit. Parkplätze sind vorhanden.",
             "hu": "Kezdje egy utazással a múltba. Parkolási lehetőség biztosított.",
             "ro": "Începeți cu o călătorie în trecut. Parcarea este disponibilă.",
-            "en": "Start with a drive into the past. Parking is available."
+            "en": "Start with a drive into the past. Parking is available.",
+            "hr": "Započnite vožnju u prošlost. Parkiralište je dostupno."
           }
         },
         {
@@ -1159,7 +1261,8 @@
             "de": "Cluster B: Parkplatz Zentrum & Stadtmuseum",
             "hu": "B klaszter: Belvárosi parkoló és Városi Múzeum",
             "ro": "Cluster B: Parcare centrală și Muzeul Municipal",
-            "en": "Cluster B: Center Parking & Town Museum"
+            "en": "Cluster B: Center Parking & Town Museum",
+            "hr": "Skupina B: Centar Parkiranje i Gradski muzej"
           },
           "coords": [
             18.804,
@@ -1175,7 +1278,8 @@
             "de": "Parken Sie hier für den Rest des Tages und erkunden Sie zu Fuß.",
             "hu": "Parkoljon itt a nap hátralévő részére, és fedezze fel a környéket gyalog.",
             "ro": "Parcați aici pentru restul zilei și explorați pe jos.",
-            "en": "Park here for the rest of the day and explore on foot."
+            "en": "Park here for the rest of the day and explore on foot.",
+            "hr": "Parkirajte ovdje za ostatak dana i istražujte pješice."
           }
         },
         {
@@ -1183,7 +1287,8 @@
             "de": "Platz von Ban Josip Šokčević",
             "hu": "Ban Josip Šokčević tér",
             "ro": "Piața Ban Josip Šokčević",
-            "en": "Ban Josip Šokčević Square"
+            "en": "Ban Josip Šokčević Square",
+            "hr": "Trg bana Josipa Šokčevića"
           },
           "coords": [
             18.8055,
@@ -1199,7 +1304,8 @@
             "de": "Ein kurzer Spaziergang vom Museum zum belebten Hauptplatz.",
             "hu": "Egy rövid séta a múzeumtól a nyüzsgő főtérig.",
             "ro": "O scurtă plimbare de la muzeu la piața principală aglomerată.",
-            "en": "A short walk from the museum to the bustling main square."
+            "en": "A short walk from the museum to the bustling main square.",
+            "hr": "Kratka šetnja od muzeja do živahnog glavnog trga."
           }
         },
         {
@@ -1207,7 +1313,8 @@
             "de": "Mittagessen am Platz",
             "hu": "Ebéd a téren",
             "ro": "Prânz în piață",
-            "en": "Lunch at the Square"
+            "en": "Lunch at the Square",
+            "hr": "Ručak na Trgu"
           },
           "coords": [
             18.8065,
@@ -1223,7 +1330,8 @@
             "de": "Genießen Sie die slawonische Küche mit Blick auf den Platz.",
             "hu": "Élvezze a szlavón konyhát a térre néző kilátással.",
             "ro": "Bucurați-vă de bucătăria slavonă cu vedere la piață.",
-            "en": "Enjoy Slavonian cuisine with a view of the square."
+            "en": "Enjoy Slavonian cuisine with a view of the square.",
+            "hr": "Uživajte u slavonskoj kuhinji s pogledom na trg."
           }
         },
         {
@@ -1231,7 +1339,8 @@
             "de": "Kirche St. Eusebius und Pollio",
             "hu": "Szent Eusebius és Polio templom",
             "ro": "Biserica Sf. Eusebiu și Polion",
-            "en": "Church of St. Eusebius and Polion"
+            "en": "Church of St. Eusebius and Polion",
+            "hr": "Crkva sv. Euzebija i Poliona"
           },
           "coords": [
             18.806,
@@ -1247,7 +1356,8 @@
             "de": "Bewundern Sie die Architektur dieser zentralen Kirche.",
             "hu": "Csodálja meg ennek a központi templomnak az építészetét.",
             "ro": "Admirați arhitectura acestei biserici centrale.",
-            "en": "Admire the architecture of this central church."
+            "en": "Admire the architecture of this central church.",
+            "hr": "Divite se arhitekturi ove središnje crkve."
           }
         },
         {
@@ -1255,7 +1365,8 @@
             "de": "Cluster C: Spaziergang zur Bosut-Promenade",
             "hu": "C klaszter: Séta a Bosut-parti sétányhoz",
             "ro": "Cluster C: Plimbare pe Promenada Bosut",
-            "en": "Cluster C: Walk to the Bosut Promenade"
+            "en": "Cluster C: Walk to the Bosut Promenade",
+            "hr": "Klastra C: Šetnja prema šetnici Bosut"
           },
           "coords": [
             18.809,
@@ -1271,7 +1382,8 @@
             "de": "Strecken Sie Ihre Beine bei einem Spaziergang zum Fluss.",
             "hu": "Nyújtsa ki a lábát egy sétával a folyóhoz.",
             "ro": "Întindeți-vă picioarele cu o plimbare până la râu.",
-            "en": "Stretch your legs with a walk down to the river."
+            "en": "Stretch your legs with a walk down to the river.",
+            "hr": "Istegnite noge šetnjom uz rijeku."
           }
         },
         {
@@ -1279,7 +1391,8 @@
             "de": "Krnjaš & Orion-Denkmal",
             "hu": "Krnjaš és Orion-emlékmű",
             "ro": "Krnjaš și Monumentul Orion",
-            "en": "Krnjaš & Orion Monument"
+            "en": "Krnjaš & Orion Monument",
+            "hr": "Spomenik Krnjaš & Orion"
           },
           "coords": [
             18.808,
@@ -1295,7 +1408,8 @@
             "de": "Schlendern Sie zurück durch die Altstadt und beenden Sie den Rundgang.",
             "hu": "Sétáljon vissza az óvároson keresztül, befejezve a kört.",
             "ro": "Plimbați-vă înapoi prin orașul vechi pentru a încheia circuitul.",
-            "en": "Stroll back through the old town to complete the circuit."
+            "en": "Stroll back through the old town to complete the circuit.",
+            "hr": "Prošećite natrag kroz staru jezgru kako biste zatvorili krug."
           }
         }
       ],
@@ -1303,7 +1417,8 @@
         "de": "Beginnen Sie Ihren Tag mit dem Auto am Archäologischen Park Sopot, um in die alte Geschichte einzutauchen. Fahren Sie dann ins Zentrum, parken Sie Ihr Auto und erkunden Sie den Rest des Tages zu Fuß. Besuchen Sie das Stadtmuseum, essen Sie auf dem Hauptplatz zu Mittag und bewundern Sie die Barockkirche. Schließen Sie den Tag mit einem Spaziergang durch die alten Straßen von Krnjaš und entlang der entspannenden Bosut-Promenade ab.",
         "hu": "Kezdje a napot autóval a Sopot Régészeti Parkban, hogy elmerüljön az ókori történelemben. Ezután hajtson be a központba, parkolja le az autót, és a nap hátralévő részében gyalogosan fedezze fel a várost. Látogasson el a városi múzeumba, ebédeljen a főtéren, és csodálja meg a barokk templomot. Zárja a napot egy sétával Krnjaš régi utcáin és a pihentető Bosut-parti sétányon.",
         "ro": "Începeți ziua cu mașina la Parcul Arheologic Sopot pentru o incursiune în istoria antică. Apoi, conduceți spre centru, parcați mașina și explorați pe jos pentru restul zilei. Vizitați Muzeul Municipal, luați prânzul în piața principală și admirați biserica barocă. Încheiați cu o plimbare pe străzile vechi din Krnjaš și de-a lungul promenadei relaxante Bosut.",
-        "en": "Start your day with a drive to the Sopot Archaeological Park for a dive into ancient history. Then, drive to the center, park your car, and explore on foot for the rest of the day. Visit the Town Museum, have lunch in the main square, and admire the baroque church. Conclude with a walk through the old streets of Krnjaš and along the relaxing Bosut Promenade."
+        "en": "Start your day with a drive to the Sopot Archaeological Park for a dive into ancient history. Then, drive to the center, park your car, and explore on foot for the rest of the day. Visit the Town Museum, have lunch in the main square, and admire the baroque church. Conclude with a walk through the old streets of Krnjaš and along the relaxing Bosut Promenade.",
+        "hr": "Započnite dan vožnjom do Arheološkog parka Sopot za uron u drevnu povijest. Zatim se vratite u centar, parkirajte automobil i ostatak dana istražujte pješice. Posjetite Gradski muzej, ručajte na glavnom trgu i divite se baroknoj crkvi. Završite šetnjom po starim ulicama Krnjaša i opuštajućom šetnicom Bosut."
       },
       "gastro_picks": {
         "de": [
@@ -1475,6 +1590,11 @@
           "Check parking fees and regulations in the city center.",
           "Vinkovci is relatively small, so parking and walking is a great strategy.",
           "Plan for extra time for traffic during peak hours."
+        ],
+        "hr": [
+          "Provjerite naknade i pravila parkiranja u centru grada.",
+          "Vinkovci su relativno mali, pa je kombinacija parkiranja i hodanja odlična strategija.",
+          "Planirajte dodatno vrijeme zbog prometa u vršnim satima."
         ]
       },
       "variants": {
@@ -1483,7 +1603,8 @@
             "de": "Ein regnerischer Tag mit dem Auto beginnt flexibel beim Archäologischen Park Sopot, wo wir nahe am Eingang parken. Im Zentrum nutzen wir die Parkplätze am Museum, um trocken zu den Ausstellungen zu gelangen. Das Mittagessen genießen wir direkt am Hauptplatz. Nachmittags besuchen wir die Kirche und das Krnjaš-Viertel, wobei wir die kurzen Gehwege zwischen den Parkstopps für kleine Erkundungen im Regen nutzen.",
             "hu": "Az esős autós nap rugalmasan indul a Sopoti Régészeti Parknál, ahol közel parkolunk a bejárathoz. A központban a múzeum melletti parkolót használjuk, hogy szárazon jussunk be. Az ebédet közvetlenül a főtéren költjük el. Délután a templomot és a Krnjaš negyedet látogatjuk meg, a parkolók közötti rövid sétákat kihasználva az esős felfedezésre.",
             "ro": "O zi ploioasă cu mașina începe flexibil la Parcul Arheologic Sopot, unde parcăm aproape de intrare. În centru, folosim parcările de lângă muzeu pentru a ajunge uscați la expoziții. Prânzul îl savurăm chiar în piața principală. După-amiaza vizităm biserica și cartierul Krnjaš, folosind distanțele scurte de mers pe jos între parcări pentru mici explorări prin ploaie.",
-            "en": "A rainy day by car starts flexibly at Sopot Archaeological Park, parking close to the entrance. In the center, we use the parking lots near the museum to stay dry. We enjoy lunch right at the main square. In the afternoon, we visit the church and Krnjaš quarter, using the short walks between parking stops for brief explorations in the rain."
+            "en": "A rainy day by car starts flexibly at Sopot Archaeological Park, parking close to the entrance. In the center, we use the parking lots near the museum to stay dry. We enjoy lunch right at the main square. In the afternoon, we visit the church and Krnjaš quarter, using the short walks between parking stops for brief explorations in the rain.",
+            "hr": "Kišni dan automobilom fleksibilno započinje u Arheološkom parku Sopot, s parkiranjem blizu ulaza. U centru koristimo parkirališta kod muzeja da ostanemo suhi. Ručamo odmah na glavnom trgu. Popodne posjećujemo crkvu i četvrt Krnjaš, koristeći kratke šetnje između parkirnih mjesta za kratka istraživanja na kiši."
           },
           "stops": [
             {
@@ -1492,7 +1613,8 @@
                 "de": "Parken Sie so nah wie möglich am Infozentrum, um Regenwege zu minimieren.",
                 "hu": "Parkoljon a lehető legközelebb a látogatóközponthoz az eső miatt.",
                 "ro": "Parcați cât mai aproape de centrul de informare pentru a evita ploaia.",
-                "en": "Park as close as possible to the visitor center to minimize time in the rain."
+                "en": "Park as close as possible to the visitor center to minimize time in the rain.",
+                "hr": "Parkirajte što bliže informacijskom centru kako biste smanjili vrijeme na kiši."
               }
             },
             {
@@ -1501,7 +1623,8 @@
                 "de": "Das Parken im Zentrum ist bei Regen oft begehrt; kommen Sie frühzeitig.",
                 "hu": "A központi parkolók esőben hamar megtelnek; érkezzen időben.",
                 "ro": "Parcarea centrală este foarte solicitată pe ploaie; veniți din timp.",
-                "en": "Central parking is in high demand during rain; arrive early."
+                "en": "Central parking is in high demand during rain; arrive early.",
+                "hr": "Središnja parkirališta su tražena tijekom kiše; dođite rano."
               }
             },
             {
@@ -1510,7 +1633,8 @@
                 "de": "Vorsicht beim Aussteigen auf dem glatten Kopfsteinpflaster.",
                 "hu": "Vigyázzon a kiszállásnál a csúszós macskakövön.",
                 "ro": "Atenție la coborârea din mașină pe pavajul alunecos.",
-                "en": "Be careful when getting out of the car on the slippery cobblestones."
+                "en": "Be careful when getting out of the car on the slippery cobblestones.",
+                "hr": "Pazite kad izlazite iz auta na skliskim kaldrmama."
               }
             },
             {
@@ -1519,7 +1643,8 @@
                 "de": "Lassen Sie Ihren Schirm im Vorraum des Restaurants abtropfen.",
                 "hu": "Hagyja az esernyőt az étterem előterében lecsepegni.",
                 "ro": "Lăsați umbrela la scurs în vestibulul restaurantului.",
-                "en": "Let your umbrella drip dry in the restaurant's foyer."
+                "en": "Let your umbrella drip dry in the restaurant's foyer.",
+                "hr": "Pustite kišobran da se ocijedi u predvorju restorana."
               }
             },
             {
@@ -1528,7 +1653,8 @@
                 "de": "Ein kurzer Sprint vom Parkplatz zum Kircheneingang hält Sie trocken.",
                 "hu": "Egy rövid futás a parkolótól a templomig szárazon tartja.",
                 "ro": "Un sprint scurt de la parcare la intrarea în biserică vă va menține uscat.",
-                "en": "A short sprint from the parking spot to the church entrance keeps you dry."
+                "en": "A short sprint from the parking spot to the church entrance keeps you dry.",
+                "hr": "Kratki sprint od parkirnog mjesta do ulaza u crkvu održat će vas suhim."
               }
             },
             {
@@ -1537,7 +1663,8 @@
                 "de": "Die Parkplätze am Flussufer können bei starkem Regen kleine Pfützen bilden.",
                 "hu": "A folyóparti parkolóknál heves esőben nagyobb tócsák alakulhatnak ki.",
                 "ro": "Parcările de pe malul râului pot colecta apă în timpul ploilor mari.",
-                "en": "Parking spots near the riverbank may have large puddles during heavy rain."
+                "en": "Parking spots near the riverbank may have large puddles during heavy rain.",
+                "hr": "Parkirna mjesta uz obalu mogu imati velike lokve tijekom jake kiše."
               }
             },
             {
@@ -1546,7 +1673,8 @@
                 "de": "Nutzen Sie die Parkbucht nahe dem Monument für einen kurzen Stopp.",
                 "hu": "Használja az emlékmű közeli parkolóhelyet egy rövid megállóhoz.",
                 "ro": "Folosiți alveola de parcare de lângă monument pentru o oprire scurtă.",
-                "en": "Use the parking bay near the monument for a quick stop."
+                "en": "Use the parking bay near the monument for a quick stop.",
+                "hr": "Koristite parkirni prostor blizu spomenika za kratko zaustavljanje."
               }
             }
           ],
@@ -1578,6 +1706,13 @@
               "Avoid parking under old trees during gusty winds.",
               "Use the windshield heater to prevent interior fogging.",
               "In Vinkovci, central parking zones fill up quickly during rain."
+            ],
+            "hr": [
+              "Čuvajte se pješaka koji često nepažljivo prelaze na kiši.",
+              "Držite kišobran pri ruci u džepu vrata automobila.",
+              "Izbjegavajte parkiranje ispod starih stabala tijekom naleta vjetra.",
+              "Koristite grijač vjetrobranskog stakla da spriječite zamagljivanje unutrašnjosti.",
+              "U Vinkovcima se središnje parkirne zone brzo pune tijekom kiše."
             ]
           }
         },
@@ -1586,7 +1721,8 @@
             "de": "Starten Sie den Wintertag bequem mit dem Auto am Archäologischen Park Sopot, wo der frostige Wind über die Felder weht. Im beheizten Wagen geht es zurück ins Zentrum zum Museumsparkplatz. Nach der Orion-Ausstellung genießen wir ein warmes Mittagessen am Hauptplatz. Der Nachmittag gehört der Kirche und dem Krnjaš-Viertel. Den Tag lassen wir mit einer kurzen Fahrt zur Bosut-Promenade bei stimmungsvoller Winterbeleuchtung ausklingen.",
             "hu": "Kényelmesen kezdje a téli napot autóval a Sopoti Régészeti Parknál, ahol a fagyos szél fúj a mezők felett. A fűtött kocsival térjen vissza a központba, a múzeumi parkolóhoz. Az Orion-kiállítás után egy forró ebédet költünk el a főtéren. A délután a templomé és a Krnjaš negyedé. A napot egy rövid autózással zárjuk a Bosut-parti sétányhoz a hangulatos téri fényekben.",
             "ro": "Începeți ziua de iarnă confortabil cu mașina la Parcul Arheologic Sopot, unde vântul înghețat bate peste câmpuri. Cu mașina încălzită, reveniți în centru la parcarea muzeului. După expoziția Orion, savurăm un prânz cald în piața principală. După-amiaza aparține bisericii și cartierului Krnjaš. Încheiem ziua cu o scurtă plimbare spre promenada Bosut, sub luminile de iarnă.",
-            "en": "Start the winter day comfortably by car at Sopot Archaeological Park, where the frosty wind blows across the fields. Return to the center in your heated car to the museum parking lot. After the Orion exhibit, enjoy a warm lunch at the main square. The afternoon is dedicated to the church and Krnjaš quarter. End the day with a short drive to the Bosut Promenade under the atmospheric winter lights."
+            "en": "Start the winter day comfortably by car at Sopot Archaeological Park, where the frosty wind blows across the fields. Return to the center in your heated car to the museum parking lot. After the Orion exhibit, enjoy a warm lunch at the main square. The afternoon is dedicated to the church and Krnjaš quarter. End the day with a short drive to the Bosut Promenade under the atmospheric winter lights.",
+            "hr": "Započnite zimski dan udobno automobilom u Arheološkom parku Sopot, gdje hladan vjetar puše preko polja. Vratite se u centar u zagrijanom automobilu na muzejno parkiralište. Nakon izložbe Orion, uživajte u toplom ručku na glavnom trgu. Poslijepodne je posvećeno crkvi i četvrti Krnjaš. Dan završite kratkom vožnjom do šetnice Bosut pod atmosferskim zimskim lampicama."
           },
           "stops": [
             {
@@ -1595,7 +1731,8 @@
                 "de": "Lassen Sie den Motor nicht unnötig laufen, während Sie kurz die Aussicht genießen.",
                 "hu": "Ne járassa feleslegesen a motort, amíg a kilátásban gyönyörködik.",
                 "ro": "Nu lăsați motorul pornit inutil cât timp admirați peisajul.",
-                "en": "Don't leave the engine idling while enjoying the view briefly."
+                "en": "Don't leave the engine idling while enjoying the view briefly.",
+                "hr": "Ne ostavljajte motor u praznom hodu dok kratko uživate u pogledu."
               }
             },
             {
@@ -1604,7 +1741,8 @@
                 "de": "Das Lenkrad kann nach dem Aufenthalt im Museum sehr kalt sein; Handschuhe helfen.",
                 "hu": "A kormány nagyon hideg lehet a múzeumi látogatás után; a kesztyű segít.",
                 "ro": "Volanul poate fi foarte rece după vizita la muzeu; mănușile ajută.",
-                "en": "The steering wheel can be very cold after the museum visit; gloves help."
+                "en": "The steering wheel can be very cold after the museum visit; gloves help.",
+                "hr": "Volan može biti vrlo hladan nakon posjeta muzeju; pomažu rukavice."
               }
             },
             {
@@ -1613,7 +1751,8 @@
                 "de": "Achten Sie auf vereiste Stellen beim Manövrieren in den Parklücken.",
                 "hu": "Figyeljen a jeges foltokra a parkolóhelyre való beálláskor.",
                 "ro": "Atenție la porțiunile înghețate când manevrați în locul de parcare.",
-                "en": "Watch out for icy spots when maneuvering into parking spaces."
+                "en": "Watch out for icy spots when maneuvering into parking spaces.",
+                "hr": "Pazite na zaleđene dijelove pri manevarima za parkiranje."
               }
             },
             {
@@ -1622,7 +1761,8 @@
                 "de": "Genießen Sie die Wärme im Restaurant, bevor Sie wieder ins kalte Auto steigen.",
                 "hu": "Élvezze az étterem melegét, mielőtt visszaszállna a hideg autóba.",
                 "ro": "Bucurați-vă de căldura din restaurant înainte de a reveni în mașina rece.",
-                "en": "Enjoy the warmth of the restaurant before getting back into the cold car."
+                "en": "Enjoy the warmth of the restaurant before getting back into the cold car.",
+                "hr": "Uživajte u toplini restorana prije povratka u hladan auto."
               }
             },
             {
@@ -1631,7 +1771,8 @@
                 "de": "Der Kircheneingang ist nur wenige Schritte von den Parkplätzen entfernt.",
                 "hu": "A templom bejárata csak néhány lépésre van a parkolóktól.",
                 "ro": "Intrarea în biserică este la doar câțiva pași de parcări.",
-                "en": "The church entrance is just a few steps away from the parking spots."
+                "en": "The church entrance is just a few steps away from the parking spots.",
+                "hr": "Ulaz u crkvu udaljen je samo nekoliko koraka od parkirnih mjesta."
               }
             },
             {
@@ -1640,7 +1781,8 @@
                 "de": "Die Uferstraßen können im Winter schneller überfrieren; vorsichtig fahren.",
                 "hu": "A folyóparti utak télen hamarabb lefagyhatnak; vezessen óvatosan.",
                 "ro": "Drumurile de pe malul râului pot îngheța mai repede; conduceți cu grijă.",
-                "en": "Riverside roads can freeze over more quickly in winter; drive carefully."
+                "en": "Riverside roads can freeze over more quickly in winter; drive carefully.",
+                "hr": "Ceste uz rijeku se zimi brže poledene; vozite oprezno."
               }
             },
             {
@@ -1649,7 +1791,8 @@
                 "de": "In der Winterdämmerung ist das Monument ein schöner Orientierungspunkt.",
                 "hu": "A téli szürkületben az emlékmű szép tájékozódási pont.",
                 "ro": "În amurgul de iarnă, monumentul este un punct de reper frumos.",
-                "en": "In the winter twilight, the monument is a beautiful landmark."
+                "en": "In the winter twilight, the monument is a beautiful landmark.",
+                "hr": "U zimski sumrak, spomenik je prekrasna orijentirka."
               }
             }
           ],
@@ -1681,6 +1824,13 @@
               "Avoid leaving the handbrake on if parking for long periods in freezing cold.",
               "Use seat heating for quick comfort after outdoor stops.",
               "Always use low-beam headlights after 16:00 as twilight begins."
+            ],
+            "hr": [
+              "Provjerite razinu antifriza u tekućini za pranje vjetrobrana prije polaska.",
+              "Pronalazak parkiranja u centru manje je stresan zimi nego ljeti.",
+              "Izbjegavajte ostaviti ručnu kočnicu ako dugo parkirate na jakoj hladnoći.",
+              "Koristite grijanje sjedala za brzi osjećaj ugode nakon boravka vani.",
+              "Uvijek koristite kratka svjetla nakon 16:00 kada počinje sumrak."
             ]
           }
         }
@@ -1699,7 +1849,8 @@
             "de": "Cluster A: Hauptbahnhof & Stadtmuseum",
             "hu": "A klaszter: Főpályaudvar és Városi Múzeum",
             "ro": "Cluster A: Gara Centrală și Muzeul Municipal",
-            "en": "Cluster A: Main Station & Town Museum"
+            "en": "Cluster A: Main Station & Town Museum",
+            "hr": "Klastra A: Glavni kolodvor i Gradski muzej"
           },
           "coords": [
             18.804,
@@ -1715,7 +1866,8 @@
             "de": "Beginnen Sie Ihren Tag, indem Sie einen Bus in die Nähe des Museums nehmen.",
             "hu": "Kezdje a napot egy busszal a múzeum közelébe.",
             "ro": "Începeți ziua luând un autobuz aproape de muzeu.",
-            "en": "Start your day by taking a bus near the museum."
+            "en": "Start your day by taking a bus near the museum.",
+            "hr": "Započnite dan autobusom u blizini muzeja."
           }
         },
         {
@@ -1723,7 +1875,8 @@
             "de": "Platz von Ban Josip Šokčević",
             "hu": "Ban Josip Šokčević tér",
             "ro": "Piața Ban Josip Šokčević",
-            "en": "Ban Josip Šokčević Square"
+            "en": "Ban Josip Šokčević Square",
+            "hr": "Trg bana Josipa Šokčevića"
           },
           "coords": [
             18.8055,
@@ -1739,7 +1892,8 @@
             "de": "Ein kurzer Spaziergang vom Museum zum Herzen der Stadt.",
             "hu": "Egy rövid séta a múzeumtól a város szívéig.",
             "ro": "O scurtă plimbare de la muzeu până în inima orașului.",
-            "en": "A short walk from the museum to the heart of the city."
+            "en": "A short walk from the museum to the heart of the city.",
+            "hr": "Kratka šetnja od muzeja do srca grada."
           }
         },
         {
@@ -1747,7 +1901,8 @@
             "de": "Mittagessen in der Innenstadt",
             "hu": "Ebéd a belvárosban",
             "ro": "Prânz în centrul orașului",
-            "en": "Lunch in the city center"
+            "en": "Lunch in the city center",
+            "hr": "Ručak u centru grada"
           },
           "coords": [
             18.806,
@@ -1763,7 +1918,8 @@
             "de": "Genießen Sie die lokale Küche, bevor Sie Ihre Erkundung fortsetzen.",
             "hu": "Élvezze a helyi konyhát a felfedezés folytatása előtt.",
             "ro": "Bucurați-vă de bucătăria locală înainte de a continua explorarea.",
-            "en": "Enjoy the local cuisine before continuing your exploration."
+            "en": "Enjoy the local cuisine before continuing your exploration.",
+            "hr": "Uživajte u domaćoj kuhinji prije nastavka istraživanja."
           }
         },
         {
@@ -1771,7 +1927,8 @@
             "de": "Cluster B: Fahrt zum Archäologischen Park Sopot",
             "hu": "B klaszter: Utazás a Sopot Régészeti Parkba",
             "ro": "Cluster B: Călătorie la Parcul Arheologic Sopot",
-            "en": "Cluster B: Trip to Sopot Archaeological Park"
+            "en": "Cluster B: Trip to Sopot Archaeological Park",
+            "hr": "Klastra B: Izlet do Arheološkog parka Sopot"
           },
           "coords": [
             18.775,
@@ -1787,7 +1944,8 @@
             "de": "Nehmen Sie einen lokalen Bus, um diese Stätte außerhalb der Stadt zu erreichen.",
             "hu": "Vegyen egy helyi buszt, hogy elérje ezt a városon kívüli helyszínt.",
             "ro": "Luați un autobuz local pentru a ajunge la acest sit din afara orașului.",
-            "en": "Take a local bus to reach this out-of-town site."
+            "en": "Take a local bus to reach this out-of-town site.",
+            "hr": "Svakodnevnim autobusom dođite do ovog izvangradskog lokaliteta."
           }
         },
         {
@@ -1795,7 +1953,8 @@
             "de": "Cluster C: Bus zur Bosut-Promenade",
             "hu": "C klaszter: Busz a Bosut-parti sétányhoz",
             "ro": "Cluster C: Autobuz spre Promenada Bosut",
-            "en": "Cluster C: Bus to the Bosut Promenade"
+            "en": "Cluster C: Bus to the Bosut Promenade",
+            "hr": "Klastra C: Autobus do šetnice Bosut"
           },
           "coords": [
             18.809,
@@ -1811,7 +1970,8 @@
             "de": "Fahren Sie zurück in die Stadt und steigen Sie in der Nähe des Flusses aus.",
             "hu": "Menjen vissza a városba, és szálljon le a folyó közelében.",
             "ro": "Întoarceți-vă în oraș și coborâți lângă râu.",
-            "en": "Head back into the city and get off near the river."
+            "en": "Head back into the city and get off near the river.",
+            "hr": "Vratite se u grad i siđite blizu rijeke."
           }
         },
         {
@@ -1819,7 +1979,8 @@
             "de": "Orion-Denkmal",
             "hu": "Orion-emlékmű",
             "ro": "Monumentul Orion",
-            "en": "Orion Monument"
+            "en": "Orion Monument",
+            "hr": "Spomenik Orion"
           },
           "coords": [
             18.8075,
@@ -1835,7 +1996,8 @@
             "de": "Ein Muss auf Ihrem Spaziergang entlang des Flusses.",
             "hu": "Kötelező látnivaló a folyó menti sétán.",
             "ro": "O oprire obligatorie în plimbarea dvs. de-a lungul râului.",
-            "en": "A must-see on your walk along the river."
+            "en": "A must-see on your walk along the river.",
+            "hr": "Obavezno za vidjeti na vašoj šetnji uz rijeku."
           }
         },
         {
@@ -1843,7 +2005,8 @@
             "de": "Krnjaš-Viertel",
             "hu": "Krnjaš negyed",
             "ro": "Cartierul Krnjaš",
-            "en": "Krnjaš Quarter"
+            "en": "Krnjaš Quarter",
+            "hr": "Četvrt Krnjaš"
           },
           "coords": [
             18.808,
@@ -1859,7 +2022,8 @@
             "de": "Verlieren Sie sich in den alten Straßen, bevor Sie den Bus nach Hause nehmen.",
             "hu": "Tévedjen el a régi utcákon, mielőtt hazamegy a busszal.",
             "ro": "Pierdeți-vă pe străzile vechi înainte de a lua autobuzul spre casă.",
-            "en": "Get lost in the old streets before catching your bus home."
+            "en": "Get lost in the old streets before catching your bus home.",
+            "hr": "Izgubite se u starim ulicama prije povratka autobusom kući."
           }
         }
       ],
@@ -1867,7 +2031,8 @@
         "de": "Nutzen Sie das lokale Bussystem, um Vinkovci zu erkunden. Beginnen Sie im Zentrum mit dem Stadtmuseum und dem Hauptplatz. Nehmen Sie dann einen Bus zum faszinierenden Archäologischen Park Sopot. Nach Ihrer Rückkehr in die Stadt bringt Sie ein weiterer Bus in die Nähe der Bosut-Promenade, wo Sie einen entspannten Nachmittag verbringen und durch das historische Viertel Krnjaš schlendern können, bevor Sie Ihre Heimreise antreten.",
         "hu": "Használja a helyi buszhálózatot Vinkovci felfedezéséhez. Kezdje a központban a városi múzeummal és a főtérrel. Ezután busszal menjen el a lenyűgöző Sopot Régészeti Parkba. Miután visszatért a városba, egy másik busz elviszi a Bosut-parti sétány közelébe, ahol egy pihentető délutánt tölthet, és sétálhat a történelmi Krnjaš negyedben, mielőtt hazaindul.",
         "ro": "Folosiți sistemul local de autobuze pentru a explora Vinkovci. Începeți în centru cu Muzeul Municipal și piața principală. Apoi, luați un autobuz spre fascinantul Parc Arheologic Sopot. După întoarcerea în oraș, un alt autobuz vă va duce lângă Promenada Bosut pentru o după-amiază relaxantă, plimbându-vă prin cartierul istoric Krnjaš înainte de a vă îndrepta spre casă.",
-        "en": "Use the local bus system to explore Vinkovci. Start in the center with the Town Museum and the main square. Then, take a bus to the fascinating Sopot Archaeological Park. After returning to the city, another bus will take you near the Bosut Promenade for a relaxing afternoon, strolling through the historic Krnjaš quarter before heading home."
+        "en": "Use the local bus system to explore Vinkovci. Start in the center with the Town Museum and the main square. Then, take a bus to the fascinating Sopot Archaeological Park. After returning to the city, another bus will take you near the Bosut Promenade for a relaxing afternoon, strolling through the historic Krnjaš quarter before heading home.",
+        "hr": "Koristite lokalni autobusni promet za istraživanje Vinkovaca. Započnite u centru s Gradskim muzejem i glavnim trgom. Zatim autobusom dođite do fascinantnog Arheološkog parka Sopot. Nakon povratka u grad, još jedan autobus vozi vas blizu šetnice Bosut za opuštajuće popodne, šetnju povijesnom četvrti Krnjaš prije povratka kući."
       },
       "gastro_picks": {
         "de": [
@@ -2043,6 +2208,12 @@
           "Check the bus schedules in advance.",
           "Validate your ticket each time you board.",
           "Be aware that buses may run less frequently in the evening."
+        ],
+        "hr": [
+          "Kupite dnevnu kartu za neograničena putovanja.",
+          "Provjerite vozne redove autobusa unaprijed.",
+          "Potvrdite kartu svaki put kad se ukrcate.",
+          "Imajte na umu da autobusi navečer voze rjeđe."
         ]
       },
       "variants": {
@@ -2051,7 +2222,8 @@
             "de": "Ein regnerischer Tag mit dem Bus beginnt am Hauptbahnhof und führt direkt zum Stadtmuseum. Nach der Erkundung der Orion-Funde bringt uns der Bus zum Hauptplatz für ein gemütliches Mittagessen. Trotz Regen besuchen wir den Archäologischen Park Sopot, wobei wir das Infozentrum als Basis nutzen. Den Nachmittag verbringen wir an der Bosut-Promenade und im Krnjaš-Viertel, bevor wir mit dem Bus zurück zum Bahnhof fahren.",
             "hu": "Az esős nap tömegközlekedéssel a vasútállomástól indul, és egyenesen a múzeumba vezet. Az Orion-leletek után busszal megyünk a főtérre egy kellemes ebédre. Az eső ellenére meglátogatjuk a Sopoti Régészeti Parkot, bázisként a látogatóközpontot használva. A délutánt a Bosut-parton és a Krnjaš negyedben töltjük, majd busszal térünk vissza az állomásra.",
             "ro": "O zi ploioasă cu transportul public începe de la gara principală și duce direct la muzeu. După explorarea Orion, autobuzul ne duce în piața centrală pentru un prânz plăcut. În ciuda ploii, vizităm Parcul Arheologic Sopot, folosind centrul de informare ca bază. După-amiaza o petrecem pe promenada Bosut și în cartierul Krnjaš, înainte de a reveni cu autobuzul la gară.",
-            "en": "A rainy day by transit starts at the main station and leads directly to the Town Museum. After exploring the Orion finds, the bus takes us to the main square for a pleasant lunch. Despite the rain, we visit Sopot Archaeological Park, using the visitor center as a base. We spend the afternoon at the Bosut Promenade and Krnjaš quarter before taking the bus back to the station."
+            "en": "A rainy day by transit starts at the main station and leads directly to the Town Museum. After exploring the Orion finds, the bus takes us to the main square for a pleasant lunch. Despite the rain, we visit Sopot Archaeological Park, using the visitor center as a base. We spend the afternoon at the Bosut Promenade and Krnjaš quarter before taking the bus back to the station.",
+            "hr": "Kišni dan javnim prijevozom započinje na glavnom kolodvoru i vodi izravno do Gradskog muzeja. Nakon istraživanja nalaza Orion, autobus nas vodi na glavni trg na ugodan ručak. Unatoč kiši, posjećujemo Arheološki park Sopot, koristeći posjetiteljski centar kao bazu. Popodne provodimo na šetnici Bosut i u četvrti Krnjaš prije povratka autobusom na kolodvor."
           },
           "stops": [
             {
@@ -2060,7 +2232,8 @@
                 "de": "Warten Sie im Bahnhofsgebäude, bis der Bus zur Abfahrt bereitsteht.",
                 "hu": "Várjon az állomás épületében, amíg a busz indulásra kész.",
                 "ro": "Așteptați în clădirea gării până când autobuzul este gata de plecare.",
-                "en": "Wait inside the station building until the bus is ready for departure."
+                "en": "Wait inside the station building until the bus is ready for departure.",
+                "hr": "Pričekajte u zgradi kolodvora dok autobus ne bude spreman za polazak."
               }
             },
             {
@@ -2069,7 +2242,8 @@
                 "de": "Die Bushaltestellen im Zentrum bieten oft nur begrenzten Regenschutz.",
                 "hu": "A központi buszmegállók gyakran csak korlátozott védelmet nyújtanak az eső ellen.",
                 "ro": "Stațiile de autobuz din centru oferă adesea adăpost limitat împotriva ploii.",
-                "en": "Central bus stops often offer only limited shelter from the rain."
+                "en": "Central bus stops often offer only limited shelter from the rain.",
+                "hr": "Središnje autobusne stanice često imaju ograničen zaklon od kiše."
               }
             },
             {
@@ -2078,7 +2252,8 @@
                 "de": "Suchen Sie ein Lokal in unmittelbarer Nähe einer Bushaltestelle.",
                 "hu": "Keressen olyan helyet, amely közvetlen közel van egy buszmegállóhoz.",
                 "ro": "Căutați un local situat în imediata apropiere a unei stații de autobuz.",
-                "en": "Find a place in the immediate vicinity of a bus stop."
+                "en": "Find a place in the immediate vicinity of a bus stop.",
+                "hr": "Pronađite mjesto u neposrednoj blizini autobusnog stajališta."
               }
             },
             {
@@ -2087,7 +2262,8 @@
                 "de": "Prüfen Sie den Rückfahrplan genau, um unnötiges Warten im Regen zu vermeiden.",
                 "hu": "Ellenőrizze pontosan a visszautat, hogy elkerülje az esőben való várakozást.",
                 "ro": "Verificați bine orarul de întoarcere pentru a evita așteptarea în ploaie.",
-                "en": "Check the return schedule carefully to avoid waiting in the rain."
+                "en": "Check the return schedule carefully to avoid waiting in the rain.",
+                "hr": "Pažljivo provjerite povratni raspored kako biste izbjegli čekanje na kiši."
               }
             },
             {
@@ -2096,7 +2272,8 @@
                 "de": "Der Weg vom Bus zur Promenade ist kurz, aber ungeschützt.",
                 "hu": "A busztól a sétányig tartó út rövid, de fedetlen.",
                 "ro": "Drumul de la autobuz la promenadă este scurt, dar neprotejat.",
-                "en": "The walk from the bus stop to the promenade is short but unsheltered."
+                "en": "The walk from the bus stop to the promenade is short but unsheltered.",
+                "hr": "Šetnja od stajališta do šetnice je kratka, ali bez zaklona."
               }
             },
             {
@@ -2105,7 +2282,8 @@
                 "de": "Das Monument liegt direkt an der Busroute durch das Zentrum.",
                 "hu": "Az emlékmű közvetlenül a központon áthaladó buszjárat útvonalán van.",
                 "ro": "Monumentul se află direct pe ruta autobuzului care traversează centrul.",
-                "en": "The monument is located directly on the bus route through the center."
+                "en": "The monument is located directly on the bus route through the center.",
+                "hr": "Spomenik se nalazi izravno na autobusnoj ruti kroz centar."
               }
             },
             {
@@ -2114,7 +2292,8 @@
                 "de": "Nutzen Sie den Bus, um die Distanz zwischen Krnjaš und dem Bahnhof zu überbrücken.",
                 "hu": "Használja a buszt a Krnjaš és az állomás közötti távolság leküzdésére.",
                 "ro": "Folosiți autobuzul pentru a parcurge distanța dintre Krnjaš și gară.",
-                "en": "Use the bus to cover the distance between Krnjaš and the station."
+                "en": "Use the bus to cover the distance between Krnjaš and the station.",
+                "hr": "Iskoristite autobus za prijevoz između Krnjaša i kolodvora."
               }
             }
           ],
@@ -2146,6 +2325,13 @@
               "Wait in cafes near bus stops during heavy rainfall.",
               "Buses in Vinkovci are usually well-heated and dry.",
               "Allow extra time as traffic tends to slow down during rain."
+            ],
+            "hr": [
+              "Koristite lokalnu aplikaciju za prijevoz za informacije u stvarnom vremenu.",
+              "Mali, čvrsti sklopivi kišobran najpraktičniji je za putovanje autobusom.",
+              "Tijekom jake kiše pričekajte u kafićima blizu stajališta.",
+              "Autobusi u Vinkovcima obično su dobro grijani i suhi.",
+              "Ostavite dodatno vremena jer se promet za kiše usporava."
             ]
           }
         },
@@ -2154,7 +2340,8 @@
             "de": "Ein Wintertag mit dem Transit beginnt warm im Bahnhof und führt zum Stadtmuseum. Nach der Orion-Ausstellung bringt uns der beheizte Bus zum Hauptplatz für ein stärkendes Mittagessen. Der Ausflug zum frostigen Sopot erfordert Timing für den Bus. Nachmittags erkunden wir das Krnjaš-Viertel und die Bosut-Promenade in der Wintersonne, bevor wir den Bus zurück zum Bahnhof nehmen, wenn es dunkel wird.",
             "hu": "A téli nap tömegközlekedéssel a vasútállomás melegéből indul a múzeumba. Az Orion-leletek után a fűtött busz visz a főtérre egy laktató ebédre. A fagyos sopoti kirándulás jó busz-időzítést igényel. Délután a Krnjaš negyedet és a Bosut-partot fedezzük fel a téli napsütésben, majd sötétedéskor busszal térünk vissza az állomásra.",
             "ro": "O zi de iarnă cu transportul public începe în căldura gării și duce la muzeu. După expoziția Orion, autobuzul încălzit ne duce în piața centrală pentru un prânz consistent. Excursia spre Sopotul înghețat necesită o sincronizare bună cu autobuzul. După-amiaza explorăm cartierul Krnjaš și promenada Bosut în soarele de iarnă, revenind la gară cu autobuzul când se înserează.",
-            "en": "A winter day by transit starts in the warmth of the station and leads to the museum. After the Orion exhibit, the heated bus takes us to the main square for a filling lunch. The trip to frosty Sopot requires good bus timing. In the afternoon, we explore the Krnjaš quarter and Bosut Promenade in the winter sun, returning to the station by bus as it gets dark."
+            "en": "A winter day by transit starts in the warmth of the station and leads to the museum. After the Orion exhibit, the heated bus takes us to the main square for a filling lunch. The trip to frosty Sopot requires good bus timing. In the afternoon, we explore the Krnjaš quarter and Bosut Promenade in the winter sun, returning to the station by bus as it gets dark.",
+            "hr": "Zimski dan javnim prijevozom započinje u toplini kolodvora i vodi do muzeja. Nakon izložbe Orion, grijani autobus nas vodi na glavni trg na zasitan ručak. Vožnja do mraznog Sopota zahtijeva dobro tempiranje autobusa. Popodne istražujemo četvrt Krnjaš i šetnicu Bosut na zimskom suncu, vraćajući se autobusom na kolodvor pred sumrak."
           },
           "stops": [
             {
@@ -2163,7 +2350,8 @@
                 "de": "Nutzen Sie den Warteraum im Bahnhof, um nicht in der Kälte zu stehen.",
                 "hu": "Használja az állomás várótermét, hogy ne kelljen a hidegben állnia.",
                 "ro": "Folosiți sala de așteptare a gării pentru a nu sta în frig.",
-                "en": "Use the station's waiting room to avoid standing in the cold."
+                "en": "Use the station's waiting room to avoid standing in the cold.",
+                "hr": "Iskoristite čekaonicu kolodvora kako biste izbjegli stajanje na hladnoći."
               }
             },
             {
@@ -2172,7 +2360,8 @@
                 "de": "In der Kälte wirken die Entfernungen im Zentrum oft länger.",
                 "hu": "A hidegben a központi távolságok gyakran hosszabbnak tűnnek.",
                 "ro": "În frig, distanțele din centru par adesea mai lungi.",
-                "en": "In the cold, distances in the center often feel longer."
+                "en": "In the cold, distances in the center often feel longer.",
+                "hr": "Na hladnoći udaljenosti u centru često se čine dužima."
               }
             },
             {
@@ -2181,7 +2370,8 @@
                 "de": "Wählen Sie ein Restaurant mit einer Windschleuse am Eingang.",
                 "hu": "Válasszon olyan éttermet, amelynek szélfogója van a bejáratnál.",
                 "ro": "Alegeți un restaurant care are o zonă tampon la intrare.",
-                "en": "Choose a restaurant with a draft lobby at the entrance."
+                "en": "Choose a restaurant with a draft lobby at the entrance.",
+                "hr": "Izaberite restoran s predvorjem koje sprječava propuh na ulazu."
               }
             },
             {
@@ -2190,7 +2380,8 @@
                 "de": "Beachten Sie, dass Busse im Winter manchmal leichte Verspätungen haben.",
                 "hu": "Vegye figyelembe, hogy a buszok télen néha kisebb késéssel járhatnak.",
                 "ro": "Rețineți că autobuzele pot avea uneori mici întârzieri iarna.",
-                "en": "Keep in mind that buses may occasionally have slight delays in winter."
+                "en": "Keep in mind that buses may occasionally have slight delays in winter.",
+                "hr": "Imajte na umu da autobusi zimi ponekad imaju blaga kašnjenja."
               }
             },
             {
@@ -2199,7 +2390,8 @@
                 "de": "Bewahren Sie Ihr Ticket griffbereit auf, um die Hände in den Taschen zu lassen.",
                 "hu": "Tartsa a jegyét kéznél, hogy a kezét a zsebében tarthassa.",
                 "ro": "Păstrați biletul la îndemână pentru a vă putea ține mâinile în buzunare.",
-                "en": "Keep your ticket handy so you can keep your hands in your pockets."
+                "en": "Keep your ticket handy so you can keep your hands in your pockets.",
+                "hr": "Držite kartu pri ruci kako biste mogli držati ruke u džepovima."
               }
             },
             {
@@ -2208,7 +2400,8 @@
                 "de": "Die Bushaltestellen sind ideale Punkte, um sich kurz unterzustellen.",
                 "hu": "A buszmegállók ideális pontok egy rövid szél elleni védelemre.",
                 "ro": "Stațiile de autobuz sunt puncte ideale pentru a vă adăposti scurt de vânt.",
-                "en": "Bus stops are ideal points for a quick shelter from the wind."
+                "en": "Bus stops are ideal points for a quick shelter from the wind.",
+                "hr": "Autobusna stajališta su idealna mjesta za kratki zaklon od vjetra."
               }
             },
             {
@@ -2217,7 +2410,8 @@
                 "de": "Planen Sie den Rückweg zum Bahnhof rechtzeitig vor Sonnenuntergang.",
                 "hu": "Tervezze meg a visszautat az állomásra még naplemente előtt.",
                 "ro": "Planificați drumul de întoarcere la gară înainte de apusul soarelui.",
-                "en": "Plan your return trip to the station well before sunset."
+                "en": "Plan your return trip to the station well before sunset.",
+                "hr": "Isplanirajte povratak na kolodvor dobro prije zalaska sunca."
               }
             }
           ],
@@ -2249,6 +2443,13 @@
               "Wear warm socks as feet can get cold quickly while waiting.",
               "Use the early evening hours to enjoy the illuminated city center.",
               "Schedules may be restricted during winter public holidays."
+            ],
+            "hr": [
+              "Pričekajte u grijanim zatvorenim prostorima sve do pred polazak.",
+              "Autobusi su obično udobno grijani tijekom zime.",
+              "Nosite tople čarape jer noge brzo mogu postati hladne dok čekate.",
+              "Iskoristite rane večernje sate za uživanje u osvijetljenom centru grada.",
+              "Rasporedi vožnje mogu biti ograničeni tijekom zimskih državnih praznika."
             ]
           }
         }
