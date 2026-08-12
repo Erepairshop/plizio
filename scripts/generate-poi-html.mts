@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Static HTML generator for POI pages.
  *
  * Why: Next.js `output:export` hits a V8 spread-arg limit (~65k) when
@@ -248,11 +248,23 @@ try {
     if (fs.existsSync(fp)) FAQS = JSON.parse(fs.readFileSync(fp, "utf-8"));
   }
 } catch {}
-// hr FAQ is a separate native set (different questions), populated from the
-// poi-hr-native.json merge below; renderFAQ uses it for lang === "hr".
-const HR_FAQS: Record<string, FAQItem[]> = {};
-const IT_FAQS: Record<string, FAQItem[]> = {};
-const ES_FAQS: Record<string, FAQItem[]> = {};
+// Native FAQ sets are separate from the 4-lang FAQS: a native run writes its own
+// questions rather than translating the shared ones, so renderFAQ prefers the
+// native set for that language and falls back to FAQS. Populated by the
+// poi-hr-native.json merge and the i18n sidecar merge below.
+const NATIVE_FAQS: Partial<Record<Lang, Record<string, FAQItem[]>>> = {};
+// Curated factual additions for native pages where the source fact is useful in
+// FAQ form but is not present in the shared FAQ shard.
+const NATIVE_EXTRA_FAQS: Partial<Record<Lang, Record<string, FAQItem[]>>> = {
+  nl: {
+    "netherlands-heilo-cities-v2": [
+      {
+        q: { nl: "Sinds wanneer is Heiloo een belangrijke bedevaartplaats?" },
+        a: { nl: "Heiloo is sinds de 15e eeuw een belangrijke bedevaartplaats, vooral door het heiligdom Onze Lieve Vrouw ter Nood." },
+      },
+    ],
+  },
+};
 
 // Climate sidecar — 12-month normals (mean/max temp, precip mm) per 0.5° grid
 // cell (NASA POWER climatology). SSR "best time to visit" block; non-duplicate,
@@ -337,7 +349,9 @@ const REGION_BY_ID = new Map<string, POI>((regions as POI[]).map((r) => [r.id, r
 const FAQ_HEAD: Record<string, string> = {
   de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
   en: "Frequently asked questions", fr: "Questions fréquentes", tr: "Sıkça sorulan sorular",
-  hr: "Često postavljana pitanja", it: "Domande frequenti", es: "Preguntas frecuentes",
+  hr: "Često postavljana pitanja", it: "Domande frequenti", es: "Preguntas frecuentes", nl: "Veelgestelde vragen",
+  cs: "Často kladené otázky", sk: "Často kladené otázky", da: "Ofte stillede spørgsmål", sv: "Vanliga frågor",
+  fi: "Usein kysytyt kysymykset", el: "Συχνές ερωτήσεις", bg: "Често задавани въпроси",
 };
 const FAQ_CHEV = `<svg class="plz-faq-chev" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg>`;
 function pickFaqStr(o: Record<string, unknown> | undefined, lang: Lang): string {
@@ -349,16 +363,14 @@ function pickFaqStr(o: Record<string, unknown> | undefined, lang: Lang): string 
   return "";
 }
 function renderFAQ(poi: POI, lang: Lang): string {
-  const items = lang === "es" && ES_FAQS[poi.id]
-    ? ES_FAQS[poi.id]
-    : lang === "it" && IT_FAQS[poi.id]
-      ? IT_FAQS[poi.id]
-    : (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
+  const items = NATIVE_FAQS[lang]?.[poi.id] ?? FAQS[poi.id];
   if (!items || items.length === 0) return "";
   const heading: Record<string, string> = {
     de: "Häufige Fragen", hu: "Gyakori kérdések", ro: "Întrebări frecvente",
     en: "Frequently asked questions", fr: "Questions fréquentes", tr: "Sıkça sorulan sorular",
-    hr: "Često postavljana pitanja", it: "Domande frequenti", es: "Preguntas frecuentes",
+    hr: "Često postavljana pitanja", it: "Domande frequenti", es: "Preguntas frecuentes", nl: "Veelgestelde vragen",
+    cs: "Často kladené otázky", sk: "Často kladené otázky", da: "Ofte stillede spørgsmål", sv: "Vanliga frågor",
+    fi: "Usein kysytyt kysymykset", el: "Συχνές ερωτήσεις", bg: "Често задавани въпроси",
   };
   const head = heading[lang] || heading.en!;
   const accordion = items.map((it, i) => {
@@ -479,7 +491,9 @@ const SIGHTPAGE_SLUG: Record<string, string> = { de: "sehenswuerdigkeiten", hu: 
 // Beach-hub link (build-beach-hub.mts): only the 17 countries with a beach hub.
 // URL = /<navLang>/<countryKey>/<bslug>/ (key == countryId for these; all 4 langs exist).
 const BEACH_HUB_KEYS = new Set(["croatia","spain","france","italy","portugal","united-kingdom","greece","denmark","germany","sweden","cyprus","norway","ireland","turkey","estonia","poland","finland"]);
-const BEACH_HUB_BSLUG: Record<string, string> = { de: "straende", hu: "strandok", ro: "plaje", en: "beaches", it: "spiagge" };
+// Only the langs build-beach-hub.mts actually emits. `it: "spiagge"` used to be
+// here, but no such page is generated — the CTA linked a 404 on Italian pages.
+const BEACH_HUB_BSLUG: Record<string, string> = { de: "straende", hu: "strandok", ro: "plaje", en: "beaches" };
 const BEACH_HUB_LABEL: Record<string, string> = { de: "Schönste Strände", hu: "Legszebb strandok", ro: "Cele mai frumoase plaje", en: "Most beautiful beaches", fr: "Plus belles plages", tr: "En güzel plajlar", hr: "Najljepše plaže", it: "Spiagge più belle" };
 // Cross-link index, grouped by PARENT POI: { parentPoi: [{slug,lat,lng,names[]}] }.
 // Matching happens WITHIN the known parent (by normalized name for Latin sights,
@@ -550,7 +564,29 @@ try {
 } catch {}
 // Build a global id→POI lookup for cross-referencing (e.g. sight name internal links).
 const allById = new Map<string, POI>(pois.filter(p => p?.id).map(p => [p.id, p]));
-type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es";
+type Lang = "de" | "hu" | "ro" | "en" | "fr" | "tr" | "hr" | "it" | "es" | "pt" | "pl" | "nl" | "cs" | "sk" | "da" | "sv" | "fi" | "el" | "bg";
+
+// Native language → the country whose POIs may carry it. Single source of truth
+// for the sidecar merges below; keep in sync with extraLangsFor() in lib/seo/slugs
+// and with NATIVE_LANGS in scripts/build-seo-index.mts, or the sitemap and the
+// generator disagree about which pages exist (that mismatch is how 404s appear).
+const NATIVE_LANGS = [
+  ["it", "italy"],
+  ["es", "spain"],
+  ["pt", "portugal"],
+  ["fr", "france"],
+  ["tr", "germany"],
+  ["hr", "croatia"],
+  ["pl", "poland"],
+  ["nl", "netherlands"],
+  ["cs", "czech-republic"],
+  ["sk", "slovakia"],
+  ["da", "denmark"],
+  ["sv", "sweden"],
+  ["fi", "finland"],
+  ["el", "greece"],
+  ["bg", "bulgaria"],
+] as const satisfies ReadonlyArray<readonly [Lang, string]>;
 
 // hr = native Croatian: merge the poi-hr-native.json sidecar INTO each POI's
 // Record<Lang> fields (name/description/descriptionAdvanced/facts/sights) + faq, so
@@ -570,10 +606,10 @@ try {
       if (Array.isArray(hr.facts) && hr.facts.length) { p.facts = p.facts || {}; p.facts.hr = hr.facts; }
       if (Array.isArray(hr.sights) && hr.sights.length) {
         p.sights = p.sights || {};
-        p.sights.hr = hr.sights.map((s) => ({ name: s.name, desc: s.desc, text: { hr: s.desc } }));
+        p.sights.hr = hr.sights.map((s) => ({ name: s.name, desc: s.desc, text: s.desc || "" }));
       }
       if (Array.isArray(hr.faq) && hr.faq.length) {
-        HR_FAQS[poi.id] = hr.faq.map((f) => ({ q: { hr: f.q } as any, a: { hr: f.a } as any }));
+        (NATIVE_FAQS.hr ||= {})[poi.id] = hr.faq.map((f) => ({ q: { hr: f.q } as any, a: { hr: f.a } as any }));
       }
       p.hrLong = true;
       merged++;
@@ -584,68 +620,45 @@ try {
   console.log(`[generate-poi-html] hr-native merge skipped: ${e?.message?.slice(0, 80)}`);
 }
 
-// Italian is country-scoped. Sidecars keep the native corpus out of the heavy
-// TypeScript POI modules while exposing it through the normal language renderer.
-try {
-  const itDir = path.resolve(process.cwd(), "public", "data", "i18n", "it");
-  if (fs.existsSync(itDir)) {
+// Country-scoped native languages. Sidecars keep the native corpus out of the
+// heavy TypeScript POI modules while exposing it through the normal per-lang
+// renderer. `fr` and `tr` previously had no sidecar path at all — their content
+// lived inline in the POI modules only — so an Azure run had nowhere to land.
+// The `hr` entry runs after the flat poi-hr-native.json merge above, letting a
+// sidecar override that older corpus field by field.
+for (const [lang, countryId] of NATIVE_LANGS) {
+  try {
+    const dir = path.resolve(process.cwd(), "public", "data", "i18n", lang);
+    if (!fs.existsSync(dir)) continue;
     let merged = 0;
     for (const poi of pois) {
-      if (!poi.parent?.startsWith("IT")) continue;
-      const itPath = path.join(itDir, `${poi.id}.json`);
-      if (!fs.existsSync(itPath)) continue;
-      const it = JSON.parse(fs.readFileSync(itPath, "utf-8")) as {
+      // Country id, not an ISO prefix: native POIs sit under semantic parents
+      // such as `france`, `city-lyon` or `reg-bretagne` too.
+      if (!poi.parent || slugs.getCountryIdStrict(poi.parent) !== countryId) continue;
+      const file = path.join(dir, `${poi.id}.json`);
+      if (!fs.existsSync(file)) continue;
+      const native = JSON.parse(fs.readFileSync(file, "utf-8")) as {
         name?: string; description?: string; descAdv?: string;
         descriptionAdvanced?: string; facts?: string[];
+        sights?: { sourceName?: string; name?: string; desc?: string }[];
         faq?: { q: string; a: string }[];
       };
       const p = poi as unknown as Record<string, any>;
-      if (it.name) { p.name = p.name || {}; p.name.it = it.name; }
-      if (it.description) { p.description = p.description || {}; p.description.it = it.description; }
-      const advanced = it.descriptionAdvanced || it.descAdv;
-      if (advanced) { p.descriptionAdvanced = p.descriptionAdvanced || {}; p.descriptionAdvanced.it = advanced; }
-      if (Array.isArray(it.facts) && it.facts.length) { p.facts = p.facts || {}; p.facts.it = it.facts; }
-      if (Array.isArray(it.faq) && it.faq.length) {
-        IT_FAQS[poi.id] = it.faq.map((f) => ({ q: { it: f.q }, a: { it: f.a } }));
+      if (native.name) { p.name = p.name || {}; p.name[lang] = native.name; }
+      if (native.description) { p.description = p.description || {}; p.description[lang] = native.description; }
+      const advanced = native.descriptionAdvanced || native.descAdv;
+      if (advanced) { p.descriptionAdvanced = p.descriptionAdvanced || {}; p.descriptionAdvanced[lang] = advanced; }
+      if (Array.isArray(native.facts) && native.facts.length) { p.facts = p.facts || {}; p.facts[lang] = native.facts; }
+      if (Array.isArray(native.faq) && native.faq.length) {
+        (NATIVE_FAQS[lang] ||= {})[poi.id] = native.faq.map((f) => ({ q: { [lang]: f.q }, a: { [lang]: f.a } }));
       }
+      p[`${lang}Long`] = true;
       merged++;
     }
-    console.log(`[generate-poi-html] it-native merged into ${merged} POIs`);
+    console.log(`[generate-poi-html] ${lang}-native merged into ${merged} POIs`);
+  } catch (e: any) {
+    console.log(`[generate-poi-html] ${lang}-native merge skipped: ${e?.message?.slice(0, 80)}`);
   }
-} catch (e: any) {
-  console.log(`[generate-poi-html] it-native merge skipped: ${e?.message?.slice(0, 80)}`);
-}
-
-// Spanish is country-scoped, using the same sidecar format as Italian.
-try {
-  const esDir = path.resolve(process.cwd(), "public", "data", "i18n", "es");
-  if (fs.existsSync(esDir)) {
-    let merged = 0;
-    for (const poi of pois) {
-      if (!poi.parent?.startsWith("ES")) continue;
-      const esPath = path.join(esDir, `${poi.id}.json`);
-      if (!fs.existsSync(esPath)) continue;
-      const es = JSON.parse(fs.readFileSync(esPath, "utf-8")) as {
-        name?: string; description?: string; descAdv?: string;
-        descriptionAdvanced?: string; facts?: string[];
-        faq?: { q: string; a: string }[];
-      };
-      const p = poi as unknown as Record<string, any>;
-      if (es.name) { p.name = p.name || {}; p.name.es = es.name; }
-      if (es.description) { p.description = p.description || {}; p.description.es = es.description; }
-      const advanced = es.descriptionAdvanced || es.descAdv;
-      if (advanced) { p.descriptionAdvanced = p.descriptionAdvanced || {}; p.descriptionAdvanced.es = advanced; }
-      if (Array.isArray(es.facts) && es.facts.length) { p.facts = p.facts || {}; p.facts.es = es.facts; }
-      if (Array.isArray(es.faq) && es.faq.length) {
-        ES_FAQS[poi.id] = es.faq.map((f) => ({ q: { es: f.q }, a: { es: f.a } }));
-      }
-      p.esLong = true;
-      merged++;
-    }
-    console.log(`[generate-poi-html] es-native merged into ${merged} POIs`);
-  }
-} catch (e: any) {
-  console.log(`[generate-poi-html] es-native merge skipped: ${e?.message?.slice(0, 80)}`);
 }
 
 // Merge OSM-extra sights (public/data/_sights_extra.json) into THIN POIs that
@@ -698,6 +711,73 @@ if (Object.keys(SIGHTS_EXTRA).length) {
     if (rem > 0) { p.sights = obj; removed += rem; poisHit++; }
   }
   console.log(`[generate-poi-html] sight clean: romanized ${romanized} names; junk+cap${CAP} removed ${removed} across ${poisHit} POIs`);
+}
+
+// Native sight translations are extracted from the already-cleaned English HTML.
+// Merge them after the common clean pass so translated cards retain coordinates,
+// categories, Street View availability and internal-link metadata from the source.
+for (const [lang, countryId] of NATIVE_LANGS) {
+  const dir = path.resolve(process.cwd(), "public", "data", "i18n", lang);
+  if (!fs.existsSync(dir)) continue;
+  let merged = 0;
+  const norm = (value: unknown) => String(value || "").normalize("NFKD").replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "");
+  for (const poi of pois) {
+    // Country id, not an ISO prefix: PT POIs sit under `PT`, `portugal`,
+    // `city-lisboa`, `reg-algarve`… so a prefix test dropped a third of them.
+    if (!poi.parent || slugs.getCountryIdStrict(poi.parent) !== countryId) continue;
+    const file = path.join(dir, `${poi.id}.json`);
+    if (!fs.existsSync(file)) continue;
+    const native = JSON.parse(fs.readFileSync(file, "utf-8")) as {
+      sights?: { sourceName?: string; name?: string; desc?: string }[];
+    };
+    if (!Array.isArray(native.sights) || !native.sights.length) continue;
+    const p = poi as unknown as { sights?: Record<string, any[]> };
+    const source = p.sights?.en || p.sights?.de || [];
+    const byName = new Map(source.map((s: any) => [norm(s?.name), s]));
+    p.sights ||= {};
+    p.sights[lang] = native.sights.map((translated, index) => {
+      const base = byName.get(norm(translated.sourceName)) || source[index] || {};
+      return {
+        ...base,
+        name: translated.name || base.name || translated.sourceName || "",
+        text: translated.desc || base.text || "",
+      };
+    });
+    merged++;
+  }
+  console.log(`[generate-poi-html] ${lang}-native sights merged into ${merged} POIs`);
+}
+
+// Fill only genuinely empty sight descriptions. The compact override is produced
+// from a rendered-page audit, so core POI modules remain untouched and reruns are deterministic.
+try {
+  const overridePath = path.resolve(process.cwd(), "public", "data", "sight-description-overrides.json");
+  if (fs.existsSync(overridePath)) {
+    const overrides: Record<string, Array<{ sourceName?: string; text?: Record<string, string> }>> =
+      JSON.parse(fs.readFileSync(overridePath, "utf-8"));
+    const norm = (value: unknown) => String(value || "").normalize("NFKD")
+      .replace(/[\u0300-\u036f]/g, "").toLowerCase().replace(/[^a-z0-9]/g, "");
+    let filled = 0;
+    for (const poi of pois) {
+      const additions = overrides[poi.id];
+      const sightSets = (poi as unknown as { sights?: Record<string, any[]> }).sights;
+      if (!additions?.length || !sightSets) continue;
+      const source = sightSets.en || sightSets.de || [];
+      for (const addition of additions) {
+        const sourceIndex = source.findIndex((s: any) => norm(s?.name) === norm(addition.sourceName));
+        if (sourceIndex < 0) continue;
+        for (const [lang, description] of Object.entries(addition.text || {})) {
+          const item = sightSets[lang]?.[sourceIndex];
+          if (!item || item.text) continue;
+          item.text = description;
+          filled++;
+        }
+      }
+    }
+    console.log(`[generate-poi-html] filled ${filled} missing sight descriptions from overrides`);
+  }
+} catch (e: any) {
+  console.log(`[generate-poi-html] sight description overrides skipped: ${e?.message?.slice(0, 100)}`);
 }
 
 const SITE_URL = "https://plizio.com";
@@ -945,6 +1025,14 @@ const AUTO_FAQ: Record<string, {
   hr: { whereQ: (n) => `${n}: gdje se nalazi?`, whereA: (n, l) => `${n} se nalazi u ${l}.`, whatQ: (n) => `${n}: što vidjeti?`, whatA: (l) => `Među znamenitostima su ${l}.`, whenQ: (n) => `${n}: kada je najbolje posjetiti?`, whenA: (b) => `Najugodnije je razdoblje ${b}.`, whyQ: (n) => `${n}: zašto posjetiti?` },
   it: { whereQ: (n) => `${n}: dove si trova?`, whereA: (n, l) => `${n} si trova in ${l}.`, whatQ: (n) => `${n}: cosa vedere?`, whatA: (l) => `Tra le attrazioni principali ci sono ${l}.`, whenQ: (n) => `${n}: qual è il periodo migliore?`, whenA: (b) => `Il periodo più piacevole per una visita è ${b}.`, whyQ: (n) => `${n}: perché vale la pena visitarlo?` },
   es: { whereQ: (n) => `${n}: ¿dónde está?`, whereA: (n, l) => `${n} se encuentra en ${l}.`, whatQ: (n) => `${n}: ¿qué se puede ver?`, whatA: (l) => `Entre los lugares destacados se encuentran ${l}.`, whenQ: (n) => `${n}: ¿cuál es la mejor época para visitarlo?`, whenA: (b) => `La época más agradable para visitarlo es ${b}.`, whyQ: (n) => `${n}: ¿por qué merece una visita?` },
+  nl: { whereQ: (n) => `${n}: waar ligt het?`, whereA: (n, l) => `${n} ligt in ${l}.`, whatQ: (n) => `${n}: wat is er te zien?`, whatA: (l) => `De belangrijkste bezienswaardigheden zijn ${l}.`, whenQ: (n) => `${n}: wanneer is de beste reistijd?`, whenA: (b) => `De aangenaamste periode voor een bezoek is ${b}.`, whyQ: (n) => `${n}: waarom is het een bezoek waard?` },
+  cs: { whereQ: (n) => `${n}: kde se nachází?`, whereA: (n, l) => `${n} se nachází v oblasti ${l}.`, whatQ: (n) => `${n}: co zde můžete vidět?`, whatA: (l) => `Mezi hlavní zajímavosti patří ${l}.`, whenQ: (n) => `${n}: kdy je nejlepší doba k návštěvě?`, whenA: (b) => `Nejpříjemnější období je ${b}.`, whyQ: (n) => `${n}: proč stojí za návštěvu?` },
+  sk: { whereQ: (n) => `${n}: kde sa nachádza?`, whereA: (n, l) => `${n} sa nachádza v oblasti ${l}.`, whatQ: (n) => `${n}: čo tu môžete vidieť?`, whatA: (l) => `Medzi hlavné atrakcie patria ${l}.`, whenQ: (n) => `${n}: kedy je najlepší čas na návštevu?`, whenA: (b) => `Najpríjemnejšie obdobie je ${b}.`, whyQ: (n) => `${n}: prečo sa oplatí navštíviť?` },
+  da: { whereQ: (n) => `${n}: hvor ligger det?`, whereA: (n, l) => `${n} ligger i ${l}.`, whatQ: (n) => `${n}: hvad kan man se?`, whatA: (l) => `Blandt seværdighederne er ${l}.`, whenQ: (n) => `${n}: hvornår er det bedst at besøge stedet?`, whenA: (b) => `Det mest behagelige tidspunkt er ${b}.`, whyQ: (n) => `${n}: hvorfor er det et besøg værd?` },
+  sv: { whereQ: (n) => `${n}: var ligger det?`, whereA: (n, l) => `${n} ligger i ${l}.`, whatQ: (n) => `${n}: vad kan man se?`, whatA: (l) => `Bland sevärdheterna finns ${l}.`, whenQ: (n) => `${n}: när är bästa tiden att besöka platsen?`, whenA: (b) => `Den behagligaste perioden är ${b}.`, whyQ: (n) => `${n}: varför är det värt ett besök?` },
+  fi: { whereQ: (n) => `${n}: missä se sijaitsee?`, whereA: (n, l) => `${n} sijaitsee alueella ${l}.`, whatQ: (n) => `${n}: mitä siellä voi nähdä?`, whatA: (l) => `Nähtävyyksiin kuuluvat ${l}.`, whenQ: (n) => `${n}: milloin on paras aika vierailla?`, whenA: (b) => `Miellyttävin ajanjakso on ${b}.`, whyQ: (n) => `${n}: miksi siellä kannattaa vierailla?` },
+  el: { whereQ: (n) => `${n}: πού βρίσκεται;`, whereA: (n, l) => `Το ${n} βρίσκεται στην περιοχή ${l}.`, whatQ: (n) => `${n}: τι μπορείτε να δείτε;`, whatA: (l) => `Στα αξιοθέατα περιλαμβάνονται ${l}.`, whenQ: (n) => `${n}: πότε είναι η καλύτερη εποχή για επίσκεψη;`, whenA: (b) => `Η πιο ευχάριστη περίοδος είναι ${b}.`, whyQ: (n) => `${n}: γιατί αξίζει να το επισκεφθείτε;` },
+  bg: { whereQ: (n) => `${n}: къде се намира?`, whereA: (n, l) => `${n} се намира в района на ${l}.`, whatQ: (n) => `${n}: какво може да се види?`, whatA: (l) => `Сред забележителностите са ${l}.`, whenQ: (n) => `${n}: кога е най-доброто време за посещение?`, whenA: (b) => `Най-приятният период е ${b}.`, whyQ: (n) => `${n}: защо си заслужава посещението?` },
 };
 
 function buildAutoFaq(
@@ -1387,6 +1475,19 @@ function countryMapUrl(countryId: string): string | null {
   return null;
 }
 
+function localizedCountryMapUrl(countryId: string, lang: Lang): string | null {
+  const mapUrl = countryMapUrl(countryId);
+  if (!mapUrl) return null;
+  const mapLang = lang === "it" && countryId === "italy"
+    ? "it"
+    : lang === "es" && countryId === "spain"
+      ? "es"
+      : lang === "de" || lang === "hu" || lang === "ro" || lang === "en"
+        ? lang
+        : "en";
+  return mapLang === "hu" ? mapUrl : `${mapUrl}${mapLang}/`;
+}
+
 const MAP_QUIZ_AVAILABILITY = new Map<string, boolean>();
 function countryMapQuizUrl(countryId: string, lang: Lang): string | null {
   const mapUrl = countryMapUrl(countryId);
@@ -1402,10 +1503,7 @@ function countryMapQuizUrl(countryId: string, lang: Lang): string | null {
   }
   if (!available) return null;
 
-  const quizLang = lang === "de" || lang === "hu" || lang === "ro" || lang === "en"
-    ? lang
-    : "en";
-  return quizLang === "hu" ? mapUrl : `${mapUrl}${quizLang}/`;
+  return localizedCountryMapUrl(countryId, lang);
 }
 
 function escapeHtml(s: any): string {
@@ -1464,24 +1562,9 @@ const TRUST_T: Record<string, { team: string; updated: string }> = {
   it: { team: "Redazione Plizio", updated: "Aggiornato" },
 };
 // Theme-agnostic (opacity + color:inherit) so it adapts to the page's text color.
-function buildPostcardHref(poi: POI, lang: Lang, countryId: string): string {
-  const placeName = getLocalized(poi.name, lang) ?? poi.id;
-  const countryName = slugs.localizedCountryName(countryId, lang);
-  const params = new URLSearchParams({ place: String(placeName), country: countryName, lang });
-  if (poi.coords && Number.isFinite(poi.coords[0]) && Number.isFinite(poi.coords[1])) {
-    params.set("lat", Number(poi.coords[1]).toFixed(5));
-    params.set("lng", Number(poi.coords[0]).toFixed(5));
-  }
-  if (poi.type) params.set("kind", String(poi.type));
-  for (const postcardLang of SUPPORTED_LANGS) {
-    params.set(`place_${postcardLang}`, String(getLocalized(poi.name, postcardLang) ?? placeName));
-    params.set(`country_${postcardLang}`, slugs.localizedCountryName(countryId, postcardLang));
-  }
-  return `/postcard/?${params.toString()}`;
-}
-
 function renderPostcardCta(poi: POI, lang: Lang, countryId: string): string {
   const placeName = getLocalized(poi.name, lang) ?? poi.id;
+  const countryName = slugs.localizedCountryName(countryId, lang);
   const COPY: Partial<Record<Lang, { eyebrow: string; title: string; body: string; button: string; stamp: string }>> = {
     de: { eyebrow: "Deine Reise, deine Erinnerung", title: `Eine Postkarte aus ${placeName}`, body: "Gestalte aus deinem eigenen Foto eine persönliche Postkarte mit Ortsstempel. Kostenlos und ohne Anmeldung.", button: "Postkarte gestalten", stamp: "Grüße aus" },
     hu: { eyebrow: "A te utazásod, a te emléked", title: `Képeslap innen: ${placeName}`, body: "Készíts saját fotódból személyes képeslapot helybélyegzővel. Ingyenes, és regisztráció sem kell hozzá.", button: "Képeslap készítése", stamp: "Üdvözlet innen" },
@@ -1495,7 +1578,12 @@ function renderPostcardCta(poi: POI, lang: Lang, countryId: string): string {
   const fallback = COPY[lang] || COPY.en!;
   const t = poiHtmlUiSection(lang, "postcard", fallback);
   t.title = poiHtmlUiText(lang, "postcard.title", fallback.title, { place: placeName });
-  const href = buildPostcardHref(poi, lang, countryId);
+  const params = new URLSearchParams({ place: String(placeName), country: countryName, lang });
+  for (const postcardLang of SUPPORTED_LANGS) {
+    params.set(`place_${postcardLang}`, String(getLocalized(poi.name, postcardLang) ?? placeName));
+    params.set(`country_${postcardLang}`, slugs.localizedCountryName(countryId, postcardLang));
+  }
+  const href = `/postcard/?${params.toString()}`;
   return `<section class="plz-postcard-cta" aria-labelledby="plz-postcard-title">
   <div class="plz-postcard-copy">
     <p class="plz-postcard-eyebrow">${escapeHtml(t.eyebrow)}</p>
@@ -1947,6 +2035,7 @@ const PRACTICAL_COPY: Record<string, Record<string, string>> = {
   tr: { title: "📋 Pratik bilgiler", address: "Adres", openingHours: "Çalışma saatleri", entranceFee: "Giriş", website: "Resmi site", publicTransport: "Toplu taşıma", parking: "Otopark", accessibility: "Erişilebilirlik", photoRules: "Fotoğraf", bestTimeToVisit: "En iyi zaman", audioGuide: "Sesli rehber" },
   hr: { title: "📋 Praktične informacije", address: "Adresa", openingHours: "Radno vrijeme", entranceFee: "Ulaznica", website: "Službena stranica", publicTransport: "Javni prijevoz", parking: "Parking", accessibility: "Pristupačnost", photoRules: "Fotografiranje", bestTimeToVisit: "Najbolje vrijeme", audioGuide: "Audiovodič" },
   it: { title: "📋 Informazioni pratiche", address: "Indirizzo", openingHours: "Orari", entranceFee: "Ingresso", website: "Sito ufficiale", publicTransport: "Trasporto pubblico", parking: "Parcheggio", accessibility: "Accessibilità", photoRules: "Fotografie", bestTimeToVisit: "Periodo migliore", audioGuide: "Audioguida" },
+  es: { title: "📋 Información práctica", address: "Dirección", openingHours: "Horario", entranceFee: "Entrada", website: "Sitio oficial", publicTransport: "Transporte público", parking: "Aparcamiento", accessibility: "Accesibilidad", photoRules: "Fotografía", bestTimeToVisit: "Mejor momento", audioGuide: "Audioguía" },
 };
 
 // Pinfo v1: tipus-csaladonkenti mezok (lasd _build_pinfo_full.py)
@@ -1971,6 +2060,7 @@ const PINFO_LABELS: Record<string, Record<string, string>> = {
   tr: { access: "Ulaşım", season: "En iyi mevsim", terrain: "Arazi ve yollar", gear: "Ekipman", parking: "Otopark", safety: "Güvenlik", duration: "Gerekli süre", visiting: "Ziyaret", hours_hint: "Olağan saatler", photo: "Fotoğraf", combine: "Birlikte gezilebilir", tip: "Yerel ipucu", time_of_day: "En iyi zaman", rules: "Davranış kuralları", patience_tip: "Gerçekçi beklenti", what_role: "Burası nedir?", visitability: "Ziyaret", viewpoint: "Nereden izlenir", local_products: "Yerel ürünler", when_active: "Aktif sezon", nearby_combo: "Yakınında" },
   hr: { access: "Pristup", season: "Najbolja sezona", terrain: "Teren i staze", gear: "Oprema", parking: "Parking", safety: "Sigurnost", duration: "Potrebno vrijeme", visiting: "Posjet", hours_hint: "Uobičajeno radno vrijeme", photo: "Fotografiranje", combine: "Kombinirajte s", tip: "Lokalni savjet", time_of_day: "Najbolje doba dana", rules: "Pravila ponašanja", patience_tip: "Realna očekivanja", what_role: "Što je ovo mjesto?", visitability: "Posjet", viewpoint: "Odakle promatrati", local_products: "Lokalni proizvodi", when_active: "Aktivna sezona", nearby_combo: "U blizini" },
   it: { access: "Come arrivare", season: "Stagione migliore", terrain: "Terreno e sentieri", gear: "Cosa portare", parking: "Parcheggio", safety: "Sicurezza", duration: "Tempo necessario", visiting: "Visita", hours_hint: "Orari abituali", photo: "Fotografie", combine: "Da abbinare a", tip: "Consiglio locale", time_of_day: "Momento migliore", rules: "Regole di comportamento", patience_tip: "Cosa aspettarsi", what_role: "Che luogo è?", visitability: "Visita", viewpoint: "Punto panoramico", local_products: "Prodotti locali", when_active: "Stagione attiva", nearby_combo: "Nelle vicinanze" },
+  es: { access: "Cómo llegar", season: "Mejor época", terrain: "Terreno y senderos", gear: "Qué llevar", parking: "Aparcamiento", safety: "Seguridad", duration: "Tiempo necesario", visiting: "Visita", hours_hint: "Horario habitual", photo: "Fotografía", combine: "Combínalo con", tip: "Consejo local", time_of_day: "Mejor momento del día", rules: "Normas de conducta", patience_tip: "Qué esperar", what_role: "¿Qué es este lugar?", visitability: "Visita", viewpoint: "Dónde contemplarlo", local_products: "Productos locales", when_active: "Temporada activa", nearby_combo: "En los alrededores" },
 };
 
 function renderPracticalInfo(poi: POI, lang: Lang): string {
@@ -2226,6 +2316,7 @@ function renderInfoCard(poi: POI, lang: Lang, countryId: string): string {
     tr: { title: "Pratik bilgiler", wx: "Hava — 5 gün", near: "Çevrede", tips: "İpuçları", gastro: "Yeme-içme", shop: "Alışveriş", quiet: "Sakin yerler", fei: "Tatil", feiWarn: "resmî tatil — birçok dükkân kapalı olabilir!", feiNone: "Önümüzdeki 5 günde resmi tatil yok." },
     hr: { title: "Praktične informacije", wx: "Vrijeme — 5 dana", near: "U okolici", tips: "Savjeti", gastro: "Gastro", shop: "Kupovina", quiet: "Mirna mjesta", fei: "Blagdan", feiWarn: "blagdan — mnoge trgovine mogu biti zatvorene!", feiNone: "Nema blagdana u sljedećih 5 dana." },
     it: { title: "Informazioni pratiche", wx: "Meteo — 5 giorni", near: "Nei dintorni", tips: "Consigli", gastro: "Gastronomia", shop: "Shopping", quiet: "Luoghi tranquilli", fei: "Festività", feiWarn: "giorno festivo — molti negozi potrebbero essere chiusi!", feiNone: "Nessuna festività nazionale nei prossimi 5 giorni." },
+    es: { title: "Información práctica", wx: "Tiempo — 5 días", near: "En los alrededores", tips: "Consejos", gastro: "Comida", shop: "Compras", quiet: "Lugares tranquilos", fei: "Festivo", feiWarn: "festivo — muchas tiendas pueden estar cerradas", feiNone: "No hay festivos nacionales en los próximos 5 días." },
   };
   const t = T[lang] || T.en;
   // City-tips sidecar (build-time bake). Always render when present — the city-info
@@ -3062,8 +3153,6 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const countryId = getCountryId(poi.parent);
   // Lokalizalt, helyesen irt orszagnev (nem nyers slug) — SEO title/h1/breadcrumb/alt
   const countryName = slugs.localizedCountryName(countryId, lang);
-  const postcardHeaderHref = buildPostcardHref(poi, lang, countryId);
-  const postcardHeaderLabel = poiHtmlUiText(lang, "postcard.button", "Create a postcard");
   // Belso link a "Top 50 Sehenswuerdigkeiten" hubra (reciprok: a hub linkel a POI-kra,
   // a POI vissza a hubra -> topikus-szulo link + a hub authority-jat erositi).
   const _hubSlug = sightsHubSlug(countryId, lang);
@@ -3117,11 +3206,13 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // On extra-lang pages (fr/tr/hr) those landing URLs 404 → link them to `en`
   // (which exists) instead. The POI page itself stays in `lang`. (2026-06-12:
   // ~40k broken internal links came from extra-lang breadcrumb/home/footer.)
-  const hasNativeLanding = (lang === "it" && countryId === "italy") || (lang === "es" && countryId === "spain");
+  const hasNativeLanding = (lang === "it" && countryId === "italy") || (lang === "es" && countryId === "spain") || (lang === "pt" && countryId === "portugal") || (lang === "nl" && countryId === "netherlands");
   const navLang: Lang = SUPPORTED_LANGS.includes(lang) || hasNativeLanding ? lang : ("en" as Lang);
   // Beach-hub CTA (reciprocal internal link) for countries that have a beach hub.
-  const beachHubLinkHtml = BEACH_HUB_KEYS.has(countryId)
-    ? `<a class="plz-cta plz-cta-hub" href="/${navLang}/${countryId}/${BEACH_HUB_BSLUG[navLang] || "beaches"}/">${BEACH_HUB_LABEL[lang] || BEACH_HUB_LABEL.en} →</a>`
+  // Beach hubs are built for the 4 core langs only (it/es/pt landing pages keep
+  // navLang), so skip the CTA when that lang has no hub instead of linking a 404.
+  const beachHubLinkHtml = BEACH_HUB_KEYS.has(countryId) && BEACH_HUB_BSLUG[navLang]
+    ? `<a class="plz-cta plz-cta-hub" href="/${navLang}/${countryId}/${BEACH_HUB_BSLUG[navLang]}/">${BEACH_HUB_LABEL[lang] || BEACH_HUB_LABEL.en} →</a>`
     : "";
   const breadcrumbHome = `<a href="/${navLang}/">${I("home", lang)}</a>`;
   const breadcrumbCountry = `<a href="${buildCountryPath(navLang, countryId)}">${countryName}</a>`;
@@ -3267,11 +3358,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
     }
   };
   // 1) sharded FAQS (primary, LLM-authored) — same source renderFAQ used.
-  const _shardFaqs = lang === "es" && ES_FAQS[poi.id]
-    ? ES_FAQS[poi.id]
-    : lang === "it" && IT_FAQS[poi.id]
-      ? IT_FAQS[poi.id]
-    : (lang === "hr" && HR_FAQS[poi.id]) ? HR_FAQS[poi.id] : FAQS[poi.id];
+  const _shardFaqs = [
+    ...(NATIVE_FAQS[lang]?.[poi.id] ?? FAQS[poi.id] ?? []),
+    ...(NATIVE_EXTRA_FAQS[lang]?.[poi.id] ?? []),
+  ];
   if (Array.isArray(_shardFaqs)) for (const it of _shardFaqs) _pushFaq(pickFaqStr(it.q, lang), pickFaqStr(it.a, lang));
   // 2) inline poi.faq (legacy/embedded).
   if (Array.isArray(poi.faq)) {
@@ -3812,10 +3902,11 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   }).join("");
 
   return `<!DOCTYPE html>
-<html lang="${lang}">
+<html lang="${lang}"${lang === "it" || lang === "nl" ? ' translate="no"' : ""}>
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+${lang === "it" || lang === "nl" ? '<meta name="google" content="notranslate"/>' : ""}
 <title>${escapeHtml(title)}</title>
 <meta name="description" content="${escapeHtml(metaDesc)}"/>
 ${richness.isEmpty ? `<meta name="robots" content="noindex,follow"/>` : ""}
@@ -3830,7 +3921,7 @@ ${heroImg ? `<meta property="og:image" content="${SITE_URL}${escapeHtml(heroImg)
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260812pcnav1"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260801hero1"/>
 ${structuredData(poi, lang, url, metaDesc, countryId, countryName, faqItems, [
   { name: I("home", lang), url: `/${navLang}/` },
   { name: countryName, url: buildCountryPath(navLang, countryId) },
@@ -3884,7 +3975,6 @@ ready();})();</script>
     <nav class="plz-nav">
       <a href="/${navLang}/">${I("home", lang)}</a>
       <a href="/europe-map/">Europa</a>
-      <a class="plz-postcard-nav" href="${escapeHtml(postcardHeaderHref)}" aria-label="${escapeHtml(postcardHeaderLabel)}"><span aria-hidden="true">&#9993;</span><span>${escapeHtml(postcardHeaderLabel)}</span></a>
     </nav>
     <div class="plz-langs">${langSwitcher}</div>
   </div>
@@ -3928,12 +4018,12 @@ ready();})();</script>
   </div>
   ${faqHtml}
   <section>
-    <a class="plz-cta" href="${countryMapUrl(countryId) ?? ((poi.parent !== countryId && stateRegion) ? buildStatePath(navLang, poi.parent) : buildCountryPath(navLang, countryId))}">${I("viewMap", lang)} →</a>
+    <a class="plz-cta" href="${localizedCountryMapUrl(countryId, lang) ?? ((poi.parent !== countryId && stateRegion) ? buildStatePath(navLang, poi.parent) : buildCountryPath(navLang, countryId))}">${I("viewMap", lang)} →</a>
     ${hubLinkHtml}
     ${beachHubLinkHtml}
     ${osmLink}
   </section>
-  ${renderExploreBlock({ poiId: poi.id, countryId, countryName: countryName, countryMapUrl: countryMapUrl(countryId), lang: lang as any })}
+  ${renderExploreBlock({ poiId: poi.id, countryId, countryName: countryName, countryMapUrl: localizedCountryMapUrl(countryId, lang), lang: lang as any })}
   ${relatedItems}
   ${renderMobileFab(poi, lang, name)}
 </main>
@@ -4235,7 +4325,7 @@ async function main() {
   const URL_INDEX_OUT: Record<string, Record<string, string>> = {};
 
   for (const poi of target) {
-    // FR POIs get an additional `fr` page; DE → `tr`; HR (hr-native) → `hr`.
+    // FR POIs get an additional `fr` page; DE → `tr`; HR (hr-native) → `hr`; PL → `pl`.
     const extraPoi = slugs.extraLangsFor(poi as any) as Lang[];
     const poiLangs: Lang[] = [...SUPPORTED_LANGS, ...extraPoi];
     for (const lang of poiLangs) {
@@ -4347,19 +4437,17 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
   const hostName = (host.name as any)?.[lang] || (host.name as any)?.de || host.id;
   const hostUrl = buildPoiPath(lang, host);
   const countryId = getCountryId(host.parent!);
-  const postcardHeaderHref = buildPostcardHref(host, lang, countryId);
-  const postcardHeaderLabel = poiHtmlUiText(lang, "postcard.button", "Create a postcard");
   const sightRelUrl = hostUrl.replace(/\/$/, "") + "/sight/" + data.slug + "/";
   const sightUrl = `${SITE_URL}${sightRelUrl}`;
   // Per-lang sight URL alternates (use buildPoiPath for each lang)
   const sightAlternates: Record<string, string> = Object.fromEntries(
-    SUPPORTED_LANGS.map((l) => [l, `${SITE_URL}${buildPoiPath(l, host).replace(/\/$/, "")}/sight/${data.slug}/`])
+    [...SUPPORTED_LANGS, ...slugs.extraLangsFor(host as any) as Lang[]].map((l) => [l, `${SITE_URL}${buildPoiPath(l, host).replace(/\/$/, "")}/sight/${data.slug}/`])
   );
   const hreflangLinks = Object.entries(sightAlternates)
     .map(([l, href]) => `<link rel="alternate" hreflang="${l}" href="${href}"/>`)
     .join("\n  ");
   // Lang switcher (4 langs only, no fr/tr for now)
-  const langSwitcher = SUPPORTED_LANGS.map((l) => {
+  const langSwitcher = [...SUPPORTED_LANGS, ...slugs.extraLangsFor(host as any) as Lang[]].map((l) => {
     const cls = l === lang ? ' class="active"' : "";
     const href = sightAlternates[l];
     return `<a href="${href}"${cls}>${l.toUpperCase()}</a>`;
@@ -4387,6 +4475,10 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
           publicTransport: "Javni prijevoz", parking: "Parking", accessibility: "Pristupačnost",
           photoRules: "Fotografiranje", bestTimeToVisit: "Najbolje vrijeme", audioGuide: "Audiovodič",
           practical: "Praktične informacije", facts: "Jeste li znali", backToCity: "← Natrag na grad" },
+    es: { address: "Dirección", openingHours: "Horario", entranceFee: "Entrada", website: "Sitio web",
+          publicTransport: "Transporte público", parking: "Aparcamiento", accessibility: "Accesibilidad",
+          photoRules: "Fotografía", bestTimeToVisit: "Mejor momento", audioGuide: "Audioguía",
+          practical: "Información práctica", facts: "¿Sabías que...?", backToCity: "← Volver a la ciudad" },
   };
   const c = ICON_COPY[lang] || ICON_COPY.en!;
 
@@ -4461,10 +4553,11 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
     : "";
 
   return `<!DOCTYPE html>
-<html lang="${lang}">
+<html lang="${lang}"${lang === "it" || lang === "nl" ? ' translate="no"' : ""}>
 <head>
 <meta charset="UTF-8"/>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+${lang === "it" || lang === "nl" ? '<meta name="google" content="notranslate"/>' : ""}
 <title>${escapeHtml(title)}</title>
 <meta name="description" content="${escapeHtml(metaDesc)}"/>
 ${sightDescEmpty ? `<meta name="robots" content="noindex,follow"/>` : ""}
@@ -4478,7 +4571,7 @@ ${hreflangLinks}
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600&display=swap" rel="stylesheet"/>
-<link rel="stylesheet" href="/poi-static/poi.css?v=20260812pcnav1"/>
+<link rel="stylesheet" href="/poi-static/poi.css?v=20260712pc1"/>
 <style>
 .plz-sp-back{display:inline-flex;align-items:center;gap:.4rem;color:var(--accent);text-decoration:none;font-size:.85rem;margin-bottom:.5rem}
 .plz-sp-back:hover{color:var(--accent-deep)}
@@ -4545,7 +4638,6 @@ ready();})();</script>
     <nav class="plz-nav">
       <a href="/${lang}/">${I("home", lang)}</a>
       <a href="/europe-map/">Europa</a>
-      <a class="plz-postcard-nav" href="${escapeHtml(postcardHeaderHref)}" aria-label="${escapeHtml(postcardHeaderLabel)}"><span aria-hidden="true">&#9993;</span><span>${escapeHtml(postcardHeaderLabel)}</span></a>
     </nav>
     <div class="plz-langs">${langSwitcher}</div>
   </div>
