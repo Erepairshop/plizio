@@ -1,4 +1,4 @@
-﻿#!/usr/bin/env tsx
+#!/usr/bin/env tsx
 // Build-time only: reads all POI TS sources via dynamic import, computes the
 // dedup/richness/coord-bucket logic ONCE, and writes a lightweight
 // public/data/_seo-index.json that lib/seo/slugs.ts loads at module init.
