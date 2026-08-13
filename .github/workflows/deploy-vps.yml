@@ -312,16 +312,16 @@ jobs:
           head -3 out/sitemap.xml
           echo "index chunk count: $(grep -c '<sitemap>' out/sitemap.xml)"
 
-      - name: Generate image sitemap (for Google Image discovery)
-        env:
-          OUT_DIR: out
-        run: npx tsx scripts/generate-image-sitemap.mts
-
       - name: Prune page sitemaps to final release reality
         env:
           OUT_DIR: out
           SITE_ORIGIN: https://plizio.com
         run: node scripts/prune-sitemap-to-release.mjs
+
+      - name: Generate image sitemap (verified images on indexable pages only)
+        env:
+          OUT_DIR: out
+        run: npx tsx scripts/generate-image-sitemap.mts
 
       - name: SEO release gate (sitemap must only expose indexable 200 pages)
         env:

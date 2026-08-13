@@ -21,6 +21,20 @@ const hasIndexableContent = (p: any): boolean => p?.hasIndexable === true;
 const ENT: Record<string, string> = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&apos;" };
 const x = (s: string): string => s.replace(/[&<>"']/g, (c) => ENT[c] || c);
 
+function collectIndexablePageUrls(): Set<string> {
+  const urls = new Set<string>();
+  for (const name of fs.readdirSync(OUT_DIR)) {
+    if (!/^sitemap(?:-(?!images)[^.]+)?\.xml$/.test(name)) continue;
+    const xml = fs.readFileSync(path.join(OUT_DIR, name), "utf8");
+    if (!/<urlset\b/i.test(xml)) continue;
+    for (const block of xml.match(/<url\b[\s\S]*?<\/url>/g) || []) {
+      const loc = /<loc>([\s\S]*?)<\/loc>/.exec(block);
+      if (loc) urls.add(loc[1].trim().replace(/&amp;/g, "&"));
+    }
+  }
+  return urls;
+}
+
 const imageManifest = new Set<string>();
 try {
   const manifestPath = path.resolve(process.cwd(), "public", "data", "_image-manifest.json");
@@ -32,6 +46,17 @@ try {
   }
 } catch (e) {
   console.warn(`[image-sitemap] failed to read _image-manifest.json: ${(e as Error).message}`);
+}
+if (imageManifest.size < 1000) {
+  throw new Error(`[image-sitemap] image manifest is missing or implausibly small: ${imageManifest.size}`);
+}
+
+// The page sitemaps have already been pruned against the final release. Reuse
+// that exact URL set so the image sitemap cannot re-introduce a missing,
+// noindex, non-canonical or nginx-shadowed language variant.
+const indexablePageUrls = collectIndexablePageUrls();
+if (indexablePageUrls.size === 0) {
+  throw new Error("[image-sitemap] no indexable page URLs found after sitemap pruning");
 }
 
 function fileExistsForUrl(urlPath: string): boolean {
@@ -65,9 +90,12 @@ console.log(`Eligible POIs with verified image: ${eligible.length} (manifest: ${
 
 // Build all entries first
 const entries: string[] = [];
+const seenPages = new Set<string>();
 for (const { poi, image } of eligible) {
   for (const lang of SUPPORTED_LANGS) {
     const url = `${SITE_URL}${buildPoiPath(lang, poi)}`;
+    if (!indexablePageUrls.has(url) || seenPages.has(url)) continue;
+    seenPages.add(url);
     const imgUrl = `${SITE_URL}${image}`;
     const name = (poi.name?.[lang] || poi.name?.de || poi.id) as string;
     entries.push(
