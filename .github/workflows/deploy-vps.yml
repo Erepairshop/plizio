@@ -303,15 +303,6 @@ jobs:
           OUT_DIR: out
         run: npx tsx scripts/build-sight-pages.mts
 
-      - name: Build sitemap.xml index from actual chunks (Next 16 export omits it)
-        run: |
-          set -euo pipefail
-          node scripts/build-sitemap-index.mjs
-          test -f out/sitemap.xml
-          test -s out/sitemap.xml
-          head -3 out/sitemap.xml
-          echo "index chunk count: $(grep -c '<sitemap>' out/sitemap.xml)"
-
       - name: Prune page sitemaps to final release reality
         env:
           OUT_DIR: out
@@ -322,6 +313,15 @@ jobs:
         env:
           OUT_DIR: out
         run: npx tsx scripts/generate-image-sitemap.mts
+
+      - name: Build final sitemap.xml index from pruned chunks
+        run: |
+          set -euo pipefail
+          node scripts/build-sitemap-index.mjs
+          test -f out/sitemap.xml
+          test -s out/sitemap.xml
+          head -3 out/sitemap.xml
+          echo "index chunk count: $(grep -c '<sitemap>' out/sitemap.xml)"
 
       - name: SEO release gate (sitemap must only expose indexable 200 pages)
         env:
@@ -444,9 +444,12 @@ jobs:
       - name: Purge Cloudflare cache for sitemaps (avoid stale 404 from atomic swap)
         run: |
           set -euo pipefail
+          OUT_DIR="$(readlink -f "${RELEASE_BASE}/current")"
+          test -d "$OUT_DIR"
           if [ -n "${{ secrets.CF_API_TOKEN }}" ] && [ -n "${{ secrets.CF_ZONE_ID }}" ]; then
-            FILES=$(find out -maxdepth 1 -name 'sitemap*.xml' -printf '%f\n' \
-              | sed 's#^#https://plizio.com/#' | jq -R . | jq -s '{files: .}')
+            FILES=$(find "$OUT_DIR" -maxdepth 1 -name 'sitemap*.xml' -printf '%f\n'; \
+              find "$OUT_DIR/sitemap-images" -maxdepth 1 -name '*.xml' -printf 'sitemap-images/%f\n' 2>/dev/null || true)
+            FILES=$(printf '%s\n' "$FILES" | sed '/^$/d;s#^#https://plizio.com/#' | jq -R . | jq -s '{files: .}')
             N=$(echo "$FILES" | jq '.files | length')
             echo "[cf-purge] purging $N sitemap URLs from Cloudflare cache"
             # CF purge limit is 30 URLs/call — chunk just in case the sitemap grows.
@@ -471,8 +474,15 @@ jobs:
       - name: Re-warm sitemap cache (avoid cold CF→origin timeout for Googlebot)
         run: |
           set -uo pipefail
+          OUT_DIR="$(readlink -f "${RELEASE_BASE}/current")"
+          if [ ! -d "$OUT_DIR" ]; then
+            echo "[warm] release path not found, skipping warm-up"
+            exit 0
+          fi
           for pass in 1 2; do
-            for f in $(find out -maxdepth 1 -name 'sitemap*.xml' -printf '%f\n'); do
+            FILES=$(find "$OUT_DIR" -maxdepth 1 -name 'sitemap*.xml' -printf '%f\n'; \
+              find "$OUT_DIR/sitemap-images" -maxdepth 1 -name '*.xml' -printf 'sitemap-images/%f\n' 2>/dev/null || true)
+            for f in $FILES; do
               code=$(curl -s -o /dev/null -w "%{http_code} %{time_total}s" \
                 -H "Accept-Encoding: gzip" \
                 -A "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" \

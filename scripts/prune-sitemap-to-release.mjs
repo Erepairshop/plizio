@@ -84,6 +84,14 @@ function loadMapPaths(file) {
   return set;
 }
 
+function mapHasPath(paths, pathname) {
+  if (paths.has(pathname)) return true;
+  if (pathname === "/") return false;
+  return pathname.endsWith("/")
+    ? paths.has(pathname.slice(0, -1))
+    : paths.has(`${pathname}/`);
+}
+
 function pageSitemapFiles() {
   return fs.readdirSync(OUT_DIR)
     .map((name) => path.join(OUT_DIR, name))
@@ -147,11 +155,11 @@ for (const file of pageSitemapFiles()) {
     }
     seen.add(loc);
 
-    if (map301.has(pathname)) {
+    if (mapHasPath(map301, pathname)) {
       stats.removedMap301++;
       continue;
     }
-    if (map410.has(pathname)) {
+    if (mapHasPath(map410, pathname)) {
       stats.removedMap410++;
       continue;
     }

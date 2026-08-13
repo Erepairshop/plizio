@@ -14,7 +14,6 @@
  */
 import fs from "node:fs";
 import path from "node:path";
-import { fileURLToPath } from "node:url";
 
 const SITE_URL = (process.env.SITE_URL || process.env.SITE_ORIGIN || "https://plizio.com").replace(/\/+$/, "");
 const OUT_DIR = path.resolve(process.cwd(), process.env.OUT_DIR || "out");
@@ -22,8 +21,6 @@ const STRICT_IMAGES = process.env.SEO_GATE_STRICT_IMAGES === "1";
 const CHECK_IMAGES = process.env.SEO_GATE_CHECK_IMAGES !== "0";
 const SAMPLE_LIMIT = Number(process.env.SEO_GATE_SAMPLE_LIMIT || 20);
 const MAX_URLS = Number(process.env.SEO_GATE_MAX_URLS || 0);
-
-const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 function fail(message) {
   console.error(`\n[seo-gate] FAIL: ${message}`);
@@ -77,6 +74,14 @@ function loadMapPaths(file) {
     set.add(normalizePath(m[1]));
   }
   return set;
+}
+
+function mapHasPath(paths, pathname) {
+  if (paths.has(pathname)) return true;
+  if (pathname === "/") return false;
+  return pathname.endsWith("/")
+    ? paths.has(pathname.slice(0, -1))
+    : paths.has(`${pathname}/`);
 }
 
 function normalizePath(p) {
@@ -201,8 +206,8 @@ let checkedImages = 0;
 
 for (const u of urls) {
   const pathname = urlPath(u);
-  if (map301.has(pathname)) mapHits301.push(u);
-  if (map410.has(pathname)) mapHits410.push(u);
+  if (mapHasPath(map301, pathname)) mapHits301.push(u);
+  if (mapHasPath(map410, pathname)) mapHits410.push(u);
 
   const htmlPath = htmlFileFor(pathname);
   if (!fs.existsSync(htmlPath)) {
