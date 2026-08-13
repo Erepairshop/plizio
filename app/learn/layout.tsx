@@ -1,8 +1,12 @@
 import type { Metadata } from "next";
-import { buildHreflangAlternates } from "@/lib/seo/hreflang";
 
 export const metadata: Metadata = {
-  alternates: buildHreflangAlternates("/learn/"),
+  title: "Kostenlos lernen mit interaktiven Übungen | Plizio",
+  description:
+    "Entdecke kostenlose Lernspiele, Übungen und Tests für Mathematik, Sprachen, Naturwissenschaften und Informatik.",
+  alternates: {
+    canonical: "https://plizio.com/learn/",
+  },
 };
 
 export default function Layout({ children }: { children: React.ReactNode }) {
