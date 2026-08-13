@@ -551,6 +551,14 @@ const MORE: Record<Lang, string> = { de:"Mehr erfahren", hu:"Bővebben", ro:"Det
 const BACK: Record<Lang, string> = { de:"Zurück", hu:"Vissza", ro:"Înapoi", en:"Back", it:"Indietro", es:"Volver" };
 const TITLE_SUFFIX: Record<Lang, string> = { de:"Karte", hu:"térkép", ro:"hartă", en:"map", it:"mappa", es:"mapa" };
 const SEARCH_PH: Record<Lang, string> = { de:"Suche…", hu:"Keresés…", ro:"Caută…", en:"Search…", it:"Cerca…", es:"Buscar…" };
+const LOCATION_UI: Record<Lang, { button:string; locating:string; nearest:string; denied:string; unavailable:string }> = {
+  de: { button:"Mein Standort", locating:"Standort wird ermittelt…", nearest:"Am nächsten", denied:"Standortzugriff wurde nicht erlaubt.", unavailable:"Standort konnte nicht ermittelt werden." },
+  hu: { button:"Saját helyzetem", locating:"Helyzet meghatározása…", nearest:"Legközelebbi", denied:"A helyhozzáférés nincs engedélyezve.", unavailable:"A helyzet nem határozható meg." },
+  ro: { button:"Locația mea", locating:"Se determină locația…", nearest:"Cel mai apropiat", denied:"Accesul la locație nu a fost permis.", unavailable:"Locația nu a putut fi determinată." },
+  en: { button:"My location", locating:"Finding your location…", nearest:"Nearest", denied:"Location access was not allowed.", unavailable:"Your location could not be determined." },
+  it: { button:"La mia posizione", locating:"Posizione in corso…", nearest:"Più vicino", denied:"Accesso alla posizione non consentito.", unavailable:"Impossibile determinare la posizione." },
+  es: { button:"Mi ubicación", locating:"Buscando tu ubicación…", nearest:"Más cercano", denied:"No se permitió el acceso a la ubicación.", unavailable:"No se pudo determinar la ubicación." },
+};
 
 // Type → group mapping (5 visible groups). Unknown types fall into "other".
 type Grp = "city" | "sight" | "nature" | "history" | "industry" | "other";
@@ -587,7 +595,7 @@ const GROUP_LABELS: Record<Grp, Record<Lang, string>> = {
   other:    { de:"Sonst.", hu:"Egyéb", ro:"Altele", en:"Other", it:"Altro", es:"Otros" },
 };
 
-type SlimPoi = { id:string; type:string; grp:Grp; cx:number; cy:number; name:any; urls?:Record<string,string>; img?:string; desc?:any; facts?:any; sv?:string };
+type SlimPoi = { id:string; type:string; grp:Grp; cx:number; cy:number; lon:number; lat:number; name:any; urls?:Record<string,string>; img?:string; desc?:any; facts?:any; sv?:string };
 
 type MapQuizTask =
   | { id:string; type:"find_poi"; question:Partial<Record<Lang,string>>; targetPoiId:string }
@@ -893,6 +901,7 @@ function slimPoi(p: any, proj: (lon:number,lat:number)=>[number,number], W:numbe
   return {
     id: p.id, type: t, grp: groupOf(t),
     cx: +cx.toFixed(1), cy: +cy.toFixed(1),
+    lon: +lon.toFixed(6), lat: +lat.toFixed(6),
     name,
     ...(sv ? { sv } : {}),
     ...(img ? { img } : {}),
@@ -1000,7 +1009,7 @@ function renderHtml(c: Country, lang: Lang, regions: any[], pois: SlimPoi[], vie
   const availableLangs = langsForCountry(c);
   const countryName = c.names[lang] || c.names.en || c.slug;
   const t = `${countryName} ${TITLE_SUFFIX[lang]}`;
-  const hint = HINT[lang], more = MORE[lang], back = BACK[lang], searchPh = SEARCH_PH[lang];
+  const hint = HINT[lang], more = MORE[lang], back = BACK[lang], searchPh = SEARCH_PH[lang], locationUi = LOCATION_UI[lang];
   const quizPool = MAP_QUIZ_POOLS[c.iso] || [];
   const poiIds = new Set(pois.map(p => p.id));
   const regionIds = new Set(regions.map(r => r.id));
@@ -1289,6 +1298,13 @@ body.quiz-active .hint{display:none}
 .zoom{position:absolute;right:.7rem;bottom:.7rem;display:flex;flex-direction:column;gap:.35rem;z-index:4}
 .zoom button{width:38px;height:38px;border-radius:3px;border:1px solid #cfc3af;background:#fbf8f1;color:#8f3d1f;font-size:1.2rem;font-weight:800;cursor:pointer;box-shadow:0 3px 10px #49351d1f}
 .zoom button:hover,.zoom button:focus-visible{background:#f3e7df;border-color:#b4502a;outline:none}.zoom button:active{background:#ead7ca}
+.locate{position:absolute;left:.7rem;bottom:.7rem;z-index:5;display:flex;align-items:center;gap:.42rem;height:40px;padding:0 .72rem;border-radius:20px;border:1px solid #b4502a;background:#fbf8f1ed;color:#8f3d1f;font:800 .72rem/1 system-ui,-apple-system,sans-serif;cursor:pointer;box-shadow:0 4px 14px #49351d2b;backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+.locate:hover,.locate:focus-visible{background:#f3e7df;border-color:#8f3d1f;outline:2px solid #d9b9a7;outline-offset:2px}.locate:disabled{cursor:wait;opacity:.72}.locate svg{flex:none}.locate.loading svg{animation:locspin 1s linear infinite}
+.locate-status{position:absolute;left:.7rem;bottom:3.65rem;z-index:5;display:none;max-width:min(78vw,340px);padding:.58rem .72rem;border:1px solid #cfc3af;border-radius:5px;background:#fbf8f1f2;color:#3e382f;box-shadow:0 7px 22px #49351d2b;font:700 .75rem/1.35 system-ui,-apple-system,sans-serif;backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+.locate-status.show{display:block}.locate-status.error{border-color:#b86a58;color:#8b342b}.poi.location-nearest circle{fill:#b4502a!important;stroke:#fffaf3!important;stroke-width:2.5!important;filter:drop-shadow(0 0 5px #b4502a)}
+body.quiz-active .locate,body.quiz-active .locate-status{opacity:.12;pointer-events:none}
+@keyframes locspin{to{transform:rotate(360deg)}}
+@media(max-width:420px){.locate{width:40px;padding:0;justify-content:center}.locate span{display:none}}
 </style>
 </head>
 <body>
@@ -1317,7 +1333,7 @@ ${quizPool.length ? `<button type="button" class="quiz-launch" id="quizLaunch">�
       const allNames = Array.from(new Set([p.name.de, p.name.hu, p.name.ro, p.name.en].filter(Boolean).map((n:any)=>String(n).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"")))).join("|");
       const inCluster = clusteredIds.has(p.id);
       const cls = `poi g-${p.grp}${inCluster ? " in-cluster" : ""}`;
-      const attrs = `data-id="${escAttr(p.id)}" data-name="${escAttr(nm)}" data-search="${escAttr(allNames)}" data-grp="${p.grp}" data-cx="${p.cx}" data-cy="${p.cy}"${url?` data-url="${escAttr(url)}"`:""}`;
+      const attrs = `data-id="${escAttr(p.id)}" data-name="${escAttr(nm)}" data-search="${escAttr(allNames)}" data-grp="${p.grp}" data-cx="${p.cx}" data-cy="${p.cy}" data-lon="${p.lon}" data-lat="${p.lat}"${url?` data-url="${escAttr(url)}"`:""}`;
       const r = p.grp === "city" ? 5 : 3.5;
       return `<g class="${cls}" ${attrs} transform="translate(${p.cx},${p.cy})"><circle r="${r}"/></g>`;
     }).join("")}</g>
@@ -1328,6 +1344,8 @@ ${quizPool.length ? `<button type="button" class="quiz-launch" id="quizLaunch">�
       return `<g class="cluster" data-i="${i}" data-grps="${grps}" data-cx="${cl.cx.toFixed(1)}" data-cy="${cl.cy.toFixed(1)}" transform="translate(${cl.cx.toFixed(1)},${cl.cy.toFixed(1)})"><circle r="${r.toFixed(1)}" fill="${col}" stroke="#000" stroke-width=".8" fill-opacity=".88"/><text y="3.5" text-anchor="middle" font-size="${(r*1.1).toFixed(1)}" font-weight="800" fill="#0a0a1f">${cl.pois.length}</text></g>`;
     }).join("")}</g>
   </svg>
+  <button type="button" class="locate" id="locateBtn" aria-label="${escAttr(locationUi.button)}" title="${escAttr(locationUi.button)}"><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/><circle cx="12" cy="12" r="8"/></svg><span>${escText(locationUi.button)}</span></button>
+  <div class="locate-status" id="locateStatus" role="status" aria-live="polite"></div>
   <div class="zoom"><button id="zin" aria-label="zoom in">+</button><button id="zout" aria-label="zoom out">−</button></div>
   ${quizPool.length ? `<section class="quiz-panel" id="quizPanel" aria-live="polite"></section>` : ""}
 </div>
@@ -1361,6 +1379,7 @@ const LANG=${JSON.stringify(lang)},W=${W},H=${H};
 const MAP_QUIZ_ID=${JSON.stringify(c.iso)};
 const QUIZ_POOL=${JSON.stringify(quizPayload)};
 const QUIZ_UI=${JSON.stringify(quizUi)};
+const LOCATION_UI=${JSON.stringify(locationUi)};
 try{localStorage.setItem('plizio_language',LANG)}catch(e){}
 const CLUSTERS=${JSON.stringify(multiClusters.map(cl => cl.pois.map(p => ({id:p.id, name:p.name[lang]||p.name.en||p.id, grp:p.grp, url:p.urls?.[lang]||null, cx:p.cx, cy:p.cy}))))};
 const SEARCH_EXTRA=${JSON.stringify(SEARCH_EXTRA_JS)};
@@ -1503,11 +1522,36 @@ gP.querySelectorAll('.poi').forEach(p=>{
     name:p.getAttribute('data-name')||id,
     grp:p.getAttribute('data-grp')||'other',
     url:p.getAttribute('data-url')||null,
-    cx:m?+m[1]:0,cy:m?+m[2]:0
+    cx:m?+m[1]:0,cy:m?+m[2]:0,
+    lon:+(p.getAttribute('data-lon')||0),lat:+(p.getAttribute('data-lat')||0)
   };
 });
 const POI_SEARCH_BY_ID={};
 for(const id in POI_INDEX)POI_SEARCH_BY_ID[id]=POI_INDEX[id].search;
+const locateBtn=document.getElementById('locateBtn'),locateStatus=document.getElementById('locateStatus');
+function locateMessage(text,isError){locateStatus.textContent=text;locateStatus.classList.add('show');locateStatus.classList.toggle('error',!!isError)}
+function geoDistanceKm(lon1,lat1,lon2,lat2){const r=Math.PI/180,a1=lat1*r,a2=lat2*r,dLat=(lat2-lat1)*r,dLon=(lon2-lon1)*r;const h=Math.sin(dLat/2)**2+Math.cos(a1)*Math.cos(a2)*Math.sin(dLon/2)**2;return 6371.0088*2*Math.atan2(Math.sqrt(h),Math.sqrt(Math.max(0,1-h)))}
+function distanceLabel(km){if(km<1)return Math.max(1,Math.round(km*1000))+' m';const n=km<10?km.toFixed(1):Math.round(km).toString();return (LANG==='en'?n:n.replace('.',','))+' km'}
+function revealNearest(id,p,km){
+  if(!activeGrps.has(p.grp)){activeGrps.add(p.grp);const chip=document.querySelector('.chip[data-g="'+p.grp+'"]');if(chip)chip.classList.add('on')}
+  if(sIn.value){sIn.value='';applySearch()}else applyGrpFilter();
+  s=Math.max(s,4.2);tx=W/2-p.cx*s;ty=H*.42-p.cy*s;ap();
+  gP.querySelectorAll('.poi.location-nearest').forEach(el=>el.classList.remove('location-nearest'));
+  const el=gP.querySelector('.poi[data-id="'+String(id).replace(/"/g,'\\"')+'"]');
+  if(el)el.classList.add('location-nearest');
+  locateMessage(LOCATION_UI.nearest+': '+p.name+' · '+distanceLabel(km),false);
+}
+locateBtn.addEventListener('click',()=>{
+  if(!navigator.geolocation){locateMessage(LOCATION_UI.unavailable,true);return}
+  locateBtn.disabled=true;locateBtn.classList.add('loading');locateMessage(LOCATION_UI.locating,false);
+  navigator.geolocation.getCurrentPosition(pos=>{
+    let bestId=null,best=null,bestKm=Infinity;
+    for(const id in POI_INDEX){const p=POI_INDEX[id];if(!Number.isFinite(p.lon)||!Number.isFinite(p.lat)||(p.lon===0&&p.lat===0))continue;const km=geoDistanceKm(pos.coords.longitude,pos.coords.latitude,p.lon,p.lat);if(km<bestKm){bestKm=km;bestId=id;best=p}}
+    locateBtn.disabled=false;locateBtn.classList.remove('loading');
+    if(!best||bestId===null){locateMessage(LOCATION_UI.unavailable,true);return}
+    revealNearest(bestId,best,bestKm);
+  },err=>{locateBtn.disabled=false;locateBtn.classList.remove('loading');locateMessage(err&&err.code===1?LOCATION_UI.denied:LOCATION_UI.unavailable,true)},{enableHighAccuracy:true,timeout:12000,maximumAge:60000});
+});
 const GCOL_JS={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
 function applySearch(){
   const q=norm(sIn.value.trim());
