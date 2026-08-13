@@ -95,7 +95,7 @@ jobs:
             URLS_JSON=$(for dir in public/*-map; do
               [ -d "$dir" ] || continue
               DIRNAME=$(basename "$dir")
-              for lang in '' de hu ro en; do
+              for lang in '' de hu ro en it es; do
                 if [ -z "$lang" ]; then
                   echo "https://plizio.com/$DIRNAME/"
                 else
