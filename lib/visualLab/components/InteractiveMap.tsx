@@ -6,7 +6,7 @@ import {
 } from "react";
 import { useRouter } from "next/navigation";
 import { motion, AnimatePresence } from "framer-motion";
-import { ChevronRight, X, Plus, Minus, Maximize2, Volume2, Search, Star, Ruler, Brain } from "lucide-react";
+import { ChevronRight, X, Plus, Minus, Maximize2, Volume2, Search, Star, Ruler, Brain, LocateFixed, LoaderCircle } from "lucide-react";
 import { type BundeslandPath } from "../maps/deutschland.svg";
 import { projectInState } from "../maps/bundeslandSubregions";
 import { getCountryMap, type CountryMapData } from "../maps/resolver";
@@ -33,6 +33,135 @@ type Lang = "de" | "hu" | "ro" | "en";
 type Subject = "sachkunde" | "geographie" | "geschichte";
 type Layer = "all" | "cities" | "nature" | "history" | "landmarks" | "life" | "economic" | "relief";
 type HistoryPeriod = "all" | "middle-ages" | "reformation" | "empire" | "ww1" | "ww2" | "ddr" | "modern";
+
+type NearestPoiResult = {
+  poi: POI;
+  distanceKm: number;
+  userLng: number;
+  userLat: number;
+};
+
+const LOCATION_COPY: Record<Lang, { locate: string; locating: string; nearest: string; unavailable: string; denied: string }> = {
+  de: { locate: "Mein Standort", locating: "Standort wird ermittelt", nearest: "Am nächsten", unavailable: "Standort konnte nicht ermittelt werden.", denied: "Standortzugriff wurde nicht erlaubt." },
+  hu: { locate: "Saját helyzetem", locating: "Helyzet meghatározása", nearest: "Legközelebbi", unavailable: "A helyzet nem határozható meg.", denied: "A helyhozzáférés nincs engedélyezve." },
+  ro: { locate: "Locația mea", locating: "Se determină locația", nearest: "Cel mai apropiat", unavailable: "Locația nu a putut fi determinată.", denied: "Accesul la locație nu a fost permis." },
+  en: { locate: "My location", locating: "Finding your location", nearest: "Nearest", unavailable: "Your location could not be determined.", denied: "Location access was not allowed." },
+};
+
+function poiLngLat(poi: POI): [number, number] | null {
+  if (Array.isArray(poi.coords) && poi.coords.length >= 2) {
+    const lng = Number(poi.coords[0]);
+    const lat = Number(poi.coords[1]);
+    if (Number.isFinite(lng) && Number.isFinite(lat)) return [lng, lat];
+  }
+  const coordinates = (poi as { coordinates?: { lat?: number; lng?: number } }).coordinates;
+  if (Number.isFinite(coordinates?.lng) && Number.isFinite(coordinates?.lat)) {
+    return [coordinates!.lng!, coordinates!.lat!];
+  }
+  return null;
+}
+
+function distanceKm(aLng: number, aLat: number, bLng: number, bLat: number): number {
+  const rad = Math.PI / 180;
+  const dLat = (bLat - aLat) * rad;
+  const dLng = (bLng - aLng) * rad;
+  const sinLat = Math.sin(dLat / 2);
+  const sinLng = Math.sin(dLng / 2);
+  const h = sinLat * sinLat + Math.cos(aLat * rad) * Math.cos(bLat * rad) * sinLng * sinLng;
+  return 6371.0088 * 2 * Math.atan2(Math.sqrt(h), Math.sqrt(Math.max(0, 1 - h)));
+}
+
+function useNearestPoiLocation(pois: POI[], lang: Lang, onFound: (result: NearestPoiResult) => void) {
+  const [status, setStatus] = useState<"idle" | "locating" | "success" | "error">("idle");
+  const [result, setResult] = useState<NearestPoiResult | null>(null);
+  const [error, setError] = useState<string | null>(null);
+  const onFoundRef = useRef(onFound);
+  useEffect(() => { onFoundRef.current = onFound; }, [onFound]);
+
+  const locate = useCallback(() => {
+    const copy = LOCATION_COPY[lang] ?? LOCATION_COPY.de;
+    if (typeof navigator === "undefined" || !navigator.geolocation) {
+      setStatus("error");
+      setError(copy.unavailable);
+      return;
+    }
+    setStatus("locating");
+    setError(null);
+    navigator.geolocation.getCurrentPosition(
+      ({ coords }) => {
+        let nearest: NearestPoiResult | null = null;
+        for (const poi of pois) {
+          if (!poi || poi.type === "region" || poi.type === "country") continue;
+          const point = poiLngLat(poi);
+          if (!point) continue;
+          const km = distanceKm(coords.longitude, coords.latitude, point[0], point[1]);
+          if (!nearest || km < nearest.distanceKm) nearest = { poi, distanceKm: km, userLng: coords.longitude, userLat: coords.latitude };
+        }
+        if (!nearest) {
+          setStatus("error");
+          setError(copy.unavailable);
+          return;
+        }
+        setResult(nearest);
+        setStatus("success");
+        onFoundRef.current(nearest);
+      },
+      (geoError) => {
+        setStatus("error");
+        setError(geoError.code === geoError.PERMISSION_DENIED ? copy.denied : copy.unavailable);
+      },
+      { enableHighAccuracy: true, timeout: 12000, maximumAge: 60000 },
+    );
+  }, [lang, pois]);
+
+  return { status, result, error, locate };
+}
+
+function formatDistance(km: number, lang: Lang): string {
+  if (km < 1) return `${Math.max(1, Math.round(km * 1000))} m`;
+  return `${new Intl.NumberFormat(lang, { maximumFractionDigits: km < 10 ? 1 : 0 }).format(km)} km`;
+}
+
+function LocationControl({ state, lang }: { state: ReturnType<typeof useNearestPoiLocation>; lang: Lang }) {
+  const copy = LOCATION_COPY[lang] ?? LOCATION_COPY.de;
+  const name = state.result?.poi.name?.[lang] ?? state.result?.poi.name?.de ?? state.result?.poi.id;
+  return (
+    <div className="absolute left-2 top-2 z-30 max-w-[calc(100%-3.5rem)]">
+      <button type="button" onClick={state.locate} disabled={state.status === "locating"}
+        className="min-h-10 flex items-center gap-2 rounded-full border border-cyan-300/35 bg-[#071827]/90 px-3 py-2 text-xs font-medium text-cyan-50 shadow-lg backdrop-blur-md transition hover:bg-cyan-500/20 disabled:cursor-wait"
+        aria-label={state.status === "locating" ? copy.locating : copy.locate}>
+        {state.status === "locating" ? <LoaderCircle size={16} className="animate-spin" /> : <LocateFixed size={16} />}
+        <span>{state.status === "locating" ? copy.locating : copy.locate}</span>
+      </button>
+      <AnimatePresence>
+        {(state.result || state.error) && (
+          <motion.div initial={{ opacity: 0, y: -6 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: -6 }}
+            role={state.error ? "alert" : "status"}
+            className={`mt-2 rounded-2xl border px-3 py-2 text-xs shadow-xl backdrop-blur-md ${state.error ? "border-rose-400/35 bg-rose-950/90 text-rose-100" : "border-emerald-300/35 bg-emerald-950/90 text-emerald-50"}`}>
+            {state.error || <><span className="text-emerald-200/75">{copy.nearest}: </span><strong>{name}</strong><span className="ml-1.5 whitespace-nowrap">{formatDistance(state.result!.distanceKm, lang)}</span></>}
+          </motion.div>
+        )}
+      </AnimatePresence>
+    </div>
+  );
+}
+
+function NearestPoiSvgOverlay({ result, projectCoords, viewScale }: { result: NearestPoiResult | null; projectCoords: (lng: number, lat: number) => [number, number]; viewScale: number }) {
+  if (!result) return null;
+  const targetCoords = poiLngLat(result.poi);
+  if (!targetCoords) return null;
+  const [ux, uy] = projectCoords(result.userLng, result.userLat);
+  const [px, py] = projectCoords(targetCoords[0], targetCoords[1]);
+  if (![ux, uy, px, py].every(Number.isFinite)) return null;
+  return (
+    <g pointerEvents="none" aria-hidden="true">
+      <line x1={ux} y1={uy} x2={px} y2={py} stroke="#34d399" strokeWidth={2.4 / viewScale} strokeDasharray={`${7 / viewScale} ${5 / viewScale}`} opacity="0.9" />
+      <circle cx={px} cy={py} r={18 / viewScale} fill="none" stroke="#34d399" strokeWidth={2 / viewScale} opacity="0.9" />
+      <circle cx={ux} cy={uy} r={12 / viewScale} fill="#22d3ee" opacity="0.2" />
+      <circle cx={ux} cy={uy} r={6 / viewScale} fill="#22d3ee" stroke="#ecfeff" strokeWidth={2 / viewScale} />
+    </g>
+  );
+}
 
 const PERIODS: { id: HistoryPeriod; emoji: string; label: { de: string; hu: string; ro: string; en: string } }[] = [
   { id: "all",          emoji: "🕰",  label: { de: "Alle",        hu: "Mind",       ro: "Toate",      en: "All"       } },
@@ -825,6 +954,21 @@ const InteractiveMapInner = ({
 
   const resetView = () => setView({ x: 0, y: 0, scale: 1 });
 
+  const handleLocationFound = useCallback((nearest: NearestPoiResult) => {
+    const coords = poiLngLat(nearest.poi);
+    if (!coords) return;
+    const [px, py] = projectCoords(coords[0], coords[1]);
+    const [vbX, vbY, vbW, vbH] = deutschlandViewBox.split(" ").map(Number);
+    setSelectedPoiId(nearest.poi.id);
+    setSelected(null);
+    setMapMode("browse");
+    setView((current) => {
+      const scale = Math.max(current.scale, 4);
+      return clampView({ scale, x: vbX + vbW / 2 - px * scale, y: vbY + vbH / 2 - py * scale });
+    });
+  }, [deutschlandViewBox, projectCoords]);
+  const location = useNearestPoiLocation(pois, displayLang, handleLocationFound);
+
   // Mode tab labels (4 languages)
   const MODE_LABELS: Record<"browse" | "ruler" | "quiz", Record<Lang, string>> = {
     browse: { de: "Erkunden", hu: "Böngészés", ro: "Explorare", en: "Browse" },
@@ -1213,6 +1357,8 @@ const InteractiveMapInner = ({
               })()}
             </g>
 
+            <NearestPoiSvgOverlay result={location.result} projectCoords={projectCoords} viewScale={view.scale} />
+
             {/* Ruler SVG overlay */}
             {mapMode === "ruler" && (
               <RulerSvgOverlay
@@ -1234,6 +1380,8 @@ const InteractiveMapInner = ({
             )}
           </g>
         </svg>
+
+        {mapMode === "browse" && <LocationControl state={location} lang={displayLang} />}
 
         {/* Zoom controls */}
         <div className="absolute top-2 right-2 flex flex-col gap-1.5">
@@ -1597,6 +1745,20 @@ function SubRegionView({
   const selectedPoi = useMemo(() => pois.find((p) => p.id === selectedPoiId) ?? null, [selectedPoiId]);
   const { lang: userLang } = useLang();
   const displayLang: Lang = (["de", "hu", "ro", "en"].includes(userLang as string) ? userLang : "de") as Lang;
+  const localPois = useMemo(() => pois.filter((poi) => poi?.parent === stateId && poi.type !== "region"), [pois, stateId]);
+  const handleSubLocationFound = useCallback((nearest: NearestPoiResult) => {
+    const coords = poiLngLat(nearest.poi);
+    if (!coords || !detail) return;
+    const [px, py] = subProject(coords[0], coords[1]);
+    const [vbX, vbY, vbW, vbH] = (detail.viewBox as string).split(" ").map(Number);
+    const scale = Math.max(pz.view.scale, 5);
+    setSelectedPoiId(nearest.poi.id);
+    setSelected(null);
+    setSelectedRiver(null);
+    setSubMode("browse");
+    pz.setView({ scale, x: vbX + vbW / 2 - px * scale, y: vbY + vbH / 2 - py * scale });
+  }, [detail, pz, subProject]);
+  const subLocation = useNearestPoiLocation(localPois, displayLang, handleSubLocationFound);
   // seoLang always follows the user's global language (NOT the map's country-code prop).
   // Previously `lang` prop was used when it happened to match a valid lang (e.g. "ro" on Romania map),
   // which locked detail URLs to that language regardless of the user's choice.
@@ -1879,6 +2041,8 @@ function SubRegionView({
                   })()}
                 </g>
 
+                <NearestPoiSvgOverlay result={subLocation.result} projectCoords={subProject} viewScale={pz.view.scale} />
+
                 {/* Quiz SVG overlay (subregion-szinten) */}
                 {subMode === "quiz" && (
                   <QuizSvgOverlay
@@ -1890,6 +2054,8 @@ function SubRegionView({
                 )}
               </g>
             </svg>
+
+            {subMode === "browse" && <LocationControl state={subLocation} lang={displayLang} />}
 
             {/* Zoom controls */}
             <div className="absolute top-2 right-2 flex flex-col gap-1.5">
