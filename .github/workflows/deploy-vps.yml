@@ -317,6 +317,20 @@ jobs:
           OUT_DIR: out
         run: npx tsx scripts/generate-image-sitemap.mts
 
+      - name: Prune page sitemaps to final release reality
+        env:
+          OUT_DIR: out
+          SITE_ORIGIN: https://plizio.com
+        run: node scripts/prune-sitemap-to-release.mjs
+
+      - name: SEO release gate (sitemap must only expose indexable 200 pages)
+        env:
+          OUT_DIR: out
+          SITE_ORIGIN: https://plizio.com
+          RELEASE_BASE: ${{ env.RELEASE_BASE }}
+          SEO_GATE_CHECK_IMAGES: "1"
+        run: node scripts/seo-release-gate.mjs
+
       # GitHub Actions cache: 10 GB/repo, LRU-evicted. The key includes github.sha
       # so EVERY deploy saves a fresh .next/cache; at ~9 GB that means constant
       # eviction (2×9>10). Trim to a budget so multiple caches coexist and the

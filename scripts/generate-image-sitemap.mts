@@ -21,17 +21,54 @@ const hasIndexableContent = (p: any): boolean => p?.hasIndexable === true;
 const ENT: Record<string, string> = { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&apos;" };
 const x = (s: string): string => s.replace(/[&<>"']/g, (c) => ENT[c] || c);
 
-const eligible = pois.filter((p: any) =>
-  p && p.parent && p.type !== "region" && p.type !== "country" && hasIndexableContent(p) && p.image,
-);
-console.log(`Eligible POIs with image: ${eligible.length}`);
+const imageManifest = new Set<string>();
+try {
+  const manifestPath = path.resolve(process.cwd(), "public", "data", "_image-manifest.json");
+  if (fs.existsSync(manifestPath)) {
+    const arr = JSON.parse(fs.readFileSync(manifestPath, "utf8"));
+    if (Array.isArray(arr)) {
+      for (const f of arr) if (typeof f === "string" && f.endsWith(".webp")) imageManifest.add(f);
+    }
+  }
+} catch (e) {
+  console.warn(`[image-sitemap] failed to read _image-manifest.json: ${(e as Error).message}`);
+}
+
+function fileExistsForUrl(urlPath: string): boolean {
+  const clean = urlPath.replace(/^https?:\/\/[^/]+/i, "").split(/[?#]/, 1)[0];
+  if (!clean.startsWith("/")) return false;
+  const rel = clean.replace(/^\/+/, "");
+  return fs.existsSync(path.join(OUT_DIR, rel)) || fs.existsSync(path.resolve(process.cwd(), "public", rel));
+}
+
+function resolveImagePath(poi: any): string | null {
+  if (!poi?.image || typeof poi.image !== "string") return null;
+  if (/^https?:\/\//i.test(poi.image)) return null;
+  const clean = (poi.image.startsWith("/") ? poi.image : `/${poi.image}`).split(/[?#]/, 1)[0];
+  const filename = clean.split("/").pop() || "";
+
+  // /poi-images/ is served from shared storage on the VPS, so the refreshed
+  // manifest is the source of truth before the release symlink is created.
+  if (clean.startsWith("/poi-images/")) {
+    return imageManifest.has(filename) ? `/poi-images/${filename}` : null;
+  }
+
+  // Static images that are part of the export can be verified directly.
+  return fileExistsForUrl(clean) ? clean : null;
+}
+
+const eligible = pois
+  .filter((p: any) => p && p.parent && p.type !== "region" && p.type !== "country" && hasIndexableContent(p))
+  .map((poi: any) => ({ poi, image: resolveImagePath(poi) }))
+  .filter((row: any) => !!row.image);
+console.log(`Eligible POIs with verified image: ${eligible.length} (manifest: ${imageManifest.size})`);
 
 // Build all entries first
 const entries: string[] = [];
-for (const poi of eligible) {
+for (const { poi, image } of eligible) {
   for (const lang of SUPPORTED_LANGS) {
     const url = `${SITE_URL}${buildPoiPath(lang, poi)}`;
-    const imgUrl = `${SITE_URL}${poi.image}`;
+    const imgUrl = `${SITE_URL}${image}`;
     const name = (poi.name?.[lang] || poi.name?.de || poi.id) as string;
     entries.push(
       `<url><loc>${x(url)}</loc><image:image><image:loc>${x(imgUrl)}</image:loc><image:title>${x(name)}</image:title></image:image></url>`,

@@ -198,6 +198,20 @@ jobs:
           OUT_DIR: out
         run: npx tsx scripts/generate-image-sitemap.mts
 
+      - name: Prune page sitemaps to final release reality
+        env:
+          OUT_DIR: out
+          SITE_ORIGIN: https://plizio.com
+        run: node scripts/prune-sitemap-to-release.mjs
+
+      - name: SEO release gate (sitemap must only expose indexable 200 pages)
+        env:
+          OUT_DIR: out
+          SITE_ORIGIN: https://plizio.com
+          RELEASE_BASE: ${{ env.RELEASE_BASE }}
+          SEO_GATE_CHECK_IMAGES: "1"
+        run: node scripts/seo-release-gate.mjs
+
       - name: Atomic static release + nginx reload
         run: |
           set -euo pipefail
@@ -257,17 +271,41 @@ jobs:
 
       - name: Purge Cloudflare cache for sitemaps (avoid stale 404 from atomic swap)
         run: |
-          set -euo pipefail
+          set -uo pipefail
+          OUT_DIR="${RELEASE_BASE}/current"
+          if [ -L "$OUT_DIR" ]; then
+            OUT_DIR="$(readlink -f "$OUT_DIR")"
+          fi
+
+          if [ ! -d "$OUT_DIR" ]; then
+            echo "::warning::Purge skipped: release path not found at $OUT_DIR"
+            exit 0
+          fi
+
           if [ -n "${{ secrets.CF_API_TOKEN }}" ] && [ -n "${{ secrets.CF_ZONE_ID }}" ]; then
-            FILES=$(find out -maxdepth 1 -name 'sitemap*.xml' -printf '%f\n' \
+            set -e
+            FILES=$(find "$OUT_DIR" -maxdepth 1 -name 'sitemap*.xml' -printf '%f\n' \
               | sed 's#^#https://plizio.com/#' | jq -R . | jq -s '{files: .}')
             N=$(echo "$FILES" | jq '.files | length')
+            if [ "$N" -eq 0 ]; then
+              echo "[cf-purge] no sitemap xml files found in $OUT_DIR"
+              exit 0
+            fi
             echo "[cf-purge] purging $N sitemap URLs from Cloudflare cache"
             echo "$FILES" | jq -c '.files | _nwise(30)' | while IFS= read -r chunk; do
-              curl -s -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CF_ZONE_ID }}/purge_cache" \
+              RESP=$(curl -fsS -X POST "https://api.cloudflare.com/client/v4/zones/${{ secrets.CF_ZONE_ID }}/purge_cache" \
                 -H "Authorization: Bearer ${{ secrets.CF_API_TOKEN }}" \
                 -H "Content-Type: application/json" \
-                --data "{\"files\": $chunk}" | jq -r '.success'
+                --data "{\"files\": $chunk}") || {
+                  echo "::warning::Cloudflare purge request failed for chunk"
+                  continue
+                }
+              SUCCESS=$(echo "$RESP" | jq -r '.success')
+              if [ "$SUCCESS" != "true" ]; then
+                echo "::warning::Cloudflare purge returned: $RESP"
+              else
+                echo "[cf-purge] chunk ok"
+              fi
             done
           else
             echo "[cf-purge] CF_API_TOKEN/CF_ZONE_ID secret not set, skipping CF purge"
@@ -276,8 +314,16 @@ jobs:
       - name: Re-warm sitemap cache (avoid cold CF→origin timeout for Googlebot)
         run: |
           set -uo pipefail
+          OUT_DIR="${RELEASE_BASE}/current"
+          if [ -L "$OUT_DIR" ]; then
+            OUT_DIR="$(readlink -f "$OUT_DIR")"
+          fi
+          if [ ! -d "$OUT_DIR" ]; then
+            echo "[warm] release path not found, skipping warm-up"
+            exit 0
+          fi
           for pass in 1 2; do
-            for f in $(find out -maxdepth 1 -name 'sitemap*.xml' -printf '%f\n'); do
+            for f in $(find "$OUT_DIR" -maxdepth 1 -name 'sitemap*.xml' -printf '%f\n'); do
               code=$(curl -s -o /dev/null -w "%{http_code} %{time_total}s" \
                 -H "Accept-Encoding: gzip" \
                 -A "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" \
