@@ -8,6 +8,11 @@ on:
         type: choice
         default: delta
         options: [delta, full]
+      poi_scope_language:
+        description: "Optional comma-separated native-language scope (for example es,it); limits template changes to POIs with those i18n sidecars"
+        type: string
+        required: false
+        default: ""
   # Push trigger DISABLED 2026-05-23 — disk-full incident + user wants manual control.
   # To re-enable: uncomment block below. Until then, run "Deploy VPS" manually via
   # GH Actions UI (workflow_dispatch).
@@ -176,7 +181,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          POI_AFFECTING='^(lib/visualLab/data/.*[Pp]oi|lib/seo/|components/seo/|scripts/(generate-poi-html|build-seo-index|split_pois_by_country|prepare_v2_data|flatten-sitemap-paths|generate-image-sitemap)|public/poi-images/|public/data/poi-news/|public/data/sights/|public/data/official-links\.json|public/data/sight-image-map\.json|public/data/poi-yearly-highlights\.json|public/poi-static/poi\.css|app/\[lang\])'
+          POI_AFFECTING='^(lib/visualLab/data/.*[Pp]oi|lib/seo/|components/seo/|scripts/(generate-poi-html|build-seo-index|split_pois_by_country|prepare_v2_data|flatten-sitemap-paths|generate-image-sitemap)|public/poi-images/|public/data/(i18n|city-tips|itinerary|poi-practical)/|public/data/poi-news/|public/data/sights/|public/data/official-links\.json|public/data/sight-image-map\.json|public/data/poi-yearly-highlights\.json|public/poi-static/poi\.css|app/\[lang\])'
           # Outputs: mode = full | delta | none ; before = last-deployed SHA (delta only)
           AFTER="${{ github.sha }}"
           CURRENT="${{ env.RELEASE_BASE }}/current"
@@ -221,7 +226,7 @@ jobs:
         shell: bash
         run: |
           set +e
-          node scripts/compute-changed-pois.mjs "${{ steps.detect_poi.outputs.before }}" "${{ github.sha }}" _changed_pois.txt
+          node scripts/compute-changed-pois.mjs "${{ steps.detect_poi.outputs.before }}" "${{ github.sha }}" _changed_pois.txt "${{ github.event.inputs.poi_scope_language }}"
           rc=$?
           if [ "$rc" -eq 3 ]; then echo "compute → FULL fallback (unmappable POI-affecting change)"; echo "delta_ok=false" >> "$GITHUB_OUTPUT"; exit 0; fi
           if [ "$rc" -ne 0 ]; then echo "compute error rc=$rc → FULL fallback"; echo "delta_ok=false" >> "$GITHUB_OUTPUT"; exit 0; fi
@@ -311,6 +316,20 @@ jobs:
         env:
           OUT_DIR: out
         run: npx tsx scripts/generate-image-sitemap.mts
+
+      - name: Prune page sitemaps to final release reality
+        env:
+          OUT_DIR: out
+          SITE_ORIGIN: https://plizio.com
+        run: node scripts/prune-sitemap-to-release.mjs
+
+      - name: SEO release gate (sitemap must only expose indexable 200 pages)
+        env:
+          OUT_DIR: out
+          SITE_ORIGIN: https://plizio.com
+          RELEASE_BASE: ${{ env.RELEASE_BASE }}
+          SEO_GATE_CHECK_IMAGES: "1"
+        run: node scripts/seo-release-gate.mjs
 
       # GitHub Actions cache: 10 GB/repo, LRU-evicted. The key includes github.sha
       # so EVERY deploy saves a fresh .next/cache; at ~9 GB that means constant
