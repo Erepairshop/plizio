@@ -3799,8 +3799,10 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   const heroOnError = `onerror="this.onerror=null;this.dataset.phf='1';this.src='${heroFallback}'"`;
   let heroHtml: string;
   if (heroImages.length === 0) {
-    // Approved community images use a stable URL and become visible without a rebuild.
-    heroHtml = `<div class="plz-hero plz-hero-ph"><img id="plz-user-hero" src="/poi-user-images/${encodeURIComponent(poi.id)}.webp" alt="${escapeHtml(buildAlt(name))}" loading="eager" fetchpriority="high" decoding="async" onload="if(this.currentSrc.indexOf('/poi-user-images/')>=0)this.dataset.userImageLoaded='1'" ${heroOnError}/></div>`;
+    // Do not point SSR at /poi-user-images/<id>.webp blindly: most POIs have no
+    // approved user image, so the page produced a real 404 image request before
+    // the onerror placeholder kicked in. Use a deterministic crawlable image.
+    heroHtml = `<div class="plz-hero plz-hero-ph"><img id="plz-user-hero" src="${heroFallback}" alt="${escapeHtml(buildAlt(name))}" loading="eager" fetchpriority="high" decoding="async"/></div>`;
   } else if (heroImages.length === 1) {
     heroHtml = `<div class="plz-hero"><img src="${escapeHtml(heroImages[0].src)}" alt="${escapeHtml(heroImages[0].alt)}" loading="eager" fetchpriority="high" decoding="async" ${heroOnError}/></div>`;
   } else {
