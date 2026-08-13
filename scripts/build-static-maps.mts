@@ -37,6 +37,7 @@ type Country = {
   parentMap?: string;         // sub-maps (island/metro): back button returns to /<parentMap>-map/ instead of "/"
 };
 type BBox = { minLon: number; maxLon: number; minLat: number; maxLat: number };
+type SearchExtra = { id?: string; name: any; submap: string; coords?: [number, number] };
 // Paris metro catchment (== parisMetro.svg.ts projection bbox). Used to keep IDF
 // POIs on /paris-map/ and drop them from the France map regardless of (mis)parent.
 const PARIS_BBOX: BBox = { minLon: 1.3597, maxLon: 3.6216, minLat: 48.0773, maxLat: 49.2750 };
@@ -997,14 +998,15 @@ function backfillUrlsByCoord(pois: SlimPoi[]): void {
   }
 }
 
-function renderHtml(c: Country, lang: Lang, regions: any[], pois: SlimPoi[], viewBox: string, W: number, H: number, searchExtra: { name: any; submap: string }[] = [], initView?: { s: number; tx: number; ty: number }): string {
+function renderHtml(c: Country, lang: Lang, regions: any[], pois: SlimPoi[], viewBox: string, W: number, H: number, searchExtra: SearchExtra[] = [], initView?: { s: number; tx: number; ty: number }): string {
   // Search-only entries: POIs moved to a sub-map (island/metro). Not drawn as
   // markers, but searchable — a hit links to the sub-map where the POI lives.
   const SEARCH_EXTRA_JS = searchExtra.map((e) => {
     const nm = (e.name && (e.name[lang] || e.name.en || e.name.de)) || "";
     const alln = [e.name?.de, e.name?.hu, e.name?.ro, e.name?.en].filter(Boolean)
       .map((n: any) => String(n).toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "")).join("|");
-    return { n: nm, s: alln, u: `/${e.submap}-map/${lang === "hu" ? "" : lang + "/"}` };
+    const lon = e.coords?.[0], lat = e.coords?.[1];
+    return { n: nm, s: alln, u: `/${e.submap}-map/${lang === "hu" ? "" : lang + "/"}`, lon, lat };
   }).filter((x) => x.n);
   const availableLangs = langsForCountry(c);
   const countryName = c.names[lang] || c.names.en || c.slug;
@@ -1528,6 +1530,7 @@ gP.querySelectorAll('.poi').forEach(p=>{
 });
 const POI_SEARCH_BY_ID={};
 for(const id in POI_INDEX)POI_SEARCH_BY_ID[id]=POI_INDEX[id].search;
+const SUBMAP_POIS=SEARCH_EXTRA.filter(p=>Number.isFinite(p.lon)&&Number.isFinite(p.lat));
 const locateBtn=document.getElementById('locateBtn'),locateStatus=document.getElementById('locateStatus');
 function locateMessage(text,isError){locateStatus.textContent=text;locateStatus.classList.add('show');locateStatus.classList.toggle('error',!!isError)}
 function geoDistanceKm(lon1,lat1,lon2,lat2){const r=Math.PI/180,a1=lat1*r,a2=lat2*r,dLat=(lat2-lat1)*r,dLon=(lon2-lon1)*r;const h=Math.sin(dLat/2)**2+Math.cos(a1)*Math.cos(a2)*Math.sin(dLon/2)**2;return 6371.0088*2*Math.atan2(Math.sqrt(h),Math.sqrt(Math.max(0,1-h)))}
@@ -1541,17 +1544,37 @@ function revealNearest(id,p,km){
   if(el)el.classList.add('location-nearest');
   locateMessage(LOCATION_UI.nearest+': '+p.name+' · '+distanceLabel(km),false);
 }
+function handleLocatedPosition(lon,lat){
+  let bestId=null,best=null,bestKm=Infinity;
+  for(const id in POI_INDEX){const p=POI_INDEX[id];if(!Number.isFinite(p.lon)||!Number.isFinite(p.lat)||(p.lon===0&&p.lat===0))continue;const km=geoDistanceKm(lon,lat,p.lon,p.lat);if(km<bestKm){bestKm=km;bestId=id;best=p}}
+  for(const p of SUBMAP_POIS){const km=geoDistanceKm(lon,lat,p.lon,p.lat);if(km<bestKm){bestKm=km;bestId=null;best={name:p.n,lon:p.lon,lat:p.lat,submapUrl:p.u}}}
+  locateBtn.disabled=false;locateBtn.classList.remove('loading');
+  if(!best){locateMessage(LOCATION_UI.unavailable,true);return}
+  if(best.submapUrl){
+    locateMessage(LOCATION_UI.nearest+': '+best.name+' · '+distanceLabel(bestKm),false);
+    try{sessionStorage.setItem('plizio_map_location',JSON.stringify({lon,lat,t:Date.now()}))}catch(e){}
+    setTimeout(()=>{window.location.assign(best.submapUrl+'?locate=1')},350);
+    return;
+  }
+  revealNearest(bestId,best,bestKm);
+}
 locateBtn.addEventListener('click',()=>{
   if(!navigator.geolocation){locateMessage(LOCATION_UI.unavailable,true);return}
   locateBtn.disabled=true;locateBtn.classList.add('loading');locateMessage(LOCATION_UI.locating,false);
   navigator.geolocation.getCurrentPosition(pos=>{
-    let bestId=null,best=null,bestKm=Infinity;
-    for(const id in POI_INDEX){const p=POI_INDEX[id];if(!Number.isFinite(p.lon)||!Number.isFinite(p.lat)||(p.lon===0&&p.lat===0))continue;const km=geoDistanceKm(pos.coords.longitude,pos.coords.latitude,p.lon,p.lat);if(km<bestKm){bestKm=km;bestId=id;best=p}}
-    locateBtn.disabled=false;locateBtn.classList.remove('loading');
-    if(!best||bestId===null){locateMessage(LOCATION_UI.unavailable,true);return}
-    revealNearest(bestId,best,bestKm);
+    handleLocatedPosition(pos.coords.longitude,pos.coords.latitude);
   },err=>{locateBtn.disabled=false;locateBtn.classList.remove('loading');locateMessage(err&&err.code===1?LOCATION_UI.denied:LOCATION_UI.unavailable,true)},{enableHighAccuracy:true,timeout:12000,maximumAge:60000});
 });
+const locateParams=new URLSearchParams(window.location.search);
+if(locateParams.get('locate')==='1'){
+  locateParams.delete('locate');
+  const cleanLocateQuery=locateParams.toString();
+  history.replaceState(null,'',window.location.pathname+(cleanLocateQuery?'?'+cleanLocateQuery:'')+window.location.hash);
+  let saved=null;
+  try{saved=JSON.parse(sessionStorage.getItem('plizio_map_location')||'null');sessionStorage.removeItem('plizio_map_location')}catch(e){}
+  if(saved&&Number.isFinite(saved.lon)&&Number.isFinite(saved.lat)&&Date.now()-saved.t<120000){requestAnimationFrame(()=>handleLocatedPosition(saved.lon,saved.lat))}
+  else requestAnimationFrame(()=>locateBtn.click());
+}
 const GCOL_JS={city:'#60a5fa',sight:'#fbbf24',nature:'#22c55e',history:'#c084fc',industry:'#fb923c',other:'#9ca3af'};
 function applySearch(){
   const q=norm(sIn.value.trim());
@@ -1964,7 +1987,7 @@ async function buildOne(c: Country): Promise<boolean> {
   const isoUp = c.poiSourceIso || (c.iso === "gb" ? "GB" : c.iso.toUpperCase());
   const poisJsonPath = path.join(process.cwd(), "public", "data", "pois", `${isoUp}.json`);
   let poisRaw: any[] = [];
-  const searchExtra: { name: any; submap: string }[] = [];
+  const searchExtra: SearchExtra[] = [];
   if (fs.existsSync(poisJsonPath)) {
     try {
       const j = JSON.parse(fs.readFileSync(poisJsonPath, "utf8"));
@@ -1982,8 +2005,16 @@ async function buildOne(c: Country): Promise<boolean> {
         poisRaw = poisRaw.filter((p: any) => p && inBBox(p.coords, c.poiBBox!));
       }
       if (c.excludeParents && c.excludeParents.length) {
-        const ex = new Set(c.excludeParents);
-        poisRaw = poisRaw.filter((p: any) => !(p && ex.has(p.parent)));
+        const links = c.metroLinks || [];
+        const kept: any[] = [];
+        for (const p of poisRaw) {
+          const hit = p ? c.excludeParents.indexOf(p.parent) : -1;
+          if (hit >= 0) {
+            const submap = (links[hit] || links[0] || {}).mapSlug;
+            if (submap && p.name) searchExtra.push({ id: p.id, name: p.name, submap, coords: p.coords });
+          } else kept.push(p);
+        }
+        poisRaw = kept;
       }
       if (c.excludeBBoxes && c.excludeBBoxes.length) {
         const links = c.metroLinks || [];
@@ -1993,7 +2024,7 @@ async function buildOne(c: Country): Promise<boolean> {
           if (p && p.coords) for (let i = 0; i < c.excludeBBoxes.length; i++) { if (inBBox(p.coords, c.excludeBBoxes[i])) { hit = i; break; } }
           if (hit >= 0) {
             const submap = (links[hit] || links[0] || {}).mapSlug;
-            if (submap && p.name) searchExtra.push({ name: p.name, submap });
+            if (submap && p.name) searchExtra.push({ id: p.id, name: p.name, submap, coords: p.coords });
           } else kept.push(p);
         }
         poisRaw = kept;
@@ -2008,7 +2039,7 @@ async function buildOne(c: Country): Promise<boolean> {
           if (p && p.coords) for (const slug of c.excludeIslandSlugs) {
             if (nearRings(p.coords, ISLAND_RINGS[slug], ISLAND_BUF_DEG)) { submap = slug; break; }
           }
-          if (submap) { if (p.name) searchExtra.push({ name: p.name, submap }); }
+          if (submap) { if (p.name) searchExtra.push({ id: p.id, name: p.name, submap, coords: p.coords }); }
           else kept.push(p);
         }
         poisRaw = kept;
