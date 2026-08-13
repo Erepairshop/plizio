@@ -12,6 +12,9 @@ import path from "node:path";
 
 const SITE_URL = (process.env.SITE_URL || process.env.SITE_ORIGIN || "https://plizio.com").replace(/\/+$/, "");
 const OUT_DIR = path.resolve(process.cwd(), process.env.OUT_DIR || "out");
+// Only these root urlsets are part of the release page-sitemap contract.
+// Ignore sitemap.xml, sitemap-images.xml and any stale/experimental XML files.
+const PAGE_SITEMAP_FILE_RE = /^sitemap-(?:\d+|poi-[a-z]+|hubs|beach|sightpages)\.xml$/;
 
 function xmlDecode(s) {
   return s
@@ -94,10 +97,9 @@ function mapHasPath(paths, pathname) {
 
 function pageSitemapFiles() {
   return fs.readdirSync(OUT_DIR)
+    .filter((name) => PAGE_SITEMAP_FILE_RE.test(name))
     .map((name) => path.join(OUT_DIR, name))
-    .filter((p) => p.endsWith(".xml"))
-    .filter((p) => path.basename(p).startsWith("sitemap"))
-    .filter((p) => !path.basename(p).startsWith("sitemap-images"));
+    .filter((p) => fs.statSync(p).isFile());
 }
 
 function locFromUrlBlock(block) {
