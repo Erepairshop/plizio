@@ -6,7 +6,7 @@ export const metadata: Metadata = {
     follow: false,
   },
   alternates: {
-    canonical: "https://plizio.com/avatar-test/",
+    canonical: "https://plizio.com/map-test/",
   },
 };
 
