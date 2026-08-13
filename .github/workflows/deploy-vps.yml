@@ -43,14 +43,14 @@ jobs:
           node-version: '24'
           cache: 'npm'
 
-      - name: Cache .next (v2 — fresh after turbopack pollution 2026-05-19)
+      - name: Cache .next (v3 Webpack memory build)
         uses: actions/cache@v4
         with:
           path: .next/cache
-          key: nextcache-vps-v2-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-${{ github.sha }}
+          key: nextcache-vps-v3-webpack-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-${{ github.sha }}
           restore-keys: |
-            nextcache-vps-v2-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-
-            nextcache-vps-v2-${{ runner.os }}-
+            nextcache-vps-v3-webpack-${{ runner.os }}-${{ hashFiles('package-lock.json') }}-
+            nextcache-vps-v3-webpack-${{ runner.os }}-
 
       - name: Purge stale build output (preserve .next/cache for incremental builds)
         shell: bash
@@ -160,7 +160,10 @@ jobs:
         env:
           NODE_OPTIONS: --max-old-space-size=12288
           GSP_LIMIT: '0'
-        run: npm run build
+        # Turbopack retained the 29 MB generated SEO module and spent hours in
+        # GC at ~14 GB RSS. Webpack's memory-optimized mode keeps the same static
+        # output contract while lowering the peak working set.
+        run: npx next build --webpack
 
       - name: Verify out/ produced
         run: test -f out/index.html && test -d out/_next
