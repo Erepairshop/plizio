@@ -21,6 +21,8 @@ const STRICT_IMAGES = process.env.SEO_GATE_STRICT_IMAGES === "1";
 const CHECK_IMAGES = process.env.SEO_GATE_CHECK_IMAGES !== "0";
 const SAMPLE_LIMIT = Number(process.env.SEO_GATE_SAMPLE_LIMIT || 20);
 const MAX_URLS = Number(process.env.SEO_GATE_MAX_URLS || 0);
+// Keep the gate scoped to the urlsets intentionally published by sitemap.xml.
+const PAGE_SITEMAP_FILE_RE = /^sitemap-(?:\d+|poi-[a-z]+|hubs|beach|sightpages)\.xml$/;
 
 function fail(message) {
   console.error(`\n[seo-gate] FAIL: ${message}`);
@@ -49,10 +51,9 @@ function extractUrlLocs(xml) {
 
 function collectPageSitemapUrls() {
   const files = fs.readdirSync(OUT_DIR)
+    .filter((name) => PAGE_SITEMAP_FILE_RE.test(name))
     .map((name) => path.join(OUT_DIR, name))
-    .filter((p) => p.endsWith(".xml"))
-    .filter((p) => path.basename(p).startsWith("sitemap"))
-    .filter((p) => !path.basename(p).startsWith("sitemap-images"));
+    .filter((p) => fs.statSync(p).isFile());
 
   const urls = [];
   for (const file of files) {

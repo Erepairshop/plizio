@@ -8,6 +8,8 @@ import * as _slugs from "../lib/seo/slugs";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const OUT_DIR = path.resolve(process.cwd(), process.env.OUT_DIR || "out");
 const SITE_URL = "https://plizio.com";
+// Read only the page urlsets that the release sitemap index may publish.
+const PAGE_SITEMAP_FILE_RE = /^sitemap-(?:\d+|poi-[a-z]+|hubs|beach|sightpages)\.xml$/;
 
 const s: any = (_slugs as any).default ?? _slugs;
 const pois = s.pois;
@@ -24,7 +26,7 @@ const x = (s: string): string => s.replace(/[&<>"']/g, (c) => ENT[c] || c);
 function collectIndexablePageUrls(): Set<string> {
   const urls = new Set<string>();
   for (const name of fs.readdirSync(OUT_DIR)) {
-    if (!/^sitemap(?:-(?!images)[^.]+)?\.xml$/.test(name)) continue;
+    if (!PAGE_SITEMAP_FILE_RE.test(name)) continue;
     const xml = fs.readFileSync(path.join(OUT_DIR, name), "utf8");
     if (!/<urlset\b/i.test(xml)) continue;
     for (const block of xml.match(/<url\b[\s\S]*?<\/url>/g) || []) {
