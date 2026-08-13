@@ -1373,7 +1373,7 @@ function renderConstellation(poi: POI, lang: Lang): string {
   const nodeHtml = placed.map((q) => {
     const nm = escapeHtml((getLocalized(q.p.name, lang) as string) || q.p.id);
     const href = poiPathSafe(lang, q.p);
-    const img = (q.p as { image?: string }).image;
+    const img = resolveHeroImage(q.p);
     const km = q.km < 1 ? t.lt1 : `${Math.round(q.km)} km`;
     const low = q.fy < 0.32 ? " plz-cst-node--low" : "";
     const thumb = img
