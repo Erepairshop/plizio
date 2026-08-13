@@ -1,0 +1,70 @@
+name: Meta Social Publish
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: Action
+        required: true
+        type: choice
+        default: verify
+        options:
+          - verify
+          - facebook
+          - instagram-image
+      message:
+        description: Post text or Instagram caption
+        required: false
+        type: string
+      image_url:
+        description: Public HTTPS image URL
+        required: false
+        type: string
+      link:
+        description: Optional Facebook link
+        required: false
+        type: string
+      confirm:
+        description: Enter PUBLISH for a real post
+        required: false
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: meta-social-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: scripts/social
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Verify connection or publish
+        env:
+          META_ACCESS_TOKEN: ${{ secrets.META_ACCESS_TOKEN }}
+          META_PAGE_ID: ${{ vars.META_PAGE_ID }}
+          META_INSTAGRAM_ACCOUNT_ID: ${{ vars.META_INSTAGRAM_ACCOUNT_ID }}
+          META_GRAPH_VERSION: ${{ vars.META_GRAPH_VERSION }}
+          INPUT_MODE: ${{ inputs.mode }}
+          INPUT_MESSAGE: ${{ inputs.message }}
+          INPUT_IMAGE_URL: ${{ inputs.image_url }}
+          INPUT_LINK: ${{ inputs.link }}
+          INPUT_CONFIRM: ${{ inputs.confirm }}
+        shell: bash
+        run: |
+          node scripts/social/meta-publish.mjs \
+            "--mode=$INPUT_MODE" \
+            "--message=$INPUT_MESSAGE" \
+            "--image-url=$INPUT_IMAGE_URL" \
+            "--link=$INPUT_LINK" \
+            "--confirm=$INPUT_CONFIRM"
