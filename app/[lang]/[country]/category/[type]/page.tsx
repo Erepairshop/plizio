@@ -15,8 +15,10 @@ import {
   TYPE_HEADINGS,
   TYPE_INDEX_COUNTRIES,
   TYPE_SLUGS,
+  MIN_BUILT_CATEGORY_ITEMS,
   bucketFromSlug,
   getPoisForCountryBucket,
+  isIndexableCategory,
   typeSlugFor,
 } from "@/lib/seo/typeIndex";
 
@@ -31,7 +33,7 @@ export async function generateStaticParams() {
       const country = countrySlugFor(lang, countryId);
       for (const bucket of Object.keys(TYPE_BUCKETS)) {
         const items = getPoisForCountryBucket(countryId, bucket);
-        if (items.length < 4) continue;
+        if (items.length < MIN_BUILT_CATEGORY_ITEMS) continue;
         out.push({ lang, country, type: typeSlugFor(bucket, lang) });
       }
     }
@@ -40,15 +42,22 @@ export async function generateStaticParams() {
   const countryId = "italy";
   const country = countrySlugFor(lang, countryId);
   for (const bucket of Object.keys(TYPE_BUCKETS)) {
-    if (getPoisForCountryBucket(countryId, bucket).length < 4) continue;
+    if (getPoisForCountryBucket(countryId, bucket).length < MIN_BUILT_CATEGORY_ITEMS) continue;
     out.push({ lang, country, type: typeSlugFor(bucket, lang) });
   }
   const spanishLang: Lang = "es";
   const spanishCountryId = "spain";
   const spanishCountry = countrySlugFor(spanishLang, spanishCountryId);
   for (const bucket of Object.keys(TYPE_BUCKETS)) {
-    if (getPoisForCountryBucket(spanishCountryId, bucket).length < 4) continue;
+    if (getPoisForCountryBucket(spanishCountryId, bucket).length < MIN_BUILT_CATEGORY_ITEMS) continue;
     out.push({ lang: spanishLang, country: spanishCountry, type: typeSlugFor(bucket, spanishLang) });
+  }
+  const portugueseLang: Lang = "pt";
+  const portugueseCountryId = "portugal";
+  const portugueseCountry = countrySlugFor(portugueseLang, portugueseCountryId);
+  for (const bucket of Object.keys(TYPE_BUCKETS)) {
+    if (getPoisForCountryBucket(portugueseCountryId, bucket).length < MIN_BUILT_CATEGORY_ITEMS) continue;
+    out.push({ lang: portugueseLang, country: portugueseCountry, type: typeSlugFor(bucket, portugueseLang) });
   }
   // NOTE: this route deliberately does NOT honor GSP_LIMIT=0. That flag makes the
   // giant per-POI route emit only 1 sample (the static-HTML overlay generates all
@@ -84,14 +93,23 @@ export async function generateMetadata({ params }: { params: Promise<{ lang: str
   const heading = TYPE_HEADINGS[r.bucket][r.lang] || TYPE_HEADINGS[r.bucket].en || r.bucket;
   const title = `${heading} · ${countryCopy.name} | Plizio`;
   const description = `${heading} · ${countryCopy.name} · Plizio Visual Lab.`;
+  const indexable = isIndexableCategory(r.countryId, r.bucket);
+  const alternateLangs = r.countryId === "italy"
+    ? [...SUPPORTED_LANGS, "it"]
+    : r.countryId === "spain"
+      ? [...SUPPORTED_LANGS, "es"]
+      : r.countryId === "portugal"
+        ? [...SUPPORTED_LANGS, "pt"]
+        : SUPPORTED_LANGS;
   return {
     title, description,
+    robots: indexable ? undefined : { index: false, follow: true },
     alternates: {
       canonical: absoluteUrl(`/${r.lang}/${countrySlugFor(r.lang, r.countryId)}/category/${typeSlugFor(r.bucket, r.lang)}/`),
-      languages: Object.fromEntries(
-        (r.countryId === "italy" ? [...SUPPORTED_LANGS, "it"] : r.countryId === "spain" ? [...SUPPORTED_LANGS, "es"] : SUPPORTED_LANGS)
+      languages: indexable ? Object.fromEntries(
+        alternateLangs
           .map((L) => [L, absoluteUrl(`/${L}/${countrySlugFor(L as Lang, r.countryId)}/category/${typeSlugFor(r.bucket, L as Lang)}/`)])
-      ),
+      ) : undefined,
     },
     openGraph: { title, description, type: "article" },
   };

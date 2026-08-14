@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import type { MetadataRoute } from "next";
 import { getGitLastMod } from "@/lib/seo/lastmod";
+import { discoverStaticMapPaths } from "@/lib/seo/staticMapSitemap";
 import { SITE_URL, hasIndexableContent, stateHasIndexablePois } from "@/lib/seo/routes";
 import {
   SUPPORTED_LANGS,
@@ -19,7 +20,7 @@ import {
 import {
   TYPE_BUCKETS,
   TYPE_INDEX_COUNTRIES,
-  getPoisForCountryBucket,
+  isIndexableCategory,
   typeSlugFor,
 } from "@/lib/seo/typeIndex";
 
@@ -28,16 +29,28 @@ const ALL_COUNTRY_IDS = Object.keys(COUNTRY_SLUGS);
 // Csak azokat a state-eket tesszuk a sitemapbe, amiknek van indexalhato POI-juk
 // (a 0-POI traditional-region overlay-oldalak thin-ek → noindex + sitemap-drop).
 const INDEXABLE_REGIONS = regions.filter((r) => stateHasIndexablePois(r.id));
-// Category-hub params that actually build (TYPE_INDEX_COUNTRIES × buckets with ≥4 POIs).
-// Mirrors generateStaticParams in app/[lang]/[country]/category/[type]/page.tsx.
+// Category hubs strong enough to be indexing targets. We still build legacy
+// 4-19 item pages, but they are noindex and intentionally absent here.
 const CATEGORY_PARAMS: { countryId: string; bucket: string }[] = [];
 for (const countryId of TYPE_INDEX_COUNTRIES) {
   for (const bucket of Object.keys(TYPE_BUCKETS)) {
-    if (getPoisForCountryBucket(countryId, bucket).length >= 4) {
+    if (isIndexableCategory(countryId, bucket)) {
       CATEGORY_PARAMS.push({ countryId, bucket });
     }
   }
 }
+
+const STATIC_MAP_PATHS = discoverStaticMapPaths();
+const STATIC_ROOT_PAGES = [
+  { url: "/", source: "app/page.tsx", priority: 1 },
+  { url: "/de/", source: "app/de/page.tsx", priority: 1 },
+  { url: "/hu/", source: "app/hu/page.tsx", priority: 1 },
+  { url: "/ro/", source: "app/ro/page.tsx", priority: 1 },
+  { url: "/en/", source: "app/en/page.tsx", priority: 1 },
+  { url: "/learn/", source: "app/learn/page.tsx", priority: 0.9 },
+  { url: "/astro-ai/", source: "app/astro-ai/page.tsx", priority: 0.9 },
+  { url: "/aitest/", source: "app/aitest/page.tsx", priority: 0.9 },
+] as const;
 
 // Tier-1 sight page index — loaded at build time. Each entry produces
 // /<lang>/<country>/<state>/<host-poi>/sight/<slug>/ in the sitemap.
@@ -73,7 +86,7 @@ export async function generateSitemaps() {
   const indexablePois = pois.filter(
     (poi) => poi && poi.type !== "region" && poi.type !== "country" && hasIndexableContent(poi) && !!poi.parent && getCountryIdStrict(poi.parent) != null,
   );
-  const ROOT_FIXED = 33;     // hardcoded root pages (/, /learn, /europe-map, country maps, ...)
+  const ROOT_FIXED = STATIC_ROOT_PAGES.length + STATIC_MAP_PATHS.length;
   const GAME_FIXED = 27;     // GAME_ROUTES.length (astro + test routes), emitted per lang
   // Extra per-POI lang URLs (fr/tr/hr) — emitted by the sitemap() extra-lang loop,
   // so they MUST be counted here too or the last chunk gets dropped.
@@ -99,16 +112,22 @@ export async function generateSitemaps() {
   return Array.from({ length: n }, (_, id) => ({ id }));
 }
 
-function createEntry(url: string, sourceFile: string, priority: number) {
+type SitemapEntry = MetadataRoute.Sitemap[number];
+
+function createEntry(url: string, sourceFile: string | null, priority: number): SitemapEntry {
   // trailingSlash:true → a generált oldal és a canonical MINDIG "/"-re végződik
   // (pl. /sanmarino-map/). A sitemapnek is ezzel kell egyeznie, különben a Google a
   // per-nélküli URL-t "Alternative page with proper canonical tag"-ként nem indexeli.
   const slashed = url.endsWith("/") ? url : `${url}/`;
-  return {
+  const entry: SitemapEntry = {
     url: `${SITE_URL}${slashed}`,
-    lastModified: getGitLastMod(sourceFile),
     priority,
   };
+  // Only attach lastmod when a source file uniquely represents this URL.
+  // Shared dynamic templates are not URL-level modification signals; omitting an
+  // inaccurate date is explicitly safer than marking 250k pages as newly changed.
+  if (sourceFile) entry.lastModified = getGitLastMod(sourceFile);
+  return entry;
 }
 
 export default async function sitemap(props: { id: Promise<string> }): Promise<MetadataRoute.Sitemap> {
@@ -116,69 +135,37 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
   // All ~180 country hubs (not just DE/RO/HU) — each builds a /<lang>/<country>/ page.
   const countryUrls = SUPPORTED_LANGS.flatMap((lang) =>
     ALL_COUNTRY_IDS.map((cid) =>
-      createEntry(buildCountryPath(lang, cid), "app/[lang]/[country]/page.tsx", 0.9),
+      createEntry(buildCountryPath(lang, cid), null, 0.9),
     ),
   ).concat([
-    createEntry(buildCountryPath("it", "italy"), "app/[lang]/[country]/page.tsx", 0.9),
-    createEntry(buildCountryPath("es", "spain"), "app/[lang]/[country]/page.tsx", 0.9),
-    createEntry(buildCountryPath("pt", "portugal"), "app/[lang]/[country]/page.tsx", 0.9),
+    createEntry(buildCountryPath("it", "italy"), null, 0.9),
+    createEntry(buildCountryPath("es", "spain"), null, 0.9),
+    createEntry(buildCountryPath("pt", "portugal"), null, 0.9),
   ]);
   // Category hub pages: /<lang>/<country>/category/<type>/ (cities, castles, mountains, …).
   const categoryUrls = SUPPORTED_LANGS.flatMap((lang) =>
     CATEGORY_PARAMS.map(({ countryId, bucket }) =>
       createEntry(
         `/${lang}/${countrySlugFor(lang as Lang, countryId)}/category/${typeSlugFor(bucket, lang as Lang)}/`,
-        "app/[lang]/[country]/category/[type]/page.tsx",
+        null,
         0.7,
       ),
     ),
   );
   for (const { countryId, bucket } of CATEGORY_PARAMS) {
     if (countryId === "italy") {
-      categoryUrls.push(createEntry(`/it/italia/category/${typeSlugFor(bucket, "it")}/`, "app/[lang]/[country]/category/[type]/page.tsx", 0.7));
+      categoryUrls.push(createEntry(`/it/italia/category/${typeSlugFor(bucket, "it")}/`, null, 0.7));
     } else if (countryId === "spain") {
-      categoryUrls.push(createEntry(`/es/espana/category/${typeSlugFor(bucket, "es")}/`, "app/[lang]/[country]/category/[type]/page.tsx", 0.7));
+      categoryUrls.push(createEntry(`/es/espana/category/${typeSlugFor(bucket, "es")}/`, null, 0.7));
+    } else if (countryId === "portugal") {
+      categoryUrls.push(createEntry(`/pt/portugal/category/${typeSlugFor(bucket, "pt")}/`, null, 0.7));
     }
   }
 
-  const rootUrls = [
-    createEntry("/", "app/page.tsx", 1),
-    createEntry("/de/", "app/de/page.tsx", 1),
-    createEntry("/hu/", "app/hu/page.tsx", 1),
-    createEntry("/ro/", "app/ro/page.tsx", 1),
-    createEntry("/en/", "app/en/page.tsx", 1),
-    createEntry("/learn", "app/learn/page.tsx", 0.9),
-    createEntry("/europe-map", "app/europe-map/page.tsx", 0.9),
-    createEntry("/deutschland-map", "app/deutschland-map/page.tsx", 0.9),
-    createEntry("/magyarorszag-map", "app/magyarorszag-map/page.tsx", 0.9),
-    createEntry("/romania-map", "app/romania-map/page.tsx", 0.9),
-    createEntry("/france-map", "app/france-map/page.tsx", 0.9),
-    createEntry("/italy-map", "app/italy-map/page.tsx", 0.9),
-    createEntry("/spain-map", "app/spain-map/page.tsx", 0.9),
-    createEntry("/unitedkingdom-map", "app/unitedkingdom-map/page.tsx", 0.9),
-    createEntry("/netherlands-map", "app/netherlands-map/page.tsx", 0.9),
-    createEntry("/poland-map", "app/poland-map/page.tsx", 0.9),
-    createEntry("/austria-map", "app/austria-map/page.tsx", 0.9),
-    createEntry("/iceland-map", "app/iceland-map/page.tsx", 0.9),
-    createEntry("/malta-map", "app/malta-map/page.tsx", 0.9),
-    createEntry("/cyprus-map", "app/cyprus-map/page.tsx", 0.9),
-    createEntry("/albania-map", "app/albania-map/page.tsx", 0.9),
-    createEntry("/serbia-map", "app/serbia-map/page.tsx", 0.9),
-    createEntry("/bosnia-map", "app/bosnia-map/page.tsx", 0.9),
-    createEntry("/montenegro-map", "app/montenegro-map/page.tsx", 0.9),
-    createEntry("/northmacedonia-map", "app/northmacedonia-map/page.tsx", 0.9),
-    createEntry("/kosovo-map", "app/kosovo-map/page.tsx", 0.9),
-    createEntry("/liechtenstein-map", "app/liechtenstein-map/page.tsx", 0.9),
-    createEntry("/moldova-map", "app/moldova-map/page.tsx", 0.9),
-    createEntry("/ukraine-map", "app/ukraine-map/page.tsx", 0.9),
-    createEntry("/belarus-map", "app/belarus-map/page.tsx", 0.9),
-    createEntry("/andorra-map", "app/andorra-map/page.tsx", 0.9),
-    createEntry("/monaco-map", "app/monaco-map/page.tsx", 0.9),
-    createEntry("/sanmarino-map", "app/sanmarino-map/page.tsx", 0.9),
-    createEntry("/vatican-map", "app/vatican-map/page.tsx", 0.9),
-    createEntry("/astro-ai", "app/astro-ai/page.tsx", 0.9),
-    createEntry("/aitest", "app/aitest/page.tsx", 0.9),
-  ];
+  const rootUrls: SitemapEntry[] = STATIC_ROOT_PAGES.map((page) =>
+    createEntry(page.url, page.source, page.priority),
+  );
+  for (const mapPath of STATIC_MAP_PATHS) rootUrls.push(createEntry(mapPath, null, 0.9));
 
   // Per-language learning game + test routes. Each has an app/[lang]/<route>/
   // SSG wrapper that prerenders localized static HTML + a 4-lang hreflang cluster
@@ -200,13 +187,13 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
   );
 
   const stateUrls = SUPPORTED_LANGS.flatMap((lang) =>
-    INDEXABLE_REGIONS.map((state) => createEntry(buildStatePath(lang, state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8)),
+    INDEXABLE_REGIONS.map((state) => createEntry(buildStatePath(lang, state.id), null, 0.8)),
   );
   for (const state of INDEXABLE_REGIONS) {
     const countryId = getCountryIdStrict(state.id);
-    if (countryId === "italy") stateUrls.push(createEntry(buildStatePath("it", state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8));
-    if (countryId === "spain") stateUrls.push(createEntry(buildStatePath("es", state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8));
-    if (countryId === "portugal") stateUrls.push(createEntry(buildStatePath("pt", state.id), "app/[lang]/[country]/[state]/page.tsx", 0.8));
+    if (countryId === "italy") stateUrls.push(createEntry(buildStatePath("it", state.id), null, 0.8));
+    if (countryId === "spain") stateUrls.push(createEntry(buildStatePath("es", state.id), null, 0.8));
+    if (countryId === "portugal") stateUrls.push(createEntry(buildStatePath("pt", state.id), null, 0.8));
   }
 
   // SEO: csak az indexálható (megfelelő tartalmú) POI-kat tesszük a sitemap-ba.
@@ -219,7 +206,7 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
     for (const poi of indexablePois) {
       const p = buildPoiPath(lang, poi);
       if (BAD_URLS.has(p)) continue;
-      poiUrls.push(createEntry(p, "app/[lang]/[country]/[state]/[poi]/page.tsx", 0.6));
+      poiUrls.push(createEntry(p, null, 0.6));
     }
   }
   // Extra langs per POI (fr / tr) — only when descAdv is ≥700 chars in that lang
@@ -230,7 +217,7 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
     for (const lang of extras) {
       const p = buildPoiPath(lang, poi);
       if (BAD_URLS.has(p)) continue;
-      poiUrls.push(createEntry(p, "app/[lang]/[country]/[state]/[poi]/page.tsx", 0.55));
+      poiUrls.push(createEntry(p, null, 0.55));
     }
   }
 
@@ -242,20 +229,28 @@ export default async function sitemap(props: { id: Promise<string> }): Promise<M
       const host = poiById.get(sp.host_id);
       if (!host || !host.parent) continue;
       const url = buildPoiPath(lang, host).replace(/\/$/, "") + "/sight/" + sp.slug + "/";
-      sightUrls.push(createEntry(url, "scripts/generate-poi-html.mts", 0.55));
+      sightUrls.push(createEntry(url, null, 0.55));
     }
   }
 
   // poiUrls can have 100k+ entries; array-spread with >65k items hits V8's
   // argument-count limit (RangeError). Use push-loop instead.
   const all: ReturnType<typeof createEntry>[] = [];
-  for (const u of rootUrls) all.push(u);
-  for (const u of gameUrls) all.push(u);
-  for (const u of countryUrls) all.push(u);
-  for (const u of categoryUrls) all.push(u);
-  for (const u of stateUrls) all.push(u);
-  for (const u of poiUrls) all.push(u);
-  for (const u of sightUrls) all.push(u);
+  const seenUrls = new Set<string>();
+  const appendUnique = (entries: ReturnType<typeof createEntry>[]) => {
+    for (const entry of entries) {
+      if (seenUrls.has(entry.url)) continue;
+      seenUrls.add(entry.url);
+      all.push(entry);
+    }
+  };
+  appendUnique(rootUrls);
+  appendUnique(gameUrls);
+  appendUnique(countryUrls);
+  appendUnique(categoryUrls);
+  appendUnique(stateUrls);
+  appendUnique(poiUrls);
+  appendUnique(sightUrls);
   // Chunk: id 0 = first 40k URLs, id 1 = next 40k, etc.
   const start = id * CHUNK_SIZE;
   return all.slice(start, start + CHUNK_SIZE);

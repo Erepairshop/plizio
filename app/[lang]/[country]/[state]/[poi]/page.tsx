@@ -14,6 +14,7 @@ import {
   TYPE_BUCKETS,
   TYPE_HEADINGS,
   TYPE_INDEX_COUNTRIES,
+  isIndexableCategory,
   typeSlugFor,
 } from "@/lib/seo/typeIndex";
 import {
@@ -320,7 +321,7 @@ export default async function PoiPage({
 
         {grouped.sameTopic.length ? (() => {
           const bucket = Object.entries(TYPE_BUCKETS).find(([, types]) => types.includes(poi.type))?.[0];
-          const showLink = bucket && TYPE_INDEX_COUNTRIES.includes(countryId);
+          const showLink = bucket && TYPE_INDEX_COUNTRIES.includes(countryId) && isIndexableCategory(countryId, bucket);
           const seeAllHref = showLink ? `/${resolved.lang}/${countrySlugFor(resolved.lang as Lang, countryId)}/category/${typeSlugFor(bucket!, resolved.lang as Lang)}/` : null;
           const seeAllLabel = resolved.lang === "de" ? "Alle ansehen" : resolved.lang === "hu" ? "Összes megtekintése" : resolved.lang === "ro" ? "Vezi toate" : "View all";
           return (

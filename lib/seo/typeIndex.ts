@@ -15,6 +15,11 @@ export const TYPE_BUCKETS: Record<string, string[]> = {
   nature: ["forest", "island", "sea", "nature"],
 };
 
+// Keep legacy category URLs buildable from 4 items so previously published links
+// do not turn into 404s. Only stronger hubs enter sitemap/hreflang/indexing.
+export const MIN_BUILT_CATEGORY_ITEMS = 4;
+export const MIN_INDEXABLE_CATEGORY_ITEMS = 20;
+
 // Type-bucket slug per language
 export const TYPE_SLUGS: Record<string, Partial<Record<Lang, string>>> = {
   cities:     { de: "staedte",            hu: "varosok",           ro: "orase",                en: "cities", it: "citta", es: "ciudades", pt: "cidades" },
@@ -71,8 +76,12 @@ export function getPoisForCountryBucket(countryId: string, bucket: string): POI[
   return out;
 }
 
+export function isIndexableCategory(countryId: string, bucket: string): boolean {
+  return getPoisForCountryBucket(countryId, bucket).length >= MIN_INDEXABLE_CATEGORY_ITEMS;
+}
+
 // Country IDs eligible for type-index pages (matches COUNTRY_SLUGS keys)
 export const TYPE_INDEX_COUNTRIES = [
   "germany", "hungary", "romania", "france", "united-kingdom", "austria", "switzerland",
-  "italy", "spain", "poland", "netherlands", "belgium",
+  "italy", "spain", "portugal", "poland", "netherlands", "belgium",
 ];

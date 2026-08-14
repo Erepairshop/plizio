@@ -5,7 +5,7 @@ import {
   TYPE_BUCKETS,
   TYPE_HEADINGS,
   TYPE_INDEX_COUNTRIES,
-  getPoisForCountryBucket,
+  isIndexableCategory,
   typeSlugFor,
 } from "@/lib/seo/typeIndex";
 import StructuredData, { createCountryStructuredData } from "@/components/seo/StructuredData";
@@ -233,8 +233,7 @@ export default async function CountryPage({
             </h2>
             <ul className="mt-4 flex flex-wrap gap-2">
               {Object.keys(TYPE_BUCKETS).map((bucket) => {
-                const count = getPoisForCountryBucket(countryId, bucket).length;
-                if (count < 4) return null;
+                if (!isIndexableCategory(countryId, bucket)) return null;
                 const slug = typeSlugFor(bucket, lang as Lang);
                 const heading = TYPE_HEADINGS[bucket][lang as Lang] ?? TYPE_HEADINGS[bucket].en;
                 return (
