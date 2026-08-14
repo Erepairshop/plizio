@@ -50,6 +50,7 @@ const STATIC_ROOT_PAGES = [
   { url: "/learn/", source: "app/learn/page.tsx", priority: 0.9 },
   { url: "/astro-ai/", source: "app/astro-ai/page.tsx", priority: 0.9 },
   { url: "/aitest/", source: "app/aitest/page.tsx", priority: 0.9 },
+  { url: "/postcard/", source: "app/postcard/page.tsx", priority: 0.8 },
 ] as const;
 
 // Tier-1 sight page index — loaded at build time. Each entry produces
