@@ -3165,9 +3165,15 @@ function renderHtml(poi: POI, lang: Lang): string | null {
   // Facts: prefer advanced
   const factsAdv = (poi as { factsAdvanced?: Record<string, string[]> }).factsAdvanced;
   const factsShort = poi.facts as Record<string, string[]> | undefined;
-  const factsArr = (getLocalized(factsAdv as Partial<Record<string, string[]>>, lang)
-    || getLocalized(factsShort as Partial<Record<string, string[]>>, lang)
-    || []) as string[];
+  // Never let a German advanced list hide an existing target-language list.
+  // Missing translated facts are omitted instead of leaking another language.
+  const exactFacts = (source: Record<string, string[]> | undefined): string[] | undefined => {
+    const values = source?.[lang];
+    return Array.isArray(values) && values.some((value) => typeof value === "string" && value.trim())
+      ? values
+      : undefined;
+  };
+  const factsArr = exactFacts(factsAdv) || exactFacts(factsShort) || [];
 
   const url = `${SITE_URL}${buildPoiPath(lang, poi)}`;
   const richness = pageRichness(poi, lang);
@@ -4413,7 +4419,9 @@ function renderSightHtml(host: POI, data: any, lang: Lang): string {
   // (was falling back to .de and getting indexed as wrong-language duplicate).
   const sightDescEmpty = !_descRaw || _descRaw.trim().length < 80;
   const desc = deSlop(stripCurriculumLeak(_descRaw || data.descriptionAdvanced?.de || ""), lang, host.id + ":sp:" + (data.slug || sightName));
-  const facts = (data.factsAdvanced && data.factsAdvanced[lang]) || data.factsAdvanced?.de || [];
+  // Never render German facts under a different page language when the
+  // translation is unavailable.
+  const facts = (data.factsAdvanced && data.factsAdvanced[lang]) || [];
   const p = data.practical || {};
   const hostName = (host.name as any)?.[lang] || (host.name as any)?.de || host.id;
   const hostUrl = buildPoiPath(lang, host);
