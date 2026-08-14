@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import dynamic from "next/dynamic";
 import { useRouter } from "next/navigation";
 import Link from "next/link";
-import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Radio, ScrollText, Castle, Cpu, Sparkles, GraduationCap, Gamepad2, ChevronDown, Map as MapIcon, type LucideIcon } from "lucide-react";
+import { Crosshair, Zap, Brain, Mountain, Trophy, Layers, BookOpen, Car, Search, Hash, Shuffle, Crown, Calculator, Swords, PenLine, Puzzle, Lightbulb, Merge, Grid3x3, Navigation, Medal, CircleDot, Rocket, Languages, Microscope, Leaf, GitBranch, Ghost, History as HistoryIcon, Radio, ScrollText, Castle, Cpu, Sparkles, GraduationCap, Gamepad2, ChevronDown, Mail, Map as MapIcon, type LucideIcon } from "lucide-react";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
 import HamburgerMenu from "@/components/HamburgerMenu";
 import { getCards } from "@/lib/cards";
@@ -848,10 +848,10 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
 
 /* The 3 homepage module cards (Karte / Lernen / Spiele) */
 const HOME_T = {
-  de: { karte: "Karte", karteSub: "6 Kontinente spielerisch erkunden", lernen: "Lernen", lernenSub: "Fächer, Astro-Spiele und Tests", spiele: "Spiele", spieleSub: "Quiz, Logik, Abenteuer und Sport", allSubjects: "Alle Fächer öffnen" },
-  en: { karte: "Maps", karteSub: "Explore 6 continents through play", lernen: "Learn", lernenSub: "Subjects, astro games and tests", spiele: "Games", spieleSub: "Quiz, logic, adventure and sport", allSubjects: "Open all subjects" },
-  hu: { karte: "Térkép", karteSub: "6 kontinens játékos felfedezése", lernen: "Tanulás", lernenSub: "Tantárgyak, astro játékok és tesztek", spiele: "Játékok", spieleSub: "Kvíz, logika, kaland és sport", allSubjects: "Összes tantárgy" },
-  ro: { karte: "Hartă", karteSub: "Explorează 6 continente prin joc", lernen: "Învățare", lernenSub: "Materii, jocuri astro și teste", spiele: "Jocuri", spieleSub: "Quiz, logică, aventură și sport", allSubjects: "Toate materiile" },
+  de: { karte: "Karte", karteSub: "6 Kontinente spielerisch erkunden", lernen: "Lernen", lernenSub: "Fächer, Astro-Spiele und Tests", spiele: "Spiele", spieleSub: "Quiz, Logik, Abenteuer und Sport", allSubjects: "Alle Fächer öffnen", postcard: "Postkarte gestalten" },
+  en: { karte: "Maps", karteSub: "Explore 6 continents through play", lernen: "Learn", lernenSub: "Subjects, astro games and tests", spiele: "Games", spieleSub: "Quiz, logic, adventure and sport", allSubjects: "Open all subjects", postcard: "Create a postcard" },
+  hu: { karte: "Térkép", karteSub: "6 kontinens játékos felfedezése", lernen: "Tanulás", lernenSub: "Tantárgyak, astro játékok és tesztek", spiele: "Játékok", spieleSub: "Kvíz, logika, kaland és sport", allSubjects: "Összes tantárgy", postcard: "Képeslap készítése" },
+  ro: { karte: "Hartă", karteSub: "Explorează 6 continente prin joc", lernen: "Învățare", lernenSub: "Materii, jocuri astro și teste", spiele: "Jocuri", spieleSub: "Quiz, logică, aventură și sport", allSubjects: "Toate materiile", postcard: "Creează o carte poștală" },
 } as const;
 
 function getCategoriesWithTranslations(lang: string): CategoryDef[] {
@@ -1076,9 +1076,9 @@ export default function Home() {
         {/* Nav buttons — right */}
         <div className="flex items-center gap-2 pointer-events-auto">
           {([
-            { href: "/learn", icon: GraduationCap, delay: 0.42 },
-            { href: "/multiplayer", icon: Swords, delay: 0.48 },
-            { href: "/collection", icon: Trophy, delay: 0.54 },
+            { href: "/learn", icon: GraduationCap, label: ht.lernen, delay: 0.42 },
+            { href: `/postcard/?lang=${lang}`, icon: Mail, label: ht.postcard, delay: 0.48 },
+            { href: "/collection", icon: Trophy, label: "Collection", delay: 0.54 },
           ] as const).map((btn) => {
             const Icon = btn.icon;
             return (
@@ -1090,6 +1090,8 @@ export default function Home() {
                 <button
                   onClick={() => router.push(btn.href)}
                   className="paper-icon-button active:scale-90"
+                  aria-label={btn.label}
+                  title={btn.label}
                 >
                   <Icon size={18} />
                 </button>
@@ -1105,6 +1107,9 @@ export default function Home() {
           <p className="paper-kicker mb-2">INTERACTIVE ATLAS · LEARNING LAB</p>
           <h1 className="paper-wordmark text-6xl font-bold tracking-[-.06em]">PLIZIO</h1>
           <p className="mt-2 text-[10px] font-bold tracking-[0.35em] text-[#6b6356]">PLAY · LEARN · THINK</p>
+          <Link href={`/postcard/?lang=${lang}`} className="mx-auto mt-4 inline-flex items-center gap-2 rounded-full border border-[#b4502a]/35 bg-[#fffaf0]/80 px-4 py-2 text-sm font-extrabold text-[#8f3d1f] shadow-[3px_3px_0_rgba(180,80,42,.14)] transition hover:-translate-y-0.5 hover:bg-white">
+            <Mail size={17} /> {ht.postcard}
+          </Link>
           {username && <p className="mt-2 text-xs font-bold tracking-wider text-[#6b6356]">{username}</p>}
           {(streak > 0 || specialCount > 0 || cardCount > 0) && (
             <div className="mt-2 flex items-center justify-center gap-5 text-xs font-extrabold">

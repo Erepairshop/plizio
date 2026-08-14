@@ -28,6 +28,7 @@ const GROUPS: Group[] = [
       { href: "/hu/", label: "Úti célok (Magyar)" },
       { href: "/ro/", label: "Destinații (Română)" },
       { href: "/blog", label: "Blog" },
+      { href: "/postcard/", label: "Free Postcard Maker" },
     ],
   },
   {
@@ -55,7 +56,6 @@ const GROUPS: Group[] = [
   {
     title: "Games",
     links: [
-      { href: "/multiplayer", label: "Multiplayer" },
       { href: "/citydrive", label: "City Drive" },
       { href: "/skyclimb", label: "Sky Climb" },
       { href: "/racetrack", label: "Race Track" },

@@ -109,6 +109,9 @@ jobs:
           NODE_OPTIONS: --max-old-space-size=16384
         run: npx tsx scripts/build-poi-url-index.mts
 
+      - name: Build postcard place search index
+        run: npx tsx scripts/build-postcard-place-index.mts
+
       - name: Build static country + metro maps
         env:
           NODE_OPTIONS: --max-old-space-size=8192

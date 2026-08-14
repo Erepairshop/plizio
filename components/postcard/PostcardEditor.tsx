@@ -1,7 +1,7 @@
 "use client";
 
 import { ChangeEvent, useEffect, useRef, useState } from "react";
-import { AlignCenter, AlignLeft, AlignRight, Camera, Check, Copy, Download, Globe2, ImagePlus, Link2, LoaderCircle, MapPin, RotateCcw, Send, ShieldCheck, SlidersHorizontal, Sparkles, Stamp, Type } from "lucide-react";
+import { AlignCenter, AlignLeft, AlignRight, Camera, Check, Copy, Download, Globe2, ImagePlus, Link2, LoaderCircle, MapPin, RotateCcw, Search, Send, ShieldCheck, SlidersHorizontal, Sparkles, Stamp, Type } from "lucide-react";
 import { canvasToBlob, renderPostcard, type PostcardFont, type PostcardLanguage, type PostcardPhotoEdit, type PostcardStamp, type PostcardTextAlign, type PostcardTheme } from "@/lib/postcard/renderPostcard";
 import { getLanguage } from "@/lib/language";
 
@@ -17,6 +17,7 @@ const FONT_PREVIEWS: Record<PostcardFont, string> = {
   typewriter: '"Courier New", monospace',
 };
 type ShareExpiry = "7" | "30" | "forever";
+type PlaceSearchRow = [name: string, country: string, url: string, lat: number | null, lng: number | null, kind: string];
 
 const COPY = {
   de: {
@@ -24,6 +25,7 @@ const COPY = {
     studio: "Postkartenstudio", eyebrow: "Eine Reise wird zur persönlichen Erinnerung", titleA: "Sende ein Stück", titleB: "der Welt.",
     intro: "Gestalte eine echte, persönliche Postkarte aus deinem eigenen Foto. Ohne Anmeldung; dein Bild bleibt auf dem Gerät, bis du bewusst einen teilbaren Link erstellst.",
     place: "Ort", country: "Land", choosePhoto: "Eigenes Foto auswählen", photoHint: "JPG, PNG oder Smartphone-Foto", message: "Nachricht",
+    placeSearch: "Ort auf Plizio suchen", placeSearchHint: "Stadt oder Sehenswürdigkeit eingeben", placeSearching: "Orte werden gesucht…", placeNoResults: "Kein passender Ort gefunden. Du kannst den Namen unten weiterhin selbst eingeben.",
     sender: "Unterschrift", senderPlaceholder: "Dein Name (optional)", style: "Stil", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Luftpost", scrapbook: "Reisetagebuch", minimal: "Minimal" },
     photoEdit: "Foto bearbeiten", zoom: "Zoom", horizontal: "Horizontal", vertical: "Vertikal", rotation: "Drehung", brightness: "Helligkeit", contrast: "Kontrast", saturation: "Sättigung", reset: "Zurücksetzen",
     textDesign: "Text gestalten", font: "Schrift", fontSize: "Größe", alignment: "Ausrichtung", fonts: { classic: "Klassisch", handwritten: "Handschrift", editorial: "Editorial", modern: "Modern", typewriter: "Schreibmaschine" },
@@ -43,6 +45,7 @@ const COPY = {
     studio: "Képeslapstúdió", eyebrow: "Egy utazásból személyes emlék", titleA: "Küldj egy darabot", titleB: "a világból.",
     intro: "Készíts valódi, személyes képeslapot saját fotódból. Nincs regisztráció; a képed addig marad az eszközödön, amíg külön megosztható linket nem készítesz.",
     place: "Hely", country: "Ország", choosePhoto: "Saját fotó kiválasztása", photoHint: "JPG, PNG vagy telefonos fotó", message: "Üzenet",
+    placeSearch: "Hely keresése a Plizión", placeSearchHint: "Írj be egy várost vagy látnivalót", placeSearching: "Helyek keresése…", placeNoResults: "Nem találtam megfelelő helyet. Alul kézzel is beírhatod.",
     sender: "Aláírás", senderPlaceholder: "A neved (nem kötelező)", style: "Stílus", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Légiposta", scrapbook: "Utazási napló", minimal: "Minimal" },
     photoEdit: "Fotó szerkesztése", zoom: "Nagyítás", horizontal: "Vízszintes", vertical: "Függőleges", rotation: "Forgatás", brightness: "Fényerő", contrast: "Kontraszt", saturation: "Színtelítettség", reset: "Alaphelyzet",
     textDesign: "Szöveg formázása", font: "Betűtípus", fontSize: "Méret", alignment: "Igazítás", fonts: { classic: "Klasszikus", handwritten: "Kézírás", editorial: "Elegáns", modern: "Modern", typewriter: "Írógép" },
@@ -62,6 +65,7 @@ const COPY = {
     studio: "Postcard studio", eyebrow: "Turn a journey into a personal memory", titleA: "Send a piece", titleB: "of the world.",
     intro: "Create a real, personal postcard from your own photo. No sign-up; your image stays on your device until you deliberately create a shareable link.",
     place: "Place", country: "Country", choosePhoto: "Choose your own photo", photoHint: "JPG, PNG or smartphone photo", message: "Message",
+    placeSearch: "Find a place on Plizio", placeSearchHint: "Type a city or attraction", placeSearching: "Searching places…", placeNoResults: "No matching place found. You can still enter it manually below.",
     sender: "Signature", senderPlaceholder: "Your name (optional)", style: "Style", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Air mail", scrapbook: "Scrapbook", minimal: "Minimal" },
     photoEdit: "Edit photo", zoom: "Zoom", horizontal: "Horizontal", vertical: "Vertical", rotation: "Rotation", brightness: "Brightness", contrast: "Contrast", saturation: "Saturation", reset: "Reset",
     textDesign: "Style text", font: "Font", fontSize: "Size", alignment: "Alignment", fonts: { classic: "Classic", handwritten: "Handwritten", editorial: "Editorial", modern: "Modern", typewriter: "Typewriter" },
@@ -81,6 +85,7 @@ const COPY = {
     studio: "Studio de cărți poștale", eyebrow: "Transformă o călătorie într-o amintire personală", titleA: "Trimite o parte", titleB: "din lume.",
     intro: "Creează o carte poștală personală din fotografia ta. Fără înregistrare; imaginea rămâne pe dispozitiv până când creezi în mod intenționat un link de distribuire.",
     place: "Loc", country: "Țară", choosePhoto: "Alege fotografia ta", photoHint: "JPG, PNG sau fotografie de telefon", message: "Mesaj",
+    placeSearch: "Caută un loc pe Plizio", placeSearchHint: "Scrie un oraș sau un obiectiv", placeSearching: "Se caută locuri…", placeNoResults: "Nu am găsit locul. Îl poți introduce manual mai jos.",
     sender: "Semnătură", senderPlaceholder: "Numele tău (opțional)", style: "Stil", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Poștă aeriană", scrapbook: "Jurnal de călătorie", minimal: "Minimal" },
     photoEdit: "Editează fotografia", zoom: "Zoom", horizontal: "Orizontal", vertical: "Vertical", rotation: "Rotire", brightness: "Luminozitate", contrast: "Contrast", saturation: "Saturație", reset: "Resetează",
     textDesign: "Stilizează textul", font: "Font", fontSize: "Mărime", alignment: "Aliniere", fonts: { classic: "Clasic", handwritten: "Scris de mână", editorial: "Editorial", modern: "Modern", typewriter: "Mașină de scris" },
@@ -100,6 +105,7 @@ const COPY = {
     studio: "Studio di cartoline", eyebrow: "Trasforma un viaggio in un ricordo personale", titleA: "Invia un pezzo", titleB: "di mondo.",
     intro: "Crea una cartolina personale con la tua foto. Non serve registrarsi; l'immagine resta sul dispositivo finché non scegli di creare un link condivisibile.",
     place: "Luogo", country: "Paese", choosePhoto: "Scegli una foto", photoHint: "JPG, PNG o foto dello smartphone", message: "Messaggio",
+    placeSearch: "Cerca un luogo su Plizio", placeSearchHint: "Scrivi una città o un'attrazione", placeSearching: "Ricerca dei luoghi…", placeNoResults: "Nessun luogo trovato. Puoi inserirlo manualmente qui sotto.",
     sender: "Firma", senderPlaceholder: "Il tuo nome (opzionale)", style: "Stile", themes: { vintage: "Vintage", polaroid: "Polaroid", airmail: "Posta aerea", scrapbook: "Diario di viaggio", minimal: "Minimal" },
     photoEdit: "Modifica foto", zoom: "Zoom", horizontal: "Orizzontale", vertical: "Verticale", rotation: "Rotazione", brightness: "Luminosità", contrast: "Contrasto", saturation: "Saturazione", reset: "Ripristina",
     textDesign: "Stile del testo", font: "Carattere", fontSize: "Dimensione", alignment: "Allineamento", fonts: { classic: "Classico", handwritten: "Corsivo", editorial: "Editoriale", modern: "Moderno", typewriter: "Macchina da scrivere" },
@@ -118,6 +124,10 @@ const COPY = {
 
 function isLanguage(value: string | null): value is PostcardLanguage {
   return value === "de" || value === "hu" || value === "en" || value === "ro" || value === "it";
+}
+
+function normalizePlaceSearch(value: string): string {
+  return value.normalize("NFKD").replace(/\p{M}/gu, "").toLocaleLowerCase("en").replace(/[^a-z0-9]+/g, " ").trim();
 }
 
 function trackPostcard(event: string, data?: Record<string, string>) {
@@ -164,6 +174,7 @@ export default function PostcardEditor() {
   const canvasRef = useRef<HTMLCanvasElement>(null);
   const imageRef = useRef<HTMLImageElement | null>(null);
   const objectUrlRef = useRef<string | null>(null);
+  const placeShardCacheRef = useRef(new Map<string, PlaceSearchRow[]>());
   const [lang, setLang] = useState<PostcardLanguage>("en");
   const [place, setPlace] = useState(COPY.en.placeDefault);
   const [country, setCountry] = useState(COPY.en.countryDefault);
@@ -171,6 +182,10 @@ export default function PostcardEditor() {
   const [longitude, setLongitude] = useState<number | undefined>();
   const [placeKind, setPlaceKind] = useState("");
   const [sourcePoiUrl, setSourcePoiUrl] = useState("");
+  const [placeQuery, setPlaceQuery] = useState("");
+  const [placeSuggestions, setPlaceSuggestions] = useState<PlaceSearchRow[]>([]);
+  const [placeSearchState, setPlaceSearchState] = useState<"idle" | "loading" | "empty" | "ready">("idle");
+  const [placeSearchOpen, setPlaceSearchOpen] = useState(false);
   const [message, setMessage] = useState(COPY.en.messageDefault);
   const [sender, setSender] = useState("");
   const [theme, setTheme] = useState<PostcardTheme>("vintage");
@@ -200,6 +215,7 @@ export default function PostcardEditor() {
     const initialPlace = params.get(`place_${preferredLanguage}`) || params.get("place");
     const initialCountry = params.get(`country_${preferredLanguage}`) || params.get("country");
     setPlace(initialPlace ? initialPlace.slice(0, 80) : preferredCopy.placeDefault);
+    setPlaceQuery(initialPlace ? initialPlace.slice(0, 80) : "");
     setCountry(initialCountry ? initialCountry.slice(0, 60) : preferredCopy.countryDefault);
     const latitudeParam = params.get("lat");
     const longitudeParam = params.get("lng");
@@ -247,6 +263,51 @@ export default function PostcardEditor() {
   }, []);
 
   useEffect(() => {
+    if (!placeSearchOpen) return;
+    const query = normalizePlaceSearch(placeQuery);
+    if (query.length < 2) {
+      setPlaceSuggestions([]);
+      setPlaceSearchState("idle");
+      return;
+    }
+
+    const bucket = query.charAt(0) || "_";
+    const cacheKey = `${lang}/${bucket}`;
+    const controller = new AbortController();
+    const timer = window.setTimeout(async () => {
+      setPlaceSearchState("loading");
+      try {
+        let rows = placeShardCacheRef.current.get(cacheKey);
+        if (!rows) {
+          const response = await fetch(`/data/postcard-places/${lang}/${encodeURIComponent(bucket)}.json`, { signal: controller.signal });
+          if (!response.ok) throw new Error("place_index");
+          rows = await response.json() as PlaceSearchRow[];
+          placeShardCacheRef.current.set(cacheKey, rows);
+        }
+        const matches = rows
+          .filter((row) => normalizePlaceSearch(row[0]).includes(query))
+          .sort((a, b) => {
+            const aStarts = normalizePlaceSearch(a[0]).startsWith(query) ? 0 : 1;
+            const bStarts = normalizePlaceSearch(b[0]).startsWith(query) ? 0 : 1;
+            return aStarts - bStarts || a[0].localeCompare(b[0], lang);
+          })
+          .slice(0, 8);
+        setPlaceSuggestions(matches);
+        setPlaceSearchState(matches.length ? "ready" : "empty");
+      } catch (error) {
+        if (error instanceof DOMException && error.name === "AbortError") return;
+        setPlaceSuggestions([]);
+        setPlaceSearchState("empty");
+      }
+    }, 220);
+
+    return () => {
+      window.clearTimeout(timer);
+      controller.abort();
+    };
+  }, [lang, placeQuery, placeSearchOpen]);
+
+  useEffect(() => {
     if (!canvasRef.current) return;
     renderPostcard(canvasRef.current, imageRef.current, { place, country, latitude, longitude, placeKind, message, sender, theme, date, lang, font, fontSize, textAlign, stamp, photoEdit });
   }, [place, country, latitude, longitude, placeKind, message, sender, theme, date, lang, font, fontSize, textAlign, stamp, photoEdit, photoName, imageRevision]);
@@ -258,10 +319,31 @@ export default function PostcardEditor() {
   useEffect(() => {
     setPublicUrl("");
     setLinkCopied(false);
-  }, [place, country, message, sender, theme, font, fontSize, textAlign, stamp, photoEdit, photoName, imageRevision]);
+  }, [place, country, latitude, longitude, placeKind, sourcePoiUrl, message, sender, theme, font, fontSize, textAlign, stamp, photoEdit, photoName, imageRevision]);
 
   function updatePhotoEdit(key: keyof PostcardPhotoEdit, value: number) {
     setPhotoEdit((current) => ({ ...current, [key]: value }));
+  }
+
+  function choosePlace(row: PlaceSearchRow) {
+    setPlace(row[0]);
+    setCountry(row[1]);
+    setSourcePoiUrl(row[2]);
+    setLatitude(row[3] ?? undefined);
+    setLongitude(row[4] ?? undefined);
+    setPlaceKind(row[5]);
+    setPlaceQuery(row[0]);
+    setPlaceSuggestions([]);
+    setPlaceSearchState("idle");
+    setPlaceSearchOpen(false);
+    trackPostcard("postcard_place_selected", { lang, kind: row[5] || "unknown" });
+  }
+
+  function clearSelectedPlace() {
+    setSourcePoiUrl("");
+    setLatitude(undefined);
+    setLongitude(undefined);
+    setPlaceKind("");
   }
 
   function loadPhoto(event: ChangeEvent<HTMLInputElement>) {
@@ -408,9 +490,43 @@ export default function PostcardEditor() {
 
         <div className="mt-8 grid min-w-0 items-start gap-7 sm:mt-10 sm:gap-8 lg:grid-cols-[0.82fr_1.18fr]">
           <div className="min-w-0 rounded-[22px] border border-[#6d5037]/20 bg-[#fffaf0]/85 p-4 shadow-[0_24px_70px_rgba(63,42,22,.12)] backdrop-blur sm:rounded-[28px] sm:p-7">
+            <div className="relative mb-5">
+              <label htmlFor="postcard-place-search" className="mb-2 flex items-center gap-2 text-xs font-bold uppercase tracking-widest"><Search size={15} /> {t.placeSearch}</label>
+              <div className="relative">
+                <input
+                  id="postcard-place-search"
+                  value={placeQuery}
+                  autoComplete="off"
+                  placeholder={t.placeSearchHint}
+                  role="combobox"
+                  aria-autocomplete="list"
+                  aria-controls="postcard-place-results"
+                  aria-expanded={placeSearchOpen && placeSuggestions.length > 0}
+                  onFocus={() => setPlaceSearchOpen(true)}
+                  onChange={(event) => {
+                    setPlaceQuery(event.target.value.slice(0, 100));
+                    setPlaceSearchOpen(true);
+                  }}
+                  className="box-border min-w-0 w-full rounded-xl border border-[#b7462f]/30 bg-white px-4 py-3 pr-11 outline-none focus:border-[#b7462f] focus:ring-2 focus:ring-[#b7462f]/10"
+                />
+                {placeSearchState === "loading" ? <LoaderCircle size={18} className="absolute right-4 top-1/2 -translate-y-1/2 animate-spin text-[#b7462f]" /> : <Search size={18} className="absolute right-4 top-1/2 -translate-y-1/2 text-[#8b7662]" />}
+              </div>
+              {placeSearchOpen && placeSuggestions.length > 0 ? (
+                <div id="postcard-place-results" role="listbox" className="absolute z-30 mt-2 max-h-72 w-full overflow-y-auto rounded-2xl border border-[#6d5037]/20 bg-[#fffdf8] p-1.5 shadow-[0_18px_45px_rgba(63,42,22,.2)]">
+                  {placeSuggestions.map((row) => (
+                    <button key={row[2]} type="button" role="option" aria-selected="false" onClick={() => choosePlace(row)} className="flex w-full items-center gap-3 rounded-xl px-3 py-2.5 text-left transition hover:bg-[#f8dec0]/55">
+                      <span className="grid h-9 w-9 shrink-0 place-items-center rounded-full bg-[#b7462f]/10 text-[#b7462f]"><MapPin size={17} /></span>
+                      <span className="min-w-0"><strong className="block truncate text-sm">{row[0]}</strong><span className="block truncate text-xs text-[#76685b]">{row[1]}</span></span>
+                    </button>
+                  ))}
+                </div>
+              ) : null}
+              {placeSearchOpen && placeSearchState === "empty" && normalizePlaceSearch(placeQuery).length >= 2 ? <p className="mt-2 text-xs leading-5 text-[#76685b]">{t.placeNoResults}</p> : null}
+              {placeSearchOpen && placeSearchState === "loading" ? <span className="sr-only" aria-live="polite">{t.placeSearching}</span> : null}
+            </div>
             <div className="grid gap-5 sm:grid-cols-2 lg:grid-cols-1 xl:grid-cols-2">
-              <label className="min-w-0 block"><span className="mb-2 flex items-center gap-2 text-xs font-bold uppercase tracking-widest"><MapPin size={15} /> {t.place}</span><input value={place} maxLength={80} onChange={(e) => setPlace(e.target.value)} className="box-border min-w-0 w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
-              <label className="min-w-0 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">{t.country}</span><input value={country} maxLength={60} onChange={(e) => setCountry(e.target.value)} className="box-border min-w-0 w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
+              <label className="min-w-0 block"><span className="mb-2 flex items-center gap-2 text-xs font-bold uppercase tracking-widest"><MapPin size={15} /> {t.place}</span><input value={place} maxLength={80} onChange={(e) => { setPlace(e.target.value); clearSelectedPlace(); }} className="box-border min-w-0 w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
+              <label className="min-w-0 block"><span className="mb-2 block text-xs font-bold uppercase tracking-widest">{t.country}</span><input value={country} maxLength={60} onChange={(e) => { setCountry(e.target.value); clearSelectedPlace(); }} className="box-border min-w-0 w-full rounded-xl border border-[#6d5037]/20 bg-white/70 px-4 py-3 outline-none focus:border-[#b7462f]" /></label>
             </div>
 
             <label className="mt-5 block cursor-pointer rounded-2xl border-2 border-dashed border-[#b7462f]/35 bg-[#f8dec0]/35 p-5 text-center transition hover:bg-[#f8dec0]/65">

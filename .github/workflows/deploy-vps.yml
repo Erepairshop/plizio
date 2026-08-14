@@ -140,6 +140,9 @@ jobs:
           NODE_OPTIONS: --max-old-space-size=16384
         run: npx tsx scripts/build-poi-url-index.mts
 
+      - name: Build postcard place search index
+        run: npx tsx scripts/build-postcard-place-index.mts
+
       # Regenerate the static country + metro maps from the freshly-split POI
       # JSONs so map markers always reflect the current data + dedup blocklist.
       # Runs before the Next build so public/*-map is copied into out/.

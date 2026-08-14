@@ -15,6 +15,7 @@ import {
   HelpCircle,
   FileText,
   Shield,
+  MailOpen,
   type LucideIcon,
 } from "lucide-react";
 import { useLang } from "@/components/LanguageProvider";
@@ -29,6 +30,12 @@ interface MenuItem {
 }
 
 const ITEMS: MenuItem[] = [
+  {
+    href: "/postcard/",
+    icon: MailOpen,
+    color: "#B4502A",
+    label: { de: "Postkarte gestalten", hu: "Képeslap készítése", ro: "Creează o carte poștală", en: "Create a postcard" },
+  },
   {
     href: "/blog",
     icon: BookOpen,
