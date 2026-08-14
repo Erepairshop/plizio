@@ -30,6 +30,7 @@ import {
   TYPE_BUCKETS,
   TYPE_HEADINGS,
   TYPE_INDEX_COUNTRIES,
+  getPoisForCountryBucket,
   isIndexableCategory,
   typeSlugFor,
 } from "@/lib/seo/typeIndex";
@@ -233,6 +234,7 @@ export default async function StatePage({
             </p>
             <ul className="mt-4 flex flex-wrap gap-2">
               {Object.keys(TYPE_BUCKETS).map((bucket) => {
+                const count = getPoisForCountryBucket(countryId, bucket).length;
                 if (!isIndexableCategory(countryId, bucket)) return null;
                 const slug = typeSlugFor(bucket, lang);
                 const heading = TYPE_HEADINGS[bucket][lang];
