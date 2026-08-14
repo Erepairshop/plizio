@@ -706,6 +706,7 @@ const HU_CITY_AS_PARENT = new Set([
 
 // region-* parent prefix → country (Serbian autonomous regions in serbiaPoi.ts)
 const REGION_PREFIX_TO_COUNTRY: Record<string, string> = {
+  "region-altmuehltal": "germany",
   "region-vojvodina": "serbia",
   "region-sumadija": "serbia",
 };
@@ -751,6 +752,7 @@ const CITY_CULT_PREFIX_TO_COUNTRY: Record<string, string> = {
   // Andorra
   "city-andorra-la-vella": "andorra", "city-canillo": "andorra",
   "city-la-massana": "andorra", "city-ordino": "andorra", "city-encamp": "andorra",
+  "city-escaldes-engordany": "andorra",
   // Ireland
   "city-cork": "ireland", "city-dublin": "ireland",
   // Portugal
@@ -771,12 +773,18 @@ const COUNTRY_NAME_AS_PARENT: Record<string, string> = {
   sweden: "sweden",
 };
 
+// Country marker records use continent/container parents. These are not orphan
+// POI parents and must stay unresolved, but they should not pollute the build
+// audit with a misleading Germany-fallback warning.
+const NON_COUNTRY_CONTAINER_PARENTS = new Set(["EU", "EUROPE", "europe", "ASIA"]);
+
 // Resolve a parent id → country slug, or null if no rule matches (unknown/orphan).
 // getCountryId keeps the legacy "germany" default; getCountryIdStrict exposes the
 // null so sitemap/url-index builders can EXCLUDE orphan POIs instead of emitting
 // dead /deutschland/ort/ URLs that Google then crawls as 404 (2026-06-12).
 function _resolveCountry(id: string): string | null {
   if (!id) return null;
+  if (NON_COUNTRY_CONTAINER_PARENTS.has(id)) return null;
   if (HU_CITY_AS_PARENT.has(id)) return "hungary";
   if (IT_CITY_AS_PARENT.has(id)) return id === "vatican-city" ? "vatican" : "italy";
   if (REGION_PREFIX_TO_COUNTRY[id]) return REGION_PREFIX_TO_COUNTRY[id];
