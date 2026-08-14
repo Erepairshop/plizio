@@ -1535,6 +1535,7 @@ function buildPostcardHref(poi: POI, lang: Lang, countryId: string): string {
   const placeName = getLocalized(poi.name, lang) ?? poi.id;
   const countryName = slugs.localizedCountryName(countryId, lang);
   const params = new URLSearchParams({ place: String(placeName), country: countryName, lang });
+  params.set("source", buildPoiPath(lang, poi));
   if (poi.coords && Number.isFinite(poi.coords[0]) && Number.isFinite(poi.coords[1])) {
     params.set("lat", Number(poi.coords[1]).toFixed(5));
     params.set("lng", Number(poi.coords[0]).toFixed(5));

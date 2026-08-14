@@ -202,7 +202,7 @@ export default async function PoiPage({
                   {copy.backToMap}
                 </a>
                 <a
-                  href={`/postcard/?place=${encodeURIComponent(poiName)}&country=${encodeURIComponent(countryCopy.name)}${poi.coords ? `&lat=${poi.coords[1]}&lng=${poi.coords[0]}` : ""}${poi.type ? `&kind=${encodeURIComponent(poi.type)}` : ""}`}
+                  href={`/postcard/?place=${encodeURIComponent(poiName)}&country=${encodeURIComponent(countryCopy.name)}&lang=${resolved.lang}&source=${encodeURIComponent(buildPoiPath(resolved.lang as Lang, poi))}${poi.coords ? `&lat=${poi.coords[1]}&lng=${poi.coords[0]}` : ""}${poi.type ? `&kind=${encodeURIComponent(poi.type)}` : ""}`}
                   className="inline-flex items-center rounded-full border border-amber-300/35 bg-amber-400/10 px-4 py-2 text-sm font-medium text-amber-100 hover:border-amber-200/60"
                 >
                   {{ hu: "Képeslap készítése", de: "Postkarte erstellen", ro: "Creează o carte poștală", en: "Create a postcard" }[resolved.lang as Lang]}

@@ -170,6 +170,7 @@ export default function PostcardEditor() {
   const [latitude, setLatitude] = useState<number | undefined>();
   const [longitude, setLongitude] = useState<number | undefined>();
   const [placeKind, setPlaceKind] = useState("");
+  const [sourcePoiUrl, setSourcePoiUrl] = useState("");
   const [message, setMessage] = useState(COPY.en.messageDefault);
   const [sender, setSender] = useState("");
   const [theme, setTheme] = useState<PostcardTheme>("vintage");
@@ -207,6 +208,16 @@ export default function PostcardEditor() {
     setLatitude(Number.isFinite(parsedLatitude) && Math.abs(parsedLatitude) <= 90 ? parsedLatitude : undefined);
     setLongitude(Number.isFinite(parsedLongitude) && Math.abs(parsedLongitude) <= 180 ? parsedLongitude : undefined);
     setPlaceKind((params.get("kind") || "").slice(0, 40));
+    const sourceCandidate = params.get("source") || document.referrer;
+    try {
+      const sourceUrl = new URL(sourceCandidate, window.location.origin);
+      const poiPathPattern = /^\/(?:de|hu|ro|en|fr|tr|hr|it|es|nl|pl|pt)\/[^/?#]+\/[^/?#]+\/[^/?#]+\/?$/;
+      if (sourceUrl.origin === window.location.origin && poiPathPattern.test(sourceUrl.pathname)) {
+        setSourcePoiUrl(sourceUrl.pathname);
+      }
+    } catch {
+      // A postcard opened directly simply has no POI backlink.
+    }
     setMessage(preferredCopy.messageDefault);
 
     async function loadPlaceImage() {
@@ -329,6 +340,7 @@ export default function PostcardEditor() {
       body.append("country", country);
       body.append("lang", lang);
       body.append("theme", theme);
+      if (sourcePoiUrl) body.append("poi_url", sourcePoiUrl);
       body.append("expiry", shareExpiry);
       body.append("consent", "yes");
       body.append("website", "");
