@@ -427,6 +427,8 @@ jobs:
           sudo chown www-data:www-data "${{ env.RELEASE_BASE }}/shared/postcards/.rate.json" 2>/dev/null || true
           sudo install -o erik -g www-data -m 0644 deploy/php/poi-image.php "${{ env.RELEASE_BASE }}/endpoint/poi-image.php"
           sudo install -o erik -g www-data -m 0644 deploy/php/postcard-share.php "${{ env.RELEASE_BASE }}/endpoint/postcard-share.php"
+          sudo install -o root -g root -m 0644 deploy/nginx/plizio-spain-parent-redirects.map /etc/nginx/plizio_spain_parent_301.map
+          sudo install -o root -g root -m 0644 deploy/nginx/plizio-spain-parent-redirects.conf /etc/nginx/conf.d/plizio_spain_parent_redirects.conf
           # Restore static nginx config if proxy was set
           if ! cmp -s deploy/nginx/plizio-static.conf /etc/nginx/sites-enabled/plizio.conf 2>/dev/null; then
             sudo cp deploy/nginx/plizio-static.conf /etc/nginx/sites-enabled/plizio.conf

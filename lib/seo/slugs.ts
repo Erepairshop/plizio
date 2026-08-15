@@ -348,6 +348,24 @@ export const COUNTRY_SLUGS: Record<string, Partial<Record<Lang, string>> & { de:
 };
 
 export const STATE_SLUGS: Record<string, Partial<Record<Lang, string>> & { de: string; hu: string; ro: string; en: string }> = {
+  // Spain - stable, localized autonomous-community slugs
+  "ES-GA": { de: "galicien", hu: "galicia", ro: "galicia", en: "galicia", es: "galicia" },
+  "ES-AS": { de: "asturien", hu: "aszturia", ro: "asturia", en: "asturias", es: "asturias" },
+  "ES-CB": { de: "kantabrien", hu: "kantabria", ro: "cantabria", en: "cantabria", es: "cantabria" },
+  "ES-PV": { de: "baskenland", hu: "baszkfold", ro: "tara-bascilor", en: "basque-country", es: "pais-vasco" },
+  "ES-NC": { de: "navarra", hu: "navarra", ro: "navarra", en: "navarre", es: "navarra" },
+  "ES-RI": { de: "la-rioja", hu: "la-rioja", ro: "la-rioja", en: "la-rioja", es: "la-rioja" },
+  "ES-AR": { de: "aragonien", hu: "aragonia", ro: "aragon", en: "aragon", es: "aragon" },
+  "ES-CT": { de: "katalonien", hu: "katalonia", ro: "catalonia", en: "catalonia", es: "cataluna" },
+  "ES-CL": { de: "kastilien-und-leon", hu: "kasztilia-es-leon", ro: "castilia-si-leon", en: "castile-and-leon", es: "castilla-y-leon" },
+  "ES-MD": { de: "madrid", hu: "madrid", ro: "madrid", en: "madrid", es: "madrid" },
+  "ES-CM": { de: "kastilien-la-mancha", hu: "kasztilia-la-mancha", ro: "castilia-la-mancha", en: "castile-la-mancha", es: "castilla-la-mancha" },
+  "ES-EX": { de: "extremadura", hu: "extremadura", ro: "extremadura", en: "extremadura", es: "extremadura" },
+  "ES-VC": { de: "valencia", hu: "valencia", ro: "valencia", en: "valencian-community", es: "comunidad-valenciana" },
+  "ES-AN": { de: "andalusien", hu: "andaluzia", ro: "andaluzia", en: "andalusia", es: "andalucia" },
+  "ES-MU": { de: "murcia", hu: "murcia", ro: "murcia", en: "murcia", es: "region-de-murcia" },
+  "ES-IB": { de: "balearen", hu: "balear-szigetek", ro: "insulele-baleare", en: "balearic-islands", es: "islas-baleares" },
+  "ES-CN": { de: "kanarische-inseln", hu: "kanari-szigetek", ro: "insulele-canare", en: "canary-islands", es: "islas-canarias" },
   // Germany
   "DE-BW": { de: "baden-wuerttemberg", hu: "baden-wurttemberg", ro: "baden-wurttemberg", en: "baden-wurttemberg" },
   "DE-BY": { de: "bayern", hu: "bajororszag", ro: "bavaria", en: "bavaria" },
