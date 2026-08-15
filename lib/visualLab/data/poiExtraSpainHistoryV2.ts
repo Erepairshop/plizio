@@ -301,7 +301,7 @@ export const spainHistoryV2: POI[] = [
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-VC",
     type: "ruins",
     name: { de: "Burg von Sagunto", hu: "Sagunto vára", ro: "Castelul Sagunto", en: "Sagunto Castle"},
     image: "/poi-images/spain-sagunto-ruins-history-v2.webp",
@@ -347,7 +347,7 @@ imageHint: "Ancient ruins of Sagunto Castle walls and Roman forum",
     image: "/poi-images/spain-sagunto-ruins-history-v2.webp",
 },  {
     id: "spain-numancia-ruins-history-v2",
-    parent: "ES",
+    parent: "ES-CL",
     type: "ruins",
     name: { de: "Numancia", hu: "Numancia", ro: "Numancia", en: "Numantia"},
     image: "/poi-images/spain-numancia-ruins-history-v2.webp",
@@ -394,7 +394,7 @@ imageHint: "Ancient ruins of Sagunto Castle walls and Roman forum",
   },
   {
     id: "spain-italica-ruins-history-v2",
-    parent: "ES",
+    parent: "ES-AN",
     type: "ruins",
     name: { de: "Itálica", hu: "Itálica", ro: "Itálica", en: "Italica"},
     image: "/poi-images/spain-italica-ruins-history-v2.webp",
@@ -701,7 +701,7 @@ imageHint: "Roman amphitheater ruins of Italica near Seville",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-EX",
     type: "ruins",
     name: { de: "Römisches Theater von Mérida", hu: "Méridai római színház", ro: "Teatrul Roman din Mérida", en: "Roman Theatre of Mérida"},
     image: "/poi-images/spain-merida-theatre-history-v2.webp",
@@ -900,7 +900,7 @@ imageHint: "The Scaenae frons of the Roman Theatre in Merida",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CT",
     type: "ruins",
     name: { de: "Amphitheater von Tarraco", hu: "Tarraco amfiteátruma", ro: "Amfiteatrul din Tarraco", en: "Tarraco Amphitheatre"},
     image: "/poi-images/spain-tarraco-amphitheatre-history-v2.webp",
@@ -947,7 +947,7 @@ imageHint: "The Scaenae frons of the Roman Theatre in Merida",
   },
   {
     id: "spain-medina-azahara-ruins-history-v2",
-    parent: "ES",
+    parent: "ES-AN",
     type: "ruins",
     name: { de: "Medina Azahara", hu: "Medina Azahara", ro: "Medina Azahara", en: "Medina Azahara"},
     image: "/poi-images/spain-medina-azahara-ruins-history-v2.webp",
@@ -993,7 +993,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
     image: "/poi-images/spain-medina-azahara-ruins-history-v2.webp",
 },  {
     id: "spain-alcazar-segovia-history-v2",
-    parent: "ES",
+    parent: "ES-CL",
     type: "castle",
     name: { de: "Alcázar von Segovia", hu: "Segoviai Alcázar", ro: "Alcázar din Segovia", en: "Alcázar of Segovia"},
     image: "/poi-images/spain-alcazar-segovia-history-v2.webp",
@@ -1373,7 +1373,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-MD",
     type: "palace",
     name: { de: "El Escorial", hu: "Escorial", ro: "El Escorial", en: "El Escorial"},
     image: "/poi-images/spain-el-escorial-palace-history-v2.webp",
@@ -1420,7 +1420,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
   },
   {
     id: "spain-royal-palace-madrid-history-v2",
-    parent: "ES",
+    parent: "ES-MD",
     type: "palace",
     name: { de: "Königlicher Palast von Madrid", hu: "Madridi királyi palota", ro: "Palatul Regal din Madrid", en: "Royal Palace of Madrid"},
     image: "/poi-images/spain-royal-palace-madrid-history-v2.webp",
@@ -1764,7 +1764,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-MD",
     type: "monument",
     name: { de: "Tal der Gefallenen", hu: "Elesettek Völgye", ro: "Valea celor Căzuți", en: "Valley of the Fallen"},
     image: "/poi-images/spain-valley-fallen-monument-history-v2.webp",
@@ -2108,7 +2108,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AR",
     type: "ruins",
     name: { de: "Altes Belchite", hu: "Belchite óvárosa", ro: "Belchite Vechi", en: "Old Belchite"},
     image: "/poi-images/spain-belchite-ruins-history-v2.webp",
@@ -2200,7 +2200,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AR",
     type: "castle",
     name: { de: "Burg Loarre", hu: "Loarre vára", ro: "Castelul Loarre", en: "Castle of Loarre"},
     image: "/poi-images/spain-castle-loarre-history-v2.webp",
@@ -2247,7 +2247,7 @@ imageHint: "Archaeological ruins of Medina Azahara palace halls",
   },
   {
     id: "spain-battle-bailen-history-v2",
-    parent: "ES",
+    parent: "ES-AN",
     type: "battlefield",
     name: { de: "Schlachtfeld von Bailén", hu: "Bailéni csatatér", ro: "Câmpul de luptă de la Bailén", en: "Battlefield of Bailén"},
     image: "/poi-images/spain-battle-bailen-history-v2.webp",
@@ -2293,7 +2293,7 @@ imageHint: "Monument commemorating the Battle of Bailen",
     image: "/poi-images/spain-battle-bailen-history-v2.webp",
 },  {
     id: "spain-battle-las-navas-tolosa-history-v2",
-    parent: "ES",
+    parent: "ES-AN",
     type: "battlefield",
     name: { de: "Schlachtfeld von Las Navas de Tolosa", hu: "Las Navas de Tolosa-i csatatér", ro: "Câmpul de luptă Las Navas de Tolosa", en: "Battlefield of Las Navas de Tolosa"},
     image: "/poi-images/spain-battle-las-navas-tolosa-history-v2.webp",
@@ -2339,7 +2339,7 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
     image: "/poi-images/spain-battle-las-navas-tolosa-history-v2.webp",
 },  {
     id: "spain-battle-brunete-history-v2",
-    parent: "ES",
+    parent: "ES-MD",
     type: "battlefield",
     name: { de: "Schlachtfeld von Brunete", hu: "Brunetei csatatér", ro: "Câmpul de luptă Brunete", en: "Battlefield of Brunete"},
     image: "/poi-images/spain-battle-brunete-history-v2.webp",
@@ -2386,7 +2386,7 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
   },
   {
     id: "spain-dolmens-antequera-history-v2",
-    parent: "ES",
+    parent: "ES-AN",
     type: "ruins",
     name: { de: "Dolmen von Antequera", hu: "Antequerai dolmenek", ro: "Dolmenele din Antequera", en: "Dolmens of Antequera"},
     image: "/poi-images/spain-dolmens-antequera-history-v2.webp",
@@ -2694,7 +2694,7 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CB",
     type: "ruins",
     name: { de: "Höhle von Altamira", hu: "Altamira-barlang", ro: "Peștera Altamira", en: "Cave of Altamira"},
     image: "/poi-images/spain-altamira-cave-history-v2.webp",
@@ -3002,7 +3002,7 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CL",
     type: "landmark",
     name: { de: "Atapuerca", hu: "Atapuerca", ro: "Atapuerca", en: "Atapuerca"},
     image: "/poi-images/spain-atapuerca-site-history-v2.webp",
@@ -3049,7 +3049,7 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
   },
   {
     id: "spain-lugo-walls-ruins-history-v2",
-    parent: "ES",
+    parent: "ES-GA",
     type: "ruins",
     name: { de: "Römische Mauern von Lugo", hu: "Lugo római városfala", ro: "Zidurile romane din Lugo", en: "Roman Walls of Lugo"},
     image: "/poi-images/spain-lugo-walls-ruins-history-v2.webp",
@@ -3393,7 +3393,7 @@ imageHint: "Landscape of Las Navas de Tolosa with battle memorial",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-GA",
     type: "tower",
     name: { de: "Herkulesturm", hu: "Herkules-torony", ro: "Turnul lui Hercule", en: "Tower of Hercules"},
     image: "/poi-images/spain-tower-hercules-landmark-history-v2.webp",
@@ -3439,7 +3439,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
     image: "/poi-images/spain-tower-hercules-landmark-history-v2.webp",
 },  {
     id: "spain-palace-olite-history-v2",
-    parent: "ES",
+    parent: "ES-NC",
     type: "palace",
     name: { de: "Palast der Könige von Navarra in Olite", hu: "Olitei királyi palota", ro: "Palatul Regilor Navarei din Olite", en: "Palace of the Kings of Navarre of Olite"},
     image: "/poi-images/spain-palace-olite-history-v2.webp",
@@ -3639,7 +3639,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CT",
     type: "landmark",
     name: { de: "Kloster von Poblet", hu: "Poblet-kolostor", ro: "Mănăstirea Poblet", en: "Poblet Monastery"},
     image: "/poi-images/spain-poblet-monastery-history-v2.webp",
@@ -4055,7 +4055,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-EX",
     type: "landmark",
     name: { de: "Kloster von Yuste", hu: "Yuste-kolostor", ro: "Mănăstirea Yuste", en: "Monastery of Yuste"},
     image: "/poi-images/spain-yuste-monastery-history-v2.webp",
@@ -4363,7 +4363,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AR",
     type: "landmark",
     name: { de: "San Juan de la Peña", hu: "San Juan de la Peña", ro: "San Juan de la Peña", en: "San Juan de la Peña"},
     image: "/poi-images/spain-san-juan-pena-history-v2.webp",
@@ -4527,7 +4527,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AN",
     type: "ruins",
     name: { de: "Baelo Claudia", hu: "Baelo Claudia", ro: "Baelo Claudia", en: "Baelo Claudia"},
     image: "/poi-images/spain-baelo-claudia-ruins-history-v2.webp",
@@ -5123,7 +5123,7 @@ imageHint: "Ancient Roman Tower of Hercules lighthouse in A Coruna",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CT",
     type: "ruins",
     name: { de: "Empúries", hu: "Empúries", ro: "Empúries", en: "Empuries"},
     image: "/poi-images/spain-empuries-ruins-history-v2.webp",
@@ -5430,7 +5430,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CL",
     type: "castle",
     name: { de: "Burg von Coca", hu: "Cocai vár", ro: "Castelul Coca", en: "Castle of Coca"},
     image: "/poi-images/spain-castle-coca-history-v2.webp",
@@ -5774,7 +5774,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-PV",
     type: "castle",
     name: { de: "Burg Butrón", hu: "Butrón-vár", ro: "Castelul Butrón", en: "Butron Castle"},
     image: "/poi-images/spain-castle-butron-history-v2.webp",
@@ -6082,7 +6082,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CT",
     type: "ruins",
     name: { de: "Corbera d'Ebre", hu: "Corbera d'Ebre", ro: "Corbera d'Ebre", en: "Corbera d'Ebre"},
     image: "/poi-images/spain-corbera-ebre-ruins-history-v2.webp",
@@ -6130,7 +6130,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
   {
     id: "spain-alcala-de-henares-university-history-v2",
     type: "university",
-    parent: "ES",
+    parent: "ES-MD",
     name: { de: "Universität Alcalá", hu: "Alcalá-i Egyetem", ro: "Universitatea din Alcalá", en: "University of Alcalá" },
     coords: [-3.3614, 40.4819],
     description: {
@@ -6400,7 +6400,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "castle",
-    parent: "ES",
+    parent: "ES-MD",
     name: { de: "Burg Manzanares el Real", hu: "Manzanares el Real-i vár", ro: "Castelul Manzanares el Real", en: "Manzanares el Real Castle" },
     coords: [-3.8447, 40.7258],
     description: {
@@ -6526,7 +6526,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "ruins",
-    parent: "ES",
+    parent: "ES-CM",
     name: { de: "Cueva de los Casares", hu: "Los Casares-barlang", ro: "Peștera Casares", en: "Casares Cave" },
     coords: [-2.3168, 40.9705],
     description: {
@@ -6724,7 +6724,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "monument",
-    parent: "ES",
+    parent: "ES-AR",
     name: { de: "Kloster Piedra", hu: "Piedra kolostor", ro: "Mănăstirea Piedra", en: "Piedra Monastery" },
     coords: [-1.7803, 41.1856],
     description: {
@@ -6814,7 +6814,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "tower",
-    parent: "ES",
+    parent: "ES-VC",
     name: { de: "Serranos-Türme", hu: "Serranos-tornyok", ro: "Turnurile Serranos", en: "Serranos Towers" },
     coords: [-0.3758, 39.4795],
     description: {
@@ -6904,7 +6904,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "castle",
-    parent: "ES",
+    parent: "ES-AN",
     name: { de: "Alcazaba von Almería", hu: "Almería-i Alcazaba", ro: "Alcazaba din Almeria", en: "Alcazaba of Almeria" },
     coords: [-2.4714, 36.8394],
     description: {
@@ -6949,7 +6949,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
   {
     id: "spain-teatro-romano-de-cartagena-history-v2",
     type: "ruins",
-    parent: "ES",
+    parent: "ES-MU",
     name: { de: "Römisches Theater von Cartagena", hu: "Cartagenai római színház", ro: "Teatrul Roman din Cartagena", en: "Roman Theatre of Cartagena" },
     coords: [-0.9845, 37.5997],
     description: {
@@ -7291,7 +7291,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "ruins",
-    parent: "ES",
+    parent: "ES-CL",
     name: { de: "Stadtmauern von Toro", hu: "Toro városfalai", ro: "Zidurile orașului Toro", en: "City Walls of Toro" },
     coords: [-5.3956, 41.5283],
     description: {
@@ -7336,7 +7336,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
   {
     id: "spain-real-monasterio-de-las-huelgas-history-v2",
     type: "monument",
-    parent: "ES",
+    parent: "ES-CL",
     name: { de: "Kloster Las Huelgas", hu: "Las Huelgas kolostor", ro: "Mănăstirea Las Huelgas", en: "Las Huelgas Monastery" },
     coords: [-3.7192, 42.3361],
     description: {
@@ -7642,7 +7642,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "castle",
-    parent: "ES",
+    parent: "ES-CL",
     name: { de: "Burg La Mota", hu: "La Mota-i vár", ro: "Castelul La Mota", en: "La Mota Castle" },
     coords: [-4.7072, 41.3061],
     description: {
@@ -7732,7 +7732,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "ruins",
-    parent: "ES",
+    parent: "ES-AN",
     name: { de: "Ruinen von Bobastro", hu: "Bobastro romjai", ro: "Ruinele Bobastro", en: "Ruins of Bobastro" },
     coords: [-4.7575, 36.8778],
     description: {
@@ -7777,7 +7777,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
   {
     id: "spain-palacio-de-viana-history-v2",
     type: "palace",
-    parent: "ES",
+    parent: "ES-AN",
     name: { de: "Palacio de Viana", hu: "Viana-palota", ro: "Palatul Viana", en: "Palacio de Viana" },
     coords: [-4.7765, 37.8869],
     description: {
@@ -8083,7 +8083,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "monument",
-    parent: "ES",
+    parent: "ES-AR",
     name: { de: "Kloster Veruela", hu: "Veruela kolostor", ro: "Mănăstirea Veruela", en: "Veruela Monastery" },
     coords: [-1.6967, 41.8083],
     description: {
@@ -8281,7 +8281,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "ruins",
-    parent: "ES",
+    parent: "ES-EX",
     name: { de: "Ruinen von Cáparra", hu: "Cáparra romjai", ro: "Ruinele Cáparra", en: "Ruins of Caparra" },
     coords: [-6.1017, 40.1658],
     description: {
@@ -8326,7 +8326,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
   {
     id: "spain-palacio-de-la-jaferia-history-v2",
     type: "palace",
-    parent: "ES",
+    parent: "ES-AR",
     name: { de: "Palast Aljafería", hu: "Aljafería-palota", ro: "Palatul Aljafería", en: "Aljaferia Palace" },
     coords: [-0.8953, 41.6569],
     description: {
@@ -8371,7 +8371,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
   {
     id: "spain-cathedral-of-tui-history-v2",
     type: "cathedral",
-    parent: "ES",
+    parent: "ES-GA",
     name: { de: "Kathedrale von Tui", hu: "Tui-i katedrális", ro: "Catedrala din Tui", en: "Cathedral of Tui" },
     coords: [-8.6433, 42.0456],
     description: {
@@ -8569,7 +8569,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "castle",
-    parent: "ES",
+    parent: "ES-AN",
     name: { de: "Burg Alcaudete", hu: "Alcaudete-i vár", ro: "Castelul Alcaudete", en: "Alcaudete Castle" },
     coords: [-4.0786, 37.5819],
     description: {
@@ -8911,7 +8911,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "ruins",
-    parent: "ES",
+    parent: "ES-CL",
     name: { de: "Kloster San Pedro de Arlanza", hu: "San Pedro de Arlanza kolostor", ro: "Mănăstirea San Pedro de Arlanza", en: "San Pedro de Arlanza Monastery" },
     coords: [-3.5283, 42.0622],
     description: {
@@ -9253,7 +9253,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "castle",
-    parent: "ES",
+    parent: "ES-CM",
     name: { de: "Burg Belmonte", hu: "Belmonte-i vár", ro: "Castelul Belmonte", en: "Belmonte Castle" },
     coords: [-2.7056, 39.5639],
     description: {
@@ -9487,7 +9487,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "ruins",
-    parent: "ES",
+    parent: "ES-EX",
     name: { de: "Römisches Theater von Medellín", hu: "Medellíni római színház", ro: "Teatrul Roman din Medellín", en: "Roman Theatre of Medellin" },
     coords: [-5.9556, 38.9647],
     description: {
@@ -9793,7 +9793,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "castle",
-    parent: "ES",
+    parent: "ES-AN",
     name: { de: "Burg Vélez-Blanco", hu: "Vélez-Blanco-i vár", ro: "Castelul Vélez-Blanco", en: "Velez-Blanco Castle" },
     coords: [-2.0978, 37.6919],
     description: {
@@ -9838,7 +9838,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
   {
     id: "spain-monasterio-de-la-rabida-history-v2",
     type: "monument",
-    parent: "ES",
+    parent: "ES-AN",
     name: { de: "Kloster La Rábida", hu: "La Rábida kolostor", ro: "Mănăstirea La Rábida", en: "La Rabida Monastery" },
     coords: [-6.9239, 37.2028],
     description: {
@@ -10072,7 +10072,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "castle",
-    parent: "ES",
+    parent: "ES-AR",
     name: { de: "Burg Monzón", hu: "Monzón-i vár", ro: "Castelul Monzón", en: "Monzon Castle" },
     coords: [0.1931, 41.9083],
     description: {
@@ -10198,7 +10198,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "ruins",
-    parent: "ES",
+    parent: "ES-AR",
     name: { de: "Ruinen von Labitolosa", hu: "Labitolosa romjai", ro: "Ruinele Labitolosa", en: "Ruins of Labitolosa" },
     coords: [0.2856, 42.2575],
     description: {
@@ -10243,7 +10243,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
   {
     id: "spain-alcazar-de-jerez-history-v2",
     type: "castle",
-    parent: "ES",
+    parent: "ES-AN",
     name: { de: "Alcázar von Jerez", hu: "Jerez-i Alcázar", ro: "Alcázar din Jerez", en: "Alcazar of Jerez" },
     coords: [-6.1364, 36.6828],
     description: {
@@ -10549,7 +10549,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "monument",
-    parent: "ES",
+    parent: "ES-CT",
     name: { de: "Kloster Santes Creus", hu: "Santes Creus kolostor", ro: "Mănăstirea Santes Creus", en: "Santes Creus Monastery" },
     coords: [1.3386, 41.3467],
     description: {
@@ -10819,7 +10819,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "castle",
-    parent: "ES",
+    parent: "ES-AN",
     name: { de: "Burg Almodóvar del Río", hu: "Almodóvar del Río-i vár", ro: "Castelul Almodóvar del Río", en: "Almodovar del Rio Castle" },
     coords: [-5.0275, 37.7917],
     description: {
@@ -10945,7 +10945,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "ruins",
-    parent: "ES",
+    parent: "ES-AN",
     name: { de: "Ruinen von Munigua", hu: "Munigua romjai", ro: "Ruinele Munigua", en: "Ruins of Munigua" },
     coords: [-5.6706, 37.6444],
     description: {
@@ -10990,7 +10990,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
   {
     id: "spain-palacio-de-pedralbes-history-v2",
     type: "palace",
-    parent: "ES",
+    parent: "ES-CT",
     name: { de: "Palast von Pedralbes", hu: "Pedralbes-i palota", ro: "Palatul Pedralbes", en: "Palace of Pedralbes" },
     coords: [2.1158, 41.3861],
     description: {
@@ -11368,7 +11368,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "castle",
-    parent: "ES",
+    parent: "ES-AN",
     name: { de: "Burg Baena", hu: "Baena-i vár", ro: "Castelul Baena", en: "Baena Castle" },
     coords: [-4.3236, 37.6206],
     description: {
@@ -11638,7 +11638,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "monument",
-    parent: "ES",
+    parent: "ES-EX",
     name: { de: "Kloster Santa María de Guadalupe", hu: "Santa María de Guadalupe kolostor", ro: "Mănăstirea Santa María de Guadalupe", en: "Monastery of Santa Maria de Guadalupe" },
     coords: [-5.3347, 39.4533],
     description: {
@@ -11800,7 +11800,7 @@ imageHint: "Greek and Roman ruins of Empuries overlooking the sea",
       ]
 },
     type: "castle",
-    parent: "ES",
+    parent: "ES-CL",
     name: { de: "Burg Gormaz", hu: "Gormaz-i vár", ro: "Castelul Gormaz", en: "Gormaz Castle" },
     coords: [-3.0039, 41.5033],
     description: {

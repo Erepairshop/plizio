@@ -5,7 +5,7 @@ export const spainHistoryExtra: POI[] = [
   {
     id: "ES-ALH",
     type: "historical",
-    parent: "ES",
+    parent: "ES-AN",
     coords: [-3.588, 37.176],
     name: { de: "Alhambra", hu: "Alhambra", ro: "Alhambra", en: "Alhambra" },
     description: {

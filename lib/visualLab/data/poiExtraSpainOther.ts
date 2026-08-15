@@ -1166,7 +1166,7 @@ export const spainOtherExtra: POI[] = [
       ]
 },
     type: "mountain",
-    parent: "ES",
+    parent: "ES-CN",
     coords: [-16.64, 28.27],
     name: { de: "Teide", hu: "Teide", ro: "Teide", en: "Teide" },
     description: {
