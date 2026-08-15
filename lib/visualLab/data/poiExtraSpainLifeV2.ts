@@ -85,7 +85,7 @@ export const spainLifeV2: POI[] = [
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AN",
     type: "park",
     name: { de: "Nationalpark Doñana", hu: "Doñana Nemzeti Park", ro: "Parcul Național Doñana", en: "Doñana National Park"},
     image: "/poi-images/spain-donana-life-v2.webp",
@@ -176,7 +176,7 @@ imageHint: "Doñana National Park marshes with flamingos",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AN",
     type: "park",
     name: { de: "Nationalpark Sierra Nevada", hu: "Sierra Nevada Nemzeti Park", ro: "Parcul Național Sierra Nevada", en: "Sierra Nevada National Park"},
     image: "/poi-images/spain-sierra-nevada-life-v2.webp",
@@ -303,7 +303,7 @@ imageHint: "Sierra Nevada mountains snow capped peaks",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AS",
     type: "park",
     name: { de: "Nationalpark Picos de Europa", hu: "Picos de Europa Nemzeti Park", ro: "Parcul Național Picos de Europa", en: "Picos de Europa National Park"},
     image: "/poi-images/spain-picos-de-europa-life-v2.webp",
@@ -934,7 +934,7 @@ imageHint: "Picos de Europa limestone mountain peaks",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CN",
     type: "park",
     name: { de: "Nationalpark Teide", hu: "Teide Nemzeti Park", ro: "Parcul Național Teide", en: "Teide National Park"},
     image: "/poi-images/spain-teide-life-v2.webp",
@@ -1241,7 +1241,7 @@ imageHint: "Mount Teide volcano landscape Tenerife",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-EX",
     type: "park",
     name: { de: "Nationalpark Monfragüe", hu: "Monfragüe Nemzeti Park", ro: "Parcul Național Monfragüe", en: "Monfragüe National Park"},
     image: "/poi-images/spain-monfrague-life-v2.webp",
@@ -1332,7 +1332,7 @@ imageHint: "Monfragüe National Park Salto del Gitano birds",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CM",
     type: "park",
     name: { de: "Nationalpark Cabañeros", hu: "Cabañeros Nemzeti Park", ro: "Parcul Național Cabañeros", en: "Cabañeros National Park"},
     image: "/poi-images/spain-cabaneros-life-v2.webp",
@@ -1567,7 +1567,7 @@ imageHint: "Cabañeros National Park deer in plains",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CM",
     type: "park",
     name: { de: "Nationalpark Tablas de Daimiel", hu: "Tablas de Daimiel Nemzeti Park", ro: "Parcul Național Tablas de Daimiel", en: "Tablas de Daimiel National Park"},
     image: "/poi-images/spain-tablas-de-daimiel-life-v2.webp",
@@ -2846,7 +2846,7 @@ imageHint: "Tablas de Daimiel National Park wetlands boardwalk",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CN",
     type: "park",
     name: { de: "Nationalpark Timanfaya", hu: "Timanfaya Nemzeti Park", ro: "Parcul Național Timanfaya", en: "Timanfaya National Park"},
     image: "/poi-images/spain-timanfaya-life-v2.webp",
@@ -4089,7 +4089,7 @@ imageHint: "Timanfaya National Park volcanic landscape Lanzarote",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CN",
     type: "park",
     name: { de: "Nationalpark Garajonay", hu: "Garajonay Nemzeti Park", ro: "Parcul Național Garajonay", en: "Garajonay National Park"},
     image: "/poi-images/spain-garajonay-life-v2.webp",
@@ -5368,7 +5368,7 @@ imageHint: "Garajonay National Park misty laurel forest",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CN",
     type: "park",
     name: { de: "Nationalpark Caldera de Taburiente", hu: "Caldera de Taburiente Nemzeti Park", ro: "Parcul Național Caldera de Taburiente", en: "Caldera de Taburiente National Park"},
     image: "/poi-images/spain-caldera-de-taburiente-life-v2.webp",
@@ -5414,7 +5414,7 @@ imageHint: "Caldera de Taburiente National Park landscape La Palma",
     image: "/poi-images/spain-caldera-de-taburiente-life-v2.webp",
 },  {
     id: "spain-ordesa-monte-perdido-life-v2",
-    parent: "ES",
+    parent: "ES-AR",
     type: "park",
     name: { de: "Nationalpark Ordesa y Monte Perdido", hu: "Ordesa és Monte Perdido Nemzeti Park", ro: "Parcul Național Ordesa și Monte Perdido", en: "Ordesa y Monte Perdido National Park"},
     image: "/poi-images/spain-ordesa-monte-perdido-life-v2.webp",
@@ -5721,7 +5721,7 @@ imageHint: "Ordesa Canyon Pyrenees mountains",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CT",
     type: "park",
     name: { de: "Nationalpark Aigüestortes i Estany de Sant Maurici", hu: "Aigüestortes és Estany de Sant Maurici Nemzeti Park", ro: "Parcul Național Aigüestortes i Estany de Sant Maurici", en: "Aigüestortes i Estany de Sant Maurici National Park"},
     image: "/poi-images/spain-aiguestortes-life-v2.webp",
@@ -5848,7 +5848,7 @@ imageHint: "Estany de Sant Maurici lake Pyrenees",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-MD",
     type: "park",
     name: { de: "Nationalpark Sierra de Guadarrama", hu: "Sierra de Guadarrama Nemzeti Park", ro: "Parcul Național Sierra de Guadarrama", en: "Sierra de Guadarrama National Park"},
     image: "/poi-images/spain-guadarrama-life-v2.webp",
@@ -5939,7 +5939,7 @@ imageHint: "Sierra de Guadarrama mountains near Madrid",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-GA",
     type: "park",
     name: { de: "Nationalpark Islas Atlánticas de Galicia", hu: "Galíciai Atlanti-szigetek Nemzeti Park", ro: "Parcul Național Islas Atlánticas de Galicia", en: "Islas Atlánticas de Galicia National Park"},
     image: "/poi-images/spain-islas-atlanticas-life-v2.webp",
@@ -6282,7 +6282,7 @@ imageHint: "Cíes Islands beach and turquoise water",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-IB",
     type: "park",
     name: { de: "Nationalpark Cabrera-Archipel", hu: "Cabrera-szigetcsoport Nemzeti Park", ro: "Parcul Național Arhipelagul Cabrera", en: "Cabrera Archipelago National Park"},
     image: "/poi-images/spain-cabrera-life-v2.webp",
@@ -6518,7 +6518,7 @@ imageHint: "Cíes Islands beach and turquoise water",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AN",
     type: "park",
     name: { de: "Nationalpark Sierra de las Nieves", hu: "Sierra de las Nieves Nemzeti Park", ro: "Parcul Național Sierra de las Nieves", en: "Sierra de las Nieves National Park"},
     image: "/poi-images/spain-sierra-nieves-life-v2.webp",
@@ -6718,7 +6718,7 @@ imageHint: "Cíes Islands beach and turquoise water",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AS",
     type: "park",
     name: { de: "Naturpark Somiedo", hu: "Somiedo Természeti Park", ro: "Parcul Natural Somiedo", en: "Somiedo Natural Park"},
     image: "/poi-images/spain-somiedo-life-v2.webp",
@@ -6846,7 +6846,7 @@ imageHint: "Cíes Islands beach and turquoise water",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AN",
     type: "park",
     name: { de: "Naturpark Sierras de Cazorla, Segura und Las Villas", hu: "Cazorla, Segura és Las Villas Természeti Park", ro: "Parcul Natural Sierras de Cazorla, Segura y Las Villas", en: "Cazorla, Segura and Las Villas Natural Park"},
     image: "/poi-images/spain-cazorla-life-v2.webp",
@@ -6938,7 +6938,7 @@ imageHint: "Cíes Islands beach and turquoise water",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AN",
     type: "park",
     name: { de: "Naturpark Cabo de Gata-Níjar", hu: "Cabo de Gata-Níjar Természeti Park", ro: "Parcul Natural Cabo de Gata-Níjar", en: "Cabo de Gata-Níjar Natural Park"},
     image: "/poi-images/spain-cabo-de-gata-life-v2.webp",
@@ -7245,7 +7245,7 @@ imageHint: "Cabo de Gata volcanic cliffs and beach Almeria",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CT",
     type: "park",
     name: { de: "Naturpark Ebro-Delta", hu: "Ebro-delta Természeti Park", ro: "Parcul Natural Delta Ebro", en: "Ebro Delta Natural Park"},
     image: "/poi-images/spain-delta-ebre-life-v2.webp",
@@ -7588,7 +7588,7 @@ imageHint: "Ebro Delta rice fields and lagoons",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-VC",
     type: "park",
     name: { de: "Naturpark Albufera de Valencia", hu: "Albufera de Valencia Természeti Park", ro: "Parcul Natural Albufera de Valencia", en: "Albufera de Valencia Natural Park"},
     image: "/poi-images/spain-albufera-valencia-life-v2.webp",
@@ -7634,7 +7634,7 @@ imageHint: "Albufera Valencia lake sunset with boat",
     image: "/poi-images/spain-albufera-valencia-life-v2.webp",
 },  {
     id: "spain-rjb-madrid-life-v2",
-    parent: "ES",
+    parent: "ES-MD",
     type: "park",
     name: { de: "Real Jardín Botánico de Madrid", hu: "Madridi Királyi Botanikus Kert", ro: "Grădina Botanică Regală din Madrid", en: "Royal Botanical Garden of Madrid"},
     image: "/poi-images/spain-rjb-madrid-life-v2.webp",
@@ -8787,7 +8787,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CN",
     type: "wildlife",
     name: { de: "Loro Parque", hu: "Loro Parque", ro: "Loro Parque", en: "Loro Parque"},
     image: "/poi-images/spain-loro-parque-life-v2.webp",
@@ -8834,7 +8834,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
   },
   {
     id: "spain-bioparc-valencia-life-v2",
-    parent: "ES",
+    parent: "ES-VC",
     type: "wildlife",
     name: { de: "Bioparc Valencia", hu: "Bioparc Valencia", ro: "Bioparc Valencia", en: "Bioparc Valencia"},
     image: "/poi-images/spain-bioparc-valencia-life-v2.webp",
@@ -9178,7 +9178,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-CB",
     type: "wildlife",
     name: { de: "Naturpark Cabárceno", hu: "Cabárceno Természeti Park", ro: "Parcul Natural Cabárceno", en: "Cabárceno Natural Park"},
     image: "/poi-images/spain-cabarceno-life-v2.webp",
@@ -9414,7 +9414,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AN",
     type: "wildlife",
     name: { de: "Selwo Aventura", hu: "Selwo Aventura", ro: "Selwo Aventura", en: "Selwo Aventura"},
     image: "/poi-images/spain-selwo-aventura-life-v2.webp",
@@ -9461,7 +9461,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
   },
   {
     id: "spain-faunia-life-v2",
-    parent: "ES",
+    parent: "ES-MD",
     type: "wildlife",
     name: { de: "Faunia", hu: "Faunia", ro: "Faunia", en: "Faunia"},
     image: "/poi-images/spain-faunia-life-v2.webp",
@@ -9508,7 +9508,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
   },
   {
     id: "spain-zoo-madrid-life-v2",
-    parent: "ES",
+    parent: "ES-MD",
     type: "wildlife",
     name: { de: "Zoo Aquarium de Madrid", hu: "Madridi Állatkert és Akvárium", ro: "Grădina Zoologică și Acvariul din Madrid", en: "Zoo Aquarium de Madrid"},
     image: "/poi-images/spain-zoo-madrid-life-v2.webp",
@@ -9708,7 +9708,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AN",
     type: "park",
     name: { de: "Marismas del Odiel", hu: "Marismas del Odiel", ro: "Marismas del Odiel", en: "Marismas del Odiel"},
     image: "/poi-images/spain-marismas-odiel-life-v2.webp",
@@ -9944,7 +9944,7 @@ imageHint: "Royal Botanical Garden Madrid entrance",
             }
       ]
 },
-    parent: "ES",
+    parent: "ES-AR",
     type: "lake",
     name: { de: "Gallocanta-See", hu: "Gallocanta-tó", ro: "Lacul Gallocanta", en: "Gallocanta Lake"},
     image: "/poi-images/spain-gallocanta-life-v2.webp",

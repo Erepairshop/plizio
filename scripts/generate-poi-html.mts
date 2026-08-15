@@ -2693,21 +2693,36 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
   // rel-policy per resource type:
   //   "follow"    = topic-relevant, valuable (Wikipedia/OSM/tourism office/city card/events)
   //   "nofollow"  = utility, not commercial-juice (transit menetrend, parking-map, webcam)
-  //   "sponsored" = commercial affiliate (Booking/Skyscanner/GYG/TheFork/Tiqets)
+  //   "sponsored" = explicitly marked commercial affiliate
   type RelKind = "follow" | "nofollow" | "sponsored";
+  const resourceLabels: Record<Lang, Record<string, string>> = {
+    de: { transit: "Öffentlicher Verkehr", transitApp: "Fahrplan-App", bikeShare: "Fahrradverleih", parking: "Parken", parkingMap: "Parkplatzkarte", cityCard: "City Card", tickets: "Tickets", restaurants: "Restaurants", tourismOffice: "Touristeninformation", events: "Veranstaltungen", webcam: "Webcam", flights: "Flüge" },
+    hu: { transit: "Tömegközlekedés", transitApp: "Közlekedési app", bikeShare: "Kerékpárkölcsönzés", parking: "Parkolás", parkingMap: "Parkolótérkép", cityCard: "Városkártya", tickets: "Jegyek", restaurants: "Éttermek", tourismOffice: "Turisztikai iroda", events: "Események", webcam: "Webkamera", flights: "Repülőjáratok" },
+    ro: { transit: "Transport public", transitApp: "Aplicație de transport", bikeShare: "Închiriere biciclete", parking: "Parcare", parkingMap: "Hartă parcări", cityCard: "Card turistic", tickets: "Bilete", restaurants: "Restaurante", tourismOffice: "Centru de informare turistică", events: "Evenimente", webcam: "Cameră web", flights: "Zboruri" },
+    en: { transit: "Public transport", transitApp: "Transport app", bikeShare: "Bike rental", parking: "Parking", parkingMap: "Parking map", cityCard: "City card", tickets: "Tickets", restaurants: "Restaurants", tourismOffice: "Tourist information", events: "Events", webcam: "Webcam", flights: "Flights" },
+    fr: { transit: "Transports publics", transitApp: "Application de transport", bikeShare: "Location de vélos", parking: "Stationnement", parkingMap: "Carte des parkings", cityCard: "Carte touristique", tickets: "Billets", restaurants: "Restaurants", tourismOffice: "Office de tourisme", events: "Événements", webcam: "Webcam", flights: "Vols" },
+    tr: { transit: "Toplu taşıma", transitApp: "Ulaşım uygulaması", bikeShare: "Bisiklet kiralama", parking: "Otopark", parkingMap: "Otopark haritası", cityCard: "Şehir kartı", tickets: "Biletler", restaurants: "Restoranlar", tourismOffice: "Turizm danışma", events: "Etkinlikler", webcam: "Web kamerası", flights: "Uçuşlar" },
+    hr: { transit: "Javni prijevoz", transitApp: "Aplikacija za prijevoz", bikeShare: "Najam bicikla", parking: "Parkiranje", parkingMap: "Karta parkirališta", cityCard: "Gradska kartica", tickets: "Ulaznice", restaurants: "Restorani", tourismOffice: "Turistički ured", events: "Događaji", webcam: "Web-kamera", flights: "Letovi" },
+    it: { transit: "Trasporto pubblico", transitApp: "App di trasporto", bikeShare: "Noleggio biciclette", parking: "Parcheggio", parkingMap: "Mappa dei parcheggi", cityCard: "Carta turistica", tickets: "Biglietti", restaurants: "Ristoranti", tourismOffice: "Ufficio turistico", events: "Eventi", webcam: "Webcam", flights: "Voli" },
+    es: { transit: "Transporte público", transitApp: "Aplicación de transporte", bikeShare: "Alquiler de bicicletas", parking: "Aparcamiento", parkingMap: "Mapa de aparcamientos", cityCard: "Tarjeta turística", tickets: "Entradas", restaurants: "Restaurantes", tourismOffice: "Oficina de turismo", events: "Eventos", webcam: "Cámara web", flights: "Vuelos" },
+    pt: { transit: "Transportes públicos", transitApp: "Aplicação de transportes", bikeShare: "Aluguer de bicicletas", parking: "Estacionamento", parkingMap: "Mapa de estacionamento", cityCard: "Cartão turístico", tickets: "Bilhetes", restaurants: "Restaurantes", tourismOffice: "Posto de turismo", events: "Eventos", webcam: "Webcam", flights: "Voos" },
+    pl: { transit: "Transport publiczny", transitApp: "Aplikacja transportowa", bikeShare: "Wypożyczalnia rowerów", parking: "Parking", parkingMap: "Mapa parkingów", cityCard: "Karta miejska", tickets: "Bilety", restaurants: "Restauracje", tourismOffice: "Informacja turystyczna", events: "Wydarzenia", webcam: "Kamera internetowa", flights: "Loty" },
+    nl: { transit: "Openbaar vervoer", transitApp: "Vervoersapp", bikeShare: "Fietsverhuur", parking: "Parkeren", parkingMap: "Parkeerkaart", cityCard: "Stadskaart", tickets: "Tickets", restaurants: "Restaurants", tourismOffice: "Toeristeninformatie", events: "Evenementen", webcam: "Webcam", flights: "Vluchten" },
+  };
+  const RL = resourceLabels[lang] || resourceLabels.en;
   const resRows: Array<[string, string, string, RelKind]> = [
-    ["transit_official", "🚇", "Transit", "nofollow"],
-    ["transit_app", "🗺️", "Citymapper", "nofollow"],
-    ["bike_share", "🚲", "Bike share", "nofollow"],
-    ["parking_real_time", "🅿️", "Parking", "nofollow"],
-    ["parking_map", "🅿️", "Parkopedia", "nofollow"],
-    ["city_card", "🎫", "City Card", "follow"],
-    ["museum_tickets", "🎟️", "Tickets", "sponsored"],
-    ["restaurants_booking", "🍽️", "TheFork", "sponsored"],
-    ["tourism_office", "ℹ️", "Tourism office", "follow"],
-    ["events", "🎉", "Events", "follow"],
-    ["webcam", "📹", "Webcam", "nofollow"],
-    ["flights", "✈️", "Flights", "sponsored"],
+    ["transit_official", "🚇", RL.transit, "nofollow"],
+    ["transit_app", "🗺️", RL.transitApp, "nofollow"],
+    ["bike_share", "🚲", RL.bikeShare, "nofollow"],
+    ["parking_real_time", "🅿️", RL.parking, "nofollow"],
+    ["parking_map", "🅿️", RL.parkingMap, "nofollow"],
+    ["city_card", "🎫", RL.cityCard, "follow"],
+    ["museum_tickets", "🎟️", RL.tickets, "follow"],
+    ["restaurants_booking", "🍽️", RL.restaurants, "nofollow"],
+    ["tourism_office", "ℹ️", RL.tourismOffice, "follow"],
+    ["events", "🎉", RL.events, "follow"],
+    ["webcam", "📹", RL.webcam, "nofollow"],
+    ["flights", "✈️", RL.flights, "nofollow"],
   ];
   const relAttr = (k: RelKind) =>
     k === "follow" ? "noopener"
@@ -2723,14 +2738,20 @@ function renderCityItinerary(poi: POI, lang: Lang): string {
     }
     return null;
   }
+  function isExplicitAffiliate(v: any): boolean {
+    return Boolean(v && typeof v === "object" && !Array.isArray(v)
+      && (v.affiliate === true || v.sponsored === true || v.rel === "sponsored"));
+  }
   const resCells = resRows.map(([k, emoji, label, rk]) => {
-    const u = firstUrl(er[k]);
+    const value = er[k];
+    const u = firstUrl(value);
     if (!u) return "";
-    return `<a class="plz-itin-res-cell" href="${escapeHtml(u)}" target="_blank" rel="${relAttr(rk)}"><span class="plz-itin-res-icon">${emoji}</span><span>${escapeHtml(label)}</span></a>`;
+    const effectiveRel: RelKind = isExplicitAffiliate(value) ? "sponsored" : rk;
+    return `<a class="plz-itin-res-cell" href="${escapeHtml(u)}" target="_blank" rel="${relAttr(effectiveRel)}"><span class="plz-itin-res-icon">${emoji}</span><span>${escapeHtml(label)}</span></a>`;
   }).filter(Boolean).join("");
   const resGrid = resCells ? `<div class="plz-itin-res-grid">${resCells}</div>` : "";
-  const best = (er.best_time_to_visit || {})[lang] || "";
-  const warn = (er.neighborhood_warnings || {})[lang] || "";
+  const best = pickStr(er.best_time_to_visit ?? er.best_time);
+  const warn = pickStr(er.neighborhood_warnings ?? er.warnings);
   // language_tips must be a real sentence (not just a 1-word language name like "Horvát").
   const rawLangT = (er.language_tips || {})[lang] || "";
   const langT = rawLangT.length >= 25 ? rawLangT : "";
