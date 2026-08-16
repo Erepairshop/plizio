@@ -60,7 +60,6 @@ const GAME_NAMES: Record<string, string> = {
   mathtest: "Math Test", numberrush: "Number Rush",
   milliomos: "Ki Nyer Milliót?",
   wordhunt: "Word Hunt", sequencerush: "Sequence Rush",
-  gravitas: "Gravitas", room: "Room",
 };
 
 /* ─── MOUNTAIN ISLAND DETAIL ─── */

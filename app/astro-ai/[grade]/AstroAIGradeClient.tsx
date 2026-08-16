@@ -34,7 +34,6 @@ import K5Explorer from "@/app/astro-ai/games/k5/K5Explorer";
 import K6Explorer from "@/app/astro-ai/games/k6/K6Explorer";
 import K7Explorer from "@/app/astro-ai/games/k7/K7Explorer";
 import K8Explorer from "@/app/astro-ai/games/k8/K8Explorer";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import type { IslandDef, MissionDef, Lang, MissionCategory } from "@/lib/astroAIShared";
 
 import {
@@ -541,8 +540,6 @@ export default function AstroAIGradeClient({ params }: { params: Promise<{ grade
   const gradeKey = resolvedParams.grade;
   const G = GRADE_CFG[gradeKey] ?? GRADE_CFG["5"];
   const ISLANDS = G.islands;
-
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [screen, setScreen] = useState<Screen>("island-map");
   const [progress, setProgress] = useState<AIProgress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
@@ -775,8 +772,6 @@ export default function AstroAIGradeClient({ params }: { params: Promise<{ grade
           </div>
         </div>
       </div>
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="informatika" grade={G.grade} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </>
     );
   }

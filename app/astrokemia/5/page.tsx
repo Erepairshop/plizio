@@ -31,7 +31,6 @@ import M2Engine from "@/components/astro-games/M2Engine";
 import M3Engine from "@/components/astro-games/M3Engine";
 import { KEMIA_M2_POOLS, KEMIA_M3_POOLS } from "@/lib/astro/kemiaGameRegistry";
 import K5Explorer from "@/app/astrokemia/games/k5/K5Explorer";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import {
   KEMIA_K5_ISLANDS as K5_ISLANDS, KEMIA_K5_CHECKPOINT_MAP as K5_CHECKPOINT_MAP,
   KEMIA_K5_TOPIC_LABELS as K5_TOPIC_LABELS,
@@ -442,8 +441,6 @@ export default function AstroKemiaK5Page() {
   const { lang } = useLang();
   const router = useRouter();
   const t = T[lang as keyof typeof T] ?? T.en;
-
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [screen, setScreen] = useState<Screen>("island-map");
   const [progress, setProgress] = useState<K5Progress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
@@ -673,8 +670,6 @@ export default function AstroKemiaK5Page() {
           </div>
         </div>
       </div>
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="kemia" grade={5} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </>
     );
   }

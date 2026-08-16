@@ -40,7 +40,6 @@ import {
 } from "@/lib/astroGeschichte8";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 const K8Explorer = dynamic(() => import("@/app/astro-geschichte/games/k8/K8Explorer"), { ssr: false });
 const CountryHistoryExplorer = dynamic(() => import("@/app/astro-geschichte/games/CountryHistoryExplorer"), { ssr: false });
 
@@ -216,8 +215,6 @@ export default function AstroGeschichteK8Page() {
   const t = T[lang as keyof typeof T] ?? T.en;
   const content = useMemo(() => getK8VariantContent(lang as Lang), [lang]);
   const islands = content.islands;
-
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [screen, setScreen] = useState<Screen>("island-map");
   const [progress, setProgress] = useState<GeschichteProgress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
@@ -381,8 +378,6 @@ export default function AstroGeschichteK8Page() {
           </div>
         </div>
       </div>
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="geschichte" grade={8} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </>
     );
   }

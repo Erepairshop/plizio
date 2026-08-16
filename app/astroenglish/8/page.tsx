@@ -44,7 +44,6 @@ import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
 import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
 import K8Explorer from "@/app/astroenglish/games/k8/K8Explorer";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import { K8_ISLAND_SVGS } from "@/app/astroenglish/islands-k8";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
@@ -785,7 +784,6 @@ export default function AstroEnglishK8Page() {
   const [checkpointScore, setCheckpointScore] = useState({ score: 0, total: 10 });
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   // ── Avatar state ──────────────────────────────────────────────────────────────
   const [gender] = useState<AvatarGender>(() => getGender());
@@ -996,8 +994,6 @@ export default function AstroEnglishK8Page() {
             </div>
           </div>
         </div>
-        <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-        <VisualLab subject="english" grade={8} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </div>
     );
   }

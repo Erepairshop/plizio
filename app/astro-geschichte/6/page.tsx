@@ -39,7 +39,6 @@ import {
   generateIslandQuestionsK6, generateCheckpointQuestionsK6,
 } from "@/lib/astroGeschichte6";
 
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 const K6Explorer = dynamic(() => import("@/app/astro-geschichte/games/k6/K6Explorer"), { ssr: false });
 const CountryHistoryExplorer = dynamic(() => import("@/app/astro-geschichte/games/CountryHistoryExplorer"), { ssr: false });
@@ -226,8 +225,6 @@ export default function AstroGeschichteK6Page() {
   const t = T[lang as keyof typeof T] ?? T.en;
   const content = useMemo(() => getK6VariantContent(lang as Lang), [lang]);
   const islands = content.islands;
-
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [screen, setScreen] = useState<Screen>("island-map");
   const [progress, setProgress] = useState<GeschichteProgress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
@@ -391,8 +388,6 @@ export default function AstroGeschichteK6Page() {
           </div>
         </div>
       </div>
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="geschichte" grade={6} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </>
     );
   }

@@ -7,7 +7,6 @@ import dynamic from "next/dynamic";
 import { useLang } from "@/components/LanguageProvider";
 import { attachAutoScrollToBottom } from "@/components/attachAutoScrollToBottom";
 import RewardReveal from "@/components/RewardReveal";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import MilestonePopup from "@/components/MilestonePopup";
 import { calculateRarity, saveCard, generateCardId } from "@/lib/cards";
 import { incrementTotalGames, checkNewMilestones } from "@/lib/milestones";
@@ -144,7 +143,6 @@ export default function AstroMathExplorerHybrid(props: AstroMathHybridProps) {
   const t = T[lang as keyof typeof T] ?? T.en;
 
   const [screen, setScreen] = useState<AstroMathScreen>("island-map");
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [progress, setProgress] = useState<MathProgress>(props.progress);
   const [activeIsland, setActiveIsland] = useState<MathIslandConfig | null>(null);
   const [activeMission, setActiveMission] = useState<MathMissionConfig | null>(null);
@@ -333,14 +331,6 @@ export default function AstroMathExplorerHybrid(props: AstroMathHybridProps) {
           </div>
         </div>
 
-        <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-        <VisualLab
-          subject="astromath"
-          grade={props.grade}
-          lang={lang as "de" | "hu" | "ro" | "en"}
-          open={visualLabOpen}
-          onClose={() => setVisualLabOpen(false)}
-        />
       </div>
     );
   }

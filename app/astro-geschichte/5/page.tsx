@@ -39,7 +39,6 @@ import {
   generateIslandQuestionsK5, generateCheckpointQuestionsK5,
 } from "@/lib/astroGeschichte5";
 
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 const K5Explorer = dynamic(() => import("@/app/astro-geschichte/games/k5/K5Explorer"), { ssr: false });
 const CountryHistoryExplorer = dynamic(() => import("@/app/astro-geschichte/games/CountryHistoryExplorer"), { ssr: false });
@@ -216,8 +215,6 @@ export default function AstroGeschichteK5Page() {
   const t = T[lang as keyof typeof T] ?? T.en;
   const content = useMemo(() => getK5VariantContent(lang as Lang), [lang]);
   const islands = content.islands;
-
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [screen, setScreen] = useState<Screen>("island-map");
   const [progress, setProgress] = useState<GeschichteProgress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
@@ -380,8 +377,6 @@ export default function AstroGeschichteK5Page() {
           </div>
         </div>
       </div>
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="geschichte" grade={5} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </>
     );
   }

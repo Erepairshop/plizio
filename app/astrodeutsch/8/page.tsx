@@ -6,7 +6,6 @@ import { useRouter } from "next/navigation";
 import { X, ChevronRight, ChevronLeft } from "lucide-react";
 import dynamic from "next/dynamic";
 import { useLang } from "@/components/LanguageProvider";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import { attachAutoScrollToBottom } from "@/components/attachAutoScrollToBottom";
 import RewardReveal from "@/components/RewardReveal";
 import MilestonePopup from "@/components/MilestonePopup";
@@ -401,7 +400,6 @@ export default function AstroDeutschK8Page() {
   const t = T[lang as keyof typeof T] ?? T.en;
 
   const [screen, setScreen] = useState<Screen>("island-map");
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [progress, setProgress] = useState<DeutschProgress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
   const [activeMission, setActiveMission] = useState<MissionDef | null>(null);
@@ -602,8 +600,6 @@ export default function AstroDeutschK8Page() {
           </div>
         </div>
       </div>
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="deutsch" grade={8} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </>
     );
   }

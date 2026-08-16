@@ -37,6 +37,7 @@
   ],
   "exclude": [
     "node_modules",
+    "disabled-games",
     "supabase",
     "scripts/gen_chile_seo.ts"
   ]

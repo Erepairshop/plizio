@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import { useState, useEffect } from "react";
 import dynamic from "next/dynamic";
@@ -57,10 +57,8 @@ const TRANSLATIONS = {
   en: {
     categories: {
       "QUIZ & REFLEX": "QUIZ, REFLEX & WORD",
-      "ADVENTURE": "ADVENTURE",
       "BRAIN": "LEARN",
       "LOGIC": "LOGIC",
-      "SPORT": "SPORT",
       "MAPS": "MAPS",
     },
     games: {
@@ -136,10 +134,8 @@ const TRANSLATIONS = {
   hu: {
     categories: {
       "QUIZ & REFLEX": "KVÍZ, REFLEX & SZÓ",
-      "ADVENTURE": "KALAND",
       "BRAIN": "TANULÁS",
       "LOGIC": "LOGIKA",
-      "SPORT": "SPORT",
       "MAPS": "TÉRKÉPEK",
     },
     games: {
@@ -215,10 +211,8 @@ const TRANSLATIONS = {
   de: {
     categories: {
       "QUIZ & REFLEX": "QUIZ, REFLEX & WORT",
-      "ADVENTURE": "ABENTEUER",
       "BRAIN": "LERNEN",
       "LOGIC": "LOGIK",
-      "SPORT": "SPORT",
       "MAPS": "KARTEN",
     },
     games: {
@@ -294,10 +288,8 @@ const TRANSLATIONS = {
   ro: {
     categories: {
       "QUIZ & REFLEX": "QUIZ, REFLEX & CUVÂNT",
-      "ADVENTURE": "AVENTURĂ",
       "BRAIN": "ÎNVĂȚARE",
       "LOGIC": "LOGICĂ",
-      "SPORT": "SPORT",
       "MAPS": "HĂRȚI",
     },
     games: {
@@ -448,41 +440,6 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
         color: "#818CF8",
         gradient: "bg-gradient-to-br from-indigo-500/20 to-violet-500/20",
       },
-    ],
-  },
-  {
-    id: "adventure",
-    icon: Mountain,
-    color: "#00FF88",
-    games: [
-      {
-        id: "skyclimb",
-        icon: Mountain,
-        nameKey: "skyclimb",
-        color: "#00FF88",
-        gradient: "bg-gradient-to-br from-green-500/20 to-emerald-500/20",
-      },
-      {
-        id: "citydrive",
-        icon: Car,
-        nameKey: "citydrive",
-        color: "#FF6B00",
-        gradient: "bg-gradient-to-br from-orange-500/20 to-red-500/20",
-      },
-      {
-        id: "racetrack",
-        icon: Car,
-        nameKey: "racetrack",
-        color: "#FF2222",
-        gradient: "bg-gradient-to-br from-red-500/20 to-rose-500/20",
-      },
-      // {
-      //   id: "pliziolife",
-      //   icon: HomeIcon,
-      //   nameKey: "pliziolife",
-      //   color: "#FF2D78",
-      //   gradient: "bg-gradient-to-br from-pink-500/20 to-purple-500/20",
-      // },
     ],
   },
   {
@@ -791,41 +748,6 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
     ],
   },
   {
-    id: "sport",
-    icon: Medal,
-    color: "#FF6B00",
-    games: [
-      {
-        id: "pingpong",
-        icon: CircleDot,
-        nameKey: "pingpong",
-        color: "#00FF88",
-        gradient: "bg-gradient-to-br from-green-500/20 to-emerald-500/20",
-      },
-      {
-        id: "airhockey",
-        icon: CircleDot,
-        nameKey: "airhockey",
-        color: "#00D4FF",
-        gradient: "bg-gradient-to-br from-cyan-500/20 to-blue-500/20",
-      },
-      {
-        id: "tennis",
-        icon: CircleDot,
-        nameKey: "tennis",
-        color: "#FFD700",
-        gradient: "bg-gradient-to-br from-yellow-500/20 to-amber-500/20",
-      },
-      {
-        id: "squash",
-        icon: Swords,
-        nameKey: "squash",
-        color: "#FF2D78",
-        gradient: "bg-gradient-to-br from-pink-500/20 to-purple-500/20",
-      },
-    ],
-  },
-  {
     id: "maps",
     icon: MapIcon,
     color: "#4FC3F7",
@@ -848,10 +770,10 @@ const CATEGORIES_BASE: CategoryDefBase[] = [
 
 /* The 3 homepage module cards (Karte / Lernen / Spiele) */
 const HOME_T = {
-  de: { karte: "Karte", karteSub: "6 Kontinente spielerisch erkunden", lernen: "Lernen", lernenSub: "Fächer, Astro-Spiele und Tests", spiele: "Spiele", spieleSub: "Quiz, Logik, Abenteuer und Sport", allSubjects: "Alle Fächer öffnen", postcard: "Postkarte gestalten" },
-  en: { karte: "Maps", karteSub: "Explore 6 continents through play", lernen: "Learn", lernenSub: "Subjects, astro games and tests", spiele: "Games", spieleSub: "Quiz, logic, adventure and sport", allSubjects: "Open all subjects", postcard: "Create a postcard" },
-  hu: { karte: "Térkép", karteSub: "6 kontinens játékos felfedezése", lernen: "Tanulás", lernenSub: "Tantárgyak, astro játékok és tesztek", spiele: "Játékok", spieleSub: "Kvíz, logika, kaland és sport", allSubjects: "Összes tantárgy", postcard: "Képeslap készítése" },
-  ro: { karte: "Hartă", karteSub: "Explorează 6 continente prin joc", lernen: "Învățare", lernenSub: "Materii, jocuri astro și teste", spiele: "Jocuri", spieleSub: "Quiz, logică, aventură și sport", allSubjects: "Toate materiile", postcard: "Creează o carte poștală" },
+  de: { karte: "Karte", karteSub: "6 Kontinente spielerisch erkunden", lernen: "Lernen", lernenSub: "Fächer, Astro-Spiele und Tests", spiele: "Spiele", spieleSub: "Quiz, Logik und Lernspiele", allSubjects: "Alle Fächer öffnen", postcard: "Postkarte gestalten", visualLab: "Visual Lab", visualLabSub: "Interaktive Lernspiele starten" },
+  en: { karte: "Maps", karteSub: "Explore 6 continents through play", lernen: "Learn", lernenSub: "Subjects, astro games and tests", spiele: "Games", spieleSub: "Quiz, logic and learning games", allSubjects: "Open all subjects", postcard: "Create a postcard", visualLab: "Visual Lab", visualLabSub: "Start interactive learning games" },
+  hu: { karte: "Térkép", karteSub: "6 kontinens játékos felfedezése", lernen: "Tanulás", lernenSub: "Tantárgyak, astro játékok és tesztek", spiele: "Játékok", spieleSub: "Kvíz, logika és tanulós játékok", allSubjects: "Összes tantárgy", postcard: "Képeslap készítése", visualLab: "Visual Lab", visualLabSub: "Interaktív tanulós játékok indítása" },
+  ro: { karte: "Hartă", karteSub: "Explorează 6 continente prin joc", lernen: "Învățare", lernenSub: "Materii, jocuri astro și teste", spiele: "Jocuri", spieleSub: "Quiz, logică și jocuri educative", allSubjects: "Toate materiile", postcard: "Creează o carte poștală", visualLab: "Visual Lab", visualLabSub: "Pornește jocurile educative interactive" },
 } as const;
 
 function getCategoriesWithTranslations(lang: string): CategoryDef[] {
@@ -860,12 +782,10 @@ function getCategoriesWithTranslations(lang: string): CategoryDef[] {
   const currentLang = validLangs.includes(lang as any) ? (lang as typeof validLangs[number]) : 'en';
   const t = TRANSLATIONS[lang as keyof typeof TRANSLATIONS] || TRANSLATIONS.en;
 
-  const categoryLabels: Record<"quizreflex" | "adventure" | "brain" | "logic" | "sport" | "maps", keyof typeof t.categories> = {
+  const categoryLabels: Record<"quizreflex" | "brain" | "logic" | "maps", keyof typeof t.categories> = {
     quizreflex: "QUIZ & REFLEX",
-    adventure: "ADVENTURE",
     brain: "BRAIN",
     logic: "LOGIC",
-    sport: "SPORT",
     maps: "MAPS",
   };
 
@@ -1124,7 +1044,7 @@ export default function Home() {
           {([
             { id: "maps" as const, title: ht.karte, sub: ht.karteSub, icon: MapIcon, accent: "#4FC3F7", count: catById.maps?.games.length ?? 0 },
             { id: "learn" as const, title: ht.lernen, sub: ht.lernenSub, icon: GraduationCap, accent: "#00FF88", count: catById.brain?.games.length ?? 0 },
-            { id: "games" as const, title: ht.spiele, sub: ht.spieleSub, icon: Gamepad2, accent: "#FF2D78", count: (["quizreflex", "adventure", "logic", "sport"] as const).reduce((n, c) => n + (catById[c]?.games.length ?? 0), 0) },
+            { id: "games" as const, title: ht.spiele, sub: ht.spieleSub, icon: Gamepad2, accent: "#FF2D78", count: 1 + (["quizreflex", "logic"] as const).reduce((n, c) => n + (catById[c]?.games.length ?? 0), 0) },
           ]).map((mod) => {
             const ModIcon = mod.icon;
             const open = openCard === mod.id;
@@ -1173,7 +1093,15 @@ export default function Home() {
                       )}
                       {mod.id === "games" && (
                         <div className="space-y-4">
-                          {(["quizreflex", "adventure", "logic", "sport"] as const).map((cid) => {
+                          <Link href="/visual-lab" className="paper-primary-link flex items-center gap-3 px-4 py-3 transition-colors">
+                            <Microscope size={21} className="shrink-0" />
+                            <span className="min-w-0 flex-1">
+                              <span className="block text-sm font-extrabold">{ht.visualLab}</span>
+                              <span className="block truncate text-xs font-medium opacity-70">{ht.visualLabSub}</span>
+                            </span>
+                            <Sparkles size={17} className="shrink-0" />
+                          </Link>
+                          {(["quizreflex", "logic"] as const).map((cid) => {
                             const cat = catById[cid];
                             if (!cat) return null;
                             const CIcon = cat.icon;

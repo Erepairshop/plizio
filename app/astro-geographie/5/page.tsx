@@ -39,7 +39,6 @@ import {
   generateIslandQuestionsK5, generateCheckpointQuestionsK5,
 } from "@/lib/astroGeographie5";
 
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 const GeographieK5Explorer = dynamic(() => import("@/app/astro-geographie/games/k5/GeographieK5Explorer"), { ssr: false });
 
@@ -234,7 +233,6 @@ export default function AstroGeographieK5Page() {
   const [checkpointScore, setCheckpointScore] = useState({ score: 0, total: 10 });
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   const [gender] = useState<AvatarGender>(() => getGender());
   const [activeSkin] = useState(() => getSkinDef(getActiveSkin()));
@@ -383,14 +381,6 @@ export default function AstroGeographieK5Page() {
             </motion.div>
           </div>
         </div>
-        <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-        <VisualLab
-          subject="geographie"
-          grade={5}
-          lang={lang}
-          open={visualLabOpen}
-          onClose={() => setVisualLabOpen(false)}
-        />
       </div>
     );
   }

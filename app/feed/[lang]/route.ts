@@ -17,10 +17,10 @@ export function generateStaticParams() {
 const BUILD_DATE = new Date().toUTCString();
 
 const FEED_TITLE: Record<Lang, string> = {
-  de: "Plizio Visual Lab — Sehenswürdigkeiten",
-  hu: "Plizio Visual Lab — Látnivalók",
-  ro: "Plizio Visual Lab — Puncte de Interes",
-  en: "Plizio Visual Lab — Points of Interest",
+  de: "Plizio Atlas: Sehenswürdigkeiten",
+  hu: "Plizio Atlas: Látnivalók",
+  ro: "Plizio Atlas: Puncte de interes",
+  en: "Plizio Atlas: Points of Interest",
 };
 
 const FEED_DESC: Record<Lang, string> = {

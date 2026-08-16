@@ -43,7 +43,6 @@ import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
 import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
 import K4Explorer from "@/app/astroenglish/games/k4/K4Explorer";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import { ENGLISH_M2_POOLS, ENGLISH_M3_POOLS } from "@/lib/astro/englishGameRegistry";
 import { K4_ISLAND_SVGS } from "@/app/astroenglish/islands-k4";
 import {
@@ -841,7 +840,6 @@ export default function AstroEnglishK4Page() {
   const [checkpointScore, setCheckpointScore] = useState({ score: 0, total: 10 });
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   // ── Avatar state ──────────────────────────────────────────────────────────────
   const [gender] = useState<AvatarGender>(() => getGender());
@@ -1053,8 +1051,6 @@ export default function AstroEnglishK4Page() {
             </div>
           </div>
         </div>
-        <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-        <VisualLab subject="english" grade={4} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </div>
     );
   }
