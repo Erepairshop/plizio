@@ -23,9 +23,9 @@ const DICT = {
     score: "Score",
     lives: "Integrity",
     target: "Target Matrix",
-    gameOver: "System Failure",
-    won: "Reactor Stabilized",
-    playAgain: "Restart Reactor",
+    gameOver: "Try again",
+    won: "Level complete!",
+    playAgain: "Continue learning",
     start: "Engage Reactor",
     exit: "Abort Mission",
     tryAgain: "Incorrect Frequency!",
@@ -37,9 +37,9 @@ const DICT = {
     score: "Pont",
     lives: "Integritás",
     target: "Cél Mátrix",
-    gameOver: "Rendszerhiba",
-    won: "Reaktor Stabilizálva",
-    playAgain: "Újraindítás",
+    gameOver: "Próbáld újra",
+    won: "Szint teljesítve!",
+    playAgain: "Tanulás folytatása",
     start: "Reaktor Indítása",
     exit: "Küldetés Megszakítása",
     tryAgain: "Hibás Frekvencia!",
@@ -51,9 +51,9 @@ const DICT = {
     score: "Punkte",
     lives: "Integrität",
     target: "Zielmatrix",
-    gameOver: "Systemfehler",
-    won: "Reaktor Stabilisiert",
-    playAgain: "Neustart",
+    gameOver: "Erneut versuchen",
+    won: "Level geschafft!",
+    playAgain: "Weiterlernen",
     start: "Reaktor Starten",
     exit: "Mission Abbrechen",
     tryAgain: "Falsche Frequenz!",
@@ -65,9 +65,9 @@ const DICT = {
     score: "Scor",
     lives: "Integritate",
     target: "Matrice Țintă",
-    gameOver: "Eroare de Sistem",
-    won: "Reactor Stabilizat",
-    playAgain: "Repornire",
+    gameOver: "Încearcă din nou",
+    won: "Nivel complet!",
+    playAgain: "Continuă să înveți",
     start: "Activare Reactor",
     exit: "Abandonare Misiune",
     tryAgain: "Frecvență Incorectă!",
@@ -122,7 +122,7 @@ const BarFraction = ({ num, den, size = 60 }: { num: number; den: number; size?:
 };
 
 export default function FractionReactorGame({ grade, lang, onDone }: Props) {
-  const { progress, difficulty, mastery, selectLevel, recordAnswer } = useMathGameProgress('fraction-reactor', grade);
+  const { progress, difficulty, mastery, selectLevel, recordAnswer, advanceToUnlockedLevel } = useMathGameProgress('fraction-reactor', grade);
   const [status, setStatus] = useState<'start' | 'playing' | 'gameover' | 'won'>('start');
   const [score, setScore] = useState(0);
   const [lives, setLives] = useState(3);
@@ -185,6 +185,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
 
   const startRound = useCallback((currentRound: number) => {
     if (currentRound >= maxRounds) {
+      advanceToUnlockedLevel();
       setStatus('won');
       return;
     }
@@ -194,7 +195,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
     setFeedback(null);
     setIsCorrectDrop(null);
     answerLockedRef.current = false;
-  }, [difficulty, grade, maxRounds, generateOptions]);
+  }, [difficulty, grade, maxRounds, generateOptions, advanceToUnlockedLevel]);
 
   const startGame = () => {
     if (roundTimerRef.current) clearTimeout(roundTimerRef.current);

@@ -21,6 +21,10 @@ const DICT = {
     miss: 'Miss!',
     gameOver: 'Game Over!',
     playAgain: 'Play Again',
+    levelDone: 'Level complete!',
+    roundOver: 'Round complete - keep practicing',
+    nextLevel: 'Next level',
+    tryAgain: 'Try again',
     round: 'Round',
   },
   de: {
@@ -33,6 +37,10 @@ const DICT = {
     miss: 'Daneben!',
     gameOver: 'Spiel vorbei!',
     playAgain: 'Nochmal spielen',
+    levelDone: 'Level geschafft!',
+    roundOver: 'Runde beendet - weiter üben',
+    nextLevel: 'Nächstes Level',
+    tryAgain: 'Erneut versuchen',
     round: 'Runde',
   },
   hu: {
@@ -45,6 +53,10 @@ const DICT = {
     miss: 'Mellé!',
     gameOver: 'Játék vége!',
     playAgain: 'Új játék',
+    levelDone: 'Szint teljesítve!',
+    roundOver: 'A kör véget ért - gyakorolj tovább',
+    nextLevel: 'Következő szint',
+    tryAgain: 'Újrapróbálom',
     round: 'Kör',
   },
   ro: {
@@ -57,6 +69,10 @@ const DICT = {
     miss: 'Ratat!',
     gameOver: 'Joc Terminat!',
     playAgain: 'Joacă din nou',
+    levelDone: 'Nivel complet!',
+    roundOver: 'Rundă încheiată - continuă antrenamentul',
+    nextLevel: 'Nivelul următor',
+    tryAgain: 'Încearcă din nou',
     round: 'Rundă',
   }
 };
@@ -97,7 +113,7 @@ const AsteroidSVG = () => (
 
 export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGameProps) {
   const t = DICT[lang] || DICT.en;
-  const { progress, difficulty, mastery, selectLevel, recordAnswer } = useMathGameProgress('angle-laser', grade);
+  const { progress, difficulty, mastery, selectLevel, recordAnswer, advanceToUnlockedLevel } = useMathGameProgress('angle-laser', grade);
   const MAX_ROUNDS = difficulty.rounds;
   const [round, setRound] = useState(1);
   const [score, setScore] = useState(0);
@@ -144,6 +160,7 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
 
   const nextRound = () => {
     if (round >= MAX_ROUNDS) {
+      advanceToUnlockedLevel();
       setPhase('gameover');
     } else {
       setRound(r => r + 1);
@@ -315,13 +332,13 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
               animate={{ y: 0, opacity: 1 }}
               className="text-3xl font-black text-amber-400 uppercase tracking-widest drop-shadow-[0_0_10px_rgba(251,191,36,0.5)]"
             >
-              {t.gameOver}
+              {score >= MAX_ROUNDS ? t.levelDone : t.roundOver}
             </motion.p>
             <button 
               onClick={resetGame}
               className="px-8 py-2 bg-blue-600 hover:bg-blue-500 rounded-full text-white font-bold transition-all"
             >
-              {t.playAgain}
+              {score >= MAX_ROUNDS ? (progress.selectedLevel < 5 ? t.nextLevel : t.playAgain) : t.tryAgain}
             </button>
           </>
         ) : null}

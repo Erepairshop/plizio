@@ -14,8 +14,8 @@ const DICT = {
     title: "Star Mapper",
     score: "Score",
     lockOn: "LOCK ON",
-    gameOver: "Game Over",
-    playAgain: "Play Again",
+    gameOver: "Level complete!",
+    playAgain: "Continue learning",
     correct: "Target Destroyed!",
     wrong: "Missed!",
     start: "Start Mission",
@@ -28,8 +28,8 @@ const DICT = {
     title: "Sternenkartograf",
     score: "Punkte",
     lockOn: "ZIELERFASSUNG",
-    gameOver: "Spiel Beendet",
-    playAgain: "Nochmal spielen",
+    gameOver: "Level geschafft!",
+    playAgain: "Weiterlernen",
     correct: "Ziel zerstört!",
     wrong: "Verfehlt!",
     start: "Mission starten",
@@ -42,8 +42,8 @@ const DICT = {
     title: "Csillagtérképész",
     score: "Pont",
     lockOn: "CÉLZÁS",
-    gameOver: "Játék Vége",
-    playAgain: "Újra",
+    gameOver: "Szint teljesítve!",
+    playAgain: "Tanulás folytatása",
     correct: "Találat!",
     wrong: "Mellé!",
     start: "Küldetés indítása",
@@ -56,8 +56,8 @@ const DICT = {
     title: "Cartografic Stelar",
     score: "Scor",
     lockOn: "FIXARE ȚINTĂ",
-    gameOver: "Joc Terminat",
-    playAgain: "Joacă din nou",
+    gameOver: "Nivel complet!",
+    playAgain: "Continuă să înveți",
     correct: "Țintă distrusă!",
     wrong: "Ratare!",
     start: "Start Misiune",
@@ -70,7 +70,7 @@ const DICT = {
 
 export default function StarMapperGame({ grade, lang, onDone }: StarMapperGameProps) {
   const t = DICT[lang] || DICT.en;
-  const { progress, difficulty, mastery, selectLevel, recordAnswer } = useMathGameProgress('star-mapper', grade);
+  const { progress, difficulty, mastery, selectLevel, recordAnswer, advanceToUnlockedLevel } = useMathGameProgress('star-mapper', grade);
 
   const config = useMemo(() => {
     const min = difficulty.allowNegativeCoordinates ? -difficulty.coordinateMax : 0;
@@ -147,18 +147,17 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
       recordAnswer(true);
       setScore(s => s + 10);
       setFeedback('correct');
-      setCorrectCount(c => {
-        const next = c + 1;
-        if (next >= maxCorrect) {
-          nextTimerRef.current = setTimeout(() => {
-            setGameState('end');
-            if (onDone) onDone(score + 10);
-          }, 1200);
-        } else {
-          nextTimerRef.current = setTimeout(() => generateTarget(), 1000);
-        }
-        return next;
-      });
+      const nextCorrectCount = correctCount + 1;
+      setCorrectCount(nextCorrectCount);
+      if (nextCorrectCount >= maxCorrect) {
+        advanceToUnlockedLevel();
+        nextTimerRef.current = setTimeout(() => {
+          setGameState('end');
+          if (onDone) onDone(score + 10);
+        }, 1200);
+      } else {
+        nextTimerRef.current = setTimeout(() => generateTarget(), 1000);
+      }
     } else {
       recordAnswer(false);
       setFeedback('wrong');

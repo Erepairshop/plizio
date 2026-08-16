@@ -11,10 +11,10 @@ interface Props { grade: number; lang: Lang; onDone?: (score: number) => void; }
 interface Question { values: number[]; labels: string[]; kind: QuestionKind; prompt: string; answer: number; options: number[]; }
 
 const COPY: Record<Lang, Record<string, string>> = {
-  de: { title: "Daten-Mission", next: "Weiter", score: "Punkte", round: "Runde", again: "Nochmal", done: "Mission geschafft", largest: "Welcher Balken ist am größten?", total: "Wie groß ist die Summe?", difference: "Wie groß ist der Unterschied zwischen dem größten und kleinsten Wert?", mean: "Wie groß ist der Mittelwert?", range: "Wie groß ist die Spannweite?", probability: "Wie viel Prozent entfallen auf den markierten Balken?" },
-  hu: { title: "Adatküldetés", next: "Tovább", score: "Pont", round: "Kör", again: "Újra", done: "Küldetés teljesítve", largest: "Melyik oszlop a legnagyobb?", total: "Mennyi az értékek összege?", difference: "Mennyi a legnagyobb és legkisebb érték különbsége?", mean: "Mennyi az átlag?", range: "Mekkora a terjedelem?", probability: "Az összes adat hány százaléka a megjelölt oszlop?" },
-  ro: { title: "Misiunea Datelor", next: "Înainte", score: "Scor", round: "Runda", again: "Din nou", done: "Misiune încheiată", largest: "Care bară este cea mai mare?", total: "Care este suma valorilor?", difference: "Care este diferența dintre valoarea maximă și minimă?", mean: "Care este media?", range: "Care este amplitudinea?", probability: "Ce procent reprezintă bara marcată?" },
-  en: { title: "Data Mission", next: "Next", score: "Score", round: "Round", again: "Play again", done: "Mission complete", largest: "Which bar is the largest?", total: "What is the total?", difference: "What is the difference between the largest and smallest value?", mean: "What is the mean?", range: "What is the range?", probability: "What percentage belongs to the marked bar?" },
+  de: { title: "Daten-Mission", next: "Weiter", score: "Punkte", round: "Runde", again: "Weiterlernen", done: "Runde geschafft!", largest: "Welcher Balken ist am größten?", total: "Wie groß ist die Summe?", difference: "Wie groß ist der Unterschied zwischen dem größten und kleinsten Wert?", mean: "Wie groß ist der Mittelwert?", range: "Wie groß ist die Spannweite?", probability: "Wie viel Prozent entfallen auf den markierten Balken?" },
+  hu: { title: "Adatküldetés", next: "Tovább", score: "Pont", round: "Kör", again: "Tanulás folytatása", done: "Kör teljesítve!", largest: "Melyik oszlop a legnagyobb?", total: "Mennyi az értékek összege?", difference: "Mennyi a legnagyobb és legkisebb érték különbsége?", mean: "Mennyi az átlag?", range: "Mekkora a terjedelem?", probability: "Az összes adat hány százaléka a megjelölt oszlop?" },
+  ro: { title: "Misiunea Datelor", next: "Înainte", score: "Scor", round: "Runda", again: "Continuă să înveți", done: "Rundă completă!", largest: "Care bară este cea mai mare?", total: "Care este suma valorilor?", difference: "Care este diferența dintre valoarea maximă și minimă?", mean: "Care este media?", range: "Care este amplitudinea?", probability: "Ce procent reprezintă bara marcată?" },
+  en: { title: "Data Mission", next: "Next", score: "Score", round: "Round", again: "Continue learning", done: "Round complete!", largest: "Which bar is the largest?", total: "What is the total?", difference: "What is the difference between the largest and smallest value?", mean: "What is the mean?", range: "What is the range?", probability: "What percentage belongs to the marked bar?" },
 };
 
 function shuffledOptions(answer: number, spread: number): number[] {
@@ -66,7 +66,7 @@ export function generateDataQuestion(grade: number, difficulty: MathDifficulty, 
 
 export default function DataOrbitGame({ grade, lang, onDone }: Props) {
   const t = COPY[lang] ?? COPY.en;
-  const { progress, difficulty, mastery, selectLevel, recordAnswer } = useMathGameProgress("data-orbit", grade);
+  const { progress, difficulty, mastery, selectLevel, recordAnswer, advanceToUnlockedLevel } = useMathGameProgress("data-orbit", grade);
   const [seed, setSeed] = useState(0);
   const [round, setRound] = useState(1);
   const [score, setScore] = useState(0);
@@ -85,6 +85,7 @@ export default function DataOrbitGame({ grade, lang, onDone }: Props) {
 
   const next = () => {
     if (round >= difficulty.rounds) {
+      advanceToUnlockedLevel();
       setFinished(true);
       onDone?.(score);
       return;

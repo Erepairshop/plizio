@@ -13,33 +13,33 @@ const DICT = {
     title: 'Zeitkrümmung',
     target: 'Zielzeit:',
     score: 'Punkte:',
-    gameOver: 'Spiel vorbei!',
+    gameOver: 'Versuch beendet',
     finalScore: 'Endergebnis:',
-    playAgain: 'Nochmal spielen',
+    playAgain: 'Weiterlernen',
   },
   hu: {
     title: 'Időhajlítás',
     target: 'Cél idő:',
     score: 'Pontszám:',
-    gameOver: 'Játék vége!',
+    gameOver: 'Próbálkozás vége',
     finalScore: 'Végső pontszám:',
-    playAgain: 'Újra',
+    playAgain: 'Tanulás folytatása',
   },
   ro: {
     title: 'Deformarea Timpului',
     target: 'Timp țintă:',
     score: 'Scor:',
-    gameOver: 'Joc terminat!',
+    gameOver: 'Încercare încheiată',
     finalScore: 'Scor final:',
-    playAgain: 'Joacă din nou',
+    playAgain: 'Continuă să înveți',
   },
   en: {
     title: 'Time Warp',
     target: 'Target Time:',
     score: 'Score:',
-    gameOver: 'Game Over!',
+    gameOver: 'Attempt complete',
     finalScore: 'Final Score:',
-    playAgain: 'Play Again',
+    playAgain: 'Continue learning',
   },
 };
 
@@ -132,7 +132,7 @@ const AnalogClock = ({ hours, minutes, size = 100, onClick }: { hours: number; m
 
 export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps) {
   const t = DICT[lang] || DICT.en;
-  const { progress, difficulty, mastery, selectLevel, recordAnswer } = useMathGameProgress('time-warp', grade);
+  const { progress, difficulty, mastery, selectLevel, recordAnswer, advanceToUnlockedLevel } = useMathGameProgress('time-warp', grade);
 
   const [score, setScore] = useState(0);
   const [targetTime, setTargetTime] = useState<{ h: number; m: number }>({ h: 12, m: 0 });
@@ -225,16 +225,15 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
       recordAnswer(true);
       setScore(s => s + 10);
       setClocks(prev => prev.filter(c => c.id !== clock.id));
-      setCorrectCount(c => {
-        const next = c + 1;
-        if (next >= maxCorrect) {
-          setGameWon(true);
-          setClocks([]);
-        } else {
-          generateNewTarget();
-        }
-        return next;
-      });
+      const nextCorrectCount = correctCount + 1;
+      setCorrectCount(nextCorrectCount);
+      if (nextCorrectCount >= maxCorrect) {
+        advanceToUnlockedLevel();
+        setGameWon(true);
+        setClocks([]);
+      } else {
+        generateNewTarget();
+      }
     } else {
       // Wrong! Game over.
       recordAnswer(false);

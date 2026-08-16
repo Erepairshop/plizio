@@ -7,10 +7,10 @@ import { MathLevelBar, useMathGameProgress } from "@/components/visual-lab/MathG
 import { difficultyFor, type MathDifficulty } from "@/lib/visualLab/mathCurriculum";
 
 const DICTIONARY = {
-  en: { title: "Meteor Scale", score: "Score", gameOver: "Mission complete", next: "Continue", playAgain: "Play again", tryAgain: "Try again", choose: "Choose the missing number" },
-  de: { title: "Meteor-Waage", score: "Punkte", gameOver: "Mission geschafft", next: "Weiter", playAgain: "Nochmal spielen", tryAgain: "Versuch es nochmal", choose: "Wähle die fehlende Zahl" },
-  hu: { title: "Meteor Mérleg", score: "Pontszám", gameOver: "Küldetés teljesítve", next: "Tovább", playAgain: "Újra", tryAgain: "Próbáld újra", choose: "Válaszd ki a hiányzó számot" },
-  ro: { title: "Balanța Meteorilor", score: "Scor", gameOver: "Misiune finalizată", next: "Continuă", playAgain: "Joacă din nou", tryAgain: "Încearcă din nou", choose: "Alege numărul lipsă" },
+  en: { title: "Meteor Scale", score: "Score", gameOver: "Level complete!", next: "Continue", playAgain: "Continue learning", tryAgain: "Try again", choose: "Choose the missing number" },
+  de: { title: "Meteor-Waage", score: "Punkte", gameOver: "Level geschafft!", next: "Weiter", playAgain: "Weiterlernen", tryAgain: "Erneut versuchen", choose: "Wähle die fehlende Zahl" },
+  hu: { title: "Meteor Mérleg", score: "Pontszám", gameOver: "Szint teljesítve!", next: "Tovább", playAgain: "Tanulás folytatása", tryAgain: "Újrapróbálom", choose: "Válaszd ki a hiányzó számot" },
+  ro: { title: "Balanța Meteorilor", score: "Scor", gameOver: "Nivel complet!", next: "Continuă", playAgain: "Continuă să înveți", tryAgain: "Încearcă din nou", choose: "Alege numărul lipsă" },
 };
 
 interface MeteorScaleGameProps {
@@ -120,7 +120,7 @@ export function generateMeteorProblem(grade: number, difficulty: MathDifficulty)
 
 export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGameProps) {
   const t = DICTIONARY[lang] ?? DICTIONARY.en;
-  const { progress, difficulty, levelRef, mastery, selectLevel, recordAnswer } = useMathGameProgress("meteor-scale", grade);
+  const { progress, difficulty, levelRef, mastery, selectLevel, recordAnswer, advanceToUnlockedLevel } = useMathGameProgress("meteor-scale", grade);
   const maxRounds = difficulty.rounds;
   const [problem, setProblem] = useState<Problem>(() => generateMeteorProblem(grade, difficultyFor(grade, 1)));
   const [score, setScore] = useState(0);
@@ -133,6 +133,7 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
 
   const prepareRound = useCallback((roundIndex: number) => {
     if (roundIndex >= maxRounds) {
+      advanceToUnlockedLevel();
       setPhase("complete");
       return;
     }
@@ -140,7 +141,7 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
     setSelected(null);
     setStatus("idle");
     answerLockedRef.current = false;
-  }, [grade, levelRef, maxRounds]);
+  }, [grade, levelRef, maxRounds, advanceToUnlockedLevel]);
 
   useEffect(() => {
     if (timerRef.current) clearTimeout(timerRef.current);

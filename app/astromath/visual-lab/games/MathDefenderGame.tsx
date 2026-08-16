@@ -106,9 +106,10 @@ const T: Record<Lang, Record<string, string>> = {
     start: "Starten",
     score: "Punkte",
     lives: "Leben",
-    roundDone: "Runde geschafft!",
-    gameOver: "Game Over",
-    restart: "Nochmal",
+    roundDone: "Level geschafft!",
+    gameOver: "Versuch beendet",
+    restart: "Erneut versuchen",
+    next: "Nächstes Level",
     tryAgain: "Erneut versuchen",
     fire: "FEUER",
     del: "LÖSCHEN",
@@ -119,9 +120,10 @@ const T: Record<Lang, Record<string, string>> = {
     start: "Kezdés",
     score: "Pont",
     lives: "Élet",
-    roundDone: "Győzelem!",
-    gameOver: "Vége",
-    restart: "Újra",
+    roundDone: "Szint teljesítve!",
+    gameOver: "Próbálkozás vége",
+    restart: "Újrapróbálom",
+    next: "Következő szint",
     tryAgain: "Próbáld újra",
     fire: "TŰZ",
     del: "TÖRLÉS",
@@ -132,9 +134,10 @@ const T: Record<Lang, Record<string, string>> = {
     start: "Start",
     score: "Scor",
     lives: "Vieți",
-    roundDone: "Rundă completă!",
-    gameOver: "Game Over",
-    restart: "Din nou",
+    roundDone: "Nivel complet!",
+    gameOver: "Încercare încheiată",
+    restart: "Încearcă din nou",
+    next: "Nivelul următor",
     tryAgain: "Încearcă din nou",
     fire: "FOC",
     del: "ȘTERGE",
@@ -145,9 +148,10 @@ const T: Record<Lang, Record<string, string>> = {
     start: "Start",
     score: "Score",
     lives: "Lives",
-    roundDone: "Victory!",
-    gameOver: "Game Over",
-    restart: "Restart",
+    roundDone: "Level complete!",
+    gameOver: "Attempt complete",
+    restart: "Try again",
+    next: "Next level",
     tryAgain: "Try Again",
     fire: "FIRE",
     del: "DEL",
@@ -164,7 +168,7 @@ interface Props {
 
 export default function MathDefenderGame({ grade, lang, onDone }: Props) {
   const t = T[lang] ?? T.en;
-  const { progress, difficulty, mastery, selectLevel, recordAnswer } = useMathGameProgress("math-defender", grade);
+  const { progress, difficulty, mastery, selectLevel, recordAnswer, advanceToUnlockedLevel } = useMathGameProgress("math-defender", grade);
 
   const [phase, setPhase] = useState<"intro" | "playing" | "won" | "lost">("intro");
   const [score, setScore] = useState(0);
@@ -284,10 +288,11 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
   // Win condition
   useEffect(() => {
     if (phase === "playing" && score >= WIN_SCORE) {
+      advanceToUnlockedLevel();
       setPhase("won");
       onDone?.(score);
     }
-  }, [score, phase, onDone]);
+  }, [score, phase, onDone, advanceToUnlockedLevel, WIN_SCORE]);
 
   const handleInput = (val: string) => {
     if (phase !== "playing") return;
@@ -486,7 +491,7 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
               onClick={start}
               className="px-8 py-3 rounded-full bg-white hover:bg-gray-200 text-black font-bold text-lg transition-transform active:scale-95"
             >
-              {phase === "won" ? t.start : t.tryAgain}
+              {phase === "won" ? t.next : t.tryAgain}
             </button>
           </div>
         )}

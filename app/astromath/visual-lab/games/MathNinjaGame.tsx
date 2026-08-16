@@ -58,14 +58,14 @@ const T: Record<Lang, Record<string, string>> = {
     title: "Math Ninja",
     subtitle: "Wische die richtigen Zahlen!",
     start: "Loslegen",
-    restart: "Nochmal",
+    restart: "Erneut versuchen",
     tryAgain: "Nochmal versuchen",
     score: "Punkte",
     combo: "KOMBO",
     time: "Zeit",
     lives: "Leben",
-    roundDone: "Runde geschafft!",
-    gameOver: "Game Over",
+    roundDone: "Level geschafft!",
+    gameOver: "Versuch beendet",
     rule_even: "Zerschneide nur GERADE Zahlen!",
     rule_odd: "Zerschneide nur UNGERADE Zahlen!",
     "rule_multiple-of": "Zerschneide Vielfache von {n}!",
@@ -73,7 +73,7 @@ const T: Record<Lang, Record<string, string>> = {
     "rule_sum-to": "Zerschneide Paare, die {n} ergeben!",
     "rule_greater-than": "Zerschneide Zahlen GRÖSSER als {n}!",
     "rule_less-than": "Zerschneide Zahlen KLEINER als {n}!",
-    next: "Nächste Runde",
+    next: "Nächstes Level",
     task: "Deine Aufgabe",
     go: "LOS!",
     goal: "Ziel",
@@ -82,14 +82,14 @@ const T: Record<Lang, Record<string, string>> = {
     title: "Math Ninja",
     subtitle: "Vágd el a helyes számokat!",
     start: "Kezdés",
-    restart: "Újra",
+    restart: "Újrapróbálom",
     tryAgain: "Próbáld újra",
     score: "Pont",
     combo: "KOMBÓ",
     time: "Idő",
     lives: "Élet",
-    roundDone: "Kör teljesítve!",
-    gameOver: "Vége",
+    roundDone: "Szint teljesítve!",
+    gameOver: "Próbálkozás vége",
     rule_even: "Csak PÁROS számokat vágj!",
     rule_odd: "Csak PÁRATLAN számokat vágj!",
     "rule_multiple-of": "Csak {n} többszöröseit vágd!",
@@ -97,7 +97,7 @@ const T: Record<Lang, Record<string, string>> = {
     "rule_sum-to": "Olyan párokat, amelyek összege {n}!",
     "rule_greater-than": "{n}-nél NAGYOBB számokat!",
     "rule_less-than": "{n}-nél KISEBB számokat!",
-    next: "Következő kör",
+    next: "Következő szint",
     task: "A feladatod",
     go: "RAJT!",
     goal: "Cél",
@@ -106,14 +106,14 @@ const T: Record<Lang, Record<string, string>> = {
     title: "Math Ninja",
     subtitle: "Taie numerele corecte!",
     start: "Start",
-    restart: "Din nou",
+    restart: "Încearcă din nou",
     tryAgain: "Încearcă din nou",
     score: "Punctaj",
     combo: "COMBO",
     time: "Timp",
     lives: "Vieți",
-    roundDone: "Runda terminată!",
-    gameOver: "Game Over",
+    roundDone: "Nivel complet!",
+    gameOver: "Încercare încheiată",
     rule_even: "Taie doar numere PARE!",
     rule_odd: "Taie doar numere IMPARE!",
     "rule_multiple-of": "Taie multiplii de {n}!",
@@ -121,7 +121,7 @@ const T: Record<Lang, Record<string, string>> = {
     "rule_sum-to": "Taie perechi cu suma {n}!",
     "rule_greater-than": "Numere mai MARI decât {n}!",
     "rule_less-than": "Numere mai MICI decât {n}!",
-    next: "Runda următoare",
+    next: "Nivelul următor",
     task: "Sarcina ta",
     go: "START!",
     goal: "Obiectiv",
@@ -130,14 +130,14 @@ const T: Record<Lang, Record<string, string>> = {
     title: "Math Ninja",
     subtitle: "Slice the right numbers!",
     start: "Start",
-    restart: "Restart",
+    restart: "Try again",
     tryAgain: "Try again",
     score: "Score",
     combo: "COMBO",
     time: "Time",
     lives: "Lives",
-    roundDone: "Round done!",
-    gameOver: "Game Over",
+    roundDone: "Level complete!",
+    gameOver: "Attempt complete",
     rule_even: "Slice only EVEN numbers!",
     rule_odd: "Slice only ODD numbers!",
     "rule_multiple-of": "Slice multiples of {n}!",
@@ -145,7 +145,7 @@ const T: Record<Lang, Record<string, string>> = {
     "rule_sum-to": "Slice pairs that sum to {n}!",
     "rule_greater-than": "Slice numbers GREATER than {n}!",
     "rule_less-than": "Slice numbers LESS than {n}!",
-    next: "Next round",
+    next: "Next level",
     task: "Your task",
     go: "GO!",
     goal: "Goal",
@@ -258,7 +258,7 @@ const PALETTE = ["#22D3EE", "#F472B6", "#A78BFA", "#FBBF24", "#34D399", "#F97316
 
 export default function MathNinjaGame({ grade, lang, onDone }: Props) {
   const t = T[lang] ?? T.en;
-  const { progress, difficulty, levelRef, mastery, selectLevel, recordAnswer } = useMathGameProgress("math-ninja", grade);
+  const { progress, difficulty, levelRef, mastery, selectLevel, recordAnswer, advanceToUnlockedLevel } = useMathGameProgress("math-ninja", grade);
   const [phase, setPhase] = useState<"reveal" | "playing" | "won" | "lost">("reveal");
   const [pool, setPool] = useState<RoundPool>(() => poolFor(grade, difficultyFor(grade, 1), Math.floor(Math.random() * 1000)));
 
@@ -398,10 +398,11 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
   /* Win / lose watchers */
   useEffect(() => {
     if (phase === "playing" && correctHits >= pool.goal) {
+      advanceToUnlockedLevel();
       setPhase("won");
       onDone?.(scoreRef.current);
     }
-  }, [correctHits, pool.goal, phase, onDone]);
+  }, [correctHits, pool.goal, phase, onDone, advanceToUnlockedLevel]);
 
   useEffect(() => {
     if (phase === "playing" && lives <= 0) {

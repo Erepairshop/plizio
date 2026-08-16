@@ -35,16 +35,24 @@ function emptyProgress(): StoredProgress {
 function normalizeProgress(value: unknown): StoredProgress {
   if (!value || typeof value !== "object") return emptyProgress();
   const input = value as Partial<StoredProgress>;
-  const unlockedLevel = clampMathLevel(Number(input.unlockedLevel));
-  const selectedLevel = Math.min(unlockedLevel, clampMathLevel(Number(input.selectedLevel))) as MathLevel;
+  const storedUnlockedLevel = clampMathLevel(Number(input.unlockedLevel));
   const normalizeCounts = (counts: unknown) => Array.from({ length: 5 }, (_, index) => {
     const valueAtIndex = Array.isArray(counts) ? Number(counts[index]) : 0;
     return Number.isFinite(valueAtIndex) ? Math.max(0, Math.floor(valueAtIndex)) : 0;
   });
+  const correctByLevel = normalizeCounts(input.correctByLevel);
+  let unlockedLevel = storedUnlockedLevel;
+  while (unlockedLevel < 5 && correctByLevel[unlockedLevel - 1] >= requiredCorrectForLevel(unlockedLevel)) {
+    unlockedLevel = (unlockedLevel + 1) as MathLevel;
+  }
+  const storedSelectedLevel = Math.min(storedUnlockedLevel, clampMathLevel(Number(input.selectedLevel))) as MathLevel;
+  const selectedLevel = storedSelectedLevel === storedUnlockedLevel && unlockedLevel > storedUnlockedLevel
+    ? unlockedLevel
+    : Math.min(unlockedLevel, storedSelectedLevel) as MathLevel;
   return {
     unlockedLevel,
     selectedLevel,
-    correctByLevel: normalizeCounts(input.correctByLevel),
+    correctByLevel,
     attemptsByLevel: normalizeCounts(input.attemptsByLevel),
     stars: Math.max(0, Math.floor(Number(input.stars) || 0)),
   };
@@ -118,6 +126,16 @@ export function useMathGameProgress(gameId: MathGameId, grade: number) {
     return levelAfterAnswer;
   }, [storageKey]);
 
+  const advanceToUnlockedLevel = useCallback(() => {
+    setProgress((current) => {
+      if (current.selectedLevel >= current.unlockedLevel) return current;
+      levelRef.current = current.unlockedLevel;
+      const next = { ...current, selectedLevel: current.unlockedLevel };
+      try { localStorage.setItem(storageKey, JSON.stringify(next)); } catch {}
+      return next;
+    });
+  }, [storageKey]);
+
   const difficulty = useMemo(
     () => difficultyFor(grade, progress.selectedLevel),
     [grade, progress.selectedLevel],
@@ -131,6 +149,7 @@ export function useMathGameProgress(gameId: MathGameId, grade: number) {
     levelRef,
     selectLevel,
     recordAnswer,
+    advanceToUnlockedLevel,
     mastery: Math.min(1, progress.correctByLevel[levelIndex] / required),
     curriculum: curriculumForGrade(grade),
     persist,

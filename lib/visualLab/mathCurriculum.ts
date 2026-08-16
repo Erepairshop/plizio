@@ -69,7 +69,7 @@ export function curriculumForGrade(grade: number): GradeCurriculum {
 }
 
 export function requiredCorrectForLevel(level: MathLevel): number {
-  return 3 + level * 2;
+  return 3 + level;
 }
 
 export function difficultyFor(gradeInput: number, levelInput: number): MathDifficulty {
