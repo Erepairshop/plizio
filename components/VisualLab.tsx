@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { X, Map, Landmark, Star } from "lucide-react";
+import VisualLabIcon from "./VisualLabIcon";
 import { shuffleDeterministic, useTimeoutRegistry } from "./astro-games/utils";
 import MeteorCatchGame from "@/app/astro-sachkunde/visual-lab/games/MeteorCatchGame";
 import OrbitSortGame from "@/app/astro-sachkunde/visual-lab/games/OrbitSortGame";
