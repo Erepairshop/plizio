@@ -77,6 +77,7 @@ const T: Record<Lang, Record<string, string>> = {
     task: "Deine Aufgabe",
     go: "LOS!",
     goal: "Ziel",
+    lifeHint: "Nur ein falscher Schnitt kostet ein Leben. Verpasste Zahlen nicht.",
   },
   hu: {
     title: "Math Ninja",
@@ -101,6 +102,7 @@ const T: Record<Lang, Record<string, string>> = {
     task: "A feladatod",
     go: "RAJT!",
     goal: "Cél",
+    lifeHint: "Csak hibás vágásért veszítesz életet. A kihagyott számokért nem.",
   },
   ro: {
     title: "Math Ninja",
@@ -125,6 +127,7 @@ const T: Record<Lang, Record<string, string>> = {
     task: "Sarcina ta",
     go: "START!",
     goal: "Obiectiv",
+    lifeHint: "Pierzi o viață doar dacă tai greșit, nu dacă ratezi un număr.",
   },
   en: {
     title: "Math Ninja",
@@ -149,6 +152,7 @@ const T: Record<Lang, Record<string, string>> = {
     task: "Your task",
     go: "GO!",
     goal: "Goal",
+    lifeHint: "Only a wrong slice costs a life. Missing a number does not.",
   },
 };
 
@@ -172,7 +176,6 @@ interface RoundPool {
   rule: Rule;
   range: [number, number];
   spawnIntervalMs: number;
-  durationMs: number;
   goal: number;
   maxLives: number;
 }
@@ -234,9 +237,8 @@ function poolFor(grade: number, difficulty: MathDifficulty, seed: number): Round
   const range: [number, number] = [grade <= 3 ? 1 : 2, Math.min(250, gradeBase + (difficulty.level - 1) * levelGrowth)];
   const baseSpawnInterval = grade <= 2 ? 1_050 : grade <= 4 ? 900 : 760;
   const spawnIntervalMs = Math.round(baseSpawnInterval / difficulty.speedMultiplier);
-  const durationMs = 45_000;
   const goal = difficulty.rounds;
-  return { rule, range, spawnIntervalMs, durationMs, goal, maxLives: 3 };
+  return { rule, range, spawnIntervalMs, goal, maxLives: 3 };
 }
 
 function localizePrompt(t: Record<string, string>, rule: Rule): string {
@@ -345,7 +347,6 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
 
       let effectsQueued = false;
       setBlades((prev) => {
-        let missedTargets = 0;
         let escapedPendingUid: number | null = null;
         const gravity = 85; // lower = higher arcs
         const next: Blade[] = [];
@@ -364,21 +365,15 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
               if (pendingPairRef.current?.uid === b.uid) {
                 escapedPendingUid = b.uid;
               }
-            } else if (pool.rule.test(b.value)) {
-              missedTargets += 1;
             }
             continue;
           }
           next.push({ ...b, x: newX, y: newY, vy: newVy, rot: newRot });
         }
-        if (!effectsQueued && (escapedPendingUid !== null || missedTargets > 0)) {
+        if (!effectsQueued && escapedPendingUid !== null) {
           effectsQueued = true;
           queueMicrotask(() => {
             if (pendingPairRef.current?.uid === escapedPendingUid) pendingPairRef.current = null;
-            if (missedTargets > 0) {
-              for (let index = 0; index < missedTargets; index++) recordAnswer(false);
-              loseLives(missedTargets);
-            }
           });
         }
         return next;
@@ -393,7 +388,7 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
       lastFrameRef.current = 0;
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [phase, pool, loseLives, recordAnswer]);
+  }, [phase, pool]);
 
   /* Win / lose watchers */
   useEffect(() => {
@@ -839,6 +834,7 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
                 {prompt}
               </p>
             </div>
+            <p className="mb-5 max-w-xs text-xs leading-relaxed text-white/55">{t.lifeHint}</p>
             <button
               type="button"
               onClick={() => setPhase("playing")}
