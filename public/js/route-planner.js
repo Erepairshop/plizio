@@ -86,18 +86,18 @@
   };
   var AUI = ADVISORY_UI[LANG] || ADVISORY_UI.en;
   var GEO_UI = {
-    de: ["Mein Standort", "Standort wird ermittelt…", "Standort konnte nicht ermittelt werden. Bitte Browserfreigabe prüfen.", "Routenübersicht"],
-    hu: ["Saját helyzetem", "Helyzet meghatározása…", "A helyzet nem határozható meg. Ellenőrizd a böngésző helyengedélyét.", "Útvonal áttekintése"],
-    en: ["My location", "Locating…", "Location is unavailable. Check the browser location permission.", "Route overview"],
-    ro: ["Locația mea", "Se determină locația…", "Locația nu este disponibilă. Verifică permisiunea browserului.", "Prezentarea traseului"],
-    fr: ["Ma position", "Localisation…", "La position est indisponible. Vérifiez l'autorisation du navigateur.", "Aperçu de l'itinéraire"],
-    it: ["La mia posizione", "Localizzazione…", "La posizione non è disponibile. Controlla l'autorizzazione del browser.", "Panoramica del percorso"],
-    es: ["Mi ubicación", "Obteniendo ubicación…", "La ubicación no está disponible. Comprueba el permiso del navegador.", "Resumen de la ruta"],
-    pt: ["A minha localização", "A obter localização…", "A localização não está disponível. Verifique a permissão do navegador.", "Resumo da rota"],
-    nl: ["Mijn locatie", "Locatie bepalen…", "Locatie is niet beschikbaar. Controleer de browsertoestemming.", "Routeoverzicht"],
-    hr: ["Moja lokacija", "Određivanje lokacije…", "Lokacija nije dostupna. Provjerite dopuštenje preglednika.", "Pregled rute"],
-    tr: ["Konumum", "Konum belirleniyor…", "Konum kullanılamıyor. Tarayıcı konum iznini kontrol edin.", "Rota özeti"],
-    pl: ["Moja lokalizacja", "Ustalanie lokalizacji…", "Lokalizacja jest niedostępna. Sprawdź uprawnienia przeglądarki.", "Podgląd trasy"]
+    de: ["Mein Standort", "Standort wird ermittelt…", "Standort konnte nicht ermittelt werden. Bitte Browserfreigabe prüfen.", "Routenübersicht", "Die Wohnmobilroute endet am nächsten befahrbaren Punkt, {km} km vom exakten Ziel entfernt."],
+    hu: ["Saját helyzetem", "Helyzet meghatározása…", "A helyzet nem határozható meg. Ellenőrizd a böngésző helyengedélyét.", "Útvonal áttekintése", "A lakóautós útvonal a legközelebbi járható pontnál ér véget, {km} km-re a pontos céltól."],
+    en: ["My location", "Locating…", "Location is unavailable. Check the browser location permission.", "Route overview", "The motorhome route ends at the nearest accessible point, {km} km from the exact destination."],
+    ro: ["Locația mea", "Se determină locația…", "Locația nu este disponibilă. Verifică permisiunea browserului.", "Prezentarea traseului", "Traseul autorulotei se termină la cel mai apropiat punct accesibil, la {km} km de destinația exactă."],
+    fr: ["Ma position", "Localisation…", "La position est indisponible. Vérifiez l'autorisation du navigateur.", "Aperçu de l'itinéraire", "L'itinéraire camping-car se termine au point accessible le plus proche, à {km} km de la destination exacte."],
+    it: ["La mia posizione", "Localizzazione…", "La posizione non è disponibile. Controlla l'autorizzazione del browser.", "Panoramica del percorso", "Il percorso per camper termina al punto accessibile più vicino, a {km} km dalla destinazione esatta."],
+    es: ["Mi ubicación", "Obteniendo ubicación…", "La ubicación no está disponible. Comprueba el permiso del navegador.", "Resumen de la ruta", "La ruta para autocaravanas termina en el punto accesible más cercano, a {km} km del destino exacto."],
+    pt: ["A minha localização", "A obter localização…", "A localização não está disponível. Verifique a permissão do navegador.", "Resumo da rota", "A rota para autocaravanas termina no ponto acessível mais próximo, a {km} km do destino exato."],
+    nl: ["Mijn locatie", "Locatie bepalen…", "Locatie is niet beschikbaar. Controleer de browsertoestemming.", "Routeoverzicht", "De camperroute eindigt bij het dichtstbijzijnde bereikbare punt, {km} km van de exacte bestemming."],
+    hr: ["Moja lokacija", "Određivanje lokacije…", "Lokacija nije dostupna. Provjerite dopuštenje preglednika.", "Pregled rute", "Ruta za kamper završava na najbližoj dostupnoj točki, {km} km od točnog odredišta."],
+    tr: ["Konumum", "Konum belirleniyor…", "Konum kullanılamıyor. Tarayıcı konum iznini kontrol edin.", "Rota özeti", "Motokaravan rotası tam hedeften {km} km uzaktaki en yakın erişilebilir noktada sona erer."],
+    pl: ["Moja lokalizacja", "Ustalanie lokalizacji…", "Lokalizacja jest niedostępna. Sprawdź uprawnienia przeglądarki.", "Podgląd trasy", "Trasa dla kampera kończy się w najbliższym dostępnym punkcie, {km} km od dokładnego celu."]
   };
   var GUI = GEO_UI[LANG] || GEO_UI.en;
   var OFFICIAL_TOLL = {
@@ -137,6 +137,7 @@
   };
 
   function esc(s) { return String(s == null ? "" : s).replace(/[&<>"]/g, function (c) { return ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]; }); }
+  function validRoutePoint(p) { return Array.isArray(p) && p.length === 2 && isFinite(Number(p[0])) && isFinite(Number(p[1])); }
   function $(s) { return M.querySelector(s); }
   function vehicleSpecHtml() {
     return '<div class="plz-rp-camper-spec"><span class="plz-rp-flabel">' + esc(V.title) + '</span>'
@@ -643,6 +644,7 @@
         if (routed.countries) d.countries = routed.countries;
         if (routed.advisory) d.advisory = routed.advisory;
         if (routed.advisoryNote) d.advisoryNote = routed.advisoryNote;
+        if (routed.routing) d.routing = routed.routing;
         d.summaryIncludesStops = true;
         return d;
       }).catch(function () { d.summaryIncludesStops = false; return d; });
@@ -682,7 +684,9 @@
 
   function render(d) {
     var res = $(".plz-rp-result"); res.style.display = "";
-    var dest = lastReq.destination, destName = lastReq.destName;
+    var requestedDest = lastReq.destination, snapKm = d.routing && Number(d.routing.destinationSnapKm);
+    var routedDest = d.routing && validRoutePoint(d.routing.routedDestination) ? d.routing.routedDestination : requestedDest;
+    var dest = mode === "camper" && snapKm > 0.05 ? routedDest : requestedDest, destName = lastReq.destName;
     var overnights = d.days.filter(function (x) { return x.overnight; }).map(function (x) { return x.overnight; });
     var pts = [lastReq.origin].concat(overnights.map(function (s) { return [s.lon, s.lat]; })).concat([dest]).map(function (p) { return p[1] + "," + p[0]; });
     var mapsAll = "https://www.google.com/maps/dir/?api=1&travelmode=driving&origin=" + pts[0] + "&destination=" + pts[pts.length - 1];
@@ -694,11 +698,12 @@
       + '<div class="plz-rp-stat"><b>' + (d.eligibleStops != null ? d.eligibleStops : d.corridorStops) + '</b> ' + esc(C.matchStops) + '</div>'
       + '<a class="plz-rp-mapsall" href="' + mapsAll + '" target="_blank" rel="nofollow noopener">' + IC.map + ' ' + esc(C.mapsAll) + '</a></div>';
     if (d.summaryIncludesStops === false) h += '<p class="plz-rp-muted">⚠️ ' + esc(AUI.baseRoute) + '</p>';
+    if (mode === "camper" && snapKm > 0.05) h += '<p class="plz-rp-muted">📍 ' + esc(GUI[4].replace("{km}", snapKm.toFixed(2))) + '</p>';
     h += routeOverview(d.route, d.days);
     if (d.advisory && d.advisory.length) {
       h += '<div class="plz-rp-adv"><h3>' + IC.warning + ' ' + esc(C.advisory) + ' (' + esc((d.countries || []).join(" · ")) + ')</h3>';
       d.advisory.forEach(function (raw) {
-        var a = normalizeAdvisory(raw), official = OFFICIAL_TOLL[a.cc] || EU_ROAD_RULES;
+        var a = normalizeAdvisory(raw), official = a.officialUrl || OFFICIAL_TOLL[a.cc] || EU_ROAD_RULES;
         h += '<details class="plz-rp-advc"><summary>' + esc(a.name || a.cc) + ' <span>' + esc(a.cur || "") + '</span></summary><div class="plz-rp-advb">';
         if (LANG === "de") {
           h += (a.toll ? '<div>' + IC.road + ' <b>' + esc(C.toll) + ':</b> ' + esc(a.toll) + '</div>' : '')

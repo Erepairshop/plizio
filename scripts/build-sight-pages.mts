@@ -300,7 +300,7 @@ function renderRoutePlanner(coords: number[] | null, name: string, l: Lang): str
 </section>
 <script defer src="/js/stop-card.js?v=20260816i18n1"></script>
 <script defer src="/js/sights-nearby.js?v=20260613pg5"></script>
-<script defer src="/js/route-planner.js?v=20260816routefix2"></script>`;
+<script defer src="/js/route-planner.js?v=20260816routefix3"></script>`;
 }
 function page(slug: string, l: Lang): string | null {
   const rec = content[slug];

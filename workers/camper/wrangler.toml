@@ -1,0 +1,8 @@
+name = "plizio-camper"
+main = "src/index.mjs"
+compatibility_date = "2026-05-01"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "CAMPER"
+id = "f5b2e3958311457c9e136ce417539439"

@@ -2503,7 +2503,7 @@ function renderRoutePlanner(poi: POI, lang: Lang, name: string): string {
 </section>
 <script defer src="/js/stop-card.js?v=20260816i18n1"></script>
 <script defer src="/js/sights-nearby.js?v=20260620ed1"></script>
-<script defer src="/js/route-planner.js?v=20260816routefix2"></script>`;
+<script defer src="/js/route-planner.js?v=20260816routefix3"></script>`;
 }
 
 function renderCityItinerary(poi: POI, lang: Lang): string {
