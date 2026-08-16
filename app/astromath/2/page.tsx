@@ -1,6 +1,5 @@
 "use client";
 import React, { useState, useEffect } from "react";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import AstroMathExplorerHybrid from "@/components/AstroMathExplorerHybrid";
 import { useLang } from "@/components/LanguageProvider";
 import {
@@ -36,7 +35,6 @@ import M3Engine from "@/components/astro-games/M3Engine";
 import { MATH_M2_POOLS, MATH_M3_POOLS } from "@/lib/astro/mathGameRegistry";
 
 export default function AstroMathG2Page() {
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const { lang } = useLang();
   const [progress, setProgress] = useState<MathProgress | null>(null);
 
@@ -129,8 +127,6 @@ export default function AstroMathG2Page() {
       generateCheckpointQuestions={(testId, lang) => generateCheckpointQuestionsG2(testId, lang as Lang)}
       renderGame={renderGame}
     />
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="astromath" grade={2} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
     </>
   );
 }

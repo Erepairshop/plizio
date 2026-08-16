@@ -54,18 +54,17 @@ const STATIC_STARS = Array.from({ length: 40 }, (_, i) => ({
 }));
 
 const GAME_NAMES: Record<string, string> = {
-  numberpath: "Number Path", pathbuilder: "Path Builder", topicsort: "Topic Sort", minisudoku: "Mini Sudoku",
-  memoryflash: "Memory Flash", spotdiff: "Spot Diff",
-  reflexrush: "Reflex Rush", quickpick: "Quick Pick",
-  kodex: "Kodex", wordscramble: "Word Scramble",
-  mathtest: "Math Test", numberrush: "Number Rush",
-  pipeflow: "Pipe Flow",
-  deductiongrid: "Deduction Grid",
-  deductiongrid2: "Galactic Deduction",
-  timeecho: "Time Echo",
-  shadowswitch: "Shadow Switch",
-  signaldecoder: "Signal Decoder",
-  patternforge: "Pattern Forge",
+  mathtest: "Math Test",
+  kodex: "Kódex Expedíció",
+  wordscramble: "Word Scramble",
+  quickpick: "Quick Pick",
+  milliomos: "Ki Nyer Milliót?",
+  memoryflash: "Memory Flash",
+  numberrush: "Number Rush",
+  reflexrush: "Reflex Rush",
+  spotdiff: "Spot the Difference",
+  wordhunt: "Word Hunt",
+  sequencerush: "Sequence Rush",
 };
 
 /* ─── MOUNTAIN ISLAND DETAIL ─── */

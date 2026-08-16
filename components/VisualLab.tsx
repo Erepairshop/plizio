@@ -1,29 +1,9 @@
 "use client";
 
-import { useState, useEffect, Suspense } from "react";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { X, Map, Globe2, Landmark, Star } from "lucide-react";
-import dynamic from "next/dynamic";
-import VisualLabIcon from "./VisualLabIcon";
+import { X, Map, Landmark, Star } from "lucide-react";
 import { shuffleDeterministic, useTimeoutRegistry } from "./astro-games/utils";
-
-// Dynamic imports — keep map bundles OUT of the main page chunk.
-// First country click downloads ~5-10 MB map chunk (was 30s on first load);
-// browser cache makes subsequent clicks instant.
-const MapLoading = () => (
-  <div className="flex items-center justify-center w-full h-full min-h-[400px]">
-    <div className="text-white/60 text-sm">Térkép betöltése...</div>
-  </div>
-);
-const InteractiveMap = dynamic(
-  () => import("@/lib/visualLab/components/InteractiveMap").then((m) => m.InteractiveMap),
-  { loading: MapLoading, ssr: false },
-);
-const EuropeMap = dynamic(() => import("./EuropeMap"), {
-  loading: MapLoading,
-  ssr: false,
-});
 import MeteorCatchGame from "@/app/astro-sachkunde/visual-lab/games/MeteorCatchGame";
 import OrbitSortGame from "@/app/astro-sachkunde/visual-lab/games/OrbitSortGame";
 import SignalRunnerGame from "@/app/astro-sachkunde/visual-lab/games/SignalRunnerGame";
@@ -90,7 +70,7 @@ const SACHKUNDE_POOLS: Record<number, SachkundeVisualLabGradePool> = {
 export type VisualLabSubject = "sachkunde" | "geographie" | "geschichte" | "astromath" | "deutsch" | "informatika" | "physik" | "kemia" | "biologie" | "english" | "magyar" | "romana";
 export type Lang = "de" | "hu" | "ro" | "en";
 
-export type VisualLabGameType = "map" | "puzzle" | "memory" | "spotter" | "timeline" | "campaign";
+export type VisualLabGameType = "puzzle" | "memory" | "spotter" | "timeline" | "campaign";
 
 export interface VisualLabGame {
   id: string;
@@ -98,7 +78,6 @@ export interface VisualLabGame {
   labelKey: string;        // key into T (per-lang)
   available: boolean;
 }
-
 interface VisualLabProps {
   subject: VisualLabSubject;
   grade: number;
@@ -116,8 +95,6 @@ const T: Record<Lang, Record<string, string>> = {
     title: "Visual Lab",
     subtitle: "Visuelle Lernspiele & Karten",
     pickGame: "Spiel wählen",
-    deutschlandMap: "Deutschland Karte",
-    europeMap: "Europa Karte 🗺️",
     formulaBlitz: "Formel Blitz ⚡",
     meteorCatch: "Sternenfang",
     orbitSort: "Orbit Sortieren",
@@ -146,8 +123,6 @@ const T: Record<Lang, Record<string, string>> = {
     title: "Vizuális Labor",
     subtitle: "Vizuális tanulójátékok és térképek",
     pickGame: "Válassz játékot",
-    deutschlandMap: "Németország térkép",
-    europeMap: "Európa térkép 🗺️",
     formulaBlitz: "Képlet Blitz ⚡",
     meteorCatch: "Csillagfogó",
     orbitSort: "Pálya-rendező",
@@ -164,8 +139,6 @@ const T: Record<Lang, Record<string, string>> = {
     title: "Laborator Vizual",
     subtitle: "Jocuri vizuale & hărți",
     pickGame: "Alege jocul",
-    deutschlandMap: "Harta României",
-    europeMap: "Harta Europei 🗺️",
     formulaBlitz: "Formula Blitz ⚡",
     meteorCatch: "Prinde meteorii",
     orbitSort: "Sortare orbitală",
@@ -194,8 +167,6 @@ const T: Record<Lang, Record<string, string>> = {
     title: "Visual Lab",
     subtitle: "Visual learning games & maps",
     pickGame: "Pick a game",
-    deutschlandMap: "Germany Map",
-    europeMap: "Europe Map 🗺️",
     formulaBlitz: "Formula Blitz ⚡",
     meteorCatch: "Meteor Catch",
     orbitSort: "Orbit Sort",
@@ -216,7 +187,6 @@ const T: Record<Lang, Record<string, string>> = {
 
 const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
   sachkunde: [
-    { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
@@ -226,8 +196,6 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "fact-swipe", type: "spotter", labelKey: "factSwipe", available: true },
   ],
   geographie: [
-    { id: "europe-map", type: "map", labelKey: "europeMap", available: true },
-    { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
@@ -235,7 +203,6 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
   ],
   geschichte: [
-    { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
@@ -305,7 +272,6 @@ const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
     { id: "memory-radar", type: "memory", labelKey: "memoryRadar", available: true },
   ],
   biologie: [
-    { id: "deutschland-map", type: "map", labelKey: "deutschlandMap", available: true },
     { id: "meteor-catch", type: "spotter", labelKey: "meteorCatch", available: true },
     { id: "orbit-sort", type: "puzzle", labelKey: "orbitSort", available: true },
     { id: "signal-runner", type: "puzzle", labelKey: "signalRunner", available: true },
@@ -414,21 +380,11 @@ for (const lg of ["de", "hu", "ro", "en"] as Lang[]) {
 /* Component                                                           */
 /* ------------------------------------------------------------------ */
 
-function isActiveMap(subject: VisualLabSubject, gameId: string | null): boolean {
-  if (!gameId) return false;
-  if (subject !== "geographie") return false;
-  return gameId === "deutschland-map" || gameId === "europe-map" || gameId === "magyarorszag-map" || gameId === "romania-map";
-}
-
 function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps) {
-  const router = useRouter();
-  const searchParams = useSearchParams();
   const [activeGame, setActiveGame] = useState<string | null>(null);
   const t = T[lang] ?? T.en;
   const games = SUBJECT_GAMES[subject] ?? [];
-  const vlabPoiId = searchParams?.get("vlab");
-  const isForcedOpen = Boolean(vlabPoiId);
-  const isOpen = open || isForcedOpen;
+  const isOpen = open;
 
   // Lock body scroll while open
   useEffect(() => {
@@ -441,23 +397,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
     }
   }, [isOpen]);
 
-  useEffect(() => {
-    if (vlabPoiId) {
-      if (vlabPoiId === "europa" || vlabPoiId === "europe" || vlabPoiId === "europe-map") {
-        setActiveGame("europe-map");
-      } else {
-        setActiveGame("deutschland-map");
-      }
-    }
-  }, [vlabPoiId]);
-
   function handleClose() {
-    if (isForcedOpen) {
-      const params = new URLSearchParams(searchParams?.toString() ?? "");
-      params.delete("vlab");
-      const next = params.toString();
-      router.replace(next ? `?${next}` : window.location.pathname, { scroll: false });
-    }
     onClose();
   }
 
@@ -470,7 +410,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
     };
     window.addEventListener("keydown", handleKeyDown);
     return () => window.removeEventListener("keydown", handleKeyDown);
-  }, [isOpen, isForcedOpen, onClose, router, searchParams]);
+  }, [isOpen, onClose]);
 
   return (
     <AnimatePresence>
@@ -507,7 +447,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
           </header>
 
           {/* Body */}
-          <div className={`flex-1 min-h-0 ${isActiveMap(subject, activeGame) ? "overflow-hidden" : "overflow-y-auto px-4 py-6"}`}>
+          <div className="flex-1 min-h-0 overflow-y-auto px-4 py-6">
             {!activeGame ? (
               <GamePicker games={games} t={t} onPick={(id) => setActiveGame(id)} />
             ) : (
@@ -517,7 +457,6 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
                 grade={grade}
                 lang={lang}
                 t={t}
-                initialPoiId={vlabPoiId}
                 onBack={() => setActiveGame(null)}
               />
             )}
@@ -529,11 +468,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
 }
 
 export default function VisualLab(props: VisualLabProps) {
-  return (
-    <Suspense fallback={null}>
-      <VisualLabInner {...props} />
-    </Suspense>
-  );
+  return <VisualLabInner {...props} />;
 }
 
 /* ------------------------------------------------------------------ */
@@ -543,8 +478,6 @@ export default function VisualLab(props: VisualLabProps) {
 function gameIcon(type: VisualLabGameType, available: boolean) {
   const cls = available ? "text-cyan-300" : "text-white/40";
   switch (type) {
-    case "map":
-      return <Globe2 size={22} className={cls} />;
     case "timeline":
       return <Landmark size={22} className={cls} />;
     case "campaign":
@@ -617,7 +550,6 @@ function GameHost({
   grade,
   lang,
   t,
-  initialPoiId,
   onBack,
 }: {
   gameId: string;
@@ -625,13 +557,11 @@ function GameHost({
   grade: number;
   lang: Lang;
   t: Record<string, string>;
-  initialPoiId?: string | null;
   onBack: () => void;
 }) {
   const scheduleTimeout = useTimeoutRegistry();
-  const isMap = subject === "geographie" && (gameId === "deutschland-map" || gameId === "europe-map" || gameId === "magyarorszag-map" || gameId === "romania-map");
   return (
-    <div className={isMap ? "w-full h-full flex flex-col" : "max-w-3xl mx-auto"}>
+    <div className="max-w-3xl mx-auto">
       <button
         onClick={onBack}
         className="text-cyan-300 hover:text-cyan-200 text-sm mb-4 shrink-0"
@@ -646,7 +576,7 @@ function GameHost({
       ) : subject === "informatika" ? (
         <InformatikaGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} onDone={() => scheduleTimeout(onBack, 2500)} />
       ) : subject === "geographie" ? (
-        <GeographieGameSwitch gameId={gameId} grade={grade} lang={lang} initialPoiId={initialPoiId} tSoon={t.soon} />
+        <GeographieGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       ) : subject === "physik" ? (
         <PhysikGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       ) : subject === "kemia" ? (
@@ -656,7 +586,7 @@ function GameHost({
       ) : subject === "geschichte" ? (
         <GeschichteGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       ) : (
-        <SachkundeGameSwitch gameId={gameId} grade={grade} lang={lang} initialPoiId={initialPoiId} tSoon={t.soon} />
+        <SachkundeGameSwitch gameId={gameId} grade={grade} lang={lang} tSoon={t.soon} />
       )}
     </div>
   );
@@ -816,18 +746,13 @@ function SachkundeGameSwitch({
   gameId,
   grade,
   lang,
-  initialPoiId,
   tSoon,
 }: {
   gameId: string;
   grade: number;
   lang: Lang;
-  initialPoiId?: string | null;
   tSoon: string;
 }) {
-  if (gameId === "deutschland-map") {
-    return <InteractiveMap lang={lang} subject="sachkunde" grade={grade} initialPoiId={initialPoiId} />;
-  }
   const pool = SACHKUNDE_POOLS[grade];
   if (!pool) {
     return <FallbackBox title={gameId} info={tSoon} />;
@@ -881,16 +806,10 @@ function localizeDeep(obj: any, lang: string): any {
 }
 
 function GeographieGameSwitch({
-  gameId, grade, lang, initialPoiId, tSoon,
+  gameId, grade, lang, tSoon,
 }: {
-  gameId: string; grade: number; lang: Lang; initialPoiId?: string | null; tSoon: string;
+  gameId: string; grade: number; lang: Lang; tSoon: string;
 }) {
-  if (gameId === "europe-map") {
-    return <EuropeMap lang={lang} />;
-  }
-  if (gameId === "deutschland-map") {
-    return <InteractiveMap lang={lang} subject="geographie" grade={grade} initialPoiId={initialPoiId} />;
-  }
   const pool = GEOGRAPHY_POOLS;
   if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
   switch (gameId) {
@@ -993,9 +912,6 @@ function BiologieGameSwitch({
 }: {
   gameId: string; grade: number; lang: Lang; tSoon: string;
 }) {
-  if (gameId === "deutschland-map") {
-    return <InteractiveMap lang={lang} subject="geographie" grade={grade} />;
-  }
   const pool = BIOLOGIE_POOLS[grade];
   if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
   switch (gameId) {
@@ -1029,9 +945,6 @@ function GeschichteGameSwitch({
 }: {
   gameId: string; grade: number; lang: Lang; tSoon: string;
 }) {
-  if (gameId === "deutschland-map") {
-    return <InteractiveMap lang={lang} subject="geschichte" grade={grade} />;
-  }
   const pool = GESCHICHTE_POOLS[grade];
   if (!pool) return <FallbackBox title={gameId} info={tSoon} />;
   switch (gameId) {
@@ -1067,41 +980,5 @@ function FallbackBox({ title, info }: { title: string; info: string }) {
       <h2 className="text-white/90 text-xl font-semibold mb-1">{title}</h2>
       <p className="text-white/70 text-sm">{info}</p>
     </div>
-  );
-}
-
-/* ------------------------------------------------------------------ */
-/* VisualLabFab — floating launch button (bottom-right)                */
-/* ------------------------------------------------------------------ */
-
-interface FabProps {
-  onClick: () => void;
-  label?: string;
-}
-
-export function VisualLabFab({ onClick, label = "Visual Lab" }: FabProps) {
-  return (
-    <motion.button
-      onClick={onClick}
-      initial={{ scale: 0, opacity: 0 }}
-      animate={{ scale: 1, opacity: 1 }}
-      transition={{ delay: 0.4, type: "spring", stiffness: 220, damping: 18 }}
-      whileHover={{ scale: 1.05 }}
-      whileTap={{ scale: 0.95 }}
-      className="
-        fixed top-3 right-3 z-[40]
-        flex items-center gap-2 pl-2 pr-4 py-2
-        rounded-full
-        bg-gradient-to-r from-cyan-600/90 to-sky-700/90
-        border border-cyan-400/50
-        shadow-[0_0_20px_rgba(34,211,238,0.35)]
-        hover:shadow-[0_0_28px_rgba(34,211,238,0.55)]
-        backdrop-blur
-      "
-      aria-label={label}
-    >
-      <VisualLabIcon size={36} />
-      <span className="text-white/95 text-sm font-medium">{label}</span>
-    </motion.button>
   );
 }

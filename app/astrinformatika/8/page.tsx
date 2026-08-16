@@ -31,7 +31,6 @@ import M2Engine from "@/components/astro-games/M2Engine";
 import M3Engine from "@/components/astro-games/M3Engine";
 import { INFORMATIKA_M2_POOLS, INFORMATIKA_M3_POOLS } from "@/lib/astro/informatikaGameRegistry";
 import K8Explorer from "@/app/astrinformatika/games/k8/K8Explorer";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import {
   INFO_K8_ISLANDS as K8_ISLANDS, INFO_K8_CHECKPOINT_MAP as K8_CHECKPOINT_MAP,
   type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -453,8 +452,6 @@ export default function AstroInformatikaK8Page() {
   const { lang } = useLang();
   const router = useRouter();
   const t = T[lang as keyof typeof T] ?? T.en;
-
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [screen, setScreen] = useState<Screen>("island-map");
   const [progress, setProgress] = useState<K8Progress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
@@ -687,8 +684,6 @@ export default function AstroInformatikaK8Page() {
           </div>
         </div>
       </div>
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="informatika" grade={8} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </>
     );
   }

@@ -11,7 +11,6 @@ import MilestonePopup from "@/components/MilestonePopup";
 import { calculateRarity, generateCardId, saveCard, type CardRarity } from "@/lib/cards";
 import { incrementTotalGames, checkNewMilestones } from "@/lib/milestones";
 import type { IslandDef, MissionDef } from "@/lib/astromath";
-import VisualLab, { type VisualLabSubject } from "@/components/VisualLab";
 import type { AstroKemiaProgress } from "@/lib/astroKemiaShared";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import OrbitQuiz from "@/app/astromath/games/OrbitQuiz";
@@ -419,7 +418,6 @@ export default function AstroKemiaGradeGame({
   generateIslandQuestions,
   generateCheckpointQuestions,
   Explorer,
-  visualLabSubject,
 }: {
   grade: number;
   title: string;
@@ -441,14 +439,12 @@ export default function AstroKemiaGradeGame({
   generateIslandQuestions: (island: IslandDef, count?: number) => MathQuestion[];
   generateCheckpointQuestions: (testId: string, count?: number) => MathQuestion[];
   Explorer: React.ComponentType<{ island: IslandDef; grade: number; onDone: (score: number, total: number) => void; color?: string; lang?: string }>;
-  visualLabSubject?: VisualLabSubject;
 }) {
   const router = useRouter();
   const { lang } = useLang();
   const langCode = (lang as Lang) ?? "en";
   const t = UI[langCode] ?? UI.en;
 
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [progress, setProgress] = useState<AstroKemiaProgress>({
     completedMissions: [],
     completedIslands: [],
@@ -660,19 +656,9 @@ export default function AstroKemiaGradeGame({
               {GRADE_LABELS[langCode]} · {title}
             </p>
           </div>
-          {visualLabSubject ? (
-            <button
-              onClick={() => setVisualLabOpen(true)}
-              className="w-9 h-9 flex items-center justify-center rounded-full bg-cyan-500/20 text-cyan-300 hover:bg-cyan-500/30 transition-colors border border-cyan-400/30 text-lg"
-              title="Visual Lab"
-            >
-              🔬
-            </button>
-          ) : (
-            <div className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/78 text-xs font-bold">
-              {progress.completedIslands.length}/{islands.length}
-            </div>
-          )}
+          <div className="w-9 h-9 flex items-center justify-center rounded-full bg-white/10 text-white/78 text-xs font-bold">
+            {progress.completedIslands.length}/{islands.length}
+          </div>
         </div>
         <div className="relative z-10 px-4 mb-2 flex-shrink-0">
           <div className="h-1.5 bg-white/10 rounded-full overflow-hidden">
@@ -714,15 +700,6 @@ export default function AstroKemiaGradeGame({
             />
           </div>
         </div>
-        {visualLabSubject && (
-          <VisualLab
-            subject={visualLabSubject}
-            grade={grade}
-            lang={langCode}
-            open={visualLabOpen}
-            onClose={() => setVisualLabOpen(false)}
-          />
-        )}
       </div>
     );
   }

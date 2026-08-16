@@ -29,7 +29,6 @@ import RocketTransition from "@/app/astromath/RocketTransition";
 import K1Explorer from "@/app/astroenglish/games/k1/K1Explorer";
 import M2Engine from "@/components/astro-games/M2Engine";
 import M3Engine from "@/components/astro-games/M3Engine";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import { ENGLISH_M2_POOLS, ENGLISH_M3_POOLS } from "@/lib/astro/englishGameRegistry";
 
 import {
@@ -394,7 +393,6 @@ export default function AstroEnglishK1Page() {
   const [checkpointScore, setCheckpointScore] = useState({ score: 0, total: 10 });
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   // ── Avatar state ──────────────────────────────────────────────────────────────
   const [gender] = useState<AvatarGender>(() => getGender());
@@ -606,8 +604,6 @@ export default function AstroEnglishK1Page() {
             </div>
           </div>
         </div>
-        <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-        <VisualLab subject="english" grade={1} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </div>
     );
   }

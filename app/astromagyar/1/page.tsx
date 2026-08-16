@@ -39,7 +39,6 @@ import {
   generateMagyarIslandQuestions, generateMagyarCheckpointQuestions,
 } from "@/lib/astroMagyar";
 import { O1_ISLAND_SVGS } from "@/app/astromagyar/islands";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -301,7 +300,6 @@ export default function AstroMagyarO1Page() {
   const [checkpointId, setCheckpointId] = useState<string | null>(null);
   const [avatarMood, setAvatarMood] = useState<string>("idle");
   const [avatarJumpTrigger, setAvatarJumpTrigger] = useState(0);
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   // Handle island select
   const handleIslandSelect = useCallback((island: IslandDef) => {
@@ -679,8 +677,6 @@ export default function AstroMagyarO1Page() {
 
       {/* Milestones */}
       <MilestonePopup />
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="magyar" grade={1} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
     </div>
   );
 }

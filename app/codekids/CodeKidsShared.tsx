@@ -35,7 +35,6 @@ import K2Explorer from "@/app/astrinformatika/games/k2/K2Explorer";
 import K3Explorer from "@/app/astrinformatika/games/k3/K3Explorer";
 import K4Explorer from "@/app/astrinformatika/games/k4/K4Explorer";
 import K5Explorer from "@/app/astrinformatika/games/k5/K5Explorer";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 // Import logic for K1-K4
 import {
@@ -260,8 +259,6 @@ export default function CodeKidsShared({ grade: gradeProp }: { grade: number }) 
       genIslQ: generateIslandQuestionsInfoK1, genCpQ: generateCheckpointQuestionsInfoK1
     };
   })();
-
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [screen, setScreen] = useState<Screen>("island-map");
   const [progress, setProgress] = useState<InformatikaProgress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);

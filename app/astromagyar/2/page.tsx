@@ -29,7 +29,6 @@ import M2Engine from "@/components/astro-games/M2Engine";
 import M3Engine from "@/components/astro-games/M3Engine";
 import { MAGYAR_M2_POOLS, MAGYAR_M3_POOLS } from "@/lib/astro/magyarGameRegistry";
 import { O2_ISLAND_SVGS } from "@/app/astromagyar/islands-o2";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import {
   O2_ISLANDS, O2_CHECKPOINT_MAP, O2_CHECKPOINT_TOPICS, type IslandDef, type MissionDef, type Lang, type MissionCategory,
   loadO2Progress, saveO2Progress, type MagyarProgress,
@@ -283,7 +282,6 @@ export default function AstroMagyar2() {
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [checkpointId, setCheckpointId] = useState<string | null>(null);
   const [avatarMood, setAvatarMood] = useState<"idle" | "focused" | "happy" | "disappointed" | "victory" | "surprised" | "confused" | "laughing">("idle");
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   const color = activeIsland?.color || "#00D4FF";
   const bgColor = activeIsland?.color ?? "#00D4FF";
@@ -659,8 +657,6 @@ export default function AstroMagyar2() {
           mood={avatarMood} />
       </div>
       )}
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="magyar" grade={2} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
     </div>
   );
 }

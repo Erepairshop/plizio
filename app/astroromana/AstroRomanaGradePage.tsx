@@ -31,7 +31,6 @@ import M3Engine from "@/components/astro-games/M3Engine";
 import type { MathQuestion } from "@/lib/mathCurriculum";
 import type { RomanaProgress, IslandDef, MissionDef, Lang, MissionCategory } from "@/lib/astroRomana";
 import { ROMANA_M2_POOLS, ROMANA_M3_POOLS } from "@/lib/astro/romanaGameRegistry";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -507,7 +506,6 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
   const [checkpointScore, setCheckpointScore] = useState({ score: 0, total: 10 });
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   const [gender] = useState<AvatarGender>(() => getGender());
   const [activeSkin] = useState(() => getSkinDef(getActiveSkin()));
@@ -701,8 +699,6 @@ export default function AstroRomanaGradePage({ config }: { config: AstroRomanaGr
           </div>
         </div>
       </div>
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="romana" grade={config.grade} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </>
     );
   }

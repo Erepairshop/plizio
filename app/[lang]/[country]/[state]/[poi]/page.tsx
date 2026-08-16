@@ -24,7 +24,6 @@ import {
   getPoiAlternates,
   getPoiByRouteParams,
   getRelatedPois,
-  getVisualLabHref,
   hasIndexableContent,
   isLang,
   osmHref,
@@ -178,7 +177,7 @@ export default async function PoiPage({
                 return src ? (
                   <img src={src} alt={poiImageAlt(poi, resolved.lang as Lang, regionName, countryCopy.name)} loading="lazy" className="h-full w-full object-cover" />
                 ) : (
-                  <div className="flex h-full items-center justify-center text-white/35">Visual Lab</div>
+                  <div className="flex h-full items-center justify-center text-white/35">Plizio Atlas</div>
                 );
               })()}
             </div>
@@ -186,7 +185,7 @@ export default async function PoiPage({
               <div className="flex items-start gap-4">
                 {poi.coa ? <img src={poi.coa} alt="" loading="lazy" className="h-16 w-16 rounded-2xl border border-white/10 bg-white/5 object-contain p-2" /> : null}
                 <div className="min-w-0 flex-1">
-                  <p className="text-xs uppercase tracking-[0.28em] text-cyan-300/80">Plizio Visual Lab</p>
+                  <p className="text-xs uppercase tracking-[0.28em] text-cyan-300/80">Plizio Atlas</p>
                   <h1 className="mt-2 text-3xl font-semibold tracking-tight sm:text-5xl">{poiName}</h1>
                 </div>
               </div>
@@ -197,9 +196,6 @@ export default async function PoiPage({
                     <source src={poi.audio} />
                   </audio>
                 ) : null}
-                <a href={getVisualLabHref(poi)} className="inline-flex items-center rounded-full border border-cyan-400/30 bg-cyan-500/10 px-4 py-2 text-sm font-medium text-cyan-200 hover:border-cyan-300/50">
-                  {copy.backToMap}
-                </a>
                 <a
                   href={`/postcard/?place=${encodeURIComponent(poiName)}&country=${encodeURIComponent(countryCopy.name)}${poi.coords ? `&lat=${poi.coords[1]}&lng=${poi.coords[0]}` : ""}${poi.type ? `&kind=${encodeURIComponent(poi.type)}` : ""}`}
                   className="inline-flex items-center rounded-full border border-amber-300/35 bg-amber-400/10 px-4 py-2 text-sm font-medium text-amber-100 hover:border-amber-200/60"

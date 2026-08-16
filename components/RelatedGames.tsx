@@ -1,19 +1,17 @@
 // Shared component — shows related game links below game content (SEO internal linking)
 
 const ALL_GAMES = {
-  mathtest:    { name: "Math Test",          emoji: "🧮", href: "/mathtest/",    category: ["educational"] },
-  kodex:       { name: "Kódex Expedíció",    emoji: "🔐", href: "/kodex/",       category: ["educational","brain"] },
-  wordscramble:{ name: "Word Scramble",      emoji: "🔀", href: "/wordscramble/",category: ["educational","brain"] },
-  quickpick:   { name: "Quick Pick",         emoji: "⚡", href: "/quickpick/",   category: ["educational","brain"] },
-  milliomos:   { name: "Ki Nyer Milliót?",   emoji: "💰", href: "/milliomos/",   category: ["educational","brain"] },
-  memoryflash: { name: "Memory Flash",       emoji: "🧠", href: "/memoryflash/", category: ["brain"] },
-  numberrush:  { name: "Number Rush",        emoji: "🔢", href: "/numberrush/",  category: ["brain","reflex"] },
-  daily:       { name: "Daily Challenge",    emoji: "📅", href: "/daily/",       category: ["educational","brain"] },
-  reflexrush:  { name: "Reflex Rush",        emoji: "💥", href: "/reflexrush/",  category: ["reflex"] },
-  skyclimb:    { name: "Sky Climb",          emoji: "🏔️", href: "/skyclimb/",    category: ["reflex"] },
-  racetrack:   { name: "Racetrack",          emoji: "🏁", href: "/racetrack/",   category: ["reflex"] },
-  citydrive:   { name: "City Drive",         emoji: "🚗", href: "/citydrive/",   category: ["reflex"] },
-  spotdiff:    { name: "Spot the Difference",emoji: "👁️", href: "/spotdiff/",    category: ["brain","reflex"] },
+  mathtest:      { name: "Math Test",           emoji: "📝", href: "/mathtest/",      category: ["educational","brain"] },
+  kodex:         { name: "Kódex Expedíció",     emoji: "🧩", href: "/kodex/",         category: ["educational","brain"] },
+  wordscramble:  { name: "Word Scramble",       emoji: "🧪", href: "/wordscramble/",  category: ["educational","brain"] },
+  quickpick:     { name: "Quick Pick",          emoji: "⚡", href: "/quickpick/",     category: ["educational","brain"] },
+  milliomos:     { name: "Ki Nyer Milliót?",    emoji: "💰", href: "/milliomos/",     category: ["educational","brain"] },
+  memoryflash:   { name: "Memory Flash",        emoji: "🧠", href: "/memoryflash/",   category: ["brain"] },
+  numberrush:    { name: "Number Rush",         emoji: "💲", href: "/numberrush/",    category: ["brain","reflex"] },
+  reflexrush:    { name: "Reflex Rush",         emoji: "🎯", href: "/reflexrush/",    category: ["reflex"] },
+  spotdiff:      { name: "Spot the Difference", emoji: "👁️", href: "/spotdiff/",      category: ["brain","reflex"] },
+  wordhunt:      { name: "Word Hunt",           emoji: "🧠", href: "/wordhunt/",      category: ["brain","language"] },
+  sequencerush:  { name: "Sequence Rush",       emoji: "🔠", href: "/sequencerush/",  category: ["reflex","brain"] },
 };
 
 const RELATED_MAP: Record<string, string[]> = {
@@ -23,13 +21,11 @@ const RELATED_MAP: Record<string, string[]> = {
   quickpick:   ["mathtest","kodex","numberrush","memoryflash"],
   milliomos:   ["kodex","wordscramble","quickpick","memoryflash"],
   memoryflash: ["kodex","wordscramble","numberrush","spotdiff"],
-  numberrush:  ["reflexrush","skyclimb","quickpick","memoryflash"],
-  daily:       ["kodex","wordscramble","mathtest","quickpick"],
-  reflexrush:  ["skyclimb","racetrack","numberrush","citydrive"],
-  skyclimb:    ["reflexrush","racetrack","numberrush","spotdiff"],
-  racetrack:   ["citydrive","skyclimb","reflexrush","spotdiff"],
-  citydrive:   ["racetrack","skyclimb","reflexrush","spotdiff"],
-  spotdiff:    ["memoryflash","racetrack","numberrush","reflexrush"],
+  numberrush:  ["reflexrush","quickpick","memoryflash","spotdiff"],
+  reflexrush:  ["numberrush","spotdiff","wordhunt","sequencerush"],
+  spotdiff:    ["memoryflash","kodex","wordhunt","sequencerush"],
+  wordhunt:    ["sequencerush","spotdiff","kodex","wordscramble"],
+  sequencerush:["wordhunt","spotdiff","quickpick","memoryflash"],
 };
 
 export default function RelatedGames({ game }: { game: keyof typeof RELATED_MAP }) {

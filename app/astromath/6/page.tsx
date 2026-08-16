@@ -50,7 +50,6 @@ import RocketTransition from "@/app/astromath/RocketTransition";
 import M2Engine from "@/components/astro-games/M2Engine";
 import M3Engine from "@/components/astro-games/M3Engine";
 import { MATH_M2_POOLS, MATH_M3_POOLS } from "@/lib/astro/mathGameRegistry";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import {
   G6_ISLANDS, loadG6Progress, saveG6Progress,
   isIslandUnlockedG6, isIslandDoneG6, isMissionDoneG6,
@@ -305,8 +304,6 @@ export default function AstroMathG6Page() {
   const { lang } = useLang();
   const router = useRouter();
   const t = T[lang as keyof typeof T] ?? T.en;
-
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [screen, setScreen] = useState<Screen>("island-map");
   const [progress, setProgress] = useState<MathProgress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<MathIslandConfig | null>(null);
@@ -481,8 +478,6 @@ export default function AstroMathG6Page() {
             </div>
           </div>
         </div>
-        <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-        <VisualLab subject="astromath" grade={6} lang={lang as any} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </div>
     );
   }

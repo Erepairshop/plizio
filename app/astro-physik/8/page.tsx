@@ -3,7 +3,6 @@ import React, { useState, useEffect, useCallback, useRef } from "react";
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
 import { X, ChevronRight, ChevronLeft } from "lucide-react";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import dynamic from "next/dynamic";
 import { useLang } from "@/components/LanguageProvider";
 import { attachAutoScrollToBottom } from "@/components/attachAutoScrollToBottom";
@@ -449,7 +448,6 @@ export default function AstroPhysikK8Page() {
   const l = SK_G2_LABEL[lang] ?? SK_G2_LABEL.en;
 
   const [screen, setScreen] = useState<Screen>("island-map");
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [progress, setProgress] = useState<Progress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
   const [activeMission, setActiveMission] = useState<MissionDef | null>(null);
@@ -670,8 +668,6 @@ export default function AstroPhysikK8Page() {
             </div>
           </div>
         </div>
-        <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-        <VisualLab subject="physik" grade={8} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </div>
     );
   }

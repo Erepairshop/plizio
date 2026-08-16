@@ -39,7 +39,6 @@ import {
 } from "@/lib/astroMagyar8";
 import { generateMagyarIslandQuestions, generateMagyarCheckpointQuestions, type IslandDef, type MissionDef, type Lang, type MagyarProgress, type MissionCategory } from "@/lib/astroMagyar";
 import { O8_ISLAND_SVGS } from "@/app/astromagyar/islands-o8";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -144,7 +143,6 @@ export default function AstroMagyar8Page() {
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [checkpointId, setCheckpointId] = useState<string | null>(null);
   const [avatarMood, setAvatarMood] = useState<string>("idle");
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [avatarIslandId, setAvatarIslandId] = useState<string | null>(null);
   const [avatarWalking, setAvatarWalking] = useState(false);
   const walkTimerRef = useRef<NodeJS.Timeout | null>(null);
@@ -387,8 +385,6 @@ export default function AstroMagyar8Page() {
             </svg>
           </div>
         </div>
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="magyar" grade={8} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </div>
     );
   }

@@ -44,7 +44,6 @@ import TenseExplorer from "@/app/astroenglish/games/TenseExplorer";
 import MemoryPairExplorer from "@/app/astroenglish/games/MemoryPairExplorer";
 import PronunciationExplorer from "@/app/astroenglish/games/PronunciationExplorer";
 import K6Explorer from "@/app/astroenglish/games/k6/K6Explorer";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import { K6_ISLAND_SVGS } from "@/app/astroenglish/islands-k6";
 import {
   K6_ISLANDS, K6_CHECKPOINT_MAP, type IslandDef, type MissionDef, type Lang, type MissionCategory,
@@ -697,7 +696,6 @@ export default function AstroEnglishK6Page() {
   const [checkpointScore, setCheckpointScore] = useState({ score: 0, total: 10 });
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [justUnlockedIsland, setJustUnlockedIsland] = useState(false);
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   // ── Avatar state ──────────────────────────────────────────────────────────────
   const [gender] = useState<AvatarGender>(() => getGender());
@@ -910,8 +908,6 @@ export default function AstroEnglishK6Page() {
             </div>
           </div>
         </div>
-        <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-        <VisualLab subject="english" grade={6} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </div>
     );
   }

@@ -40,7 +40,6 @@ import {
 } from "@/lib/astroMagyar6";
 import { type MagyarProgress } from "@/lib/astroMagyar";
 import { O6_ISLAND_SVGS } from "@/app/astromagyar/islands-o6";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -270,7 +269,6 @@ export default function O6Page() {
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
 
   const avatarMoodRef = useRef<"idle" | "focused" | "victory" | "disappointed">("idle");
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   // Load progress on mount
   useEffect(() => {
@@ -567,8 +565,6 @@ export default function O6Page() {
 
       {/* MILESTONES */}
       <MilestonePopup />
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="magyar" grade={6} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
     </div>
   );
 }

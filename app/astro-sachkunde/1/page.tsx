@@ -46,7 +46,6 @@ import {
   generateIslandQuestionsSKG1, generateCheckpointQuestionsSKG1,
 } from "@/lib/astroSachkunde1";
 import { SK_K1_ISLAND_SVGS } from "@/app/astro-sachkunde/islands";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -468,7 +467,6 @@ export default function AstroSachkundeG1Page() {
   const l = SK_G1_LABEL[lang] ?? SK_G1_LABEL.en;
 
   const [screen, setScreen] = useState<Screen>("island-map");
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [progress, setProgress] = useState<SachkundeG1Progress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
   const [activeMission, setActiveMission] = useState<MissionDef | null>(null);
@@ -701,15 +699,6 @@ export default function AstroSachkundeG1Page() {
             </div>
           </div>
         </div>
-
-        <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-        <VisualLab
-          subject="sachkunde"
-          grade={1}
-          lang={lang as "de" | "hu" | "ro" | "en"}
-          open={visualLabOpen}
-          onClose={() => setVisualLabOpen(false)}
-        />
       </div>
     );
   }

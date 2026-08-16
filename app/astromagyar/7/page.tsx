@@ -37,7 +37,6 @@ import {
 } from "@/lib/astroMagyar7";
 import { generateMagyarIslandQuestions, generateMagyarCheckpointQuestions, type Lang, type IslandDef, type MissionDef, type MagyarProgress, type MissionCategory } from "@/lib/astroMagyar";
 import { O7_ISLAND_SVGS } from "@/app/astromagyar/islands-o7";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 
 const AvatarCompanion = dynamic(() => import("@/components/AvatarCompanion"), { ssr: false });
 
@@ -288,7 +287,6 @@ export default function AstroMagyarO7Page() {
   const [earnedCard, setEarnedCard] = useState<CardRarity | null>(null);
   const [rewardScore, setRewardScore] = useState({ score: 0, total: 0 });
   const [checkpointId, setCheckpointId] = useState<string | null>(null);
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
 
   // Handle island select
   const handleIslandSelect = useCallback((island: IslandDef) => {
@@ -632,8 +630,6 @@ export default function AstroMagyarO7Page() {
       )}
 
       <MilestonePopup />
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="magyar" grade={7} lang={lang as "de" | "hu" | "ro" | "en"} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
     </div>
   );
 }

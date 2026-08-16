@@ -31,7 +31,6 @@ import M2Engine from "@/components/astro-games/M2Engine";
 import M3Engine from "@/components/astro-games/M3Engine";
 import { BIOLOGIE_M2_POOLS, BIOLOGIE_M3_POOLS } from "@/lib/astro/biologieGameRegistry";
 import BioK6Explorer from "@/app/astro-biologie/games/k6/BioK6Explorer";
-import VisualLab, { VisualLabFab } from "@/components/VisualLab";
 import {
   BIO_K6_ISLANDS as K6_ISLANDS, BIO_K6_CHECKPOINT_MAP as K6_CHECKPOINT_MAP,
   BIO_K6_CHECKPOINT_TOPICS as K6_CHECKPOINT_TOPICS,
@@ -442,8 +441,6 @@ export default function AstroBiologieK6Page() {
   const { lang } = useLang();
   const router = useRouter();
   const t = T[lang as keyof typeof T] ?? T.en;
-
-  const [visualLabOpen, setVisualLabOpen] = useState(false);
   const [screen, setScreen] = useState<Screen>("island-map");
   const [progress, setProgress] = useState<BioK6Progress>({ completedMissions: [], completedIslands: [], completedTests: [], missionStars: {} });
   const [activeIsland, setActiveIsland] = useState<IslandDef | null>(null);
@@ -674,8 +671,6 @@ export default function AstroBiologieK6Page() {
           </div>
         </div>
       </div>
-      <VisualLabFab onClick={() => setVisualLabOpen(true)} />
-      <VisualLab subject="biologie" grade={6} lang={lang} open={visualLabOpen} onClose={() => setVisualLabOpen(false)} />
       </>
     );
   }
