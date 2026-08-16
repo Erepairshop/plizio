@@ -194,7 +194,10 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          POI_AFFECTING='^(lib/visualLab/data/.*[Pp]oi|lib/seo/|components/seo/|scripts/(generate-poi-html|build-seo-index|split_pois_by_country|prepare_v2_data|flatten-sitemap-paths|generate-image-sitemap)|public/poi-images/|public/data/(i18n|city-tips|itinerary|poi-practical)/|public/data/poi-news/|public/data/sights/|public/data/official-links\.json|public/data/sight-image-map\.json|public/data/poi-yearly-highlights\.json|public/poi-static/poi\.css|app/\[lang\])'
+          # app/[lang] pages are built by Next, while POI detail HTML is owned by
+          # generate-poi-html.mts. Treating every localized UI edit as POI data
+          # used to force an unrelated 152K-page overlay rebuild.
+          POI_AFFECTING='^(lib/visualLab/data/.*[Pp]oi|lib/seo/|components/seo/|scripts/(generate-poi-html|build-seo-index|split_pois_by_country|prepare_v2_data|flatten-sitemap-paths|generate-image-sitemap)|public/poi-images/|public/data/(i18n|city-tips|itinerary|poi-practical)/|public/data/poi-news/|public/data/sights/|public/data/official-links\.json|public/data/sight-image-map\.json|public/data/poi-yearly-highlights\.json|public/poi-static/poi\.css)'
           # Outputs: mode = full | delta | none ; before = last-deployed SHA (delta only)
           AFTER="${{ github.sha }}"
           CURRENT="${{ env.RELEASE_BASE }}/current"
