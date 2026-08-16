@@ -240,7 +240,7 @@ function renderNearbySights(slug: string, l: Lang): string {
 const RP_COPY: Record<Lang, Record<string, string>> = {
   de: { h: "Routenplaner — Auto & Wohnmobil", sub: "Von wo startest du? Wir bauen die Route hierher, mit Stopps und Länder-Hinweisen unterwegs.", to: "Ziel", from: "Start", fromPh: "z.B. München", via: "Über (optional)", viaPh: "z.B. Zagreb", nights: "Übernachtungs-Stopps", vehicle: "Fahrzeug", car: "🚗 Auto", camper: "🚐 Wohnmobil", filter: "Nur Stopps mit (optional):", water: "💧 Wasser", dump: "♻️ Entsorgung", power: "🔌 Strom", wc: "🚻 WC", shower: "🚿 Dusche", tierAB: "Stellplätze + Camping", tierA: "Nur Stellplätze", tierB: "Nur Camping", tierABC: "Auch Natur-/Rastplätze", b10: "Umweg max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Route planen" },
   hu: { h: "Útvonaltervező — Autó & Lakóautó", sub: "Honnan indulsz? Megtervezzük az utat ide, útközbeni megállókkal és ország-tudnivalókkal.", to: "Cél", from: "Indulás", fromPh: "pl. Budapest", via: "Érintve (opcionális)", viaPh: "pl. Zagreb", nights: "Éjszakai megállók", vehicle: "Jármű", car: "🚗 Autó", camper: "🚐 Lakóautó", filter: "Csak megállók ezzel (opcionális):", water: "💧 Víz", dump: "♻️ Ürítő", power: "🔌 Áram", wc: "🚻 WC", shower: "🚿 Zuhany", tierAB: "Stellplatz + kemping", tierA: "Csak Stellplatz", tierB: "Csak kemping", tierABC: "Pihenő-/natúrhelyek is", b10: "Kitérő max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Útvonal tervezése" },
-  ro: { h: "Planificator traseu — Mașină & Rulotă", sub: "De unde pleci? Construim traseul până aici, cu opriri și informații pe țări.", to: "Destinație", from: "Plecare", fromPh: "ex. Cluj", via: "Prin (opțional)", viaPh: "ex. Zagreb", nights: "Opriri peste noapte", vehicle: "Vehicul", car: "🚗 Mașină", camper: "🚐 Rulotă", filter: "Doar opriri cu (opțional):", water: "💧 Apă", dump: "♻️ Golire", power: "🔌 Curent", wc: "🚻 Toaletă", shower: "🚿 Duș", tierAB: "Popasuri + camping", tierA: "Doar popasuri", tierB: "Doar camping", tierABC: "Și locuri de odihnă/natură", b10: "Ocol max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Planifică traseul" },
+  ro: { h: "Planificator traseu — Mașină & Autorulotă", sub: "De unde pleci? Construim traseul până aici, cu opriri și informații pe țări.", to: "Destinație", from: "Plecare", fromPh: "ex. Cluj", via: "Prin (opțional)", viaPh: "ex. Zagreb", nights: "Opriri peste noapte", vehicle: "Vehicul", car: "🚗 Mașină", camper: "🚐 Autorulotă", filter: "Doar opriri cu (opțional):", water: "💧 Apă", dump: "♻️ Golire", power: "🔌 Curent", wc: "🚻 Toaletă", shower: "🚿 Duș", tierAB: "Popasuri + camping", tierA: "Doar popasuri", tierB: "Doar camping", tierABC: "Și locuri de odihnă/natură", b10: "Ocol max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Planifică traseul" },
   en: { h: "Route planner — Car & Motorhome", sub: "Where do you start? We build the route here, with stops and country notes along the way.", to: "Destination", from: "Start", fromPh: "e.g. Munich", via: "Via (optional)", viaPh: "e.g. Zagreb", nights: "Overnight stops", vehicle: "Vehicle", car: "🚗 Car", camper: "🚐 Motorhome", filter: "Only stops with (optional):", water: "💧 Water", dump: "♻️ Disposal", power: "🔌 Power", wc: "🚻 Toilets", shower: "🚿 Shower", tierAB: "Aires + campsites", tierA: "Aires only", tierB: "Campsites only", tierABC: "Also rest/nature areas", b10: "Detour max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "🧭 Plan route" },
 };
 const RP_DYN: Record<Lang, Record<string, string>> = {
@@ -274,7 +274,7 @@ function renderRoutePlanner(coords: number[] | null, name: string, l: Lang): str
   const lng = +coords[0], lat = +coords[1];
   if (!isFinite(lng) || !isFinite(lat)) return "";
   const T = RP_COPY[l], dyn = RP_DYN[l];
-  const stopsOpts = [1, 2, 3, 4, 5, 6, 7, 8].map((n) => `<option${n === 2 ? " selected" : ""}>${n}</option>`).join("");
+  const stopsOpts = [0, 1, 2, 3, 4, 5, 6, 7, 8].map((n) => `<option${n === 0 ? " selected" : ""}>${n}</option>`).join("");
   const svc = [["water", T.water], ["dump", T.dump], ["power", T.power], ["toilets", T.wc], ["shower", T.shower]]
     .map(([v, lb]) => `<label class="plz-rp-svcl"><input type="checkbox" class="plz-rp-svc" value="${v}"> ${esc(lb)}</label>`).join("");
   const copyJson = esc(JSON.stringify(dyn));
@@ -298,9 +298,9 @@ function renderRoutePlanner(coords: number[] | null, name: string, l: Lang): str
   <div class="plz-rp-result" style="display:none"></div>
   <p class="plz-rp-credit">© OpenStreetMap contributors · OpenRouteService</p>
 </section>
-<script defer src="/js/stop-card.js?v=20260613pg5"></script>
+<script defer src="/js/stop-card.js?v=20260816i18n1"></script>
 <script defer src="/js/sights-nearby.js?v=20260613pg5"></script>
-<script defer src="/js/route-planner.js?v=20260613pg5"></script>`;
+<script defer src="/js/route-planner.js?v=20260816routefix2"></script>`;
 }
 function page(slug: string, l: Lang): string | null {
   const rec = content[slug];

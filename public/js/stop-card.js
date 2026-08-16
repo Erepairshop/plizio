@@ -14,6 +14,23 @@
 (function () {
   "use strict";
 
+  var LANG = (document.documentElement.lang || "en").slice(0, 2);
+  var I18N = {
+    de: { stop: "Stopp", near: "in der Nähe von", fee: "gebührenpflichtig", free: "kostenlos", tomorrow: "morgen", closed: "viele Geschäfte geschlossen", details: "Details", nearby: "Umgebung", website: "Website", types: ["Wohnmobil-Stellplatz", "Wohnmobil-Parkplatz", "Campingplatz", "Rastplatz", "Autohof / Raststätte", "Picknick-/Rastplatz", "Parkplatz (Natur)", "Stadt"], svc: ["Wasser", "Entsorgung", "Strom", "WC", "Dusche", "WLAN"] },
+    hu: { stop: "Megálló", near: "közelében", fee: "fizetős", free: "ingyenes", tomorrow: "holnap", closed: "sok üzlet zárva tart", details: "Részletek", nearby: "Környék", website: "Weboldal", types: ["Lakóautó-állóhely", "Lakóautó-parkoló", "Kemping", "Pihenőhely", "Autópálya-pihenő", "Piknik- és pihenőhely", "Természetközeli parkoló", "Város"], svc: ["Víz", "Ürítő", "Áram", "WC", "Zuhany", "Wi-Fi"] },
+    en: { stop: "Stop", near: "near", fee: "fee required", free: "free", tomorrow: "tomorrow", closed: "many shops closed", details: "Details", nearby: "Nearby", website: "Website", types: ["Motorhome aire", "Motorhome parking", "Campsite", "Rest area", "Motorway services", "Picnic / rest area", "Nature parking", "City"], svc: ["Water", "Waste disposal", "Power", "Toilets", "Shower", "Wi-Fi"] },
+    ro: { stop: "Oprire", near: "în apropiere de", fee: "cu plată", free: "gratuit", tomorrow: "mâine", closed: "multe magazine sunt închise", details: "Detalii", nearby: "Împrejurimi", website: "Site web", types: ["Loc pentru autorulote", "Parcare pentru autorulote", "Camping", "Popas", "Spațiu de servicii", "Loc de picnic / popas", "Parcare în natură", "Oraș"], svc: ["Apă", "Golire", "Curent", "Toalete", "Duș", "Wi-Fi"] },
+    fr: { stop: "Étape", near: "près de", fee: "payant", free: "gratuit", tomorrow: "demain", closed: "de nombreux magasins sont fermés", details: "Détails", nearby: "Environs", website: "Site web", types: ["Aire de camping-car", "Parking pour camping-cars", "Camping", "Aire de repos", "Aire de services", "Aire de pique-nique / repos", "Parking nature", "Ville"], svc: ["Eau", "Vidange", "Électricité", "WC", "Douche", "Wi-Fi"] },
+    it: { stop: "Sosta", near: "vicino a", fee: "a pagamento", free: "gratuito", tomorrow: "domani", closed: "molti negozi sono chiusi", details: "Dettagli", nearby: "Dintorni", website: "Sito web", types: ["Area camper", "Parcheggio camper", "Campeggio", "Area di sosta", "Area di servizio", "Area picnic / sosta", "Parcheggio nella natura", "Città"], svc: ["Acqua", "Scarico", "Elettricità", "WC", "Doccia", "Wi-Fi"] },
+    es: { stop: "Parada", near: "cerca de", fee: "de pago", free: "gratis", tomorrow: "mañana", closed: "muchas tiendas están cerradas", details: "Detalles", nearby: "Alrededores", website: "Sitio web", types: ["Área de autocaravanas", "Aparcamiento para autocaravanas", "Camping", "Área de descanso", "Área de servicio", "Área de pícnic / descanso", "Aparcamiento en la naturaleza", "Ciudad"], svc: ["Agua", "Vaciado", "Electricidad", "Aseos", "Ducha", "Wi-Fi"] },
+    pt: { stop: "Paragem", near: "perto de", fee: "pago", free: "gratuito", tomorrow: "amanhã", closed: "muitas lojas estão fechadas", details: "Detalhes", nearby: "Arredores", website: "Site", types: ["Área de autocaravanas", "Estacionamento para autocaravanas", "Parque de campismo", "Área de descanso", "Área de serviço", "Área de piquenique / descanso", "Estacionamento na natureza", "Cidade"], svc: ["Água", "Descarga", "Eletricidade", "WC", "Duche", "Wi-Fi"] },
+    nl: { stop: "Stop", near: "in de buurt van", fee: "betaald", free: "gratis", tomorrow: "morgen", closed: "veel winkels zijn gesloten", details: "Details", nearby: "Omgeving", website: "Website", types: ["Camperplaats", "Camperparking", "Camping", "Rustplaats", "Verzorgingsplaats", "Picknick- / rustplaats", "Natuurparking", "Stad"], svc: ["Water", "Afvoer", "Stroom", "Toiletten", "Douche", "Wi-Fi"] },
+    hr: { stop: "Stajanje", near: "u blizini", fee: "uz naplatu", free: "besplatno", tomorrow: "sutra", closed: "mnoge trgovine su zatvorene", details: "Detalji", nearby: "Okolica", website: "Web-stranica", types: ["Stajalište za kampere", "Parkiralište za kampere", "Kamp", "Odmorište", "Uslužno odmorište", "Izletište / odmorište", "Parkiralište u prirodi", "Grad"], svc: ["Voda", "Pražnjenje", "Struja", "WC", "Tuš", "Wi-Fi"] },
+    tr: { stop: "Durak", near: "yakınında", fee: "ücretli", free: "ücretsiz", tomorrow: "yarın", closed: "birçok mağaza kapalı", details: "Ayrıntılar", nearby: "Çevre", website: "Web sitesi", types: ["Motokaravan alanı", "Motokaravan otoparkı", "Kamp alanı", "Dinlenme alanı", "Servis alanı", "Piknik / dinlenme alanı", "Doğa otoparkı", "Şehir"], svc: ["Su", "Atık boşaltma", "Elektrik", "Tuvalet", "Duş", "Wi-Fi"] },
+    pl: { stop: "Postój", near: "w pobliżu", fee: "płatne", free: "bezpłatne", tomorrow: "jutro", closed: "wiele sklepów jest zamkniętych", details: "Szczegóły", nearby: "Okolica", website: "Strona", types: ["Miejsce dla kamperów", "Parking dla kamperów", "Kemping", "Miejsce odpoczynku", "MOP", "Miejsce piknikowe / odpoczynku", "Parking przyrodniczy", "Miasto"], svc: ["Woda", "Zrzut", "Prąd", "Toalety", "Prysznic", "Wi-Fi"] }
+  };
+  var TXT = I18N[LANG] || I18N.en;
+
   /* ---------- inline SVG icon set (24x24, stroke=currentColor) ---------- */
   function _svg(p) {
     return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" style="width:1em;height:1em;vertical-align:-.15em">' + p + '</svg>';
@@ -47,9 +64,9 @@
   function streetView(ctx) {
     return "https://www.google.com/maps/@?api=1&map_action=pano&viewpoint=" + ctx.lat + "," + ctx.lon;
   }
-  var TYPE_LABELS = { caravan_site: "Wohnmobil-Stellplatz", motorhome_parking: "Wohnmobil-Parkplatz", camp_site: "Campingplatz", rest_area: "Rastplatz", services: "Autohof / Raststätte", picnic_site: "Picknick-/Rastplatz", nature_parking: "Parkplatz (Natur)", city: "Stadt" };
-  function typeLabel(t) { return TYPE_LABELS[t] || (t ? String(t).replace(/_/g, " ") : ""); }
-  var SVC = [["water", IC.water, "Wasser"], ["dump", IC.recycle, "Entsorgung"], ["power", IC.power, "Strom"], ["toilets", IC.toilet, "WC"], ["shower", IC.shower, "Dusche"], ["wifi", IC.wifi, "WLAN"]];
+  var TYPE_KEYS = ["caravan_site", "motorhome_parking", "camp_site", "rest_area", "services", "picnic_site", "nature_parking", "city"];
+  function typeLabel(t) { var i = TYPE_KEYS.indexOf(t); return i >= 0 ? TXT.types[i] : (t ? String(t).replace(/_/g, " ") : ""); }
+  var SVC = [["water", IC.water, 0], ["dump", IC.recycle, 1], ["power", IC.power, 2], ["toilets", IC.toilet, 3], ["shower", IC.shower, 4], ["wifi", IC.wifi, 5]];
 
   /* ---------- once-injected CSS (csak a kartya BELSEJE; a kulso hej a hoste) ---------- */
   var CSS = ".plzsc-head{display:flex;align-items:center;gap:8px;flex-wrap:wrap}" +
@@ -82,7 +99,7 @@
   register("header", function (ctx) {
     return '<div class="plzsc-head">' +
       (ctx.badge ? '<span class="plzsc-badge">' + esc(ctx.badge) + "</span>" : "") +
-      '<span class="plzsc-name">' + esc(ctx.name || typeLabel(ctx.type) || "Stopp") + "</span></div>";
+      '<span class="plzsc-name">' + esc(ctx.name || typeLabel(ctx.type) || TXT.stop) + "</span></div>";
   });
 
   /* 2. hely-sor (reverse geocode, async) */
@@ -90,12 +107,12 @@
     if (ctx.lat == null) return "";
     return '<div class="plzsc-line" data-plzsc="place">' + IC.place + ' …</div>';
   }, function (el, ctx) {
-    return fetch("https://photon.komoot.io/reverse?lang=de&lat=" + ctx.lat + "&lon=" + ctx.lon)
+    return fetch("https://photon.komoot.io/reverse?lang=" + encodeURIComponent((["de", "en", "fr", "it"].indexOf(LANG) >= 0 ? LANG : "en")) + "&lat=" + ctx.lat + "&lon=" + ctx.lon)
       .then(function (r) { return r.json(); })
       .then(function (j) {
         var p = (j.features && j.features[0] && j.features[0].properties) || {};
         var t = [p.city || p.town || p.village || p.county || p.state || "", p.country || ""].filter(Boolean).join(", ");
-        el.innerHTML = t ? IC.place + " in der Nähe von " + esc(t) : "";
+        el.innerHTML = t ? IC.place + " " + esc(TXT.near) + " " + esc(t) : "";
       }).catch(function () { el.textContent = ""; });
   });
 
@@ -106,7 +123,7 @@
     if (ctx.tier) tags.push("Tier " + ctx.tier);
     if (ctx.cc) tags.push(ctx.cc);
     if (ctx.kmCum != null) tags.push("km " + ctx.kmCum);
-    if (ctx.fee === "yes") tags.push("💶 gebührenpflichtig"); else if (ctx.fee === "no") tags.push("kostenlos");
+    if (ctx.fee === "yes") tags.push("💶 " + TXT.fee); else if (ctx.fee === "no") tags.push(TXT.free);
     if (ctx.maxstay) tags.push("⏱ " + ctx.maxstay);
     if (!tags.length) return "";
     return '<div class="plzsc-tags">' + tags.map(function (t) { return '<span class="plzsc-tag">' + esc(t) + "</span>"; }).join("") + "</div>";
@@ -116,7 +133,7 @@
   register("services", function (ctx) {
     if (!ctx.services) return "";
     var ic = SVC.filter(function (s) { return ctx.services[s[0]]; })
-      .map(function (s) { return '<span title="' + s[2] + '">' + s[1] + "</span>"; }).join(" ");
+      .map(function (s) { return '<span title="' + esc(TXT.svc[s[2]]) + '">' + s[1] + "</span>"; }).join(" ");
     return ic ? '<div class="plzsc-svc">' + ic + "</div>" : "";
   });
 
@@ -131,7 +148,7 @@
       var cu = j.current, da = j.daily;
       var I = function (c) { return c <= 1 ? "☀️" : c <= 3 ? "⛅" : c <= 48 ? "🌫" : c <= 67 ? "🌧" : c <= 77 ? "🌨" : c <= 82 ? "🌧" : "⛈"; };
       el.innerHTML = "<span>" + I(cu.weather_code) + " <b>" + Math.round(cu.temperature_2m) + "°C</b></span>" +
-        '<span style="margin-left:12px">morgen <b>' + Math.round(da.temperature_2m_min[1]) + "–" + Math.round(da.temperature_2m_max[1]) + "°C</b></span>" +
+        '<span style="margin-left:12px">' + esc(TXT.tomorrow) + ' <b>' + Math.round(da.temperature_2m_min[1]) + "–" + Math.round(da.temperature_2m_max[1]) + "°C</b></span>" +
         '<span style="margin-left:12px">🌧 ' + (da.precipitation_probability_max[1] != null ? da.precipitation_probability_max[1] : "–") + " %</span>";
     }).catch(function () { el.innerHTML = ""; });
   });
@@ -149,7 +166,7 @@
         if (!h) { el.innerHTML = ""; return; }
         var d = new Date(h.date);
         el.innerHTML = '<div class="plzsc-holiday">' + IC.calendar + " " + d.getDate() + "." + (d.getMonth() + 1) + ". " +
-          esc(h.localName) + " (" + esc(ctx.cc) + ") — viele Geschäfte geschlossen</div>";
+          esc(h.localName) + " (" + esc(ctx.cc) + ") · " + esc(TXT.closed) + "</div>";
       }).catch(function () { el.innerHTML = ""; });
   });
 
@@ -159,16 +176,14 @@
     var h = '<div class="plzsc-links">';
     // Internal link to OUR POI page (car-mode city stops) — primary, NOT nofollow (own page).
     if (ctx.poiUrl) {
-      var _dl = ({ de: "Details", hu: "Részletek", ro: "Detalii", en: "Details", fr: "Détails" })[(document.documentElement.lang || "en").slice(0, 2)] || "Details";
-      h += '<a class="plzsc-lbtn plzsc-lbtn-primary" href="' + esc(ctx.poiUrl) + '">' + IC.doc + ' ' + esc(_dl) + '</a>';
+      h += '<a class="plzsc-lbtn plzsc-lbtn-primary" href="' + esc(ctx.poiUrl) + '">' + IC.doc + ' ' + esc(TXT.details) + '</a>';
     }
     h +=
       '<a class="plzsc-lbtn" target="_blank" rel="noopener" href="' + gmaps(ctx) + '">' + IC.pin + ' Google Maps</a>' +
       '<a class="plzsc-lbtn" target="_blank" rel="noopener" href="' + streetView(ctx) + '">' + IC.eye + ' Street View</a>';
-    if (ctx.website) h += '<a class="plzsc-lbtn" target="_blank" rel="noopener" href="' + esc(ctx.website) + '">' + IC.globe + ' Website</a>';
+    if (ctx.website) h += '<a class="plzsc-lbtn" target="_blank" rel="noopener" href="' + esc(ctx.website) + '">' + IC.globe + ' ' + esc(TXT.website) + '</a>';
     // PlizioGo: "Discover the area" — opens /js/sights-nearby.js modal (radius + category filtered sights).
-    var _nl = ({ de: "Umgebung", hu: "Környék", ro: "Împrejurimi", en: "Nearby", fr: "Environs" })[(document.documentElement.lang || "en").slice(0, 2)] || "Nearby";
-    h += '<button type="button" class="plzsc-lbtn plzsc-nearby" data-lat="' + ctx.lat + '" data-lon="' + ctx.lon + '">' + IC.search + ' ' + esc(_nl) + "</button>";
+    h += '<button type="button" class="plzsc-lbtn plzsc-nearby" data-lat="' + ctx.lat + '" data-lon="' + ctx.lon + '">' + IC.search + ' ' + esc(TXT.nearby) + "</button>";
     return h + "</div>";
   });
 

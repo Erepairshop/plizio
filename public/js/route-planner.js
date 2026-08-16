@@ -14,7 +14,7 @@
   var GEO_LANG = ({ de: "de", en: "en", fr: "fr", it: "it" })[LANG] || "en";
   var _plat = parseFloat(M.dataset.lat), _plng = parseFloat(M.dataset.lng);
   var DEST_PREFILL = { name: M.dataset.dest || "", coords: (isFinite(_plat) && isFinite(_plng)) ? [_plng, _plat] : null };
-  var mode = "car", lastReq = null;
+  var mode = "car", lastReq = null, busy = false;
   var PREFILL_CC = (M.dataset.cc || "").toUpperCase();   // POI ország ISO2 (üres = ismeretlen parent)
   var SUPPORTED = null;                                   // {CC:1} ha betöltött; null = ismeretlen → soha nem tilt
   var WORKER_BASE = WORKER.replace(/\/plan\/?$/, "");     // .../plan → ... (a /countries-hez)
@@ -23,7 +23,7 @@
     de: { h: "Routenplaner — Auto & Wohnmobil", sub: "Start und Ziel eingeben — wir bauen die Route mit Stopps und Länder-Hinweisen.", from: "Start", fromPh: "z.B. München", dest: "Ziel", destPh: "z.B. Lyon", via: "Über (optional)", viaPh: "z.B. Zagreb", nights: "Übernachtungs-Stopps", vehicle: "Fahrzeug", car: "Auto", camper: "Wohnmobil", filter: "Nur Stopps mit (optional):", water: "Wasser", dump: "Entsorgung", power: "Strom", wc: "WC", shower: "Dusche", tierAB: "Stellplätze + Camping", tierA: "Nur Stellplätze", tierB: "Nur Camping", tierABC: "Auch Natur-/Rastplätze", b10: "Umweg max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "Route planen" },
     hu: { h: "Útvonaltervező — Autó & Lakóautó", sub: "Add meg az indulást és a célt — megtervezzük az utat megállókkal és ország-tudnivalókkal.", from: "Indulás", fromPh: "pl. Budapest", dest: "Cél", destPh: "pl. Lyon", via: "Érintve (opcionális)", viaPh: "pl. Zagreb", nights: "Éjszakai megállók", vehicle: "Jármű", car: "Autó", camper: "Lakóautó", filter: "Csak megállók ezzel (opcionális):", water: "Víz", dump: "Ürítő", power: "Áram", wc: "WC", shower: "Zuhany", tierAB: "Stellplatz + kemping", tierA: "Csak Stellplatz", tierB: "Csak kemping", tierABC: "Pihenő-/natúrhelyek is", b10: "Kitérő max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "Útvonal tervezése" },
     en: { h: "Route planner — Car & Motorhome", sub: "Enter start and destination — we build the route with stops and country notes.", from: "Start", fromPh: "e.g. Munich", dest: "Destination", destPh: "e.g. Lyon", via: "Via (optional)", viaPh: "e.g. Zagreb", nights: "Overnight stops", vehicle: "Vehicle", car: "Car", camper: "Motorhome", filter: "Only stops with (optional):", water: "Water", dump: "Disposal", power: "Power", wc: "Toilets", shower: "Shower", tierAB: "Aires + campsites", tierA: "Aires only", tierB: "Campsites only", tierABC: "Also rest/nature areas", b10: "Detour max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "Plan route" },
-    ro: { h: "Planificator traseu — Mașină & Rulotă", sub: "Introdu plecarea și destinația — construim traseul cu opriri și informații pe țări.", from: "Plecare", fromPh: "ex. Cluj", dest: "Destinație", destPh: "ex. Lyon", via: "Prin (opțional)", viaPh: "ex. Zagreb", nights: "Opriri peste noapte", vehicle: "Vehicul", car: "Mașină", camper: "Rulotă", filter: "Doar opriri cu (opțional):", water: "Apă", dump: "Golire", power: "Curent", wc: "Toaletă", shower: "Duș", tierAB: "Popasuri + camping", tierA: "Doar popasuri", tierB: "Doar camping", tierABC: "Și locuri de odihnă/natură", b10: "Ocol max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "Planifică traseul" },
+    ro: { h: "Planificator traseu — Mașină & Autorulotă", sub: "Introdu plecarea și destinația — construim traseul cu opriri și informații pe țări.", from: "Plecare", fromPh: "ex. Cluj", dest: "Destinație", destPh: "ex. Lyon", via: "Prin (opțional)", viaPh: "ex. Zagreb", nights: "Opriri peste noapte", vehicle: "Vehicul", car: "Mașină", camper: "Autorulotă", filter: "Doar opriri cu (opțional):", water: "Apă", dump: "Golire", power: "Curent", wc: "Toaletă", shower: "Duș", tierAB: "Popasuri + camping", tierA: "Doar popasuri", tierB: "Doar camping", tierABC: "Și locuri de odihnă/natură", b10: "Ocol max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "Planifică traseul" },
     fr: { h: "Planificateur — Voiture & Camping-car", sub: "Indiquez départ et destination — nous construisons l'itinéraire avec étapes et infos par pays.", from: "Départ", fromPh: "ex. Paris", dest: "Destination", destPh: "ex. Lyon", via: "Via (optionnel)", viaPh: "ex. Zagreb", nights: "Étapes nuitées", vehicle: "Véhicule", car: "Voiture", camper: "Camping-car", filter: "Étapes avec (optionnel) :", water: "Eau", dump: "Vidange", power: "Électricité", wc: "WC", shower: "Douche", tierAB: "Aires + campings", tierA: "Aires seulement", tierB: "Campings seulement", tierABC: "Aussi aires nature/repos", b10: "Détour max 10 km", b20: "max 20 km", b30: "max 30 km", b50: "max 50 km", plan: "Planifier" },
   };
   var DYN = {
@@ -33,13 +33,21 @@
     ro: { notFound: "Locul nu a fost găsit", needBoth: "Introdu plecarea și destinația.", searching: "📍 Se caută locurile…", routing: "🛣️ Se calculează traseul…", km: "km", hrs: "ore", nights: "nopți", matchStops: "opriri potrivite", mapsAll: "Tot traseul în Maps", advisory: "Informații pe țări", toll: "Taxă drum", lez: "Zonă ecologică", overnight: "Înnoptare", mandatory: "Obligatoriu", keepStop: "păstrează această oprire", day: "ZIUA", dest: "ȚINTĂ", swipe: "← glisează →", regen: "Regenerează — fixează opririle păstrate", regenKept: "🔄 Traseu cu opririle păstrate…", regenNew: "🔄 Variantă nouă…" },
     fr: { notFound: "Lieu introuvable", needBoth: "Entrez départ et destination.", searching: "📍 Recherche…", routing: "🛣️ Calcul de l'itinéraire…", km: "km", hrs: "h", nights: "nuitées", matchStops: "étapes", mapsAll: "Tout l'itinéraire dans Maps", advisory: "Infos par pays", toll: "Péage", lez: "Zone à faibles émissions", overnight: "Nuitée", mandatory: "Obligatoire", keepStop: "garder cette étape", day: "JOUR", dest: "BUT", swipe: "← faites glisser →", regen: "Régénérer — fixer les étapes gardées", regenKept: "🔄 Itinéraire avec étapes gardées…", regenNew: "🔄 Nouvelle variante…" },
   };
-  var T = COPY[LANG] || COPY.en, C = DYN[LANG] || DYN.en;
+  var embeddedCopy = {};
+  try { embeddedCopy = M.dataset.copy ? JSON.parse(M.dataset.copy) : {}; } catch (e) { embeddedCopy = {}; }
+  var T = COPY[LANG] || COPY.en, C = Object.assign({}, DYN[LANG] || DYN.en, embeddedCopy);
   var VEHICLE_COPY = {
     de: { title: "Wohnmobil-Maße", compact: "Kompaktvan", standard: "Wohnmobil 3,5 t", large: "Großes Wohnmobil", custom: "Eigene Maße", length: "Länge", width: "Breite", height: "Höhe", weight: "Gewicht", invalid: "Bitte gültige Wohnmobil-Maße eingeben." },
     hu: { title: "Lakóautó méretei", compact: "Kompakt furgon", standard: "Lakóautó 3,5 t", large: "Nagy lakóautó", custom: "Saját méretek", length: "Hossz", width: "Szélesség", height: "Magasság", weight: "Tömeg", invalid: "Adj meg érvényes lakóautó-méreteket." },
     en: { title: "Motorhome dimensions", compact: "Compact van", standard: "3.5 t motorhome", large: "Large motorhome", custom: "Custom dimensions", length: "Length", width: "Width", height: "Height", weight: "Weight", invalid: "Enter valid motorhome dimensions." },
     ro: { title: "Dimensiuni autorulotă", compact: "Camper compact", standard: "Autorulotă 3,5 t", large: "Autorulotă mare", custom: "Dimensiuni proprii", length: "Lungime", width: "Lățime", height: "Înălțime", weight: "Greutate", invalid: "Introdu dimensiuni valide pentru autorulotă." },
     fr: { title: "Dimensions du camping-car", compact: "Fourgon compact", standard: "Camping-car 3,5 t", large: "Grand camping-car", custom: "Dimensions personnalisées", length: "Longueur", width: "Largeur", height: "Hauteur", weight: "Poids", invalid: "Saisissez des dimensions valides." },
+    es: { title: "Dimensiones de la autocaravana", compact: "Furgoneta compacta", standard: "Autocaravana de 3,5 t", large: "Autocaravana grande", custom: "Medidas propias", length: "Longitud", width: "Anchura", height: "Altura", weight: "Peso", invalid: "Introduce medidas válidas para la autocaravana." },
+    pt: { title: "Dimensões da autocaravana", compact: "Furgão compacto", standard: "Autocaravana de 3,5 t", large: "Autocaravana grande", custom: "Medidas próprias", length: "Comprimento", width: "Largura", height: "Altura", weight: "Peso", invalid: "Introduza medidas válidas para a autocaravana." },
+    nl: { title: "Afmetingen camper", compact: "Compacte bus", standard: "Camper van 3,5 t", large: "Grote camper", custom: "Eigen maten", length: "Lengte", width: "Breedte", height: "Hoogte", weight: "Gewicht", invalid: "Vul geldige camperafmetingen in." },
+    hr: { title: "Dimenzije kampera", compact: "Kompaktni kombi", standard: "Kamper od 3,5 t", large: "Veliki kamper", custom: "Vlastite dimenzije", length: "Duljina", width: "Širina", height: "Visina", weight: "Masa", invalid: "Unesite valjane dimenzije kampera." },
+    tr: { title: "Motokaravan ölçüleri", compact: "Kompakt panelvan", standard: "3,5 t motokaravan", large: "Büyük motokaravan", custom: "Özel ölçüler", length: "Uzunluk", width: "Genişlik", height: "Yükseklik", weight: "Ağırlık", invalid: "Geçerli motokaravan ölçüleri girin." },
+    pl: { title: "Wymiary kampera", compact: "Kompaktowy van", standard: "Kamper 3,5 t", large: "Duży kamper", custom: "Własne wymiary", length: "Długość", width: "Szerokość", height: "Wysokość", weight: "Masa", invalid: "Podaj prawidłowe wymiary kampera." },
   };
   var V = VEHICLE_COPY[LANG] || VEHICLE_COPY.en;
   var VEHICLE_PRESETS = {
@@ -52,10 +60,60 @@
     de: { title: "Noch keine Wohnmobil-Daten", body: "Für dieses Land haben wir noch keine Stellplatz-Daten. Sobald Daten vorliegen, lässt sich die Route hierher automatisch planen.", car: "Mit dem Auto planen", ok: "OK" },
     hu: { title: "Még nincs lakóautós adat", body: "Ehhez az országhoz még nincs lakóautó-megálló adatunk. Amint lesz adat, ide is automatikusan tervezhető lesz a lakóautós útvonal.", car: "Tervezés autóval", ok: "OK" },
     en: { title: "No motorhome data yet", body: "We don't have motorhome stop data for this country yet. As soon as data is available, routing here will work automatically.", car: "Plan by car", ok: "OK" },
-    ro: { title: "Încă nu avem date pentru rulote", body: "Nu avem încă date despre opriri pentru rulote în această țară. De îndată ce apar date, traseul până aici se va putea planifica automat.", car: "Planifică cu mașina", ok: "OK" },
+    ro: { title: "Încă nu avem date pentru autorulote", body: "Nu avem încă date despre opriri pentru autorulote în această țară. De îndată ce apar date, traseul până aici se va putea planifica automat.", car: "Planifică cu mașina", ok: "OK" },
     fr: { title: "Pas encore de données camping-car", body: "Nous n'avons pas encore de données d'aires pour ce pays. Dès que des données seront disponibles, l'itinéraire jusqu'ici fonctionnera automatiquement.", car: "Planifier en voiture", ok: "OK" },
+    es: { title: "Aún no hay datos para autocaravanas", body: "Todavía no tenemos datos de paradas para autocaravanas en este país.", car: "Calcular en coche", ok: "Aceptar" },
+    pt: { title: "Ainda não há dados para autocaravanas", body: "Ainda não temos dados de paragens para autocaravanas neste país.", car: "Calcular de carro", ok: "OK" },
+    nl: { title: "Nog geen campergegevens", body: "Voor dit land hebben we nog geen gegevens over camperplaatsen.", car: "Met de auto plannen", ok: "OK" },
+    hr: { title: "Još nema podataka za kampere", body: "Za ovu državu još nemamo podatke o stajanjima za kampere.", car: "Planiraj automobilom", ok: "U redu" },
+    tr: { title: "Henüz motokaravan verisi yok", body: "Bu ülke için henüz motokaravan durağı verimiz yok.", car: "Otomobille planla", ok: "Tamam" },
+    pl: { title: "Brak danych dla kamperów", body: "Nie mamy jeszcze danych o postojach dla kamperów w tym kraju.", car: "Zaplanuj samochodem", ok: "OK" },
   };
   var NDC = ND[LANG] || ND.en;
+  var ADVISORY_UI = {
+    de: { official: "Offizielle aktuelle Regeln", verify: "Nur Reisehinweis. Regeln und Gebühren können sich ändern. Vor der Abfahrt bei der offiziellen Stelle prüfen.", localized: "Die automatisch erzeugten Rechtstexte werden nur auf Deutsch angezeigt.", baseRoute: "Ein Stopp konnte nicht sicher in die Route eingefügt werden. Entfernung und Zeit zeigen deshalb nur die Basisroute." },
+    hu: { official: "Hivatalos, aktuális szabályok", verify: "Tájékoztató jellegű. A szabályok és díjak változhatnak, indulás előtt ellenőrizd a hivatalos oldalon.", localized: "Az automatikus jogi összefoglalót csak németül jelenítjük meg.", baseRoute: "Egy megállót nem sikerült biztonságosan beilleszteni az útvonalba, ezért a távolság és idő csak az alapútvonalat mutatja." },
+    en: { official: "Official current rules", verify: "Travel guidance only. Rules and fees can change. Check the official source before departure.", localized: "The automated legal summary is shown only in German.", baseRoute: "A stop could not be routed safely. Distance and time therefore show the base route only." },
+    ro: { official: "Reguli oficiale actuale", verify: "Doar orientativ. Regulile și taxele se pot schimba. Verifică sursa oficială înainte de plecare.", localized: "Rezumatul juridic automat este afișat numai în limba germană.", baseRoute: "O oprire nu a putut fi inclusă în siguranță. Distanța și timpul indică doar traseul de bază." },
+    fr: { official: "Règles officielles actuelles", verify: "Information indicative. Les règles et tarifs peuvent changer. Vérifiez la source officielle avant le départ.", localized: "Le résumé juridique automatique est affiché uniquement en allemand.", baseRoute: "Une étape n'a pas pu être intégrée en toute sécurité. La distance et la durée indiquent donc uniquement l'itinéraire de base." },
+    it: { official: "Regole ufficiali aggiornate", verify: "Solo a titolo informativo. Regole e tariffe possono cambiare. Verifica la fonte ufficiale prima di partire.", localized: "Il riepilogo giuridico automatico è mostrato solo in tedesco.", baseRoute: "Non è stato possibile inserire una sosta in modo sicuro. Distanza e durata indicano quindi solo il percorso di base." },
+    es: { official: "Normas oficiales vigentes", verify: "Información orientativa. Las normas y tarifas pueden cambiar. Comprueba la fuente oficial antes de salir.", localized: "El resumen jurídico automático se muestra solo en alemán.", baseRoute: "No se pudo incluir una parada de forma segura. La distancia y el tiempo muestran solo la ruta base." },
+    pt: { official: "Regras oficiais atuais", verify: "Informação indicativa. As regras e tarifas podem mudar. Confirme na fonte oficial antes da partida.", localized: "O resumo jurídico automático é apresentado apenas em alemão.", baseRoute: "Não foi possível incluir uma paragem com segurança. A distância e o tempo mostram apenas a rota base." },
+    nl: { official: "Actuele officiële regels", verify: "Alleen als reisadvies. Regels en tarieven kunnen wijzigen. Controleer voor vertrek de officiële bron.", localized: "De automatische juridische samenvatting wordt alleen in het Duits getoond.", baseRoute: "Een stop kon niet veilig in de route worden opgenomen. Afstand en tijd tonen daarom alleen de basisroute." },
+    hr: { official: "Aktualna službena pravila", verify: "Samo informativno. Pravila i naknade mogu se promijeniti. Prije polaska provjerite službeni izvor.", localized: "Automatski pravni sažetak prikazuje se samo na njemačkom.", baseRoute: "Stajanje nije bilo moguće sigurno uključiti u rutu. Udaljenost i vrijeme zato prikazuju samo osnovnu rutu." },
+    tr: { official: "Güncel resmî kurallar", verify: "Yalnızca bilgilendirme amaçlıdır. Kurallar ve ücretler değişebilir. Yola çıkmadan önce resmî kaynağı kontrol edin.", localized: "Otomatik yasal özet yalnızca Almanca gösterilir.", baseRoute: "Bir durak rotaya güvenli biçimde eklenemedi. Bu nedenle mesafe ve süre yalnızca ana rotayı gösterir." },
+    pl: { official: "Aktualne oficjalne zasady", verify: "Informacja orientacyjna. Zasady i opłaty mogą się zmienić. Przed wyjazdem sprawdź oficjalne źródło.", localized: "Automatyczne podsumowanie prawne jest wyświetlane tylko po niemiecku.", baseRoute: "Nie udało się bezpiecznie włączyć postoju do trasy. Odległość i czas pokazują więc tylko trasę bazową." }
+  };
+  var AUI = ADVISORY_UI[LANG] || ADVISORY_UI.en;
+  var GEO_UI = {
+    de: ["Mein Standort", "Standort wird ermittelt…", "Standort konnte nicht ermittelt werden. Bitte Browserfreigabe prüfen.", "Routenübersicht"],
+    hu: ["Saját helyzetem", "Helyzet meghatározása…", "A helyzet nem határozható meg. Ellenőrizd a böngésző helyengedélyét.", "Útvonal áttekintése"],
+    en: ["My location", "Locating…", "Location is unavailable. Check the browser location permission.", "Route overview"],
+    ro: ["Locația mea", "Se determină locația…", "Locația nu este disponibilă. Verifică permisiunea browserului.", "Prezentarea traseului"],
+    fr: ["Ma position", "Localisation…", "La position est indisponible. Vérifiez l'autorisation du navigateur.", "Aperçu de l'itinéraire"],
+    it: ["La mia posizione", "Localizzazione…", "La posizione non è disponibile. Controlla l'autorizzazione del browser.", "Panoramica del percorso"],
+    es: ["Mi ubicación", "Obteniendo ubicación…", "La ubicación no está disponible. Comprueba el permiso del navegador.", "Resumen de la ruta"],
+    pt: ["A minha localização", "A obter localização…", "A localização não está disponível. Verifique a permissão do navegador.", "Resumo da rota"],
+    nl: ["Mijn locatie", "Locatie bepalen…", "Locatie is niet beschikbaar. Controleer de browsertoestemming.", "Routeoverzicht"],
+    hr: ["Moja lokacija", "Određivanje lokacije…", "Lokacija nije dostupna. Provjerite dopuštenje preglednika.", "Pregled rute"],
+    tr: ["Konumum", "Konum belirleniyor…", "Konum kullanılamıyor. Tarayıcı konum iznini kontrol edin.", "Rota özeti"],
+    pl: ["Moja lokalizacja", "Ustalanie lokalizacji…", "Lokalizacja jest niedostępna. Sprawdź uprawnienia przeglądarki.", "Podgląd trasy"]
+  };
+  var GUI = GEO_UI[LANG] || GEO_UI.en;
+  var OFFICIAL_TOLL = {
+    AT: "https://help.asfinag.at/en/vignette-and-section-tolls/vignette/",
+    HR: "https://www.hac.hr/en/toll",
+    SI: "https://evinjeta.dars.si/en",
+    DE: "https://www.toll-collect.de/en/"
+  };
+  var EU_ROAD_RULES = "https://europa.eu/youreurope/citizens/vehicles/driving-abroad/road-rules-and-safety/index_en.htm";
+
+  function normalizeAdvisory(a) {
+    if (!a || a.cc !== "AT") return a;
+    var copy = Object.assign({}, a);
+    copy.toll = "Vignette bis einschließlich 3,5 t technisch zulässiger Gesamtmasse; über 3,5 t GO-Maut. Auf einzelnen Strecken fällt zusätzlich Streckenmaut an.";
+    return copy;
+  }
 
   // ── inline SVG icon set (24x24, stroke=currentColor) ─────────────────────────
   function _svg(p) {
@@ -117,12 +175,15 @@
     + '.plz-rp-dimensions label span{position:absolute;right:.48rem;bottom:.52rem;font-size:.72rem;color:var(--ink-faint);pointer-events:none}'
     + '.plz-rp-go{width:100%;padding:.65rem;border:none;border-radius:999px;background:var(--accent);color:#fff;font-weight:800;font-size:.98rem;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;gap:.4em}'
     + '.plz-rp-go:hover{background:var(--accent-deep)}'
+    + '.plz-rp-locate{align-self:flex-start;margin-top:.2rem;border:1px solid var(--rule);border-radius:999px;background:var(--paper-2);color:var(--accent);padding:.34rem .68rem;font-size:.76rem;font-weight:600;cursor:pointer}'
+    + '.plz-rp-locate:hover{background:var(--accent-wash)}'
     + '.plz-rp-status{text-align:center;font-size:.82rem;color:var(--ink-soft);min-height:1.1em;margin-top:.5rem}'
     + '.plz-rp-result{margin-top:1rem;display:flex;flex-direction:column;gap:.9rem}'
     + '.plz-rp-summary{display:flex;flex-wrap:wrap;align-items:center;gap:.5rem 1.1rem;background:var(--paper-2);border:1px solid var(--rule);border-radius:var(--r);padding:.7rem .9rem}'
     + '.plz-rp-stat b{font-size:1.35rem;color:var(--ink)}.plz-rp-stat{font-size:.78rem;color:var(--ink-soft)}'
     + '.plz-rp-mapsall{margin-left:auto;background:var(--accent);color:#fff;font-weight:700;font-size:.82rem;padding:.38rem .8rem;border-radius:999px;text-decoration:none;display:inline-flex;align-items:center;gap:.35em}'
     + '.plz-rp-mapsall:hover{background:var(--accent-deep)}'
+    + '.plz-rp-overview{background:linear-gradient(145deg,var(--paper-2),var(--paper));border:1px solid var(--rule);border-radius:var(--r);padding:.45rem .6rem}.plz-rp-overview svg{display:block;width:100%;height:auto;max-height:190px}.plz-rp-overview path{fill:none;stroke:var(--accent);stroke-width:4;stroke-linecap:round;stroke-linejoin:round}.plz-rp-overview circle{stroke:var(--paper);stroke-width:3}.plz-rp-overview .end{fill:var(--accent-deep)}.plz-rp-overview .stop{fill:#ffae5c}'
     + '.plz-rp-adv{background:var(--paper-2);border:1px solid var(--rule);border-radius:var(--r);padding:.7rem .9rem}'
     + '.plz-rp-adv h3{font-size:.92rem;margin:0 0 .5rem;display:flex;align-items:center;gap:.35em}'
     + '.plz-rp-advb svg{margin-right:.25em}'
@@ -170,7 +231,7 @@
   var hasDest = false;
   if (!M.querySelector(".plz-rp-origin")) {
     M.classList.add("plz-rp");
-    var stopsOpts = ""; for (var n = 1; n <= 8; n++) stopsOpts += '<option' + (n === 2 ? " selected" : "") + '>' + n + '</option>';
+    var stopsOpts = ""; for (var n = 0; n <= 8; n++) stopsOpts += '<option' + (n === 0 ? " selected" : "") + '>' + n + '</option>';
     var svcDefs = [["water", T.water, IC.water], ["dump", T.dump, IC.recycle], ["power", T.power, IC.power], ["toilets", T.wc, IC.toilet], ["shower", T.shower, IC.shower]];
     var svcHtml = svcDefs.map(function (p) { return '<label class="plz-rp-svcl"><input type="checkbox" class="plz-rp-svc" value="' + p[0] + '"> ' + p[2] + ' ' + esc(p[1]) + '</label>'; }).join("");
     M.innerHTML =
@@ -191,6 +252,10 @@
     hasDest = true;
   } else {
     hasDest = !!M.querySelector(".plz-rp-dest");
+  }
+  var originInput = M.querySelector(".plz-rp-origin");
+  if (originInput && originInput.parentNode && !M.querySelector(".plz-rp-locate")) {
+    originInput.parentNode.insertAdjacentHTML("beforeend", '<button type="button" class="plz-rp-locate">◎ ' + esc(GUI[0]) + '</button>');
   }
   if (!M.querySelector(".plz-rp-camper-spec")) {
     var filterBox = M.querySelector(".plz-rp-filters");
@@ -324,6 +389,16 @@
     input.addEventListener("blur", function () { setTimeout(close, 180); });
   }
   attachAC($(".plz-rp-origin")); attachAC($(".plz-rp-dest")); attachAC($(".plz-rp-via"));
+  var locateButton = $(".plz-rp-locate");
+  if (locateButton) locateButton.addEventListener("click", function () {
+    var input = $(".plz-rp-origin"), stt = $(".plz-rp-status");
+    if (!input || !navigator.geolocation) { if (stt) stt.textContent = "⚠️ " + GUI[2]; return; }
+    locateButton.disabled = true; if (stt) stt.textContent = GUI[1];
+    navigator.geolocation.getCurrentPosition(function (pos) {
+      input.value = GUI[0]; input.dataset.lon = pos.coords.longitude; input.dataset.lat = pos.coords.latitude;
+      input.removeAttribute("data-cc"); locateButton.disabled = false; if (stt) stt.textContent = "";
+    }, function () { locateButton.disabled = false; if (stt) stt.textContent = "⚠️ " + GUI[2]; }, { enableHighAccuracy: true, timeout: 12000, maximumAge: 60000 });
+  });
 
   // koord-feloldás: ha a user a legördülőből választott (dataset coords) → azt; különben geocode limit=1; üres → fallback
   function inputCoords(sel, fallback) {
@@ -337,7 +412,24 @@
   function plan(req) {
     return fetch(WORKER, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(req) })
       .then(function (r) { return r.json(); })
-      .then(function (data) { if (!data.ok) throw new Error(data.error || "Error"); return data; });
+      .then(function (data) {
+        if (!data.ok) {
+          var err = new Error(data.error || "Error");
+          err.detail = data.detail || ""; err.status = data.status || 0;
+          throw err;
+        }
+        return data;
+      });
+  }
+  function routeError(e) {
+    if (mode !== "camper") return e && e.message ? e.message : "Error";
+    var unreachable = /code.?["': ]+(2009|2010)|route could not be found|could not find routable point/i.test((e && e.detail) || "");
+    var msg = unreachable ? {
+      de: "Für den exakten Zielpunkt wurde keine befahrbare Wohnmobilroute gefunden. Versuche einen nahe gelegenen Parkplatz oder den Auto-Modus.", hu: "A pontos célponthoz nem található lakóautóval járható út. Próbálj közeli parkolót vagy válts autó módra.", en: "No motorhome-accessible route was found to the exact destination. Try a nearby parking area or switch to car mode.", ro: "Nu s-a găsit un traseu accesibil autorulotei până la destinația exactă. Încearcă o parcare apropiată sau modul mașină.", fr: "Aucun itinéraire accessible en camping-car n'a été trouvé jusqu'au point exact. Essayez un parking proche ou le mode voiture.", it: "Non è stato trovato un percorso accessibile in camper fino al punto esatto. Prova un parcheggio vicino o la modalità auto.", es: "No se encontró una ruta accesible para autocaravanas hasta el punto exacto. Prueba un aparcamiento cercano o el modo coche.", pt: "Não foi encontrada uma rota acessível a autocaravanas até ao ponto exato. Tente um estacionamento próximo ou o modo carro.", nl: "Er is geen voor campers toegankelijke route naar het exacte punt gevonden. Probeer een nabijgelegen parking of de automodus.", hr: "Nije pronađena ruta dostupna kamperom do točne lokacije. Pokušajte s obližnjim parkiralištem ili automobilskim načinom.", tr: "Tam hedefe motokaravanla erişilebilen bir rota bulunamadı. Yakındaki bir otoparkı veya otomobil modunu deneyin.", pl: "Nie znaleziono trasy dostępnej dla kampera do dokładnego punktu. Spróbuj pobliskiego parkingu lub trybu samochodowego."
+    } : {
+      de: "Die Wohnmobilroute ist vorübergehend nicht verfügbar. Bitte versuche es später erneut oder nutze den Auto-Modus.", hu: "A lakóautós útvonal átmenetileg nem érhető el. Próbáld újra később, vagy válts autó módra.", en: "Motorhome routing is temporarily unavailable. Try again later or switch to car mode.", ro: "Ruta pentru autorulotă este temporar indisponibilă. Încearcă mai târziu sau folosește modul mașină.", fr: "L'itinéraire camping-car est temporairement indisponible. Réessayez plus tard ou utilisez le mode voiture.", it: "Il percorso per camper è temporaneamente non disponibile. Riprova più tardi o usa la modalità auto.", es: "La ruta para autocaravanas no está disponible temporalmente. Inténtalo más tarde o usa el modo coche.", pt: "A rota para autocaravanas está temporariamente indisponível. Tente mais tarde ou use o modo carro.", nl: "Camperroutes zijn tijdelijk niet beschikbaar. Probeer het later opnieuw of gebruik de automodus.", hr: "Ruta za kampere privremeno nije dostupna. Pokušajte kasnije ili upotrijebite automobilski način.", tr: "Motokaravan rotası geçici olarak kullanılamıyor. Daha sonra yeniden deneyin veya otomobil modunu kullanın.", pl: "Trasa dla kampera jest chwilowo niedostępna. Spróbuj później lub użyj trybu samochodowego."
+    };
+    return msg[LANG] || msg.en;
   }
   function readVehicle() {
     if (mode !== "camper") return null;
@@ -371,6 +463,7 @@
     } else _go();
   }
   function _go() {
+    if (busy) return;
     var stt = $(".plz-rp-status"), res = $(".plz-rp-result");
     var oEl = $(".plz-rp-origin"), dEl = $(".plz-rp-dest");
     var hasOrigin = oEl && (oEl.dataset.lon || oEl.value.trim());
@@ -382,6 +475,8 @@
     var tiers = ({ AB: ["A", "B"], A: ["A"], B: ["B"], ABC: ["A", "B", "C"] })[$(".plz-rp-tier").value] || ["A", "B"];
     var vehicle = readVehicle();
     if (mode === "camper" && !vehicle) { stt.textContent = V.invalid; return; }
+    busy = true;
+    var goButton = $(".plz-rp-go"); if (goButton) goButton.disabled = true;
     var _bEl = $(".plz-rp-buffer"); var bufferKm = _bEl ? (parseInt(_bEl.value, 10) || 20) : 20; // buffer selector removed → fixed 20km corridor
     var origin, destination, destName = destNameNow();
     Promise.all([inputCoords(".plz-rp-origin"), inputCoords(".plz-rp-dest", DEST_PREFILL.coords), inputCoords(".plz-rp-via")]).then(function (r) {
@@ -390,8 +485,45 @@
       stt.textContent = C.routing;
       lastReq = { origin: origin, destination: destination, baseAnchors: baseAnchors, stops: stops, mode: mode, vehicle: vehicle, variant: 0, reqServices: reqServices, tiers: tiers, bufferKm: bufferKm, destName: destName };
       return plan({ origin: origin, destination: destination, anchors: baseAnchors, stops: stops, mode: mode, vehicle: vehicle, variant: 0, reqServices: reqServices, tiers: tiers, bufferKm: bufferKm });
-    }).then(carify).then(function (data) { return refineCountries(data).then(function () { render(data); stt.textContent = ""; }); })
-      .catch(function (e) { stt.textContent = "⚠️ " + e.message; });
+    }).then(normalizeRequestedStops).then(mergeCamperKept).then(carify).then(rerouteThroughStops).then(function (data) { return refineCountries(data).then(function () { render(data); stt.textContent = ""; }); })
+      .catch(function (e) { stt.textContent = "⚠️ " + routeError(e); })
+      .then(function () { busy = false; if (goButton) goButton.disabled = false; });
+  }
+
+  // The Worker historically treats stops=0 as its default (2). Keep zero-night
+  // routes honest on the client until every deployed Worker version accepts 0.
+  function normalizeRequestedStops(d) {
+    if (!lastReq || lastReq.stops !== 0) return d;
+    d.days = [{ day: 1, driveKmCumulative: Math.round(d.summary.km || 0), overnight: null }];
+    d.summary.overnightStops = 0;
+    return d;
+  }
+
+  // Preserve camper stops selected with "keep" while the Worker generates only
+  // the remaining positions. Rebuild day cards in actual route order.
+  function mergeCamperKept(d) {
+    var kept = lastReq && lastReq._keptStops;
+    if (!lastReq || lastReq.mode !== "camper" || !kept || !kept.length || !d.days) return d;
+    var selected = kept.slice(), seen = {};
+    selected.forEach(function (s) { seen[s.lat.toFixed(5) + "," + s.lon.toFixed(5)] = 1; });
+    d.days.filter(function (x) { return x.overnight; }).forEach(function (x) {
+      var s = x.overnight, key = s.lat.toFixed(5) + "," + s.lon.toFixed(5);
+      if (!seen[key] && selected.length < lastReq.stops) { seen[key] = 1; selected.push(s); }
+    });
+    var line = d.route || [], cum = [0];
+    for (var i = 1; i < line.length; i++) cum.push(cum[i - 1] + cHav(line[i - 1][1], line[i - 1][0], line[i][1], line[i][0]));
+    selected = selected.map(function (s) {
+      var best = 0, distance = Infinity;
+      for (var j = 0; j < line.length; j++) {
+        var dd = cHav(s.lat, s.lon, line[j][1], line[j][0]);
+        if (dd < distance) { distance = dd; best = j; }
+      }
+      return { stop: s, along: cum[best] || 0 };
+    }).sort(function (a, b) { return a.along - b.along; });
+    d.days = selected.map(function (x, idx) { return { day: idx + 1, driveKmCumulative: Math.round(x.along), overnight: x.stop }; });
+    d.days.push({ day: d.days.length + 1, driveKmCumulative: Math.round(cum[cum.length - 1] || d.summary.km || 0), overnight: null });
+    d.summary.overnightStops = selected.length;
+    return d;
   }
 
   // A Worker az országokat a korridor-bufferből (20km) veszi → a határ közeli (pl. olasz)
@@ -462,8 +594,10 @@
         for (var i = 0; i < cands.length; i++) { if (used[i]) continue; var dd = cHav(kp[1], kp[0], cands[i].lat, cands[i].lon); if (dd < bd) { bd = dd; best = i; } }
         if (best != null && bd < 8) { used[best] = 1; picks.push(cands[best]); }
       });
-      for (var k = 1; k <= stopsWanted - picks.length; k++) {
-        var target = seg * picks.length + seg * k;
+      // Do not use a loop bound that shrinks as picks grows: that returned only
+      // about half of the requested stops and skipped every second target segment.
+      for (var k = 1; k <= stopsWanted && picks.length < stopsWanted; k++) {
+        var target = seg * k;
         if (target >= total) break;
         var bi2 = null, bs = Infinity;
         for (var j = 0; j < cands.length; j++) {
@@ -491,6 +625,61 @@
     }).catch(function () { return d; });
   }
 
+  // The first Worker response selects corridor stops but its km/h summary still
+  // describes only the base route. Route once more through the selected stops and
+  // merge the real distance/time while retaining the selected stop cards.
+  function rerouteThroughStops(d) {
+    if (!lastReq || !d.days) return Promise.resolve(d);
+    var overnightAnchors = d.days.filter(function (x) { return x.overnight; }).map(function (x) { return [x.overnight.lon, x.overnight.lat]; });
+    if (!overnightAnchors.length) return Promise.resolve(d);
+    var anchors = sortAnchorsAlongRoute((lastReq.baseAnchors || []).concat(overnightAnchors), d.route).slice(0, 10);
+    return plan({ origin: lastReq.origin, destination: lastReq.destination, anchors: anchors, stops: 0, mode: lastReq.mode, vehicle: lastReq.vehicle, variant: 0, reqServices: [], tiers: lastReq.tiers, bufferKm: lastReq.bufferKm })
+      .then(function (routed) {
+        if (routed.summary) {
+          d.summary.km = routed.summary.km;
+          d.summary.hours = routed.summary.hours;
+        }
+        if (routed.route && routed.route.length) d.route = routed.route;
+        if (routed.countries) d.countries = routed.countries;
+        if (routed.advisory) d.advisory = routed.advisory;
+        if (routed.advisoryNote) d.advisoryNote = routed.advisoryNote;
+        d.summaryIncludesStops = true;
+        return d;
+      }).catch(function () { d.summaryIncludesStops = false; return d; });
+  }
+
+  function sortAnchorsAlongRoute(anchors, line) {
+    if (!line || line.length < 2) return anchors;
+    return anchors.map(function (anchor) {
+      var best = 0, distance = Infinity;
+      for (var i = 0; i < line.length; i++) {
+        var d = cHav(anchor[1], anchor[0], line[i][1], line[i][0]);
+        if (d < distance) { distance = d; best = i; }
+      }
+      return { anchor: anchor, along: best };
+    }).sort(function (a, b) { return a.along - b.along; }).map(function (x) { return x.anchor; });
+  }
+
+  // Lightweight route overview without another map SDK or tile download. It is
+  // deliberately schematic; the Google Maps button remains the navigation view.
+  function routeOverview(line, days) {
+    if (!line || line.length < 2) return "";
+    var step = Math.max(1, Math.ceil(line.length / 260)), pts = [];
+    for (var i = 0; i < line.length; i += step) pts.push(line[i]);
+    if (pts[pts.length - 1] !== line[line.length - 1]) pts.push(line[line.length - 1]);
+    var midLat = pts.reduce(function (s, p) { return s + p[1]; }, 0) / pts.length;
+    var scaleLon = Math.max(0.2, Math.cos(midLat * Math.PI / 180));
+    var xy = pts.map(function (p) { return [p[0] * scaleLon, -p[1]]; });
+    var xs = xy.map(function (p) { return p[0]; }), ys = xy.map(function (p) { return p[1]; });
+    var minX = Math.min.apply(null, xs), maxX = Math.max.apply(null, xs), minY = Math.min.apply(null, ys), maxY = Math.max.apply(null, ys);
+    var spanX = Math.max(0.0001, maxX - minX), spanY = Math.max(0.0001, maxY - minY);
+    function project(p) { return [20 + (p[0] * scaleLon - minX) / spanX * 760, 20 + (-p[1] - minY) / spanY * 160]; }
+    var path = xy.map(function (p) { return (20 + (p[0] - minX) / spanX * 760).toFixed(1) + "," + (20 + (p[1] - minY) / spanY * 160).toFixed(1); }).join(" ");
+    var markers = [line[0]].concat((days || []).filter(function (x) { return x.overnight; }).map(function (x) { return [x.overnight.lon, x.overnight.lat]; })).concat([line[line.length - 1]]);
+    var circles = markers.map(function (p, idx) { var q = project(p); return '<circle class="' + (idx === 0 || idx === markers.length - 1 ? "end" : "stop") + '" cx="' + q[0].toFixed(1) + '" cy="' + q[1].toFixed(1) + '" r="' + (idx === 0 || idx === markers.length - 1 ? 7 : 5) + '"></circle>'; }).join("");
+    return '<div class="plz-rp-overview" role="img" aria-label="' + esc(GUI[3]) + '"><svg viewBox="0 0 800 200" preserveAspectRatio="xMidYMid meet"><path d="M ' + path.replace(/ /g, " L ") + '"></path>' + circles + '</svg></div>';
+  }
+
   function render(d) {
     var res = $(".plz-rp-result"); res.style.display = "";
     var dest = lastReq.destination, destName = lastReq.destName;
@@ -504,17 +693,24 @@
       + '<div class="plz-rp-stat"><b>' + (d.summary.overnightStops || 0) + '</b> ' + esc(C.nights) + '</div>'
       + '<div class="plz-rp-stat"><b>' + (d.eligibleStops != null ? d.eligibleStops : d.corridorStops) + '</b> ' + esc(C.matchStops) + '</div>'
       + '<a class="plz-rp-mapsall" href="' + mapsAll + '" target="_blank" rel="nofollow noopener">' + IC.map + ' ' + esc(C.mapsAll) + '</a></div>';
+    if (d.summaryIncludesStops === false) h += '<p class="plz-rp-muted">⚠️ ' + esc(AUI.baseRoute) + '</p>';
+    h += routeOverview(d.route, d.days);
     if (d.advisory && d.advisory.length) {
-      h += '<div class="plz-rp-adv"><h3>' + IC.warning + ' ' + esc(C.advisory) + ' (' + esc(d.countries.join(" · ")) + ')</h3>';
-      d.advisory.forEach(function (a) {
-        h += '<details class="plz-rp-advc"><summary>' + esc(a.name || a.cc) + ' <span>' + esc(a.cur || "") + '</span></summary><div class="plz-rp-advb">'
-          + (a.toll ? '<div>' + IC.road + ' <b>' + esc(C.toll) + ':</b> ' + esc(a.toll) + '</div>' : '')
-          + (a.lez && a.lez !== "—" ? '<div>' + IC.building + ' <b>' + esc(C.lez) + ':</b> ' + esc(a.lez) + '</div>' : '')
-          + (a.wild ? '<div>' + IC.tent + ' <b>' + esc(C.overnight) + ':</b> ' + esc(a.wild) + '</div>' : '')
-          + (a.equip ? '<div>' + IC.wrench + ' <b>' + esc(C.mandatory) + ':</b> ' + esc(a.equip) + '</div>' : '')
-          + (a.note ? '<div class="plz-rp-muted">' + esc(a.note) + '</div>' : '') + '</div></details>';
+      h += '<div class="plz-rp-adv"><h3>' + IC.warning + ' ' + esc(C.advisory) + ' (' + esc((d.countries || []).join(" · ")) + ')</h3>';
+      d.advisory.forEach(function (raw) {
+        var a = normalizeAdvisory(raw), official = OFFICIAL_TOLL[a.cc] || EU_ROAD_RULES;
+        h += '<details class="plz-rp-advc"><summary>' + esc(a.name || a.cc) + ' <span>' + esc(a.cur || "") + '</span></summary><div class="plz-rp-advb">';
+        if (LANG === "de") {
+          h += (a.toll ? '<div>' + IC.road + ' <b>' + esc(C.toll) + ':</b> ' + esc(a.toll) + '</div>' : '')
+            + (a.lez && a.lez !== "—" ? '<div>' + IC.building + ' <b>' + esc(C.lez) + ':</b> ' + esc(a.lez) + '</div>' : '')
+            + (a.wild ? '<div>' + IC.tent + ' <b>' + esc(C.overnight) + ':</b> ' + esc(a.wild) + '</div>' : '')
+            + (a.equip ? '<div>' + IC.wrench + ' <b>' + esc(C.mandatory) + ':</b> ' + esc(a.equip) + '</div>' : '')
+            + (a.note ? '<div class="plz-rp-muted">' + esc(a.note) + '</div>' : '');
+        } else h += '<div class="plz-rp-muted">' + esc(AUI.localized) + '</div>';
+        if (official) h += '<div><a href="' + esc(official) + '" target="_blank" rel="noopener">' + IC.road + ' ' + esc(AUI.official) + '</a></div>';
+        h += '</div></details>';
       });
-      h += '<p class="plz-rp-muted plz-rp-advnote">' + esc(d.advisoryNote || "") + '</p></div>';
+      h += '<p class="plz-rp-muted plz-rp-advnote">' + esc(AUI.verify) + '</p></div>';
     }
     var hasSC = (typeof window.PlzStopCard !== "undefined");
     h += '<div class="plz-rp-deck">';
@@ -557,14 +753,22 @@
     }
     var rg = res.querySelector(".plz-rp-regen");
     if (rg) rg.addEventListener("click", function () {
+      if (busy) return;
       var kept = Array.prototype.map.call(res.querySelectorAll(".plz-rp-keepcb:checked"), function (c) { return [parseFloat(c.dataset.lon), parseFloat(c.dataset.lat)]; });
+      var keptStops = d.days.filter(function (x) {
+        return x.overnight && kept.some(function (p) { return Math.abs(p[0] - x.overnight.lon) < 0.00001 && Math.abs(p[1] - x.overnight.lat) < 0.00001; });
+      }).map(function (x) { return x.overnight; });
       var stt = $(".plz-rp-status"), anchors, variant;
-      if (kept.length) { anchors = (lastReq.baseAnchors || []).concat(kept); variant = 0; stt.textContent = C.regenKept; }
+      if (kept.length) { anchors = sortAnchorsAlongRoute((lastReq.baseAnchors || []).concat(kept), d.route); variant = 0; stt.textContent = C.regenKept; }
       else { anchors = lastReq.baseAnchors || []; variant = (lastReq.variant || 0) + 1; stt.textContent = C.regenNew; }
       lastReq.variant = variant;
       lastReq._keep = kept; // car mode: snap kept city stops back in after re-picking
-      plan({ origin: lastReq.origin, destination: lastReq.destination, anchors: anchors, stops: lastReq.stops, mode: lastReq.mode, vehicle: lastReq.vehicle, variant: variant, reqServices: lastReq.reqServices, tiers: lastReq.tiers, bufferKm: lastReq.bufferKm })
-        .then(carify).then(function (data) { return refineCountries(data).then(function () { render(data); stt.textContent = ""; }); }).catch(function (e) { stt.textContent = "⚠️ " + e.message; });
+      lastReq._keptStops = keptStops;
+      busy = true; rg.disabled = true;
+      var remainingStops = lastReq.mode === "camper" ? Math.max(0, lastReq.stops - keptStops.length) : lastReq.stops;
+      plan({ origin: lastReq.origin, destination: lastReq.destination, anchors: anchors, stops: remainingStops, mode: lastReq.mode, vehicle: lastReq.vehicle, variant: variant, reqServices: lastReq.reqServices, tiers: lastReq.tiers, bufferKm: lastReq.bufferKm })
+        .then(normalizeRequestedStops).then(mergeCamperKept).then(carify).then(rerouteThroughStops).then(function (data) { return refineCountries(data).then(function () { render(data); stt.textContent = ""; }); }).catch(function (e) { stt.textContent = "⚠️ " + routeError(e); })
+        .then(function () { busy = false; rg.disabled = false; });
     });
   }
 
