@@ -4,10 +4,10 @@ on:
   workflow_dispatch:
     inputs:
       poi_mode:
-        description: "POI HTML generation mode"
+        description: "POI HTML mode: auto classifies none/delta/full; overrides remain for recovery"
         type: choice
-        default: delta
-        options: [delta, full]
+        default: auto
+        options: [auto, delta, full]
       poi_scope_language:
         description: "Optional comma-separated native-language scope (for example es,it); limits template changes to POIs with those i18n sidecars"
         type: string
@@ -194,20 +194,16 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          # app/[lang] pages are built by Next, while POI detail HTML is owned by
-          # generate-poi-html.mts. Treating every localized UI edit as POI data
-          # used to force an unrelated 152K-page overlay rebuild.
-          POI_AFFECTING='^(lib/visualLab/data/.*[Pp]oi|lib/seo/|components/seo/|scripts/(generate-poi-html|build-seo-index|split_pois_by_country|prepare_v2_data|flatten-sitemap-paths|generate-image-sitemap)|public/poi-images/|public/data/(i18n|city-tips|itinerary|poi-practical)/|public/data/poi-news/|public/data/sights/|public/data/official-links\.json|public/data/sight-image-map\.json|public/data/poi-yearly-highlights\.json|public/poi-static/poi\.css)'
           # Outputs: mode = full | delta | none ; before = last-deployed SHA (delta only)
           AFTER="${{ github.sha }}"
           CURRENT="${{ env.RELEASE_BASE }}/current"
-          MODE_INPUT="${{ github.event.inputs.poi_mode }}"; MODE_INPUT="${MODE_INPUT:-delta}"
+          MODE_INPUT="${{ github.event.inputs.poi_mode }}"; MODE_INPUT="${MODE_INPUT:-auto}"
           BEFORE=""
           if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
             if [ "$MODE_INPUT" = "full" ]; then
               echo "Manual FULL dispatch → regen all"; echo "mode=full" >> "$GITHUB_OUTPUT"; exit 0
             fi
-            # delta dispatch: BEFORE = commit recorded in the current live release
+            # auto/delta dispatch: BEFORE = commit recorded in the current live release
             if [ -f "$CURRENT/_audit/build_warnings.json" ]; then
               BEFORE=$(node -e "try{process.stdout.write((JSON.parse(require('fs').readFileSync(process.argv[1],'utf8')).commit)||'')}catch(e){}" "$CURRENT/_audit/build_warnings.json")
             fi
@@ -229,10 +225,7 @@ jobs:
           if [ -z "$CHANGED" ]; then
             echo "No changes → none (reuse)"; echo "mode=none" >> "$GITHUB_OUTPUT"; exit 0
           fi
-          if ! echo "$CHANGED" | grep -qE "$POI_AFFECTING"; then
-            echo "UI-only commit → none (reuse from current release)"; echo "mode=none" >> "$GITHUB_OUTPUT"; exit 0
-          fi
-          echo "POI-affecting → delta (compute step decides delta-vs-full)"
+          echo "Input=$MODE_INPUT → automatic classifier decides none/delta/full"
           echo "before=$BEFORE" >> "$GITHUB_OUTPUT"
           echo "mode=delta" >> "$GITHUB_OUTPUT"
 
@@ -244,13 +237,37 @@ jobs:
           set +e
           node scripts/compute-changed-pois.mjs "${{ steps.detect_poi.outputs.before }}" "${{ github.sha }}" _changed_pois.txt "${{ github.event.inputs.poi_scope_language }}"
           rc=$?
-          if [ "$rc" -eq 3 ]; then echo "compute → FULL fallback (unmappable POI-affecting change)"; echo "delta_ok=false" >> "$GITHUB_OUTPUT"; exit 0; fi
-          if [ "$rc" -ne 0 ]; then echo "compute error rc=$rc → FULL fallback"; echo "delta_ok=false" >> "$GITHUB_OUTPUT"; exit 0; fi
-          echo "changed POIs: $(wc -l < _changed_pois.txt)"
-          echo "delta_ok=true" >> "$GITHUB_OUTPUT"
+          if [ "$rc" -eq 3 ]; then
+            echo "compute → FULL fallback (structural or unmappable change)"
+            echo "mode=full" >> "$GITHUB_OUTPUT"
+            echo "### POI HTML decision: FULL" >> "$GITHUB_STEP_SUMMARY"
+            echo "Structural, routing, sitemap, or unmappable change detected." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          if [ "$rc" -ne 0 ]; then
+            echo "compute error rc=$rc → FULL fallback"
+            echo "mode=full" >> "$GITHUB_OUTPUT"
+            echo "### POI HTML decision: FULL (classifier error)" >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          COUNT=$(wc -l < _changed_pois.txt)
+          MAX_DELTA_POIS=25000
+          if [ "$COUNT" -eq 0 ]; then
+            echo "No POI output changed → NONE (reuse)"
+            DECISION=none
+          elif [ "$COUNT" -gt "$MAX_DELTA_POIS" ] && [ "${{ github.event.inputs.poi_mode }}" != "delta" ]; then
+            echo "$COUNT POIs exceed delta limit $MAX_DELTA_POIS → FULL"
+            DECISION=full
+          else
+            echo "$COUNT changed POIs → DELTA"
+            DECISION=delta
+          fi
+          echo "mode=$DECISION" >> "$GITHUB_OUTPUT"
+          echo "### POI HTML decision: ${DECISION^^}" >> "$GITHUB_STEP_SUMMARY"
+          echo "Mapped POIs: $COUNT; delta limit: $MAX_DELTA_POIS." >> "$GITHUB_STEP_SUMMARY"
 
       - name: Generate POI HTML overlay (FULL — all 152K, overwrites Next POI pages)
-        if: steps.detect_poi.outputs.mode == 'full' || steps.delta.outputs.delta_ok == 'false'
+        if: steps.detect_poi.outputs.mode == 'full' || steps.delta.outputs.mode == 'full'
         env:
           OUT_DIR: out
           GEN_LIMIT: '0'
@@ -260,7 +277,7 @@ jobs:
         run: npx tsx scripts/generate-poi-html.mts
 
       - name: Generate POI HTML overlay (DELTA — reuse prev release + regen only changed)
-        if: steps.detect_poi.outputs.mode == 'delta' && steps.delta.outputs.delta_ok == 'true'
+        if: steps.detect_poi.outputs.mode == 'delta' && steps.delta.outputs.mode == 'delta'
         env:
           OUT_DIR: out
           GEN_LIMIT: '0'
@@ -276,7 +293,7 @@ jobs:
           npx tsx scripts/generate-poi-html.mts
 
       - name: Reuse POI HTMLs from current release (UI-only commit)
-        if: steps.detect_poi.outputs.mode == 'none'
+        if: steps.detect_poi.outputs.mode == 'none' || steps.delta.outputs.mode == 'none'
         shell: bash
         run: |
           set -euo pipefail
