@@ -1,15 +1,14 @@
 "use client";
 
-import React, { useState, useEffect, useCallback } from 'react';
-import { motion, AnimatePresence } from 'framer-motion';
-import { DragAndDropContainer, DragItem, DropZone } from '@/components/interactive/DragAndDropContainer';
-import LocalizedText, { LocalizedTextObject, Language } from '@/components/i18n/LocalizedText';
+import { useCallback, useEffect, useRef, useState } from "react";
+import { motion } from "framer-motion";
+import type { Language } from "@/components/i18n/LocalizedText";
 
 const DICTIONARY = {
-  en: { title: "Meteor Scale", score: "Score", gameOver: "Game Over", next: "Next", playAgain: "Play Again", tryAgain: "Try Again!" },
-  de: { title: "Meteor-Waage", score: "Punkte", gameOver: "Spiel vorbei", next: "Weiter", playAgain: "Nochmal spielen", tryAgain: "Versuch's nochmal!" },
-  hu: { title: "Meteor Mérleg", score: "Pontszám", gameOver: "Játék vége", next: "Tovább", playAgain: "Újra", tryAgain: "Próbáld újra!" },
-  ro: { title: "Balanța Meteorilor", score: "Scor", gameOver: "Joc Terminat", next: "Următorul", playAgain: "Joacă din nou", tryAgain: "Încearcă din nou!" }
+  en: { title: "Meteor Scale", score: "Score", gameOver: "Mission complete", next: "Continue", playAgain: "Play again", tryAgain: "Try again", choose: "Choose the missing number" },
+  de: { title: "Meteor-Waage", score: "Punkte", gameOver: "Mission geschafft", next: "Weiter", playAgain: "Nochmal spielen", tryAgain: "Versuch es nochmal", choose: "Wähle die fehlende Zahl" },
+  hu: { title: "Meteor Mérleg", score: "Pontszám", gameOver: "Küldetés teljesítve", next: "Tovább", playAgain: "Újra", tryAgain: "Próbáld újra", choose: "Válaszd ki a hiányzó számot" },
+  ro: { title: "Balanța Meteorilor", score: "Scor", gameOver: "Misiune finalizată", next: "Continuă", playAgain: "Joacă din nou", tryAgain: "Încearcă din nou", choose: "Alege numărul lipsă" },
 };
 
 interface MeteorScaleGameProps {
@@ -26,7 +25,15 @@ interface Problem {
   meteorValues: number[];
 }
 
-// This helper function can be kept as is.
+function shuffled<T>(values: T[]): T[] {
+  const result = [...values];
+  for (let i = result.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [result[i], result[j]] = [result[j], result[i]];
+  }
+  return result;
+}
+
 function generateProblem(grade: number): Problem {
   let leftDisplay = "";
   let rightPrefix = "";
@@ -36,234 +43,169 @@ function generateProblem(grade: number): Problem {
   if (grade <= 2) {
     targetValue = Math.floor(Math.random() * 9) + 1;
     const rightBase = Math.floor(Math.random() * (10 - targetValue));
-    const leftValue = rightBase + targetValue;
-    leftDisplay = leftValue.toString();
+    leftDisplay = String(rightBase + targetValue);
     rightPrefix = `${rightBase} + `;
   } else if (grade <= 4) {
-    const isSub = Math.random() > 0.5;
-    if (isSub) {
+    if (Math.random() > 0.5) {
       const leftValue = Math.floor(Math.random() * 20) + 10;
       targetValue = Math.floor(Math.random() * 20) + 5;
-      const a = leftValue + targetValue;
-      leftDisplay = leftValue.toString();
-      rightPrefix = `${a} - `;
+      leftDisplay = String(leftValue);
+      rightPrefix = `${leftValue + targetValue} − `;
     } else {
       targetValue = Math.floor(Math.random() * 20) + 10;
       const rightBase = Math.floor(Math.random() * 20) + 10;
-      const leftValue = rightBase + targetValue;
-      leftDisplay = leftValue.toString();
+      leftDisplay = String(rightBase + targetValue);
       rightPrefix = `${rightBase} + `;
     }
+  } else if (Math.random() > 0.5) {
+    const factor = Math.floor(Math.random() * 8) + 2;
+    targetValue = Math.floor(Math.random() * 8) + 2;
+    leftDisplay = String(factor * targetValue);
+    rightPrefix = `${factor} × `;
   } else {
-    const isMult = Math.random() > 0.5;
-    if (isMult) {
-      const a = Math.floor(Math.random() * 8) + 2;
-      targetValue = Math.floor(Math.random() * 8) + 2;
-      const leftValue = a * targetValue;
-      leftDisplay = leftValue.toString();
-      rightPrefix = `${a} × `;
-    } else {
-      const a = Math.floor(Math.random() * 5) + 2;
-      const leftValue = Math.floor(Math.random() * 10) + 2;
-      targetValue = a * leftValue;
-      leftDisplay = leftValue.toString();
-      rightSuffix = ` ÷ ${a}`;
-    }
+    const divisor = Math.floor(Math.random() * 5) + 2;
+    const leftValue = Math.floor(Math.random() * 10) + 2;
+    targetValue = divisor * leftValue;
+    leftDisplay = String(leftValue);
+    rightSuffix = ` ÷ ${divisor}`;
   }
 
   const meteorValues = [targetValue];
-  const numOptions = 4;
-  while (meteorValues.length < numOptions) {
-    const wrong = targetValue + Math.floor(Math.random() * 10) - 5;
-    if (wrong !== targetValue && wrong >= 0 && !meteorValues.includes(wrong)) {
-      meteorValues.push(wrong);
-    }
+  while (meteorValues.length < 4) {
+    const wrong = targetValue + Math.floor(Math.random() * 11) - 5;
+    if (wrong >= 0 && wrong !== targetValue && !meteorValues.includes(wrong)) meteorValues.push(wrong);
   }
-  meteorValues.sort(() => Math.random() - 0.5);
 
-  return { leftDisplay, rightPrefix, rightSuffix, targetValue, meteorValues };
+  return { leftDisplay, rightPrefix, rightSuffix, targetValue, meteorValues: shuffled(meteorValues) };
 }
 
-
 export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGameProps) {
-  const t = DICTIONARY[lang] || DICTIONARY.en;
-
-  const [problem, setProblem] = useState<Problem | null>(null);
-  const [score, setScore] = useState(0);
-  const [scaleStatus, setScaleStatus] = useState<'left-heavy' | 'balanced' | 'incorrect'>('left-heavy');
-  const [caughtMeteorValue, setCaughtMeteorValue] = useState<number | null>(null);
-  const [rounds, setRounds] = useState(0);
-  const [gamePhase, setGamePhase] = useState<'playing' | 'gameOver'>('playing');
-  const [feedback, setFeedback] = useState<string | null>(null);
-
+  const t = DICTIONARY[lang] ?? DICTIONARY.en;
   const maxRounds = grade <= 5 ? 3 : 3 + (grade - 5);
+  const [problem, setProblem] = useState<Problem>(() => generateProblem(grade));
+  const [score, setScore] = useState(0);
+  const [round, setRound] = useState(0);
+  const [phase, setPhase] = useState<"playing" | "complete">("playing");
+  const [status, setStatus] = useState<"idle" | "correct" | "wrong">("idle");
+  const [selected, setSelected] = useState<number | null>(null);
+  const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  const startRound = useCallback(() => {
-    if (rounds >= maxRounds) {
-      setGamePhase('gameOver');
+  const prepareRound = useCallback((roundIndex: number) => {
+    if (roundIndex >= maxRounds) {
+      setPhase("complete");
       return;
     }
-    const newProb = generateProblem(grade);
-    setProblem(newProb);
-    setScaleStatus('left-heavy');
-    setCaughtMeteorValue(null);
-    setFeedback(null);
-  }, [grade, rounds, maxRounds]);
+    setProblem(generateProblem(grade));
+    setSelected(null);
+    setStatus("idle");
+  }, [grade, maxRounds]);
 
-  const restart = useCallback(() => {
+  useEffect(() => () => {
+    if (timerRef.current) clearTimeout(timerRef.current);
+  }, []);
+
+  const restart = () => {
+    if (timerRef.current) clearTimeout(timerRef.current);
     setScore(0);
-    setRounds(0);
-    setProblem(null);
-    setGamePhase('playing');
-    setTimeout(() => startRound(), 0);
-  }, [startRound]);
+    setRound(0);
+    setPhase("playing");
+    prepareRound(0);
+  };
 
-  useEffect(() => {
-    startRound();
-  }, [startRound]);
-
-  const handleDrop = (item: DragItem<{ value: number }>, zone: DropZone) => {
-    if (scaleStatus === 'balanced' || !problem) return;
-
-    if (item.data?.value === problem.targetValue) {
-      setScore(s => s + 10);
-      setScaleStatus('balanced');
-      setCaughtMeteorValue(item.data.value);
-      setRounds(r => r + 1);
-      setTimeout(() => startRound(), 2500);
+  const chooseMeteor = (value: number) => {
+    if (phase !== "playing" || status !== "idle") return;
+    setSelected(value);
+    if (value === problem.targetValue) {
+      setStatus("correct");
+      setScore((current) => current + 10);
+      const nextRound = round + 1;
+      setRound(nextRound);
+      timerRef.current = setTimeout(() => prepareRound(nextRound), 1300);
     } else {
-      setScaleStatus('incorrect');
-      setFeedback(t.tryAgain);
-      // Revert back to left-heavy after a brief moment
-      setTimeout(() => {
-        setScaleStatus('left-heavy');
-        setFeedback(null);
-      }, 1500);
+      setStatus("wrong");
+      timerRef.current = setTimeout(() => {
+        setSelected(null);
+        setStatus("idle");
+      }, 850);
     }
   };
 
-  const scaleRotation = scaleStatus === 'balanced' ? 0 : scaleStatus === 'incorrect' ? 10 : -10;
-  
-  const meteorItems: DragItem<{ value: number }>[] = problem ? problem.meteorValues.map(v => ({
-    id: `meteor-${v}-${rounds}`, // Make ID unique per round
-    label: `${v}`,
-    data: { value: v }
-  })) : [];
-
-  const dropZones: DropZone[] = [{
-      id: 'scale-pan-right',
-      label: 'Right Scale Pan'
-  }];
-
+  const beamRotation = status === "correct" ? 0 : status === "wrong" ? 7 : -7;
 
   return (
-    <div className="flex flex-col items-center w-full max-w-4xl mx-auto p-2 sm:p-4 bg-slate-900 rounded-2xl shadow-2xl border border-slate-700 font-sans">
-      <div className="flex justify-between items-center gap-2 w-full mb-3 sm:mb-4 px-2 sm:px-4">
-        <h2 className="text-lg sm:text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-orange-400 to-yellow-300">
-          {t.title}
-        </h2>
-        <div className="text-sm sm:text-xl font-bold text-white bg-slate-800 px-3 sm:px-4 py-1 rounded-full border border-slate-600 whitespace-nowrap">
+    <div className="relative mx-auto w-full max-w-2xl overflow-hidden rounded-2xl border border-slate-700 bg-slate-950 p-3 text-white shadow-2xl sm:p-5">
+      <div className="mb-3 flex items-center justify-between gap-2">
+        <h2 className="text-xl font-black text-orange-400 sm:text-3xl">{t.title}</h2>
+        <div className="shrink-0 rounded-full border border-slate-600 bg-slate-800 px-3 py-1.5 text-sm font-bold sm:text-lg">
           {t.score}: <span className="text-orange-400">{score}</span>
         </div>
       </div>
 
-       <div className="relative w-full h-[calc(100dvh-7rem)] min-h-[430px] max-h-[600px] bg-slate-950 overflow-hidden rounded-xl border-2 border-slate-800 select-none">
-        <div className="absolute inset-0 opacity-40" style={{ backgroundImage: 'radial-gradient(circle, #fff 1.5px, transparent 1.5px)', backgroundSize: '40px 40px' }} />
-        <div className="absolute inset-0 opacity-20" style={{ backgroundImage: 'radial-gradient(circle, #67e8f9 1px, transparent 1px)', backgroundSize: '60px 60px', backgroundPosition: '20px 20px' }} />
+      <div className="rounded-xl border border-slate-800 bg-[#020617] p-3 sm:p-5">
+        <p className="mb-3 text-center text-xs font-bold uppercase tracking-widest text-slate-400">{t.choose}</p>
+        <div className="grid grid-cols-4 gap-2 sm:gap-3">
+          {problem.meteorValues.map((value) => {
+            const chosen = selected === value;
+            const stateClass = chosen && status === "correct"
+              ? "border-emerald-400 bg-emerald-700 shadow-emerald-500/30"
+              : chosen && status === "wrong"
+                ? "border-rose-400 bg-rose-800 shadow-rose-500/30"
+                : "border-orange-400 bg-orange-900 shadow-orange-500/20";
+            return (
+              <button
+                key={value}
+                type="button"
+                onClick={() => chooseMeteor(value)}
+                disabled={status !== "idle"}
+                className={`aspect-square min-h-14 rounded-full border-2 text-lg font-black shadow-lg transition active:scale-95 sm:text-2xl ${stateClass}`}
+              >
+                {value}
+              </button>
+            );
+          })}
+        </div>
 
-        {gamePhase === 'gameOver' && (
-           <motion.div
-            initial={{ opacity: 0, scale: 0.9 }}
-            animate={{ opacity: 1, scale: 1 }}
-            className="absolute inset-0 z-50 flex flex-col items-center justify-center bg-slate-950/85 backdrop-blur-sm"
-          >
-            <h1 className="text-3xl sm:text-5xl font-bold text-white mb-3 text-center drop-shadow-[0_0_10px_#f97316]">{t.gameOver}</h1>
-            <p className="text-3xl text-orange-400 font-bold mb-8">{t.score}: {score}</p>
-            <button
-              onClick={restart}
-              className="px-10 py-4 bg-gradient-to-r from-orange-600 to-yellow-500 hover:from-orange-500 hover:to-yellow-400 text-white font-black rounded-full text-xl uppercase tracking-wider transition-all hover:scale-105 active:scale-95 shadow-[0_0_20px_rgba(249,115,22,0.5)] mb-3"
-            >
-              {t.playAgain}
-            </button>
-            {onDone && <button onClick={() => onDone(score)} className="text-slate-400 hover:text-white uppercase text-sm tracking-wider font-bold transition-colors">{t.next}</button>}
-          </motion.div>
-        )}
-        
-        <DragAndDropContainer
-            items={caughtMeteorValue ? [] : meteorItems}
-            zones={dropZones}
-            onDrop={handleDrop}
-            className="w-full h-full"
-            renderItem={(item) => (
-                <motion.div 
-                    initial={{ opacity: 0, y: -100, scale: 0.5 }}
-                    animate={{ opacity: 1, y: 0, scale: 1, transition: { delay: Math.random() * 1 } }}
-                    exit={{ opacity: 0, scale: 0, transition: { duration: 0.3 } }}
-                    className="cursor-grab active:cursor-grabbing w-16 h-16 rounded-full flex items-center justify-center text-white text-2xl font-black shadow-[0_0_20px_#f97316] border-2 bg-orange-900 border-orange-400"
-                    whileDrag={{ zIndex: 50, scale: 1.2, boxShadow: '0 0 30px #f97316' }}
-                >
-                    {item.label}
-                </motion.div>
-            )}
-            renderZone={(zone, droppedItems, isHovering) => {
-                const panColor = scaleStatus === 'balanced' ? 'border-green-400' : scaleStatus === 'incorrect' ? 'border-red-500' : 'border-cyan-400';
-                const panShadow = scaleStatus === 'balanced' ? 'shadow-[0_15px_30px_rgba(74,222,128,0.4)]' : scaleStatus === 'incorrect' ? 'shadow-[0_15px_30px_rgba(239,68,68,0.4)]' : 'shadow-[0_15px_30px_rgba(34,211,238,0.3)]';
-
-                return (
-                    <div className={`w-24 sm:w-32 h-16 sm:h-20 rounded-b-full border-b-[6px] flex items-center justify-center bg-cyan-950/80 transition-all duration-300 ${panColor} ${panShadow} ${isHovering && 'bg-cyan-900 scale-105'}`}>
-                         <span className="text-white text-xl sm:text-2xl font-black flex items-center">
-                            {problem?.rightPrefix}
-                            {caughtMeteorValue !== null ? (
-                                <motion.span 
-                                    initial={{ scale: 3, opacity: 0 }} 
-                                    animate={{ scale: 1, opacity: 1 }} 
-                                    className="text-green-400 mx-1"
-                                >
-                                    {caughtMeteorValue}
-                                </motion.span>
-                            ) : (
-                                <span className="text-cyan-600/50 mx-1">?</span>
-                            )}
-                            {problem?.rightSuffix}
-                        </span>
-                        <AnimatePresence>
-                        {feedback && (
-                            <motion.div initial={{y: 20, opacity: 0}} animate={{y: 0, opacity: 1}} exit={{y: -20, opacity: 0}} className="absolute -bottom-10 text-red-500 font-bold text-lg">
-                                {feedback}
-                            </motion.div>
-                        )}
-                        </AnimatePresence>
-                    </div>
-                );
-            }}
-        />
-
-        <div className="absolute bottom-32 left-1/2 -translate-x-1/2 flex flex-col items-center z-0 pointer-events-none">
-          <motion.div 
-            animate={{ rotate: scaleRotation }} 
-            className="w-72 sm:w-96 h-3 sm:h-4 bg-cyan-400 rounded-full relative shadow-[0_0_15px_#22d3ee]"
-            transition={{ type: "spring", stiffness: 60, damping: 10 }}
-          >
-            {/* Left Pan */}
-            <div className="absolute -left-12 sm:-left-16 top-1 sm:top-2 flex flex-col items-center" style={{ width: '100px' }}>
-              <div className="w-1 h-20 sm:h-24 bg-cyan-400/80" />
-              <div className="w-24 sm:w-32 h-16 sm:h-20 rounded-b-full border-b-[6px] border-cyan-400 flex items-center justify-center bg-cyan-950/80 shadow-[0_15px_30px_rgba(34,211,238,0.3)]">
-                <span className="text-white text-2xl sm:text-3xl font-black">{problem?.leftDisplay}</span>
-              </div>
+        <div className="relative mx-auto mt-5 h-52 w-full max-w-lg overflow-hidden sm:h-60">
+          <motion.div
+            className="absolute left-[10%] right-[10%] top-[43%] h-3 origin-center rounded-full bg-cyan-400 shadow-[0_0_14px_#22d3ee]"
+            animate={{ rotate: beamRotation }}
+            transition={{ type: "spring", stiffness: 90, damping: 12 }}
+          />
+          <div className="absolute left-[4%] top-[49%] flex w-[38%] flex-col items-center">
+            <div className="h-14 w-px bg-cyan-400" />
+            <div className="flex h-16 w-full items-center justify-center rounded-b-full border-b-4 border-cyan-400 bg-cyan-950/90 text-2xl font-black">
+              {problem.leftDisplay}
             </div>
-            
-            {/* Right Pan - The actual DropZone is rendered by DragAndDropContainer, this is just a placeholder in the structure */}
-             <div className="absolute -right-12 sm:-right-16 top-1 sm:top-2 flex flex-col items-center" style={{ width: '100px' }}>
-                <div className="w-1 h-20 sm:h-24 bg-cyan-400/80" />
-                {/* The visual pan is rendered via renderZone */}
-             </div>
-          </motion.div>
+          </div>
+          <div className="absolute right-[4%] top-[49%] flex w-[38%] flex-col items-center">
+            <div className="h-14 w-px bg-cyan-400" />
+            <div className={`flex h-16 w-full items-center justify-center rounded-b-full border-b-4 bg-cyan-950/90 text-lg font-black sm:text-2xl ${status === "correct" ? "border-emerald-400" : status === "wrong" ? "border-rose-400" : "border-cyan-400"}`}>
+              {problem.rightPrefix}<span className="mx-1 text-orange-300">{selected ?? "?"}</span>{problem.rightSuffix}
+            </div>
+          </div>
+          <div className="absolute left-1/2 top-[43%] h-28 w-2 -translate-x-1/2 bg-cyan-700" />
+          <div className="absolute bottom-2 left-1/2 h-0 w-0 -translate-x-1/2 border-x-[30px] border-b-[55px] border-x-transparent border-b-cyan-700" />
+        </div>
 
-          {/* Scale Base */}
-          <div className="w-0 h-0 border-l-[20px] sm:border-l-[30px] border-l-transparent border-r-[20px] sm:border-r-[30px] border-r-transparent border-b-[50px] sm:border-b-[70px] border-b-cyan-600 drop-shadow-[0_0_20px_rgba(8,145,178,0.8)] -mt-1 z-10" />
-          <div className="w-24 sm:w-32 h-4 sm:h-6 bg-cyan-700 rounded-full mt-[-10px] sm:mt-[-15px] z-0 shadow-[0_5px_15px_rgba(0,0,0,0.5)]" />
+        <div className="mt-1 flex h-7 items-center justify-center text-center font-bold" aria-live="polite">
+          {status === "correct" && <span className="text-emerald-400">✓</span>}
+          {status === "wrong" && <span className="text-rose-400">{t.tryAgain}</span>}
+        </div>
+        <div className="mt-2 flex justify-center gap-2">
+          {Array.from({ length: maxRounds }).map((_, index) => (
+            <span key={index} className={`h-2 w-8 rounded-full ${index < round ? "bg-emerald-500" : index === round ? "bg-cyan-400" : "bg-slate-800"}`} />
+          ))}
         </div>
       </div>
+
+      {phase === "complete" && (
+        <div className="absolute inset-0 z-20 flex flex-col items-center justify-center bg-slate-950/95 p-6 text-center backdrop-blur-sm">
+          <h3 className="mb-2 text-3xl font-black text-orange-400">{t.gameOver}</h3>
+          <p className="mb-7 text-3xl font-bold">{t.score}: {score}</p>
+          <button type="button" onClick={restart} className="mb-4 rounded-full bg-orange-500 px-8 py-3 font-black text-white active:scale-95">{t.playAgain}</button>
+          {onDone && <button type="button" onClick={() => onDone(score)} className="font-bold text-slate-300">{t.next}</button>}
+        </div>
+      )}
     </div>
   );
 }

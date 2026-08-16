@@ -1,5 +1,5 @@
-import React, { useState, useRef, useMemo } from 'react';
-import { motion, AnimatePresence, useMotionValue, useTransform } from 'framer-motion';
+import React, { useEffect, useState, useRef, useMemo } from 'react';
+import { motion, AnimatePresence } from 'framer-motion';
 import { Language } from '@/components/i18n/LocalizedText';
 
 export interface StarMapperGameProps {
@@ -18,11 +18,13 @@ const DICT = {
     correct: "Target Destroyed!",
     wrong: "Missed!",
     start: "Start Mission",
-    currentPos: "Targeting",
+    currentPos: "Your position",
+    targetPos: "Find coordinate",
+    tapHint: "Tap the grid, then lock on",
     next: "Next Mission"
   },
   de: {
-    title: "Sternen-Mapper",
+    title: "Sternenkartograf",
     score: "Punkte",
     lockOn: "ZIELERFASSUNG",
     gameOver: "Spiel Beendet",
@@ -30,7 +32,9 @@ const DICT = {
     correct: "Ziel zerstört!",
     wrong: "Verfehlt!",
     start: "Mission starten",
-    currentPos: "Zielerfassung",
+    currentPos: "Deine Position",
+    targetPos: "Finde die Koordinate",
+    tapHint: "Tippe ins Raster, dann Ziel erfassen",
     next: "Nächste Mission"
   },
   hu: {
@@ -42,7 +46,9 @@ const DICT = {
     correct: "Találat!",
     wrong: "Mellé!",
     start: "Küldetés indítása",
-    currentPos: "Célzás",
+    currentPos: "Pozíciód",
+    targetPos: "Keresd meg a koordinátát",
+    tapHint: "Koppints a rácsra, majd rögzítsd",
     next: "Tovább"
   },
   ro: {
@@ -54,7 +60,9 @@ const DICT = {
     correct: "Țintă distrusă!",
     wrong: "Ratare!",
     start: "Start Misiune",
-    currentPos: "Țintire",
+    currentPos: "Poziția ta",
+    targetPos: "Găsește coordonata",
+    tapHint: "Atinge grila, apoi fixează",
     next: "Următoarea Misiune"
   }
 };
@@ -77,6 +85,13 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
   const [feedback, setFeedback] = useState<'correct' | 'wrong' | null>(null);
 
   const containerRef = useRef<HTMLDivElement>(null);
+  const nextTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const feedbackTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  useEffect(() => () => {
+    if (nextTimerRef.current) clearTimeout(nextTimerRef.current);
+    if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
+  }, []);
 
   // SVG Mapping logic
   const svgSize = 500;
@@ -112,6 +127,8 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
   };
 
   const startGame = () => {
+    if (nextTimerRef.current) clearTimeout(nextTimerRef.current);
+    if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
     setScore(0);
     setCorrectCount(0);
     setGameState('playing');
@@ -127,19 +144,28 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
       setCorrectCount(c => {
         const next = c + 1;
         if (next >= maxCorrect) {
-          setTimeout(() => {
+          nextTimerRef.current = setTimeout(() => {
             setGameState('end');
             if (onDone) onDone(score + 10);
           }, 1200);
         } else {
-          setTimeout(() => generateTarget(), 1000);
+          nextTimerRef.current = setTimeout(() => generateTarget(), 1000);
         }
         return next;
       });
     } else {
       setFeedback('wrong');
-      setTimeout(() => setFeedback(null), 1000);
+      if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
+      feedbackTimerRef.current = setTimeout(() => setFeedback(null), 1000);
     }
+  };
+
+  const setPositionFromPointer = (clientX: number, clientY: number) => {
+    if (gameState !== 'playing' || feedback || !containerRef.current) return;
+    const rect = containerRef.current.getBoundingClientRect();
+    const svgX = ((clientX - rect.left) / rect.width) * svgSize;
+    const svgY = ((clientY - rect.top) / rect.height) * svgSize;
+    setCurrentPos({ x: unmapX(svgX), y: unmapY(svgY) });
   };
 
   const xTicks = [];
@@ -151,7 +177,7 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
   const yAxisX = config.minX <= 0 && config.maxX >= 0 ? 0 : config.minX;
 
   return (
-    <div className="flex flex-col items-center justify-center w-full max-w-2xl mx-auto min-h-[calc(100dvh-2rem)] sm:min-h-[600px] bg-slate-900 rounded-2xl overflow-hidden shadow-2xl relative border border-slate-700 text-slate-100 font-sans p-3 sm:p-6 select-none">
+    <div className="flex flex-col items-center justify-center w-full max-w-2xl mx-auto min-h-[520px] sm:min-h-[600px] bg-slate-900 rounded-2xl overflow-hidden shadow-2xl relative border border-slate-700 text-slate-100 font-sans p-3 sm:p-6 select-none">
       
       {/* Background Effects */}
       <div className="absolute inset-0 pointer-events-none overflow-hidden opacity-30">
@@ -160,7 +186,7 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
       </div>
 
       <div className="z-10 w-full flex justify-between items-center mb-4">
-        <h2 className="text-2xl font-bold text-cyan-400 tracking-wider flex items-center gap-2">
+        <h2 className="text-lg sm:text-2xl font-bold text-cyan-400 tracking-wide sm:tracking-wider flex items-center gap-2">
           <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 10l-2 1m0 0l-2-1m2 1v2.5M20 7l-2 1m2-1l-2-1m2 1v2.5M14 4l-2-1-2 1M4 7l2-1M4 7l2 1M4 7v2.5M12 21l-2-1m2 1l2-1m-2 1v-2.5M6 18l-2-1v-2.5M18 18l2-1v-2.5" /></svg>
           {t.title}
         </h2>
@@ -191,10 +217,11 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
       )}
 
       {gameState === 'playing' && (
-        <div className="flex-1 w-full flex flex-col items-center z-10 gap-6">
-          <div 
+        <div className="flex-1 w-full flex flex-col items-center z-10 gap-3 sm:gap-6">
+          <div
             ref={containerRef}
             className="relative w-full aspect-square max-w-[420px] bg-slate-800/50 rounded-xl border border-slate-600 shadow-inner overflow-hidden touch-none"
+            onPointerDown={(event) => setPositionFromPointer(event.clientX, event.clientY)}
           >
             <svg viewBox={`0 0 ${svgSize} ${svgSize}`} className="w-full h-full">
               {/* Grid Lines */}
@@ -217,8 +244,9 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
                 <text key={`ty-${y}`} x={mapX(yAxisX) - 10} y={mapY(y) + 5} fill="#94a3b8" fontSize="14" textAnchor="end" fontWeight={y === 0 ? "bold" : "normal"}>{y}</text>
               ))}
 
-              {/* Target */}
+              {/* Reveal the target only after a correct coordinate choice. */}
               <AnimatePresence>
+                {feedback === 'correct' && (
                 <g key={`target-${target.x}-${target.y}`} transform={`translate(${mapX(target.x)}, ${mapY(target.y)})`}>
                   <motion.g
                     initial={{ scale: 0, opacity: 0 }}
@@ -231,6 +259,7 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
                     <polygon points="0,-10 3,-3 10,-3 4,2 7,9 0,5 -7,9 -4,2 -10,-3 -3,-3" fill="#fbbf24" style={{ filter: 'drop-shadow(0 0 6px #fbbf24)' }} />
                   </motion.g>
                 </g>
+                )}
 
                 {feedback === 'correct' && (
                   <g key="explosion" transform={`translate(${mapX(target.x)}, ${mapY(target.y)})`}>
@@ -245,37 +274,14 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
                 )}
               </AnimatePresence>
 
-              {/* The Crosshair Selector - Inside SVG, but absolute positioned for Drag */}
+              {/* Stable tap-to-place selector for touch screens. */}
               <motion.g
-                drag
-                dragConstraints={containerRef}
-                dragElastic={0}
-                dragMomentum={false}
-                onDrag={(e, info) => {
-                  if (containerRef.current) {
-                    const rect = containerRef.current.getBoundingClientRect();
-                    const x = info.point.x - rect.left;
-                    const y = info.point.y - rect.top;
-                    // Scale local container px to SVG coordinates (420px container vs 500px SVG)
-                    const svgX = (x / rect.width) * svgSize;
-                    const svgY = (y / rect.height) * svgSize;
-                    const gridX = unmapX(svgX);
-                    const gridY = unmapY(svgY);
-                    if (gridX !== currentPos.x || gridY !== currentPos.y) {
-                      setCurrentPos({ x: gridX, y: gridY });
-                    }
-                  }
-                }}
-                onDragEnd={() => {
-                   // Ensure it snaps visually to the integer position
-                }}
                 animate={{
                   x: mapX(currentPos.x),
                   y: mapY(currentPos.y)
                 }}
                 transition={{ type: 'spring', stiffness: 500, damping: 30 }}
-                style={{ cursor: 'grab' }}
-                whileDrag={{ scale: 1.2, cursor: 'grabbing' }}
+                style={{ pointerEvents: 'none' }}
               >
                 {/* Visual of the Crosshair */}
                 <circle r="20" fill="rgba(34, 211, 238, 0.1)" stroke="rgba(34, 211, 238, 0.5)" strokeWidth="1" />
@@ -294,8 +300,13 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
             </svg>
           </div>
 
-          <div className="w-full max-w-[400px] flex flex-col gap-4">
-            <div className="flex justify-between items-center bg-slate-800 p-4 rounded-xl border border-slate-700 shadow-lg">
+          <div className="w-full max-w-[400px] flex flex-col gap-2 sm:gap-4">
+            <div className="rounded-xl border border-amber-400/30 bg-amber-400/10 px-3 py-2 text-center">
+              <span className="block text-[10px] font-bold uppercase tracking-widest text-amber-200/70">{t.targetPos}</span>
+              <span className="text-2xl font-black font-mono text-amber-300">X: {target.x} &nbsp; Y: {target.y}</span>
+              <span className="block text-xs text-white/45">{t.tapHint}</span>
+            </div>
+            <div className="flex flex-col sm:flex-row sm:justify-between sm:items-center gap-3 bg-slate-800 p-3 sm:p-4 rounded-xl border border-slate-700 shadow-lg">
               <div className="flex flex-col">
                 <span className="text-slate-400 text-xs uppercase font-bold">{t.currentPos}</span>
                 <span className="text-2xl font-mono text-cyan-400">X: {currentPos.x} Y: {currentPos.y}</span>
@@ -303,7 +314,7 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
               <button 
                 onClick={handleSubmit}
                 disabled={!!feedback}
-                className="bg-cyan-600 hover:bg-cyan-500 disabled:bg-slate-700 disabled:text-slate-500 text-white font-bold py-3 px-8 rounded-lg transition-all shadow-lg hover:shadow-cyan-500/20 active:scale-95 h-[52px]"
+                className="w-full sm:w-auto bg-cyan-600 hover:bg-cyan-500 disabled:bg-slate-700 disabled:text-slate-500 text-white font-bold py-3 px-4 sm:px-8 rounded-lg transition-all shadow-lg hover:shadow-cyan-500/20 active:scale-95 min-h-[48px]"
               >
                 {t.lockOn}
               </button>
@@ -330,7 +341,7 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
 
       {gameState === 'end' && (
         <div className="flex-1 flex flex-col items-center justify-center z-10">
-          <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} className="text-center bg-slate-800 p-10 rounded-2xl border border-slate-700 shadow-[0_0_30px_rgba(0,0,0,0.5)]">
+          <motion.div initial={{ scale: 0.8, opacity: 0 }} animate={{ scale: 1, opacity: 1 }} className="text-center bg-slate-800 p-5 sm:p-10 rounded-2xl border border-slate-700 shadow-[0_0_30px_rgba(0,0,0,0.5)]">
             <h2 className="text-3xl font-bold text-slate-200 mb-2">{t.gameOver}</h2>
             <div className="text-5xl font-mono text-cyan-400 mb-8 drop-shadow-[0_0_10px_rgba(34,211,238,0.5)]">
               {score} {t.score}
