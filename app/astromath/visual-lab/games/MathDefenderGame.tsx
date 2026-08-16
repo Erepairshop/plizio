@@ -178,6 +178,7 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
   const frameRef = useRef<number | null>(null);
   const lastFrameRef = useRef<number>(0);
   const lossTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const fireLockedRef = useRef(false);
 
   // Difficulty scaling
   const spawnRate = Math.round((grade <= 2 ? 3800 : grade <= 4 ? 3200 : 2600) / difficulty.speedMultiplier);
@@ -191,6 +192,7 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
     setEnemies([]);
     setLasers([]);
     setInput("");
+    fireLockedRef.current = false;
     setPhase("playing");
   }, []);
 
@@ -231,8 +233,9 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
       const dt = Math.min(48, ts - last) / 1000;
       lastFrameRef.current = ts;
 
+      let damageQueued = false;
       setEnemies((prev) => {
-        let hitBottom = false;
+        let hitBottomCount = 0;
         const next = prev.map((e) => {
           if (e.state === "dying") {
             if (ts - e.stateAt > 600) return { ...e, state: "dead" as const };
@@ -243,22 +246,26 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
           const ny = e.y + e.vy * dt;
           const nr = e.rot + e.rotSpeed * dt;
           if (ny > 115) {
-            hitBottom = true;
+            hitBottomCount += 1;
             return { ...e, state: "dying" as const, stateAt: ts };
           }
           return { ...e, y: ny, rot: nr };
         });
 
-        if (hitBottom) {
-          setLives((l) => {
-            const nl = Math.max(0, l - 1);
-            if (nl <= 0) {
-              if (lossTimerRef.current) clearTimeout(lossTimerRef.current);
-              lossTimerRef.current = setTimeout(() => setPhase("lost"), 100);
-            }
-            return nl;
+        if (!damageQueued && hitBottomCount > 0) {
+          damageQueued = true;
+          queueMicrotask(() => {
+            for (let index = 0; index < hitBottomCount; index++) recordAnswer(false);
+            setLives((current) => {
+              const nextLives = Math.max(0, current - hitBottomCount);
+              if (nextLives <= 0) {
+                if (lossTimerRef.current) clearTimeout(lossTimerRef.current);
+                lossTimerRef.current = setTimeout(() => setPhase("lost"), 100);
+              }
+              return nextLives;
+            });
+            setShake(Date.now());
           });
-          setShake(Date.now());
         }
         return next.filter(e => e.state !== "dead");
       });
@@ -272,7 +279,7 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
       if (frameRef.current) cancelAnimationFrame(frameRef.current);
       lastFrameRef.current = 0;
     };
-  }, [phase]);
+  }, [phase, recordAnswer]);
 
   // Win condition
   useEffect(() => {
@@ -292,7 +299,9 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
   };
 
   const handleFire = () => {
-    if (!input || phase !== "playing") return;
+    if (!input || phase !== "playing" || fireLockedRef.current) return;
+    fireLockedRef.current = true;
+    queueMicrotask(() => { fireLockedRef.current = false; });
     const num = parseInt(input, 10);
     
     // Find the lowest enemy that matches the answer

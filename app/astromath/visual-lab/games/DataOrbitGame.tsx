@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useRef, useState } from "react";
 import { BarChart3, CheckCircle2, RotateCcw } from "lucide-react";
 import { MathLevelBar, useMathGameProgress, type MathDifficulty } from "@/components/visual-lab/MathGameProgress";
 
@@ -72,12 +72,12 @@ export default function DataOrbitGame({ grade, lang, onDone }: Props) {
   const [score, setScore] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [finished, setFinished] = useState(false);
+  const answerLockedRef = useRef(false);
   const question = useMemo(() => generateDataQuestion(grade, difficulty, lang), [grade, difficulty, lang, seed]);
   const maxValue = Math.max(...question.values, 1);
-  const correct = selected === question.answer;
-
   const choose = (answer: number) => {
-    if (selected !== null) return;
+    if (selected !== null || answerLockedRef.current) return;
+    answerLockedRef.current = true;
     setSelected(answer);
     recordAnswer(answer === question.answer);
     if (answer === question.answer) setScore(value => value + 10);
@@ -86,16 +86,17 @@ export default function DataOrbitGame({ grade, lang, onDone }: Props) {
   const next = () => {
     if (round >= difficulty.rounds) {
       setFinished(true);
-      onDone?.(score + (correct ? 10 : 0));
+      onDone?.(score);
       return;
     }
     setRound(value => value + 1);
     setSelected(null);
+    answerLockedRef.current = false;
     setSeed(value => value + 1);
   };
 
   const restart = () => {
-    setRound(1); setScore(0); setSelected(null); setFinished(false); setSeed(value => value + 1);
+    setRound(1); setScore(0); setSelected(null); setFinished(false); answerLockedRef.current = false; setSeed(value => value + 1);
   };
 
   const changeLevel = (level: 1 | 2 | 3 | 4 | 5) => {

@@ -107,6 +107,7 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
   
   const [phase, setPhase] = useState<'aiming' | 'firing' | 'result' | 'gameover'>('aiming');
   const fireTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const fireLockedRef = useRef(false);
 
   useEffect(() => () => {
     if (fireTimerRef.current) clearTimeout(fireTimerRef.current);
@@ -123,10 +124,12 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
     setTargetAngle(randomAngle);
     setCurrentAngle(0);
     setPhase('aiming');
+    fireLockedRef.current = false;
   };
 
   const handleFire = () => {
-    if (phase !== 'aiming') return;
+    if (phase !== 'aiming' || fireLockedRef.current) return;
+    fireLockedRef.current = true;
     setPhase('firing');
     if (fireTimerRef.current) clearTimeout(fireTimerRef.current);
     fireTimerRef.current = setTimeout(() => {
@@ -156,6 +159,7 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
   const resetGame = () => {
     if (fireTimerRef.current) clearTimeout(fireTimerRef.current);
     setScore(0);
+    fireLockedRef.current = false;
     if (round === 1) {
       generateProblem();
     } else {
@@ -170,6 +174,7 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
     setRound(1);
     setScore(0);
     setPhase('aiming');
+    fireLockedRef.current = false;
   };
 
   const asteroidX = 120 * Math.cos(targetAngle * Math.PI / 180);

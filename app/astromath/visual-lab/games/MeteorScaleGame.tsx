@@ -129,6 +129,7 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
   const [status, setStatus] = useState<"idle" | "correct" | "wrong">("idle");
   const [selected, setSelected] = useState<number | null>(null);
   const timerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const answerLockedRef = useRef(false);
 
   const prepareRound = useCallback((roundIndex: number) => {
     if (roundIndex >= maxRounds) {
@@ -138,6 +139,7 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
     setProblem(generateMeteorProblem(grade, difficultyFor(grade, levelRef.current)));
     setSelected(null);
     setStatus("idle");
+    answerLockedRef.current = false;
   }, [grade, levelRef, maxRounds]);
 
   useEffect(() => {
@@ -148,6 +150,7 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
     setProblem(generateMeteorProblem(grade, difficulty));
     setSelected(null);
     setStatus("idle");
+    answerLockedRef.current = false;
   }, [difficulty, grade]);
 
   useEffect(() => () => {
@@ -163,7 +166,8 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
   };
 
   const chooseMeteor = (value: number) => {
-    if (phase !== "playing" || status !== "idle") return;
+    if (phase !== "playing" || status !== "idle" || answerLockedRef.current) return;
+    answerLockedRef.current = true;
     setSelected(value);
     if (value === problem.targetValue) {
       recordAnswer(true);
@@ -178,6 +182,7 @@ export default function MeteorScaleGame({ grade, lang, onDone }: MeteorScaleGame
       timerRef.current = setTimeout(() => {
         setSelected(null);
         setStatus("idle");
+        answerLockedRef.current = false;
       }, 850);
     }
   };

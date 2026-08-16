@@ -134,6 +134,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
   const roundTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const endTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const feedbackTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const answerLockedRef = useRef(false);
 
   const T = DICT[lang] || DICT['en'];
   const maxRounds = difficulty.rounds;
@@ -192,6 +193,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
     setOptions(generateOptions(newTarget));
     setFeedback(null);
     setIsCorrectDrop(null);
+    answerLockedRef.current = false;
   }, [difficulty, grade, maxRounds, generateOptions]);
 
   const startGame = () => {
@@ -202,11 +204,13 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
     setLives(3);
     setRound(0);
     setStatus('playing');
+    answerLockedRef.current = false;
     startRound(0);
   };
 
   const handleDrop = (item: DragItem<Fraction>, zone: DropZone) => {
-    if (isCorrectDrop !== null) return;
+    if (isCorrectDrop !== null || answerLockedRef.current) return;
+    answerLockedRef.current = true;
 
     if (areEquivalent(item.data!, target)) {
       recordAnswer(true);
@@ -232,6 +236,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
       feedbackTimerRef.current = setTimeout(() => {
         setIsCorrectDrop(null);
         setFeedback(null);
+        answerLockedRef.current = false;
       }, 1500);
     }
   };

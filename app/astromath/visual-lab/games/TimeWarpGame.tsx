@@ -144,6 +144,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
   const maxCorrect = difficulty.rounds;
 
   const nextId = useRef(0);
+  const handledClockIdsRef = useRef<Set<number>>(new Set());
   const stateRef = useRef({ targetTime, gameOver, gameWon });
   const stars = useMemo(() => Array.from({ length: 50 }, (_, i) => ({
     size: `${(i % 3) + 1}px`,
@@ -216,7 +217,8 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
   }, []);
 
   const handleClockClick = (clock: ClockData) => {
-    if (gameOver) return;
+    if (gameOver || gameWon || handledClockIdsRef.current.has(clock.id)) return;
+    handledClockIdsRef.current.add(clock.id);
 
     if (clock.h === targetTime.h && clock.m === targetTime.m) {
       // Correct!
@@ -241,7 +243,8 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
   };
 
   const handleClockEscape = (clock: ClockData) => {
-    if (stateRef.current.gameOver || stateRef.current.gameWon) return;
+    if (stateRef.current.gameOver || stateRef.current.gameWon || handledClockIdsRef.current.has(clock.id)) return;
+    handledClockIdsRef.current.add(clock.id);
 
     // If the escaped clock was the correct target, it's game over
     if (clock.h === stateRef.current.targetTime.h && clock.m === stateRef.current.targetTime.m) {
@@ -258,6 +261,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
     setGameWon(false);
     setCorrectCount(0);
     setClocks([]);
+    handledClockIdsRef.current.clear();
     setGameStarted(true);
     generateNewTarget();
   };
@@ -267,6 +271,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
     setScore(0);
     setCorrectCount(0);
     setClocks([]);
+    handledClockIdsRef.current.clear();
     setGameOver(false);
     setGameWon(false);
     setGameStarted(false);

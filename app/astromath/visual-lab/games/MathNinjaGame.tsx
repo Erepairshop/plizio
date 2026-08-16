@@ -280,6 +280,13 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
   const frameRef = useRef<number | null>(null);
   const lastFrameRef = useRef<number>(0);
 
+  const loseLives = useCallback((count = 1) => {
+    if (count <= 0) return;
+    setLives((current) => Math.max(0, current - count));
+    setCombo(0);
+    setFlash("bad");
+  }, []);
+
   /* Start / restart */
   const start = useCallback(() => {
     const seed = Math.floor(Math.random() * 1000);
@@ -336,7 +343,10 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
       const dt = Math.min(48, ts - last) / 1000;
       lastFrameRef.current = ts;
 
+      let effectsQueued = false;
       setBlades((prev) => {
+        let missedTargets = 0;
+        let escapedPendingUid: number | null = null;
         const gravity = 85; // lower = higher arcs
         const next: Blade[] = [];
         for (const b of prev) {
@@ -352,14 +362,24 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
             // Off-screen: clear pending if this was the selected pair piece
             if (pool.rule.id === "sum-to") {
               if (pendingPairRef.current?.uid === b.uid) {
-                pendingPairRef.current = null;
+                escapedPendingUid = b.uid;
               }
             } else if (pool.rule.test(b.value)) {
-              scheduleLifeLoss();
+              missedTargets += 1;
             }
             continue;
           }
           next.push({ ...b, x: newX, y: newY, vy: newVy, rot: newRot });
+        }
+        if (!effectsQueued && (escapedPendingUid !== null || missedTargets > 0)) {
+          effectsQueued = true;
+          queueMicrotask(() => {
+            if (pendingPairRef.current?.uid === escapedPendingUid) pendingPairRef.current = null;
+            if (missedTargets > 0) {
+              for (let index = 0; index < missedTargets; index++) recordAnswer(false);
+              loseLives(missedTargets);
+            }
+          });
         }
         return next;
       });
@@ -373,7 +393,7 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
       lastFrameRef.current = 0;
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [phase, pool]);
+  }, [phase, pool, loseLives, recordAnswer]);
 
   /* Win / lose watchers */
   useEffect(() => {
@@ -410,12 +430,6 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
     return () => clearTimeout(timer);
   }, [lastComboText]);
 
-  const scheduleLifeLoss = useCallback(() => {
-    setLives((l) => Math.max(0, l - 1));
-    setCombo(0);
-    setFlash("bad");
-  }, []);
-
   /* Pointer → SVG coords */
   const toSvgCoords = (e: React.PointerEvent<SVGSVGElement>): { x: number; y: number } => {
     const svg = svgRef.current;
@@ -429,10 +443,13 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
 
   /* Slice logic */
   const slashHitTest = (pt: SlashPoint) => {
+    let resultQueued = false;
     setBlades((prev) => {
       let hitAnyCorrect = 0;
       let hitWrong = false;
       let partnerUid: number | null = null;
+      const initialPendingUid = pendingPairRef.current?.uid ?? null;
+      let pendingAfter = pendingPairRef.current;
 
       const next = prev.map((b) => {
         if (b.sliced) return b;
@@ -442,20 +459,20 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
           const rule = pool.rule;
           if (rule.id === "sum-to") {
             const target = rule.param ?? 0;
-            const partner = pendingPairRef.current;
+            const partner = pendingAfter;
             if (partner && partner.uid !== b.uid && partner.value + b.value === target) {
               // Match! Slice B and mark partner for second pass
               hitAnyCorrect++;
               partnerUid = partner.uid;
-              pendingPairRef.current = null;
+              pendingAfter = null;
               return { ...b, sliced: true, slicedAt: performance.now(), correct: true };
             } else if (b.pending) {
               // Tap pending again → deselect
-              pendingPairRef.current = null;
+              pendingAfter = null;
               return { ...b, pending: false };
             } else {
               // Select as first piece
-              pendingPairRef.current = b;
+              pendingAfter = b;
               return { ...b, pending: true };
             }
           } else {
@@ -482,32 +499,39 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
       // Only one number may remain selected for a sum pair. Without this
       // cleanup, tapping a non-matching second number left the old one glowing
       // while the new number became the actual pending partner.
-      const activePendingUid = pendingPairRef.current?.uid ?? null;
+      const activePendingUid = pendingAfter?.uid ?? null;
       for (let i = 0; i < next.length; i++) {
         if (next[i].pending && next[i].uid !== activePendingUid) {
           next[i] = { ...next[i], pending: false };
         }
       }
 
-      if (hitAnyCorrect > 0) {
-        for (let index = 0; index < hitAnyCorrect; index++) recordAnswer(true);
-        setCombo((c) => {
-          const newCombo = c + hitAnyCorrect;
-          if (newCombo >= 3) setLastComboText(`${newCombo}× ${t.combo}`);
-          return newCombo;
+      const pendingChanged = initialPendingUid !== activePendingUid;
+      if (!resultQueued && (hitAnyCorrect > 0 || hitWrong || pendingChanged)) {
+        resultQueued = true;
+        queueMicrotask(() => {
+          if (pendingChanged) pendingPairRef.current = pendingAfter;
+          if (hitAnyCorrect > 0) {
+            for (let index = 0; index < hitAnyCorrect; index++) recordAnswer(true);
+            setCombo((current) => {
+              const newCombo = current + hitAnyCorrect;
+              if (newCombo >= 3) setLastComboText(`${newCombo}× ${t.combo}`);
+              return newCombo;
+            });
+            setScore((current) => {
+              const bonus = Math.max(0, combo - 1) * 5;
+              const nextScore = current + hitAnyCorrect * 10 + bonus;
+              scoreRef.current = nextScore;
+              return nextScore;
+            });
+            setCorrectHits((current) => current + hitAnyCorrect);
+            setFlash("good");
+          }
+          if (hitWrong) {
+            recordAnswer(false);
+            loseLives(1);
+          }
         });
-        setScore((s) => {
-          const bonus = Math.max(0, combo - 1) * 5;
-          const next = s + hitAnyCorrect * 10 + bonus;
-          scoreRef.current = next;
-          return next;
-        });
-        setCorrectHits((h) => h + hitAnyCorrect);
-        setFlash("good");
-      }
-      if (hitWrong) {
-        recordAnswer(false);
-        scheduleLifeLoss();
       }
       return next;
     });

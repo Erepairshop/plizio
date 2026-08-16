@@ -88,6 +88,7 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
   const containerRef = useRef<HTMLDivElement>(null);
   const nextTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const feedbackTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const answerLockedRef = useRef(false);
 
   useEffect(() => () => {
     if (nextTimerRef.current) clearTimeout(nextTimerRef.current);
@@ -125,6 +126,7 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
     // Reset cursor to a starting position away from target or center
     setCurrentPos({ x: config.minX, y: config.minY });
     setFeedback(null);
+    answerLockedRef.current = false;
   };
 
   const startGame = () => {
@@ -132,12 +134,14 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
     if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
     setScore(0);
     setCorrectCount(0);
+    answerLockedRef.current = false;
     setGameState('playing');
     generateTarget();
   };
 
   const handleSubmit = () => {
-    if (gameState !== 'playing' || feedback) return;
+    if (gameState !== 'playing' || feedback || answerLockedRef.current) return;
+    answerLockedRef.current = true;
 
     if (currentPos.x === target.x && currentPos.y === target.y) {
       recordAnswer(true);
@@ -159,7 +163,10 @@ export default function StarMapperGame({ grade, lang, onDone }: StarMapperGamePr
       recordAnswer(false);
       setFeedback('wrong');
       if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
-      feedbackTimerRef.current = setTimeout(() => setFeedback(null), 1000);
+      feedbackTimerRef.current = setTimeout(() => {
+        setFeedback(null);
+        answerLockedRef.current = false;
+      }, 1000);
     }
   };
 
