@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback, useRef } from 'react';
+import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 export interface TimeWarpGameProps {
@@ -66,6 +66,15 @@ const AnalogClock = ({ hours, minutes, size = 100, onClick }: { hours: number; m
       height={size}
       viewBox={`0 0 ${size} ${size}`}
       onClick={onClick}
+      onKeyDown={(event) => {
+        if (event.key === 'Enter' || event.key === ' ') {
+          event.preventDefault();
+          onClick?.();
+        }
+      }}
+      role="button"
+      tabIndex={0}
+      aria-label={`${hours}:${minutes.toString().padStart(2, '0')}`}
       className="w-[88px] sm:w-[120px] h-auto cursor-pointer drop-shadow-[0_0_10px_rgba(79,209,197,0.6)] hover:drop-shadow-[0_0_20px_rgba(246,224,94,0.8)] transition-all"
     >
       <circle cx={center} cy={center} r={radius} fill="#111827" stroke="#06b6d4" strokeWidth="4" />
@@ -133,14 +142,23 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
   const maxCorrect = Math.max(1, grade); // K1=1, K8=8
 
   const nextId = useRef(0);
-  const stateRef = useRef({ targetTime, gameOver });
+  const stateRef = useRef({ targetTime, gameOver, gameWon });
+  const stars = useMemo(() => Array.from({ length: 50 }, (_, i) => ({
+    size: `${(i % 3) + 1}px`,
+    top: `${(i * 47) % 100}%`,
+    left: `${(i * 83) % 100}%`,
+    opacity: 0.2 + (i % 5) * 0.15,
+  })), []);
 
   useEffect(() => {
-    stateRef.current = { targetTime, gameOver };
-  }, [targetTime, gameOver]);
+    stateRef.current = { targetTime, gameOver, gameWon };
+  }, [targetTime, gameOver, gameWon]);
 
   const generateTime = useCallback(() => {
-    const h = Math.floor(Math.random() * 24);
+    // An analogue face cannot distinguish 1:00 from 13:00. Keeping the
+    // generated hours in the 1-12 range prevents visually identical clocks
+    // from being judged differently.
+    const h = Math.floor(Math.random() * 12) + 1;
     let m = 0;
     if (grade <= 2) {
       m = 0;
@@ -159,7 +177,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
   }, [generateTime]);
 
   const spawnClock = useCallback(() => {
-    if (stateRef.current.gameOver) return;
+    if (stateRef.current.gameOver || stateRef.current.gameWon) return;
 
     // 35% chance to spawn the correct target, otherwise random
     const isTarget = Math.random() < 0.35;
@@ -177,16 +195,16 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
       duration: Math.random() * 8 + 12, // 12 to 20 seconds crossing time
     };
 
-    setClocks(prev => [...prev, clock]);
+    setClocks(prev => prev.length >= 10 ? prev : [...prev, clock]);
   }, [generateTime]);
 
   useEffect(() => {
-    if (gameOver || !gameStarted) return;
+    if (gameOver || gameWon || !gameStarted) return;
     generateNewTarget();
-  }, [gameOver, gameStarted, generateNewTarget]);
+  }, [gameOver, gameWon, gameStarted, generateNewTarget]);
 
   useEffect(() => {
-    if (gameOver || !gameStarted) return;
+    if (gameOver || gameWon || !gameStarted) return;
     
     // Initial spawn
     spawnClock();
@@ -196,15 +214,12 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
     }, 2000); // spawn every 2 seconds
 
     return () => clearInterval(intervalId);
-  }, [spawnClock, gameOver, gameStarted]);
+  }, [spawnClock, gameOver, gameWon, gameStarted]);
 
   const handleGameOver = useCallback(() => {
     setGameOver(true);
     setClocks([]); // Clear screen
-    if (onDone) {
-      onDone(score);
-    }
-  }, [onDone, score]);
+  }, []);
 
   const handleClockClick = (clock: ClockData) => {
     if (gameOver) return;
@@ -217,6 +232,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
         const next = c + 1;
         if (next >= maxCorrect) {
           setGameWon(true);
+          setClocks([]);
         } else {
           generateNewTarget();
         }
@@ -229,7 +245,7 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
   };
 
   const handleClockEscape = (clock: ClockData) => {
-    if (stateRef.current.gameOver) return;
+    if (stateRef.current.gameOver || stateRef.current.gameWon) return;
 
     // If the escaped clock was the correct target, it's game over
     if (clock.h === stateRef.current.targetTime.h && clock.m === stateRef.current.targetTime.m) {
@@ -255,16 +271,16 @@ export default function TimeWarpGame({ grade, lang, onDone }: TimeWarpGameProps)
       
       {/* Background Starfield Effect */}
       <div className="absolute inset-0 opacity-20 pointer-events-none">
-        {[...Array(50)].map((_, i) => (
+        {stars.map((star, i) => (
           <div
             key={i}
             className="absolute bg-white rounded-full"
             style={{
-              width: Math.random() * 3 + 1 + 'px',
-              height: Math.random() * 3 + 1 + 'px',
-              top: Math.random() * 100 + '%',
-              left: Math.random() * 100 + '%',
-              opacity: Math.random(),
+              width: star.size,
+              height: star.size,
+              top: star.top,
+              left: star.left,
+              opacity: star.opacity,
             }}
           />
         ))}

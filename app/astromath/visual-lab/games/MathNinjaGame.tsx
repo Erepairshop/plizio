@@ -380,9 +380,8 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
   useEffect(() => {
     if (phase === "playing" && lives <= 0) {
       setPhase("lost");
-      onDone?.(scoreRef.current);
     }
-  }, [lives, phase, onDone]);
+  }, [lives, phase]);
 
   /* Combo decay */
   useEffect(() => {
@@ -471,6 +470,16 @@ export default function MathNinjaGame({ grade, lang, onDone }: Props) {
             hitAnyCorrect++;
             break;
           }
+        }
+      }
+
+      // Only one number may remain selected for a sum pair. Without this
+      // cleanup, tapping a non-matching second number left the old one glowing
+      // while the new number became the actual pending partner.
+      const activePendingUid = pendingPairRef.current?.uid ?? null;
+      for (let i = 0; i < next.length; i++) {
+        if (next[i].pending && next[i].uid !== activePendingUid) {
+          next[i] = { ...next[i], pending: false };
         }
       }
 

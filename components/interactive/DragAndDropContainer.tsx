@@ -87,7 +87,7 @@ export function DragAndDropContainer<T, U>({
 
   return (
     <div className={className}>
-      <div style={{ display: 'flex', gap: '16px', marginBottom: '16px' }}>
+      <div style={{ display: 'flex', flexWrap: 'wrap', justifyContent: 'center', gap: '12px', marginBottom: '16px' }}>
         {items.map(item => (
           <motion.div
             key={item.id}
@@ -103,7 +103,7 @@ export function DragAndDropContainer<T, U>({
         ))}
       </div>
 
-      <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap' }}>
+      <div style={{ display: 'flex', justifyContent: 'center', gap: '16px', flexWrap: 'wrap' }}>
         {zones.map(zone => (
           <div
             key={zone.id}

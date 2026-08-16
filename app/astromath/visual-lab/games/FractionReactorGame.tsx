@@ -1,9 +1,9 @@
 "use client";
 
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { DragAndDropContainer, DragItem, DropZone } from '@/components/interactive/DragAndDropContainer';
-import LocalizedText, { LocalizedTextObject, Language } from '@/components/i18n/LocalizedText';
+import { Language } from '@/components/i18n/LocalizedText';
 
 interface Props {
   grade: number;
@@ -95,7 +95,7 @@ const PieFraction = ({ num, den, size = 60 }: { num: number; den: number; size?:
   });
 
   return (
-    <svg width={size} height={size} viewBox="0 0 100 100" className="drop-shadow-[0_0_8px_rgba(56,189,248,0.8)]">
+    <svg width={size} height={size} viewBox="0 0 100 100" className="h-14 w-14 sm:h-20 sm:w-20 drop-shadow-[0_0_8px_rgba(56,189,248,0.8)]">
       <circle cx="50" cy="50" r={radius} fill="transparent" stroke="#1e293b" strokeWidth="48" />
       <circle cx="50" cy="50" r={radius} fill="transparent" stroke="#38bdf8" strokeWidth="48" strokeDasharray={`${fillLength} ${circumference}`} transform="rotate(-90 50 50)" />
       {lines}
@@ -110,7 +110,7 @@ const BarFraction = ({ num, den, size = 60 }: { num: number; den: number; size?:
   const blockHeight = height / den;
 
   return (
-    <svg width={size} height={size * 1.33} viewBox="0 0 100 100" className="drop-shadow-[0_0_8px_rgba(52,211,153,0.8)]">
+    <svg width={size} height={size * 1.33} viewBox="0 0 100 100" className="h-[74px] w-14 sm:h-[106px] sm:w-20 drop-shadow-[0_0_8px_rgba(52,211,153,0.8)]">
       <rect x="20" y="10" width={width} height={height} fill="#1e293b" stroke="#6ee7b7" strokeWidth="2" rx="4" />
       <rect x="20" y={10 + height - (num * blockHeight)} width={width} height={num * blockHeight} fill="#34d399" rx="2" />
       {Array.from({ length: den - 1 }).map((_, i) => (
@@ -129,9 +129,24 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
   const [round, setRound] = useState(0);
   const [feedback, setFeedback] = useState<string | null>(null);
   const [isCorrectDrop, setIsCorrectDrop] = useState<boolean | null>(null);
+  const roundTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const endTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const feedbackTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const T = DICT[lang] || DICT['en'];
   const maxRounds = grade <= 5 ? 5 : 5 + (grade - 5);
+  const stars = useMemo(() => Array.from({ length: 40 }, (_, i) => ({
+    top: `${(i * 47) % 100}%`,
+    left: `${(i * 83) % 100}%`,
+    size: `${(i % 3) + 1}px`,
+    opacity: 0.15 + (i % 5) * 0.1,
+  })), []);
+
+  useEffect(() => () => {
+    if (roundTimerRef.current) clearTimeout(roundTimerRef.current);
+    if (endTimerRef.current) clearTimeout(endTimerRef.current);
+    if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
+  }, []);
 
   const generateOptions = useCallback((targetFraction: Fraction) => {
     const newOptions: { fraction: Fraction; type: 'pie' | 'bar'; id: string }[] = [];
@@ -172,6 +187,9 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
   }, [grade, maxRounds, generateOptions]);
 
   const startGame = () => {
+    if (roundTimerRef.current) clearTimeout(roundTimerRef.current);
+    if (endTimerRef.current) clearTimeout(endTimerRef.current);
+    if (feedbackTimerRef.current) clearTimeout(feedbackTimerRef.current);
     setScore(0);
     setLives(3);
     setRound(0);
@@ -186,7 +204,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
       setScore(s => s + 10);
       setIsCorrectDrop(true);
       setFeedback(T.correct);
-      setTimeout(() => {
+      roundTimerRef.current = setTimeout(() => {
         const nextRound = round + 1;
         setRound(nextRound);
         startRound(nextRound);
@@ -197,11 +215,11 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
       setLives(l => {
         const next = l - 1;
         if (next <= 0) {
-          setTimeout(() => setStatus('gameover'), 1000);
+          endTimerRef.current = setTimeout(() => setStatus('gameover'), 1000);
         }
         return next;
       });
-      setTimeout(() => {
+      feedbackTimerRef.current = setTimeout(() => {
         setIsCorrectDrop(null);
         setFeedback(null);
       }, 1500);
@@ -223,13 +241,13 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
     <div className="relative w-full max-w-4xl mx-auto h-[calc(100dvh-2rem)] min-h-[520px] max-h-[650px] bg-slate-950 overflow-hidden border-2 border-slate-800 rounded-2xl shadow-2xl font-sans select-none">
       {/* Background stars */}
       <div className="absolute inset-0 pointer-events-none opacity-40">
-        {Array.from({ length: 40 }).map((_, i) => (
+        {stars.map((star, i) => (
           <div key={i} className="absolute bg-white rounded-full" style={{
-            top: `${Math.random() * 100}%`,
-            left: `${Math.random() * 100}%`,
-            width: `${Math.random() * 3 + 1}px`,
-            height: `${Math.random() * 3 + 1}px`,
-            opacity: Math.random() * 0.5 + 0.1
+            top: star.top,
+            left: star.left,
+            width: star.size,
+            height: star.size,
+            opacity: star.opacity,
           }} />
         ))}
       </div>
@@ -270,7 +288,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
               {T.start}
             </button>
             {onDone && (
-              <button onClick={() => onDone(score)} className="text-slate-400 hover:text-white uppercase text-sm tracking-wider font-bold mt-4 transition-colors">
+              <button onClick={() => onDone(0)} className="text-slate-400 hover:text-white uppercase text-sm tracking-wider font-bold mt-4 transition-colors">
                 {T.exit}
               </button>
             )}
@@ -305,7 +323,7 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
               {T.playAgain}
             </button>
             {onDone && (
-              <button onClick={() => onDone(score)} className="text-slate-400 hover:text-white uppercase text-sm tracking-wider font-bold mt-4 transition-colors">
+              <button onClick={() => onDone(0)} className="text-slate-400 hover:text-white uppercase text-sm tracking-wider font-bold mt-4 transition-colors">
                 {T.exit}
               </button>
             )}
@@ -324,13 +342,13 @@ export default function FractionReactorGame({ grade, lang, onDone }: Props) {
               const opt = options.find(o => o.id === item.id);
               if (!opt) return null;
               return (
-                <div className="bg-slate-900/50 p-3 rounded-2xl border border-slate-700/50 backdrop-blur-sm cursor-grab active:cursor-grabbing hover:border-cyan-500/50 transition-colors group">
+                <div className="bg-slate-900/50 p-2 sm:p-3 rounded-2xl border border-slate-700/50 backdrop-blur-sm cursor-grab active:cursor-grabbing hover:border-cyan-500/50 transition-colors group">
                   {opt.type === 'pie' ? (
                     <PieFraction num={opt.fraction.num} den={opt.fraction.den} size={80} />
                   ) : (
                     <BarFraction num={opt.fraction.num} den={opt.fraction.den} size={80} />
                   )}
-                  <div className="mt-2 text-center text-cyan-400 font-bold opacity-0 group-hover:opacity-100 transition-opacity">
+                  <div className="hidden sm:block mt-2 text-center text-cyan-400 font-bold opacity-0 group-hover:opacity-100 transition-opacity">
                     {opt.fraction.num}/{opt.fraction.den}
                   </div>
                 </div>

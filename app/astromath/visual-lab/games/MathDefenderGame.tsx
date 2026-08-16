@@ -156,6 +156,7 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
   const uidRef = useRef(1);
   const frameRef = useRef<number | null>(null);
   const lastFrameRef = useRef<number>(0);
+  const lossTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   // Difficulty scaling
   const spawnRate = grade <= 2 ? 3500 : grade <= 4 ? 2800 : 2000;
@@ -163,12 +164,17 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
   const WIN_SCORE = Math.max(5, grade) * 10; // min 5 helyes, K6+=grade×1
 
   const start = useCallback(() => {
+    if (lossTimerRef.current) clearTimeout(lossTimerRef.current);
     setScore(0);
     setLives(3);
     setEnemies([]);
     setLasers([]);
     setInput("");
     setPhase("playing");
+  }, []);
+
+  useEffect(() => () => {
+    if (lossTimerRef.current) clearTimeout(lossTimerRef.current);
   }, []);
 
   // Spawner
@@ -225,7 +231,10 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
         if (hitBottom) {
           setLives((l) => {
             const nl = Math.max(0, l - 1);
-            if (nl <= 0) setTimeout(() => setPhase("lost"), 100);
+            if (nl <= 0) {
+              if (lossTimerRef.current) clearTimeout(lossTimerRef.current);
+              lossTimerRef.current = setTimeout(() => setPhase("lost"), 100);
+            }
             return nl;
           });
           setShake(Date.now());
@@ -303,7 +312,7 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
   });
 
   return (
-    <div className="relative w-full max-w-2xl mx-auto flex flex-col gap-4">
+    <div className="relative w-full max-w-2xl mx-auto flex flex-col gap-2 sm:gap-4">
       {/* Viewport */}
       <motion.div
         className="relative rounded-[24px] border border-cyan-500/20 overflow-hidden shadow-2xl"
@@ -441,31 +450,31 @@ export default function MathDefenderGame({ grade, lang, onDone }: Props) {
       </motion.div>
 
       {/* Control Pad */}
-      <div className="grid grid-cols-3 gap-2 sm:gap-3 p-4 rounded-[24px] border border-white/5 bg-[#090e1a]">
+      <div className="grid grid-cols-3 gap-2 sm:gap-3 p-2 sm:p-4 rounded-[24px] border border-white/5 bg-[#090e1a]">
         {[1, 2, 3, 4, 5, 6, 7, 8, 9].map((n) => (
           <button
             key={n}
             onClick={() => handleInput(n.toString())}
-            className="h-14 sm:h-16 rounded-xl bg-white/5 hover:bg-white/10 active:bg-white/20 text-white font-bold text-2xl transition-colors border border-white/10"
+            className="h-12 sm:h-16 rounded-xl bg-white/5 hover:bg-white/10 active:bg-white/20 text-white font-bold text-xl sm:text-2xl transition-colors border border-white/10"
           >
             {n}
           </button>
         ))}
         <button
           onClick={handleDel}
-          className="h-14 sm:h-16 rounded-xl bg-rose-500/10 hover:bg-rose-500/20 active:bg-rose-500/30 text-rose-400 font-bold text-lg sm:text-xl transition-colors border border-rose-500/20"
+          className="h-12 sm:h-16 rounded-xl bg-rose-500/10 hover:bg-rose-500/20 active:bg-rose-500/30 text-rose-400 font-bold text-base sm:text-xl transition-colors border border-rose-500/20"
         >
           {t.del}
         </button>
         <button
           onClick={() => handleInput("0")}
-          className="h-14 sm:h-16 rounded-xl bg-white/5 hover:bg-white/10 active:bg-white/20 text-white font-bold text-2xl transition-colors border border-white/10"
+          className="h-12 sm:h-16 rounded-xl bg-white/5 hover:bg-white/10 active:bg-white/20 text-white font-bold text-xl sm:text-2xl transition-colors border border-white/10"
         >
           0
         </button>
         <button
           onClick={handleFire}
-          className="h-14 sm:h-16 rounded-xl bg-cyan-500/20 hover:bg-cyan-500/30 active:bg-cyan-500/40 text-cyan-300 font-black text-lg sm:text-xl transition-colors border border-cyan-500/30 shadow-[0_0_15px_rgba(34,211,238,0.1)]"
+          className="h-12 sm:h-16 rounded-xl bg-cyan-500/20 hover:bg-cyan-500/30 active:bg-cyan-500/40 text-cyan-300 font-black text-base sm:text-xl transition-colors border border-cyan-500/30 shadow-[0_0_15px_rgba(34,211,238,0.1)]"
         >
           {t.fire}
         </button>

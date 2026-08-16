@@ -1,8 +1,10 @@
 "use client";
 
 import { useState, useEffect } from "react";
+import dynamic from "next/dynamic";
 import { motion, AnimatePresence } from "framer-motion";
-import { X, Map, Landmark, Star } from "lucide-react";
+import { X, Puzzle, Landmark, Star } from "lucide-react";
+import VisualLabIcon from "./VisualLabIcon";
 import { shuffleDeterministic, useTimeoutRegistry } from "./astro-games/utils";
 import MeteorCatchGame from "@/app/astro-sachkunde/visual-lab/games/MeteorCatchGame";
 import OrbitSortGame from "@/app/astro-sachkunde/visual-lab/games/OrbitSortGame";
@@ -13,14 +15,14 @@ import SequenceSortGame from "@/app/astro-sachkunde/visual-lab/games/SequenceSor
 import FactSwipeGame from "@/app/astro-sachkunde/visual-lab/games/FactSwipeGame";
 
 // Astromath — single flagship game (for now)
-import MathCampaignGame from "@/app/astromath/visual-lab/games/MathCampaignGame";
-import MathNinjaGame from "@/app/astromath/visual-lab/games/MathNinjaGame";
-import MathDefenderGame from "@/app/astromath/visual-lab/games/MathDefenderGame";
-import FractionReactorGame from "@/app/astromath/visual-lab/games/FractionReactorGame";
-import AngleLaserGame from "@/app/astromath/visual-lab/games/AngleLaserGame";
-import TimeWarpGame from "@/app/astromath/visual-lab/games/TimeWarpGame";
-import StarMapperGame from "@/app/astromath/visual-lab/games/StarMapperGame";
-import MeteorScaleGame from "@/app/astromath/visual-lab/games/MeteorScaleGame";
+const MathCampaignGame = dynamic(() => import("@/app/astromath/visual-lab/games/MathCampaignGame"));
+const MathNinjaGame = dynamic(() => import("@/app/astromath/visual-lab/games/MathNinjaGame"));
+const MathDefenderGame = dynamic(() => import("@/app/astromath/visual-lab/games/MathDefenderGame"));
+const FractionReactorGame = dynamic(() => import("@/app/astromath/visual-lab/games/FractionReactorGame"));
+const AngleLaserGame = dynamic(() => import("@/app/astromath/visual-lab/games/AngleLaserGame"));
+const TimeWarpGame = dynamic(() => import("@/app/astromath/visual-lab/games/TimeWarpGame"));
+const StarMapperGame = dynamic(() => import("@/app/astromath/visual-lab/games/StarMapperGame"));
+const MeteorScaleGame = dynamic(() => import("@/app/astromath/visual-lab/games/MeteorScaleGame"));
 import GruselBuilderGame from "@/app/astromath/visual-lab/games/GruselBuilderGame";
 import BildGeschichteGame from "@/app/astromath/visual-lab/games/BildGeschichteGame";
 
@@ -93,7 +95,7 @@ interface VisualLabProps {
 const T: Record<Lang, Record<string, string>> = {
   de: {
     title: "Visual Lab",
-    subtitle: "Visuelle Lernspiele & Karten",
+    subtitle: "Interaktive Lernspiele",
     pickGame: "Spiel wählen",
     formulaBlitz: "Formel Blitz ⚡",
     meteorCatch: "Sternenfang",
@@ -121,7 +123,7 @@ const T: Record<Lang, Record<string, string>> = {
   },
   hu: {
     title: "Vizuális Labor",
-    subtitle: "Vizuális tanulójátékok és térképek",
+    subtitle: "Interaktív tanulójátékok",
     pickGame: "Válassz játékot",
     formulaBlitz: "Képlet Blitz ⚡",
     meteorCatch: "Csillagfogó",
@@ -137,7 +139,7 @@ const T: Record<Lang, Record<string, string>> = {
   },
   ro: {
     title: "Laborator Vizual",
-    subtitle: "Jocuri vizuale & hărți",
+    subtitle: "Jocuri educative interactive",
     pickGame: "Alege jocul",
     formulaBlitz: "Formula Blitz ⚡",
     meteorCatch: "Prinde meteorii",
@@ -165,7 +167,7 @@ const T: Record<Lang, Record<string, string>> = {
   },
   en: {
     title: "Visual Lab",
-    subtitle: "Visual learning games & maps",
+    subtitle: "Interactive learning games",
     pickGame: "Pick a game",
     formulaBlitz: "Formula Blitz ⚡",
     meteorCatch: "Meteor Catch",
@@ -182,7 +184,7 @@ const T: Record<Lang, Record<string, string>> = {
 };
 
 /* ------------------------------------------------------------------ */
-/* Subject → available maps                                            */
+/* Subject → available games                                           */
 /* ------------------------------------------------------------------ */
 
 const SUBJECT_GAMES: Record<VisualLabSubject, VisualLabGame[]> = {
@@ -427,7 +429,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
           aria-labelledby="visual-lab-title"
         >
           {/* Header */}
-          <header className="flex items-center justify-between px-4 py-3 border-b border-cyan-500/20">
+          <header className="flex items-center justify-between px-4 pt-[max(0.75rem,env(safe-area-inset-top))] pb-3 border-b border-cyan-500/20">
             <div className="flex items-center gap-3">
               <VisualLabIcon size={36} />
               <div>
@@ -447,7 +449,7 @@ function VisualLabInner({ subject, grade, lang, open, onClose }: VisualLabProps)
           </header>
 
           {/* Body */}
-          <div className="flex-1 min-h-0 overflow-y-auto px-4 py-6">
+          <div className="flex-1 min-h-0 overflow-y-auto px-3 sm:px-4 pt-4 sm:pt-6 pb-[max(1.5rem,env(safe-area-inset-bottom))]">
             {!activeGame ? (
               <GamePicker games={games} t={t} onPick={(id) => setActiveGame(id)} />
             ) : (
@@ -483,7 +485,7 @@ function gameIcon(type: VisualLabGameType, available: boolean) {
     case "campaign":
       return <Star size={22} className={cls} />;
     default:
-      return <Map size={22} className={cls} />;
+      return <Puzzle size={22} className={cls} />;
   }
 }
 
@@ -976,7 +978,7 @@ function GeschichteGameSwitch({
 function FallbackBox({ title, info }: { title: string; info: string }) {
   return (
     <div className="rounded-xl border border-cyan-500/30 bg-cyan-500/5 p-8 text-center">
-      <Map size={48} className="mx-auto text-cyan-300 mb-3 opacity-70" />
+      <Puzzle size={48} className="mx-auto text-cyan-300 mb-3 opacity-70" />
       <h2 className="text-white/90 text-xl font-semibold mb-1">{title}</h2>
       <p className="text-white/70 text-sm">{info}</p>
     </div>

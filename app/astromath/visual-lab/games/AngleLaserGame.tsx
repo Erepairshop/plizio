@@ -1,6 +1,6 @@
 "use client";
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 export interface AngleLaserGameProps {
@@ -61,10 +61,10 @@ const DICT = {
 };
 
 const getOptionsForGrade = (grade: number): number[] => {
-  if (grade <= 2) return [90, 180, 270, 360];
-  if (grade <= 4) return [45, 90, 135, 180, 225, 270, 315, 360];
+  if (grade <= 2) return [0, 90, 180, 270];
+  if (grade <= 4) return [0, 45, 90, 135, 180, 225, 270, 315];
   const opts: number[] = [];
-  for (let i = 10; i <= 360; i += 10) opts.push(i);
+  for (let i = 0; i < 360; i += 10) opts.push(i);
   return opts;
 };
 
@@ -113,6 +113,11 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
   const [currentAngle, setCurrentAngle] = useState(0);
   
   const [phase, setPhase] = useState<'aiming' | 'firing' | 'result' | 'gameover'>('aiming');
+  const fireTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  useEffect(() => () => {
+    if (fireTimerRef.current) clearTimeout(fireTimerRef.current);
+  }, []);
   
   useEffect(() => {
     generateProblem();
@@ -128,8 +133,10 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
   };
 
   const handleFire = () => {
+    if (phase !== 'aiming') return;
     setPhase('firing');
-    setTimeout(() => {
+    if (fireTimerRef.current) clearTimeout(fireTimerRef.current);
+    fireTimerRef.current = setTimeout(() => {
       setPhase('result');
       const hit = (currentAngle % 360) === (targetAngle % 360);
       if (hit) {
@@ -153,9 +160,14 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
   }, [phase, score, onDone]);
 
   const resetGame = () => {
-    setRound(1);
+    if (fireTimerRef.current) clearTimeout(fireTimerRef.current);
     setScore(0);
-    generateProblem();
+    if (round === 1) {
+      generateProblem();
+    } else {
+      setRound(1);
+      setPhase('aiming');
+    }
   };
 
   const asteroidX = 120 * Math.cos(targetAngle * Math.PI / 180);
@@ -163,7 +175,7 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
   const isHit = (currentAngle % 360) === (targetAngle % 360);
 
   return (
-    <div className="flex flex-col items-center w-full max-w-2xl mx-auto bg-slate-950 p-6 rounded-2xl border border-slate-800 shadow-2xl overflow-hidden font-sans select-none">
+    <div className="flex flex-col items-center w-full max-w-2xl mx-auto bg-slate-950 p-3 sm:p-6 rounded-2xl border border-slate-800 shadow-2xl overflow-hidden font-sans select-none">
       
       {/* Header Info */}
       <div className="w-full flex justify-between items-center mb-4">
@@ -172,8 +184,8 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
       </div>
 
       {/* Title & Target */}
-      <div className="text-center mb-6">
-        <h2 className="text-3xl font-black text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 uppercase tracking-widest drop-shadow-[0_0_10px_rgba(34,211,238,0.3)]">
+      <div className="text-center mb-4 sm:mb-6">
+        <h2 className="text-2xl sm:text-3xl font-black text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500 uppercase tracking-wider sm:tracking-widest drop-shadow-[0_0_10px_rgba(34,211,238,0.3)]">
           {t.title}
         </h2>
         <div className="h-8 mt-2">
@@ -248,7 +260,7 @@ export default function AngleLaserGame({ grade, lang, onDone }: AngleLaserGamePr
       </div>
 
       {/* Controls */}
-      <div className="w-full max-w-[320px] mt-8 min-h-[120px] flex flex-col items-center justify-center gap-4">
+      <div className="w-full max-w-[320px] mt-4 sm:mt-8 min-h-[110px] sm:min-h-[120px] flex flex-col items-center justify-center gap-4">
         {phase === 'aiming' ? (
           <>
             <div className="flex items-center gap-3 w-full">

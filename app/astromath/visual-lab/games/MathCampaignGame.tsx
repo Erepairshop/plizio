@@ -1,15 +1,16 @@
 "use client";
 
 import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import dynamic from "next/dynamic";
 import { AnimatePresence, motion } from "framer-motion";
 import { ArrowLeft, ArrowRight, Crown, Lock, RefreshCw, Sparkles, Star, Trophy, Zap } from "lucide-react";
-import MathNinjaGame from "./MathNinjaGame";
-import MathDefenderGame from "./MathDefenderGame";
-import FractionReactorGame from "./FractionReactorGame";
-import AngleLaserGame from "./AngleLaserGame";
-import TimeWarpGame from "./TimeWarpGame";
-import StarMapperGame from "./StarMapperGame";
-import MeteorScaleGame from "./MeteorScaleGame";
+const MathNinjaGame = dynamic(() => import("./MathNinjaGame"));
+const MathDefenderGame = dynamic(() => import("./MathDefenderGame"));
+const FractionReactorGame = dynamic(() => import("./FractionReactorGame"));
+const AngleLaserGame = dynamic(() => import("./AngleLaserGame"));
+const TimeWarpGame = dynamic(() => import("./TimeWarpGame"));
+const StarMapperGame = dynamic(() => import("./StarMapperGame"));
+const MeteorScaleGame = dynamic(() => import("./MeteorScaleGame"));
 
 type Lang = "de" | "hu" | "ro" | "en";
 type StageId = "orbit-forge" | "shield-grid" | "fraction-core" | "angle-lab" | "time-gate" | "star-map" | "balance-finale";
@@ -92,7 +93,12 @@ function loadSave(grade: number): SaveData {
   try { const r = window.localStorage.getItem(`${STORAGE_PREFIX}:g${grade}`); return r ? JSON.parse(r) : { stages: {} }; } catch { return { stages: {} }; }
 }
 function savePersist(grade: number, data: SaveData) {
-  if (typeof window !== "undefined") window.localStorage.setItem(`${STORAGE_PREFIX}:g${grade}`, JSON.stringify(data));
+  if (typeof window === "undefined") return;
+  try {
+    window.localStorage.setItem(`${STORAGE_PREFIX}:g${grade}`, JSON.stringify(data));
+  } catch {
+    // The campaign remains playable when storage is blocked.
+  }
 }
 function computeStars(stage: StageDef, grade: number, score: number) {
   if (score <= 0) return 0;
@@ -266,7 +272,7 @@ export default function MathCampaignGame({ grade, lang, onDone }: Props) {
             </div>
             <div className="rounded-xl bg-black/25 p-2">
               <Zap size={14} className="mx-auto text-cyan-300 mb-1" />
-              <p className="text-sm font-black text-white">{completedCount}/{STAGES.length}</p>
+              <p className="text-sm font-black text-white">{completedCount}/{stages.length}</p>
               <p className="text-[10px] text-white/40">{t.missions}</p>
             </div>
           </div>
